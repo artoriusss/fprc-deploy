@@ -110,13 +110,19 @@ const afterDrillUp = function (e) {
         },
 
         colorAxis: {
-            type: 'logarithmic',
-            allownegativeLog: false,
-            min: 0.0001,
-            minColor: '#f7fcb9', 
-            maxColor: '#31a354', 
+            minColor: '#FFFFFF', 
+            maxColor: '#00467E', 
+            stops: [
+                [0, '#FFFFFF'], 
+                [0.0001, '#fff5cc'],
+                [0.001, '#ffea99'],
+                [0.01, '#ffe580'], 
+                [0.1, '#4d7ea5'],
+                [0.65, '#6690b2'],
+                [0.7, '#336b98'],
+                [1, '#003158']
+            ]
         },
-
         mapView: {
             projection: {
                 name: 'LambertConformalConic'
