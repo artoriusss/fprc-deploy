@@ -26,13 +26,13 @@ const drilldown = async function (e) {
         data.forEach((d, i) => {
             d.value = i;
             if (isThirdLevel) {
-                d.value = d.properties['amount'];
+                d.value = d.properties['amount'] === 0 ? 0.0001 : d.properties['amount'];
             } else if (isSecondLevel) {
                 d.drilldown = d.properties['ADM3_PCODE']; 
-                d.value = d.properties['amount'];
+                d.value = d.properties['amount'] === 0 ? 0.0001 : d.properties['amount'];
             } else {
                 d.drilldown = d.properties['ADM2_PCODE']; 
-                d.value = d.properties['amount'];
+                d.value = d.properties['amount'] === 0 ? 0.0001 : d.properties['amount'];
             }
         });
 
@@ -92,7 +92,7 @@ const afterDrillUp = function (e) {
     // Set drilldown keys and bogus data for demonstration
     data.forEach((d, i) => {
         d.drilldown = d.properties.ADM1_PCODE;
-        d.value = d.properties['amount'];
+        d.value = d.properties['amount'] == 0 ? 0.0001 : d.properties['amount'];
     });
 
 
@@ -110,9 +110,11 @@ const afterDrillUp = function (e) {
         },
 
         colorAxis: {
-            min: 0,
-            minColor: '#E6E7E8',
-            maxColor: '#297500'
+            type: 'logarithmic',
+            allownegativeLog: false,
+            min: 0.0001,
+            minColor: '#f7fcb9', 
+            maxColor: '#31a354', 
         },
 
         mapView: {
