@@ -26,12 +26,13 @@ const drilldown = async function (e) {
         data.forEach((d, i) => {
             d.value = i;
             if (isThirdLevel) {
-                d.value = Math.floor(Math.random() * 100); 
+                d.value = d.properties['amount'];
             } else if (isSecondLevel) {
                 d.drilldown = d.properties['ADM3_PCODE']; 
-                d.value = Math.floor(Math.random() * 100); 
+                d.value = d.properties['amount'];
             } else {
                 d.drilldown = d.properties['ADM2_PCODE']; 
+                d.value = d.properties['amount'];
             }
         });
 
@@ -83,7 +84,7 @@ const afterDrillUp = function (e) {
 
 (async () => {
     // Fetch the top-level .geojson data for Ukraine
-    const response = await fetch('ua1-s-geo.geojson');
+    const response = await fetch('adm-levels/adm1-initial.geojson');
     const topology = await response.json();
 
     const data = Highcharts.geojson(topology);
@@ -91,7 +92,7 @@ const afterDrillUp = function (e) {
     // Set drilldown keys and bogus data for demonstration
     data.forEach((d, i) => {
         d.drilldown = d.properties.ADM1_PCODE;
-        d.value = Math.floor(Math.random() * 100);
+        d.value = d.properties['amount'];
     });
 
 
