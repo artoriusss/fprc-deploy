@@ -7,9 +7,12 @@ const drilldown = async function (e) {
 
         const isSecondLevel = e.point.drilldown.length > 4; 
         const isThirdLevel = e.point.drilldown.length > 6; 
+        const isFourthLevel = e.point.drilldown.length > 9;
 
         let mapKey = 'adm-levels/';
-        if (isThirdLevel) {
+        if (isFourthLevel) {
+            mapKey += `ua-adm5/${e.point.drilldown}.geojson`;
+        } else if (isThirdLevel) {
             mapKey += `ua-adm4/${e.point.drilldown}.geojson`;
         } else if (isSecondLevel) {
             mapKey += `ua-adm3/${e.point.drilldown}.geojson`;
@@ -25,7 +28,11 @@ const drilldown = async function (e) {
 
         data.forEach((d, i) => {
             d.value = i;
-            if (isThirdLevel) {
+            if (isFourthLevel) {
+                d.value = d.properties['amount'] === 0 ? 0.0001 : d.properties['amount'];
+            } 
+            else if (isThirdLevel) {
+                d.drilldown = d.properties['ADM4_PCODE']; 
                 d.value = d.properties['amount'] === 0 ? 0.0001 : d.properties['amount'];
             } else if (isSecondLevel) {
                 d.drilldown = d.properties['ADM3_PCODE']; 
@@ -39,15 +46,18 @@ const drilldown = async function (e) {
         chart.hideLoading();
 
         // Set the series name based on the drilldown level and the clicked point information
-        const seriesName = isThirdLevel
+        const seriesName = isFourthLevel
+            ? e.point.properties['ADM4_EN']
+            : isThirdLevel
             ? e.point.properties['ADM3_EN'] 
             : isSecondLevel
             ? e.point.properties['ADM2_EN'] 
             : e.point.properties['ADM1_EN']; 
         console.log('Series name:', seriesName);
 
-
-        if (isThirdLevel) {
+        if (isFourthLevel) {
+            breadcrumbNames = [seriesName];
+        } else if (isThirdLevel) {
             breadcrumbNames = [seriesName];
         } else if (isSecondLevel) {
             breadcrumbNames = [seriesName];
