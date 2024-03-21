@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.027603221612899999, "Shape_Area": 3.3282337349600001e-05, "ADM4_EN": "Zoriane", "ADM4_UA": "ÐÐ¾ÑÑÐ½Ðµ", "ADM4_RU": "ÐÐ¾ÑÑÐ½Ð¾Ðµ", "ADM4_PCODE": "UA5908013038", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykolaivska", "ADM3_UA": "ÐÐ¸ÐºÐ¾Ð»Ð°ÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¸ÐºÐ¾Ð»Ð°ÐµÐ²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5908013", "ADM2_EN": "Sumskyi", "ADM2_UA": "Ð¡ÑÐ¼ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¡ÑÐ¼ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Ð¡ÑÐ¼ÑÑÐºÐ°", "ADM1_RU": "Ð¡ÑÐ¼ÑÐºÐ°Ñ", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.486918, 50.984481 ], [ 34.485319999000069, 50.981928 ], [ 34.480258999000057, 50.983754 ], [ 34.482071, 50.986062 ], [ 34.480986, 50.986311 ], [ 34.484082, 50.990325 ], [ 34.486919, 50.989159 ], [ 34.486067001000038, 50.987782 ], [ 34.48532700100003, 50.986958 ], [ 34.485112001000061, 50.986534 ], [ 34.487389999000072, 50.98561 ], [ 34.486803, 50.984755 ], [ 34.486902001000033, 50.984693 ], [ 34.486918, 50.984481 ] ] ] } }
+]
+}

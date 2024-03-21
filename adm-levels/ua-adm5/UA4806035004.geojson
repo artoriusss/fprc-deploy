@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.047628913236100003, "Shape_Area": 0.000138636434, "ADM4_EN": "Blahodatne", "ADM4_UA": "ÐÐ»Ð°Ð³Ð¾Ð´Ð°ÑÐ½Ðµ", "ADM4_RU": "ÐÐ»Ð°Ð³Ð¾Ð´Ð°ÑÐ½Ð¾Ðµ", "ADM4_PCODE": "UA4806035004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chornomorska", "ADM3_UA": "Ð§Ð¾ÑÐ½Ð¾Ð¼Ð¾ÑÑÑÐºÐ°", "ADM3_RU": "Ð§ÐµÑÐ½Ð¾Ð¼Ð¾ÑÑÐºÐ°Ñ", "ADM3_PCODE": "UA4806035", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "ÐÐ¸ÐºÐ¾Ð»Ð°ÑÐ²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¸ÐºÐ¾Ð»Ð°ÐµÐ²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "ÐÐ¸ÐºÐ¾Ð»Ð°ÑÐ²ÑÑÐºÐ°", "ADM1_RU": "ÐÐ¸ÐºÐ¾Ð»Ð°ÐµÐ²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.698827081000047, 46.756805505000045 ], [ 31.691992636000066, 46.755870745000038 ], [ 31.689316933000043, 46.765956531000029 ], [ 31.695941727000047, 46.76701758400003 ], [ 31.70399188500005, 46.765852348000067 ], [ 31.704720504000079, 46.762333284000078 ], [ 31.705512024000029, 46.762256557000057 ], [ 31.706054207000079, 46.75870681300006 ], [ 31.698827081000047, 46.756805505000045 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.045344563805099998, "Shape_Area": 3.6244740141800002e-05, "ADM4_EN": "Nyzhnii Sukhodil", "ADM4_UA": "ÐÐ¸Ð¶Ð½ÑÐ¹ Ð¡ÑÑÐ¾Ð´ÑÐ»", "ADM4_RU": "ÐÐ¸Ð¶Ð½Ð¸Ð¹ Ð¡ÑÑÐ¾Ð´Ð¾Ð»", "ADM4_PCODE": "UA4412011011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sievierodonetska", "ADM3_UA": "Ð¡ÑÐ²ÑÑÐ¾Ð´Ð¾Ð½ÐµÑÑÐºÐ°", "ADM3_RU": "Ð¡ÐµÐ²ÐµÑÐ¾Ð´Ð¾Ð½ÐµÑÐºÐ°Ñ", "ADM3_PCODE": "UA4412011", "ADM2_EN": "Sievierodonetskyi", "ADM2_UA": "Ð¡ÑÐ²ÑÑÐ¾Ð´Ð¾Ð½ÐµÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¡ÐµÐ²ÐµÑÐ¾Ð´Ð¾Ð½ÐµÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA4412", "ADM1_EN": "Luhanska", "ADM1_UA": "ÐÑÐ³Ð°Ð½ÑÑÐºÐ°", "ADM1_RU": "ÐÑÐ³Ð°Ð½ÑÐºÐ°Ñ", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.746023, 49.003837 ], [ 38.744893999000055, 49.003097 ], [ 38.741002, 49.004438 ], [ 38.735043001000065, 49.006636 ], [ 38.733166001000029, 49.007335 ], [ 38.725275, 49.008375 ], [ 38.725413, 49.009263 ], [ 38.725569, 49.010252 ], [ 38.734349, 49.009098 ], [ 38.736158, 49.008355 ], [ 38.736413999000035, 49.008231 ], [ 38.741704, 49.005674 ], [ 38.746023, 49.003837 ] ] ] } }
+]
+}

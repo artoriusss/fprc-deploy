@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.018304959189800001, "Shape_Area": 7.0192423214099997e-06, "ADM4_EN": "Sokolove", "ADM4_UA": "Ð¡Ð¾ÐºÐ¾Ð»Ð¾Ð²Ðµ", "ADM4_RU": "Ð¡Ð¾ÐºÐ¾Ð»Ð¾Ð²Ð¾", "ADM4_PCODE": "UA1204009011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vilnohirska", "ADM3_UA": "ÐÑÐ»ÑÐ½Ð¾Ð³ÑÑÑÑÐºÐ°", "ADM3_RU": "ÐÐ¾Ð»ÑÐ½Ð¾Ð³Ð¾ÑÑÐºÐ°Ñ", "ADM3_PCODE": "UA1204009", "ADM2_EN": "Kamianskyi", "ADM2_UA": "ÐÐ°Ð¼âÑÐ½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ°Ð¼ÐµÐ½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "ÐÐ½ÑÐ¿ÑÐ¾Ð¿ÐµÑÑÐ¾Ð²ÑÑÐºÐ°", "ADM1_RU": "ÐÐ½ÐµÐ¿ÑÐ¾Ð¿ÐµÑÑÐ¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.946731001000046, 48.579887 ], [ 33.946257001000049, 48.579876 ], [ 33.946004, 48.580599 ], [ 33.951208, 48.581357 ], [ 33.954275, 48.581722 ], [ 33.954536, 48.580919 ], [ 33.951961001000029, 48.580575 ], [ 33.951463999000055, 48.58051 ], [ 33.946731001000046, 48.579887 ] ] ] } }
+]
+}

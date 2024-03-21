@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.024992290344299999, "Shape_Area": 2.99402311538e-05, "ADM4_EN": "Vivcharnia", "ADM4_UA": "ÐÑÐ²ÑÐ°ÑÐ½Ñ", "ADM4_RU": "ÐÐ²ÑÐ°ÑÐ½Ñ", "ADM4_PCODE": "UA0508009008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chernivetska", "ADM3_UA": "Ð§ÐµÑÐ½ÑÐ²ÐµÑÑÐºÐ°", "ADM3_RU": "Ð§ÐµÑÐ½ÐµÐ²ÐµÑÐºÐ°Ñ", "ADM3_PCODE": "UA0508009", "ADM2_EN": "Mohyliv-Podilskyi", "ADM2_UA": "ÐÐ¾Ð³Ð¸Ð»ÑÐ²-ÐÐ¾Ð´ÑÐ»ÑÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¾Ð³Ð¸Ð»ÐµÐ²-ÐÐ¾Ð´Ð¾Ð»ÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA0508", "ADM1_EN": "Vinnytska", "ADM1_UA": "ÐÑÐ½Ð½Ð¸ÑÑÐºÐ°", "ADM1_RU": "ÐÐ¸Ð½Ð½Ð¸ÑÐºÐ°Ñ", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.229615999000032, 48.547227 ], [ 28.228109, 48.547037 ], [ 28.227890999000067, 48.548139 ], [ 28.226179, 48.555233 ], [ 28.227727, 48.555265 ], [ 28.229303, 48.555262 ], [ 28.229173001000049, 48.553802 ], [ 28.233105, 48.548235 ], [ 28.232545999000024, 48.547944 ], [ 28.229615999000032, 48.547227 ] ] ] } }
+]
+}

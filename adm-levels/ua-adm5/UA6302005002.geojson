@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.024655729655799999, "Shape_Area": 1.32854221203e-05, "ADM4_EN": "Andriivka", "ADM4_UA": "ÐÐ½Ð´ÑÑÑÐ²ÐºÐ°", "ADM4_RU": "ÐÐ½Ð´ÑÐµÐµÐ²ÐºÐ°", "ADM4_PCODE": "UA6302005002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zolochivska", "ADM3_UA": "ÐÐ¾Ð»Ð¾ÑÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¾Ð»Ð¾ÑÐµÐ²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA6302005", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "ÐÐ¾Ð³Ð¾Ð´ÑÑÑÐ²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¾Ð³Ð¾Ð´ÑÑÐ¾Ð²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Ð¥Ð°ÑÐºÑÐ²ÑÑÐºÐ°", "ADM1_RU": "Ð¥Ð°ÑÑÐºÐ¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.985404001000063, 50.355472 ], [ 35.988211001000025, 50.354469 ], [ 35.989334, 50.354536 ], [ 35.989615001000061, 50.354401 ], [ 35.989909, 50.352777500000059 ], [ 35.994787, 50.351644 ], [ 35.994326999000066, 50.350566 ], [ 35.988731, 50.352054 ], [ 35.988312, 50.352773 ], [ 35.987189, 50.352887 ], [ 35.986875001000044, 50.353977 ], [ 35.984612, 50.354675 ], [ 35.985176, 50.355393 ], [ 35.985404001000063, 50.355472 ] ] ] } }
+]
+}

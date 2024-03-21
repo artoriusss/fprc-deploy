@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0257748483742, "Shape_Area": 1.9724782375600001e-05, "ADM4_EN": "Selisky", "ADM4_UA": "Ð¡ÐµÐ»ÑÑÐºÐ¸", "ADM4_RU": "Ð¡ÐµÐ»Ð¸ÑÐºÐ¸", "ADM4_PCODE": "UA0702021020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ustyluzka", "ADM3_UA": "Ð£ÑÑÐ¸Ð»ÑÐ·ÑÐºÐ°", "ADM3_RU": "Ð£ÑÑÐ¸Ð»ÑÐ³ÑÐºÐ°Ñ", "ADM3_PCODE": "UA0702021", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "ÐÐ¾Ð»Ð¾Ð´Ð¸Ð¼Ð¸ÑÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ»Ð°Ð´Ð¸Ð¼Ð¸ÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "ÐÐ¾Ð»Ð¸Ð½ÑÑÐºÐ°", "ADM1_RU": "ÐÐ¾Ð»ÑÐ½ÑÐºÐ°Ñ", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.238243184000055, 50.952848006000067 ], [ 24.246617182000023, 50.948138006000079 ], [ 24.244438183000057, 50.94818000600003 ], [ 24.244125183000051, 50.948195006000049 ], [ 24.242122183000049, 50.948249006000026 ], [ 24.235038184000075, 50.95228400600007 ], [ 24.235970183000063, 50.952890006000075 ], [ 24.236637182000038, 50.953240006000044 ], [ 24.238243184000055, 50.952848006000067 ] ] ] } }
+]
+}

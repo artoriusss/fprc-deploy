@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.026098447688100001, "Shape_Area": 3.8855968870300002e-05, "ADM4_EN": "Nadvyssia", "ADM4_UA": "ÐÐ°Ð´Ð²Ð¸ÑÑÑ", "ADM4_RU": "ÐÐ°Ð´Ð²Ð¸ÑÑÐµ", "ADM4_PCODE": "UA7102023005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mokrokalyhirska", "ADM3_UA": "ÐÐ¾ÐºÑÐ¾ÐºÐ°Ð»Ð¸Ð³ÑÑÑÑÐºÐ°", "ADM3_RU": "ÐÐ¾ÐºÑÐ¾ÐºÐ°Ð»Ð¸Ð³Ð¾ÑÑÐºÐ°Ñ", "ADM3_PCODE": "UA7102023", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "ÐÐ²ÐµÐ½Ð¸Ð³Ð¾ÑÐ¾Ð´ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ²ÐµÐ½Ð¸Ð³Ð¾ÑÐ¾Ð´ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Ð§ÐµÑÐºÐ°ÑÑÐºÐ°", "ADM1_RU": "Ð§ÐµÑÐºÐ°ÑÑÐºÐ°Ñ", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.311128999000061, 48.779974 ], [ 31.303625, 48.778094 ], [ 31.300717, 48.782495 ], [ 31.308311, 48.78441 ], [ 31.310642001000076, 48.780789 ], [ 31.311128999000061, 48.779974 ] ] ] } }
+]
+}

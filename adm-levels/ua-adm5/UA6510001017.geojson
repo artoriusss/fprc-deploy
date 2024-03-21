@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.015027421628499999, "Shape_Area": 1.1037641977599999e-05, "ADM4_EN": "Doslidne", "ADM4_UA": "ÐÐ¾ÑÐ»ÑÐ´Ð½Ðµ", "ADM4_RU": "ÐÐ¾ÑÐ»Ð¸Ð´Ð½Ð¾Ðµ", "ADM4_PCODE": "UA6510001017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilozerska", "ADM3_UA": "ÐÑÐ»Ð¾Ð·ÐµÑÑÑÐºÐ°", "ADM3_RU": "ÐÐµÐ»Ð¾Ð·ÐµÑÑÐºÐ°Ñ", "ADM3_PCODE": "UA6510001", "ADM2_EN": "Khersonskyi", "ADM2_UA": "Ð¥ÐµÑÑÐ¾Ð½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¥ÐµÑÑÐ¾Ð½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA6510", "ADM1_EN": "Khersonska", "ADM1_UA": "Ð¥ÐµÑÑÐ¾Ð½ÑÑÐºÐ°", "ADM1_RU": "Ð¥ÐµÑÑÐ¾Ð½ÑÐºÐ°Ñ", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.257211, 46.663031 ], [ 32.251979001000052, 46.662475 ], [ 32.251789, 46.663582 ], [ 32.251584001000026, 46.664418 ], [ 32.254779, 46.664758 ], [ 32.254701, 46.665254 ], [ 32.255951, 46.66538 ], [ 32.256349001000046, 46.665156 ], [ 32.256697001000077, 46.664829 ], [ 32.256944999000041, 46.664227 ], [ 32.257211, 46.663031 ] ] ] } }
+]
+}

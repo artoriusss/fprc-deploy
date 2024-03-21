@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.040439736837299997, "Shape_Area": 7.0514040695900002e-05, "ADM4_EN": "Novoblakytne", "ADM4_UA": "ÐÐ¾Ð²Ð¾Ð±Ð»Ð°ÐºÐ¸ÑÐ½Ðµ", "ADM4_RU": "ÐÐ¾Ð²Ð¾Ð±Ð»Ð°ÐºÐ¸ÑÐ½Ð¾Ðµ", "ADM4_PCODE": "UA4802007007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Volodymyrivska", "ADM3_UA": "ÐÐ¾Ð»Ð¾Ð´Ð¸Ð¼Ð¸ÑÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ»Ð°Ð´Ð¸Ð¼Ð¸ÑÐ¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA4802007", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "ÐÐ°ÑÑÐ°Ð½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ°ÑÑÐ°Ð½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "ÐÐ¸ÐºÐ¾Ð»Ð°ÑÐ²ÑÑÐºÐ°", "ADM1_RU": "ÐÐ¸ÐºÐ¾Ð»Ð°ÐµÐ²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.070108937000043, 47.595914639000057 ], [ 33.074858071000051, 47.596130970000047 ], [ 33.076302481000027, 47.580256159000044 ], [ 33.074227355000062, 47.580209926000066 ], [ 33.074052408000057, 47.580852565000043 ], [ 33.071823975000029, 47.581280830000026 ], [ 33.070675816000062, 47.590688217000036 ], [ 33.070457600000054, 47.59287716700004 ], [ 33.070108937000043, 47.595914639000057 ] ] ] } }
+]
+}

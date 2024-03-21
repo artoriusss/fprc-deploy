@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.036653966559200002, "Shape_Area": 6.4962112287300002e-05, "ADM4_EN": "Torske", "ADM4_UA": "Ð¢Ð¾ÑÑÑÐºÐµ", "ADM4_RU": "Ð¢Ð¾ÑÑÐºÐ¾Ðµ", "ADM4_PCODE": "UA1412003018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Druzhkivska", "ADM3_UA": "ÐÑÑÐ¶ÐºÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÑÑÐ¶ÐºÐ¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA1412003", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "ÐÑÐ°Ð¼Ð°ÑÐ¾ÑÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÑÐ°Ð¼Ð°ÑÐ¾ÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "ÐÐ¾Ð½ÐµÑÑÐºÐ°", "ADM1_RU": "ÐÐ¾Ð½ÐµÑÐºÐ°Ñ", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.425871, 48.55132 ], [ 37.424838, 48.544214 ], [ 37.421374998000033, 48.544358 ], [ 37.420345999000062, 48.540304 ], [ 37.418130001000065, 48.540529 ], [ 37.416782, 48.540637 ], [ 37.418493999000077, 48.548742 ], [ 37.418589999000062, 48.549188 ], [ 37.418955999000048, 48.551226 ], [ 37.42035099900005, 48.551181 ], [ 37.420429, 48.551755 ], [ 37.425871, 48.55132 ] ] ] } }
+]
+}

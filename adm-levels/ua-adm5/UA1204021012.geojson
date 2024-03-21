@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.022985699887299999, "Shape_Area": 2.6298153291300001e-05, "ADM4_EN": "Kasynivka", "ADM4_UA": "ÐÐ°ÑÐ¸Ð½ÑÐ²ÐºÐ°", "ADM4_RU": "ÐÐ°ÑÐ¸Ð½Ð¾Ð²ÐºÐ°", "ADM4_PCODE": "UA1204021012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Piatykhatska", "ADM3_UA": "Ð'ÑÑÐ¸ÑÐ°ÑÑÑÐºÐ°", "ADM3_RU": "ÐÑÑÐ¸ÑÐ°ÑÑÐºÐ°Ñ", "ADM3_PCODE": "UA1204021", "ADM2_EN": "Kamianskyi", "ADM2_UA": "ÐÐ°Ð¼âÑÐ½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ°Ð¼ÐµÐ½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "ÐÐ½ÑÐ¿ÑÐ¾Ð¿ÐµÑÑÐ¾Ð²ÑÑÐºÐ°", "ADM1_RU": "ÐÐ½ÐµÐ¿ÑÐ¾Ð¿ÐµÑÑÐ¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.799596999000073, 48.418534 ], [ 33.798677, 48.415601 ], [ 33.795088001000067, 48.416084 ], [ 33.791608, 48.416551 ], [ 33.790785, 48.42026 ], [ 33.791604, 48.420069 ], [ 33.799596999000073, 48.418534 ] ] ] } }
+]
+}

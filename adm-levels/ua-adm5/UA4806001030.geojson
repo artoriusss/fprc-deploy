@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.017766395797000002, "Shape_Area": 1.8790995601200001e-05, "ADM4_EN": "Shmidtivka", "ADM4_UA": "Ð¨Ð¼ÑÐ´ÑÑÐ²ÐºÐ°", "ADM4_RU": "Ð¨Ð¼Ð¸Ð´ÑÐ¾Ð²ÐºÐ°", "ADM4_PCODE": "UA4806001030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezanska", "ADM3_UA": "ÐÐµÑÐµÐ·Ð°Ð½ÑÑÐºÐ°", "ADM3_RU": "ÐÐµÑÐµÐ·Ð°Ð½ÑÐºÐ°Ñ", "ADM3_PCODE": "UA4806001", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "ÐÐ¸ÐºÐ¾Ð»Ð°ÑÐ²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¸ÐºÐ¾Ð»Ð°ÐµÐ²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "ÐÐ¸ÐºÐ¾Ð»Ð°ÑÐ²ÑÑÐºÐ°", "ADM1_RU": "ÐÐ¸ÐºÐ¾Ð»Ð°ÐµÐ²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.516058189000034, 46.785167403000059 ], [ 31.513176860000044, 46.785110960000054 ], [ 31.510738260000039, 46.786088413000073 ], [ 31.511185609000051, 46.787960238000039 ], [ 31.517288953000048, 46.788801119000027 ], [ 31.517353254000056, 46.786459929000046 ], [ 31.516058189000034, 46.785167403000059 ] ] ] } }
+]
+}

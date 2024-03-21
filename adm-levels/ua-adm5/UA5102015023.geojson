@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.022872763347099999, "Shape_Area": 2.7942967401200001e-05, "ADM4_EN": "Shyroke", "ADM4_UA": "Ð¨Ð¸ÑÐ¾ÐºÐµ", "ADM4_RU": "Ð¨Ð¸ÑÐ¾ÐºÐ¾Ðµ", "ADM4_PCODE": "UA5102015023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykolaivska", "ADM3_UA": "ÐÐ¸ÐºÐ¾Ð»Ð°ÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¸ÐºÐ¾Ð»Ð°ÐµÐ²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5102015", "ADM2_EN": "Berezivskyi", "ADM2_UA": "ÐÐµÑÐµÐ·ÑÐ²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐµÑÐµÐ·Ð¾Ð²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "ÐÐ´ÐµÑÑÐºÐ°", "ADM1_RU": "ÐÐ´ÐµÑÑÐºÐ°Ñ", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.632668, 47.490246 ], [ 30.63262300100007, 47.489593 ], [ 30.631862999000077, 47.489617 ], [ 30.631232, 47.489562 ], [ 30.631082, 47.489211 ], [ 30.630808001000048, 47.488786 ], [ 30.630351, 47.487885 ], [ 30.629986, 47.487347 ], [ 30.629591, 47.486994 ], [ 30.625358, 47.486705 ], [ 30.624693, 47.489244 ], [ 30.624151, 47.491248 ], [ 30.62780900100006, 47.491734 ], [ 30.63157, 47.49037 ], [ 30.631909, 47.490271 ], [ 30.632668, 47.490246 ] ] ] } }
+]
+}

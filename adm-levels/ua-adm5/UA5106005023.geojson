@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.032388703737700003, "Shape_Area": 3.7545011151499998e-05, "ADM4_EN": "Novosilka", "ADM4_UA": "ÐÐ¾Ð²Ð¾ÑÑÐ»ÐºÐ°", "ADM4_RU": "ÐÐ¾Ð²Ð¾ÑÐµÐ»ÐºÐ°", "ADM4_PCODE": "UA5106005023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Borodinska", "ADM3_UA": "ÐÐ¾ÑÐ¾Ð´ÑÐ½ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¾ÑÐ¾Ð´Ð¸Ð½ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5106005", "ADM2_EN": "Bolhradskyi", "ADM2_UA": "ÐÐ¾Ð»Ð³ÑÐ°Ð´ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¾Ð»Ð³ÑÐ°Ð´ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5106", "ADM1_EN": "Odeska", "ADM1_UA": "ÐÐ´ÐµÑÑÐºÐ°", "ADM1_RU": "ÐÐ´ÐµÑÑÐºÐ°Ñ", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 29.19692, 46.469431 ], [ 29.195733, 46.46874 ], [ 29.189506, 46.477325 ], [ 29.191151, 46.478165 ], [ 29.192831001000059, 46.478811 ], [ 29.19348, 46.479085 ], [ 29.196451, 46.474776 ], [ 29.197335001000056, 46.473744 ], [ 29.195742, 46.473553 ], [ 29.197742, 46.470004 ], [ 29.196756, 46.469655 ], [ 29.19692, 46.469431 ] ] ], [ [ [ 29.19937, 46.47459 ], [ 29.198725, 46.474223 ], [ 29.19835, 46.474538 ], [ 29.198995, 46.474905 ], [ 29.19937, 46.47459 ] ] ] ] } }
+]
+}

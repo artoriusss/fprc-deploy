@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.030783456894199999, "Shape_Area": 3.8071055349500003e-05, "ADM4_EN": "Brailivka", "ADM4_UA": "ÐÑÐ°ÑÐ»ÑÐ²ÐºÐ°", "ADM4_RU": "ÐÑÐ°Ð¸Ð»Ð¾Ð²ÐºÐ°", "ADM4_PCODE": "UA7304003004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kelmenetska", "ADM3_UA": "ÐÐµÐ»ÑÐ¼ÐµÐ½ÐµÑÑÐºÐ°", "ADM3_RU": "ÐÐµÐ»ÑÐ¼ÐµÐ½ÐµÑÐºÐ°Ñ", "ADM3_PCODE": "UA7304003", "ADM2_EN": "Dnistrovskyi", "ADM2_UA": "ÐÐ½ÑÑÑÑÐ¾Ð²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ½ÐµÑÑÑÐ¾Ð²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA7304", "ADM1_EN": "Chernivetska", "ADM1_UA": "Ð§ÐµÑÐ½ÑÐ²ÐµÑÑÐºÐ°", "ADM1_RU": "Ð§ÐµÑÐ½Ð¾Ð²Ð¸ÑÐºÐ°Ñ", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.912546, 48.384009 ], [ 26.911159, 48.382887 ], [ 26.909957, 48.383625 ], [ 26.906026, 48.385627 ], [ 26.904052, 48.386515 ], [ 26.900914, 48.388236 ], [ 26.89991800100006, 48.388686 ], [ 26.901201, 48.389855 ], [ 26.901860001000045, 48.390349 ], [ 26.902367, 48.39081 ], [ 26.902569, 48.39072 ], [ 26.908508, 48.388054 ], [ 26.909891999000024, 48.387323 ], [ 26.911856, 48.385327 ], [ 26.912953, 48.384346 ], [ 26.912546, 48.384009 ] ] ] } }
+]
+}

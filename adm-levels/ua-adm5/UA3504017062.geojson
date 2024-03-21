@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0118056365473, "Shape_Area": 7.89774947598e-06, "ADM4_EN": "Udarne", "ADM4_UA": "Ð£Ð´Ð°ÑÐ½Ðµ", "ADM4_RU": "Ð£Ð´Ð°ÑÐ½Ð¾Ðµ", "ADM4_PCODE": "UA3504017062", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ketrysanivska", "ADM3_UA": "ÐÐµÑÑÐ¸ÑÐ°Ð½ÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐµÑÑÐ¸ÑÐ°Ð½Ð¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA3504017", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "ÐÑÐ¾Ð¿Ð¸Ð²Ð½Ð¸ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÑÐ¾Ð¿Ð¸Ð²Ð½Ð¸ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "ÐÑÑÐ¾Ð²Ð¾Ð³ÑÐ°Ð´ÑÑÐºÐ°", "ADM1_RU": "ÐÐ¸ÑÐ¾Ð²Ð¾Ð³ÑÐ°Ð´ÑÐºÐ°Ñ", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.136436999000068, 47.782876 ], [ 32.136532999000053, 47.782489 ], [ 32.137433, 47.782644 ], [ 32.138151, 47.780657 ], [ 32.137108001000058, 47.780482 ], [ 32.136038001000031, 47.780361 ], [ 32.134694, 47.780208 ], [ 32.134409, 47.78145 ], [ 32.13405, 47.782614 ], [ 32.135394999000027, 47.782749999000032 ], [ 32.136436999000068, 47.782876 ] ] ] } }
+]
+}

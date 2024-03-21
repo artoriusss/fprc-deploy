@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0282090259322, "Shape_Area": 2.12403676239e-05, "ADM4_EN": "Zarichne", "ADM4_UA": "ÐÐ°ÑÑÑÐ½Ðµ", "ADM4_RU": "ÐÐ°ÑÐµÑÐ½Ð¾Ðµ", "ADM4_PCODE": "UA4402005022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kadiivska", "ADM3_UA": "ÐÐ°Ð´ÑÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ°Ð´Ð¸ÐµÐ²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA4402005", "ADM2_EN": "Alchevskyi", "ADM2_UA": "ÐÐ»ÑÐµÐ²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ»ÑÐµÐ²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA4402", "ADM1_EN": "Luhanska", "ADM1_UA": "ÐÑÐ³Ð°Ð½ÑÑÐºÐ°", "ADM1_RU": "ÐÑÐ³Ð°Ð½ÑÐºÐ°Ñ", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.729097999000032, 48.613467 ], [ 38.728487, 48.613378 ], [ 38.72738600100007, 48.613986 ], [ 38.729714001000048, 48.617041 ], [ 38.73243, 48.618691 ], [ 38.736624999000071, 48.621947 ], [ 38.736777, 48.621958 ], [ 38.738335, 48.621069 ], [ 38.737469001000079, 48.620339 ], [ 38.732918, 48.617038 ], [ 38.73178099900008, 48.616489 ], [ 38.729097999000032, 48.613467 ] ] ] } }
+]
+}

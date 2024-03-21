@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.018392472517500001, "Shape_Area": 1.7179660404800001e-05, "ADM4_EN": "Rozivka", "ADM4_UA": "Ð Ð¾Ð·ÑÐ²ÐºÐ°", "ADM4_RU": "Ð Ð¾Ð·Ð¾Ð²ÐºÐ°", "ADM4_PCODE": "UA7410017013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kiptivska", "ADM3_UA": "ÐÑÐ¿ÑÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¾Ð¿ÑÐµÐ²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA7410017", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Ð§ÐµÑÐ½ÑÐ³ÑÐ²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð§ÐµÑÐ½Ð¸Ð³Ð¾Ð²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Ð§ÐµÑÐ½ÑÐ³ÑÐ²ÑÑÐºÐ°", "ADM1_RU": "Ð§ÐµÑÐ½Ð¸Ð³Ð¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.283956800000055, 51.079744980000044 ], [ 31.282937999000069, 51.079030020000062 ], [ 31.277480040000057, 51.082147080000027 ], [ 31.278553200000033, 51.083006940000075 ], [ 31.278209040000036, 51.083580060000031 ], [ 31.281001201000038, 51.084009 ], [ 31.284577080000076, 51.080198940000059 ], [ 31.283956800000055, 51.079744980000044 ] ] ] } }
+]
+}

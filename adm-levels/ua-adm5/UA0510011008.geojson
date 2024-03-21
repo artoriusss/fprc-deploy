@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.033228815729699997, "Shape_Area": 3.7413958044100001e-05, "ADM4_EN": "Kalynivka", "ADM4_UA": "ÐÐ°Ð»Ð¸Ð½ÑÐ²ÐºÐ°", "ADM4_RU": "ÐÐ°Ð»Ð¸Ð½Ð¾Ð²ÐºÐ°", "ADM4_PCODE": "UA0510011008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Studenianska", "ADM3_UA": "Ð¡ÑÑÐ´ÐµÐ½ÑÐ½ÑÑÐºÐ°", "ADM3_RU": "Ð¡ÑÑÐ´ÐµÐ½ÑÐ½ÑÐºÐ°Ñ", "ADM3_PCODE": "UA0510011", "ADM2_EN": "Tulchynskyi", "ADM2_UA": "Ð¢ÑÐ»ÑÑÐ¸Ð½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¢ÑÐ»ÑÑÐ¸Ð½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA0510", "ADM1_EN": "Vinnytska", "ADM1_UA": "ÐÑÐ½Ð½Ð¸ÑÑÐºÐ°", "ADM1_RU": "ÐÐ¸Ð½Ð½Ð¸ÑÐºÐ°Ñ", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.656051, 48.219121 ], [ 28.65699, 48.215682 ], [ 28.658134, 48.215794 ], [ 28.658453, 48.214063 ], [ 28.657494001000032, 48.213973 ], [ 28.65746, 48.212726 ], [ 28.655492001000027, 48.214142 ], [ 28.652701, 48.213975 ], [ 28.652248, 48.215863 ], [ 28.650919, 48.215875 ], [ 28.649052, 48.214931 ], [ 28.647707, 48.215313 ], [ 28.647573, 48.216258 ], [ 28.649019, 48.215976 ], [ 28.648718, 48.218752 ], [ 28.656051, 48.219121 ] ] ] } }
+]
+}

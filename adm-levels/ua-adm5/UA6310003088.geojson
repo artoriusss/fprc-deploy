@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.032720671846700002, "Shape_Area": 3.6610462757900003e-05, "ADM4_EN": "Tymofiivka", "ADM4_UA": "Ð¢Ð¸Ð¼Ð¾ÑÑÑÐ²ÐºÐ°", "ADM4_RU": "Ð¢Ð¸Ð¼Ð¾ÑÐµÐµÐ²ÐºÐ°", "ADM4_PCODE": "UA6310003088", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Blyzniukivska", "ADM3_UA": "ÐÐ»Ð¸Ð·Ð½ÑÐºÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ»Ð¸Ð·Ð½ÑÐºÐ¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA6310003", "ADM2_EN": "Lozivskyi", "ADM2_UA": "ÐÐ¾Ð·ÑÐ²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¾Ð·Ð¾Ð²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA6310", "ADM1_EN": "Kharkivska", "ADM1_UA": "Ð¥Ð°ÑÐºÑÐ²ÑÑÐºÐ°", "ADM1_RU": "Ð¥Ð°ÑÑÐºÐ¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.384734, 48.667789 ], [ 36.382902, 48.666868 ], [ 36.380255999000042, 48.666891 ], [ 36.379067999000029, 48.667925 ], [ 36.379102, 48.66806 ], [ 36.380714, 48.668599 ], [ 36.384174999000038, 48.670295 ], [ 36.389671, 48.67244 ], [ 36.392098, 48.673575 ], [ 36.393522001000065, 48.672552 ], [ 36.393013, 48.671485 ], [ 36.392147, 48.670788 ], [ 36.391214, 48.670148 ], [ 36.386159001000067, 48.667801 ], [ 36.384734, 48.667789 ] ] ] } }
+]
+}

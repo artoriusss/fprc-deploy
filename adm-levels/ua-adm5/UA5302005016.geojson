@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.047697288820600002, "Shape_Area": 8.0006884628399999e-05, "ADM4_EN": "Lizky", "ADM4_UA": "ÐÑÐ·ÐºÐ¸", "ADM4_RU": "ÐÐ¾Ð·ÐºÐ¸", "ADM4_PCODE": "UA5302005016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hradyzka", "ADM3_UA": "ÐÑÐ°Ð´Ð¸Ð·ÑÐºÐ°", "ADM3_RU": "ÐÑÐ°Ð´Ð¸Ð¶ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5302005", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "ÐÑÐµÐ¼ÐµÐ½ÑÑÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÑÐµÐ¼ÐµÐ½ÑÑÐ³ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "ÐÐ¾Ð»ÑÐ°Ð²ÑÑÐºÐ°", "ADM1_RU": "ÐÐ¾Ð»ÑÐ°Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.178959, 49.235247 ], [ 33.176353, 49.235055 ], [ 33.176457, 49.240301 ], [ 33.182362, 49.240367 ], [ 33.184978, 49.2404 ], [ 33.184912999000062, 49.243205 ], [ 33.18755599900004, 49.243238 ], [ 33.187845, 49.23868 ], [ 33.192512, 49.238673 ], [ 33.192486999000039, 49.235573 ], [ 33.192065, 49.235547 ], [ 33.187916, 49.23548 ], [ 33.18207, 49.235317 ], [ 33.179331001000037, 49.235255 ], [ 33.178959, 49.235247 ] ] ] } }
+]
+}

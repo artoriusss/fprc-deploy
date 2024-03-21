@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0284896235624, "Shape_Area": 2.9963620510099999e-05, "ADM4_EN": "Novodachne", "ADM4_UA": "ÐÐ¾Ð²Ð¾Ð´Ð°ÑÐ½Ðµ", "ADM4_RU": "ÐÐ¾Ð²Ð¾Ð´Ð°ÑÐ½Ð¾Ðµ", "ADM4_PCODE": "UA5112001019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ananivska", "ADM3_UA": "ÐÐ½Ð°Ð½ÑÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ½Ð°Ð½ÑÐµÐ²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5112001", "ADM2_EN": "Podilskyi", "ADM2_UA": "ÐÐ¾Ð´ÑÐ»ÑÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¾Ð´Ð¾Ð»ÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "ÐÐ´ÐµÑÑÐºÐ°", "ADM1_RU": "ÐÐ´ÐµÑÑÐºÐ°Ñ", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.135762, 47.562922999000079 ], [ 30.137413, 47.557094 ], [ 30.138804, 47.557192 ], [ 30.139024001000053, 47.555978 ], [ 30.135772999000039, 47.555562 ], [ 30.133558, 47.555326 ], [ 30.131991999000036, 47.555128 ], [ 30.131485, 47.557885 ], [ 30.132561001000056, 47.557964 ], [ 30.134183, 47.558172 ], [ 30.133023001000026, 47.562437 ], [ 30.134100001000036, 47.562603 ], [ 30.135762, 47.562922999000079 ] ] ] } }
+]
+}

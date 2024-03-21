@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.034085244990799998, "Shape_Area": 1.64326769322e-05, "ADM4_EN": "Dzherelne", "ADM4_UA": "ÐÐ¶ÐµÑÐµÐ»ÑÐ½Ðµ", "ADM4_RU": "ÐÐ¶ÐµÑÐµÐ»ÑÐ½Ð¾Ðµ", "ADM4_PCODE": "UA4410013013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Troitska", "ADM3_UA": "Ð¢ÑÐ¾ÑÑÑÐºÐ°", "ADM3_RU": "Ð¢ÑÐ¾Ð¸ÑÐºÐ°Ñ", "ADM3_PCODE": "UA4410013", "ADM2_EN": "Svativskyi", "ADM2_UA": "Ð¡Ð²Ð°ÑÑÐ²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¡Ð²Ð°ÑÐ¾Ð²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA4410", "ADM1_EN": "Luhanska", "ADM1_UA": "ÐÑÐ³Ð°Ð½ÑÑÐºÐ°", "ADM1_RU": "ÐÑÐ³Ð°Ð½ÑÐºÐ°Ñ", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.39406, 49.951138 ], [ 38.40073, 49.949091 ], [ 38.40156599900007, 49.949372 ], [ 38.403568, 49.948731 ], [ 38.403532999000049, 49.948461 ], [ 38.409279, 49.946437 ], [ 38.408756, 49.945751 ], [ 38.398918, 49.94862 ], [ 38.393484999000066, 49.950407 ], [ 38.39406, 49.951138 ] ] ] } }
+]
+}

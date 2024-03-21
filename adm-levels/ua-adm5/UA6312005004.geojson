@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0118277550045, "Shape_Area": 7.8202719857100006e-06, "ADM4_EN": "Biskvitne", "ADM4_UA": "ÐÑÑÐºÐ²ÑÑÐ½Ðµ", "ADM4_RU": "ÐÐ¸ÑÐºÐ²Ð¸ÑÐ½Ð¾Ðµ", "ADM4_PCODE": "UA6312005004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vilkhivska", "ADM3_UA": "ÐÑÐ»ÑÑÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ»ÑÑÐ¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA6312005", "ADM2_EN": "Kharkivskyi", "ADM2_UA": "Ð¥Ð°ÑÐºÑÐ²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¥Ð°ÑÑÐºÐ¾Ð²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA6312", "ADM1_EN": "Kharkivska", "ADM1_UA": "Ð¥Ð°ÑÐºÑÐ²ÑÑÐºÐ°", "ADM1_RU": "Ð¥Ð°ÑÑÐºÐ¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.505624999000077, 49.944652001000065 ], [ 36.504028, 49.942168 ], [ 36.501204, 49.942281 ], [ 36.502395, 49.94483 ], [ 36.505624999000077, 49.944652001000065 ] ] ] } }
+]
+}

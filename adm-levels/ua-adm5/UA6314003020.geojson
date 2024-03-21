@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0282368407488, "Shape_Area": 2.63706109158e-05, "ADM4_EN": "Dzhhun", "ADM4_UA": "ÐÐ¶Ð³ÑÐ½", "ADM4_RU": "ÐÐ¶Ð³ÑÐ½", "ADM4_PCODE": "UA6314003020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zmiivska", "ADM3_UA": "ÐÐ¼ÑÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¼Ð¸ÐµÐ²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA6314003", "ADM2_EN": "Chuhuivskyi", "ADM2_UA": "Ð§ÑÐ³ÑÑÐ²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð§ÑÐ³ÑÐµÐ²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA6314", "ADM1_EN": "Kharkivska", "ADM1_UA": "Ð¥Ð°ÑÐºÑÐ²ÑÑÐºÐ°", "ADM1_RU": "Ð¥Ð°ÑÑÐºÐ¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.092443999000068, 49.677398 ], [ 36.094588999000052, 49.67643 ], [ 36.096408, 49.676538 ], [ 36.102505, 49.672647 ], [ 36.102638999000078, 49.671628 ], [ 36.101083, 49.671328 ], [ 36.100115, 49.67163 ], [ 36.090342, 49.676419 ], [ 36.092443999000068, 49.677398 ] ] ] } }
+]
+}

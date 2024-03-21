@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057565556031999997, "Shape_Area": 5.2413412509500003e-05, "ADM4_EN": "Lypove", "ADM4_UA": "ÐÐ¸Ð¿Ð¾Ð²Ðµ", "ADM4_RU": "ÐÐ¸Ð¿Ð¾Ð²Ð¾Ðµ", "ADM4_PCODE": "UA1204019012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lykhivska", "ADM3_UA": "ÐÐ¸ÑÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¸ÑÐ¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA1204019", "ADM2_EN": "Kamianskyi", "ADM2_UA": "ÐÐ°Ð¼âÑÐ½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ°Ð¼ÐµÐ½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "ÐÐ½ÑÐ¿ÑÐ¾Ð¿ÐµÑÑÐ¾Ð²ÑÑÐºÐ°", "ADM1_RU": "ÐÐ½ÐµÐ¿ÑÐ¾Ð¿ÐµÑÑÐ¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.829084, 48.717094 ], [ 33.82935, 48.716175 ], [ 33.835838, 48.716782 ], [ 33.836031999000056, 48.71603 ], [ 33.835450001000027, 48.715955 ], [ 33.835605, 48.715184 ], [ 33.833528, 48.714987 ], [ 33.822007, 48.713894 ], [ 33.810008, 48.712768 ], [ 33.80982, 48.713668 ], [ 33.809681, 48.714332 ], [ 33.817846, 48.715115 ], [ 33.817691, 48.716098 ], [ 33.821095, 48.716396 ], [ 33.829084, 48.717094 ] ] ] } }
+]
+}

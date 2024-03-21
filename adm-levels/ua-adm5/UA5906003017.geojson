@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.030441835571000001, "Shape_Area": 2.6571463313300001e-05, "ADM4_EN": "Sorokolitove", "ADM4_UA": "Ð¡Ð¾ÑÐ¾ÐºÐ¾Ð»ÑÑÐ¾Ð²Ðµ", "ADM4_RU": "Ð¡Ð¾ÑÐ¾ÐºÐ°Ð»ÐµÑÐ¾Ð²Ð¾", "ADM4_PCODE": "UA5906003017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vilshanska", "ADM3_UA": "ÐÑÐ»ÑÑÐ°Ð½ÑÑÐºÐ°", "ADM3_RU": "ÐÐ»ÑÑÐ°Ð½ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5906003", "ADM2_EN": "Romenskyi", "ADM2_UA": "Ð Ð¾Ð¼ÐµÐ½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð Ð¾Ð¼ÐµÐ½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Ð¡ÑÐ¼ÑÑÐºÐ°", "ADM1_RU": "Ð¡ÑÐ¼ÑÐºÐ°Ñ", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.156381, 50.849894 ], [ 34.156638, 50.849204 ], [ 34.160856, 50.849748 ], [ 34.165623, 50.846219 ], [ 34.163772, 50.845244 ], [ 34.164953, 50.844399 ], [ 34.16415, 50.843933 ], [ 34.163946, 50.843786 ], [ 34.158022999000025, 50.847918 ], [ 34.157535001000042, 50.848384 ], [ 34.154581999000072, 50.847961 ], [ 34.15412199900004, 50.849523 ], [ 34.156381, 50.849894 ] ] ] } }
+]
+}

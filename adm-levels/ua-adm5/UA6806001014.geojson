@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.023171729598600001, "Shape_Area": 1.6049630209699999e-05, "ADM4_EN": "Mykhailivka", "ADM4_UA": "ÐÐ¸ÑÐ°Ð¹Ð»ÑÐ²ÐºÐ°", "ADM4_RU": "ÐÐ¸ÑÐ°Ð¹Ð»Ð¾Ð²ÐºÐ°", "ADM4_PCODE": "UA6806001014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezdivska", "ADM3_UA": "ÐÐµÑÐµÐ·Ð´ÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐµÑÐµÐ·Ð´Ð¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA6806001", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Ð¨ÐµÐ¿ÐµÑÑÐ²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¨ÐµÐ¿ÐµÑÐ¾Ð²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Ð¥Ð¼ÐµÐ»ÑÐ½Ð¸ÑÑÐºÐ°", "ADM1_RU": "Ð¥Ð¼ÐµÐ»ÑÐ½Ð¸ÑÐºÐ°Ñ", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.165585, 50.477282 ], [ 27.165936001000034, 50.476788 ], [ 27.166494999000065, 50.47695 ], [ 27.167179999000041, 50.475984 ], [ 27.157769001000077, 50.473265 ], [ 27.15716, 50.474123001000066 ], [ 27.157392, 50.47419 ], [ 27.156964999000024, 50.474791 ], [ 27.165585, 50.477282 ] ] ] } }
+]
+}

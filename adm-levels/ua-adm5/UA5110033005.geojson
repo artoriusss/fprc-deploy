@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.033531197465800001, "Shape_Area": 6.2131457147300001e-05, "ADM4_EN": "Kovalivka", "ADM4_UA": "ÐÐ¾Ð²Ð°Ð»ÑÐ²ÐºÐ°", "ADM4_RU": "ÐÐ¾Ð²Ð°Ð»ÐµÐ²ÐºÐ°", "ADM4_PCODE": "UA5110033005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Usativska", "ADM3_UA": "Ð£ÑÐ°ÑÑÐ²ÑÑÐºÐ°", "ADM3_RU": "Ð£ÑÐ°ÑÐ¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5110033", "ADM2_EN": "Odeskyi", "ADM2_UA": "ÐÐ´ÐµÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ´ÐµÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5110", "ADM1_EN": "Odeska", "ADM1_UA": "ÐÐ´ÐµÑÑÐºÐ°", "ADM1_RU": "ÐÐ´ÐµÑÑÐºÐ°Ñ", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.602867, 46.704241 ], [ 30.602089, 46.704176 ], [ 30.601206, 46.704411 ], [ 30.600691, 46.704885 ], [ 30.599379999000064, 46.707032 ], [ 30.604193, 46.710717 ], [ 30.604103, 46.711239 ], [ 30.607474999000033, 46.713247 ], [ 30.61267900100006, 46.711563 ], [ 30.612076, 46.710108 ], [ 30.610447, 46.708839 ], [ 30.609939, 46.708442 ], [ 30.609395, 46.707912 ], [ 30.606773, 46.70573 ], [ 30.602867, 46.704241 ] ] ] } }
+]
+}

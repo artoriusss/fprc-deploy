@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.039889191174500002, "Shape_Area": 6.3616612515399995e-05, "ADM4_EN": "Mishchanka", "ADM4_UA": "ÐÑÑÐ°Ð½ÐºÐ°", "ADM4_RU": "ÐÐµÑÐ°Ð½ÐºÐ°", "ADM4_PCODE": "UA5110011011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vyzyrska", "ADM3_UA": "ÐÐ¸Ð·Ð¸ÑÑÑÐºÐ°", "ADM3_RU": "ÐÐ¸Ð·Ð¸ÑÑÐºÐ°Ñ", "ADM3_PCODE": "UA5110011", "ADM2_EN": "Odeskyi", "ADM2_UA": "ÐÐ´ÐµÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ´ÐµÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5110", "ADM1_EN": "Odeska", "ADM1_UA": "ÐÐ´ÐµÑÑÐºÐ°", "ADM1_RU": "ÐÐ´ÐµÑÑÐºÐ°Ñ", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.951621999000054, 46.698969 ], [ 30.951819, 46.698447 ], [ 30.952944001000049, 46.698635 ], [ 30.954539999000076, 46.694818 ], [ 30.954630001000055, 46.694569 ], [ 30.951800001000038, 46.694119 ], [ 30.954170999000041, 46.687524 ], [ 30.95456, 46.686416 ], [ 30.953315, 46.686294 ], [ 30.952081999000029, 46.686563 ], [ 30.9493, 46.689207 ], [ 30.948081, 46.693353 ], [ 30.945737, 46.696163 ], [ 30.945158, 46.697933 ], [ 30.951621999000054, 46.698969 ] ] ] } }
+]
+}

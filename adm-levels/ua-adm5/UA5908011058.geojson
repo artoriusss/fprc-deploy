@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0208658855295, "Shape_Area": 2.2053521474400002e-05, "ADM4_EN": "Maidaky", "ADM4_UA": "ÐÐ°Ð¹Ð´Ð°ÐºÐ¸", "ADM4_RU": "ÐÐ°Ð¹Ð´Ð°ÐºÐ¸", "ADM4_PCODE": "UA5908011058", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lebedynska", "ADM3_UA": "ÐÐµÐ±ÐµÐ´Ð¸Ð½ÑÑÐºÐ°", "ADM3_RU": "ÐÐµÐ±ÐµÐ´Ð¸Ð½ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5908011", "ADM2_EN": "Sumskyi", "ADM2_UA": "Ð¡ÑÐ¼ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¡ÑÐ¼ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Ð¡ÑÐ¼ÑÑÐºÐ°", "ADM1_RU": "Ð¡ÑÐ¼ÑÐºÐ°Ñ", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.359496, 50.709219 ], [ 34.354321001000073, 50.70918 ], [ 34.354061622000074, 50.709303680000062 ], [ 34.354073, 50.709519 ], [ 34.353584453000053, 50.709613198000056 ], [ 34.353221999000027, 50.709922 ], [ 34.352784219000057, 50.710146806000068 ], [ 34.35267, 50.710462 ], [ 34.351701705000039, 50.710629777000065 ], [ 34.353546, 50.713047 ], [ 34.359149, 50.711601 ], [ 34.360407, 50.711317 ], [ 34.359496, 50.709219 ] ] ] } }
+]
+}

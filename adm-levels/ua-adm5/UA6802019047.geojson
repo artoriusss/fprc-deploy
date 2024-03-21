@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.020419801302699998, "Shape_Area": 1.85021487116e-05, "ADM4_EN": "Sokolivka", "ADM4_UA": "Ð¡Ð¾ÐºÐ¾Ð»ÑÐ²ÐºÐ°", "ADM4_RU": "Ð¡Ð¾ÐºÐ¾Ð»Ð¾Ð²ÐºÐ°", "ADM4_PCODE": "UA6802019047", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoushytska", "ADM3_UA": "ÐÐ¾Ð²Ð¾ÑÑÐ¸ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¾Ð²Ð¾ÑÑÐ¸ÑÐºÐ°Ñ", "ADM3_PCODE": "UA6802019", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "ÐÐ°Ð¼'ÑÐ½ÐµÑÑ-ÐÐ¾Ð´ÑÐ»ÑÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ°Ð¼ÐµÐ½ÐµÑ-ÐÐ¾Ð´Ð¾Ð»ÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Ð¥Ð¼ÐµÐ»ÑÐ½Ð¸ÑÑÐºÐ°", "ADM1_RU": "Ð¥Ð¼ÐµÐ»ÑÐ½Ð¸ÑÐºÐ°Ñ", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.22833, 48.729816 ], [ 27.227662, 48.728653 ], [ 27.227497, 48.728581 ], [ 27.226252001000034, 48.728036 ], [ 27.223273, 48.729027 ], [ 27.221637, 48.728956 ], [ 27.220878, 48.728937 ], [ 27.220673, 48.72898 ], [ 27.220562, 48.730841 ], [ 27.220449, 48.732454 ], [ 27.22377700100003, 48.73128 ], [ 27.224614001000077, 48.731049 ], [ 27.22833, 48.729816 ] ] ] } }
+]
+}

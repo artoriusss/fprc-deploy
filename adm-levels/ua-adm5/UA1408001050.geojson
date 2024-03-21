@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0073563193049199999, "Shape_Area": 2.3675279555699999e-06, "ADM4_EN": "Pobieda", "ADM4_UA": "ÐÐ¾Ð±ÑÐ´Ð°", "ADM4_RU": "ÐÐ¾Ð±ÐµÐ´Ð°", "ADM4_PCODE": "UA1408001050", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Amvrosiivska", "ADM3_UA": "ÐÐ¼Ð²ÑÐ¾ÑÑÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¼Ð²ÑÐ¾ÑÐ¸ÐµÐ²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA1408001", "ADM2_EN": "Donetskyi", "ADM2_UA": "ÐÐ¾Ð½ÐµÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¾Ð½ÐµÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA1408", "ADM1_EN": "Donetska", "ADM1_UA": "ÐÐ¾Ð½ÐµÑÑÐºÐ°", "ADM1_RU": "ÐÐ¾Ð½ÐµÑÐºÐ°Ñ", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.168113208000079, 47.761590503000036 ], [ 38.167471563000049, 47.761810319000062 ], [ 38.169097356000066, 47.764029490000041 ], [ 38.169922722000024, 47.76374527300004 ], [ 38.170029900000031, 47.76370836500007 ], [ 38.169993156000032, 47.763658546000045 ], [ 38.168240635000075, 47.76154684800008 ], [ 38.168113208000079, 47.761590503000036 ] ] ] } }
+]
+}

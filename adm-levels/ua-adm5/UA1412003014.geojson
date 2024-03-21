@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.023029131691000002, "Shape_Area": 9.7907775380600004e-06, "ADM4_EN": "Petrivka", "ADM4_UA": "ÐÐµÑÑÑÐ²ÐºÐ°", "ADM4_RU": "ÐÐµÑÑÐ¾Ð²ÐºÐ°", "ADM4_PCODE": "UA1412003014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Druzhkivska", "ADM3_UA": "ÐÑÑÐ¶ÐºÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÑÑÐ¶ÐºÐ¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA1412003", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "ÐÑÐ°Ð¼Ð°ÑÐ¾ÑÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÑÐ°Ð¼Ð°ÑÐ¾ÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "ÐÐ¾Ð½ÐµÑÑÐºÐ°", "ADM1_RU": "ÐÐ¾Ð½ÐµÑÐºÐ°Ñ", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 37.461462, 48.567496 ], [ 37.45886899900006, 48.567232 ], [ 37.458678, 48.568057 ], [ 37.461272001000054, 48.568321 ], [ 37.461462, 48.567496 ] ] ], [ [ [ 37.452776998000047, 48.564814 ], [ 37.452963, 48.564068 ], [ 37.450111, 48.563754 ], [ 37.449956, 48.564508 ], [ 37.447539999000071, 48.564187 ], [ 37.447323, 48.565058 ], [ 37.453692, 48.565757 ], [ 37.453896999000051, 48.564937001000033 ], [ 37.452776998000047, 48.564814 ] ] ] ] } }
+]
+}

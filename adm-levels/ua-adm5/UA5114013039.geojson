@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.024002083837100001, "Shape_Area": 1.22794147163e-05, "ADM4_EN": "Oleksandrivka", "ADM4_UA": "ÐÐ»ÐµÐºÑÐ°Ð½Ð´ÑÑÐ²ÐºÐ°", "ADM4_RU": "ÐÐ»ÐµÐºÑÐ°Ð½Ð´ÑÐ¾Ð²ÐºÐ°", "ADM4_PCODE": "UA5114013039", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozdilnianska", "ADM3_UA": "Ð Ð¾Ð·Ð´ÑÐ»ÑÐ½ÑÐ½ÑÑÐºÐ°", "ADM3_RU": "Ð Ð°Ð·Ð´ÐµÐ»ÑÐ½ÑÐ½ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5114013", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Ð Ð¾Ð·Ð´ÑÐ»ÑÐ½ÑÐ½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð Ð°Ð·Ð´ÐµÐ»ÑÐ½ÑÐ½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "ÐÐ´ÐµÑÑÐºÐ°", "ADM1_RU": "ÐÐ´ÐµÑÑÐºÐ°Ñ", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.370655, 46.746682 ], [ 30.368214, 46.746327 ], [ 30.367021, 46.747076 ], [ 30.368128001000059, 46.747144 ], [ 30.369900999000038, 46.747605 ], [ 30.373307999000076, 46.75238 ], [ 30.373407001000032, 46.753834 ], [ 30.374729, 46.753883 ], [ 30.374717, 46.752176 ], [ 30.370655, 46.746682 ] ] ] } }
+]
+}

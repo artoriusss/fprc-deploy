@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0124028892631, "Shape_Area": 1.00208276829e-05, "ADM4_EN": "Kharchenky", "ADM4_UA": "Ð¥Ð°ÑÑÐµÐ½ÐºÐ¸", "ADM4_RU": "Ð¥Ð°ÑÑÐµÐ½ÐºÐ¸", "ADM4_PCODE": "UA5908011108", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lebedynska", "ADM3_UA": "ÐÐµÐ±ÐµÐ´Ð¸Ð½ÑÑÐºÐ°", "ADM3_RU": "ÐÐµÐ±ÐµÐ´Ð¸Ð½ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5908011", "ADM2_EN": "Sumskyi", "ADM2_UA": "Ð¡ÑÐ¼ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¡ÑÐ¼ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Ð¡ÑÐ¼ÑÑÐºÐ°", "ADM1_RU": "Ð¡ÑÐ¼ÑÐºÐ°Ñ", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.762103, 50.589557 ], [ 34.758367001000067, 50.588452 ], [ 34.758075, 50.588839 ], [ 34.758056, 50.590327 ], [ 34.758289001000037, 50.590867 ], [ 34.758848, 50.591289 ], [ 34.759467, 50.591579 ], [ 34.760186001000079, 50.591724 ], [ 34.760739, 50.591763 ], [ 34.761923999000032, 50.591631 ], [ 34.762103, 50.589557 ] ] ] } }
+]
+}

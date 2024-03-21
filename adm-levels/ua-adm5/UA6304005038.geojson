@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057578364608100001, "Shape_Area": 0.000122785964664, "ADM4_EN": "Pershotravneve", "ADM4_UA": "ÐÐµÑÑÐ¾ÑÑÐ°Ð²Ð½ÐµÐ²Ðµ", "ADM4_RU": "ÐÐµÑÑÐ¾ÑÑÐ°Ð²Ð½ÐµÐ²Ð¾Ðµ", "ADM4_PCODE": "UA6304005038", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Borivska", "ADM3_UA": "ÐÐ¾ÑÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¾ÑÐ¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA6304005", "ADM2_EN": "Iziumskyi", "ADM2_UA": "ÐÐ·ÑÐ¼ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ·ÑÐ¼ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA6304", "ADM1_EN": "Kharkivska", "ADM1_UA": "Ð¥Ð°ÑÐºÑÐ²ÑÑÐºÐ°", "ADM1_RU": "Ð¥Ð°ÑÑÐºÐ¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.857745001000069, 49.385767 ], [ 37.857676001000073, 49.384565 ], [ 37.860808, 49.384667 ], [ 37.859859, 49.379084 ], [ 37.85147, 49.379178 ], [ 37.851072, 49.376964 ], [ 37.848729, 49.377011 ], [ 37.848539, 49.377921 ], [ 37.846646, 49.377977 ], [ 37.846643001000075, 49.380675 ], [ 37.845651, 49.380822 ], [ 37.845849, 49.387181 ], [ 37.862065, 49.387161 ], [ 37.862031, 49.38595900100006 ], [ 37.857745001000069, 49.385767 ] ] ] } }
+]
+}

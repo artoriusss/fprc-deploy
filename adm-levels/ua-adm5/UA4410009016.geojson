@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.012532266165700001, "Shape_Area": 6.6371582500099998e-06, "ADM4_EN": "Tverdokhlibove", "ADM4_UA": "Ð¢Ð²ÐµÑÐ´Ð¾ÑÐ»ÑÐ±Ð¾Ð²Ðµ", "ADM4_RU": "Ð¢Ð²ÐµÑÐ´Ð¾ÑÐ»ÐµÐ±Ð¾Ð²Ð¾", "ADM4_PCODE": "UA4410009016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nyzhnoduvanska", "ADM3_UA": "ÐÐ¸Ð¶Ð½ÑÐ¾Ð´ÑÐ²Ð°Ð½ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¸Ð¶Ð½ÐµÐ´ÑÐ²Ð°Ð½ÑÐºÐ°Ñ", "ADM3_PCODE": "UA4410009", "ADM2_EN": "Svativskyi", "ADM2_UA": "Ð¡Ð²Ð°ÑÑÐ²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¡Ð²Ð°ÑÐ¾Ð²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA4410", "ADM1_EN": "Luhanska", "ADM1_UA": "ÐÑÐ³Ð°Ð½ÑÑÐºÐ°", "ADM1_RU": "ÐÑÐ³Ð°Ð½ÑÐºÐ°Ñ", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.188433, 49.652717 ], [ 38.187065, 49.652717 ], [ 38.18811, 49.657661 ], [ 38.189382, 49.657441500000061 ], [ 38.189251, 49.656649 ], [ 38.18885, 49.654526 ], [ 38.188433, 49.652717 ] ] ] } }
+]
+}

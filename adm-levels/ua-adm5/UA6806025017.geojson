@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0296681708724, "Shape_Area": 2.3850635578e-05, "ADM4_EN": "Tarasivka", "ADM4_UA": "Ð¢Ð°ÑÐ°ÑÑÐ²ÐºÐ°", "ADM4_RU": "Ð¢Ð°ÑÐ°ÑÐ¾Ð²ÐºÐ°", "ADM4_PCODE": "UA6806025017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sakhnovetska", "ADM3_UA": "Ð¡Ð°ÑÐ½Ð¾Ð²ÐµÑÑÐºÐ°", "ADM3_RU": "Ð¡Ð°ÑÐ½Ð¾Ð²ÐµÑÐºÐ°Ñ", "ADM3_PCODE": "UA6806025", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Ð¨ÐµÐ¿ÐµÑÑÐ²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¨ÐµÐ¿ÐµÑÐ¾Ð²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Ð¥Ð¼ÐµÐ»ÑÐ½Ð¸ÑÑÐºÐ°", "ADM1_RU": "Ð¥Ð¼ÐµÐ»ÑÐ½Ð¸ÑÐºÐ°Ñ", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.907364, 49.889093 ], [ 26.908265, 49.888558 ], [ 26.910082, 49.888932 ], [ 26.910635, 49.888421 ], [ 26.909168, 49.887833 ], [ 26.903451, 49.884026 ], [ 26.90281599900004, 49.883652 ], [ 26.899952, 49.881788 ], [ 26.898930001000053, 49.88246 ], [ 26.899746, 49.882956 ], [ 26.898862999000073, 49.883443 ], [ 26.90241700100006, 49.885837 ], [ 26.90456800100003, 49.887506 ], [ 26.907364, 49.889093 ] ] ] } }
+]
+}

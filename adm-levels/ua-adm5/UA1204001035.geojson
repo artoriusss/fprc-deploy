@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.049032118466000002, "Shape_Area": 0.000114384683295, "ADM4_EN": "Pryvillia", "ADM4_UA": "ÐÑÐ¸Ð²ÑÐ»Ð»Ñ", "ADM4_RU": "ÐÑÐ¸Ð²Ð¾Ð»ÑÐµ", "ADM4_PCODE": "UA1204001035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bozhedarivska", "ADM3_UA": "ÐÐ¾Ð¶ÐµÐ´Ð°ÑÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¾Ð¶ÐµÐ´Ð°ÑÐ¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA1204001", "ADM2_EN": "Kamianskyi", "ADM2_UA": "ÐÐ°Ð¼âÑÐ½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ°Ð¼ÐµÐ½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "ÐÐ½ÑÐ¿ÑÐ¾Ð¿ÐµÑÑÐ¾Ð²ÑÑÐºÐ°", "ADM1_RU": "ÐÐ½ÐµÐ¿ÑÐ¾Ð¿ÐµÑÑÐ¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.064549, 48.349717 ], [ 34.064321999000072, 48.349707 ], [ 34.062919, 48.355145 ], [ 34.062551, 48.356479 ], [ 34.074755, 48.357425 ], [ 34.080606, 48.357879 ], [ 34.081379999000035, 48.353987 ], [ 34.079862001000038, 48.353773 ], [ 34.080309, 48.35148 ], [ 34.068063001000041, 48.350135 ], [ 34.064549, 48.349717 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.033837213565699999, "Shape_Area": 3.6318914006800001e-05, "ADM4_EN": "Pershotravneve", "ADM4_UA": "ÐÐµÑÑÐ¾ÑÑÐ°Ð²Ð½ÐµÐ²Ðµ", "ADM4_RU": "ÐÐµÑÑÐ¾ÑÑÐ°Ð²Ð½ÐµÐ²Ð¾Ðµ", "ADM4_PCODE": "UA6314009010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pechenizka", "ADM3_UA": "ÐÐµÑÐµÐ½ÑÐ·ÑÐºÐ°", "ADM3_RU": "ÐÐµÑÐµÐ½ÐµÐ¶ÑÐºÐ°Ñ", "ADM3_PCODE": "UA6314009", "ADM2_EN": "Chuhuivskyi", "ADM2_UA": "Ð§ÑÐ³ÑÑÐ²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð§ÑÐ³ÑÐµÐ²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA6314", "ADM1_EN": "Kharkivska", "ADM1_UA": "Ð¥Ð°ÑÐºÑÐ²ÑÑÐºÐ°", "ADM1_RU": "Ð¥Ð°ÑÑÐºÐ¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.940015, 49.990502 ], [ 36.934578, 49.990268 ], [ 36.934414167000057, 49.991889133000029 ], [ 36.934378514000059, 49.992241913000043 ], [ 36.934302, 49.992999 ], [ 36.936333408000053, 49.993939888000057 ], [ 36.945321, 49.996296 ], [ 36.947412999000051, 49.996667 ], [ 36.947899, 49.995318 ], [ 36.943523001000074, 49.99441 ], [ 36.94327700100007, 49.993196 ], [ 36.940366, 49.992265 ], [ 36.940015, 49.990502 ] ] ] } }
+]
+}

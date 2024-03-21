@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.039224975819600001, "Shape_Area": 3.3327942391700003e-05, "ADM4_EN": "Lesivka", "ADM4_UA": "ÐÐµÑÑÐ²ÐºÐ°", "ADM4_RU": "ÐÐµÑÐ¾Ð²ÐºÐ°", "ADM4_PCODE": "UA6306009027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sakhnovshchynska", "ADM3_UA": "Ð¡Ð°ÑÐ½Ð¾Ð²ÑÐ¸Ð½ÑÑÐºÐ°", "ADM3_RU": "Ð¡Ð°ÑÐ½Ð¾Ð²ÑÐ¸Ð½Ð¸ÑÐºÐ°Ñ", "ADM3_PCODE": "UA6306009", "ADM2_EN": "Krasnohradskyi", "ADM2_UA": "ÐÑÐ°ÑÐ½Ð¾Ð³ÑÐ°Ð´ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÑÐ°ÑÐ½Ð¾Ð³ÑÐ°Ð´ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA6306", "ADM1_EN": "Kharkivska", "ADM1_UA": "Ð¥Ð°ÑÐºÑÐ²ÑÑÐºÐ°", "ADM1_RU": "Ð¥Ð°ÑÑÐºÐ¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.087945, 49.046897 ], [ 36.092508999000074, 49.044269 ], [ 36.09454099900006, 49.046438 ], [ 36.096917001000065, 49.045472 ], [ 36.09386, 49.042798 ], [ 36.08957, 49.044246 ], [ 36.082321001000025, 49.048523 ], [ 36.082901, 49.049748 ], [ 36.082901, 49.050422 ], [ 36.083934, 49.051147 ], [ 36.08514, 49.049996 ], [ 36.089327999000034, 49.0482 ], [ 36.087945, 49.046897 ] ] ] } }
+]
+}

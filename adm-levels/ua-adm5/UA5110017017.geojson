@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0475712618191, "Shape_Area": 0.00014488042667000001, "ADM4_EN": "Stepove", "ADM4_UA": "Ð¡ÑÐµÐ¿Ð¾Ð²Ðµ", "ADM4_RU": "Ð¡ÑÐµÐ¿Ð¾Ð²Ð¾Ðµ", "ADM4_PCODE": "UA5110017017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dobroslavska", "ADM3_UA": "ÐÐ¾Ð±ÑÐ¾ÑÐ»Ð°Ð²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¾Ð±ÑÐ¾ÑÐ»Ð°Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5110017", "ADM2_EN": "Odeskyi", "ADM2_UA": "ÐÐ´ÐµÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ´ÐµÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5110", "ADM1_EN": "Odeska", "ADM1_UA": "ÐÐ´ÐµÑÑÐºÐ°", "ADM1_RU": "ÐÐ´ÐµÑÑÐºÐ°Ñ", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.763088, 46.787204 ], [ 30.762977, 46.783363 ], [ 30.763101, 46.776086 ], [ 30.758625, 46.775480999000081 ], [ 30.752946999000073, 46.775665 ], [ 30.751731, 46.775755 ], [ 30.748852, 46.776612 ], [ 30.748965, 46.780987 ], [ 30.751353, 46.786326 ], [ 30.756308001000036, 46.786236 ], [ 30.757526, 46.786412 ], [ 30.763088, 46.787204 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.039238715369799997, "Shape_Area": 6.5515180189799996e-05, "ADM4_EN": "Petrivka", "ADM4_UA": "ÐÐµÑÑÑÐ²ÐºÐ°", "ADM4_RU": "ÐÐµÑÑÐ¾Ð²ÐºÐ°", "ADM4_PCODE": "UA3502001018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Blahovishchenska", "ADM3_UA": "ÐÐ»Ð°Ð³Ð¾Ð²ÑÑÐµÐ½ÑÑÐºÐ°", "ADM3_RU": "ÐÐ»Ð°Ð³Ð¾Ð²ÐµÑÐµÐ½ÑÐºÐ°Ñ", "ADM3_PCODE": "UA3502001", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "ÐÐ¾Ð»Ð¾Ð²Ð°Ð½ÑÐ²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¾Ð»Ð¾Ð²Ð°Ð½ÐµÐ²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "ÐÑÑÐ¾Ð²Ð¾Ð³ÑÐ°Ð´ÑÑÐºÐ°", "ADM1_RU": "ÐÐ¸ÑÐ¾Ð²Ð¾Ð³ÑÐ°Ð´ÑÐºÐ°Ñ", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.105708999000058, 48.293045 ], [ 30.108209, 48.290405 ], [ 30.109605, 48.290952 ], [ 30.114292, 48.286123 ], [ 30.116741999000055, 48.282566 ], [ 30.115587001000051, 48.282551 ], [ 30.113302, 48.281914 ], [ 30.111821001000067, 48.281463 ], [ 30.108972, 48.284533 ], [ 30.102817, 48.290705 ], [ 30.102073, 48.291486 ], [ 30.103953999000055, 48.292373 ], [ 30.105316, 48.293055 ], [ 30.105708999000058, 48.293045 ] ] ] } }
+]
+}

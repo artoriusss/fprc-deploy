@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0148558896462, "Shape_Area": 1.06634302663e-05, "ADM4_EN": "Mykhailenkiv", "ADM4_UA": "ÐÐ¸ÑÐ°Ð¹Ð»ÐµÐ½ÐºÑÐ²", "ADM4_RU": "ÐÐ¸ÑÐ°Ð¹Ð»ÐµÐ½ÐºÐ¾Ð²", "ADM4_PCODE": "UA3208003019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Borodianska", "ADM3_UA": "ÐÐ¾ÑÐ¾Ð´ÑÐ½ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¾ÑÐ¾Ð´ÑÐ½ÑÐºÐ°Ñ", "ADM3_PCODE": "UA3208003", "ADM2_EN": "Buchanskyi", "ADM2_UA": "ÐÑÑÐ°Ð½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÑÑÐ°Ð½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA3208", "ADM1_EN": "Kyivska", "ADM1_UA": "ÐÐ¸ÑÐ²ÑÑÐºÐ°", "ADM1_RU": "ÐÐ¸ÐµÐ²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.953969584000049, 50.72449315700004 ], [ 29.950423593000039, 50.724113034000027 ], [ 29.949102047000054, 50.724540081000043 ], [ 29.947698656000057, 50.726146051000057 ], [ 29.948321633000035, 50.726231007000081 ], [ 29.951160541000036, 50.726345028000026 ], [ 29.953625653000074, 50.726292985000043 ], [ 29.953736971000069, 50.725710482000068 ], [ 29.953969584000049, 50.72449315700004 ] ] ] } }
+]
+}

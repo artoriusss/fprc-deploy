@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.026072244416699999, "Shape_Area": 2.3645266399599999e-05, "ADM4_EN": "Yakymovychi", "ADM4_UA": "Ð¯ÐºÐ¸Ð¼Ð¾Ð²Ð¸ÑÑ", "ADM4_RU": "ÐÐºÐ¸Ð¼Ð¾Ð²Ð¸ÑÐ¸", "ADM4_PCODE": "UA5906001033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Andriiashivska", "ADM3_UA": "ÐÐ½Ð´ÑÑÑÑÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ½Ð´ÑÐ¸ÑÑÐµÐ²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5906001", "ADM2_EN": "Romenskyi", "ADM2_UA": "Ð Ð¾Ð¼ÐµÐ½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð Ð¾Ð¼ÐµÐ½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Ð¡ÑÐ¼ÑÑÐºÐ°", "ADM1_RU": "Ð¡ÑÐ¼ÑÐºÐ°Ñ", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.559514, 50.619325 ], [ 33.563636, 50.616895 ], [ 33.562661, 50.616162 ], [ 33.562127, 50.615877 ], [ 33.560727, 50.616697 ], [ 33.560369, 50.616467 ], [ 33.558315, 50.617672 ], [ 33.557599, 50.6176 ], [ 33.557335, 50.616924 ], [ 33.555169, 50.617063 ], [ 33.554114, 50.616933 ], [ 33.553271059000053, 50.618564721000041 ], [ 33.553162, 50.620073 ], [ 33.557220209000036, 50.620211526000048 ], [ 33.557117, 50.619704 ], [ 33.559514, 50.619325 ] ] ] } }
+]
+}

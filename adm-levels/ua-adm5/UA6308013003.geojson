@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.025647348548, "Shape_Area": 1.4376484200899999e-05, "ADM4_EN": "Zatyshne", "ADM4_UA": "ÐÐ°ÑÐ¸ÑÐ½Ðµ", "ADM4_RU": "ÐÐ°ÑÐ¸ÑÐ½Ð¾Ðµ", "ADM4_PCODE": "UA6308013003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Petropavlivska", "ADM3_UA": "ÐÐµÑÑÐ¾Ð¿Ð°Ð²Ð»ÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐµÑÑÐ¾Ð¿Ð°Ð²Ð»Ð¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA6308013", "ADM2_EN": "Kupianskyi", "ADM2_UA": "ÐÑÐ¿'ÑÐ½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÑÐ¿ÑÐ½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA6308", "ADM1_EN": "Kharkivska", "ADM1_UA": "Ð¥Ð°ÑÐºÑÐ²ÑÑÐºÐ°", "ADM1_RU": "Ð¥Ð°ÑÑÐºÐ¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.94604200100008, 49.662725 ], [ 37.94603, 49.66181 ], [ 37.94334, 49.662007 ], [ 37.93448, 49.665608 ], [ 37.93510400100007, 49.666282 ], [ 37.935692999000025, 49.666304 ], [ 37.939621001000035, 49.664886 ], [ 37.944692, 49.663006 ], [ 37.94604200100008, 49.662725 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0193009419399, "Shape_Area": 1.8256466119800001e-05, "ADM4_EN": "Bessarabka", "ADM4_UA": "ÐÐµÑÑÐ°ÑÐ°Ð±ÐºÐ°", "ADM4_RU": "ÐÐµÑÑÐ°ÑÐ°Ð±ÐºÐ°", "ADM4_PCODE": "UA1410007005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoazovska", "ADM3_UA": "ÐÐ¾Ð²Ð¾Ð°Ð·Ð¾Ð²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¾Ð²Ð¾Ð°Ð·Ð¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA1410007", "ADM2_EN": "Kalmiuskyi", "ADM2_UA": "ÐÐ°Ð»ÑÐ¼ÑÑÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ°Ð»ÑÐ¼Ð¸ÑÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA1410", "ADM1_EN": "Donetska", "ADM1_UA": "ÐÐ¾Ð½ÐµÑÑÐºÐ°", "ADM1_RU": "ÐÐ¾Ð½ÐµÑÐºÐ°Ñ", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.111359999000058, 47.265961 ], [ 38.111322998000048, 47.264948 ], [ 38.105365998000025, 47.265101 ], [ 38.104159999000046, 47.265175999000064 ], [ 38.104493999000056, 47.26645 ], [ 38.105027999000072, 47.268081 ], [ 38.108410999000057, 47.267637 ], [ 38.111776999000028, 47.267167 ], [ 38.111359999000058, 47.265961 ] ] ] } }
+]
+}

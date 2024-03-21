@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0274888547547, "Shape_Area": 1.1422721416000001e-05, "ADM4_EN": "Derkulove", "ADM4_UA": "ÐÐµÑÐºÑÐ»Ð¾Ð²Ðµ", "ADM4_RU": "ÐÐµÑÐºÑÐ»Ð¾Ð²Ð¾", "ADM4_PCODE": "UA4414005010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Markivska", "ADM3_UA": "ÐÐ°ÑÐºÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ°ÑÐºÐ¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA4414005", "ADM2_EN": "Starobilskyi", "ADM2_UA": "Ð¡ÑÐ°ÑÐ¾Ð±ÑÐ»ÑÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¡ÑÐ°ÑÐ¾Ð±ÐµÐ»ÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA4414", "ADM1_EN": "Luhanska", "ADM1_UA": "ÐÑÐ³Ð°Ð½ÑÑÐºÐ°", "ADM1_RU": "ÐÑÐ³Ð°Ð½ÑÐºÐ°Ñ", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 39.589687, 49.470567 ], [ 39.588635001000057, 49.470263 ], [ 39.58696, 49.473735 ], [ 39.588046, 49.473893 ], [ 39.589687, 49.470567 ] ] ], [ [ [ 39.596779, 49.46005 ], [ 39.595917, 49.459678 ], [ 39.592898, 49.463353 ], [ 39.591069, 49.465903 ], [ 39.592052, 49.466297 ], [ 39.594071, 49.463364 ], [ 39.595762, 49.461263 ], [ 39.596779, 49.46005 ] ] ] ] } }
+]
+}

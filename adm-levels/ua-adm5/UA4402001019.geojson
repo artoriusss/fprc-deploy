@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0096401628170999995, "Shape_Area": 5.4266182067400002e-06, "ADM4_EN": "Horodnie", "ADM4_UA": "ÐÐ¾ÑÐ¾Ð´Ð½Ñ", "ADM4_RU": "ÐÐ¾ÑÐ¾Ð´Ð½ÐµÐµ", "ADM4_PCODE": "UA4402001019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Alchevska", "ADM3_UA": "ÐÐ»ÑÐµÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ»ÑÐµÐ²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA4402001", "ADM2_EN": "Alchevskyi", "ADM2_UA": "ÐÐ»ÑÐµÐ²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ»ÑÐµÐ²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA4402", "ADM1_EN": "Luhanska", "ADM1_UA": "ÐÑÐ³Ð°Ð½ÑÑÐºÐ°", "ADM1_RU": "ÐÑÐ³Ð°Ð½ÑÐºÐ°Ñ", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.841495, 48.395977 ], [ 38.84120899900006, 48.394628 ], [ 38.838912999000058, 48.394684 ], [ 38.839001986000028, 48.39534147300003 ], [ 38.839086795000071, 48.395968065000034 ], [ 38.839266, 48.397292 ], [ 38.840869, 48.397281 ], [ 38.840953999000078, 48.396112 ], [ 38.841495, 48.395977 ] ] ] } }
+]
+}
