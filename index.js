@@ -1,5 +1,3 @@
-let breadcrumbNames = ['Ukraine'];
-
 // const drilldown = async function (e) {
 //     //console.log('Drilling down into:', e.point.properties);
 //     if (!e.seriesOptions) {
@@ -78,6 +76,45 @@ let breadcrumbNames = ['Ukraine'];
 //     }
 // };
 
+let breadcrumbNames = ['Ukraine']; 
+
+const drilldownToFourthLevel = (e) => {
+    // Destroy the existing chart and create a new one with the web map
+    const currentChart = Highcharts.charts.find(chart => chart.container.id === 'container');
+    if (currentChart) {
+        currentChart.destroy();
+    }
+
+    // Create a new Highcharts map with the `tiledwebmap` series
+    Highcharts.mapChart('container', {
+        chart: {
+            margin: 0
+        },
+        title: {
+            text: 'Fourth Level - Web Map'
+        },
+        mapNavigation: {
+            enabled: true,
+            buttonOptions: {
+                alignTo: 'spacingBox'
+            }
+        },
+        mapView: {
+            center: [30.5238, 50.4547], // Center coordinates for the map
+            zoom: 10 // Zoom level
+        },
+        series: [{
+            type: 'tiledwebmap',
+            name: 'Web Map Tiles',
+            provider: {
+                type: 'OpenStreetMap',
+                theme: 'Standard'
+            },
+            showInLegend: false
+        }]
+    });
+};//https://www.openstreetmap.org/#map=6/48.538/31.168.png
+
 const drilldown = async function (e) {
     if (!e.seriesOptions) {
         const chart = this;
@@ -85,6 +122,21 @@ const drilldown = async function (e) {
         const isSecondLevel = e.point.drilldown.length > 4; 
         const isThirdLevel = e.point.drilldown.length > 6; 
         const isFourthLevel = e.point.drilldown.length > 9;
+
+        if (isFourthLevel) {
+            // Add the web map as a tiledwebmap series
+            chart.addSeriesAsDrilldown(e.point, {
+                type: 'tiledwebmap',
+                provider: {
+                    type: 'OpenStreetMap',
+                },
+                name: 'Web Map Tiles',
+                // include any specific options needed for the `tiledwebmap` series
+            });
+            // No need to call chart.redraw() here since addSeriesAsDrilldown will automatically handle it.
+            chart.hideLoading();
+            return
+        }
 
         let mapKey = 'adm-levels/';
         if (isFourthLevel) {
@@ -98,65 +150,38 @@ const drilldown = async function (e) {
         }
 
         chart.showLoading('<i class="icon-spinner icon-spin icon-3x"></i>'); // Show loading icon
-
         const topology = await fetch(mapKey).then(response => response.json());
         let data = Highcharts.geojson(topology);
 
         chart.hideLoading(); // Hide loading icon
 
         const seriesName = e.point.properties[`ADM${isFourthLevel ? '4' : isThirdLevel ? '3' : isSecondLevel ? '2' : '1'}_EN`];
-        breadcrumbNames.push(seriesName); // Update breadcrumb
-
         if (isFourthLevel) {
-        
-            // Transform geojson features into mappoint data for the individual points
-            const pointData = data.map(d => {
-                const latitude = parseFloat(d.properties['latitude'].replace(',', '.'));
-                const longitude = parseFloat(d.properties['longitude'].replace(',', '.'));
-                const amount = parseFloat(d.properties['amount']);
-        
-                if (!isNaN(latitude) && !isNaN(longitude) && !isNaN(amount)) {
-                    return {
-                        name: d.properties['ADM4_EN'],
-                        lat: latitude,
-                        lon: longitude,
-                        z: amount
-                    };
-                } else {
-                    return null;
-                }
-            }).filter(point => point !== null); // Filter out invalid points
-        
-            // Add the mappoint series with processed data
-            chart.addSeriesAsDrilldown(e.point, {
-                type: 'mappoint',
-                name: seriesName + ' - Points',
-                data: pointData,
-                color: Highcharts.getOptions().colors[1],
-                tooltip: {
-                    pointFormat: '<b>{point.name}</b><br>Lat: {point.lat}, Lon: {point.lon}, Amount: {point.z}'
-                }
-            });
-        
-            return; // Exit the function to prevent further processing
+            breadcrumbNames = [seriesName];
+        } else if (isThirdLevel) {
+            breadcrumbNames = [seriesName];
+        } else if (isSecondLevel) {
+            breadcrumbNames = [seriesName];
+        } else {
+            breadcrumbNames = [seriesName];
         }
-        else {
-            // Modify properties for areas
-            data.forEach((d, i) => {
-                d.value = i; // or any other value logic for your points
-                d.drilldown = d.properties[isThirdLevel ? 'ADM4_PCODE' : isSecondLevel ? 'ADM3_PCODE' : 'ADM2_PCODE'];
-                d.value = d.properties['amount'] === 0 ? 0.0001 : d.properties['amount'];
-            });
 
-            chart.addSeriesAsDrilldown(e.point, {
-                name: seriesName,
-                data: data,
-                dataLabels: {
-                    enabled: true,
-                    format: `{point.properties.${isThirdLevel ? 'ADM4_EN' : isSecondLevel ? 'ADM3_EN' : 'ADM2_EN'}}`
-                }
-            });
-        }
+        // Modify properties for areas
+        data.forEach((d, i) => {
+            d.value = i; // or any other value logic for your points
+            d.drilldown = d.properties[isThirdLevel ? 'ADM4_PCODE' : isSecondLevel ? 'ADM3_PCODE' : 'ADM2_PCODE'];
+            d.value = d.properties['amount'] === 0 ? 0.0001 : d.properties['amount'];
+        });
+
+        chart.addSeriesAsDrilldown(e.point, {
+            name: seriesName,
+            data: data,
+            dataLabels: {
+                enabled: true,
+                format: `{point.properties.${isThirdLevel ? 'ADM4_EN' : isSecondLevel ? 'ADM3_EN' : 'ADM2_EN'}}`
+            }
+        });
+
     }
 };
 
@@ -280,5 +305,4 @@ const afterDrillUp = function (e) {
             }
         }
     });
-
 })();
