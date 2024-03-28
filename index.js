@@ -11,17 +11,22 @@ const drilldown = async function (e) {
             // Add the web map as a tiledwebmap series
             const points = await fetch('points.json').then(response => response.json());
             const convertToFloat = str => parseFloat(str.replace(',', '.'));
-        
+
             const pointsConverted = points.map(obj => ({
                 ...obj,
                 lat: convertToFloat(obj.lat),
                 lon: convertToFloat(obj.lon)
             }));
-        
+
             console.log(pointsConverted.slice(0, 5));
             
-            // First add the tiledwebmap series
-            chart.addSeriesAsDrilldown(e.point, {
+            // Remove any existing series that should not be present in this drilldown level
+            while (chart.series.length > 0) {
+                chart.series[0].remove(false);
+            }
+
+            // Add the tiledwebmap series
+            chart.addSeries({
                 type: 'tiledwebmap',
                 name: 'TWM Tiles',
                 provider: {
@@ -29,9 +34,9 @@ const drilldown = async function (e) {
                     theme: 'Standard'
                 },
                 color: 'rgba(128,128,128,0.3)'
-            });
-            
-            // Then add the mappoint series separately
+            }, false); // The `false` here is the redraw parameter, which we set to false to wait with redrawing until we've added all series.
+
+            // Then add the mappoint series
             chart.addSeries({
                 type: 'mappoint',
                 name: 'Mappoints',
@@ -45,8 +50,9 @@ const drilldown = async function (e) {
                     enabled: true
                 },
                 data: pointsConverted
-            });
-        
+            }, false);
+
+            chart.redraw(); // Now we manually trigger a redraw of the chart.
             chart.hideLoading();
             return;
         }
@@ -101,16 +107,38 @@ const drilldown = async function (e) {
 
 // On drill up, reset to the top-level map view
 const afterDrillUp = function (e) {
+    const chart = e.target;
+
+    // Delay the removal of series to ensure that the chart is not animating or updating
+    setTimeout(function() {
+        // Carefully remove tiled web map and mappoint series if they exist
+        const seriesTypesToRemove = ['tiledwebmap', 'mappoint'];
+        seriesTypesToRemove.forEach(seriesType => {
+            const series = chart.series.find(s => s.type === seriesType);
+            if (series) {
+                series.remove(false); // Pass false to avoid redrawing after each removal
+            }
+        });
+
+        // Manually trigger a redraw of the chart after all series have been removed
+        chart.redraw();
+    }, 0); // The timeout can be very brief, as its purpose is to defer the execution until after the current call stack has cleared
+
+    // If the series options have a custom mapView, update it accordingly
     if (e.seriesOptions.custom && e.seriesOptions.custom.mapView) {
-        e.target.mapView.update(
+        chart.mapView.update(
             Highcharts.merge(
                 { insets: undefined },
                 e.seriesOptions.custom.mapView
             ),
-            false
+            false // Avoid automatic redraw
         );
     }
-    breadcrumbNames.pop();
+
+    // Update the breadcrumb trail if you are maintaining one
+    if (breadcrumbNames.length > 1) {
+        breadcrumbNames.pop();
+    }
 };
 
 (async () => {
