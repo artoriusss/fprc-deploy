@@ -8,6 +8,13 @@ const drilldown = async function (e) {
         const isFourthLevel = e.point.drilldown.length > 9;
 
         if (isFourthLevel) {
+            chart.update({
+                mapView: {
+                    projection: {
+                        name: 'WebMercator' // or the appropriate projection name
+                    }
+                }
+            }, false);
             // Add the web map as a tiledwebmap series
             const points = await fetch('points.json').then(response => response.json());
             const convertToFloat = str => parseFloat(str.replace(',', '.'));
@@ -18,7 +25,27 @@ const drilldown = async function (e) {
                 lon: convertToFloat(obj.lon)
             }));
 
-            console.log(pointsConverted.slice(0, 5));
+            const maxAmount = Math.max(...points.map(p => p.amount)); // Find the max amount value
+            const minRadius = 5; // Minimum radius size in pixels
+            const maxRadius = 40; // Maximum radius size in pixels
+
+            // Scale factor based on the square root scale
+            const scale_factor = (maxRadius - minRadius) / Math.sqrt(maxAmount);
+
+            const calculateRadius = (amount) => {
+                return Math.sqrt(amount) * scale_factor + minRadius;
+            };
+
+            const pointsWithRadii = points.map(obj => ({
+                ...obj,
+                lat: convertToFloat(obj.lat),
+                lon: convertToFloat(obj.lon),
+                marker: {
+                    radius: calculateRadius(obj.amount),
+                    fillColor: 'rgba(124, 181, 236, 0.8)' 
+                }
+            }));
+
             
             // Remove any existing series that should not be present in this drilldown level
             while (chart.series.length > 0) {
@@ -49,7 +76,7 @@ const drilldown = async function (e) {
                 dataLabels: {
                     enabled: true
                 },
-                data: pointsConverted
+                data: pointsWithRadii
             }, false);
 
             chart.redraw(); // Now we manually trigger a redraw of the chart.
@@ -136,9 +163,9 @@ const afterDrillUp = function (e) {
     }
 
     // Update the breadcrumb trail if you are maintaining one
-    if (breadcrumbNames.length > 1) {
-        breadcrumbNames.pop();
-    }
+    // if (breadcrumbNames.length > 1) {
+    //     breadcrumbNames.pop();
+    // }
 };
 
 (async () => {
