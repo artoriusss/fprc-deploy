@@ -1,141 +1,54 @@
-// const drilldown = async function (e) {
-//     //console.log('Drilling down into:', e.point.properties);
-//     if (!e.seriesOptions) {
-//         const chart = this;
-
-//         const isSecondLevel = e.point.drilldown.length > 4; 
-//         const isThirdLevel = e.point.drilldown.length > 6; 
-//         const isFourthLevel = e.point.drilldown.length > 9;
-
-//         let mapKey = 'adm-levels/';
-//         if (isFourthLevel) {
-//             mapKey += `ua-adm5/${e.point.drilldown}.geojson`;
-//         } else if (isThirdLevel) {
-//             mapKey += `ua-adm4/${e.point.drilldown}.geojson`;
-//         } else if (isSecondLevel) {
-//             mapKey += `ua-adm3/${e.point.drilldown}.geojson`;
-//         } else {
-//             mapKey += `ua-adm1/${e.point.drilldown}.geojson`;
-//         }
-
-
-//         chart.showLoading('<i class="icon-spinner icon-spin icon-3x"></i>');
-
-//         const topology = await fetch(mapKey).then(response => response.json());
-//         const data = Highcharts.geojson(topology);
-
-//         data.forEach((d, i) => {
-//             d.value = i;
-//             if (isFourthLevel) {
-//                 d.value = d.properties['amount'] === 0 ? 0.0001 : d.properties['amount'];
-//             } 
-//             else if (isThirdLevel) {
-//                 d.drilldown = d.properties['ADM4_PCODE']; 
-//                 d.value = d.properties['amount'] === 0 ? 0.0001 : d.properties['amount'];
-//             } else if (isSecondLevel) {
-//                 d.drilldown = d.properties['ADM3_PCODE']; 
-//                 d.value = d.properties['amount'] === 0 ? 0.0001 : d.properties['amount'];
-//             } else {
-//                 d.drilldown = d.properties['ADM2_PCODE']; 
-//                 d.value = d.properties['amount'] === 0 ? 0.0001 : d.properties['amount'];
-//             }
-//         });
-
-//         chart.hideLoading();
-
-//         // Set the series name based on the drilldown level and the clicked point information
-//         const seriesName = isFourthLevel
-//             ? e.point.properties['ADM4_EN']
-//             : isThirdLevel
-//             ? e.point.properties['ADM3_EN'] 
-//             : isSecondLevel
-//             ? e.point.properties['ADM2_EN'] 
-//             : e.point.properties['ADM1_EN']; 
-//         console.log('Series name:', seriesName);
-
-//         if (isFourthLevel) {
-//             breadcrumbNames = [seriesName];
-//         } else if (isThirdLevel) {
-//             breadcrumbNames = [seriesName];
-//         } else if (isSecondLevel) {
-//             breadcrumbNames = [seriesName];
-//         } else {
-//             breadcrumbNames = [seriesName];
-//         }
-
-//         console.log('Breadcrumb names:', breadcrumbNames);
-//         // Add or update the series for the drilldown
-//         chart.addSeriesAsDrilldown(e.point, {
-//             name: e.point.name, //e.point.properties['ADM1_EN'],
-//             data,
-//             dataLabels: {
-//                 enabled: true,
-//                 format: `{point.properties.${isThirdLevel ? 'ADM4_EN' : isSecondLevel ? 'ADM3_EN' : 'ADM2_EN'}}`
-//             }
-//         });
-//     }
-// };
-
 let breadcrumbNames = ['Ukraine']; 
-
-const drilldownToFourthLevel = (e) => {
-    // Destroy the existing chart and create a new one with the web map
-    const currentChart = Highcharts.charts.find(chart => chart.container.id === 'container');
-    if (currentChart) {
-        currentChart.destroy();
-    }
-
-    // Create a new Highcharts map with the `tiledwebmap` series
-    Highcharts.mapChart('container', {
-        chart: {
-            margin: 0
-        },
-        title: {
-            text: 'Fourth Level - Web Map'
-        },
-        mapNavigation: {
-            enabled: true,
-            buttonOptions: {
-                alignTo: 'spacingBox'
-            }
-        },
-        mapView: {
-            center: [30.5238, 50.4547], // Center coordinates for the map
-            zoom: 10 // Zoom level
-        },
-        series: [{
-            type: 'tiledwebmap',
-            name: 'Web Map Tiles',
-            provider: {
-                type: 'OpenStreetMap',
-                theme: 'Standard'
-            },
-            showInLegend: false
-        }]
-    });
-};//https://www.openstreetmap.org/#map=6/48.538/31.168.png
 
 const drilldown = async function (e) {
     if (!e.seriesOptions) {
         const chart = this;
-
         const isSecondLevel = e.point.drilldown.length > 4; 
         const isThirdLevel = e.point.drilldown.length > 6; 
         const isFourthLevel = e.point.drilldown.length > 9;
 
         if (isFourthLevel) {
             // Add the web map as a tiledwebmap series
+            const points = await fetch('points.json').then(response => response.json());
+            const convertToFloat = str => parseFloat(str.replace(',', '.'));
+        
+            const pointsConverted = points.map(obj => ({
+                ...obj,
+                lat: convertToFloat(obj.lat),
+                lon: convertToFloat(obj.lon)
+            }));
+        
+            console.log(pointsConverted.slice(0, 5));
+            
+            // First add the tiledwebmap series
             chart.addSeriesAsDrilldown(e.point, {
                 type: 'tiledwebmap',
+                name: 'TWM Tiles',
                 provider: {
                     type: 'OpenStreetMap',
+                    theme: 'Standard'
                 },
-                name: 'Web Map Tiles',
-                // include any specific options needed for the `tiledwebmap` series
+                color: 'rgba(128,128,128,0.3)'
             });
-            // No need to call chart.redraw() here since addSeriesAsDrilldown will automatically handle it.
+            
+            // Then add the mappoint series separately
+            chart.addSeries({
+                type: 'mappoint',
+                name: 'Mappoints',
+                enableMouseTracking: false,
+                states: {
+                    inactive: {
+                        enabled: false
+                    }
+                },
+                dataLabels: {
+                    enabled: true
+                },
+                data: pointsConverted
+            });
+        
             chart.hideLoading();
-            return
+            return;
         }
 
         let mapKey = 'adm-levels/';
