@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070722607450699998, "Shape_Area": 0.000107138793236, "ADM4_EN": "Nova Huta", "ADM4_UA": "Нова Гута", "ADM4_PCODE": "UA1806013039", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Malynska", "ADM3_UA": "Малинська", "ADM3_PCODE": "UA1806013", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.448927223000055, 50.909245789000067 ], [ 29.447887148000063, 50.910311799000056 ], [ 29.457919252000067, 50.914647824000042 ], [ 29.470455188000074, 50.916252770000028 ], [ 29.469930235000049, 50.918945827000073 ], [ 29.460603191000075, 50.918539816000077 ], [ 29.452628177000065, 50.916410824000081 ], [ 29.439769223000042, 50.910134756000048 ], [ 29.444205237000062, 50.906694790000074 ], [ 29.448927223000055, 50.909245789000067 ] ] ] } }
+]
+}

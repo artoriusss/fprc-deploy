@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.093649906518799994, "Shape_Area": 0.000239183481499, "ADM4_EN": "Kyslytske", "ADM4_UA": "Кислицьке", "ADM4_PCODE": "UA0510013013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tomashpilska", "ADM3_UA": "Томашпільська", "ADM3_PCODE": "UA0510013", "ADM2_EN": "Tulchynskyi", "ADM2_UA": "Тульчинський", "ADM2_PCODE": "UA0510", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.683652, 48.551152 ], [ 28.677066, 48.549751 ], [ 28.673128, 48.546973 ], [ 28.670313, 48.548071 ], [ 28.667851, 48.544958 ], [ 28.662061, 48.540698 ], [ 28.66141, 48.538275 ], [ 28.669921, 48.539837 ], [ 28.677664, 48.539029 ], [ 28.682626, 48.541398 ], [ 28.682588, 48.537451 ], [ 28.686226, 48.537945 ], [ 28.686867, 48.541983 ], [ 28.68967, 48.543765 ], [ 28.693977001000064, 48.549168 ], [ 28.6907, 48.550274 ], [ 28.685968, 48.547498 ], [ 28.683652, 48.551152 ] ] ] } }
+]
+}

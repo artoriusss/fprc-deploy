@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.073293549814400005, "Shape_Area": 9.7392080181400004e-05, "ADM4_EN": "Kyparysne", "ADM4_UA": "Кипарисне", "ADM4_PCODE": "UA0120017004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Malomaiatska", "ADM3_UA": "Маломаяцька", "ADM3_PCODE": "UA0120017", "ADM2_EN": "Yaltynskyi", "ADM2_UA": "Ялтинський", "ADM2_PCODE": "UA0120", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.355805721000024, 44.602660730000025 ], [ 34.354795104000061, 44.606736258000069 ], [ 34.343957237000041, 44.602580707000072 ], [ 34.346759782000049, 44.600387667000064 ], [ 34.345331001000034, 44.596634238000036 ], [ 34.351802971000041, 44.596039038000072 ], [ 34.35379647600007, 44.592649067000025 ], [ 34.35579348400006, 44.593663893000041 ], [ 34.353871552000044, 44.596817931000032 ], [ 34.355805721000024, 44.602660730000025 ] ] ] } }
+]
+}

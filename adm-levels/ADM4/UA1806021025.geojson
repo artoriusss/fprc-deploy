@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057106043603799998, "Shape_Area": 0.000119189444088, "ADM4_EN": "Rokytne", "ADM4_UA": "Рокитне", "ADM4_PCODE": "UA1806021025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Slovechanska", "ADM3_UA": "Словечанська", "ADM3_PCODE": "UA1806021", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.267392961000041, 51.209898030000033 ], [ 28.268737921000024, 51.213914010000053 ], [ 28.260731880000037, 51.216066 ], [ 28.248388921000071, 51.217522020000047 ], [ 28.250769960000071, 51.211074960000076 ], [ 28.258326, 51.210504 ], [ 28.259124120000024, 51.208461990000046 ], [ 28.267392961000041, 51.209898030000033 ] ] ] } }
+]
+}

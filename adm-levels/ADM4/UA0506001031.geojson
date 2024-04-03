@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.100041535451, "Shape_Area": 0.00023261852725400001, "ADM4_EN": "Luka-Barska", "ADM4_UA": "Лука-Барська", "ADM4_PCODE": "UA0506001031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Barska", "ADM3_UA": "Барська", "ADM3_PCODE": "UA0506001", "ADM2_EN": "Zhmerynskyi", "ADM2_UA": "Жмеринський", "ADM2_PCODE": "UA0506", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.797313, 49.16247 ], [ 27.789606001000038, 49.163001 ], [ 27.785261, 49.157816 ], [ 27.791621999000029, 49.155652 ], [ 27.793939, 49.152677 ], [ 27.79143300100003, 49.150485 ], [ 27.798202999000068, 49.143878 ], [ 27.804471, 49.145343 ], [ 27.806659500000023, 49.14866 ], [ 27.806381, 49.152481 ], [ 27.801419, 49.159199 ], [ 27.800219, 49.162275 ], [ 27.797313, 49.16247 ] ] ] } }
+]
+}

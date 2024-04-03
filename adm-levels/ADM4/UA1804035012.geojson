@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.066941188343400002, "Shape_Area": 0.00014159410944900001, "ADM4_EN": "Zaliznia", "ADM4_UA": "Залізня", "ADM4_PCODE": "UA1804035012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novohuivynska", "ADM3_UA": "Новогуйвинська", "ADM3_PCODE": "UA1804035", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.529805790000069, 50.147742590000064 ], [ 28.522503, 50.149033020000047 ], [ 28.518594120000046, 50.153101020000065 ], [ 28.510181999000054, 50.154759 ], [ 28.507644, 50.149005030000069 ], [ 28.511786332000042, 50.146810742000071 ], [ 28.516026960000033, 50.146662960000072 ], [ 28.523319840000056, 50.144067990000053 ], [ 28.531779119000078, 50.14213398000004 ], [ 28.530772155000079, 50.147589090000054 ], [ 28.529805790000069, 50.147742590000064 ] ] ] } }
+]
+}

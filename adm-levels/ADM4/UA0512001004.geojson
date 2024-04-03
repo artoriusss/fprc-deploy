@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.069849469304199996, "Shape_Area": 0.000183236341877, "ADM4_EN": "Velyke", "ADM4_UA": "Велике", "ADM4_PCODE": "UA0512001004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hlukhovetska", "ADM3_UA": "Глуховецька", "ADM3_PCODE": "UA0512001", "ADM2_EN": "Khmilnytskyi", "ADM2_UA": "Хмільницький", "ADM2_PCODE": "UA0512", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.93148099900003, 49.803228 ], [ 28.928505252000036, 49.802979822000054 ], [ 28.927622710000037, 49.79705406100004 ], [ 28.927984294000055, 49.789654868000071 ], [ 28.933017921000044, 49.790719066000065 ], [ 28.938540294000063, 49.790550626000027 ], [ 28.94346921600004, 49.793190752000044 ], [ 28.943885243000068, 49.798438796000028 ], [ 28.942586318000053, 49.800201024000046 ], [ 28.93148099900003, 49.803228 ] ] ] } }
+]
+}

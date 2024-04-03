@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.085743337936800001, "Shape_Area": 0.000241776189473, "ADM4_EN": "Teplivka", "ADM4_UA": "Теплівка", "ADM4_PCODE": "UA0116015007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykolaivska", "ADM3_UA": "Миколаївська", "ADM3_PCODE": "UA0116015", "ADM2_EN": "Simferopolskyi", "ADM2_UA": "Сімферопольський", "ADM2_PCODE": "UA0116", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.70347687900005, 45.037847959000032 ], [ 33.681625999000062, 45.035245 ], [ 33.681213205000063, 45.031010954000067 ], [ 33.685734221000075, 45.03169751300004 ], [ 33.697016904000066, 45.024966023000047 ], [ 33.706188857000029, 45.024789134000059 ], [ 33.705788742000038, 45.031751868000072 ], [ 33.70347687900005, 45.037847959000032 ] ] ] } }
+]
+}

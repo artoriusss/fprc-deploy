@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.074138539497100003, "Shape_Area": 0.000118589078175, "ADM4_EN": "Lintsi", "ADM4_UA": "Лінці", "ADM4_PCODE": "UA2110015010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Serednianska", "ADM3_UA": "Середнянська", "ADM3_PCODE": "UA2110015", "ADM2_EN": "Uzhhorodskyi", "ADM2_UA": "Ужгородський", "ADM2_PCODE": "UA2110", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.553973566000025, 48.579573307000032 ], [ 22.547214570000051, 48.57915231000004 ], [ 22.544942565000042, 48.572637311000051 ], [ 22.546910553000032, 48.563878310000064 ], [ 22.554317562000051, 48.575044306000052 ], [ 22.553973566000025, 48.579573307000032 ] ] ] } }
+]
+}

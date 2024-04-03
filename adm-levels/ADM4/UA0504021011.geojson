@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.104800094536, "Shape_Area": 7.1843659706100006e-05, "ADM4_EN": "Shevchenka", "ADM4_UA": "Шевченка", "ADM4_PCODE": "UA0504021011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sobolivska", "ADM3_UA": "Соболівська", "ADM3_PCODE": "UA0504021", "ADM2_EN": "Haisynskyi", "ADM2_UA": "Гайсинський", "ADM2_PCODE": "UA0504", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.583868001000042, 48.670087 ], [ 29.582793999000046, 48.66825 ], [ 29.594479, 48.665442 ], [ 29.593502999000066, 48.669686 ], [ 29.589457, 48.667854 ], [ 29.583868001000042, 48.670087 ] ] ] } }
+]
+}

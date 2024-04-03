@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.15310618759899999, "Shape_Area": 0.00012629585997800001, "ADM4_EN": "Zdorovets", "ADM4_UA": "Здоровець", "ADM4_PCODE": "UA1808013020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yemilchynska", "ADM3_UA": "Ємільчинська", "ADM3_PCODE": "UA1808013", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 27.906081120000067, 50.910750990000054 ], [ 27.917933040000037, 50.908490010000037 ], [ 27.917992079000044, 50.910291990000076 ], [ 27.911399040000049, 50.909707980000064 ], [ 27.906081120000067, 50.910750990000054 ] ] ], [ [ [ 27.886938120000025, 50.90707296000005 ], [ 27.885922919000052, 50.91026499000003 ], [ 27.877836960000025, 50.908103010000048 ], [ 27.879126299000063, 50.906303752000042 ], [ 27.886938120000025, 50.90707296000005 ] ] ] ] } }
+]
+}

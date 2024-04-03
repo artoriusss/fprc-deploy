@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.096931162188499995, "Shape_Area": 9.3347389137000007e-05, "ADM4_EN": "Dykovyny", "ADM4_UA": "Диковини", "ADM4_PCODE": "UA0708001009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berestechkivska", "ADM3_UA": "Берестечківська", "ADM3_PCODE": "UA0708001", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 24.969107084000029, 50.390898003000075 ], [ 24.961657084000024, 50.393210003000036 ], [ 24.961050084000078, 50.391488002000074 ], [ 24.969107084000029, 50.390898003000075 ] ] ], [ [ [ 24.979732081000066, 50.387061002000053 ], [ 24.978238082000075, 50.382824003000053 ], [ 24.986976082000069, 50.376686002000042 ], [ 24.988217081000073, 50.381582002000073 ], [ 24.983596082000076, 50.382829002000051 ], [ 24.986074082000073, 50.385665003000042 ], [ 24.979732081000066, 50.387061002000053 ] ] ] ] } }
+]
+}

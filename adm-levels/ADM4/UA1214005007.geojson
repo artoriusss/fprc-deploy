@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.096485066197800007, "Shape_Area": 0.000191457102571, "ADM4_EN": "Maliivka", "ADM4_UA": "Маліївка", "ADM4_PCODE": "UA1214005007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykomykhailivska", "ADM3_UA": "Великомихайлівська", "ADM3_PCODE": "UA1214005", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.618177833000061, 47.91790141000007 ], [ 36.638644348000071, 47.920925982000028 ], [ 36.637336901000026, 47.925696871000071 ], [ 36.627474, 47.924889 ], [ 36.623467, 47.923681 ], [ 36.607357, 47.923425 ], [ 36.604572, 47.925967 ], [ 36.600848, 47.925891 ], [ 36.599554966000028, 47.92127718200004 ], [ 36.618177833000061, 47.91790141000007 ] ] ] } }
+]
+}

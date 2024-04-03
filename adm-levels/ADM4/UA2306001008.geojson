@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.051917785058499998, "Shape_Area": 9.0438815017099996e-05, "ADM4_EN": "Udilenske", "ADM4_UA": "Уділенське", "ADM4_PCODE": "UA2306001008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilenkivska", "ADM3_UA": "Біленьківська", "ADM3_PCODE": "UA2306001", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.980581162000078, 47.743060050000054 ], [ 34.974312123000061, 47.742859980000048 ], [ 34.969308313000056, 47.739984250000077 ], [ 34.962734687000079, 47.739257295000073 ], [ 34.963359618000027, 47.736634010000046 ], [ 34.974709924000024, 47.737184040000045 ], [ 34.976505964000069, 47.735345070000051 ], [ 34.982123044000048, 47.735871030000055 ], [ 34.980581162000078, 47.743060050000054 ] ] ] } }
+]
+}

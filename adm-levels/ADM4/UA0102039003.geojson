@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.055934571033200001, "Shape_Area": 0.00012846643060400001, "ADM4_EN": "Prokhladne", "ADM4_UA": "Прохладне", "ADM4_PCODE": "UA0102039003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Skalystivska", "ADM3_UA": "Скалистівська", "ADM3_PCODE": "UA0102039", "ADM2_EN": "Bakhchysaraiskyi", "ADM2_UA": "Бахчисарайський", "ADM2_PCODE": "UA0102", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.994256, 44.745756 ], [ 33.998534001000053, 44.752607 ], [ 33.993174, 44.759504 ], [ 33.991126, 44.763593 ], [ 33.986524, 44.76032 ], [ 33.986191, 44.755926 ], [ 33.988668, 44.755617 ], [ 33.991070001000026, 44.748195 ], [ 33.994256, 44.745756 ] ] ] } }
+]
+}

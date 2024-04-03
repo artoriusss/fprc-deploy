@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0614962149892, "Shape_Area": 0.00012016343884599999, "ADM4_EN": "Nyvna", "ADM4_UA": "Нивна", "ADM4_PCODE": "UA1804047027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Romanivska", "ADM3_UA": "Романівська", "ADM3_PCODE": "UA1804047", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.897486120000053, 50.264556030000051 ], [ 27.895601160000069, 50.265828 ], [ 27.892348920000074, 50.262930990000029 ], [ 27.892595880000044, 50.260335030000078 ], [ 27.900276120000058, 50.261069970000051 ], [ 27.90504, 50.258068020000053 ], [ 27.912233160000028, 50.260473990000037 ], [ 27.91273104000004, 50.265860040000064 ], [ 27.908889120000026, 50.266535040000065 ], [ 27.899523, 50.266098 ], [ 27.897486120000053, 50.264556030000051 ] ] ] } }
+]
+}

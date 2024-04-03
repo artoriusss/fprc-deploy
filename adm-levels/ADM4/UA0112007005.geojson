@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0375944613958, "Shape_Area": 8.02659031e-05, "ADM4_EN": "Zoria", "ADM4_UA": "Зоря", "ADM4_PCODE": "UA0112007005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Voskhodnenska", "ADM3_UA": "Восходненська", "ADM3_PCODE": "UA0112007", "ADM2_EN": "Krasnohvardiiskyi", "ADM2_UA": "Красногвардійський", "ADM2_PCODE": "UA0112", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.519951234000075, 45.499689980000028 ], [ 34.527292425000041, 45.501555218000078 ], [ 34.523145946000056, 45.509905827000068 ], [ 34.515178589000072, 45.507525360000045 ], [ 34.518590798000048, 45.500309682000079 ], [ 34.519951234000075, 45.499689980000028 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.090102738808900004, "Shape_Area": 9.6166263054999997e-05, "ADM4_EN": "Buzuluky", "ADM4_UA": "Бузулуки", "ADM4_PCODE": "UA1204013004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zatyshnianska", "ADM3_UA": "Затишнянська", "ADM3_PCODE": "UA1204013", "ADM2_EN": "Kamianskyi", "ADM2_UA": "Кам’янський", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.182446001000073, 48.093931 ], [ 34.181779001000052, 48.087188 ], [ 34.18352599900004, 48.082846 ], [ 34.18717999900008, 48.082505 ], [ 34.191644001000043, 48.084514 ], [ 34.203237001000048, 48.085725 ], [ 34.202887, 48.087626 ], [ 34.187522999000066, 48.084884 ], [ 34.18680499900006, 48.088059 ], [ 34.189268, 48.092846 ], [ 34.182446001000073, 48.093931 ] ] ] } }
+]
+}

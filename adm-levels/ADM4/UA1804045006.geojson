@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.058228587619600002, "Shape_Area": 7.0427959737499998e-05, "ADM4_EN": "Brid", "ADM4_UA": "Брід", "ADM4_PCODE": "UA1804045006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Radomyshlska", "ADM3_UA": "Радомишльська", "ADM3_PCODE": "UA1804045", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.097965880000061, 50.475132990000077 ], [ 29.082656160000056, 50.478257970000072 ], [ 29.078663040000038, 50.475567960000035 ], [ 29.089312495000058, 50.473363427000038 ], [ 29.091445630000067, 50.474634979000029 ], [ 29.097367890000044, 50.473748478000061 ], [ 29.103411947000041, 50.471742148000033 ], [ 29.102514119000034, 50.475312990000077 ], [ 29.097965880000061, 50.475132990000077 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.091857903793900006, "Shape_Area": 0.00012803409570300001, "ADM4_EN": "Berezovyi Hrud", "ADM4_UA": "Березовий Груд", "ADM4_PCODE": "UA1806011003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Luhynska", "ADM3_UA": "Лугинська", "ADM3_PCODE": "UA1806011", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.364954165000029, 51.001695484000038 ], [ 28.362231995000059, 51.004792251000026 ], [ 28.359884463000071, 51.000683233000075 ], [ 28.347307590000071, 51.001816122000037 ], [ 28.350533880000057, 50.998982040000044 ], [ 28.359563067000067, 50.996873801000049 ], [ 28.370917107000025, 50.992517662000068 ], [ 28.376053920000061, 50.992650990000072 ], [ 28.373387070000035, 50.99631712300004 ], [ 28.362712429000055, 50.999983796000038 ], [ 28.364954165000029, 51.001695484000038 ] ] ] } }
+]
+}

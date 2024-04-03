@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.073801786030700006, "Shape_Area": 0.00026404495618200001, "ADM4_EN": "Hryshyne", "ADM4_UA": "Гришине", "ADM4_PCODE": "UA0112011001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hryshynska", "ADM3_UA": "Гришинська", "ADM3_PCODE": "UA0112011", "ADM2_EN": "Krasnohvardiiskyi", "ADM2_UA": "Красногвардійський", "ADM2_PCODE": "UA0112", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.837648172000058, 45.646565888000055 ], [ 33.834406835000038, 45.655206558000032 ], [ 33.823648353000067, 45.655785284000046 ], [ 33.822901701000035, 45.647951066000076 ], [ 33.82498460000005, 45.640904042000045 ], [ 33.82845857500007, 45.641406657000061 ], [ 33.830693884000027, 45.635075555000071 ], [ 33.83783354600007, 45.635113464000028 ], [ 33.842349510000076, 45.63717738500003 ], [ 33.837648172000058, 45.646565888000055 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.137415284794, "Shape_Area": 0.00059040370852899999, "ADM4_EN": "Pokrovske", "ADM4_UA": "Покровське", "ADM4_PCODE": "UA1208011001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pokrovska", "ADM3_UA": "Покровська", "ADM3_PCODE": "UA1208011", "ADM2_EN": "Nikopolskyi", "ADM2_UA": "Нікопольський", "ADM2_PCODE": "UA1208", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.141963, 47.575452 ], [ 34.137156, 47.570304 ], [ 34.13841, 47.564501 ], [ 34.143909, 47.556921 ], [ 34.146448, 47.548429 ], [ 34.146628, 47.545234 ], [ 34.14941, 47.53834 ], [ 34.159438, 47.532541 ], [ 34.164271, 47.532366 ], [ 34.167734999000061, 47.535476 ], [ 34.166716, 47.538229 ], [ 34.162384999000039, 47.540856 ], [ 34.161527, 47.547338 ], [ 34.157293, 47.565668 ], [ 34.150469, 47.565043 ], [ 34.147699999000054, 47.57029 ], [ 34.145561, 47.569958 ], [ 34.144231, 47.574636 ], [ 34.141963, 47.575452 ] ] ] } }
+]
+}

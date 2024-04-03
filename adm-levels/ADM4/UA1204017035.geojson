@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.101957758838, "Shape_Area": 0.00047008726119000002, "ADM4_EN": "Semenivka", "ADM4_UA": "Семенівка", "ADM4_PCODE": "UA1204017035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krynychanska", "ADM3_UA": "Криничанська", "ADM3_PCODE": "UA1204017", "ADM2_EN": "Kamianskyi", "ADM2_UA": "Кам’янський", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.327077, 48.468988 ], [ 34.320722, 48.468467 ], [ 34.306451, 48.464979 ], [ 34.30765, 48.461625 ], [ 34.312683, 48.455431 ], [ 34.313447, 48.452111 ], [ 34.322191, 48.45314 ], [ 34.3229, 48.451464 ], [ 34.329535, 48.453119 ], [ 34.332095, 48.455095 ], [ 34.338210999000069, 48.455455 ], [ 34.344718, 48.457946 ], [ 34.346505, 48.46023 ], [ 34.34170399900006, 48.463641 ], [ 34.341040001000067, 48.468189 ], [ 34.335012001000052, 48.467218 ], [ 34.327077, 48.468988 ] ] ] } }
+]
+}

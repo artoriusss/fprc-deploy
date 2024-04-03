@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.031560917375199997, "Shape_Area": 3.7711278829000001e-05, "ADM4_EN": "Huniadi", "ADM4_UA": "Гуняді", "ADM4_PCODE": "UA2102007003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykobyihanska", "ADM3_UA": "Великобийганська", "ADM3_PCODE": "UA2102007", "ADM2_EN": "Berehivskyi", "ADM2_UA": "Берегівський", "ADM2_PCODE": "UA2102", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.606833726000048, 48.141952031000073 ], [ 22.612302723000028, 48.149872031000029 ], [ 22.608071727000038, 48.151478031000067 ], [ 22.604958728000042, 48.147128031000079 ], [ 22.606833726000048, 48.141952031000073 ] ] ] } }
+]
+}

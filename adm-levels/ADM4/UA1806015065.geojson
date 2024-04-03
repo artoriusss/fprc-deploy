@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062027098611800002, "Shape_Area": 0.000108344732395, "ADM4_EN": "Yazhberen", "ADM4_UA": "Яжберень", "ADM4_PCODE": "UA1806015065", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Narodytska", "ADM3_UA": "Народицька", "ADM3_PCODE": "UA1806015", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.129366160000075, 51.255721980000033 ], [ 29.124717119000024, 51.257198970000047 ], [ 29.123449920000041, 51.254624970000066 ], [ 29.126324160000024, 51.251826960000074 ], [ 29.136771, 51.247521990000052 ], [ 29.139546960000075, 51.249951990000056 ], [ 29.14730712000005, 51.249603960000059 ], [ 29.147846041000037, 51.25190796000004 ], [ 29.137518, 51.253216020000082 ], [ 29.129366160000075, 51.255721980000033 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.093620234650499998, "Shape_Area": 0.00012817339353199999, "ADM4_EN": "Kamianske", "ADM4_UA": "Кам'янське", "ADM4_PCODE": "UA2102013001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kamianska", "ADM3_UA": "Кам'янська", "ADM3_PCODE": "UA2102013", "ADM2_EN": "Berehivskyi", "ADM2_UA": "Берегівський", "ADM2_PCODE": "UA2102", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.951156541000046, 48.283350022000036 ], [ 22.946415543000057, 48.282738023000036 ], [ 22.935446548000073, 48.278511023000078 ], [ 22.938408548000041, 48.273964023000076 ], [ 22.945965543000057, 48.274534022000068 ], [ 22.944874544000072, 48.278335023000068 ], [ 22.955327187000023, 48.279421028000058 ], [ 22.954979624000032, 48.282543367000073 ], [ 22.951156541000046, 48.283350022000036 ] ] ] } }
+]
+}

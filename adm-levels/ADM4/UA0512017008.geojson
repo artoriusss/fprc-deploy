@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13893191662099999, "Shape_Area": 0.00018926958156599999, "ADM4_EN": "Holodky", "ADM4_UA": "Голодьки", "ADM4_PCODE": "UA0512017008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khmilnytska", "ADM3_UA": "Хмільницька", "ADM3_PCODE": "UA0512017", "ADM2_EN": "Khmilnytskyi", "ADM2_UA": "Хмільницький", "ADM2_PCODE": "UA0512", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.971771, 49.529044 ], [ 27.970291, 49.53126 ], [ 27.966262999000037, 49.528768 ], [ 27.96955, 49.523663 ], [ 27.964922, 49.522678 ], [ 27.965688001000046, 49.516823 ], [ 27.968444, 49.513696 ], [ 27.970856, 49.520268 ], [ 27.973818001000041, 49.516917 ], [ 27.981241, 49.516832 ], [ 27.984735, 49.520323 ], [ 27.979566, 49.525003 ], [ 27.971771, 49.529044 ] ] ] } }
+]
+}

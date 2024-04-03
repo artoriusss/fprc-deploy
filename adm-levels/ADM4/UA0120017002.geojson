@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.025276720458700001, "Shape_Area": 3.01410634797e-05, "ADM4_EN": "Vynohradnyi", "ADM4_UA": "Виноградний", "ADM4_PCODE": "UA0120017002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Malomaiatska", "ADM3_UA": "Маломаяцька", "ADM3_PCODE": "UA0120017", "ADM2_EN": "Yaltynskyi", "ADM2_UA": "Ялтинський", "ADM2_PCODE": "UA0120", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.372495325000045, 44.643173012000034 ], [ 34.368053480000071, 44.642974107000043 ], [ 34.364735320000079, 44.640498580000042 ], [ 34.367254714000069, 44.637419872000066 ], [ 34.372495325000045, 44.643173012000034 ] ] ] } }
+]
+}

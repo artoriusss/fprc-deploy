@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.131726806636, "Shape_Area": 0.00026908949708899998, "ADM4_EN": "Krasnoshchokove", "ADM4_UA": "Краснощокове", "ADM4_PCODE": "UA1214007014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dubovykivska", "ADM3_UA": "Дубовиківська", "ADM3_PCODE": "UA1214007", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.193926250000061, 48.182073 ], [ 36.187522, 48.180529 ], [ 36.18467, 48.185242 ], [ 36.171421, 48.182256 ], [ 36.161113, 48.18556 ], [ 36.15611, 48.183488 ], [ 36.174302999000076, 48.177277 ], [ 36.174947, 48.176309 ], [ 36.187729, 48.176132 ], [ 36.190169, 48.171673 ], [ 36.198320999000032, 48.172775 ], [ 36.193926250000061, 48.182073 ] ] ] } }
+]
+}

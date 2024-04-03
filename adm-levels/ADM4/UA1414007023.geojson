@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.074891138391800005, "Shape_Area": 0.00022481679459, "ADM4_EN": "Topolyne", "ADM4_UA": "Тополине", "ADM4_PCODE": "UA1414007023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nikolska", "ADM3_UA": "Нікольська", "ADM3_PCODE": "UA1414007", "ADM2_EN": "Mariupolskyi", "ADM2_UA": "Маріупольський", "ADM2_PCODE": "UA1414", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.389728998000066, 47.243406 ], [ 37.384871, 47.244495 ], [ 37.382664999000042, 47.241909 ], [ 37.376412, 47.240787 ], [ 37.377181, 47.238348 ], [ 37.380927001000032, 47.236872 ], [ 37.383746, 47.232556 ], [ 37.385697, 47.233489 ], [ 37.387247999000067, 47.227454 ], [ 37.396307001000025, 47.229655 ], [ 37.395186999000032, 47.236223 ], [ 37.401084, 47.238898 ], [ 37.396450001000062, 47.241121 ], [ 37.394643999000039, 47.243497 ], [ 37.389728998000066, 47.243406 ] ] ] } }
+]
+}

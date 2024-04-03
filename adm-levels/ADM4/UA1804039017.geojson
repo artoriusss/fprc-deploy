@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.048571727088700001, "Shape_Area": 3.5718614397999998e-05, "ADM4_EN": "Rudka", "ADM4_UA": "Рудка", "ADM4_PCODE": "UA1804039017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Popilnianska", "ADM3_UA": "Попільнянська", "ADM3_PCODE": "UA1804039", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.459705040000074, 50.091698970000039 ], [ 29.460227040000063, 50.087130030000026 ], [ 29.463910919000057, 50.08836996000008 ], [ 29.47201812000003, 50.086040040000057 ], [ 29.473040880000042, 50.087158020000061 ], [ 29.463603841000065, 50.091122970000072 ], [ 29.459705040000074, 50.091698970000039 ] ] ] } }
+]
+}

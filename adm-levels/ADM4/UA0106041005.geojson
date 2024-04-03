@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.047446725379599999, "Shape_Area": 0.00012417140225800001, "ADM4_EN": "Siernovodske", "ADM4_UA": "Сєрноводське", "ADM4_PCODE": "UA0106041005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Roshchynska", "ADM3_UA": "Рощинська", "ADM3_PCODE": "UA0106041", "ADM2_EN": "Dzhankoiskyi", "ADM2_UA": "Джанкойський", "ADM2_PCODE": "UA0106", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.388763999000048, 45.571512 ], [ 34.390945, 45.580239 ], [ 34.390611, 45.584147 ], [ 34.379057001000035, 45.583463 ], [ 34.378835, 45.578654 ], [ 34.382893, 45.575113 ], [ 34.38272100100005, 45.571499 ], [ 34.388763999000048, 45.571512 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.094941821994699999, "Shape_Area": 0.00025917235965599997, "ADM4_EN": "Hrushuvato-Krynychne", "ADM4_UA": "Грушувато-Криничне", "ADM4_PCODE": "UA1214027014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Raivska", "ADM3_UA": "Раївська", "ADM3_PCODE": "UA1214027", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.24135, 48.261679 ], [ 35.236623, 48.260124 ], [ 35.233692, 48.253478 ], [ 35.23525, 48.246042 ], [ 35.241992, 48.246257 ], [ 35.244541, 48.241841 ], [ 35.252377, 48.239065 ], [ 35.252463999000042, 48.243891 ], [ 35.25422099900004, 48.248657 ], [ 35.24835900100004, 48.249214 ], [ 35.248461, 48.262045 ], [ 35.24135, 48.261679 ] ] ] } }
+]
+}

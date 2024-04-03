@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.092177702711399995, "Shape_Area": 0.000142756852258, "ADM4_EN": "Liubivka", "ADM4_UA": "Любівка", "ADM4_PCODE": "UA1410005017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kalmiuska", "ADM3_UA": "Кальміуська", "ADM3_PCODE": "UA1410005", "ADM2_EN": "Kalmiuskyi", "ADM2_UA": "Кальміуський", "ADM2_PCODE": "UA1410", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.178597998000043, 47.693718 ], [ 38.17090199900008, 47.696269 ], [ 38.166003998000065, 47.694308 ], [ 38.143110998000054, 47.695648 ], [ 38.136179999000035, 47.695606 ], [ 38.135108999000067, 47.692433 ], [ 38.143514998000057, 47.691394 ], [ 38.152011998000035, 47.692019 ], [ 38.159425999000064, 47.691015 ], [ 38.170037998000055, 47.691232 ], [ 38.178597998000043, 47.693718 ] ] ] } }
+]
+}

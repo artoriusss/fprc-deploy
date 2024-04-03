@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.076318955291899998, "Shape_Area": 0.00013771241539500001, "ADM4_EN": "Rzhyshchiv", "ADM4_UA": "Ржищів", "ADM4_PCODE": "UA0708019010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Marianivska", "ADM3_UA": "Мар'янівська", "ADM3_PCODE": "UA0708019", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.761319104000052, 50.356158004000065 ], [ 24.75871210400004, 50.356888003000051 ], [ 24.756996104000052, 50.349606004000066 ], [ 24.777797102000022, 50.346084003000044 ], [ 24.779270103000044, 50.347860003000051 ], [ 24.77171110300003, 50.350492003000056 ], [ 24.769300103000035, 50.353294004000077 ], [ 24.761319104000052, 50.356158004000065 ] ] ] } }
+]
+}

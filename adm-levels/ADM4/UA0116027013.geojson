@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.122151915753, "Shape_Area": 0.00032372439070300002, "ADM4_EN": "Partyzanske", "ADM4_UA": "Партизанське", "ADM4_PCODE": "UA0116027013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Perovska", "ADM3_UA": "Перовська", "ADM3_PCODE": "UA0116027", "ADM2_EN": "Simferopolskyi", "ADM2_UA": "Сімферопольський", "ADM2_PCODE": "UA0116", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.076203, 44.839438500000028 ], [ 34.07192599900003, 44.839305 ], [ 34.069698, 44.842939 ], [ 34.066802001000042, 44.840871 ], [ 34.070974, 44.838531 ], [ 34.072963, 44.831605 ], [ 34.082312, 44.82628 ], [ 34.093061999000042, 44.824889 ], [ 34.095351, 44.826193 ], [ 34.101719, 44.825572 ], [ 34.102921999000046, 44.830221 ], [ 34.094429, 44.833217 ], [ 34.090240001000041, 44.83735 ], [ 34.084413, 44.83752 ], [ 34.080308, 44.839313 ], [ 34.076203, 44.839438500000028 ] ] ] } }
+]
+}

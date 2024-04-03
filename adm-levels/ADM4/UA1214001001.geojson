@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.093927665548299996, "Shape_Area": 0.00035380500269300002, "ADM4_EN": "Bohynivka", "ADM4_UA": "Богинівка", "ADM4_PCODE": "UA1214001001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Brahynivska", "ADM3_UA": "Брагинівська", "ADM3_PCODE": "UA1214001", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.357793001000061, 48.499167 ], [ 36.349343, 48.493887 ], [ 36.347061, 48.495207 ], [ 36.34068, 48.490719 ], [ 36.342919, 48.489416 ], [ 36.335494999000048, 48.484387 ], [ 36.345145, 48.478319 ], [ 36.351275, 48.482518 ], [ 36.35534799900006, 48.479902 ], [ 36.359342, 48.480854 ], [ 36.365699, 48.48539 ], [ 36.360176, 48.488856 ], [ 36.366957, 48.493601 ], [ 36.357793001000061, 48.499167 ] ] ] } }
+]
+}

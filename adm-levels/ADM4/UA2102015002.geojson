@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.079987494079099997, "Shape_Area": 0.000109463836018, "ADM4_EN": "Veriatsia", "ADM4_UA": "Веряця", "ADM4_PCODE": "UA2102015002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Korolivska", "ADM3_UA": "Королівська", "ADM3_PCODE": "UA2102015", "ADM2_EN": "Berehivskyi", "ADM2_UA": "Берегівський", "ADM2_PCODE": "UA2102", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.161648446000072, 48.17108601800004 ], [ 23.159236446000023, 48.171074019000059 ], [ 23.154962448000049, 48.16545701900003 ], [ 23.167447443000071, 48.155919019000066 ], [ 23.172366441000065, 48.154048019000072 ], [ 23.176661439000043, 48.15089701800008 ], [ 23.177851439000051, 48.153090018000057 ], [ 23.171542440000053, 48.156725018000031 ], [ 23.160417447000043, 48.164826018000042 ], [ 23.163157445000024, 48.168776019000063 ], [ 23.161648446000072, 48.17108601800004 ] ] ] } }
+]
+}

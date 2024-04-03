@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.22035879891499999, "Shape_Area": 0.00027793215130700002, "ADM4_EN": "Hannopil", "ADM4_UA": "Ганнопіль", "ADM4_PCODE": "UA0510015006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tulchynska", "ADM3_UA": "Тульчинська", "ADM3_PCODE": "UA0510015", "ADM2_EN": "Tulchynskyi", "ADM2_UA": "Тульчинський", "ADM2_PCODE": "UA0510", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.938596, 48.635739 ], [ 28.934828, 48.632021 ], [ 28.912195001000043, 48.634628 ], [ 28.911804, 48.633099 ], [ 28.937317, 48.629592 ], [ 28.936854, 48.625772 ], [ 28.946246, 48.625575 ], [ 28.942928, 48.628915 ], [ 28.959474, 48.628701 ], [ 28.963325999000062, 48.630664 ], [ 28.976852001000054, 48.629517 ], [ 28.977315, 48.631944 ], [ 28.965127, 48.632775 ], [ 28.964231999000049, 48.634563 ], [ 28.956752001000041, 48.633355 ], [ 28.944121, 48.633465 ], [ 28.938596, 48.635739 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.069959950361000001, "Shape_Area": 0.000131638499349, "ADM4_EN": "Komarivka", "ADM4_UA": "Комарівка", "ADM4_PCODE": "UA1804057024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khoroshivska", "ADM3_UA": "Хорошівська", "ADM3_PCODE": "UA1804057", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.633217040000034, 50.552873010000042 ], [ 28.631197080000049, 50.550288030000047 ], [ 28.642084920000059, 50.545733040000073 ], [ 28.64441196000007, 50.54364 ], [ 28.642317121000076, 50.54098896000005 ], [ 28.648814040000047, 50.539032 ], [ 28.652345999000033, 50.543852040000047 ], [ 28.651745880000078, 50.548647960000039 ], [ 28.644397920000074, 50.550617970000076 ], [ 28.642055040000059, 50.549276970000051 ], [ 28.633217040000034, 50.552873010000042 ] ] ] } }
+]
+}

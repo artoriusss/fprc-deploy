@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.054794467895800003, "Shape_Area": 8.3527737671900006e-05, "ADM4_EN": "Moshkivka", "ADM4_UA": "Мошківка", "ADM4_PCODE": "UA1806023025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ushomyrska", "ADM3_UA": "Ушомирська", "ADM3_PCODE": "UA1806023", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.43973, 50.796267030000081 ], [ 28.431162, 50.796696960000077 ], [ 28.42732908000005, 50.795507970000074 ], [ 28.427564160000031, 50.79233196000007 ], [ 28.432216079000057, 50.790300030000026 ], [ 28.437553268000045, 50.790297553000073 ], [ 28.442624999000031, 50.792514 ], [ 28.43973, 50.796267030000081 ] ] ] } }
+]
+}

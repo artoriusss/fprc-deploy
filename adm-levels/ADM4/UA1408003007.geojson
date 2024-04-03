@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.054338960091300001, "Shape_Area": 8.7986415659699999e-05, "ADM4_EN": "Byriuky", "ADM4_UA": "Бирюки", "ADM4_PCODE": "UA1408003007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Donetska", "ADM3_UA": "Донецька", "ADM3_PCODE": "UA1408003", "ADM2_EN": "Donetskyi", "ADM2_UA": "Донецький", "ADM2_PCODE": "UA1408", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.085162998000044, 47.863416 ], [ 38.079256998000062, 47.865696 ], [ 38.07673999900004, 47.868003 ], [ 38.074193998000055, 47.865558 ], [ 38.075666999000077, 47.862266 ], [ 38.081666999000049, 47.86075 ], [ 38.089735997000048, 47.85765 ], [ 38.092680999000038, 47.860635 ], [ 38.092026999000041, 47.863423 ], [ 38.08771899900006, 47.865115 ], [ 38.085162998000044, 47.863416 ] ] ] } }
+]
+}

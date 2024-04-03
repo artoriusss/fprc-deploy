@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.059588382428999997, "Shape_Area": 8.4413946384200004e-05, "ADM4_EN": "Novomoskovske", "ADM4_UA": "Новомосковське", "ADM4_PCODE": "UA1212013025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yurivska", "ADM3_UA": "Юр'ївська", "ADM3_PCODE": "UA1212013", "ADM2_EN": "Pavlohradskyi", "ADM2_UA": "Павлоградський", "ADM2_PCODE": "UA1212", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.896893999000042, 48.876288 ], [ 35.88691, 48.878324 ], [ 35.88644799900004, 48.876327 ], [ 35.895668, 48.874621 ], [ 35.895157, 48.87264 ], [ 35.899759, 48.868426 ], [ 35.903706, 48.871268 ], [ 35.907005, 48.868756 ], [ 35.909813, 48.870517 ], [ 35.905744001000073, 48.875031 ], [ 35.896893999000042, 48.876288 ] ] ] } }
+]
+}

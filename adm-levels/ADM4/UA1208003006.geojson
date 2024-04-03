@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.092007507579599995, "Shape_Area": 0.000208419869678, "ADM4_EN": "Dolynske", "ADM4_UA": "Долинське", "ADM4_PCODE": "UA1208003006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myrivska", "ADM3_UA": "Мирівська", "ADM3_PCODE": "UA1208003", "ADM2_EN": "Nikopolskyi", "ADM2_UA": "Нікопольський", "ADM2_PCODE": "UA1208", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.826983, 47.696674 ], [ 34.827672, 47.692569 ], [ 34.822015001000068, 47.691772 ], [ 34.818697999000051, 47.689839 ], [ 34.816758999000058, 47.685921 ], [ 34.822575999000037, 47.685835 ], [ 34.822676, 47.678187 ], [ 34.832873, 47.679304 ], [ 34.831414, 47.687801 ], [ 34.838627001000077, 47.689566 ], [ 34.837437001000069, 47.695307 ], [ 34.831610999000077, 47.694692 ], [ 34.826983, 47.696674 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.063480846828799994, "Shape_Area": 0.000167489524907, "ADM4_EN": "Posunky", "ADM4_UA": "Посуньки", "ADM4_PCODE": "UA1204009010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vilnohirska", "ADM3_UA": "Вільногірська", "ADM3_PCODE": "UA1204009", "ADM2_EN": "Kamianskyi", "ADM2_UA": "Кам’янський", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.008078946000069, 48.469693431000053 ], [ 34.005395, 48.471215 ], [ 34.004843527000048, 48.475797216000046 ], [ 33.994494001000078, 48.47658 ], [ 33.993751, 48.475053 ], [ 33.987890999000058, 48.475881 ], [ 33.986624999000071, 48.472387 ], [ 33.989147, 48.468479 ], [ 33.995501880000063, 48.468089932000055 ], [ 33.998404, 48.465705 ], [ 34.008674731000042, 48.466400785000076 ], [ 34.008078946000069, 48.469693431000053 ] ] ] } }
+]
+}

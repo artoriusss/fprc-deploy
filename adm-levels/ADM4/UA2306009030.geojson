@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.056477665501400001, "Shape_Area": 8.6755806371900004e-05, "ADM4_EN": "Novotavrycheske", "ADM4_UA": "Новотавричеське", "ADM4_PCODE": "UA2306009030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Komyshuvaska", "ADM3_UA": "Комишуваська", "ADM3_PCODE": "UA2306009", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.462776996000059, 47.815240255000049 ], [ 35.468926778000025, 47.817963889000055 ], [ 35.468299412000079, 47.820604734000028 ], [ 35.451403234000054, 47.818701984000029 ], [ 35.452054629000031, 47.81640341700006 ], [ 35.455856296000036, 47.814977493000072 ], [ 35.456234579000068, 47.812717469000063 ], [ 35.462948572000073, 47.813266062000025 ], [ 35.462776996000059, 47.815240255000049 ] ] ] } }
+]
+}

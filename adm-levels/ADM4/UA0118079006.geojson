@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.050504462036299998, "Shape_Area": 0.00012708271443200001, "ADM4_EN": "Trudoliubivka", "ADM4_UA": "Трудолюбівка", "ADM4_PCODE": "UA0118079006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yarkopolenska", "ADM3_UA": "Яркополенська", "ADM3_PCODE": "UA0118079", "ADM2_EN": "Feodosiiskyi", "ADM2_UA": "Феодосійський", "ADM2_PCODE": "UA0118", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.157849, 45.22092 ], [ 35.156018, 45.224739 ], [ 35.152272, 45.224582 ], [ 35.145585, 45.212615 ], [ 35.152333999000064, 45.209862 ], [ 35.152614, 45.212121 ], [ 35.158181, 45.213197 ], [ 35.157849, 45.22092 ] ] ] } }
+]
+}

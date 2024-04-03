@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0920206859525, "Shape_Area": 0.00025678713164099999, "ADM4_EN": "Novopushkarivka", "ADM4_UA": "Новопушкарівка", "ADM4_PCODE": "UA1204017025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krynychanska", "ADM3_UA": "Криничанська", "ADM3_PCODE": "UA1204017", "ADM2_EN": "Kamianskyi", "ADM2_UA": "Кам’янський", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.405697001000078, 48.396883 ], [ 34.400504999000077, 48.399337 ], [ 34.394182999000066, 48.396832 ], [ 34.379795999000066, 48.395351 ], [ 34.370837, 48.393862 ], [ 34.373006, 48.384973 ], [ 34.384835, 48.38549 ], [ 34.396145999000055, 48.386946 ], [ 34.393107, 48.390963 ], [ 34.396367, 48.394426 ], [ 34.405697001000078, 48.396883 ] ] ] } }
+]
+}

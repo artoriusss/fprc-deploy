@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.056258032662000003, "Shape_Area": 9.1593608775600001e-05, "ADM4_EN": "Krainia Martynka", "ADM4_UA": "Крайня Мартинка", "ADM4_PCODE": "UA2112013012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Irshavska", "ADM3_UA": "Іршавська", "ADM3_PCODE": "UA2112013", "ADM2_EN": "Khustskyi", "ADM2_UA": "Хустський", "ADM2_PCODE": "UA2112", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.003503519000049, 48.41190602100005 ], [ 23.010361516000046, 48.410399021000046 ], [ 23.01040851700003, 48.412341022000078 ], [ 23.021823513000072, 48.421465021000074 ], [ 23.019193513000062, 48.423451022000052 ], [ 23.012730516000033, 48.420348022000042 ], [ 23.003781520000075, 48.412989021000044 ], [ 23.003503519000049, 48.41190602100005 ] ] ] } }
+]
+}

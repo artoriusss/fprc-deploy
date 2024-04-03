@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.050056828355700002, "Shape_Area": 0.000102624770636, "ADM4_EN": "Perebudova", "ADM4_UA": "Перебудова", "ADM4_PCODE": "UA1404007023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Komarska", "ADM3_UA": "Комарська", "ADM3_PCODE": "UA1404007", "ADM2_EN": "Volnovaskyi", "ADM2_UA": "Волноваський", "ADM2_PCODE": "UA1404", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.748535999000069, 47.98327 ], [ 36.74835500100005, 47.989077 ], [ 36.746423, 47.991295 ], [ 36.73796800100007, 47.995951 ], [ 36.73979677300008, 47.987521288000039 ], [ 36.73878949200008, 47.984382747000041 ], [ 36.744923, 47.982274 ], [ 36.748535999000069, 47.98327 ] ] ] } }
+]
+}

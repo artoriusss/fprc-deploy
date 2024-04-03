@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13056115482, "Shape_Area": 8.9416619959400005e-05, "ADM4_EN": "Falemychi", "ADM4_UA": "Фалемичі", "ADM4_PCODE": "UA0702005022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zymnivska", "ADM3_UA": "Зимнівська", "ADM3_PCODE": "UA0702005", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.370281160000047, 50.804461005000064 ], [ 24.366388160000042, 50.803402005000066 ], [ 24.362847161000047, 50.799913005000064 ], [ 24.358589161000054, 50.793423005000079 ], [ 24.361483160000034, 50.792618005000065 ], [ 24.367680161000067, 50.802481005000061 ], [ 24.370281160000047, 50.804461005000064 ] ] ] } }
+]
+}

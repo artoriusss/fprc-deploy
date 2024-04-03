@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.088663797863400007, "Shape_Area": 0.000201091603011, "ADM4_EN": "Starolozuvatka", "ADM4_UA": "Старолозуватка", "ADM4_PCODE": "UA1214011012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ilarionivska", "ADM3_UA": "Іларіонівська", "ADM3_PCODE": "UA1214011", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.35251, 48.407992 ], [ 35.349755, 48.406601 ], [ 35.349813, 48.3994 ], [ 35.345798001000048, 48.39735 ], [ 35.350626, 48.390008 ], [ 35.356702, 48.39284 ], [ 35.361196, 48.386136 ], [ 35.367093, 48.387345 ], [ 35.361167999000031, 48.394391 ], [ 35.358307, 48.401142 ], [ 35.358227, 48.405612 ], [ 35.352473, 48.404124 ], [ 35.35251, 48.407992 ] ] ] } }
+]
+}

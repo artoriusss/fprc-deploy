@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.060339881250300001, "Shape_Area": 6.8214391331799994e-05, "ADM4_EN": "Kadyshche", "ADM4_UA": "Кадище", "ADM4_PCODE": "UA0708029008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tsumanska", "ADM3_UA": "Цуманська", "ADM3_PCODE": "UA0708029", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.886357031000045, 50.773899001000075 ], [ 25.887140029000022, 50.779379001000052 ], [ 25.87794703000003, 50.778142001000049 ], [ 25.876706030000037, 50.776195 ], [ 25.886357031000045, 50.773899001000075 ] ] ] } }
+]
+}

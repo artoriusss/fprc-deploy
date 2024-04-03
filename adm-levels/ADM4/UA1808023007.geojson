@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.054980982353800001, "Shape_Area": 0.000113803426212, "ADM4_EN": "Kozhushky", "ADM4_UA": "Кожушки", "ADM4_PCODE": "UA1808023007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yarunska", "ADM3_UA": "Ярунська", "ADM3_PCODE": "UA1808023", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.52045092000003, 50.453854020000051 ], [ 27.519864840000025, 50.461992 ], [ 27.514226159000032, 50.463568980000048 ], [ 27.511679880000031, 50.460411960000044 ], [ 27.504934920000039, 50.455580040000029 ], [ 27.512791920000041, 50.449952970000027 ], [ 27.516445919000034, 50.452896960000032 ], [ 27.52045092000003, 50.453854020000051 ] ] ] } }
+]
+}

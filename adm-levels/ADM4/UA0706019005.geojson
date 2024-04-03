@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0507568349871, "Shape_Area": 8.7716113773899995e-05, "ADM4_EN": "Hishyn", "ADM4_UA": "Гішин", "ADM4_PCODE": "UA0706019005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kovelska", "ADM3_UA": "Ковельська", "ADM3_PCODE": "UA0706019", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.775685106000026, 51.307378003000053 ], [ 24.77047410800003, 51.30955500400006 ], [ 24.767250110000077, 51.306689004000077 ], [ 24.771387108000056, 51.30372000300008 ], [ 24.772280108000075, 51.300898003000043 ], [ 24.780594106000024, 51.301782003000028 ], [ 24.78274910500005, 51.304687003000026 ], [ 24.779415107000034, 51.307503003000079 ], [ 24.775685106000026, 51.307378003000053 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.058684969307799997, "Shape_Area": 7.7556391139199996e-05, "ADM4_EN": "Hlybochok", "ADM4_UA": "Глибочок", "ADM4_PCODE": "UA1804055002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kharytonivska", "ADM3_UA": "Харитонівська", "ADM3_PCODE": "UA1804055", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.022374160000027, 50.27498496000004 ], [ 29.02031388100005, 50.275251 ], [ 29.017887730000041, 50.268611726000074 ], [ 29.020100704000072, 50.261322946000064 ], [ 29.02554582700003, 50.258370956000078 ], [ 29.02272006000004, 50.264825611000049 ], [ 29.02611888000007, 50.26701501000008 ], [ 29.022644532000072, 50.271073580000063 ], [ 29.022374160000027, 50.27498496000004 ] ] ] } }
+]
+}

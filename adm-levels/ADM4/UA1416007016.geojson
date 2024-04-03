@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.086364629298500001, "Shape_Area": 0.000136222534183, "ADM4_EN": "Shevchenko", "ADM4_UA": "Шевченко", "ADM4_PCODE": "UA1416007016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dobropilska", "ADM3_UA": "Добропільська", "ADM3_PCODE": "UA1416007", "ADM2_EN": "Pokrovskyi", "ADM2_UA": "Покровський", "ADM2_PCODE": "UA1416", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.113821, 48.377516 ], [ 37.117814, 48.380719 ], [ 37.114076001000058, 48.383721 ], [ 37.104074, 48.388481 ], [ 37.0948, 48.398838 ], [ 37.090287, 48.401559 ], [ 37.088593001000049, 48.39837 ], [ 37.093278, 48.396979 ], [ 37.100395999000057, 48.388485 ], [ 37.104453, 48.386166 ], [ 37.101299, 48.383137 ], [ 37.113821, 48.377516 ] ] ] } }
+]
+}

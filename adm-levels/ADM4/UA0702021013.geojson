@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.026810406473199998, "Shape_Area": 3.70176747974e-05, "ADM4_EN": "Novyny", "ADM4_UA": "Новини", "ADM4_PCODE": "UA0702021013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ustyluzka", "ADM3_UA": "Устилузька", "ADM3_PCODE": "UA0702021", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.064954217000036, 50.978338007000048 ], [ 24.064770219000025, 50.981496007000032 ], [ 24.057555219000051, 50.98157100800006 ], [ 24.057139220000067, 50.976250007000033 ], [ 24.061384219000047, 50.97611200700004 ], [ 24.064954217000036, 50.978338007000048 ] ] ] } }
+]
+}

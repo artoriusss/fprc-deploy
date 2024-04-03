@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.203821159157, "Shape_Area": 0.000188202711039, "ADM4_EN": "Kunyche", "ADM4_UA": "Куниче", "ADM4_PCODE": "UA0510007012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kryzhopilska", "ADM3_UA": "Крижопільська", "ADM3_PCODE": "UA0510007", "ADM2_EN": "Tulchynskyi", "ADM2_UA": "Тульчинський", "ADM2_PCODE": "UA0510", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 28.964458999000044, 48.48842 ], [ 28.952415, 48.495569 ], [ 28.956711, 48.488472 ], [ 28.951274, 48.488826 ], [ 28.949068, 48.486999 ], [ 28.966531001000078, 48.486581 ], [ 28.97073799900005, 48.485498 ], [ 28.986818999000036, 48.486786 ], [ 28.980178, 48.488557 ], [ 28.979833, 48.489921 ], [ 28.964458999000044, 48.48842 ] ] ], [ [ [ 28.986966, 48.48437 ], [ 28.975605, 48.484302 ], [ 28.965779, 48.481794 ], [ 28.967398001000049, 48.479646 ], [ 28.977428, 48.482716 ], [ 28.982312, 48.482262 ], [ 28.986966, 48.48437 ] ] ] ] } }
+]
+}

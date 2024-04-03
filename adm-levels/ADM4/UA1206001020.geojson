@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.075859583623700003, "Shape_Area": 0.000181374262266, "ADM4_EN": "Ukrainka", "ADM4_UA": "Українка", "ADM4_PCODE": "UA1206001020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Apostolivska", "ADM3_UA": "Апостолівська", "ADM3_PCODE": "UA1206001", "ADM2_EN": "Kryvorizkyi", "ADM2_UA": "Криворізький", "ADM2_PCODE": "UA1206", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.629816, 47.613631 ], [ 33.62742, 47.622203 ], [ 33.624079, 47.622015 ], [ 33.623575, 47.613131 ], [ 33.618902, 47.612717 ], [ 33.619010001000049, 47.60819 ], [ 33.612002, 47.606047 ], [ 33.612385, 47.603837 ], [ 33.635289, 47.606356 ], [ 33.633924999000044, 47.613578 ], [ 33.629816, 47.613631 ] ] ] } }
+]
+}

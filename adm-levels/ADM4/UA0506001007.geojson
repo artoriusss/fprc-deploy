@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062633895342099996, "Shape_Area": 8.3963538028299995e-05, "ADM4_EN": "Bryhydivka", "ADM4_UA": "Бригидівка", "ADM4_PCODE": "UA0506001007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Barska", "ADM3_UA": "Барська", "ADM3_PCODE": "UA0506001", "ADM2_EN": "Zhmerynskyi", "ADM2_UA": "Жмеринський", "ADM2_PCODE": "UA0506", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.412536605000071, 49.006598329000042 ], [ 27.407857320000062, 49.007757412000046 ], [ 27.406653100000028, 49.006162016000076 ], [ 27.397924174000025, 49.007460092000031 ], [ 27.396174169000062, 49.004398431000027 ], [ 27.40651514700005, 49.002840696000078 ], [ 27.409447706000037, 48.997806084000047 ], [ 27.41160231300006, 49.000890260000062 ], [ 27.410130430000038, 49.005240729000036 ], [ 27.412536605000071, 49.006598329000042 ] ] ] } }
+]
+}

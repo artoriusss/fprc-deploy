@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.095082908186900003, "Shape_Area": 0.00042064726944299999, "ADM4_EN": "Vsesviatske", "ADM4_UA": "Всесвятське", "ADM4_PCODE": "UA1210001007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hubynyska", "ADM3_UA": "Губиниська", "ADM3_PCODE": "UA1210001", "ADM2_EN": "Novomoskovskyi", "ADM2_UA": "Новомосковський", "ADM2_PCODE": "UA1210", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.546329, 48.74499 ], [ 35.533869, 48.752146 ], [ 35.533782, 48.753893 ], [ 35.519605, 48.748473 ], [ 35.517099, 48.744913 ], [ 35.512626, 48.741496 ], [ 35.515424, 48.73428 ], [ 35.514796147000027, 48.732959335000032 ], [ 35.522881594000069, 48.728975888000036 ], [ 35.527449001000036, 48.731979 ], [ 35.528369, 48.737799 ], [ 35.53928, 48.740102 ], [ 35.546329, 48.74499 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.054274881055800001, "Shape_Area": 5.8523414218699998e-05, "ADM4_EN": "Dibrivka", "ADM4_UA": "Дібрівка", "ADM4_PCODE": "UA2108001004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bedevlianska", "ADM3_UA": "Бедевлянська", "ADM3_PCODE": "UA2108001", "ADM2_EN": "Tiachivskyi", "ADM2_UA": "Тячівський", "ADM2_PCODE": "UA2108", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.660175279000043, 48.035839011000064 ], [ 23.657287279000059, 48.03629501100005 ], [ 23.654459281000072, 48.034221011000056 ], [ 23.650390281000057, 48.028189012000041 ], [ 23.652614279000034, 48.027415011000073 ], [ 23.656491279000022, 48.031873012000062 ], [ 23.663768276000042, 48.03225701100007 ], [ 23.660175279000043, 48.035839011000064 ] ] ] } }
+]
+}

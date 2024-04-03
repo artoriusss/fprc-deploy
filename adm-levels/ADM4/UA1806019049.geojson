@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.083859004951299998, "Shape_Area": 0.000221870642426, "ADM4_EN": "Sushchany", "ADM4_UA": "Сущани", "ADM4_PCODE": "UA1806019049", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Olevska", "ADM3_UA": "Олевська", "ADM3_PCODE": "UA1806019", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.756551161000061, 51.308233020000046 ], [ 27.745814260000031, 51.306338717000074 ], [ 27.737835119000067, 51.299978040000042 ], [ 27.741587041000059, 51.297141960000033 ], [ 27.740931839000041, 51.293124990000081 ], [ 27.755323920000023, 51.29575299000004 ], [ 27.761605920000079, 51.301361970000073 ], [ 27.758153161000052, 51.303292020000072 ], [ 27.76002912000007, 51.30699399000008 ], [ 27.756551161000061, 51.308233020000046 ] ] ] } }
+]
+}

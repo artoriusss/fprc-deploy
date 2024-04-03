@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.049622087703900003, "Shape_Area": 3.8906292539100003e-05, "ADM4_EN": "Karpovtlash", "ADM4_UA": "Карповтлаш", "ADM4_PCODE": "UA2112025008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khustska", "ADM3_UA": "Хустська", "ADM3_PCODE": "UA2112025", "ADM2_EN": "Khustskyi", "ADM2_UA": "Хустський", "ADM2_PCODE": "UA2112", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.385667088000048, 48.204307519000054 ], [ 23.378478366000024, 48.207197015000077 ], [ 23.366232370000034, 48.206525015000068 ], [ 23.366260372000056, 48.205097016000082 ], [ 23.380849366000064, 48.205342015000042 ], [ 23.38494944200005, 48.202975151000032 ], [ 23.385667088000048, 48.204307519000054 ] ] ] } }
+]
+}

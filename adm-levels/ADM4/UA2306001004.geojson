@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0822719718155, "Shape_Area": 0.00012128816128, "ADM4_EN": "Lysohirka", "ADM4_UA": "Лисогірка", "ADM4_PCODE": "UA2306001004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilenkivska", "ADM3_UA": "Біленьківська", "ADM3_PCODE": "UA2306001", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.099372613000071, 47.659864158000062 ], [ 35.088043348000042, 47.661831135000057 ], [ 35.083711095000069, 47.656737617000033 ], [ 35.098825446000035, 47.652163783000049 ], [ 35.101678842000069, 47.655384070000025 ], [ 35.099372613000071, 47.659864158000062 ] ] ] } }
+]
+}

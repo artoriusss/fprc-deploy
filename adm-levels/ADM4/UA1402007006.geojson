@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.098089105591300005, "Shape_Area": 0.00024111222365499999, "ADM4_EN": "Sviato-Pokrovske", "ADM4_UA": "Свято-Покровське", "ADM4_PCODE": "UA1402007006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Siverska", "ADM3_UA": "Сіверська", "ADM3_PCODE": "UA1402007", "ADM2_EN": "Bakhmutskyi", "ADM2_UA": "Бахмутський", "ADM2_PCODE": "UA1402", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.045626998000046, 48.833949 ], [ 38.043274999000062, 48.835808 ], [ 38.035836998000036, 48.83434 ], [ 38.037313998000059, 48.828748 ], [ 38.041509999000027, 48.826185 ], [ 38.044715999000061, 48.827927 ], [ 38.057075, 48.828237 ], [ 38.064196, 48.826286 ], [ 38.06477699800007, 48.829586 ], [ 38.067945998000027, 48.836487 ], [ 38.062791999000069, 48.836597 ], [ 38.051442999000074, 48.835226 ], [ 38.045626998000046, 48.833949 ] ] ] } }
+]
+}

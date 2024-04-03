@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0475381698122, "Shape_Area": 2.26503755393e-05, "ADM4_EN": "Bashtanivka", "ADM4_UA": "Баштанівка", "ADM4_PCODE": "UA0102009002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Verkhorichenska", "ADM3_UA": "Верхоріченська", "ADM3_PCODE": "UA0102009", "ADM2_EN": "Bakhchysaraiskyi", "ADM2_UA": "Бахчисарайський", "ADM2_PCODE": "UA0102", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.902593746000036, 44.69088946100004 ], [ 33.898578726000039, 44.691438543000061 ], [ 33.894742410000049, 44.691095174000054 ], [ 33.893314608000026, 44.687472770000056 ], [ 33.894679306000057, 44.686762243000032 ], [ 33.895443426000043, 44.690369181000051 ], [ 33.899593121000066, 44.69012710100003 ], [ 33.901475585000071, 44.688692533000051 ], [ 33.902593746000036, 44.69088946100004 ] ] ] } }
+]
+}

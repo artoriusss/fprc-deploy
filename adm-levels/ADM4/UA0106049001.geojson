@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.073357588113799999, "Shape_Area": 0.00022714622817199999, "ADM4_EN": "Tsilynne", "ADM4_UA": "Цілинне", "ADM4_PCODE": "UA0106049001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tsilynna", "ADM3_UA": "Цілинна", "ADM3_PCODE": "UA0106049", "ADM2_EN": "Dzhankoiskyi", "ADM2_UA": "Джанкойський", "ADM2_PCODE": "UA0106", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.175689999000042, 45.914092 ], [ 34.173216999000033, 45.910573 ], [ 34.173688001000073, 45.895622 ], [ 34.185564, 45.897067 ], [ 34.184535, 45.902686 ], [ 34.184901, 45.908194 ], [ 34.190468, 45.908795 ], [ 34.190453, 45.913027 ], [ 34.175705, 45.913122 ], [ 34.175689999000042, 45.914092 ] ] ] } }
+]
+}

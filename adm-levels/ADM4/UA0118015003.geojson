@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.044216295976799998, "Shape_Area": 7.1467335330899996e-05, "ADM4_EN": "Makivske", "ADM4_UA": "Маківське", "ADM4_PCODE": "UA0118015003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhuravska", "ADM3_UA": "Журавська", "ADM3_PCODE": "UA0118015", "ADM2_EN": "Feodosiiskyi", "ADM2_UA": "Феодосійський", "ADM2_PCODE": "UA0118", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.205909879000046, 45.107554047000065 ], [ 35.209225792000041, 45.10426638000007 ], [ 35.215347125000051, 45.116473041000063 ], [ 35.211933501000033, 45.119150565000041 ], [ 35.207432, 45.114244 ], [ 35.206763867000063, 45.11057504300004 ], [ 35.205909879000046, 45.107554047000065 ] ] ] } }
+]
+}

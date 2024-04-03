@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.14256960222500001, "Shape_Area": 0.00012214781272500001, "ADM4_EN": "Vuzhysk", "ADM4_UA": "Вужиськ", "ADM4_PCODE": "UA0706017004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zabrodivska", "ADM3_UA": "Забродівська", "ADM3_PCODE": "UA0706017", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.583265131000076, 51.523871004000057 ], [ 24.57946213300005, 51.52450400400005 ], [ 24.572740134000071, 51.523226004000037 ], [ 24.572852134000073, 51.518071004000035 ], [ 24.575793132000058, 51.51680800400004 ], [ 24.583280132000027, 51.517081004000033 ], [ 24.583265131000076, 51.523871004000057 ] ] ] } }
+]
+}

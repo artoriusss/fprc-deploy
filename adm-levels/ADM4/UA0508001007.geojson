@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.069276543123600001, "Shape_Area": 7.25507675781e-05, "ADM4_EN": "Hamulivka", "ADM4_UA": "Гамулівка", "ADM4_PCODE": "UA0508001007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Babchynetska", "ADM3_UA": "Бабчинецька", "ADM3_PCODE": "UA0508001", "ADM2_EN": "Mohyliv-Podilskyi", "ADM2_UA": "Могилів-Подільський", "ADM2_PCODE": "UA0508", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.11577999900004, 48.388421 ], [ 28.112978, 48.389612 ], [ 28.109063, 48.388713 ], [ 28.104138, 48.38235 ], [ 28.106770001000029, 48.381867 ], [ 28.108559999000079, 48.377562 ], [ 28.112456001000055, 48.385499001000028 ], [ 28.11577999900004, 48.388421 ] ] ] } }
+]
+}

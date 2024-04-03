@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.1169548362, "Shape_Area": 0.00021809470068100001, "ADM4_EN": "Dolyniany", "ADM4_UA": "Долиняни", "ADM4_PCODE": "UA0508007017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Murovanokurylovetska", "ADM3_UA": "Мурованокуриловецька", "ADM3_PCODE": "UA0508007", "ADM2_EN": "Mohyliv-Podilskyi", "ADM2_UA": "Могилів-Подільський", "ADM2_PCODE": "UA0508", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.583802, 48.831624 ], [ 27.581083999000043, 48.83193 ], [ 27.579964, 48.827422 ], [ 27.573035999000069, 48.826318 ], [ 27.572699001000046, 48.823081 ], [ 27.575746, 48.822228 ], [ 27.581265, 48.817318 ], [ 27.587477, 48.818703 ], [ 27.591325, 48.816175 ], [ 27.594439, 48.817963 ], [ 27.59525300100006, 48.823101 ], [ 27.586156, 48.827063 ], [ 27.582859001000031, 48.826926 ], [ 27.583802, 48.831624 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0410086897, "Shape_Area": 7.3470483116199999e-05, "ADM4_EN": "Mykolaipillia", "ADM4_UA": "Миколайпілля", "ADM4_PCODE": "UA1412003010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Druzhkivska", "ADM3_UA": "Дружківська", "ADM3_PCODE": "UA1412003", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "Краматорський", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.555806256000039, 48.530415361000053 ], [ 37.550634291000051, 48.53005042500007 ], [ 37.548319961000061, 48.528264537000041 ], [ 37.562689791000025, 48.521974993000072 ], [ 37.565042030000029, 48.526231903000053 ], [ 37.555806256000039, 48.530415361000053 ] ] ] } }
+]
+}

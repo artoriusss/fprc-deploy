@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10833890128, "Shape_Area": 0.00036989273133800001, "ADM4_EN": "Bezimenne", "ADM4_UA": "Безіменне", "ADM4_PCODE": "UA1410007004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoazovska", "ADM3_UA": "Новоазовська", "ADM3_PCODE": "UA1410007", "ADM2_EN": "Kalmiuskyi", "ADM2_UA": "Кальміуський", "ADM2_PCODE": "UA1410", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.94465599800003, 47.113377 ], [ 37.933212999000034, 47.114529 ], [ 37.931244999000057, 47.111567 ], [ 37.926280999000028, 47.112036 ], [ 37.924103999000067, 47.107589 ], [ 37.917387999000027, 47.109483 ], [ 37.917001236000033, 47.106953739000062 ], [ 37.938117057000056, 47.099869979000061 ], [ 37.952829998000027, 47.095635 ], [ 37.953522998000039, 47.099865 ], [ 37.950447999000062, 47.104533 ], [ 37.952496999000061, 47.111438 ], [ 37.94465599800003, 47.113377 ] ] ] } }
+]
+}

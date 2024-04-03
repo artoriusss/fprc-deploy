@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.042278609046199997, "Shape_Area": 5.7582384657699998e-05, "ADM4_EN": "Verkhnozamorske", "ADM4_UA": "Верхньозаморське", "ADM4_PCODE": "UA0110005002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bielinska", "ADM3_UA": "Бєлінська", "ADM3_PCODE": "UA0110005", "ADM2_EN": "Kerchynskyi", "ADM2_UA": "Керченський", "ADM2_PCODE": "UA0110", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.016627307000078, 45.367635994000068 ], [ 36.021924908000074, 45.366994162000026 ], [ 36.027854601000058, 45.36468719800007 ], [ 36.03093332900005, 45.361792665000053 ], [ 36.033305558000052, 45.362168738000037 ], [ 36.030240726000045, 45.369883206000054 ], [ 36.02718019100007, 45.370049782000081 ], [ 36.019284520000042, 45.368310524000037 ], [ 36.016627307000078, 45.367635994000068 ] ] ] } }
+]
+}

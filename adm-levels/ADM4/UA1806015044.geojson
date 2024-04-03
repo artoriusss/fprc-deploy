@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.040293039530700001, "Shape_Area": 3.6573007357199997e-05, "ADM4_EN": "Osyka", "ADM4_UA": "Осика", "ADM4_PCODE": "UA1806015044", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Narodytska", "ADM3_UA": "Народицька", "ADM3_PCODE": "UA1806015", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.374824959000023, 51.087188970000057 ], [ 29.37186, 51.087349980000056 ], [ 29.366277840000066, 51.083710020000069 ], [ 29.366512920000048, 51.080928030000052 ], [ 29.374824959000023, 51.087188970000057 ] ] ] } }
+]
+}

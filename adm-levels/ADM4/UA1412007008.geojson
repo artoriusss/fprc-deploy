@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.034392140675299998, "Shape_Area": 2.3594054666899999e-05, "ADM4_EN": "Klynove", "ADM4_UA": "Клинове", "ADM4_PCODE": "UA1412007008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kostiantynivska", "ADM3_UA": "Костянтинівська", "ADM3_PCODE": "UA1412007", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "Краматорський", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.681506999000078, 48.619096 ], [ 37.680562, 48.619731 ], [ 37.670892999000046, 48.614552 ], [ 37.672722, 48.610812 ], [ 37.676100999000028, 48.61148 ], [ 37.674620999000069, 48.614966 ], [ 37.681506999000078, 48.619096 ] ] ] } }
+]
+}

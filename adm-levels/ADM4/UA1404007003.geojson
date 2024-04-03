@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.051475808819799997, "Shape_Area": 9.9579648021699997e-05, "ADM4_EN": "Vilne Pole", "ADM4_UA": "Вільне Поле", "ADM4_PCODE": "UA1404007003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Komarska", "ADM3_UA": "Комарська", "ADM3_PCODE": "UA1404007", "ADM2_EN": "Volnovaskyi", "ADM2_UA": "Волноваський", "ADM2_PCODE": "UA1404", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.682675999000026, 47.878273 ], [ 36.678209, 47.877559 ], [ 36.677498, 47.873721 ], [ 36.683503999000038, 47.872726 ], [ 36.695249, 47.873009 ], [ 36.696966001000078, 47.877173 ], [ 36.683968999000058, 47.878968 ], [ 36.682675999000026, 47.878273 ] ] ] } }
+]
+}

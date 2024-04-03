@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.037368127795100001, "Shape_Area": 6.4956087159399997e-05, "ADM4_EN": "Vilka-Sadivska", "ADM4_UA": "Вілька-Садівська", "ADM4_PCODE": "UA0702003004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zaturtsivska", "ADM3_UA": "Затурцівська", "ADM3_PCODE": "UA0702003", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.841833097000062, 50.757338003000029 ], [ 24.835977098000058, 50.757234003000065 ], [ 24.84372509800005, 50.748640003000048 ], [ 24.850425097000027, 50.751047003000053 ], [ 24.845833098000071, 50.755343003000064 ], [ 24.841833097000062, 50.757338003000029 ] ] ] } }
+]
+}

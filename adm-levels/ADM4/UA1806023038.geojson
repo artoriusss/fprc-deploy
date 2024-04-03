@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.050551164839600003, "Shape_Area": 5.8994327612400002e-05, "ADM4_EN": "Sadybne", "ADM4_UA": "Садибне", "ADM4_PCODE": "UA1806023038", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ushomyrska", "ADM3_UA": "Ушомирська", "ADM3_PCODE": "UA1806023", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.406796119000035, 50.884309980000069 ], [ 28.403781120000076, 50.888419020000072 ], [ 28.399688999000034, 50.888394990000052 ], [ 28.396185840000044, 50.88631797000005 ], [ 28.394416080000042, 50.883318 ], [ 28.398912840000037, 50.881726980000053 ], [ 28.406796119000035, 50.884309980000069 ] ] ] } }
+]
+}

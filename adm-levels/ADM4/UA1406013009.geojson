@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.101967178817, "Shape_Area": 0.000100830760819, "ADM4_EN": "Nikishyne", "ADM4_UA": "Нікішине", "ADM4_PCODE": "UA1406013009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khrestivska", "ADM3_UA": "Хрестівська", "ADM3_PCODE": "UA1406013", "ADM2_EN": "Horlivskyi", "ADM2_UA": "Горлівський", "ADM2_PCODE": "UA1406", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.520020997000074, 48.247304 ], [ 38.517440998000041, 48.244958 ], [ 38.51938399800008, 48.239807 ], [ 38.517626997000036, 48.231893 ], [ 38.519641996000075, 48.231866 ], [ 38.520772997000051, 48.237109 ], [ 38.526102997000066, 48.239175 ], [ 38.526764998000033, 48.244433 ], [ 38.520020997000074, 48.247304 ] ] ] } }
+]
+}

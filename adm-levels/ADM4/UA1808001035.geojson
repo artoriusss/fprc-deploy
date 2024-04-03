@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.060456432099799999, "Shape_Area": 9.7620868938299993e-05, "ADM4_EN": "Yalyshiv", "ADM4_UA": "Ялишів", "ADM4_PCODE": "UA1808001035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Baranivska", "ADM3_UA": "Баранівська", "ADM3_PCODE": "UA1808001", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.796581, 50.307207030000029 ], [ 27.795056041000066, 50.301381960000072 ], [ 27.799029, 50.299084980000032 ], [ 27.799346160000027, 50.29454196000006 ], [ 27.802405080000028, 50.295861990000049 ], [ 27.809611920000066, 50.296209030000057 ], [ 27.80690904000005, 50.30013402000003 ], [ 27.799228080000034, 50.303199960000029 ], [ 27.799989120000077, 50.305903020000073 ], [ 27.796581, 50.307207030000029 ] ] ] } }
+]
+}

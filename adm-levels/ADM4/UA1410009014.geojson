@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070423644988499998, "Shape_Area": 0.000115309512789, "ADM4_EN": "Pishchane", "ADM4_UA": "Піщане", "ADM4_PCODE": "UA1410009014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starobeshivska", "ADM3_UA": "Старобешівська", "ADM3_PCODE": "UA1410009", "ADM2_EN": "Kalmiuskyi", "ADM2_UA": "Кальміуський", "ADM2_PCODE": "UA1410", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.869143998000027, 47.777189 ], [ 37.86428599900006, 47.773157 ], [ 37.863277999000047, 47.769298 ], [ 37.868052999000042, 47.770103 ], [ 37.871016999000062, 47.764736 ], [ 37.881076999000072, 47.76734 ], [ 37.872286999000039, 47.771229 ], [ 37.876997998000036, 47.773066 ], [ 37.869143998000027, 47.777189 ] ] ] } }
+]
+}

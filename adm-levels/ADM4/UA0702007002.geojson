@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.045600642099100003, "Shape_Area": 5.4852751798800002e-05, "ADM4_EN": "Dolynka", "ADM4_UA": "Долинка", "ADM4_PCODE": "UA0702007002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivanychivska", "ADM3_UA": "Іваничівська", "ADM3_PCODE": "UA0702007", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.363723329000038, 50.622052496000038 ], [ 24.361471171000062, 50.621499024000059 ], [ 24.366857159000062, 50.604536006000046 ], [ 24.36979715800004, 50.605105005000041 ], [ 24.364495159000057, 50.621450005000042 ], [ 24.363723329000038, 50.622052496000038 ] ] ] } }
+]
+}

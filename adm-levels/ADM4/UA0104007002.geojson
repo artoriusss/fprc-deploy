@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.032907374620100002, "Shape_Area": 5.2190034242300002e-05, "ADM4_EN": "Malynivka", "ADM4_UA": "Малинівка", "ADM4_PCODE": "UA0104007002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vasylivska", "ADM3_UA": "Василівська", "ADM3_PCODE": "UA0104007", "ADM2_EN": "Bilohirskyi", "ADM2_UA": "Білогірський", "ADM2_PCODE": "UA0104", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.740752929000053, 45.13488433100008 ], [ 34.737407020000035, 45.135108928000079 ], [ 34.734017050000034, 45.13154428200005 ], [ 34.733222893000061, 45.127290328000072 ], [ 34.738039, 45.125414 ], [ 34.738819270000079, 45.128424150000058 ], [ 34.741874329000041, 45.130502291000028 ], [ 34.740752929000053, 45.13488433100008 ] ] ] } }
+]
+}

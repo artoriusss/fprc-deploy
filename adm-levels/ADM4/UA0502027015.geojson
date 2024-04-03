@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0941699130218, "Shape_Area": 0.000106217454162, "ADM4_EN": "Krasnianka", "ADM4_UA": "Краснянка", "ADM4_PCODE": "UA0502027015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tyvrivska", "ADM3_UA": "Тиврівська", "ADM3_PCODE": "UA0502027", "ADM2_EN": "Vinnytskyi", "ADM2_UA": "Вінницький", "ADM2_PCODE": "UA0502", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 28.336589, 48.87274 ], [ 28.337136999000052, 48.869088 ], [ 28.341739, 48.864762 ], [ 28.343987, 48.865762999000026 ], [ 28.336589, 48.87274 ] ] ], [ [ [ 28.346903001000044, 48.86083 ], [ 28.32942, 48.86759 ], [ 28.330718, 48.863713 ], [ 28.336393, 48.859722 ], [ 28.343821, 48.85848 ], [ 28.34748, 48.850746 ], [ 28.348771, 48.851241 ], [ 28.345285, 48.85893 ], [ 28.346903001000044, 48.86083 ] ] ] ] } }
+]
+}

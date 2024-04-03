@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0779452636812, "Shape_Area": 0.00013537156157, "ADM4_EN": "Bilka", "ADM4_UA": "Білка", "ADM4_PCODE": "UA1806021004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Slovechanska", "ADM3_UA": "Словечанська", "ADM3_PCODE": "UA1806021", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.422975961000077, 51.342350040000042 ], [ 28.419352240000023, 51.343476666000072 ], [ 28.413445387000024, 51.342330829000048 ], [ 28.407831119000036, 51.342433020000044 ], [ 28.41309659500007, 51.33608894200006 ], [ 28.411473213000079, 51.33197580500007 ], [ 28.418915908000031, 51.333841107000069 ], [ 28.422283293000078, 51.337572806000026 ], [ 28.426607121000075, 51.338427721000073 ], [ 28.426431960000059, 51.341538960000037 ], [ 28.422975961000077, 51.342350040000042 ] ] ] } }
+]
+}

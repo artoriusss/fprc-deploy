@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.056490985000299997, "Shape_Area": 9.8704153301399999e-05, "ADM4_EN": "Novomaiske", "ADM4_UA": "Новомайське", "ADM4_PCODE": "UA1206025025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novopilska", "ADM3_UA": "Новопільська", "ADM3_PCODE": "UA1206025", "ADM2_EN": "Kryvorizkyi", "ADM2_UA": "Криворізький", "ADM2_PCODE": "UA1206", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.53436703400007, 47.969859371000041 ], [ 33.540433999000072, 47.975113 ], [ 33.538122999000052, 47.983003 ], [ 33.523581494000041, 47.981192815000043 ], [ 33.527845, 47.979185 ], [ 33.530937001000041, 47.980461 ], [ 33.532686001000059, 47.974802 ], [ 33.530337, 47.97424 ], [ 33.53436703400007, 47.969859371000041 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10914602651499999, "Shape_Area": 0.00028888159157700001, "ADM4_EN": "Kokhane", "ADM4_UA": "Кохане", "ADM4_PCODE": "UA2304019014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozdolska", "ADM3_UA": "Роздольська", "ADM3_PCODE": "UA2304019", "ADM2_EN": "Vasylivskyi", "ADM2_UA": "Василівський", "ADM2_PCODE": "UA2304", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.515930514000047, 47.297932272000025 ], [ 35.520590974000072, 47.302846075000048 ], [ 35.512247457000058, 47.306540804000065 ], [ 35.504052361000049, 47.297402027000032 ], [ 35.502256109000029, 47.296196621000036 ], [ 35.490713033000077, 47.283493099000054 ], [ 35.503317514000059, 47.278396899000029 ], [ 35.505146406000051, 47.28024621600008 ], [ 35.502263951000032, 47.283619689000034 ], [ 35.515930514000047, 47.297932272000025 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.076458262551200001, "Shape_Area": 0.00016048151365699999, "ADM4_EN": "Nyvky", "ADM4_UA": "Нивки", "ADM4_PCODE": "UA1806009029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Korostenska", "ADM3_UA": "Коростенська", "ADM3_PCODE": "UA1806009", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.659692881000069, 50.837513040000033 ], [ 28.658748960000025, 50.832219960000032 ], [ 28.66697208000005, 50.829400980000059 ], [ 28.671832080000058, 50.82615 ], [ 28.676679120000074, 50.828652 ], [ 28.681335001000036, 50.835247020000054 ], [ 28.676503080000032, 50.835339 ], [ 28.659692881000069, 50.837513040000033 ] ] ] } }
+]
+}

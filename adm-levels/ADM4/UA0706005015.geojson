@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.081262866997399999, "Shape_Area": 0.000103301458238, "ADM4_EN": "Radekhiv", "ADM4_UA": "Радехів", "ADM4_PCODE": "UA0706005015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vyshnivska", "ADM3_UA": "Вишнівська", "ADM3_PCODE": "UA0706005", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.070077218000051, 51.167016007000029 ], [ 24.069283219000056, 51.164398007000045 ], [ 24.080818217000058, 51.158299007000039 ], [ 24.084554215000026, 51.159258007000062 ], [ 24.090947214000039, 51.158271007000053 ], [ 24.092151214000069, 51.161156007000045 ], [ 24.083892215000049, 51.161491007000052 ], [ 24.079091217000041, 51.163470007000058 ], [ 24.07853521800007, 51.166594008000061 ], [ 24.070077218000051, 51.167016007000029 ] ] ] } }
+]
+}

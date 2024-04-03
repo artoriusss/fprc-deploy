@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.102237926331, "Shape_Area": 0.00020956454597699999, "ADM4_EN": "Krasnopillia", "ADM4_UA": "Краснопілля", "ADM4_PCODE": "UA1210015005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chernechchynska", "ADM3_UA": "Чернеччинська", "ADM3_PCODE": "UA1210015", "ADM2_EN": "Novomoskovskyi", "ADM2_UA": "Новомосковський", "ADM2_PCODE": "UA1210", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.859079, 49.166025 ], [ 34.864798, 49.169267 ], [ 34.863822, 49.17116 ], [ 34.851841, 49.167074 ], [ 34.846562999000071, 49.165844 ], [ 34.842219, 49.166609 ], [ 34.837686, 49.165695 ], [ 34.839232999000046, 49.162608 ], [ 34.835237, 49.15958 ], [ 34.837756, 49.152524 ], [ 34.845204, 49.152542 ], [ 34.845537, 49.158485 ], [ 34.849422, 49.157666 ], [ 34.853281999000046, 49.158832 ], [ 34.859079, 49.166025 ] ] ] } }
+]
+}

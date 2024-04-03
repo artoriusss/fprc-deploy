@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.078915854207200001, "Shape_Area": 0.000151202455352, "ADM4_EN": "Semenivka", "ADM4_UA": "Семенівка", "ADM4_PCODE": "UA1804029043", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Liubarska", "ADM3_UA": "Любарська", "ADM3_PCODE": "UA1804029", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.754558920000079, 49.821405030000051 ], [ 27.749687040000026, 49.823469 ], [ 27.747456120000038, 49.819158 ], [ 27.743164920000027, 49.816654020000044 ], [ 27.742461840000033, 49.812733980000075 ], [ 27.755226, 49.811627970000075 ], [ 27.757473840000046, 49.81028499100006 ], [ 27.761546160000023, 49.815829980000046 ], [ 27.760312080000062, 49.820399010000074 ], [ 27.754558920000079, 49.821405030000051 ] ] ] } }
+]
+}

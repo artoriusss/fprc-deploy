@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.086943395451700003, "Shape_Area": 0.00024569792487900001, "ADM4_EN": "Kokhanivka", "ADM4_UA": "Коханівка", "ADM4_PCODE": "UA1214001006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Brahynivska", "ADM3_UA": "Брагинівська", "ADM3_PCODE": "UA1214001", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.447761, 48.524123 ], [ 36.45124, 48.528632 ], [ 36.451211, 48.531735 ], [ 36.446283, 48.533071 ], [ 36.442296, 48.526385 ], [ 36.439568, 48.524102 ], [ 36.436466999000061, 48.525538 ], [ 36.429277001000059, 48.520329 ], [ 36.433092001000034, 48.517372 ], [ 36.43007299900006, 48.513838 ], [ 36.431944999000052, 48.50934 ], [ 36.438761001000046, 48.513978 ], [ 36.444350999000051, 48.513956 ], [ 36.44716800100008, 48.518721 ], [ 36.447761, 48.524123 ] ] ] } }
+]
+}

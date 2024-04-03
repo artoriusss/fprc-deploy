@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.036130983145600003, "Shape_Area": 6.9242401034799999e-05, "ADM4_EN": "Mala Tokarivka", "ADM4_UA": "Мала Токарівка", "ADM4_PCODE": "UA1804047022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Romanivska", "ADM3_UA": "Романівська", "ADM3_PCODE": "UA1804047", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.670735080000043, 50.207193990000064 ], [ 27.670122, 50.209503030000064 ], [ 27.664643161000072, 50.213574990000041 ], [ 27.661730040000066, 50.208798960000081 ], [ 27.661691160000032, 50.20272999000008 ], [ 27.66475188000004, 50.202410040000075 ], [ 27.666864, 50.205571020000036 ], [ 27.670735080000043, 50.207193990000064 ] ] ] } }
+]
+}

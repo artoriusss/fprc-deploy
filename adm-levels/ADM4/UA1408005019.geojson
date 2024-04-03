@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.079286613040700005, "Shape_Area": 0.000127297723051, "ADM4_EN": "Hrabske", "ADM4_UA": "Грабське", "ADM4_PCODE": "UA1408005019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ilovaiska", "ADM3_UA": "Іловайська", "ADM3_PCODE": "UA1408005", "ADM2_EN": "Donetskyi", "ADM2_UA": "Донецький", "ADM2_PCODE": "UA1408", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.156423, 47.903828 ], [ 38.157476, 47.906262 ], [ 38.150049998000043, 47.907721 ], [ 38.151486998000053, 47.900509 ], [ 38.16033599900004, 47.899442 ], [ 38.165969998000037, 47.897837 ], [ 38.169067999000049, 47.904182999000056 ], [ 38.158247998000036, 47.905622 ], [ 38.156423, 47.903828 ] ] ] } }
+]
+}

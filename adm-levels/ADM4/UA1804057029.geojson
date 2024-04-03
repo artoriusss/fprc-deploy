@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0652300984626, "Shape_Area": 7.6181131549500007e-05, "ADM4_EN": "Krasnohirka", "ADM4_UA": "Красногірка", "ADM4_PCODE": "UA1804057029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khoroshivska", "ADM3_UA": "Хорошівська", "ADM3_PCODE": "UA1804057", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.551646081000058, 50.589990990000047 ], [ 28.554859080000028, 50.586254010000061 ], [ 28.551461040000049, 50.582825010000079 ], [ 28.548371880000047, 50.577620040000056 ], [ 28.553875920000053, 50.576374980000026 ], [ 28.556386920000079, 50.578646040000081 ], [ 28.561978080000074, 50.57896302000006 ], [ 28.561179960000061, 50.581881990000056 ], [ 28.553847120000057, 50.583651030000055 ], [ 28.555358039000055, 50.58646101000005 ], [ 28.551646081000058, 50.589990990000047 ] ] ] } }
+]
+}

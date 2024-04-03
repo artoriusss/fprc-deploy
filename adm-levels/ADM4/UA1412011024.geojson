@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.033383553967399997, "Shape_Area": 5.0014874378899999e-05, "ADM4_EN": "Novosadove", "ADM4_UA": "Новосадове", "ADM4_PCODE": "UA1412011024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lymanska", "ADM3_UA": "Лиманська", "ADM3_PCODE": "UA1412011", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "Краматорський", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.971934999000041, 49.13034 ], [ 37.967017998000074, 49.130672 ], [ 37.966003998000076, 49.124701 ], [ 37.968876999000031, 49.121863 ], [ 37.973585998000033, 49.121733 ], [ 37.973729999000057, 49.127604 ], [ 37.971934999000041, 49.13034 ] ] ] } }
+]
+}

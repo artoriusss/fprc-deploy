@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070533785003199997, "Shape_Area": 0.000102989339925, "ADM4_EN": "Strychava", "ADM4_UA": "Стричава", "ADM4_PCODE": "UA2110003008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykobereznianska", "ADM3_UA": "Великоберезнянська", "ADM3_PCODE": "UA2110003", "ADM2_EN": "Uzhhorodskyi", "ADM2_UA": "Ужгородський", "ADM2_PCODE": "UA2110", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.493158793000077, 48.965344190000053 ], [ 22.490613678000045, 48.963058201000081 ], [ 22.485927180000033, 48.963440585000058 ], [ 22.48335181300007, 48.961681058000067 ], [ 22.47255313900007, 48.961609657000054 ], [ 22.472223050000025, 48.957407536000062 ], [ 22.476693131000047, 48.958181880000041 ], [ 22.485558555000068, 48.957185912000057 ], [ 22.494331147000025, 48.961770700000045 ], [ 22.493158793000077, 48.965344190000053 ] ] ] } }
+]
+}

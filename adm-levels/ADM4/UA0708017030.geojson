@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.075115699990800006, "Shape_Area": 6.0620492831399997e-05, "ADM4_EN": "Okhotyn", "ADM4_UA": "Охотин", "ADM4_PCODE": "UA0708017030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lutska", "ADM3_UA": "Луцька", "ADM3_PCODE": "UA0708017", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.102039878000028, 50.756370280000056 ], [ 25.105275074000076, 50.75449700300004 ], [ 25.12049907200003, 50.753586002000077 ], [ 25.122594072000027, 50.761998002000041 ], [ 25.119331072000023, 50.762273002000029 ], [ 25.118855072000031, 50.757606002000045 ], [ 25.120335072000046, 50.755115002000082 ], [ 25.102039878000028, 50.756370280000056 ] ] ] } }
+]
+}

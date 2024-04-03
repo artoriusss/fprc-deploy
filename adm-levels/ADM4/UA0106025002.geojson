@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.032393230211399997, "Shape_Area": 6.8065091673099999e-05, "ADM4_EN": "Subotnyk", "ADM4_UA": "Суботник", "ADM4_PCODE": "UA0106025002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Maslivska", "ADM3_UA": "Маслівська", "ADM3_PCODE": "UA0106025", "ADM2_EN": "Dzhankoiskyi", "ADM2_UA": "Джанкойський", "ADM2_PCODE": "UA0106", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.400483, 45.827284 ], [ 34.400624, 45.829702 ], [ 34.395983999000066, 45.832601 ], [ 34.390793, 45.828742 ], [ 34.39199300100006, 45.824506 ], [ 34.400357, 45.823826 ], [ 34.400483, 45.827284 ] ] ] } }
+]
+}

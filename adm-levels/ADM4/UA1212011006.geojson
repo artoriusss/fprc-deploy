@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.056220828451000002, "Shape_Area": 7.1678556553899999e-05, "ADM4_EN": "Marivka", "ADM4_UA": "Мар'ївка", "ADM4_PCODE": "UA1212011006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Troitska", "ADM3_UA": "Троїцька", "ADM3_PCODE": "UA1212011", "ADM2_EN": "Pavlohradskyi", "ADM2_UA": "Павлоградський", "ADM2_PCODE": "UA1212", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 35.701454305000027, 48.335127303000036 ], [ 35.707918, 48.336047 ], [ 35.710294, 48.339725 ], [ 35.70687, 48.34164 ], [ 35.699017, 48.33765 ], [ 35.701454305000027, 48.335127303000036 ] ] ], [ [ [ 35.724719612000058, 48.339489978000074 ], [ 35.724106961000075, 48.341956886000048 ], [ 35.714376, 48.340524 ], [ 35.715900999000041, 48.337673 ], [ 35.724719612000058, 48.339489978000074 ] ] ] ] } }
+]
+}

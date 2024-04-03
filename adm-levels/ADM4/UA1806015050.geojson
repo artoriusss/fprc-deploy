@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.033144831305399997, "Shape_Area": 3.1892353107100002e-05, "ADM4_EN": "Rudnia-Kamianka", "ADM4_UA": "Рудня-Кам'янка", "ADM4_PCODE": "UA1806015050", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Narodytska", "ADM3_UA": "Народицька", "ADM3_PCODE": "UA1806015", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.963944001000073, 51.082116030000066 ], [ 28.960697880000055, 51.082063020000078 ], [ 28.95642, 51.078860010000028 ], [ 28.966083841000057, 51.076906020000081 ], [ 28.963944001000073, 51.082116030000066 ] ] ] } }
+]
+}

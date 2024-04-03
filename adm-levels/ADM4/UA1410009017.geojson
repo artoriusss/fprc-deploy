@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10995920426, "Shape_Area": 6.7106230918700005e-05, "ADM4_EN": "Svitle", "ADM4_UA": "Світле", "ADM4_PCODE": "UA1410009017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starobeshivska", "ADM3_UA": "Старобешівська", "ADM3_PCODE": "UA1410009", "ADM2_EN": "Kalmiuskyi", "ADM2_UA": "Кальміуський", "ADM2_PCODE": "UA1410", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 38.097026998000047, 47.81636 ], [ 38.074398999000039, 47.815377 ], [ 38.074803999000039, 47.813953 ], [ 38.089785998000025, 47.814561 ], [ 38.097026998000047, 47.81636 ] ] ], [ [ [ 38.104388999000037, 47.812362 ], [ 38.103892999000038, 47.81388 ], [ 38.086875998000039, 47.811373 ], [ 38.087242998000079, 47.810605 ], [ 38.104388999000037, 47.812362 ] ] ] ] } }
+]
+}

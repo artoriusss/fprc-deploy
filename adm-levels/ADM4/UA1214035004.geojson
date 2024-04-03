@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.065094936742499998, "Shape_Area": 0.00016457218101100001, "ADM4_EN": "Zoriane", "ADM4_UA": "Зоряне", "ADM4_PCODE": "UA1214035004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Slovianska", "ADM3_UA": "Слов'янська", "ADM3_PCODE": "UA1214035", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.827587, 48.499734 ], [ 36.825417, 48.504986 ], [ 36.820228, 48.504268 ], [ 36.822073, 48.500134 ], [ 36.819666999000049, 48.498185 ], [ 36.824715, 48.489598 ], [ 36.836098999000058, 48.491477 ], [ 36.838232, 48.49617 ], [ 36.832741999000064, 48.499941 ], [ 36.827587, 48.499734 ] ] ] } }
+]
+}

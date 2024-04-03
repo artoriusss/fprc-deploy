@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.090941174072299999, "Shape_Area": 0.000195074403677, "ADM4_EN": "Volodymyrivka", "ADM4_UA": "Володимирівка", "ADM4_PCODE": "UA1206027006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sofiivska", "ADM3_UA": "Софіївська", "ADM3_PCODE": "UA1206027", "ADM2_EN": "Kryvorizkyi", "ADM2_UA": "Криворізький", "ADM2_PCODE": "UA1206", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.169251999000039, 48.067738 ], [ 34.16573, 48.068521 ], [ 34.163422, 48.071251 ], [ 34.157462, 48.067757 ], [ 34.158691001000079, 48.061379 ], [ 34.16191800100006, 48.057391 ], [ 34.166127999000025, 48.058312 ], [ 34.169307, 48.052631 ], [ 34.166796, 48.049858 ], [ 34.171644001000061, 48.04799 ], [ 34.169322, 48.054341 ], [ 34.172038, 48.059186 ], [ 34.173794, 48.067044 ], [ 34.169251999000039, 48.067738 ] ] ] } }
+]
+}

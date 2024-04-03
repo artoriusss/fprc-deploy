@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0867078953934, "Shape_Area": 7.9600095528700005e-05, "ADM4_EN": "Kosteva Pastil", "ADM4_UA": "Костева Пастіль", "ADM4_PCODE": "UA2110003005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykobereznianska", "ADM3_UA": "Великоберезнянська", "ADM3_PCODE": "UA2110003", "ADM2_EN": "Uzhhorodskyi", "ADM2_UA": "Ужгородський", "ADM2_PCODE": "UA2110", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.561489925000046, 48.85310762000006 ], [ 22.560351537000031, 48.856177460000026 ], [ 22.552117076000059, 48.860433670000077 ], [ 22.549553791000051, 48.856626034000044 ], [ 22.540690796000035, 48.857353034000027 ], [ 22.538684429000057, 48.854783697000073 ], [ 22.549032856000053, 48.854111489000047 ], [ 22.555412884000077, 48.854846313000053 ], [ 22.558634117000054, 48.852169530000026 ], [ 22.561489925000046, 48.85310762000006 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062575701895299998, "Shape_Area": 9.1670702305500005e-05, "ADM4_EN": "Novosilka", "ADM4_UA": "Новосілка", "ADM4_PCODE": "UA1808003028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Barashivska", "ADM3_UA": "Барашівська", "ADM3_PCODE": "UA1808003", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.997234920000039, 50.692492980000054 ], [ 27.990761041000042, 50.691879990000075 ], [ 27.986118120000071, 50.689821960000074 ], [ 27.983324160000052, 50.691473010000038 ], [ 27.982964880000054, 50.68471401000005 ], [ 27.988336170000025, 50.686510748000046 ], [ 27.996336, 50.687092980000045 ], [ 27.998195041000031, 50.689100971000073 ], [ 28.002948120000042, 50.69006298000005 ], [ 28.003335120000031, 50.692460040000071 ], [ 27.997234920000039, 50.692492980000054 ] ] ] } }
+]
+}

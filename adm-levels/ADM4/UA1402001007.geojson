@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.037397730349100003, "Shape_Area": 5.7322604470499999e-05, "ADM4_EN": "Vidrodzhennia", "ADM4_UA": "Відродження", "ADM4_PCODE": "UA1402001007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bakhmutska", "ADM3_UA": "Бахмутська", "ADM3_PCODE": "UA1402001", "ADM2_EN": "Bakhmutskyi", "ADM2_UA": "Бахмутський", "ADM2_PCODE": "UA1402", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.22658399900007, 48.528774 ], [ 38.21480499900008, 48.526288 ], [ 38.217175998000073, 48.521116 ], [ 38.223171997000065, 48.522176 ], [ 38.22172099800008, 48.524559 ], [ 38.228111998000031, 48.526342 ], [ 38.22658399900007, 48.528774 ] ] ] } }
+]
+}

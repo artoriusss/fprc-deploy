@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070480808651499999, "Shape_Area": 8.9273211602500005e-05, "ADM4_EN": "Stari Velidnyky", "ADM4_UA": "Старі Велідники", "ADM4_PCODE": "UA1806021029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Slovechanska", "ADM3_UA": "Словечанська", "ADM3_PCODE": "UA1806021", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 28.451798999000061, 51.313347 ], [ 28.438122960000044, 51.315012990000071 ], [ 28.439020080000034, 51.312897 ], [ 28.451798999000061, 51.313347 ] ] ], [ [ [ 28.446411961000024, 51.309285030000069 ], [ 28.438845121000043, 51.308406 ], [ 28.443350160000023, 51.305037030000051 ], [ 28.448066160000053, 51.299048970000058 ], [ 28.452243960000033, 51.302415960000076 ], [ 28.448647920000042, 51.308286030000033 ], [ 28.446411961000024, 51.309285030000069 ] ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.082716471175100004, "Shape_Area": 0.00017668610204700001, "ADM4_EN": "Petrivka Druha", "ADM4_UA": "Петрівка Друга", "ADM4_PCODE": "UA1412017035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Oleksandrivska", "ADM3_UA": "Олександрівська", "ADM3_PCODE": "UA1412017", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "Краматорський", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.771951, 48.682086 ], [ 36.767700001000037, 48.682426 ], [ 36.769786, 48.675237 ], [ 36.778588999000078, 48.676406 ], [ 36.776713, 48.671919 ], [ 36.782238, 48.668611 ], [ 36.784232001000078, 48.671606 ], [ 36.783218999000042, 48.676895 ], [ 36.794477001000075, 48.6783 ], [ 36.794377, 48.681951 ], [ 36.778593, 48.681708 ], [ 36.771951, 48.682086 ] ] ] } }
+]
+}

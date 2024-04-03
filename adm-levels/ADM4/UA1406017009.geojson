@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.050097263397100002, "Shape_Area": 7.7042256114499995e-05, "ADM4_EN": "Viktoriia", "ADM4_UA": "Вікторія", "ADM4_PCODE": "UA1406017009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shakhtarska", "ADM3_UA": "Шахтарська", "ADM3_PCODE": "UA1406017", "ADM2_EN": "Horlivskyi", "ADM2_UA": "Горлівський", "ADM2_PCODE": "UA1406", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.47662910400004, 48.067337740000028 ], [ 38.481728081000028, 48.064836898000067 ], [ 38.48675942300008, 48.065293893000046 ], [ 38.496160188000033, 48.063627586000052 ], [ 38.492390139000065, 48.067558665000035 ], [ 38.479377520000071, 48.070213797000065 ], [ 38.475203209000028, 48.070095047000052 ], [ 38.47662910400004, 48.067337740000028 ] ] ] } }
+]
+}

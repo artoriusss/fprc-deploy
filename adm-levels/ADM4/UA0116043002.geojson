@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.067182693653900005, "Shape_Area": 0.000170178933177, "ADM4_EN": "Komyshynka", "ADM4_UA": "Комишинка", "ADM4_PCODE": "UA0116043002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chystenska", "ADM3_UA": "Чистенська", "ADM3_PCODE": "UA0116043", "ADM2_EN": "Simferopolskyi", "ADM2_UA": "Сімферопольський", "ADM2_PCODE": "UA0116", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.950698107000051, 44.891764839000075 ], [ 33.950672552000071, 44.89453644300005 ], [ 33.942150613000024, 44.901056104000077 ], [ 33.937833170000033, 44.898527329000046 ], [ 33.942404401000033, 44.892269817000056 ], [ 33.938858401000061, 44.890314950000061 ], [ 33.945592802000078, 44.881200291000027 ], [ 33.951606230000039, 44.882688740000049 ], [ 33.949648926000066, 44.887683595000055 ], [ 33.950698107000051, 44.891764839000075 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.049601618530099999, "Shape_Area": 4.7061006186699999e-05, "ADM4_EN": "Ruska Dolyna", "ADM4_UA": "Руська Долина", "ADM4_PCODE": "UA2102009009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vylotska", "ADM3_UA": "Вилоцька", "ADM3_PCODE": "UA2102009", "ADM2_EN": "Berehivskyi", "ADM2_UA": "Берегівський", "ADM2_PCODE": "UA2102", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.931064529000025, 48.127249488000075 ], [ 22.930302547000053, 48.129447024000058 ], [ 22.915006556000037, 48.126747023000064 ], [ 22.909548557000051, 48.12306402300004 ], [ 22.931064529000025, 48.127249488000075 ] ] ] } }
+]
+}

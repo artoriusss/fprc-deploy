@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.110736855922, "Shape_Area": 0.00015123645174300001, "ADM4_EN": "Baikivtsi", "ADM4_UA": "Байківці", "ADM4_PCODE": "UA0706007002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Holobska", "ADM3_UA": "Голобська", "ADM3_PCODE": "UA0706007", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.025649082000029, 51.166890002000059 ], [ 25.022607082000036, 51.169500002000063 ], [ 25.021601083000064, 51.162906003000046 ], [ 25.02616708100004, 51.157337002000077 ], [ 25.031764082000052, 51.156346003000067 ], [ 25.035985081000035, 51.159041003000027 ], [ 25.035835081000073, 51.16185000300004 ], [ 25.038620081000033, 51.163933003000068 ], [ 25.026363081000056, 51.164729002000058 ], [ 25.025649082000029, 51.166890002000059 ] ] ] } }
+]
+}

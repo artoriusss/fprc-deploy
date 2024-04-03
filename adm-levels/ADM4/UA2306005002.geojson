@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.111687576622, "Shape_Area": 0.00014703780153599999, "ADM4_EN": "Baburka", "ADM4_UA": "Бабурка", "ADM4_PCODE": "UA2306005002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dolynska", "ADM3_UA": "Долинська", "ADM3_PCODE": "UA2306005", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.05953999500008, 47.802501693000067 ], [ 35.058351959000049, 47.79865174300005 ], [ 35.059963349000043, 47.794389564000028 ], [ 35.063695648000078, 47.796019398000055 ], [ 35.073377592000043, 47.790789568000037 ], [ 35.080535780000048, 47.791550262000044 ], [ 35.072270471000024, 47.798028155000054 ], [ 35.069285385000057, 47.801773179000065 ], [ 35.060967775000051, 47.80101085900003 ], [ 35.05953999500008, 47.802501693000067 ] ] ] } }
+]
+}

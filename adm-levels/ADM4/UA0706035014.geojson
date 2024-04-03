@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.047212771894599999, "Shape_Area": 9.8054453002899996e-05, "ADM4_EN": "Pochapy", "ADM4_UA": "Почапи", "ADM4_PCODE": "UA0706035014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Samarivska", "ADM3_UA": "Самарівська", "ADM3_PCODE": "UA0706035", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.90183909600006, 51.823071003000052 ], [ 24.895203097000035, 51.822987003000037 ], [ 24.887048099000026, 51.821835003000047 ], [ 24.888292099000068, 51.814007004000075 ], [ 24.890313097000046, 51.81545800300006 ], [ 24.900579346000029, 51.817677253000056 ], [ 24.904448095000078, 51.822185003000072 ], [ 24.90183909600006, 51.823071003000052 ] ] ] } }
+]
+}

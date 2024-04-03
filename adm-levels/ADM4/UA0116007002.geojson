@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.053013917671900002, "Shape_Area": 7.7262649105200003e-05, "ADM4_EN": "Verkhnokurhanne", "ADM4_UA": "Верхньокурганне", "ADM4_PCODE": "UA0116007002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Donska", "ADM3_UA": "Донська", "ADM3_PCODE": "UA0116007", "ADM2_EN": "Simferopolskyi", "ADM2_UA": "Сімферопольський", "ADM2_PCODE": "UA0116", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.246143495000069, 45.10109215500006 ], [ 34.243674156000054, 45.098436810000067 ], [ 34.239648191000072, 45.098671677000027 ], [ 34.239875809000068, 45.095464006000043 ], [ 34.238550613000029, 45.085661470000048 ], [ 34.243388113000037, 45.084886779000044 ], [ 34.244141334000062, 45.090476496000065 ], [ 34.247400537000033, 45.100210946000061 ], [ 34.246143495000069, 45.10109215500006 ] ] ] } }
+]
+}

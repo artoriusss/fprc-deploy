@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.042453678954399998, "Shape_Area": 3.1094477059099998e-05, "ADM4_EN": "Romanivka", "ADM4_UA": "Романівка", "ADM4_PCODE": "UA0702007008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivanychivska", "ADM3_UA": "Іваничівська", "ADM3_PCODE": "UA0702007", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.351797161000036, 50.612830005000035 ], [ 24.349431163000077, 50.607977005000066 ], [ 24.360051160000069, 50.60934200500003 ], [ 24.359499160000041, 50.611032006000073 ], [ 24.352740161000042, 50.610060006000026 ], [ 24.351797161000036, 50.612830005000035 ] ] ] } }
+]
+}

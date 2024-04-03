@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.071658212822799994, "Shape_Area": 9.26888661065e-05, "ADM4_EN": "Mylianovychi", "ADM4_UA": "Миляновичі", "ADM4_PCODE": "UA0706023008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lukivska", "ADM3_UA": "Луківська", "ADM3_PCODE": "UA0706023", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.451622149000059, 51.191492005000043 ], [ 24.453660150000076, 51.195019004000073 ], [ 24.449653150000074, 51.195656005000046 ], [ 24.448944149000056, 51.191874005000045 ], [ 24.445184150000046, 51.19168800500006 ], [ 24.443566152000074, 51.18329000500006 ], [ 24.448228150000034, 51.182421005000037 ], [ 24.451622149000059, 51.191492005000043 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.093709223962100005, "Shape_Area": 7.95239702767e-05, "ADM4_EN": "Bartoshivka", "ADM4_UA": "Бартошівка", "ADM4_PCODE": "UA0502019003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Orativska", "ADM3_UA": "Оратівська", "ADM3_PCODE": "UA0502019", "ADM2_EN": "Vinnytskyi", "ADM2_UA": "Вінницький", "ADM2_PCODE": "UA0502", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 29.323968732000026, 49.302844831000073 ], [ 29.320844, 49.301255 ], [ 29.325388705000023, 49.293053082000029 ], [ 29.328279226000063, 49.300016715000027 ], [ 29.323968732000026, 49.302844831000073 ] ] ], [ [ [ 29.331212056000027, 49.295241950000047 ], [ 29.328320691000044, 49.292917136000028 ], [ 29.340724427000055, 49.293409547000067 ], [ 29.34112611200004, 49.295272043000068 ], [ 29.331212056000027, 49.295241950000047 ] ] ] ] } }
+]
+}

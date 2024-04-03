@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.045114594098799997, "Shape_Area": 8.4391491107900006e-05, "ADM4_EN": "Prymiske", "ADM4_UA": "Приміське", "ADM4_PCODE": "UA1414005007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mariupolska", "ADM3_UA": "Маріупольська", "ADM3_PCODE": "UA1414005", "ADM2_EN": "Mariupolskyi", "ADM2_UA": "Маріупольський", "ADM2_PCODE": "UA1414", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.453135, 47.125441 ], [ 37.448944, 47.125249 ], [ 37.445627, 47.119253 ], [ 37.45003299900003, 47.118028 ], [ 37.454519, 47.118412 ], [ 37.458801998000069, 47.117134 ], [ 37.458568998000032, 47.125188 ], [ 37.453135, 47.125441 ] ] ] } }
+]
+}

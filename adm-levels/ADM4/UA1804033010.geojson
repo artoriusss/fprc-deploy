@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11349736627699999, "Shape_Area": 0.000191704634977, "ADM4_EN": "Rudnia-Hatskivka", "ADM4_UA": "Рудня-Гацьківка", "ADM4_PCODE": "UA1804033010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoborivska", "ADM3_UA": "Новоборівська", "ADM3_PCODE": "UA1804033", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.549981080000066, 50.717292030000067 ], [ 28.546488001000057, 50.719661010000038 ], [ 28.545751080000059, 50.710365 ], [ 28.554975, 50.708574 ], [ 28.561483080000073, 50.705913960000032 ], [ 28.569350880000059, 50.704308990000072 ], [ 28.570699081000043, 50.708232990000056 ], [ 28.565319960000068, 50.711166 ], [ 28.558245960000079, 50.712590970000065 ], [ 28.557654840000055, 50.714956980000068 ], [ 28.55214396100007, 50.715565020000042 ], [ 28.549981080000066, 50.717292030000067 ] ] ] } }
+]
+}

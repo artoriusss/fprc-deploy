@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.060784855401899998, "Shape_Area": 0.000222218665024, "ADM4_EN": "Krymske", "ADM4_UA": "Кримське", "ADM4_PCODE": "UA0108033001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krymska", "ADM3_UA": "Кримська", "ADM3_PCODE": "UA0108033", "ADM2_EN": "Yevpatoriiskyi", "ADM2_UA": "Євпаторійський", "ADM2_PCODE": "UA0108", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.806208135000077, 45.182727391000071 ], [ 33.807065515000033, 45.19589768700007 ], [ 33.79265050500004, 45.197347289000049 ], [ 33.792632522000076, 45.18199190100006 ], [ 33.796208160000049, 45.180141443000025 ], [ 33.802665920000038, 45.179142864000028 ], [ 33.806208135000077, 45.182727391000071 ] ] ] } }
+]
+}

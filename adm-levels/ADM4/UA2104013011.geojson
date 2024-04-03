@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.082269310350399999, "Shape_Area": 0.000112206334884, "ADM4_EN": "Puzniakivtsi", "ADM4_UA": "Пузняківці", "ADM4_PCODE": "UA2104013011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kolchynska", "ADM3_UA": "Кольчинська", "ADM3_PCODE": "UA2104013", "ADM2_EN": "Mukachivskyi", "ADM2_UA": "Мукачівський", "ADM2_PCODE": "UA2104", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.721187675000067, 48.630409028000031 ], [ 22.718285675000061, 48.629568028000051 ], [ 22.716045677000068, 48.625371029000064 ], [ 22.719433675000062, 48.624498028000062 ], [ 22.717233676000035, 48.618636029000072 ], [ 22.718789676000029, 48.615151028000071 ], [ 22.721502674000078, 48.615415028000029 ], [ 22.723621673000025, 48.619316028000071 ], [ 22.723745672000064, 48.623322028000075 ], [ 22.727047671000037, 48.629180028000064 ], [ 22.721187675000067, 48.630409028000031 ] ] ] } }
+]
+}

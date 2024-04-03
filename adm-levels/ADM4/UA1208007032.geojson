@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11556345032400001, "Shape_Area": 0.00028559623504299998, "ADM4_EN": "Pavlopillia", "ADM4_UA": "Павлопілля", "ADM4_PCODE": "UA1208007032", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pershotravnevska", "ADM3_UA": "Першотравневська", "ADM3_PCODE": "UA1208007", "ADM2_EN": "Nikopolskyi", "ADM2_UA": "Нікопольський", "ADM2_PCODE": "UA1208", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.056485999000074, 47.886946 ], [ 34.048806, 47.887495 ], [ 34.047846, 47.883772 ], [ 34.044551, 47.884053 ], [ 34.042023, 47.874253 ], [ 34.034634, 47.874404 ], [ 34.024754999000038, 47.863344 ], [ 34.028053999000065, 47.862462 ], [ 34.03602, 47.869887 ], [ 34.042853, 47.869964 ], [ 34.043859999000063, 47.866503 ], [ 34.047267, 47.86692 ], [ 34.047248, 47.871299 ], [ 34.053526, 47.870692 ], [ 34.056485999000074, 47.886946 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.118727958976, "Shape_Area": 0.000111307841883, "ADM4_EN": "Poltavka", "ADM4_UA": "Полтавка", "ADM4_PCODE": "UA1412005013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Illinivska", "ADM3_UA": "Іллінівська", "ADM3_PCODE": "UA1412005", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "Краматорський", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 37.471785999000076, 48.443354 ], [ 37.472648999000057, 48.438563 ], [ 37.471018001000061, 48.436325 ], [ 37.474118, 48.430901 ], [ 37.473474, 48.429471 ], [ 37.48118899900004, 48.426678 ], [ 37.481955, 48.431097 ], [ 37.477087, 48.432437 ], [ 37.473714999000038, 48.437371 ], [ 37.475572999000065, 48.438986 ], [ 37.471785999000076, 48.443354 ] ] ], [ [ [ 37.468039999000041, 48.438307 ], [ 37.463809999000034, 48.437108 ], [ 37.464021, 48.432316 ], [ 37.469303, 48.433072 ], [ 37.468039999000041, 48.438307 ] ] ] ] } }
+]
+}

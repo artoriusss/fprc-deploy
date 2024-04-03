@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.076736761425499997, "Shape_Area": 0.00018202710006100001, "ADM4_EN": "Mokroielanchyk", "ADM4_UA": "Мокроєланчик", "ADM4_PCODE": "UA1408001021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Amvrosiivska", "ADM3_UA": "Амвросіївська", "ADM3_PCODE": "UA1408001", "ADM2_EN": "Donetskyi", "ADM2_UA": "Донецький", "ADM2_PCODE": "UA1408", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.510892997000042, 47.706594 ], [ 38.509628998000039, 47.709164 ], [ 38.504813998000031, 47.707309 ], [ 38.490503998000065, 47.706234 ], [ 38.49061899700007, 47.700373 ], [ 38.488791996000032, 47.700082 ], [ 38.488367997000068, 47.69472 ], [ 38.499314998000045, 47.694046 ], [ 38.501426996000077, 47.697605 ], [ 38.503040997000028, 47.703867 ], [ 38.509017997000058, 47.704738999000028 ], [ 38.510892997000042, 47.706594 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.048140730297099997, "Shape_Area": 9.1602386295200005e-05, "ADM4_EN": "Polonka", "ADM4_UA": "Полонка", "ADM4_PCODE": "UA0708003017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Boratynska", "ADM3_UA": "Боратинська", "ADM3_PCODE": "UA0708003", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.297480771000039, 50.697296959000028 ], [ 25.293398059000026, 50.696873002000075 ], [ 25.290782060000026, 50.691101002000039 ], [ 25.294391059000077, 50.689046002000055 ], [ 25.297492059000035, 50.684426002000066 ], [ 25.304894058000059, 50.685835002000033 ], [ 25.303379344000064, 50.691275527000073 ], [ 25.296788817000049, 50.69193047400006 ], [ 25.297480771000039, 50.697296959000028 ] ] ] } }
+]
+}

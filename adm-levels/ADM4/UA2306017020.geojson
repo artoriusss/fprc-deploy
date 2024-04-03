@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.058351159422800003, "Shape_Area": 9.2099518755799995e-05, "ADM4_EN": "Novofedorivka", "ADM4_UA": "Новофедорівка", "ADM4_PCODE": "UA2306017020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykhailo-Lukashivska", "ADM3_UA": "Михайло-Лукашівська", "ADM3_PCODE": "UA2306017", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.702168475000065, 48.036314977000075 ], [ 35.704924393000056, 48.028587559000073 ], [ 35.704406231000064, 48.026685330000078 ], [ 35.708945516000028, 48.021204198000078 ], [ 35.715756376000058, 48.024293261000025 ], [ 35.711644180000064, 48.029253613000037 ], [ 35.707694647000039, 48.029841272000056 ], [ 35.704065578000041, 48.036503712000069 ], [ 35.702168475000065, 48.036314977000075 ] ] ] } }
+]
+}

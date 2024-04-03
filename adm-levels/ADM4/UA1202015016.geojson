@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10891544135800001, "Shape_Area": 0.00027379550117299998, "ADM4_EN": "Mala Kalynivka", "ADM4_UA": "Мала Калинівка", "ADM4_PCODE": "UA1202015016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novopokrovska", "ADM3_UA": "Новопокровська", "ADM3_PCODE": "UA1202015", "ADM2_EN": "Dniprovskyi", "ADM2_UA": "Дніпровський", "ADM2_PCODE": "UA1202", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.331347, 48.034311 ], [ 34.327838999000051, 48.035747 ], [ 34.317668, 48.034782 ], [ 34.30862, 48.031466 ], [ 34.308148, 48.027785 ], [ 34.296869, 48.022793001000025 ], [ 34.299018, 48.019148 ], [ 34.302327500000047, 48.021997 ], [ 34.307903, 48.022584 ], [ 34.316967999000042, 48.025783 ], [ 34.320650999000065, 48.025176 ], [ 34.324558, 48.027633 ], [ 34.339707999000041, 48.030133 ], [ 34.339322001000028, 48.03217 ], [ 34.334048, 48.03257 ], [ 34.331347, 48.034311 ] ] ] } }
+]
+}

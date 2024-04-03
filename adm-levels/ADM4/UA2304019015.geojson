@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0391937012297, "Shape_Area": 6.9961495175799998e-05, "ADM4_EN": "Lymanivka", "ADM4_UA": "Лиманівка", "ADM4_PCODE": "UA2304019015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozdolska", "ADM3_UA": "Роздольська", "ADM3_PCODE": "UA2304019", "ADM2_EN": "Vasylivskyi", "ADM2_UA": "Василівський", "ADM2_PCODE": "UA2304", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.387796292000075, 47.382016682000028 ], [ 35.383921555000029, 47.384177319000059 ], [ 35.382923095000024, 47.380068016000052 ], [ 35.38327706900003, 47.374500387000069 ], [ 35.385013294000032, 47.371283465000033 ], [ 35.389691614000071, 47.371859099000062 ], [ 35.389560353000036, 47.381696095000052 ], [ 35.387796292000075, 47.382016682000028 ] ] ] } }
+]
+}

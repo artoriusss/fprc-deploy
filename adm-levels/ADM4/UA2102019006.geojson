@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.041860939493299998, "Shape_Area": 5.8256358247499997e-05, "ADM4_EN": "Zatysivka", "ADM4_UA": "Затисівка", "ADM4_PCODE": "UA2102019006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pyiterfolvivska", "ADM3_UA": "Пийтерфолвівська", "ADM3_PCODE": "UA2102019", "ADM2_EN": "Berehivskyi", "ADM2_UA": "Берегівський", "ADM2_PCODE": "UA2102", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.983207520000065, 48.066718022000032 ], [ 22.982236521000061, 48.061564022000027 ], [ 22.985047518000044, 48.060219022000069 ], [ 22.994716513000071, 48.06404602200007 ], [ 22.995124514000054, 48.065740022000057 ], [ 22.983207520000065, 48.066718022000032 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.077811953668000006, "Shape_Area": 9.4828312075799997e-05, "ADM4_EN": "Samovolia", "ADM4_UA": "Самоволя", "ADM4_PCODE": "UA0702017015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pavlivska", "ADM3_UA": "Павлівська", "ADM3_PCODE": "UA0702017", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.430873148000046, 50.58323200500007 ], [ 24.429091148000055, 50.584665005000033 ], [ 24.423579150000023, 50.579307005000032 ], [ 24.419400149000069, 50.579741005000074 ], [ 24.415076150000061, 50.576604005000036 ], [ 24.415947151000069, 50.572543005000057 ], [ 24.409815150000043, 50.559791005000079 ], [ 24.41208615100004, 50.559253005000073 ], [ 24.419123151000065, 50.572242005000078 ], [ 24.430873148000046, 50.58323200500007 ] ] ] } }
+]
+}

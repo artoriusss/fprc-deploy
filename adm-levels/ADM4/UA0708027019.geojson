@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11114948861899999, "Shape_Area": 0.000111095663556, "ADM4_EN": "Smolyhiv", "ADM4_UA": "Смолигів", "ADM4_PCODE": "UA0708027019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Torchynska", "ADM3_UA": "Торчинська", "ADM3_PCODE": "UA0708027", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.954567087000044, 50.775216003000025 ], [ 24.955550087000063, 50.760793002000071 ], [ 24.957866086000024, 50.760747003000063 ], [ 24.960921086000042, 50.755553003000045 ], [ 24.983042084000033, 50.755579003000037 ], [ 24.981923084000073, 50.757133003000035 ], [ 24.96346208500006, 50.757161002000032 ], [ 24.960561086000041, 50.761385003000044 ], [ 24.956936085000052, 50.772047003000068 ], [ 24.954567087000044, 50.775216003000025 ] ] ] } }
+]
+}

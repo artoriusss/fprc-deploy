@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.072754523892999995, "Shape_Area": 9.9380147338500003e-05, "ADM4_EN": "Okilok", "ADM4_UA": "Окілок", "ADM4_PCODE": "UA1804037014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Oliivska", "ADM3_UA": "Оліївська", "ADM3_PCODE": "UA1804037", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.430565841000032, 50.47067799000007 ], [ 28.424815920000071, 50.474027970000066 ], [ 28.421926920000033, 50.471883990000038 ], [ 28.423212840000076, 50.468041980000066 ], [ 28.445132880000074, 50.465639970000041 ], [ 28.445875921000038, 50.467939020000074 ], [ 28.433088001000044, 50.469288 ], [ 28.430565841000032, 50.47067799000007 ] ] ] } }
+]
+}

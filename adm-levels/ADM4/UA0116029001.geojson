@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.087951630779000006, "Shape_Area": 0.000148557690911, "ADM4_EN": "Pozharske", "ADM4_UA": "Пожарське", "ADM4_PCODE": "UA0116029001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pozharska", "ADM3_UA": "Пожарська", "ADM3_PCODE": "UA0116029", "ADM2_EN": "Simferopolskyi", "ADM2_UA": "Сімферопольський", "ADM2_PCODE": "UA0116", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.871509727000046, 44.936837154000045 ], [ 33.860024252000073, 44.939115667000067 ], [ 33.85890603100006, 44.936228705000076 ], [ 33.866186687000038, 44.934623379000072 ], [ 33.867690349000043, 44.931245300000057 ], [ 33.870927179000034, 44.93034715400006 ], [ 33.874044215000026, 44.93176602300008 ], [ 33.889851483000029, 44.928513317000068 ], [ 33.891084728000067, 44.931719276000081 ], [ 33.87696539500007, 44.934796907000077 ], [ 33.871509727000046, 44.936837154000045 ] ] ] } }
+]
+}

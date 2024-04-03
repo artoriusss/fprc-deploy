@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0587540899721, "Shape_Area": 5.2756759848900002e-05, "ADM4_EN": "Maslovets", "ADM4_UA": "Масловець", "ADM4_PCODE": "UA0706009008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Holovnenska", "ADM3_UA": "Головненська", "ADM3_PCODE": "UA0706009", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.104915214000073, 51.329814007000039 ], [ 24.10193421300005, 51.327122007000071 ], [ 24.095111215000031, 51.327001007000035 ], [ 24.096174215000076, 51.324576007000076 ], [ 24.105612213000029, 51.321635007000054 ], [ 24.107996213000035, 51.328261007000037 ], [ 24.104915214000073, 51.329814007000039 ] ] ] } }
+]
+}

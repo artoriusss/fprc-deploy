@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.105111844695, "Shape_Area": 0.000191038258361, "ADM4_EN": "Zoloti Prudy", "ADM4_UA": "Золоті Пруди", "ADM4_PCODE": "UA1412017015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Oleksandrivska", "ADM3_UA": "Олександрівська", "ADM3_PCODE": "UA1412017", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "Краматорський", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.014769, 48.736568 ], [ 37.009228999000072, 48.740646 ], [ 37.008443, 48.738722 ], [ 37.014411001000042, 48.734642 ], [ 37.012425, 48.733263 ], [ 37.007465, 48.735757 ], [ 37.006033999000067, 48.734615 ], [ 37.016807, 48.728868 ], [ 37.033248999000079, 48.722355 ], [ 37.036388001000034, 48.725329 ], [ 37.037854, 48.729649 ], [ 37.032463, 48.731358 ], [ 37.031242999000028, 48.730216 ], [ 37.017294, 48.737297 ], [ 37.014769, 48.736568 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.121135466007, "Shape_Area": 0.000212317353332, "ADM4_EN": "Zymne", "ADM4_UA": "Зимне", "ADM4_PCODE": "UA0702005001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zymnivska", "ADM3_UA": "Зимнівська", "ADM3_PCODE": "UA0702005", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.338607164000052, 50.804217006000044 ], [ 24.335560165000061, 50.804522005000081 ], [ 24.326033168000038, 50.801755006000064 ], [ 24.329898167000067, 50.790777006000042 ], [ 24.335888165000028, 50.793388006000043 ], [ 24.335041165000064, 50.796129005000068 ], [ 24.346104164000053, 50.797861006000062 ], [ 24.347135164000065, 50.805505006000033 ], [ 24.338607164000052, 50.804217006000044 ] ] ] } }
+]
+}

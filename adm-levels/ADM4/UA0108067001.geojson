@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.097924184273200002, "Shape_Area": 0.00033510261878100001, "ADM4_EN": "Syzivka", "ADM4_UA": "Сизівка", "ADM4_PCODE": "UA0108067001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Syzivska", "ADM3_UA": "Сизівська", "ADM3_PCODE": "UA0108067", "ADM2_EN": "Yevpatoriiskyi", "ADM2_UA": "Євпаторійський", "ADM2_PCODE": "UA0108", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.88663, 45.355335 ], [ 33.881642001000046, 45.355739 ], [ 33.877601, 45.358011 ], [ 33.876869, 45.360241 ], [ 33.871883, 45.361196 ], [ 33.862834999000029, 45.357822 ], [ 33.863842, 45.353818 ], [ 33.866322, 45.354218 ], [ 33.866788, 45.348498 ], [ 33.865469, 45.342527 ], [ 33.874102, 45.341093 ], [ 33.875518001000046, 45.343061 ], [ 33.881731, 45.341096 ], [ 33.882037, 45.346098 ], [ 33.887026, 45.347898 ], [ 33.88663, 45.355335 ] ] ] } }
+]
+}

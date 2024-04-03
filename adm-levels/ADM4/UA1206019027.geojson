@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.079059149289600006, "Shape_Area": 0.00024668135411199998, "ADM4_EN": "Rannii Ranok", "ADM4_UA": "Ранній Ранок", "ADM4_PCODE": "UA1206019027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lozuvatska", "ADM3_UA": "Лозуватська", "ADM3_PCODE": "UA1206019", "ADM2_EN": "Kryvorizkyi", "ADM2_UA": "Криворізький", "ADM2_PCODE": "UA1206", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.061918, 47.931027 ], [ 33.047013, 47.935723 ], [ 33.046537001000047, 47.932317 ], [ 33.04356, 47.93172 ], [ 33.045803, 47.926536 ], [ 33.049732, 47.924718 ], [ 33.051011, 47.920406 ], [ 33.054408311000032, 47.916942017000054 ], [ 33.062864, 47.919208 ], [ 33.061672, 47.924705 ], [ 33.067759999000032, 47.92664 ], [ 33.066211001000056, 47.929343 ], [ 33.061918, 47.931027 ] ] ] } }
+]
+}

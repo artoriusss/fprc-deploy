@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.066379637095699995, "Shape_Area": 6.0071146648499999e-05, "ADM4_EN": "Bystrovytsia", "ADM4_UA": "Бистровиця", "ADM4_PCODE": "UA0708007002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horokhivska", "ADM3_UA": "Горохівська", "ADM3_PCODE": "UA0708007", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.838106097000036, 50.517322003000061 ], [ 24.824860098000045, 50.51686400300008 ], [ 24.826266098000076, 50.510925003000068 ], [ 24.833915097000045, 50.512830003000033 ], [ 24.842512096000064, 50.512189004000049 ], [ 24.837871097000061, 50.515621004000081 ], [ 24.838106097000036, 50.517322003000061 ] ] ] } }
+]
+}

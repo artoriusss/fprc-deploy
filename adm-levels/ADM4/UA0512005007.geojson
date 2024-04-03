@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.099040495590399999, "Shape_Area": 0.000190967898061, "ADM4_EN": "Kamianohirka", "ADM4_UA": "Кам'яногірка", "ADM4_PCODE": "UA0512005007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivanivska", "ADM3_UA": "Іванівська", "ADM3_PCODE": "UA0512005", "ADM2_EN": "Khmilnytskyi", "ADM2_UA": "Хмільницький", "ADM2_PCODE": "UA0512", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.278404, 49.459343 ], [ 28.274194, 49.452698 ], [ 28.273856, 49.448989 ], [ 28.277636855000026, 49.445539265000036 ], [ 28.281752, 49.44776 ], [ 28.284050150000041, 49.447163165000063 ], [ 28.294478999000034, 49.454422 ], [ 28.289111, 49.458868 ], [ 28.283956, 49.459055 ], [ 28.28189, 49.457581 ], [ 28.278404, 49.459343 ] ] ] } }
+]
+}

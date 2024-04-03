@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.051481106840900001, "Shape_Area": 0.000118263748086, "ADM4_EN": "Holiadyn", "ADM4_UA": "Голядин", "ADM4_PCODE": "UA0706045006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shatska", "ADM3_UA": "Шацька", "ADM3_PCODE": "UA0706045", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.83040027900006, 51.406328009000049 ], [ 23.824019281000062, 51.409999010000035 ], [ 23.812680285000056, 51.411320009000065 ], [ 23.814200284000037, 51.408145009000066 ], [ 23.81539228400004, 51.401075010000056 ], [ 23.82629028100007, 51.403275010000073 ], [ 23.83040027900006, 51.406328009000049 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.065430238817399997, "Shape_Area": 9.8013258255999998e-05, "ADM4_EN": "Dmytrenky", "ADM4_UA": "Дмитренки", "ADM4_PCODE": "UA0504003012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Haisynska", "ADM3_UA": "Гайсинська", "ADM3_PCODE": "UA0504003", "ADM2_EN": "Haisynskyi", "ADM2_UA": "Гайсинський", "ADM2_PCODE": "UA0504", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.292711, 48.705815 ], [ 29.291982001000065, 48.703097 ], [ 29.284638, 48.699755 ], [ 29.288769, 48.696174 ], [ 29.293198, 48.696941 ], [ 29.297255, 48.696157 ], [ 29.300443999000038, 48.697552 ], [ 29.300373001000025, 48.700204 ], [ 29.292711, 48.705815 ] ] ] } }
+]
+}

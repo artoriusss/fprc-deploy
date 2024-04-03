@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.12158608185100001, "Shape_Area": 0.00026807383240400002, "ADM4_EN": "Malokozyrshchyna", "ADM4_UA": "Малокозирщина", "ADM4_PCODE": "UA1210009009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pereshchepynska", "ADM3_UA": "Перещепинська", "ADM3_PCODE": "UA1210009", "ADM2_EN": "Novomoskovskyi", "ADM2_UA": "Новомосковський", "ADM2_PCODE": "UA1210", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.302549001000045, 49.042497 ], [ 35.296083001000056, 49.045212 ], [ 35.288948, 49.045996 ], [ 35.282106, 49.048266 ], [ 35.280859, 49.044879 ], [ 35.265677, 49.047791 ], [ 35.265983, 49.04477 ], [ 35.288273, 49.040694 ], [ 35.286867, 49.034309 ], [ 35.302969, 49.025074 ], [ 35.304069, 49.027622 ], [ 35.298544, 49.030287 ], [ 35.299261955000077, 49.032971759000077 ], [ 35.297529, 49.033233 ], [ 35.299751001000061, 49.042355 ], [ 35.302549001000045, 49.042497 ] ] ] } }
+]
+}

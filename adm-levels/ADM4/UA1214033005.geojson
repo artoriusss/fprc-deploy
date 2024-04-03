@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.12746456585499999, "Shape_Area": 0.00030612714535500001, "ADM4_EN": "Varvarivka", "ADM4_UA": "Варварівка", "ADM4_PCODE": "UA1214033005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Slavhorodska", "ADM3_UA": "Славгородська", "ADM3_PCODE": "UA1214033", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.319170087000032, 48.197943676000079 ], [ 35.314632001000064, 48.197414 ], [ 35.316608, 48.191113 ], [ 35.324712, 48.193106 ], [ 35.338277, 48.191971 ], [ 35.339994001000036, 48.197615 ], [ 35.351499, 48.19815 ], [ 35.353168, 48.200415 ], [ 35.348081001000025, 48.201959 ], [ 35.337893, 48.203706 ], [ 35.338605, 48.206724 ], [ 35.3328, 48.207623 ], [ 35.33035, 48.205107 ], [ 35.325753, 48.204708 ], [ 35.326444, 48.201906 ], [ 35.323741, 48.197863 ], [ 35.319170087000032, 48.197943676000079 ] ] ] } }
+]
+}

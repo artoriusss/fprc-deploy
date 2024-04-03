@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.051248293235300002, "Shape_Area": 9.3614696729899999e-05, "ADM4_EN": "Sukhivske", "ADM4_UA": "Сухівське", "ADM4_PCODE": "UA1406011030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Snizhnianska", "ADM3_UA": "Сніжнянська", "ADM3_PCODE": "UA1406011", "ADM2_EN": "Horlivskyi", "ADM2_UA": "Горлівський", "ADM2_PCODE": "UA1406", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.724630997000077, 48.059973 ], [ 38.723520995000058, 48.064272 ], [ 38.72094899700005, 48.067518001000053 ], [ 38.716569996000032, 48.069259 ], [ 38.708410997000044, 48.067943 ], [ 38.712144996000063, 48.062086 ], [ 38.717660995000074, 48.060315 ], [ 38.724630997000077, 48.059973 ] ] ] } }
+]
+}

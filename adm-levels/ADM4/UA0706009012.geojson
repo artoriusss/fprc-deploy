@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.052560982685799999, "Shape_Area": 9.1367900796000001e-05, "ADM4_EN": "Skrypytsia", "ADM4_UA": "Скрипиця", "ADM4_PCODE": "UA0706009012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Holovnenska", "ADM3_UA": "Головненська", "ADM3_PCODE": "UA0706009", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.141985205000026, 51.325485007000054 ], [ 24.13849220700007, 51.32505500700006 ], [ 24.141408205000062, 51.319098007000036 ], [ 24.146248204000074, 51.316555007000034 ], [ 24.153628203000039, 51.316847006000046 ], [ 24.156785203000027, 51.318682006000074 ], [ 24.152857204000043, 51.322974006000038 ], [ 24.150632204000033, 51.321317006000072 ], [ 24.144050205000042, 51.322982007000064 ], [ 24.141985205000026, 51.325485007000054 ] ] ] } }
+]
+}

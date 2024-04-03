@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.071101914846600001, "Shape_Area": 0.000211139685801, "ADM4_EN": "Shcherbynivka", "ADM4_UA": "Щербинівка", "ADM4_PCODE": "UA1202003005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kytaihorodska", "ADM3_UA": "Китайгородська", "ADM3_PCODE": "UA1202003", "ADM2_EN": "Dniprovskyi", "ADM2_UA": "Дніпровський", "ADM2_PCODE": "UA1202", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.332566, 48.932653 ], [ 34.331849, 48.937626 ], [ 34.334478, 48.939656 ], [ 34.340769, 48.940942 ], [ 34.343059, 48.945469 ], [ 34.33477600100008, 48.947653 ], [ 34.328501, 48.945427 ], [ 34.326352, 48.943379 ], [ 34.314650999000037, 48.938374 ], [ 34.32238, 48.933158 ], [ 34.332566, 48.932653 ] ] ] } }
+]
+}

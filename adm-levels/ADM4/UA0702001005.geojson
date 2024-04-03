@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.060137714198, "Shape_Area": 9.7289853352300007e-05, "ADM4_EN": "Laskiv", "ADM4_UA": "Ласків", "ADM4_PCODE": "UA0702001005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Volodymyr-Volynska", "ADM3_UA": "Володимир-Волинська", "ADM3_PCODE": "UA0702001", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.195748190000074, 50.792501006000066 ], [ 24.187682191000079, 50.793329006000079 ], [ 24.183413192000046, 50.792471006000028 ], [ 24.183100191000051, 50.786400006000065 ], [ 24.184539193000035, 50.785282007000035 ], [ 24.191833191000057, 50.784889007000061 ], [ 24.193770191000056, 50.790735006000034 ], [ 24.195748190000074, 50.792501006000066 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.077467530215700006, "Shape_Area": 0.00015903746617200001, "ADM4_EN": "Krynychuvate", "ADM4_UA": "Криничувате", "ADM4_PCODE": "UA1208007016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pershotravnevska", "ADM3_UA": "Першотравневська", "ADM3_PCODE": "UA1208007", "ADM2_EN": "Nikopolskyi", "ADM2_UA": "Нікопольський", "ADM2_PCODE": "UA1208", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.330491, 47.914629 ], [ 34.321948, 47.914153 ], [ 34.316482, 47.909571 ], [ 34.314681001000054, 47.905689 ], [ 34.309904001000064, 47.901728 ], [ 34.317121, 47.900517 ], [ 34.319485, 47.901234 ], [ 34.322594, 47.90529 ], [ 34.326621, 47.907182 ], [ 34.329102, 47.903315 ], [ 34.334462, 47.903944 ], [ 34.329580500000077, 47.909244500000057 ], [ 34.327815, 47.913236 ], [ 34.330491, 47.914629 ] ] ] } }
+]
+}

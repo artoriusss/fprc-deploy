@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.077748655643500003, "Shape_Area": 0.00024568976892299998, "ADM4_EN": "Vilne", "ADM4_UA": "Вільне", "ADM4_PCODE": "UA1206021003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nyvotrudivska", "ADM3_UA": "Нивотрудівська", "ADM3_PCODE": "UA1206021", "ADM2_EN": "Kryvorizkyi", "ADM2_UA": "Криворізький", "ADM2_PCODE": "UA1206", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.590606, 47.794649 ], [ 33.583562, 47.793573 ], [ 33.582878, 47.790834 ], [ 33.577571001000024, 47.790213 ], [ 33.573571, 47.791837 ], [ 33.572861999000054, 47.786482 ], [ 33.576253001000055, 47.786153 ], [ 33.578044999000042, 47.778674 ], [ 33.581882, 47.77912 ], [ 33.585661, 47.775215 ], [ 33.592212, 47.775263 ], [ 33.590726001000064, 47.787762 ], [ 33.591892999000038, 47.789903 ], [ 33.590606, 47.794649 ] ] ] } }
+]
+}

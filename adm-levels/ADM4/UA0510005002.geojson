@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.078771406918100001, "Shape_Area": 9.2662372117099993e-05, "ADM4_EN": "Andriiashivka", "ADM4_UA": "Андріяшівка", "ADM4_PCODE": "UA0510005002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodkivska", "ADM3_UA": "Городківська", "ADM3_PCODE": "UA0510005", "ADM2_EN": "Tulchynskyi", "ADM2_UA": "Тульчинський", "ADM2_PCODE": "UA0510", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.722664222000049, 48.411627425000063 ], [ 28.719352590000028, 48.412034040000037 ], [ 28.718203116000041, 48.41612180900006 ], [ 28.714899975000037, 48.418384929000069 ], [ 28.714979536000044, 48.412777752000068 ], [ 28.709800008000059, 48.407070325000063 ], [ 28.716366586000049, 48.40140223800006 ], [ 28.718196092000028, 48.401589167000054 ], [ 28.720301836000033, 48.406625318000067 ], [ 28.718914, 48.409949 ], [ 28.722664222000049, 48.411627425000063 ] ] ] } }
+]
+}

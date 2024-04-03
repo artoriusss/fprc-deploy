@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.063975351343500006, "Shape_Area": 8.4634484566100003e-05, "ADM4_EN": "Novoselytsia", "ADM4_UA": "Новоселиця", "ADM4_PCODE": "UA1806013044", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Malynska", "ADM3_UA": "Малинська", "ADM3_PCODE": "UA1806013", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.439227202000041, 50.753747787000066 ], [ 29.436656136000067, 50.757986780000067 ], [ 29.428893157000061, 50.756078818000049 ], [ 29.430896147000055, 50.751859823000075 ], [ 29.437324188000048, 50.75192781100003 ], [ 29.448826169000029, 50.750016810000034 ], [ 29.452293123000061, 50.751751747000071 ], [ 29.439227202000041, 50.753747787000066 ] ] ] } }
+]
+}

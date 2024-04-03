@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.055696804412300002, "Shape_Area": 0.00016579456761100001, "ADM4_EN": "Krasnosilske", "ADM4_UA": "Красносільське", "ADM4_PCODE": "UA0108055004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Okunivska", "ADM3_UA": "Окунівська", "ADM3_PCODE": "UA0108055", "ADM2_EN": "Yevpatoriiskyi", "ADM2_UA": "Євпаторійський", "ADM2_PCODE": "UA0108", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.680791784000064, 45.41977343800005 ], [ 32.675820778000059, 45.421697997000081 ], [ 32.671682798000063, 45.418454872000041 ], [ 32.67068030400003, 45.413881634000063 ], [ 32.684331315000065, 45.403003707000039 ], [ 32.685786998000026, 45.406180508000034 ], [ 32.683569153000064, 45.415356967000037 ], [ 32.680791784000064, 45.41977343800005 ] ] ] } }
+]
+}

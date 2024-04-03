@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.078945543136399995, "Shape_Area": 0.000131370623634, "ADM4_EN": "Tersianka", "ADM4_UA": "Терсянка", "ADM4_PCODE": "UA2306017023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykhailo-Lukashivska", "ADM3_UA": "Михайло-Лукашівська", "ADM3_PCODE": "UA2306017", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.607310351000024, 48.090680834000068 ], [ 35.603574825000067, 48.089952506000031 ], [ 35.600638446000062, 48.086952810000071 ], [ 35.58488703300003, 48.086833957000067 ], [ 35.575011321000034, 48.083664828000053 ], [ 35.579159824000044, 48.079393114000027 ], [ 35.591687197000056, 48.083238902000062 ], [ 35.598710040000071, 48.082881157000031 ], [ 35.604680022000025, 48.085018299000069 ], [ 35.604072617000043, 48.087751616000048 ], [ 35.607310351000024, 48.090680834000068 ] ] ] } }
+]
+}

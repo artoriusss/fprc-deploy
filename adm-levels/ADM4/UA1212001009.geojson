@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.076216284228400002, "Shape_Area": 8.4098235161899997e-05, "ADM4_EN": "Samarske", "ADM4_UA": "Самарське", "ADM4_PCODE": "UA1212001009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bohdanivska", "ADM3_UA": "Богданівська", "ADM3_PCODE": "UA1212001", "ADM2_EN": "Pavlohradskyi", "ADM2_UA": "Павлоградський", "ADM2_PCODE": "UA1212", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.097420999000065, 48.446827 ], [ 36.096296, 48.450974 ], [ 36.092336999000054, 48.451923 ], [ 36.091628, 48.446966 ], [ 36.098149999000043, 48.44564 ], [ 36.111009, 48.439989 ], [ 36.111365, 48.445688 ], [ 36.105329, 48.446139 ], [ 36.103308, 48.449114 ], [ 36.100698, 48.44606 ], [ 36.097420999000065, 48.446827 ] ] ] } }
+]
+}

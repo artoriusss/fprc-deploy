@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.053010381381500001, "Shape_Area": 0.00010061265053700001, "ADM4_EN": "Muravka", "ADM4_UA": "Муравка", "ADM4_PCODE": "UA1416025004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Udachnenska", "ADM3_UA": "Удачненська", "ADM3_PCODE": "UA1416025", "ADM2_EN": "Pokrovskyi", "ADM2_UA": "Покровський", "ADM2_PCODE": "UA1416", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.907637001000069, 48.177952 ], [ 36.904091999000059, 48.181638 ], [ 36.896088, 48.178084 ], [ 36.890481999000031, 48.174567 ], [ 36.892349, 48.172298 ], [ 36.897950999000045, 48.171761 ], [ 36.909436, 48.176541 ], [ 36.907637001000069, 48.177952 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.16338737474500001, "Shape_Area": 0.00034617281626000003, "ADM4_EN": "Druzhne", "ADM4_UA": "Дружне", "ADM4_PCODE": "UA0512007013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kalynivska", "ADM3_UA": "Калинівська", "ADM3_PCODE": "UA0512007", "ADM2_EN": "Khmilnytskyi", "ADM2_UA": "Хмільницький", "ADM2_PCODE": "UA0512", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.802811, 49.475909 ], [ 28.799901, 49.472379 ], [ 28.803509, 49.470202 ], [ 28.803431001000035, 49.464235 ], [ 28.804659, 49.460662 ], [ 28.808866999000031, 49.459136 ], [ 28.814263, 49.45951 ], [ 28.819808, 49.464445 ], [ 28.82207, 49.461053 ], [ 28.82651700100007, 49.461538 ], [ 28.827877, 49.463651 ], [ 28.834256001000028, 49.463361 ], [ 28.832857, 49.46636 ], [ 28.820576, 49.472367 ], [ 28.81868, 49.472074 ], [ 28.80241600100004, 49.474639 ], [ 28.802811, 49.475909 ] ] ] } }
+]
+}

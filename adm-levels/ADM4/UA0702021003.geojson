@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.043513160123000001, "Shape_Area": 2.6358669295000001e-05, "ADM4_EN": "Vorchyn", "ADM4_UA": "Ворчин", "ADM4_PCODE": "UA0702021003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ustyluzka", "ADM3_UA": "Устилузька", "ADM3_PCODE": "UA0702021", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.216254187000061, 50.914618006000069 ], [ 24.223071186000027, 50.913493006000067 ], [ 24.224063185000034, 50.915804007000077 ], [ 24.217064187000062, 50.916813006000041 ], [ 24.216254187000061, 50.914618006000069 ] ] ] } }
+]
+}

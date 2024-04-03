@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0509807682204, "Shape_Area": 8.0294332627599998e-05, "ADM4_EN": "Volovytsia", "ADM4_UA": "Воловиця", "ADM4_PCODE": "UA2102013004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kamianska", "ADM3_UA": "Кам'янська", "ADM3_PCODE": "UA2102013", "ADM2_EN": "Berehivskyi", "ADM2_UA": "Берегівський", "ADM2_PCODE": "UA2102", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.908178563000035, 48.280887024000037 ], [ 22.906777563000048, 48.289736024000035 ], [ 22.908666563000054, 48.296010024000054 ], [ 22.906296161000057, 48.296641402000034 ], [ 22.90348156500005, 48.289717024000026 ], [ 22.899736566000058, 48.288373024000066 ], [ 22.901024565000057, 48.28534802300004 ], [ 22.899908566000079, 48.281898024000043 ], [ 22.903097565000053, 48.279669024000043 ], [ 22.908178563000035, 48.280887024000037 ] ] ] } }
+]
+}

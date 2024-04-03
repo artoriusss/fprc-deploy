@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.18345396416900001, "Shape_Area": 0.00015543488024699999, "ADM4_EN": "Verkhnokamianske", "ADM4_UA": "Верхньокам'янське", "ADM4_PCODE": "UA1402003002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zvanivska", "ADM3_UA": "Званівська", "ADM3_PCODE": "UA1402003", "ADM2_EN": "Bakhmutskyi", "ADM2_UA": "Бахмутський", "ADM2_PCODE": "UA1402", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.210598997000034, 48.859179 ], [ 38.167689998000071, 48.863588 ], [ 38.169834999000045, 48.861531 ], [ 38.182996999000068, 48.860156 ], [ 38.189052998000079, 48.85853 ], [ 38.194685998000068, 48.854255 ], [ 38.198545999000032, 48.858391 ], [ 38.210598997000034, 48.859179 ] ] ] } }
+]
+}

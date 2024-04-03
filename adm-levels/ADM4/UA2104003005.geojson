@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.058686838709800002, "Shape_Area": 9.7682878655e-05, "ADM4_EN": "Zubivka", "ADM4_UA": "Зубівка", "ADM4_PCODE": "UA2104003005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Verkhnokoropetska", "ADM3_UA": "Верхньокоропецька", "ADM3_PCODE": "UA2104003", "ADM2_EN": "Mukachivskyi", "ADM2_UA": "Мукачівський", "ADM2_PCODE": "UA2104", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.84321760000006, 48.388121026000078 ], [ 22.835775602000069, 48.388535026000056 ], [ 22.83073960400003, 48.37892002600006 ], [ 22.835133603000031, 48.37656002600005 ], [ 22.838391601000069, 48.382533025000043 ], [ 22.841671599000051, 48.380559025000025 ], [ 22.843440598000029, 48.384434026000065 ], [ 22.84321760000006, 48.388121026000078 ] ] ] } }
+]
+}

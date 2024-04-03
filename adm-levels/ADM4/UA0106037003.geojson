@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.047749978905899999, "Shape_Area": 7.2861194515799998e-05, "ADM4_EN": "Aprelivka", "ADM4_UA": "Апрелівка", "ADM4_PCODE": "UA0106037003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Prostornenska", "ADM3_UA": "Просторненська", "ADM3_PCODE": "UA0106037", "ADM2_EN": "Dzhankoiskyi", "ADM2_UA": "Джанкойський", "ADM2_PCODE": "UA0106", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.743455406000066, 45.686252320000051 ], [ 34.747745310000028, 45.686772462000079 ], [ 34.749819, 45.691043 ], [ 34.728714549000074, 45.688846511000065 ], [ 34.72901782200006, 45.686767725000038 ], [ 34.734968282000068, 45.685900120000042 ], [ 34.743455406000066, 45.686252320000051 ] ] ] } }
+]
+}

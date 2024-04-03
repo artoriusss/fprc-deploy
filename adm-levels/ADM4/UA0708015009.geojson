@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.072779622342500003, "Shape_Area": 9.9595212671099994e-05, "ADM4_EN": "Pidhirne", "ADM4_UA": "Підгірне", "ADM4_PCODE": "UA0708015009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kopachivska", "ADM3_UA": "Копачівська", "ADM3_PCODE": "UA0708015", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.062632078000036, 50.887563002000036 ], [ 25.057320078000032, 50.88662200300007 ], [ 25.053858078000076, 50.882329003000052 ], [ 25.048148078000054, 50.88473900200006 ], [ 25.042901078000057, 50.880944003000081 ], [ 25.050076079000064, 50.878824003000034 ], [ 25.05517407800005, 50.878758002000041 ], [ 25.056667078000032, 50.88375600300003 ], [ 25.062460077000026, 50.884980003000067 ], [ 25.062632078000036, 50.887563002000036 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.050409209767499998, "Shape_Area": 9.6956658868900002e-05, "ADM4_EN": "Kovylne", "ADM4_UA": "Ковильне", "ADM4_PCODE": "UA0106021003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Luhanska", "ADM3_UA": "Луганська", "ADM3_PCODE": "UA0106021", "ADM2_EN": "Dzhankoiskyi", "ADM2_UA": "Джанкойський", "ADM2_PCODE": "UA0106", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.286287369000036, 45.799030822000077 ], [ 34.281864215000041, 45.801359862000027 ], [ 34.280191140000056, 45.798724294000067 ], [ 34.277249840000025, 45.799894760000029 ], [ 34.274001406000025, 45.794752001000063 ], [ 34.281134362000046, 45.791036292000058 ], [ 34.284345651000024, 45.791485456000032 ], [ 34.287793001000068, 45.797058 ], [ 34.286287369000036, 45.799030822000077 ] ] ] } }
+]
+}

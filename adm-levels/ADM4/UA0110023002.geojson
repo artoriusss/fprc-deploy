@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.047377917085199998, "Shape_Area": 9.0213845984800007e-05, "ADM4_EN": "Vulkanivka", "ADM4_UA": "Вулканівка", "ADM4_PCODE": "UA0110023002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kirovska", "ADM3_UA": "Кіровська", "ADM3_PCODE": "UA0110023", "ADM2_EN": "Kerchynskyi", "ADM2_UA": "Керченський", "ADM2_PCODE": "UA0110", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.946809261000055, 45.141878416000054 ], [ 35.943345686000043, 45.144333827000025 ], [ 35.940690664000044, 45.143644365000057 ], [ 35.938156432000028, 45.140204738000079 ], [ 35.938760825000031, 45.135993491000079 ], [ 35.952794036000057, 45.137774358000058 ], [ 35.950585938000074, 45.141650675000051 ], [ 35.946809261000055, 45.141878416000054 ] ] ] } }
+]
+}

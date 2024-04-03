@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.054174945918399997, "Shape_Area": 4.0999288079600002e-05, "ADM4_EN": "Bystriivka", "ADM4_UA": "Бистріївка", "ADM4_PCODE": "UA1804045003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Radomyshlska", "ADM3_UA": "Радомишльська", "ADM3_PCODE": "UA1804045", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.158686515000056, 50.484397356000045 ], [ 29.149714920000065, 50.483231622000062 ], [ 29.149806830000045, 50.481800460000045 ], [ 29.161846737000076, 50.480395393000038 ], [ 29.158686515000056, 50.484397356000045 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.080696368395799994, "Shape_Area": 0.00014081425057400001, "ADM4_EN": "Palad-Komarivtsi", "ADM4_UA": "Паладь-Комарівці", "ADM4_PCODE": "UA2110019007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Siurtivska", "ADM3_UA": "Сюртівська", "ADM3_PCODE": "UA2110019", "ADM2_EN": "Uzhhorodskyi", "ADM2_UA": "Ужгородський", "ADM2_PCODE": "UA2110", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.178704422000067, 48.528667086000041 ], [ 22.173908450000056, 48.530879101000039 ], [ 22.17009641900006, 48.525006113000074 ], [ 22.170433394000042, 48.521503111000072 ], [ 22.177284347000068, 48.517308091000075 ], [ 22.183893308000052, 48.514430072000039 ], [ 22.185874330000047, 48.51825206400008 ], [ 22.183225347000075, 48.519505072000072 ], [ 22.178704422000067, 48.528667086000041 ] ] ] } }
+]
+}

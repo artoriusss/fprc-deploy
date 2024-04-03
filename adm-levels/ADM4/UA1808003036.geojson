@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.056756682034100003, "Shape_Area": 0.00016008569769099999, "ADM4_EN": "Shevchenkove", "ADM4_UA": "Шевченкове", "ADM4_PCODE": "UA1808003036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Barashivska", "ADM3_UA": "Барашівська", "ADM3_PCODE": "UA1808003", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.982443510000053, 50.754858030000037 ], [ 27.992170080000051, 50.756495040000061 ], [ 27.995645880000041, 50.762061990000063 ], [ 27.984168, 50.765369040000053 ], [ 27.980655840000054, 50.767458030000057 ], [ 27.974568960000056, 50.764375980000068 ], [ 27.974454840000078, 50.759890020000057 ], [ 27.981327960000044, 50.758263 ], [ 27.982443510000053, 50.754858030000037 ] ] ] } }
+]
+}

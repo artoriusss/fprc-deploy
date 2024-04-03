@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.040704891277399999, "Shape_Area": 6.3911504172899994e-05, "ADM4_EN": "Haiky", "ADM4_UA": "Гайки", "ADM4_PCODE": "UA0702015005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ovadnivska", "ADM3_UA": "Оваднівська", "ADM3_PCODE": "UA0702015", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.307365172000061, 51.030341006000072 ], [ 24.296433174000072, 51.029606006000051 ], [ 24.298689172000024, 51.023338006000074 ], [ 24.30646117200007, 51.02337000600005 ], [ 24.308036172000072, 51.026249006000057 ], [ 24.307365172000061, 51.030341006000072 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.082228791532600001, "Shape_Area": 0.00034123116383099998, "ADM4_EN": "Kalynivka", "ADM4_UA": "Калинівка", "ADM4_PCODE": "UA0108057002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Olenivska", "ADM3_UA": "Оленівська", "ADM3_PCODE": "UA0108057", "ADM2_EN": "Yevpatoriiskyi", "ADM2_UA": "Євпаторійський", "ADM2_PCODE": "UA0108", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.690473073000078, 45.492276980000042 ], [ 32.685177072000045, 45.493399612000076 ], [ 32.685151757000028, 45.498820905000059 ], [ 32.675334597000074, 45.50023040700006 ], [ 32.676655753000034, 45.496214369000029 ], [ 32.666407121000077, 45.493569316000048 ], [ 32.671237, 45.483761 ], [ 32.67697, 45.480079 ], [ 32.682615001000045, 45.47888 ], [ 32.68941972600004, 45.479242613000054 ], [ 32.690579133000028, 45.486033861000067 ], [ 32.688895001000049, 45.48987 ], [ 32.690473073000078, 45.492276980000042 ] ] ] } }
+]
+}

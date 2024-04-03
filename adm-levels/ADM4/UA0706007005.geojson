@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.064783136625500004, "Shape_Area": 0.000113380472959, "ADM4_EN": "Brukhovychi", "ADM4_UA": "Бруховичі", "ADM4_PCODE": "UA0706007005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Holobska", "ADM3_UA": "Голобська", "ADM3_PCODE": "UA0706007", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.069460078000077, 51.119764003000057 ], [ 25.069267078000053, 51.12361700200006 ], [ 25.058734079000033, 51.11815000200005 ], [ 25.055612078000024, 51.113798003000056 ], [ 25.057045079000034, 51.112224002000062 ], [ 25.067976078000072, 51.110463003000064 ], [ 25.065557076000061, 51.11382700200005 ], [ 25.069294078000041, 51.116018003000079 ], [ 25.069460078000077, 51.119764003000057 ] ] ] } }
+]
+}

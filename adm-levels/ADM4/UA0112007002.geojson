@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.034841138988600001, "Shape_Area": 5.1051849459300003e-05, "ADM4_EN": "Volodymyrove", "ADM4_UA": "Володимирове", "ADM4_PCODE": "UA0112007002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Voskhodnenska", "ADM3_UA": "Восходненська", "ADM3_PCODE": "UA0112007", "ADM2_EN": "Krasnohvardiiskyi", "ADM2_UA": "Красногвардійський", "ADM2_PCODE": "UA0112", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.438306748000059, 45.46226590200007 ], [ 34.435007664000068, 45.462670840000044 ], [ 34.425682251000069, 45.461538469000061 ], [ 34.428435393000029, 45.458154978000039 ], [ 34.438294251000059, 45.457394839000074 ], [ 34.438306748000059, 45.46226590200007 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.078949201404799996, "Shape_Area": 0.000231176315256, "ADM4_EN": "Malynivka", "ADM4_UA": "Малинівка", "ADM4_PCODE": "UA1806013035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Malynska", "ADM3_UA": "Малинська", "ADM3_PCODE": "UA1806013", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.286429841000029, 50.787440010000068 ], [ 29.283234120000031, 50.791978980000067 ], [ 29.274567120000029, 50.793978960000061 ], [ 29.271516120000058, 50.804828010000051 ], [ 29.26434996100005, 50.803965990000052 ], [ 29.266494840000064, 50.795089020000034 ], [ 29.269388880000065, 50.794194960000027 ], [ 29.263391999000078, 50.788022040000044 ], [ 29.270040897000058, 50.785401667000031 ], [ 29.274832780000054, 50.783931592000044 ], [ 29.286429841000029, 50.787440010000068 ] ] ] } }
+]
+}

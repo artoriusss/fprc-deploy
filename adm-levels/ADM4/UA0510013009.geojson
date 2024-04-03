@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.098403911157300003, "Shape_Area": 0.00021231933224200001, "ADM4_EN": "Zholoby", "ADM4_UA": "Жолоби", "ADM4_PCODE": "UA0510013009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tomashpilska", "ADM3_UA": "Томашпільська", "ADM3_PCODE": "UA0510013", "ADM2_EN": "Tulchynskyi", "ADM2_UA": "Тульчинський", "ADM2_PCODE": "UA0510", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.621084, 48.596866 ], [ 28.610832, 48.59981 ], [ 28.60707, 48.598517 ], [ 28.605563, 48.595943 ], [ 28.601225, 48.595976 ], [ 28.593599, 48.599212 ], [ 28.592939, 48.596447 ], [ 28.595746001000066, 48.591091 ], [ 28.599170999000023, 48.587472 ], [ 28.605736, 48.58691 ], [ 28.605023, 48.589942 ], [ 28.612664, 48.591089 ], [ 28.617229500000064, 48.593151500000033 ], [ 28.617712, 48.596484 ], [ 28.621084, 48.596866 ] ] ] } }
+]
+}

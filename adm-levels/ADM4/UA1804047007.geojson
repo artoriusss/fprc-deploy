@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.066728768416899994, "Shape_Area": 0.000185435249844, "ADM4_EN": "Velyka Kozara", "ADM4_UA": "Велика Козара", "ADM4_PCODE": "UA1804047007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Romanivska", "ADM3_UA": "Романівська", "ADM3_PCODE": "UA1804047", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.882146311000042, 50.140257430000077 ], [ 27.873115920000032, 50.141844 ], [ 27.863980920000074, 50.142656970000075 ], [ 27.859857840000075, 50.136408 ], [ 27.867116160000023, 50.134397040000067 ], [ 27.870238080000036, 50.130668970000045 ], [ 27.872432999000068, 50.131857960000048 ], [ 27.877214880000054, 50.130861030000062 ], [ 27.878450040000075, 50.135198040000034 ], [ 27.883330130000047, 50.135540594000076 ], [ 27.882146311000042, 50.140257430000077 ] ] ] } }
+]
+}

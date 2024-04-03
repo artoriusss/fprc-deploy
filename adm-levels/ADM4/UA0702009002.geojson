@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.107188474356, "Shape_Area": 7.5847855143899994e-05, "ADM4_EN": "Bilychi", "ADM4_UA": "Біличі", "ADM4_PCODE": "UA0702009002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lytovezka", "ADM3_UA": "Литовезька", "ADM3_PCODE": "UA0702009", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.282009173000063, 50.65953700600005 ], [ 24.281273173000045, 50.661073006000038 ], [ 24.274012175000053, 50.658972006000056 ], [ 24.270659175000048, 50.65699300600005 ], [ 24.266783175000057, 50.657632006000028 ], [ 24.260903177000046, 50.654517006000049 ], [ 24.261458177000065, 50.652660006000076 ], [ 24.272397176000027, 50.656685006000032 ], [ 24.282009173000063, 50.65953700600005 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.086033687974199996, "Shape_Area": 0.00012673443284199999, "ADM4_EN": "Derevianky", "ADM4_UA": "Дерев'янки", "ADM4_PCODE": "UA0506015007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sharhorodska", "ADM3_UA": "Шаргородська", "ADM3_PCODE": "UA0506015", "ADM2_EN": "Zhmerynskyi", "ADM2_UA": "Жмеринський", "ADM2_PCODE": "UA0506", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.105637001000048, 48.713573 ], [ 28.112112, 48.709617 ], [ 28.115525, 48.714349 ], [ 28.119006999000078, 48.714844 ], [ 28.129689, 48.711643 ], [ 28.133272, 48.711804 ], [ 28.134788, 48.718849 ], [ 28.130269, 48.717602 ], [ 28.116444999000066, 48.716369 ], [ 28.109767, 48.713629 ], [ 28.107811, 48.714675 ], [ 28.105637001000048, 48.713573 ] ] ] } }
+]
+}

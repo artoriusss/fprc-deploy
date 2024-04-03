@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.056472177695900003, "Shape_Area": 0.00010117814973600001, "ADM4_EN": "Rodnykivske", "ADM4_UA": "Родниківське", "ADM4_PCODE": "UA0102031010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sevastopol", "ADM3_UA": "Севастополь", "ADM3_PCODE": "UA0102031", "ADM2_EN": "Bakhchysaraiskyi", "ADM2_UA": "Бахчисарайський", "ADM2_PCODE": "UA0102", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.849804088000042, 44.465839261000042 ], [ 33.845759001000033, 44.466659 ], [ 33.840975999000079, 44.46356 ], [ 33.839238, 44.457537 ], [ 33.846542, 44.460618 ], [ 33.857355, 44.461458 ], [ 33.85627499900005, 44.465773 ], [ 33.849804088000042, 44.465839261000042 ] ] ] } }
+]
+}

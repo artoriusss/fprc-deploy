@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.055816994880199998, "Shape_Area": 0.00014233731919600001, "ADM4_EN": "Korytniany", "ADM4_UA": "Коритняни", "ADM4_PCODE": "UA2110025005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kholmkivska", "ADM3_UA": "Холмківська", "ADM3_PCODE": "UA2110025", "ADM2_EN": "Uzhhorodskyi", "ADM2_UA": "Ужгородський", "ADM2_PCODE": "UA2110", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.301258988000029, 48.548020923000081 ], [ 22.30452847600003, 48.550315887000068 ], [ 22.304575161000059, 48.55515738500003 ], [ 22.301253960000054, 48.55491204100008 ], [ 22.301249961000053, 48.56204204200003 ], [ 22.291987969000047, 48.56171904200005 ], [ 22.291783969000051, 48.554440042000067 ], [ 22.298180195000043, 48.547443170000065 ], [ 22.301258988000029, 48.548020923000081 ] ] ] } }
+]
+}

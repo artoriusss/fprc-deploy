@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.073416717930799999, "Shape_Area": 0.000118899293432, "ADM4_EN": "Slobidka", "ADM4_UA": "Слобідка", "ADM4_PCODE": "UA1804027015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kurnenska", "ADM3_UA": "Курненська", "ADM3_PCODE": "UA1804027", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.185910920000026, 50.420678040000041 ], [ 28.180356840000059, 50.417555040000082 ], [ 28.187577001000079, 50.411511 ], [ 28.195571159000053, 50.41432098000007 ], [ 28.199233080000056, 50.416558020000082 ], [ 28.206752040000026, 50.417271990000074 ], [ 28.203967080000041, 50.420046960000036 ], [ 28.197754920000079, 50.418784980000055 ], [ 28.192707, 50.418880020000074 ], [ 28.185910920000026, 50.420678040000041 ] ] ] } }
+]
+}

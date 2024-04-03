@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.082811568252000006, "Shape_Area": 0.000105063877172, "ADM4_EN": "Hrushivka", "ADM4_UA": "Грушівка", "ADM4_PCODE": "UA1204017008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krynychanska", "ADM3_UA": "Криничанська", "ADM3_PCODE": "UA1204017", "ADM2_EN": "Kamianskyi", "ADM2_UA": "Кам’янський", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.594874, 48.291612 ], [ 34.587821, 48.289368 ], [ 34.586115, 48.28984 ], [ 34.580497, 48.283999 ], [ 34.575046001000032, 48.281197 ], [ 34.578319, 48.276767 ], [ 34.584759500000075, 48.27972 ], [ 34.588347, 48.283252 ], [ 34.586768, 48.287151 ], [ 34.594874, 48.291612 ] ] ] } }
+]
+}

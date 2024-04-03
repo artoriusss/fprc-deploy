@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.071931547644300001, "Shape_Area": 0.000117313567211, "ADM4_EN": "Hresivskyi", "ADM4_UA": "Гресівський", "ADM4_PCODE": "UA0116003001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hresivska", "ADM3_UA": "Гресівська", "ADM3_PCODE": "UA0116003", "ADM2_EN": "Simferopolskyi", "ADM2_UA": "Сімферопольський", "ADM2_PCODE": "UA0116", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.032333133000066, 45.009120273000065 ], [ 34.025507180000034, 45.012328593000063 ], [ 34.022669491000045, 45.010386969000081 ], [ 34.016447032000031, 45.008462509000026 ], [ 34.01962026800004, 45.003375358000028 ], [ 34.028852836000056, 45.003764138000065 ], [ 34.033361498000033, 45.002451566000047 ], [ 34.033951354000067, 45.007247860000064 ], [ 34.032333133000066, 45.009120273000065 ] ] ] } }
+]
+}

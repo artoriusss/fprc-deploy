@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.043179229270699997, "Shape_Area": 8.5395410507000007e-05, "ADM4_EN": "Novochernihivske", "ADM4_UA": "Новочернігівське", "ADM4_PCODE": "UA1214027035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Raivska", "ADM3_UA": "Раївська", "ADM3_PCODE": "UA1214027", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.706451, 48.190109 ], [ 35.694805, 48.186168 ], [ 35.698979001000055, 48.181621 ], [ 35.707471001000044, 48.183747 ], [ 35.711982001000024, 48.184117 ], [ 35.706451, 48.190109 ] ] ] } }
+]
+}

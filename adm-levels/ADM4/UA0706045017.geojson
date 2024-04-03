@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.055692363486799998, "Shape_Area": 5.8750240307600003e-05, "ADM4_EN": "Pereshpa", "ADM4_UA": "Перешпа", "ADM4_PCODE": "UA0706045017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shatska", "ADM3_UA": "Шацька", "ADM3_PCODE": "UA0706045", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.659912333000022, 51.598745011000062 ], [ 23.657169334000059, 51.599507011000071 ], [ 23.653566334000061, 51.59734601100007 ], [ 23.64490233600003, 51.598880012000052 ], [ 23.642572338000036, 51.595599011000047 ], [ 23.652629334000039, 51.594868011000074 ], [ 23.659956332000036, 51.597203011000033 ], [ 23.659912333000022, 51.598745011000062 ] ] ] } }
+]
+}

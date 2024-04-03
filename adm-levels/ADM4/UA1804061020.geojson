@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.055538369612800002, "Shape_Area": 0.00012646231502499999, "ADM4_EN": "Krasnovolytsia", "ADM4_UA": "Красноволиця", "ADM4_PCODE": "UA1804061020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chudniv", "ADM3_UA": "Чуднівська", "ADM3_PCODE": "UA1804061", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.005226920000041, 50.041743030000077 ], [ 28.002619080000045, 50.040750960000025 ], [ 28.006630920000077, 50.035286970000072 ], [ 28.006130160000055, 50.030660970000042 ], [ 28.018140120000055, 50.02536402000004 ], [ 28.019903041000077, 50.030556030000071 ], [ 28.018060921000028, 50.033631960000037 ], [ 28.014411959000029, 50.033774969000035 ], [ 28.011040919000038, 50.040124020000064 ], [ 28.007120880000059, 50.03909703000005 ], [ 28.005226920000041, 50.041743030000077 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10132916627499999, "Shape_Area": 0.00029380912909, "ADM4_EN": "Nadiia", "ADM4_UA": "Надія", "ADM4_PCODE": "UA1206019019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lozuvatska", "ADM3_UA": "Лозуватська", "ADM3_PCODE": "UA1206019", "ADM2_EN": "Kryvorizkyi", "ADM2_UA": "Криворізький", "ADM2_PCODE": "UA1206", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.350514001000079, 47.978059 ], [ 33.359287, 47.981479 ], [ 33.350147, 47.990763 ], [ 33.338454001000059, 47.985974 ], [ 33.338876, 47.980369 ], [ 33.33681, 47.977721 ], [ 33.332719, 47.978801 ], [ 33.328466, 47.9769 ], [ 33.329920999000024, 47.972737 ], [ 33.324815, 47.96884 ], [ 33.327182, 47.964683 ], [ 33.340044, 47.975271 ], [ 33.344865, 47.975282 ], [ 33.350514001000079, 47.978059 ] ] ] } }
+]
+}

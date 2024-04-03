@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062513007854400005, "Shape_Area": 0.00021031280757600001, "ADM4_EN": "Blyzhnie", "ADM4_UA": "Ближнє", "ADM4_PCODE": "UA0118037002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nasypnivska", "ADM3_UA": "Насипнівська", "ADM3_PCODE": "UA0118037", "ADM2_EN": "Feodosiiskyi", "ADM2_UA": "Феодосійський", "ADM2_PCODE": "UA0118", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.345159186000046, 45.053741731000059 ], [ 35.340191001000051, 45.059717 ], [ 35.335893001000045, 45.060099 ], [ 35.330892915000049, 45.062297353000076 ], [ 35.323896372000036, 45.059961485000031 ], [ 35.32094, 45.054531 ], [ 35.321859, 45.051267 ], [ 35.335725, 45.050484 ], [ 35.345065872000077, 45.050144833000047 ], [ 35.345159186000046, 45.053741731000059 ] ] ] } }
+]
+}

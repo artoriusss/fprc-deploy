@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.067523345745400004, "Shape_Area": 0.00017724291486300001, "ADM4_EN": "Chaplynka", "ADM4_UA": "Чаплинка", "ADM4_PCODE": "UA1212013041", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yurivska", "ADM3_UA": "Юр'ївська", "ADM3_PCODE": "UA1212013", "ADM2_EN": "Pavlohradskyi", "ADM2_UA": "Павлоградський", "ADM2_PCODE": "UA1212", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.780279999000072, 48.870871 ], [ 35.780307, 48.868235 ], [ 35.770229, 48.868495 ], [ 35.767511999000078, 48.86419 ], [ 35.776805999000032, 48.862863 ], [ 35.777753, 48.857891 ], [ 35.785555, 48.857974 ], [ 35.789414, 48.86203 ], [ 35.790159, 48.865944 ], [ 35.787191, 48.866342 ], [ 35.78814, 48.870863 ], [ 35.780279999000072, 48.870871 ] ] ] } }
+]
+}

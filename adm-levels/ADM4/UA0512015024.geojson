@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.179618906178, "Shape_Area": 0.00018603308802499999, "ADM4_EN": "Rohyntsi", "ADM4_UA": "Рогинці", "ADM4_PCODE": "UA0512015024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ulanivska", "ADM3_UA": "Уланівська", "ADM3_PCODE": "UA0512015", "ADM2_EN": "Khmilnytskyi", "ADM2_UA": "Хмільницький", "ADM2_PCODE": "UA0512", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.327695, 49.63267 ], [ 28.328402999000048, 49.634502 ], [ 28.312332, 49.632022 ], [ 28.308928, 49.628582 ], [ 28.305087, 49.628985 ], [ 28.302323, 49.626207 ], [ 28.302259, 49.622139 ], [ 28.29975550100005, 49.61916 ], [ 28.299642001000052, 49.614552 ], [ 28.304382, 49.613645 ], [ 28.304063, 49.619455 ], [ 28.306462, 49.622748 ], [ 28.311668, 49.622729 ], [ 28.314915, 49.62745 ], [ 28.318215999000074, 49.630261 ], [ 28.328008, 49.631153 ], [ 28.327695, 49.63267 ] ] ] } }
+]
+}

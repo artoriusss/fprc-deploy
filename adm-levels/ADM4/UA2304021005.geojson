@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.054160754580399997, "Shape_Area": 0.000116509021005, "ADM4_EN": "Mali Shcherbaky", "ADM4_UA": "Малі Щербаки", "ADM4_PCODE": "UA2304021005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stepnohirska", "ADM3_UA": "Степногірська", "ADM3_PCODE": "UA2304021", "ADM2_EN": "Vasylivskyi", "ADM2_UA": "Василівський", "ADM2_PCODE": "UA2304", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.546803204000071, 47.545268040000053 ], [ 35.558728923000047, 47.546350020000034 ], [ 35.557468202000052, 47.553367950000052 ], [ 35.551773003000051, 47.551978980000058 ], [ 35.543027162000044, 47.551123980000057 ], [ 35.543449084000031, 47.548473930000057 ], [ 35.538186963000044, 47.54805003000007 ], [ 35.53895880400006, 47.544370020000031 ], [ 35.546803204000071, 47.545268040000053 ] ] ] } }
+]
+}

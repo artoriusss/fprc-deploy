@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.053668912789400003, "Shape_Area": 7.3025989403700001e-05, "ADM4_EN": "Dibrova", "ADM4_UA": "Діброва", "ADM4_PCODE": "UA1806011013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Luhynska", "ADM3_UA": "Лугинська", "ADM3_PCODE": "UA1806011", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.506362189000072, 51.037202016000037 ], [ 28.505559960000028, 51.033645 ], [ 28.506956040000034, 51.030673020000052 ], [ 28.514900160000025, 51.026227020000078 ], [ 28.517205928000067, 51.027623191000032 ], [ 28.517496560000041, 51.031473763000065 ], [ 28.50968787000005, 51.034444585000074 ], [ 28.506362189000072, 51.037202016000037 ] ] ] } }
+]
+}

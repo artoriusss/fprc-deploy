@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13459174603, "Shape_Area": 0.00025226264320399999, "ADM4_EN": "Lemeshivka", "ADM4_UA": "Лемешівка", "ADM4_PCODE": "UA0512007019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kalynivska", "ADM3_UA": "Калинівська", "ADM3_PCODE": "UA0512007", "ADM2_EN": "Khmilnytskyi", "ADM2_UA": "Хмільницький", "ADM2_PCODE": "UA0512", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.450624, 49.666097 ], [ 28.446589, 49.666509 ], [ 28.445852500000058, 49.671622500000069 ], [ 28.443844001000059, 49.671601 ], [ 28.44446799900004, 49.659669 ], [ 28.449844001000031, 49.655542 ], [ 28.448732001000053, 49.653048 ], [ 28.462061999000071, 49.654139 ], [ 28.460045, 49.658534 ], [ 28.456744, 49.661717 ], [ 28.463359, 49.66251 ], [ 28.462881, 49.666353 ], [ 28.457081999000025, 49.666502 ], [ 28.455421, 49.667941 ], [ 28.450624, 49.666097 ] ] ] } }
+]
+}

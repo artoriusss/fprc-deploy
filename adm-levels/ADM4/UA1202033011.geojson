@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.093365250871999997, "Shape_Area": 0.00027647859463999998, "ADM4_EN": "Zoria", "ADM4_UA": "Зоря", "ADM4_PCODE": "UA1202033011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chumakivska", "ADM3_UA": "Чумаківська", "ADM3_PCODE": "UA1202033", "ADM2_EN": "Dniprovskyi", "ADM2_UA": "Дніпровський", "ADM2_PCODE": "UA1202", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.805913, 48.66665 ], [ 34.798332001000063, 48.665881 ], [ 34.800064999000028, 48.662268 ], [ 34.797505, 48.658805 ], [ 34.784076001000074, 48.651028 ], [ 34.78777, 48.648077 ], [ 34.802439, 48.656465 ], [ 34.808936, 48.652197 ], [ 34.8203, 48.659409 ], [ 34.811242, 48.666299 ], [ 34.805913, 48.66665 ] ] ] } }
+]
+}

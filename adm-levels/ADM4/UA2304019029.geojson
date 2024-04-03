@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070192006997600004, "Shape_Area": 0.00012246601857000001, "ADM4_EN": "Trudoliubymivka", "ADM4_UA": "Трудолюбимівка", "ADM4_PCODE": "UA2304019029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozdolska", "ADM3_UA": "Роздольська", "ADM3_PCODE": "UA2304019", "ADM2_EN": "Vasylivskyi", "ADM2_UA": "Василівський", "ADM2_PCODE": "UA2304", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.473333440000033, 47.192044100000032 ], [ 35.468862528000045, 47.191314743000078 ], [ 35.461981446000038, 47.192641561000073 ], [ 35.459918474000062, 47.189206574000082 ], [ 35.487946964000059, 47.183405844000049 ], [ 35.489469689000032, 47.187143870000057 ], [ 35.476749561000076, 47.189617158000033 ], [ 35.473333440000033, 47.192044100000032 ] ] ] } }
+]
+}

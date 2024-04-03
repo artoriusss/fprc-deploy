@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0328957772084, "Shape_Area": 2.27548806722e-05, "ADM4_EN": "Mineralni Vody", "ADM4_UA": "Мінеральні Води", "ADM4_PCODE": "UA1212005011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mezhyritska", "ADM3_UA": "Межиріцька", "ADM3_PCODE": "UA1212005", "ADM2_EN": "Pavlohradskyi", "ADM2_UA": "Павлоградський", "ADM2_PCODE": "UA1212", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.565760418000025, 48.593930335000039 ], [ 35.556182, 48.595624 ], [ 35.553467999000077, 48.592019 ], [ 35.557302999000058, 48.591415 ], [ 35.55835200100006, 48.59366 ], [ 35.565481, 48.59286 ], [ 35.565760418000025, 48.593930335000039 ] ] ] } }
+]
+}

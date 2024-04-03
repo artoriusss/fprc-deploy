@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.060657995783800003, "Shape_Area": 7.0537623295200005e-05, "ADM4_EN": "Lisova Poliana", "ADM4_UA": "Лісова Поляна", "ADM4_PCODE": "UA1808009009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dovbyska", "ADM3_UA": "Довбиська", "ADM3_PCODE": "UA1808009", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.048862160000056, 50.337297 ], [ 28.046246041000074, 50.338990980000062 ], [ 28.040562, 50.336736030000054 ], [ 28.033570079000071, 50.336281980000081 ], [ 28.026432, 50.337719010000058 ], [ 28.025403929000049, 50.334331348000035 ], [ 28.035038880000059, 50.33188602000007 ], [ 28.039192919000072, 50.336139960000025 ], [ 28.044381960000067, 50.335347960000036 ], [ 28.048862160000056, 50.337297 ] ] ] } }
+]
+}

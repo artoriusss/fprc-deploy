@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057009266409800002, "Shape_Area": 8.1373023892700001e-05, "ADM4_EN": "Bereza", "ADM4_UA": "Береза", "ADM4_PCODE": "UA0706031002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ratnivska", "ADM3_UA": "Ратнівська", "ADM3_PCODE": "UA0706031", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.497917146000077, 51.840817005000076 ], [ 24.494890148000025, 51.838632004000033 ], [ 24.487549149000074, 51.839227005000055 ], [ 24.48897714800006, 51.835296004000043 ], [ 24.492360148000046, 51.835784004000061 ], [ 24.495777147000069, 51.833749005000072 ], [ 24.500125147000062, 51.836132004000035 ], [ 24.497917146000077, 51.840817005000076 ] ] ] } }
+]
+}

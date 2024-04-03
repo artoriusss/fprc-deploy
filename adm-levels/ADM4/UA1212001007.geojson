@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.12887219045500001, "Shape_Area": 0.000381706319284, "ADM4_EN": "Nova Dacha", "ADM4_UA": "Нова Дача", "ADM4_PCODE": "UA1212001007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bohdanivska", "ADM3_UA": "Богданівська", "ADM3_PCODE": "UA1212001", "ADM2_EN": "Pavlohradskyi", "ADM2_UA": "Павлоградський", "ADM2_PCODE": "UA1212", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.226136, 48.56084 ], [ 36.217168, 48.56755 ], [ 36.213215, 48.563405 ], [ 36.212053999000034, 48.559385 ], [ 36.206977, 48.56049 ], [ 36.204649, 48.558139 ], [ 36.210488, 48.555578 ], [ 36.206908, 48.54808 ], [ 36.201161, 48.542109 ], [ 36.190915001000064, 48.533882 ], [ 36.195662, 48.531427 ], [ 36.201557999000045, 48.535218 ], [ 36.20378099900006, 48.534135 ], [ 36.210066, 48.537927 ], [ 36.214453, 48.542851 ], [ 36.211323, 48.544407 ], [ 36.226136, 48.56084 ] ] ] } }
+]
+}

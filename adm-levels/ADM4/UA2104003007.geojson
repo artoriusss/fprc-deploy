@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.072504181459700001, "Shape_Area": 0.00011341328335100001, "ADM4_EN": "Kushtanovytsia", "ADM4_UA": "Куштановиця", "ADM4_PCODE": "UA2104003007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Verkhnokoropetska", "ADM3_UA": "Верхньокоропецька", "ADM3_PCODE": "UA2104003", "ADM2_EN": "Mukachivskyi", "ADM2_UA": "Мукачівський", "ADM2_PCODE": "UA2104", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.791672627000025, 48.451328027000045 ], [ 22.786543631000029, 48.452480027000036 ], [ 22.780704635000063, 48.452411028000029 ], [ 22.779493635000051, 48.446818026000074 ], [ 22.787730631000045, 48.444139027000062 ], [ 22.791588628000056, 48.446731027000055 ], [ 22.791672627000025, 48.451328027000045 ] ] ] } }
+]
+}

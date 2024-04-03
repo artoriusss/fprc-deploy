@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.031497409547199998, "Shape_Area": 5.02204128257e-05, "ADM4_EN": "Krasnyi Kut", "ADM4_UA": "Красний Кут", "ADM4_PCODE": "UA1412003008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Druzhkivska", "ADM3_UA": "Дружківська", "ADM3_PCODE": "UA1412003", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "Краматорський", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.411032211000077, 48.561984990000042 ], [ 37.409470229000078, 48.562991319000048 ], [ 37.403694098000074, 48.559046038000076 ], [ 37.401425148000044, 48.55465287700008 ], [ 37.407684312000072, 48.55344231600003 ], [ 37.411032211000077, 48.561984990000042 ] ] ] } }
+]
+}

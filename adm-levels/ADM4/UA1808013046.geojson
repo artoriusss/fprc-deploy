@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.17634415307000001, "Shape_Area": 0.000211542189939, "ADM4_EN": "Osivka", "ADM4_UA": "Осівка", "ADM4_PCODE": "UA1808013046", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yemilchynska", "ADM3_UA": "Ємільчинська", "ADM3_PCODE": "UA1808013", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.989427959000068, 50.987588040000048 ], [ 27.989434080000024, 50.985531 ], [ 27.974859840000079, 50.98599801000006 ], [ 27.973798921000025, 50.982165 ], [ 27.970031879000032, 50.98329 ], [ 27.966473190000045, 50.981713762000027 ], [ 27.966719880000028, 50.978779020000047 ], [ 27.97580916000004, 50.973348960000067 ], [ 27.97723134000006, 50.977581330000078 ], [ 27.993583079000075, 50.985359010000082 ], [ 27.989427959000068, 50.987588040000048 ] ] ] } }
+]
+}

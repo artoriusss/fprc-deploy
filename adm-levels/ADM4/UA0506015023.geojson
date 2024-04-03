@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.061495564570200001, "Shape_Area": 0.000110022962575, "ADM4_EN": "Poliana", "ADM4_UA": "Поляна", "ADM4_PCODE": "UA0506015023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sharhorodska", "ADM3_UA": "Шаргородська", "ADM3_PCODE": "UA0506015", "ADM2_EN": "Zhmerynskyi", "ADM2_UA": "Жмеринський", "ADM2_PCODE": "UA0506", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.081870245000061, 48.767095307000034 ], [ 28.084528545000069, 48.767981443000053 ], [ 28.091640320000067, 48.775201896000056 ], [ 28.08901832500004, 48.776518735000082 ], [ 28.08514881800005, 48.774381634000065 ], [ 28.083346945000073, 48.770803795000063 ], [ 28.074845856000024, 48.772949021000045 ], [ 28.069247062000045, 48.772010273000035 ], [ 28.072190809000062, 48.764166099000079 ], [ 28.081870245000061, 48.767095307000034 ] ] ] } }
+]
+}

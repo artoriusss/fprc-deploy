@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.075775222302200004, "Shape_Area": 8.4487078430099999e-05, "ADM4_EN": "Pavlovychi", "ADM4_UA": "Павловичі", "ADM4_PCODE": "UA0702003018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zaturtsivska", "ADM3_UA": "Затурцівська", "ADM3_PCODE": "UA0702003", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.679894116000071, 50.776666003000059 ], [ 24.675689117000047, 50.778146004000064 ], [ 24.674274116000049, 50.774301004000051 ], [ 24.679319116000045, 50.772975004000045 ], [ 24.683676116000072, 50.773607003000052 ], [ 24.686452115000066, 50.771630004000031 ], [ 24.687030114000038, 50.766566003000037 ], [ 24.690853114000049, 50.765635004000046 ], [ 24.688267115000031, 50.775517003000061 ], [ 24.679894116000071, 50.776666003000059 ] ] ] } }
+]
+}

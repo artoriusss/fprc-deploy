@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.14008079759100001, "Shape_Area": 0.00021024214558600001, "ADM4_EN": "Behma", "ADM4_UA": "Бегма", "ADM4_PCODE": "UA1214033003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Slavhorodska", "ADM3_UA": "Славгородська", "ADM3_PCODE": "UA1214033", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.467619402000025, 48.099677618000044 ], [ 35.468971, 48.103409 ], [ 35.458768, 48.105572 ], [ 35.45883, 48.107984 ], [ 35.46820199900003, 48.108157 ], [ 35.467741, 48.111501 ], [ 35.454355, 48.109077 ], [ 35.4494, 48.107101 ], [ 35.435537, 48.108583 ], [ 35.430303, 48.111531 ], [ 35.422108, 48.112704 ], [ 35.421870001000059, 48.110569 ], [ 35.444584, 48.10393 ], [ 35.458963999000048, 48.101978 ], [ 35.467619402000025, 48.099677618000044 ] ] ] } }
+]
+}

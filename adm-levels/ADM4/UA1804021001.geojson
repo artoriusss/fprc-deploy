@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.246759480404, "Shape_Area": 0.000236790831129, "ADM4_EN": "Kvitneve", "ADM4_UA": "Квітневе", "ADM4_PCODE": "UA1804021001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kvitneva", "ADM3_UA": "Квітнева", "ADM3_PCODE": "UA1804021", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.530158120000067, 49.995143010000049 ], [ 29.519587079000075, 49.995306990000074 ], [ 29.518326001000048, 49.993301970000061 ], [ 29.503751040000054, 49.991660010000032 ], [ 29.509904881000068, 49.988729970000065 ], [ 29.515610160000051, 49.987917990000028 ], [ 29.52351, 49.990698990000055 ], [ 29.524029841000072, 49.98922704000006 ], [ 29.531220839000071, 49.991644980000046 ], [ 29.530158120000067, 49.995143010000049 ] ] ] } }
+]
+}

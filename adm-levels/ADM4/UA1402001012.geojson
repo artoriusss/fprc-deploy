@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11672229162599999, "Shape_Area": 0.00014031288435700001, "ADM4_EN": "Klishchiivka", "ADM4_UA": "Кліщіївка", "ADM4_PCODE": "UA1402001012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bakhmutska", "ADM3_UA": "Бахмутська", "ADM3_PCODE": "UA1402001", "ADM2_EN": "Bakhmutskyi", "ADM2_UA": "Бахмутський", "ADM2_PCODE": "UA1402", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.969442, 48.540399 ], [ 37.961488, 48.533418 ], [ 37.956728998000074, 48.531627 ], [ 37.954487999000037, 48.535091 ], [ 37.952871999000024, 48.527767 ], [ 37.957654998000066, 48.52727 ], [ 37.951772998000024, 48.519393 ], [ 37.953766998000049, 48.518684 ], [ 37.960769999000036, 48.52704 ], [ 37.966453999000066, 48.530885 ], [ 37.963736998000059, 48.53236 ], [ 37.970853998000052, 48.538795 ], [ 37.969442, 48.540399 ] ] ] } }
+]
+}

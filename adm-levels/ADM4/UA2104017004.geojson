@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10014274363099999, "Shape_Area": 0.000125233484193, "ADM4_EN": "Sasivka", "ADM4_UA": "Сасівка", "ADM4_PCODE": "UA2104017004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nelipynska", "ADM3_UA": "Неліпинська", "ADM3_PCODE": "UA2104017", "ADM2_EN": "Mukachivskyi", "ADM2_UA": "Мукачівський", "ADM2_PCODE": "UA2104", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.072309493000034, 48.56764202100004 ], [ 23.06334449600007, 48.567884020000065 ], [ 23.059353499000053, 48.571112021000033 ], [ 23.054163500000072, 48.569448020000038 ], [ 23.051684502000057, 48.567000021000069 ], [ 23.051311503000022, 48.563358021000056 ], [ 23.060768498000073, 48.564901020000036 ], [ 23.064753496000037, 48.566339021000033 ], [ 23.07025849300004, 48.566358021000042 ], [ 23.072309493000034, 48.56764202100004 ] ] ] } }
+]
+}

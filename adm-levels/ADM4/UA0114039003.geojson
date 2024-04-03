@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.029998713482, "Shape_Area": 2.8190600238899999e-05, "ADM4_EN": "Komunarne", "ADM4_UA": "Комунарне", "ADM4_PCODE": "UA0114039003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ruchivska", "ADM3_UA": "Руч'ївська", "ADM3_PCODE": "UA0114039", "ADM2_EN": "Krasnoperekopskyi", "ADM2_UA": "Красноперекопський", "ADM2_PCODE": "UA0114", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.683419, 45.733372 ], [ 33.678230764000034, 45.734556504000068 ], [ 33.677857981000045, 45.739183457000081 ], [ 33.675174051000056, 45.737156561000063 ], [ 33.675325681000061, 45.732378748000031 ], [ 33.683361778000062, 45.732291299000053 ], [ 33.683419, 45.733372 ] ] ] } }
+]
+}

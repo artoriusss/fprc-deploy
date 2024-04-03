@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.021794578443199999, "Shape_Area": 1.8617819626399999e-05, "ADM4_EN": "Dubychanske", "ADM4_UA": "Дубичанське", "ADM4_PCODE": "UA0708027011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Torchynska", "ADM3_UA": "Торчинська", "ADM3_PCODE": "UA0708027", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.978543084000023, 50.763363002000062 ], [ 24.972088085000053, 50.767441002000055 ], [ 24.969968085000062, 50.766156002000059 ], [ 24.976908085000048, 50.76252300200008 ], [ 24.978543084000023, 50.763363002000062 ] ] ] } }
+]
+}

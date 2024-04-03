@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0702756280447, "Shape_Area": 9.71339251565e-05, "ADM4_EN": "Verkhnii Koropets", "ADM4_UA": "Верхній Коропець", "ADM4_PCODE": "UA2104003001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Verkhnokoropetska", "ADM3_UA": "Верхньокоропецька", "ADM3_PCODE": "UA2104003", "ADM2_EN": "Mukachivskyi", "ADM2_UA": "Мукачівський", "ADM2_PCODE": "UA2104", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.780671633000054, 48.438120026000036 ], [ 22.77414963700005, 48.43287902700007 ], [ 22.77663063600005, 48.430142027000045 ], [ 22.780068634000031, 48.431230027000026 ], [ 22.787885630000062, 48.430821027000036 ], [ 22.797393625000041, 48.432353027000033 ], [ 22.796632626000076, 48.436387026000034 ], [ 22.787154630000032, 48.432301027000051 ], [ 22.784395631000052, 48.435923027000058 ], [ 22.780671633000054, 48.438120026000036 ] ] ] } }
+]
+}

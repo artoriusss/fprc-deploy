@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.061866988442600003, "Shape_Area": 6.7590545001100004e-05, "ADM4_EN": "Vesele", "ADM4_UA": "Веселе", "ADM4_PCODE": "UA1404007002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Komarska", "ADM3_UA": "Комарська", "ADM3_PCODE": "UA1404007", "ADM2_EN": "Volnovaskyi", "ADM2_UA": "Волноваський", "ADM2_PCODE": "UA1404", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 36.766372999000055, 47.937198 ], [ 36.763076999000077, 47.936635 ], [ 36.768645, 47.924296 ], [ 36.770948, 47.925442 ], [ 36.766372999000055, 47.937198 ] ] ], [ [ [ 36.762852999000074, 47.933057 ], [ 36.761407999000028, 47.936353 ], [ 36.756909999000072, 47.935418 ], [ 36.759125, 47.930683 ], [ 36.762852999000074, 47.933057 ] ] ] ] } }
+]
+}

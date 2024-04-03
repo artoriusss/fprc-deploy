@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.068239062722000005, "Shape_Area": 0.000188469656818, "ADM4_EN": "Kidosh", "ADM4_UA": "Кідьош", "ADM4_PCODE": "UA2102003012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berehivska", "ADM3_UA": "Берегівська", "ADM3_PCODE": "UA2102003", "ADM2_EN": "Berehivskyi", "ADM2_UA": "Берегівський", "ADM2_PCODE": "UA2102", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.685857681000073, 48.224050029000068 ], [ 22.684566682000025, 48.220973029000049 ], [ 22.689359677000027, 48.212869029000046 ], [ 22.692902676000074, 48.213270029000057 ], [ 22.708175668000024, 48.217351029000042 ], [ 22.704614670000069, 48.22222302800003 ], [ 22.701421670000059, 48.223604029000057 ], [ 22.693080677000069, 48.224322029000064 ], [ 22.685857681000073, 48.224050029000068 ] ] ] } }
+]
+}

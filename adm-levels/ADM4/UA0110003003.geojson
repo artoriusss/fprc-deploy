@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.036955237357499997, "Shape_Area": 3.8377557065400002e-05, "ADM4_EN": "Yachminne", "ADM4_UA": "Ячмінне", "ADM4_PCODE": "UA0110003003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Batalnenska", "ADM3_UA": "Батальненська", "ADM3_PCODE": "UA0110003", "ADM2_EN": "Kerchynskyi", "ADM2_UA": "Керченський", "ADM2_PCODE": "UA0110", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.536385999000061, 45.201636 ], [ 35.532171001000052, 45.2009 ], [ 35.534191, 45.193251 ], [ 35.538529, 45.194511 ], [ 35.536385999000061, 45.201636 ] ] ] } }
+]
+}

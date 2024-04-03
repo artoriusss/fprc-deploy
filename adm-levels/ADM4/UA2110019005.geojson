@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.064308455581900001, "Shape_Area": 8.1132665813100002e-05, "ADM4_EN": "Mali Heivtsi", "ADM4_UA": "Малі Геївці", "ADM4_PCODE": "UA2110019005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Siurtivska", "ADM3_UA": "Сюртівська", "ADM3_PCODE": "UA2110019", "ADM2_EN": "Uzhhorodskyi", "ADM2_UA": "Ужгородський", "ADM2_PCODE": "UA2110", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.309957952000047, 48.501099041000032 ], [ 22.309661951000066, 48.505592041000057 ], [ 22.298783960000037, 48.497566042000074 ], [ 22.297761961000049, 48.495004042000062 ], [ 22.289643967000075, 48.490144042000054 ], [ 22.294708962000072, 48.487118042000077 ], [ 22.296772961000045, 48.491898042000059 ], [ 22.303467956000077, 48.496488042000067 ], [ 22.307983952000029, 48.501004041000044 ], [ 22.309957952000047, 48.501099041000032 ] ] ] } }
+]
+}

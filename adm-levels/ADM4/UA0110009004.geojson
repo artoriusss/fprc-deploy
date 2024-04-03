@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.016576724295200001, "Shape_Area": 1.4929490243400001e-05, "ADM4_EN": "Yehorove", "ADM4_UA": "Єгорове", "ADM4_PCODE": "UA0110009004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Voikovska", "ADM3_UA": "Войковська", "ADM3_PCODE": "UA0110009", "ADM2_EN": "Kerchynskyi", "ADM2_UA": "Керченський", "ADM2_PCODE": "UA0110", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.483754059000034, 45.388126892000059 ], [ 36.480072686000028, 45.387744905000034 ], [ 36.480873494000036, 45.384975827000062 ], [ 36.484470377000036, 45.384805078000056 ], [ 36.48552485700003, 45.388160286000073 ], [ 36.483754059000034, 45.388126892000059 ] ] ] } }
+]
+}

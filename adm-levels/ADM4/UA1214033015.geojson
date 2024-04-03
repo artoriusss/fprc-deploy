@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.058619346831700003, "Shape_Area": 8.5807804927899995e-05, "ADM4_EN": "Novooleksandropil", "ADM4_UA": "Новоолександропіль", "ADM4_PCODE": "UA1214033015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Slavhorodska", "ADM3_UA": "Славгородська", "ADM3_PCODE": "UA1214033", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.473732, 48.168924 ], [ 35.470877, 48.167613001000063 ], [ 35.457529, 48.164124 ], [ 35.455508, 48.162334 ], [ 35.456699001000061, 48.158193 ], [ 35.460969, 48.161522 ], [ 35.464351, 48.161426 ], [ 35.471986, 48.164062 ], [ 35.475875792000068, 48.166321801000038 ], [ 35.473732, 48.168924 ] ] ] } }
+]
+}

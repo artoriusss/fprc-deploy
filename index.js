@@ -1,5 +1,22 @@
 let breadcrumbNames = ['Ukraine']; 
 
+function updateChartByCategory(chart, category) {
+    const series = chart.series[0]; // Assuming the first series is the one with the drilldown
+    series.points.forEach(point => {
+        // Skip points without properties (like separators in breadcrumbs)
+        if (!point.properties) {
+            return;
+        }
+
+        const newVal = category === 'Total'
+            ? (point.properties['Total'] === 0 ? 0.0001 : point.properties['Total'])
+            : (point[category] === undefined ? 0.0001 : point[category]);
+
+        point.update({ value: newVal }, false); // False to prevent redrawing for each point
+    });
+    chart.redraw(); // Redraw once after all points are updated
+}
+
 const drilldown = async function (e) {
     if (!e.seriesOptions) {
         const chart = this;
@@ -11,11 +28,11 @@ const drilldown = async function (e) {
             chart.update({
                 mapView: {
                     projection: {
-                        name: 'WebMercator' // or the appropriate projection name
+                        name: 'WebMercator' 
                     }
                 }
             }, false);
-            // Add the web map as a tiledwebmap series
+
             const points = await fetch('points.json').then(response => response.json());
             const convertToFloat = str => parseFloat(str.replace(',', '.'));
 
@@ -25,11 +42,10 @@ const drilldown = async function (e) {
                 lon: convertToFloat(obj.lon)
             }));
 
-            const maxAmount = Math.max(...points.map(p => p.amount)); // Find the max amount value
-            const minRadius = 5; // Minimum radius size in pixels
-            const maxRadius = 40; // Maximum radius size in pixels
+            const maxAmount = Math.max(...points.map(p => p.amount)); 
+            const minRadius = 5; 
+            const maxRadius = 40; 
 
-            // Scale factor based on the square root scale
             const scale_factor = (maxRadius - minRadius) / Math.sqrt(maxAmount);
 
             const calculateRadius = (amount) => {
@@ -46,13 +62,10 @@ const drilldown = async function (e) {
                 }
             }));
 
-            
-            // Remove any existing series that should not be present in this drilldown level
             while (chart.series.length > 0) {
                 chart.series[0].remove(false);
             }
 
-            // Add the tiledwebmap series
             chart.addSeries({
                 type: 'tiledwebmap',
                 name: 'TWM Tiles',
@@ -61,9 +74,8 @@ const drilldown = async function (e) {
                     theme: 'Standard'
                 },
                 color: 'rgba(128,128,128,0.3)'
-            }, false); // The `false` here is the redraw parameter, which we set to false to wait with redrawing until we've added all series.
+            }, false); 
 
-            // Then add the mappoint series
             chart.addSeries({
                 type: 'mappoint',
                 name: 'Mappoints',
@@ -79,29 +91,29 @@ const drilldown = async function (e) {
                 data: pointsWithRadii
             }, false);
 
-            chart.redraw(); // Now we manually trigger a redraw of the chart.
+            chart.redraw(); 
             chart.hideLoading();
             return;
         }
 
         let mapKey = 'adm-levels/';
         if (isFourthLevel) {
-            mapKey += `ua-adm5/${e.point.drilldown}.geojson`;
+            mapKey += `ADM5/${e.point.drilldown}.geojson`;
         } else if (isThirdLevel) {
-            mapKey += `ua-adm4/${e.point.drilldown}.geojson`;
+            mapKey += `ADM4/${e.point.drilldown}.geojson`;
         } else if (isSecondLevel) {
-            mapKey += `ua-adm3/${e.point.drilldown}.geojson`;
+            mapKey += `ADM3/${e.point.drilldown}.geojson`;
         } else {
-            mapKey += `ua-adm1/${e.point.drilldown}.geojson`;
+            mapKey += `ADM2/${e.point.drilldown}.geojson`;
         }
 
-        chart.showLoading('<i class="icon-spinner icon-spin icon-3x"></i>'); // Show loading icon
+        chart.showLoading('<i class="icon-spinner icon-spin icon-3x"></i>'); 
         const topology = await fetch(mapKey).then(response => response.json());
         let data = Highcharts.geojson(topology);
 
-        chart.hideLoading(); // Hide loading icon
+        chart.hideLoading(); 
 
-        const seriesName = e.point.properties[`ADM${isFourthLevel ? '4' : isThirdLevel ? '3' : isSecondLevel ? '2' : '1'}_EN`];
+        const seriesName = e.point.properties[`ADM${isFourthLevel ? '4' : isThirdLevel ? '3' : isSecondLevel ? '2' : '1'}_UA`];
         if (isFourthLevel) {
             breadcrumbNames = [seriesName];
         } else if (isThirdLevel) {
@@ -112,11 +124,16 @@ const drilldown = async function (e) {
             breadcrumbNames = [seriesName];
         }
 
-        // Modify properties for areas
         data.forEach((d, i) => {
-            d.value = i; // or any other value logic for your points
+            d.value = i; 
             d.drilldown = d.properties[isThirdLevel ? 'ADM4_PCODE' : isSecondLevel ? 'ADM3_PCODE' : 'ADM2_PCODE'];
-            d.value = d.properties['amount'] === 0 ? 0.0001 : d.properties['amount'];
+            d.value = d.properties['Total'];
+            d.a = d.properties['Транспорт'],
+            d.b = d.properties['Освіта'],
+            d.c = d.properties['Медицина'],
+            d.d = d.properties['Житло'],
+            d.e = d.properties['Адміністративні'],
+            d.f = d.properties['Інше']
         });
 
         chart.addSeriesAsDrilldown(e.point, {
@@ -124,70 +141,78 @@ const drilldown = async function (e) {
             data: data,
             dataLabels: {
                 enabled: true,
-                format: `{point.properties.${isThirdLevel ? 'ADM4_EN' : isSecondLevel ? 'ADM3_EN' : 'ADM2_EN'}}`
+                format: `{point.properties.${isThirdLevel ? 'ADM4_UA' : isSecondLevel ? 'ADM3_UA' : 'ADM2_UA'}}`
             }
         });
 
     }
 };
 
-
-// On drill up, reset to the top-level map view
 const afterDrillUp = function (e) {
     const chart = e.target;
-
-    // Delay the removal of series to ensure that the chart is not animating or updating
     setTimeout(function() {
-        // Carefully remove tiled web map and mappoint series if they exist
         const seriesTypesToRemove = ['tiledwebmap', 'mappoint'];
         seriesTypesToRemove.forEach(seriesType => {
             const series = chart.series.find(s => s.type === seriesType);
             if (series) {
-                series.remove(false); // Pass false to avoid redrawing after each removal
+                series.remove(false); 
             }
         });
-
-        // Manually trigger a redraw of the chart after all series have been removed
         chart.redraw();
-    }, 0); // The timeout can be very brief, as its purpose is to defer the execution until after the current call stack has cleared
+    }, 0); 
 
-    // If the series options have a custom mapView, update it accordingly
     if (e.seriesOptions.custom && e.seriesOptions.custom.mapView) {
         chart.mapView.update(
             Highcharts.merge(
                 { insets: undefined },
                 e.seriesOptions.custom.mapView
             ),
-            false // Avoid automatic redraw
+            false 
         );
     }
-
-    // Update the breadcrumb trail if you are maintaining one
-    // if (breadcrumbNames.length > 1) {
-    //     breadcrumbNames.pop();
-    // }
 };
 
 (async () => {
-    // Fetch the top-level .geojson data for Ukraine
-    const response = await fetch('adm-levels/adm1-initial.geojson');
+    const response = await fetch('adm-levels/adm1_merged.geojson');
     const topology = await response.json();
-
     const data = Highcharts.geojson(topology);
 
-    // Set drilldown keys and bogus data for demonstration
     data.forEach((d, i) => {
         d.drilldown = d.properties.ADM1_PCODE;
-        d.value = d.properties['amount'] == 0 ? 0.0001 : d.properties['amount'];
+        d.value = d.properties['Total'];
+        d.a = d.properties['Транспорт'],
+        d.b = d.properties['Освіта'],
+        d.c = d.properties['Медицина'],
+        d.d = d.properties['Житло'],
+        d.e = d.properties['Адміністративні'],
+        d.f = d.properties['Інше']
     });
 
+    console.log(data);
 
-    // Instantiate the Highcharts map
     Highcharts.mapChart('container', {
         chart: {
             events: {
                 drilldown,
-                afterDrillUp
+                afterDrillUp,
+                load() {
+                    const chart = this; // Reference to the chart instance
+                    
+                    // Select the dropdown element
+                    const selectElement = document.getElementById('obj-category');
+    
+                    // Update chart when the dropdown changes
+                    selectElement.addEventListener('change', function () {
+                        const selectedCategory = this.value;
+                        updateChartByCategory(chart, selectedCategory);
+                    });
+    
+                    // Update the chart based on the current selection on initial load
+                    const selectedCategory = selectElement.value;
+                    if (selectedCategory !== 'Total') { // Assuming 'Total' is the default selection
+                        updateChartByCategory(chart, selectedCategory);
+                    }
+                }
             }
         },
 
@@ -238,7 +263,7 @@ const afterDrillUp = function (e) {
             name: 'Ukraine',
             dataLabels: {
                 enabled: true,
-                format: '{point.properties.ADM1_EN}'
+                format: '{point.properties.ADM1_UA}'
             },
             custom: {
                 mapView: {
@@ -258,7 +283,6 @@ const afterDrillUp = function (e) {
             },
             breadcrumbs: {
                 floating: true,
-                //format: `Level: {this.series}`, // Use the name of the point for breadcrumbs
                 formatter: function () {
                     return breadcrumbNames.join(' / ');
                 },

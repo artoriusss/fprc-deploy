@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.123284694811, "Shape_Area": 0.000105073024912, "ADM4_EN": "Voskodavyntsi", "ADM4_UA": "Воскодавинці", "ADM4_PCODE": "UA0512013005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Samhorodotska", "ADM3_UA": "Самгородоцька", "ADM3_PCODE": "UA0512013", "ADM2_EN": "Khmilnytskyi", "ADM2_UA": "Хмільницький", "ADM2_PCODE": "UA0512", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.972585, 49.539602 ], [ 28.963664, 49.533172 ], [ 28.968405, 49.529932 ], [ 28.97378, 49.533332 ], [ 28.976900001000047, 49.531104 ], [ 28.979711999000074, 49.537922 ], [ 28.972322, 49.537906 ], [ 28.972585, 49.539602 ] ] ] } }
+]
+}

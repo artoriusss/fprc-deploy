@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.091980886813500001, "Shape_Area": 0.000182307738301, "ADM4_EN": "Zachativka", "ADM4_UA": "Зачатівка", "ADM4_PCODE": "UA1404015008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khlibodarivska", "ADM3_UA": "Хлібодарівська", "ADM3_PCODE": "UA1404015", "ADM2_EN": "Volnovaskyi", "ADM2_UA": "Волноваський", "ADM2_PCODE": "UA1404", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.13591, 47.505553 ], [ 37.134137, 47.503432 ], [ 37.140693999000064, 47.501892 ], [ 37.144239001000074, 47.499636 ], [ 37.142669999000077, 47.496466 ], [ 37.149785, 47.493896 ], [ 37.155874001000029, 47.490516 ], [ 37.157859, 47.493399 ], [ 37.166287001000057, 47.493311 ], [ 37.163615, 47.498018 ], [ 37.155429, 47.499877 ], [ 37.143777, 47.503665 ], [ 37.13591, 47.505553 ] ] ] } }
+]
+}

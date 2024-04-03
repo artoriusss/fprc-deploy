@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.14510168503400001, "Shape_Area": 0.000184872160901, "ADM4_EN": "Voievodchyntsi", "ADM4_UA": "Воєводчинці", "ADM4_PCODE": "UA0508005004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mohyliv-Podilska", "ADM3_UA": "Могилів-Подільська", "ADM3_PCODE": "UA0508005", "ADM2_EN": "Mohyliv-Podilskyi", "ADM2_UA": "Могилів-Подільський", "ADM2_PCODE": "UA0508", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.892155999000067, 48.50337 ], [ 27.886384001000067, 48.498148 ], [ 27.882698001000051, 48.502066 ], [ 27.875451, 48.505712 ], [ 27.868947, 48.50101 ], [ 27.867357001000073, 48.496788 ], [ 27.861081, 48.502391 ], [ 27.864009, 48.493 ], [ 27.868254, 48.492629 ], [ 27.870706, 48.497721 ], [ 27.882055, 48.498508 ], [ 27.883424001000037, 48.495563 ], [ 27.892675, 48.494752 ], [ 27.890561999000056, 48.499136 ], [ 27.896368, 48.501388 ], [ 27.892155999000067, 48.50337 ] ] ] } }
+]
+}

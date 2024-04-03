@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.063374483571800005, "Shape_Area": 8.9302032464000001e-05, "ADM4_EN": "Holubyn", "ADM4_UA": "Голубин", "ADM4_PCODE": "UA1804047013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Romanivska", "ADM3_UA": "Романівська", "ADM3_PCODE": "UA1804047", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.887089765000042, 50.232845704000056 ], [ 27.889174014000048, 50.229259685000045 ], [ 27.89472801900007, 50.227415808000046 ], [ 27.899376334000067, 50.227100413000073 ], [ 27.905772700000057, 50.223724054000058 ], [ 27.905927118000079, 50.228117205000046 ], [ 27.899098694000031, 50.230945914000074 ], [ 27.897367702000054, 50.232763122000051 ], [ 27.887089765000042, 50.232845704000056 ] ] ] } }
+]
+}

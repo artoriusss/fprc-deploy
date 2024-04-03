@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070375489515299997, "Shape_Area": 0.000117005893492, "ADM4_EN": "Bratske", "ADM4_UA": "Братське", "ADM4_PCODE": "UA1214025004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pokrovska", "ADM3_UA": "Покровська", "ADM3_PCODE": "UA1214025", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.155859, 47.904699 ], [ 36.153058999000052, 47.904031 ], [ 36.158376, 47.896039 ], [ 36.157686, 47.893627 ], [ 36.16255, 47.891798 ], [ 36.169423, 47.893427 ], [ 36.171362999000053, 47.894864 ], [ 36.167279, 47.900982 ], [ 36.160481999000069, 47.899265 ], [ 36.156422, 47.901556 ], [ 36.155859, 47.904699 ] ] ] } }
+]
+}

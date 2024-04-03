@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.030162704279299998, "Shape_Area": 5.5699447847299999e-05, "ADM4_EN": "Slovianka", "ADM4_UA": "Слов'янка", "ADM4_PCODE": "UA2304017009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykhailivska", "ADM3_UA": "Михайлівська", "ADM3_PCODE": "UA2304017", "ADM2_EN": "Vasylivskyi", "ADM2_UA": "Василівський", "ADM2_PCODE": "UA2304", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.374509559000046, 47.247403251000037 ], [ 35.376195878000033, 47.252594806000047 ], [ 35.370371274000036, 47.253667516000064 ], [ 35.366947291000031, 47.245551056000068 ], [ 35.373026687000049, 47.24425427500006 ], [ 35.374509559000046, 47.247403251000037 ] ] ] } }
+]
+}

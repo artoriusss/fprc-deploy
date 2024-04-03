@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.055518643117999998, "Shape_Area": 0.00013401683638100001, "ADM4_EN": "Razine", "ADM4_UA": "Разіне", "ADM4_PCODE": "UA1804047033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Romanivska", "ADM3_UA": "Романівська", "ADM3_PCODE": "UA1804047", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.963650880000046, 50.053428990000043 ], [ 27.964173961000029, 50.056818030000045 ], [ 27.958242959000074, 50.058206010000049 ], [ 27.947512080000024, 50.057661960000075 ], [ 27.944280233000029, 50.056502669000054 ], [ 27.944156, 50.053534 ], [ 27.950597, 50.05337 ], [ 27.950499, 50.049072 ], [ 27.956744, 50.048546 ], [ 27.963650880000046, 50.053428990000043 ] ] ] } }
+]
+}

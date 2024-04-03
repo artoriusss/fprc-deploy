@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.049182824469300002, "Shape_Area": 4.4876841997699999e-05, "ADM4_EN": "Izhevka", "ADM4_UA": "Іжевка", "ADM4_PCODE": "UA1412007007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kostiantynivska", "ADM3_UA": "Костянтинівська", "ADM3_PCODE": "UA1412007", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "Краматорський", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.66339399900005, 48.589814 ], [ 37.661586, 48.588546 ], [ 37.667881998000041, 48.582678 ], [ 37.670344999000065, 48.582892 ], [ 37.674541999000041, 48.579862 ], [ 37.676393999000027, 48.581207 ], [ 37.668458999000052, 48.588441 ], [ 37.66339399900005, 48.589814 ] ] ] } }
+]
+}

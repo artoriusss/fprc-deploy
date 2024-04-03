@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.046436489424999998, "Shape_Area": 7.5758829781099994e-05, "ADM4_EN": "Kyiazh", "ADM4_UA": "Кияж", "ADM4_PCODE": "UA0708009007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dorosynivska", "ADM3_UA": "Доросинівська", "ADM3_PCODE": "UA0708009", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.973062085000038, 50.933467003000032 ], [ 24.966154086000074, 50.927222003000054 ], [ 24.966929085000061, 50.925221003000047 ], [ 24.974420085000077, 50.92331800200003 ], [ 24.978935084000057, 50.930722003000028 ], [ 24.973062085000038, 50.933467003000032 ] ] ] } }
+]
+}

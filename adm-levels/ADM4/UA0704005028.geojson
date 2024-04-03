@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062239834721699999, "Shape_Area": 0.00018373400871, "ADM4_EN": "Rudka", "ADM4_UA": "Рудка", "ADM4_PCODE": "UA0704005028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Manevytska", "ADM3_UA": "Маневицька", "ADM3_PCODE": "UA0704005", "ADM2_EN": "Kamin-Kashyrskyi", "ADM2_UA": "Камінь-Каширський", "ADM2_PCODE": "UA0704", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.718114037000078, 51.20884200100005 ], [ 25.723360037000077, 51.213103001000036 ], [ 25.720451037000032, 51.214951001000031 ], [ 25.713683038000056, 51.215966001000027 ], [ 25.709368036000058, 51.220266001000027 ], [ 25.699579038000024, 51.21729300100003 ], [ 25.701305038000044, 51.214405001000046 ], [ 25.70189603700004, 51.208526001000052 ], [ 25.711624039000071, 51.20867000100003 ], [ 25.713735038000038, 51.206725001000052 ], [ 25.718114037000078, 51.20884200100005 ] ] ] } }
+]
+}

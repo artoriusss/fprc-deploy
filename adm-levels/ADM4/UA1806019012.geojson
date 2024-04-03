@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.080982843613799996, "Shape_Area": 9.215444126e-05, "ADM4_EN": "Dzherelo", "ADM4_UA": "Джерело", "ADM4_PCODE": "UA1806019012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Olevska", "ADM3_UA": "Олевська", "ADM3_PCODE": "UA1806019", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.440357921000043, 51.068655494000041 ], [ 27.437672160000034, 51.065583030000028 ], [ 27.444271359000027, 51.062973840000041 ], [ 27.440381881000064, 51.060558960000037 ], [ 27.436671115000024, 51.055087413000081 ], [ 27.439385404000063, 51.053296243000034 ], [ 27.449459202000071, 51.062984089000054 ], [ 27.449313020000034, 51.065864676000047 ], [ 27.443894600000078, 51.065479379000067 ], [ 27.440357921000043, 51.068655494000041 ] ] ] } }
+]
+}

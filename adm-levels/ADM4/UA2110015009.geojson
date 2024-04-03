@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.072122451355400005, "Shape_Area": 0.00014873470002299999, "ADM4_EN": "Kybliary", "ADM4_UA": "Кибляри", "ADM4_PCODE": "UA2110015009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Serednianska", "ADM3_UA": "Середнянська", "ADM3_PCODE": "UA2110015", "ADM2_EN": "Uzhhorodskyi", "ADM2_UA": "Ужгородський", "ADM2_PCODE": "UA2110", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.554341778000037, 48.61233203300003 ], [ 22.549824781000041, 48.606548033000081 ], [ 22.548585782000032, 48.608472033000055 ], [ 22.544101784000077, 48.609369034000053 ], [ 22.543475785000055, 48.606010034000064 ], [ 22.547211782000034, 48.605626033000078 ], [ 22.547062782000069, 48.599825033000059 ], [ 22.550716779000027, 48.594997033000027 ], [ 22.555990777000034, 48.596933033000028 ], [ 22.557014776000074, 48.609411033000072 ], [ 22.554341778000037, 48.61233203300003 ] ] ] } }
+]
+}

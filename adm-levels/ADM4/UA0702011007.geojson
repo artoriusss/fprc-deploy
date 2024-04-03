@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.080967214288600001, "Shape_Area": 0.000100190358326, "ADM4_EN": "Zamlychi", "ADM4_UA": "Замличі", "ADM4_PCODE": "UA0702011007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lokachynska", "ADM3_UA": "Локачинська", "ADM3_PCODE": "UA0702011", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.538350134000041, 50.727406004000045 ], [ 24.531967135000059, 50.726544004000061 ], [ 24.53641813400003, 50.719899004000069 ], [ 24.534585133000064, 50.711151005000033 ], [ 24.538207134000061, 50.711980004000054 ], [ 24.540120134000063, 50.723926005000067 ], [ 24.538350134000041, 50.727406004000045 ] ] ] } }
+]
+}

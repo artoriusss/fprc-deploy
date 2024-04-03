@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.055650081458600002, "Shape_Area": 5.0222059489800003e-05, "ADM4_EN": "Velyka Vedmezhka", "ADM4_UA": "Велика Ведмежка", "ADM4_PCODE": "UA0704005004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Manevytska", "ADM3_UA": "Маневицька", "ADM3_PCODE": "UA0704005", "ADM2_EN": "Kamin-Kashyrskyi", "ADM2_UA": "Камінь-Каширський", "ADM2_PCODE": "UA0704", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.798734034000063, 51.308045001000039 ], [ 25.795293034000053, 51.30550700100008 ], [ 25.791291034000039, 51.304427001000079 ], [ 25.78827403400004, 51.300319001000048 ], [ 25.789157033000038, 51.298526001000027 ], [ 25.793326034000074, 51.303268001000049 ], [ 25.79878003400006, 51.304876001000082 ], [ 25.798734034000063, 51.308045001000039 ] ] ] } }
+]
+}

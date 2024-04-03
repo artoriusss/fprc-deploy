@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.111872873695, "Shape_Area": 0.00042697821545199999, "ADM4_EN": "Samarske", "ADM4_UA": "Самарське", "ADM4_PCODE": "UA1214023008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Petropavlivska", "ADM3_UA": "Петропавлівська", "ADM3_PCODE": "UA1214023", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.456265016000032, 48.486937018000049 ], [ 36.446110341000065, 48.483094444000074 ], [ 36.45309226300003, 48.475463417000071 ], [ 36.459404, 48.477772 ], [ 36.469436581000025, 48.471504805000052 ], [ 36.476185089000069, 48.470081941000046 ], [ 36.48457, 48.470513 ], [ 36.4836, 48.482124 ], [ 36.480012001000034, 48.482007 ], [ 36.479208, 48.48485 ], [ 36.472966, 48.485944 ], [ 36.465002, 48.4849 ], [ 36.462443999000072, 48.48646 ], [ 36.456265016000032, 48.486937018000049 ] ] ] } }
+]
+}

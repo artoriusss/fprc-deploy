@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0813332737349, "Shape_Area": 0.00016300629702, "ADM4_EN": "Lisova Slobidka", "ADM4_UA": "Лісова Слобідка", "ADM4_PCODE": "UA1802011013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Raihorodotska", "ADM3_UA": "Райгородоцька", "ADM3_PCODE": "UA1802011", "ADM2_EN": "Berdychivskyi", "ADM2_UA": "Бердичівський", "ADM2_PCODE": "UA1802", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.323219960000074, 49.897626030000026 ], [ 28.321877880000045, 49.895335980000027 ], [ 28.317660121000074, 49.894548030000067 ], [ 28.310114159000079, 49.889910960000066 ], [ 28.313667, 49.88889 ], [ 28.324476, 49.8897 ], [ 28.324671119000072, 49.886205030000042 ], [ 28.32963084000005, 49.889644021000038 ], [ 28.335813841000061, 49.888546020000035 ], [ 28.334531161000029, 49.896440010000049 ], [ 28.324974960000077, 49.896665010000049 ], [ 28.323219960000074, 49.897626030000026 ] ] ] } }
+]
+}

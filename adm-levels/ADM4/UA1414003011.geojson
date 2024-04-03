@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.100344406565, "Shape_Area": 0.00019748935943300001, "ADM4_EN": "Melekine", "ADM4_UA": "Мелекіне", "ADM4_PCODE": "UA1414003011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Manhushska", "ADM3_UA": "Мангушська", "ADM3_PCODE": "UA1414003", "ADM2_EN": "Mariupolskyi", "ADM2_UA": "Маріупольський", "ADM2_PCODE": "UA1414", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.403085314000066, 46.958346277000032 ], [ 37.407866999000078, 46.961748 ], [ 37.408874998000044, 46.964358 ], [ 37.407127, 46.967931 ], [ 37.404792, 46.96801 ], [ 37.400469998000062, 46.963656 ], [ 37.387732, 46.960723 ], [ 37.387985001000061, 46.956473 ], [ 37.391692, 46.952018 ], [ 37.385817999000039, 46.946508 ], [ 37.387201223000034, 46.943967354000051 ], [ 37.395339350000029, 46.952071741000054 ], [ 37.403085314000066, 46.958346277000032 ] ] ] } }
+]
+}

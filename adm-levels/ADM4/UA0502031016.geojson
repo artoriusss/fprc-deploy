@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.122575851042, "Shape_Area": 0.00013053022617899999, "ADM4_EN": "Shyroka Hreblia", "ADM4_UA": "Широка Гребля", "ADM4_PCODE": "UA0502031016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yakushynetska", "ADM3_UA": "Якушинецька", "ADM3_PCODE": "UA0502031", "ADM2_EN": "Vinnytskyi", "ADM2_UA": "Вінницький", "ADM2_PCODE": "UA0502", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 28.251271999000039, 49.163592 ], [ 28.229068, 49.173295 ], [ 28.228972681000073, 49.171126838000077 ], [ 28.236972, 49.166241 ], [ 28.244677001000071, 49.163569 ], [ 28.248782, 49.158902 ], [ 28.253104, 49.157266 ], [ 28.251271999000039, 49.163592 ] ] ], [ [ [ 28.252928999000062, 49.172528 ], [ 28.249253, 49.169355 ], [ 28.253941, 49.166666 ], [ 28.255886, 49.169396 ], [ 28.252928999000062, 49.172528 ] ] ] ] } }
+]
+}

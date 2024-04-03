@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0944165363846, "Shape_Area": 0.000107524924718, "ADM4_EN": "Yehorivka", "ADM4_UA": "Єгорівка", "ADM4_PCODE": "UA1214025018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pokrovska", "ADM3_UA": "Покровська", "ADM3_PCODE": "UA1214025", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.300779, 47.866662 ], [ 36.292587001000072, 47.868377 ], [ 36.29193500100007, 47.866622 ], [ 36.282599, 47.86806 ], [ 36.283014001000026, 47.869457 ], [ 36.272821, 47.871374 ], [ 36.272735999000076, 47.86795 ], [ 36.299003, 47.864593 ], [ 36.300267, 47.861268 ], [ 36.303568, 47.859734 ], [ 36.30586899900004, 47.855613 ], [ 36.30853, 47.858974 ], [ 36.30309999900004, 47.863496 ], [ 36.303368, 47.865291 ], [ 36.300779, 47.866662 ] ] ] } }
+]
+}

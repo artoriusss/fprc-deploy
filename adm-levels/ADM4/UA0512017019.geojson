@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.15364980389300001, "Shape_Area": 0.00025947667287899999, "ADM4_EN": "Kurylivka", "ADM4_UA": "Курилівка", "ADM4_PCODE": "UA0512017019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khmilnytska", "ADM3_UA": "Хмільницька", "ADM3_PCODE": "UA0512017", "ADM2_EN": "Khmilnytskyi", "ADM2_UA": "Хмільницький", "ADM2_PCODE": "UA0512", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.078377, 49.507277 ], [ 28.072786, 49.506387 ], [ 28.069686, 49.500587 ], [ 28.072087, 49.498281 ], [ 28.069018, 49.495605 ], [ 28.076493, 49.490787 ], [ 28.076628, 49.494158 ], [ 28.083339, 49.494756 ], [ 28.089809999000067, 49.493139 ], [ 28.094793999000046, 49.4974 ], [ 28.09921, 49.498232 ], [ 28.09166699900004, 49.503989 ], [ 28.088838, 49.502089 ], [ 28.078377, 49.507277 ] ] ] } }
+]
+}

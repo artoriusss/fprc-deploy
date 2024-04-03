@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.065240751986699999, "Shape_Area": 0.00015462008390100001, "ADM4_EN": "Perliavka", "ADM4_UA": "Перлявка", "ADM4_PCODE": "UA1804053009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Teterivska", "ADM3_UA": "Тетерівська", "ADM3_PCODE": "UA1804053", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.519975080000052, 50.217153030000077 ], [ 28.518155999000044, 50.218192980000026 ], [ 28.507212, 50.21992503000007 ], [ 28.494747, 50.222966040000074 ], [ 28.494232920000059, 50.218113960000039 ], [ 28.498847041000033, 50.213222010000038 ], [ 28.503738, 50.213817 ], [ 28.506021120000071, 50.212701 ], [ 28.514292839000063, 50.214753 ], [ 28.518012, 50.214554010000029 ], [ 28.519975080000052, 50.217153030000077 ] ] ] } }
+]
+}

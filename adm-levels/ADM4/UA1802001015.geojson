@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.14848000445500001, "Shape_Area": 0.00011673045190099999, "ADM4_EN": "Lisivka", "ADM4_UA": "Лісівка", "ADM4_PCODE": "UA1802001015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Andrushivska", "ADM3_UA": "Андрушівська", "ADM3_PCODE": "UA1802001", "ADM2_EN": "Berdychivskyi", "ADM2_UA": "Бердичівський", "ADM2_PCODE": "UA1802", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.041579080000076, 50.030937 ], [ 29.044188, 50.027220990000046 ], [ 29.048480999000049, 50.026003020000076 ], [ 29.06568, 50.01856704000005 ], [ 29.067270119000057, 50.020142039000064 ], [ 29.05940916000003, 50.023193040000081 ], [ 29.065392001000077, 50.02455303000005 ], [ 29.074178880000034, 50.023076040000035 ], [ 29.074662001000036, 50.024792970000078 ], [ 29.055018960000041, 50.02781796000005 ], [ 29.049406920000024, 50.028269040000055 ], [ 29.041579080000076, 50.030937 ] ] ] } }
+]
+}

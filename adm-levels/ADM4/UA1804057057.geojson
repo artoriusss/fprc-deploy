@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.046553849933100001, "Shape_Area": 6.9413253348899999e-05, "ADM4_EN": "Chervonohranitne", "ADM4_UA": "Червоногранітне", "ADM4_PCODE": "UA1804057057", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khoroshivska", "ADM3_UA": "Хорошівська", "ADM3_PCODE": "UA1804057", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.576663125000039, 50.570166745000051 ], [ 28.57587178700004, 50.571628401000055 ], [ 28.570332120000046, 50.571357453000076 ], [ 28.574502386000063, 50.564184613000066 ], [ 28.583750061000046, 50.566149049000046 ], [ 28.583007502000044, 50.570246717000032 ], [ 28.576663125000039, 50.570166745000051 ] ] ] } }
+]
+}

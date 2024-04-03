@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.078719021644099996, "Shape_Area": 0.00017528193690300001, "ADM4_EN": "Stebnyi", "ADM4_UA": "Стебний", "ADM4_PCODE": "UA2106007005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yasinianska", "ADM3_UA": "Ясінянська", "ADM3_PCODE": "UA2106007", "ADM2_EN": "Rakhivskyi", "ADM2_UA": "Рахівський", "ADM2_PCODE": "UA2106", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.397177136000039, 48.311329005000061 ], [ 24.392154137000034, 48.315723005000052 ], [ 24.386467138000057, 48.313385006000033 ], [ 24.381520139000031, 48.309171005000053 ], [ 24.376223141000025, 48.306730005000077 ], [ 24.385368137000057, 48.303042005000066 ], [ 24.393331138000065, 48.304456006000066 ], [ 24.393698137000058, 48.306111006000037 ], [ 24.400868423000077, 48.308368459000064 ], [ 24.397177136000039, 48.311329005000061 ] ] ] } }
+]
+}

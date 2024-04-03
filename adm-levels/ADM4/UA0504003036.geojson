@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.17246060398400001, "Shape_Area": 0.000286817446607, "ADM4_EN": "Chechelivka", "ADM4_UA": "Чечелівка", "ADM4_PCODE": "UA0504003036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Haisynska", "ADM3_UA": "Гайсинська", "ADM3_PCODE": "UA0504003", "ADM2_EN": "Haisynskyi", "ADM2_UA": "Гайсинський", "ADM2_PCODE": "UA0504", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.501799, 48.795778 ], [ 29.498387, 48.793056 ], [ 29.494923999000036, 48.794026 ], [ 29.488336, 48.791067 ], [ 29.488679, 48.784662 ], [ 29.487415001000045, 48.775046 ], [ 29.491491, 48.780558 ], [ 29.494778999000062, 48.783296 ], [ 29.498357999000064, 48.783249 ], [ 29.50017, 48.787406 ], [ 29.506073001000061, 48.78639 ], [ 29.511825, 48.786535 ], [ 29.516014, 48.789186 ], [ 29.514088, 48.791161 ], [ 29.513991, 48.796768 ], [ 29.503854, 48.797039 ], [ 29.501799, 48.795778 ] ] ] } }
+]
+}

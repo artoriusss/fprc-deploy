@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.041557485503900003, "Shape_Area": 9.8978530971100001e-05, "ADM4_EN": "Harshyne", "ADM4_UA": "Гаршине", "ADM4_PCODE": "UA0108035003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lisnivska", "ADM3_UA": "Ліснівська", "ADM3_PCODE": "UA0108035", "ADM2_EN": "Yevpatoriiskyi", "ADM2_UA": "Євпаторійський", "ADM2_PCODE": "UA0108", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.595603665000056, 45.220927958000061 ], [ 33.591203847000031, 45.220748419000074 ], [ 33.583201398000028, 45.218233971000075 ], [ 33.585855791000029, 45.210592292000058 ], [ 33.596829339000067, 45.213436622000074 ], [ 33.595603665000056, 45.220927958000061 ] ] ] } }
+]
+}

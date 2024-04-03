@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.072917272651200002, "Shape_Area": 0.00016611882940100001, "ADM4_EN": "Rivne", "ADM4_UA": "Рівне", "ADM4_PCODE": "UA1210009015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pereshchepynska", "ADM3_UA": "Перещепинська", "ADM3_PCODE": "UA1210009", "ADM2_EN": "Novomoskovskyi", "ADM2_UA": "Новомосковський", "ADM2_PCODE": "UA1210", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.47562, 48.951698 ], [ 35.474705001000075, 48.955787 ], [ 35.467254999000033, 48.955066 ], [ 35.466354, 48.951258 ], [ 35.457506, 48.95 ], [ 35.457943001000046, 48.94291 ], [ 35.471608, 48.944249 ], [ 35.470811, 48.947574 ], [ 35.481755999000029, 48.950292 ], [ 35.47562, 48.951698 ] ] ] } }
+]
+}

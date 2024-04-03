@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.102951056833, "Shape_Area": 0.000111042084804, "ADM4_EN": "Vitonizh", "ADM4_UA": "Вітоніж", "ADM4_PCODE": "UA0708009003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dorosynivska", "ADM3_UA": "Доросинівська", "ADM3_PCODE": "UA0708009", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.893229093000059, 50.986833003000072 ], [ 24.887098094000066, 50.984828003000075 ], [ 24.876429095000049, 50.984300003000044 ], [ 24.85938509600004, 50.986558003000027 ], [ 24.86135809600006, 50.982323003000033 ], [ 24.876260095000077, 50.981868003000045 ], [ 24.892386092000038, 50.982937003000075 ], [ 24.893229093000059, 50.986833003000072 ] ] ] } }
+]
+}

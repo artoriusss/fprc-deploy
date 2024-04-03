@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.064012076377100005, "Shape_Area": 4.5298918921599999e-05, "ADM4_EN": "Novyi Zboryshiv", "ADM4_UA": "Новий Зборишів", "ADM4_PCODE": "UA0708019008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Marianivska", "ADM3_UA": "Мар'янівська", "ADM3_PCODE": "UA0708019", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 24.933287087000053, 50.417644003000078 ], [ 24.928638087000024, 50.41714500300003 ], [ 24.927047088000052, 50.418189003000066 ], [ 24.925111088000051, 50.415803003000065 ], [ 24.927717087000076, 50.415616003000082 ], [ 24.933287087000053, 50.417644003000078 ] ] ], [ [ [ 24.948699999000041, 50.407541 ], [ 24.948749533000068, 50.41421052100003 ], [ 24.945876085000066, 50.413256003000072 ], [ 24.946104084000069, 50.404854003000025 ], [ 24.948699999000041, 50.407541 ] ] ] ] } }
+]
+}

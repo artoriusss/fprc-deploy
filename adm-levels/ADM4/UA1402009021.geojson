@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.095054198833899997, "Shape_Area": 7.1553148685000006e-05, "ADM4_EN": "Orikhovo-Vasylivka", "ADM4_UA": "Оріхово-Василівка", "ADM4_PCODE": "UA1402009021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Soledarska", "ADM3_UA": "Соледарська", "ADM3_PCODE": "UA1402009", "ADM2_EN": "Bakhmutskyi", "ADM2_UA": "Бахмутський", "ADM2_PCODE": "UA1402", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.867424999000036, 48.688656 ], [ 37.870108999000024, 48.684823 ], [ 37.873011998000038, 48.684331 ], [ 37.881215999000062, 48.677833 ], [ 37.882770998000069, 48.678909 ], [ 37.875575999000034, 48.684665 ], [ 37.867424999000036, 48.688656 ] ] ] } }
+]
+}

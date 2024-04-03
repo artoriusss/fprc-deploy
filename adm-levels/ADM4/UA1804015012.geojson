@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.047071260282800002, "Shape_Area": 4.42029576704e-05, "ADM4_EN": "Rudenka", "ADM4_UA": "Руденька", "ADM4_PCODE": "UA1804015012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hlybochytska", "ADM3_UA": "Глибочицька", "ADM3_PCODE": "UA1804015", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.859583960000066, 50.342914980000046 ], [ 28.855977840000037, 50.343918030000054 ], [ 28.850281920000043, 50.340654990000075 ], [ 28.843252920000054, 50.341820040000073 ], [ 28.842297840000072, 50.34006198000003 ], [ 28.848828961000038, 50.338774980000039 ], [ 28.857355919000042, 50.34060603000006 ], [ 28.859583960000066, 50.342914980000046 ] ] ] } }
+]
+}

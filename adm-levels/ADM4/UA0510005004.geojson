@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.073913861130700004, "Shape_Area": 0.00016506945405399999, "ADM4_EN": "Vysoka Hreblia", "ADM4_UA": "Висока Гребля", "ADM4_PCODE": "UA0510005004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodkivska", "ADM3_UA": "Городківська", "ADM3_PCODE": "UA0510005", "ADM2_EN": "Tulchynskyi", "ADM2_UA": "Тульчинський", "ADM2_PCODE": "UA0510", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.702015199000073, 48.392330768000079 ], [ 28.707003001000032, 48.393505 ], [ 28.707598, 48.396673 ], [ 28.711543, 48.397141 ], [ 28.709074, 48.401303 ], [ 28.705288, 48.39817 ], [ 28.704555, 48.403632 ], [ 28.700845, 48.40595 ], [ 28.691809001000024, 48.40173 ], [ 28.690300970000067, 48.397432405000075 ], [ 28.694864685000027, 48.394590426000036 ], [ 28.702015199000073, 48.392330768000079 ] ] ] } }
+]
+}

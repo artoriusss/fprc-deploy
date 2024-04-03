@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.14085833969100001, "Shape_Area": 0.00022760924295500001, "ADM4_EN": "Novohryhorivka", "ADM4_UA": "Новогригорівка", "ADM4_PCODE": "UA1214015017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mezhivska", "ADM3_UA": "Межівська", "ADM3_PCODE": "UA1214015", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.641468, 48.439269 ], [ 36.637993, 48.440007 ], [ 36.636315001000071, 48.434304 ], [ 36.620204001000047, 48.43472 ], [ 36.618594, 48.436494 ], [ 36.606279, 48.43743 ], [ 36.609176, 48.433984 ], [ 36.619357999000044, 48.433178 ], [ 36.626762, 48.431599 ], [ 36.64375, 48.429935 ], [ 36.658577, 48.431025 ], [ 36.655576999000061, 48.43504 ], [ 36.640964, 48.434632 ], [ 36.641468, 48.439269 ] ] ] } }
+]
+}

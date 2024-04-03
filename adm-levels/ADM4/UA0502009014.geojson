@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.092758623705400001, "Shape_Area": 0.000174054867446, "ADM4_EN": "Lysa Hora", "ADM4_UA": "Лиса Гора", "ADM4_PCODE": "UA0502009014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Illinetska", "ADM3_UA": "Іллінецька", "ADM3_PCODE": "UA0502009", "ADM2_EN": "Vinnytskyi", "ADM2_UA": "Вінницький", "ADM2_PCODE": "UA0502", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.200735, 49.018993 ], [ 29.197267999000076, 49.019288 ], [ 29.19651, 49.015255 ], [ 29.194049, 49.014267 ], [ 29.194965, 49.009862 ], [ 29.200258, 49.007814 ], [ 29.200453, 49.001341 ], [ 29.210203, 49.000548 ], [ 29.207699, 49.004561 ], [ 29.210157, 49.013324 ], [ 29.202724, 49.012385 ], [ 29.199722001000055, 49.015522 ], [ 29.200735, 49.018993 ] ] ] } }
+]
+}

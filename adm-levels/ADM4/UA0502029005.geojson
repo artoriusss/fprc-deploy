@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.077526846482599998, "Shape_Area": 0.00012646244763300001, "ADM4_EN": "Zhurava", "ADM4_UA": "Журава", "ADM4_PCODE": "UA0502029005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Turbivska", "ADM3_UA": "Турбівська", "ADM3_PCODE": "UA0502029", "ADM2_EN": "Vinnytskyi", "ADM2_UA": "Вінницький", "ADM2_PCODE": "UA0502", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.834546, 49.310682 ], [ 28.831525, 49.30595 ], [ 28.840691, 49.296188 ], [ 28.844881999000052, 49.299627 ], [ 28.850912, 49.300325 ], [ 28.859934, 49.297439 ], [ 28.860758, 49.299158 ], [ 28.851272, 49.302516 ], [ 28.845034, 49.30147 ], [ 28.834546, 49.310682 ] ] ] } }
+]
+}

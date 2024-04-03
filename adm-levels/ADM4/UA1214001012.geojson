@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.069911365138400003, "Shape_Area": 0.000193106141182, "ADM4_EN": "Osadche", "ADM4_UA": "Осадче", "ADM4_PCODE": "UA1214001012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Brahynivska", "ADM3_UA": "Брагинівська", "ADM3_PCODE": "UA1214001", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.465637001000061, 48.621967 ], [ 36.463678, 48.621431 ], [ 36.454161, 48.613287 ], [ 36.458823, 48.608273 ], [ 36.463450999000031, 48.60779 ], [ 36.466749999000058, 48.611136 ], [ 36.469498, 48.60973 ], [ 36.476962, 48.616534 ], [ 36.465637001000061, 48.621967 ] ] ] } }
+]
+}

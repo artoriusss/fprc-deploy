@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.068959121092599995, "Shape_Area": 0.000136128953022, "ADM4_EN": "Davydky", "ADM4_UA": "Давидки", "ADM4_PCODE": "UA1806005006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horshchykivska", "ADM3_UA": "Горщиківська", "ADM3_PCODE": "UA1806005", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.437714053000036, 50.955197263000059 ], [ 28.435285398000076, 50.95537207600006 ], [ 28.431444873000032, 50.952708929000039 ], [ 28.431930648000048, 50.949620232000029 ], [ 28.439858402000027, 50.946402817000035 ], [ 28.441878840000072, 50.947917030000042 ], [ 28.447049675000073, 50.946934132000081 ], [ 28.452012839000076, 50.950276020000047 ], [ 28.445865839000078, 50.953986990000033 ], [ 28.441408360000025, 50.95304191200006 ], [ 28.437714053000036, 50.955197263000059 ] ] ] } }
+]
+}

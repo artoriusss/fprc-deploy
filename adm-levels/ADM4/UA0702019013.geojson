@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.052489035345199997, "Shape_Area": 3.05882541187e-05, "ADM4_EN": "Nova Lishnia", "ADM4_UA": "Нова Лішня", "ADM4_PCODE": "UA0702019013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Poromivska", "ADM3_UA": "Поромівська", "ADM3_PCODE": "UA0702019", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.199557439000046, 50.693277256000044 ], [ 24.197024189000047, 50.691286007000031 ], [ 24.193692190000036, 50.686086006000039 ], [ 24.197330188000024, 50.687358006000068 ], [ 24.199557439000046, 50.693277256000044 ] ] ] } }
+]
+}

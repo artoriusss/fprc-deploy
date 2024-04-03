@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11833133188, "Shape_Area": 0.00016761844711, "ADM4_EN": "Chervone", "ADM4_UA": "Червоне", "ADM4_PCODE": "UA0108059003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Orikhivska", "ADM3_UA": "Оріхівська", "ADM3_PCODE": "UA0108059", "ADM2_EN": "Yevpatoriiskyi", "ADM2_UA": "Євпаторійський", "ADM2_PCODE": "UA0108", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.69084, 45.113056 ], [ 33.69303, 45.120197 ], [ 33.683899, 45.119703 ], [ 33.683907, 45.12154 ], [ 33.696824, 45.122747 ], [ 33.697077, 45.124281 ], [ 33.703938999000059, 45.125221 ], [ 33.704371, 45.126854 ], [ 33.693155, 45.125113 ], [ 33.686051, 45.126132 ], [ 33.680802, 45.123099 ], [ 33.683415, 45.118528 ], [ 33.676942, 45.117298 ], [ 33.681744, 45.11126 ], [ 33.682334, 45.113205 ], [ 33.69084, 45.113056 ] ] ] } }
+]
+}

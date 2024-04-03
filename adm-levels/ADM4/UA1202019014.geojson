@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.045106725107500002, "Shape_Area": 0.000105510702342, "ADM4_EN": "Sotnytske", "ADM4_UA": "Сотницьке", "ADM4_PCODE": "UA1202019014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Petrykivska", "ADM3_UA": "Петриківська", "ADM3_PCODE": "UA1202019", "ADM2_EN": "Dniprovskyi", "ADM2_UA": "Дніпровський", "ADM2_PCODE": "UA1202", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.613858, 48.666677 ], [ 34.608564999000066, 48.664835 ], [ 34.604614, 48.665737 ], [ 34.600532, 48.662823 ], [ 34.612304, 48.656544 ], [ 34.619228, 48.661026 ], [ 34.613858, 48.666677 ] ] ] } }
+]
+}

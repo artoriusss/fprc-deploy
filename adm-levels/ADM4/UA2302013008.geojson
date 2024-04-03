@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.054330093237599998, "Shape_Area": 0.000108547046267, "ADM4_EN": "Komyshuvatka", "ADM4_UA": "Комишуватка", "ADM4_PCODE": "UA2302013008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Prymorska", "ADM3_UA": "Приморська", "ADM3_PCODE": "UA2302013", "ADM2_EN": "Berdianskyi", "ADM2_UA": "Бердянський", "ADM2_PCODE": "UA2302", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.295669233000069, 46.710992955000052 ], [ 36.293919823000067, 46.712760556000035 ], [ 36.278233571000044, 46.709246330000042 ], [ 36.280173606000062, 46.703694139000049 ], [ 36.295898407000038, 46.706961472000046 ], [ 36.295669233000069, 46.710992955000052 ] ] ] } }
+]
+}

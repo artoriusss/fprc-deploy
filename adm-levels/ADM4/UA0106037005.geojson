@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.037608508314199998, "Shape_Area": 5.18561186956e-05, "ADM4_EN": "Nyzhni Otrozhky", "ADM4_UA": "Нижні Отрожки", "ADM4_PCODE": "UA0106037005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Prostornenska", "ADM3_UA": "Просторненська", "ADM3_PCODE": "UA0106037", "ADM2_EN": "Dzhankoiskyi", "ADM2_UA": "Джанкойський", "ADM2_PCODE": "UA0106", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.658658999000068, 45.667059 ], [ 34.65703, 45.667307 ], [ 34.651331, 45.663344 ], [ 34.66116099900006, 45.66101 ], [ 34.664619001000062, 45.662306 ], [ 34.665934, 45.665585 ], [ 34.658658999000068, 45.667059 ] ] ] } }
+]
+}

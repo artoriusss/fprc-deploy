@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.046183005078000001, "Shape_Area": 7.4657334745000003e-05, "ADM4_EN": "Rudka-Myrynska", "ADM4_UA": "Рудка-Миринська", "ADM4_PCODE": "UA0706003010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velytska", "ADM3_UA": "Велицька", "ADM3_PCODE": "UA0706003", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.173111070000061, 51.179249002000063 ], [ 25.167133071000023, 51.178414002000068 ], [ 25.16233907000003, 51.180117002000031 ], [ 25.159225070000048, 51.178592002000073 ], [ 25.168435071000033, 51.172613002000048 ], [ 25.174014069000066, 51.172738002000074 ], [ 25.176878070000043, 51.176359002000027 ], [ 25.173111070000061, 51.179249002000063 ] ] ] } }
+]
+}

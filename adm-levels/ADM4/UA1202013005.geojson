@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.060262217626400001, "Shape_Area": 8.6303252290100002e-05, "ADM4_EN": "Dorohe", "ADM4_UA": "Дороге", "ADM4_PCODE": "UA1202013005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novooleksandrivska", "ADM3_UA": "Новоолександрівська", "ADM3_PCODE": "UA1202013", "ADM2_EN": "Dniprovskyi", "ADM2_UA": "Дніпровський", "ADM2_PCODE": "UA1202", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.965995809000049, 48.385473635000039 ], [ 34.96385525900007, 48.38941471000004 ], [ 34.961407967000071, 48.388873537000052 ], [ 34.96493999900008, 48.383892 ], [ 34.961753001000034, 48.382586 ], [ 34.964367, 48.367859 ], [ 34.968039486000066, 48.370797316000051 ], [ 34.967821641000057, 48.374380126000062 ], [ 34.967196, 48.382722 ], [ 34.965995809000049, 48.385473635000039 ] ] ] } }
+]
+}

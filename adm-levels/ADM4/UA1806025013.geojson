@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.040991627155200001, "Shape_Area": 4.93044893425e-05, "ADM4_EN": "Kutyshche", "ADM4_UA": "Кутище", "ADM4_PCODE": "UA1806025013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chopovytska", "ADM3_UA": "Чоповицька", "ADM3_PCODE": "UA1806025", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.082485880000036, 50.838397020000059 ], [ 29.077755120000063, 50.840884980000055 ], [ 29.074551840000026, 50.836431960000027 ], [ 29.074608, 50.833263960000068 ], [ 29.079011880000053, 50.833577970000078 ], [ 29.082485880000036, 50.838397020000059 ] ] ] } }
+]
+}

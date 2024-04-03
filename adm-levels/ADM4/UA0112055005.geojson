@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.045547959381099998, "Shape_Area": 9.0574722042099996e-05, "ADM4_EN": "Kremnivka", "ADM4_UA": "Кремнівка", "ADM4_PCODE": "UA0112055005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Petrivska", "ADM3_UA": "Петрівська", "ADM3_PCODE": "UA0112055", "ADM2_EN": "Krasnohvardiiskyi", "ADM2_UA": "Красногвардійський", "ADM2_PCODE": "UA0112", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.087076904000071, 45.473392763000049 ], [ 34.078704463000065, 45.468558870000038 ], [ 34.07618022500003, 45.46548458500007 ], [ 34.081753485000036, 45.463644615000078 ], [ 34.086880499000074, 45.465564911000058 ], [ 34.093408085000078, 45.470393346000037 ], [ 34.087076904000071, 45.473392763000049 ] ] ] } }
+]
+}

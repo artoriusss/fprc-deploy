@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.095906403475, "Shape_Area": 0.00013725250674200001, "ADM4_EN": "Hirky", "ADM4_UA": "Гірки", "ADM4_PCODE": "UA1214033007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Slavhorodska", "ADM3_UA": "Славгородська", "ADM3_PCODE": "UA1214033", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.514054, 48.223358 ], [ 35.509631, 48.226203 ], [ 35.508782, 48.222378 ], [ 35.505675001000043, 48.217818 ], [ 35.508579, 48.211766 ], [ 35.508953, 48.20691 ], [ 35.511821, 48.204308 ], [ 35.520248, 48.20419 ], [ 35.523785, 48.210842 ], [ 35.518679, 48.209712 ], [ 35.511097, 48.212249 ], [ 35.509118, 48.216366 ], [ 35.514054, 48.223358 ] ] ] } }
+]
+}

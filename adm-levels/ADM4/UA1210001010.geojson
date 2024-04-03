@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.078863671836800001, "Shape_Area": 0.00015705081762900001, "ADM4_EN": "Yevetsko-Mykolaivka", "ADM4_UA": "Євецько-Миколаївка", "ADM4_PCODE": "UA1210001010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hubynyska", "ADM3_UA": "Губиниська", "ADM3_PCODE": "UA1210001", "ADM2_EN": "Novomoskovskyi", "ADM2_UA": "Новомосковський", "ADM2_PCODE": "UA1210", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.355585, 48.803227 ], [ 35.352690001000042, 48.799153 ], [ 35.3564, 48.798116 ], [ 35.360873, 48.798644 ], [ 35.360167999000055, 48.794013 ], [ 35.369589, 48.792422 ], [ 35.375552281000068, 48.78959399300004 ], [ 35.379406943000049, 48.794940564000058 ], [ 35.370346, 48.798801 ], [ 35.371889, 48.800807 ], [ 35.365760001000069, 48.803033 ], [ 35.363541, 48.800646 ], [ 35.355585, 48.803227 ] ] ] } }
+]
+}

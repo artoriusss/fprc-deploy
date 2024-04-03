@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.088037368787299994, "Shape_Area": 0.00017243612168900001, "ADM4_EN": "Omelne", "ADM4_UA": "Омельне", "ADM4_PCODE": "UA0706045015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shatska", "ADM3_UA": "Шацька", "ADM3_PCODE": "UA0706045", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.888080264000052, 51.459648009000034 ], [ 23.875170269000023, 51.456744009000033 ], [ 23.868376271000045, 51.453282009000077 ], [ 23.86304227100004, 51.452787009000076 ], [ 23.864117271000055, 51.44933800900003 ], [ 23.879236268000056, 51.452093009000066 ], [ 23.880012267000041, 51.451099009000075 ], [ 23.894055264000031, 51.456503009000073 ], [ 23.888080264000052, 51.459648009000034 ] ] ] } }
+]
+}

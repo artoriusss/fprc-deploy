@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.038074599286499998, "Shape_Area": 4.41776788413e-05, "ADM4_EN": "Huta", "ADM4_UA": "Гута", "ADM4_PCODE": "UA0504019005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Raihorodska", "ADM3_UA": "Райгородська", "ADM3_PCODE": "UA0504019", "ADM2_EN": "Haisynskyi", "ADM2_UA": "Гайсинський", "ADM2_PCODE": "UA0504", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.116031, 48.908349 ], [ 29.113950999000053, 48.907752 ], [ 29.112895, 48.903112 ], [ 29.117872001000023, 48.902067 ], [ 29.122849, 48.902843 ], [ 29.119183999000029, 48.906956 ], [ 29.116031, 48.908349 ] ] ] } }
+]
+}

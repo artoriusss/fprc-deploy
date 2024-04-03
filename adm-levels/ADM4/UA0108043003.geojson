@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.052545478405799997, "Shape_Area": 9.6877706496399998e-05, "ADM4_EN": "Zaitseve", "ADM4_UA": "Зайцеве", "ADM4_PCODE": "UA0108043003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mizhvodnenska", "ADM3_UA": "Міжводненська", "ADM3_PCODE": "UA0108043", "ADM2_EN": "Yevpatoriiskyi", "ADM2_UA": "Євпаторійський", "ADM2_PCODE": "UA0108", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.889558442000066, 45.53746480600006 ], [ 32.885650171000066, 45.542366467000079 ], [ 32.878479754000068, 45.540324242000054 ], [ 32.87189655800006, 45.537505422000038 ], [ 32.872516252000025, 45.53446387200006 ], [ 32.875453004000065, 45.531227884000032 ], [ 32.88178659600004, 45.534498567000071 ], [ 32.889558442000066, 45.53746480600006 ] ] ] } }
+]
+}

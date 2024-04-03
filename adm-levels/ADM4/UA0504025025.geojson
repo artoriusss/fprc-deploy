@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.035014094772400001, "Shape_Area": 1.5554594476899999e-05, "ADM4_EN": "Zelenyi Dovzhok", "ADM4_UA": "Зелений Довжок", "ADM4_PCODE": "UA0504025025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Trostianetska", "ADM3_UA": "Тростянецька", "ADM3_PCODE": "UA0504025", "ADM2_EN": "Haisynskyi", "ADM2_UA": "Гайсинський", "ADM2_PCODE": "UA0504", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.019499, 48.458475001000068 ], [ 29.017554999000026, 48.459238 ], [ 29.011811999000031, 48.458379 ], [ 29.007942, 48.45869 ], [ 29.007944, 48.457723 ], [ 29.011914999000055, 48.457502 ], [ 29.017066999000065, 48.45826 ], [ 29.018656, 48.457598 ], [ 29.023388001000058, 48.457321 ], [ 29.023436, 48.458334 ], [ 29.019499, 48.458475001000068 ] ] ] } }
+]
+}

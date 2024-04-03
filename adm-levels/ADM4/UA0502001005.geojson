@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.23989897966000001, "Shape_Area": 0.00028734978830200001, "ADM4_EN": "Medvezhe Vushko", "ADM4_UA": "Медвеже Вушко", "ADM4_PCODE": "UA0502001005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ahronomichna", "ADM3_UA": "Агрономічна", "ADM3_PCODE": "UA0502001", "ADM2_EN": "Vinnytskyi", "ADM2_UA": "Вінницький", "ADM2_PCODE": "UA0502", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.302446, 49.197126 ], [ 28.298455001000036, 49.193752 ], [ 28.308789, 49.186071 ], [ 28.304846, 49.185799 ], [ 28.296407, 49.192748 ], [ 28.29347, 49.191141 ], [ 28.304181999000036, 49.181955 ], [ 28.301756, 49.17666 ], [ 28.306946001000028, 49.173812 ], [ 28.313961999000071, 49.172415 ], [ 28.316098, 49.180456 ], [ 28.325577, 49.181932 ], [ 28.326556999000047, 49.187101 ], [ 28.315784, 49.18576 ], [ 28.316846, 49.188632 ], [ 28.308042, 49.192656 ], [ 28.302446, 49.197126 ] ] ] } }
+]
+}

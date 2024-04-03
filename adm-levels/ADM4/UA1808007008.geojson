@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.071356782507999997, "Shape_Area": 0.00015286129903700001, "ADM4_EN": "Luchytsia", "ADM4_UA": "Лучиця", "ADM4_PCODE": "UA1808007008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodnytska", "ADM3_UA": "Городницька", "ADM3_PCODE": "UA1808007", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.27858204100005, 50.802317010000081 ], [ 27.271159920000059, 50.803625970000041 ], [ 27.263512080000055, 50.798204010000063 ], [ 27.259859881000068, 50.791516020000074 ], [ 27.265745160000051, 50.789015010000071 ], [ 27.269322119000037, 50.790515040000059 ], [ 27.273126959000024, 50.796847980000052 ], [ 27.275577119000047, 50.799112020000052 ], [ 27.279858961000059, 50.797472040000059 ], [ 27.27858204100005, 50.802317010000081 ] ] ] } }
+]
+}

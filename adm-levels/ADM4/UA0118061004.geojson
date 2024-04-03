@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070990413816199999, "Shape_Area": 0.000110717065175, "ADM4_EN": "Pryberezhne", "ADM4_UA": "Прибережне", "ADM4_PCODE": "UA0118061004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Soniachnodolynska", "ADM3_UA": "Сонячнодолинська", "ADM3_PCODE": "UA0118061", "ADM2_EN": "Feodosiiskyi", "ADM2_UA": "Феодосійський", "ADM2_PCODE": "UA0118", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.138222, 44.867091 ], [ 35.135857, 44.863581 ], [ 35.132543, 44.861566 ], [ 35.130681, 44.858379 ], [ 35.124547, 44.856294 ], [ 35.125879, 44.852733 ], [ 35.133979, 44.850847 ], [ 35.137511, 44.861683 ], [ 35.14203653900006, 44.867190880000066 ], [ 35.138222, 44.867091 ] ] ] } }
+]
+}

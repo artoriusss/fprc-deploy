@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.089981512399399999, "Shape_Area": 0.00021068213426900001, "ADM4_EN": "Bahate", "ADM4_UA": "Багате", "ADM4_PCODE": "UA1210009002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pereshchepynska", "ADM3_UA": "Перещепинська", "ADM3_PCODE": "UA1210009", "ADM2_EN": "Novomoskovskyi", "ADM2_UA": "Новомосковський", "ADM2_PCODE": "UA1210", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.529465555000058, 48.975719154000046 ], [ 35.522321, 48.977301 ], [ 35.518664, 48.972456 ], [ 35.512343001000033, 48.972062 ], [ 35.501935, 48.969908 ], [ 35.500894, 48.967641 ], [ 35.509665, 48.966614 ], [ 35.511458, 48.964965 ], [ 35.520833001000028, 48.969563 ], [ 35.521356001000072, 48.963818 ], [ 35.52576, 48.966508 ], [ 35.532791, 48.967015 ], [ 35.532226, 48.972789 ], [ 35.529465555000058, 48.975719154000046 ] ] ] } }
+]
+}

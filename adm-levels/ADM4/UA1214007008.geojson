@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.058604100035299998, "Shape_Area": 7.5718860210199996e-05, "ADM4_EN": "Dovhe", "ADM4_UA": "Довге", "ADM4_PCODE": "UA1214007008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dubovykivska", "ADM3_UA": "Дубовиківська", "ADM3_PCODE": "UA1214007", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.369002999000031, 48.178916 ], [ 36.365053999000054, 48.18429 ], [ 36.363154999000074, 48.184066 ], [ 36.366066999000054, 48.174957 ], [ 36.371116999000037, 48.167855 ], [ 36.376335, 48.168599 ], [ 36.372759, 48.172492 ], [ 36.369002999000031, 48.178916 ] ] ] } }
+]
+}

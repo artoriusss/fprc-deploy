@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0621766930009, "Shape_Area": 0.00017937845328, "ADM4_EN": "Karierne", "ADM4_UA": "Кар'єрне", "ADM4_PCODE": "UA0108061003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Okhotnykivska", "ADM3_UA": "Охотниківська", "ADM3_PCODE": "UA0108061", "ADM2_EN": "Yevpatoriiskyi", "ADM2_UA": "Євпаторійський", "ADM2_PCODE": "UA0108", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.615210913000055, 45.295376108000028 ], [ 33.613032246000046, 45.293083648000049 ], [ 33.609650615000078, 45.294813390000058 ], [ 33.606037140000069, 45.292377882000039 ], [ 33.602272719000041, 45.283762206000063 ], [ 33.602483190000044, 45.279000648000078 ], [ 33.607662392000066, 45.27766452700007 ], [ 33.614022470000066, 45.286030409000034 ], [ 33.622670430000028, 45.290834123000081 ], [ 33.615210913000055, 45.295376108000028 ] ] ] } }
+]
+}

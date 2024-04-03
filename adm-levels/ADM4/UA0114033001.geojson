@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.080971284745700006, "Shape_Area": 0.00017856826318, "ADM4_EN": "Orlivske", "ADM4_UA": "Орлівське", "ADM4_PCODE": "UA0114033001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Orlivska", "ADM3_UA": "Орлівська", "ADM3_PCODE": "UA0114033", "ADM2_EN": "Krasnoperekopskyi", "ADM2_UA": "Красноперекопський", "ADM2_PCODE": "UA0114", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.981199, 45.811852 ], [ 33.979526001000067, 45.814606 ], [ 33.974888, 45.817787 ], [ 33.966683, 45.816105 ], [ 33.961067, 45.8136 ], [ 33.962579, 45.810115 ], [ 33.968289, 45.811362 ], [ 33.970785, 45.803637 ], [ 33.963516, 45.804012 ], [ 33.963371, 45.802334 ], [ 33.975159, 45.801957 ], [ 33.975884, 45.806735 ], [ 33.979872, 45.80829 ], [ 33.981199, 45.811852 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057391860914800003, "Shape_Area": 0.00014380801615499999, "ADM4_EN": "Zelenyi Klyn", "ADM4_UA": "Зелений Клин", "ADM4_PCODE": "UA1208013011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tomakivska", "ADM3_UA": "Томаківська", "ADM3_PCODE": "UA1208013", "ADM2_EN": "Nikopolskyi", "ADM2_UA": "Нікопольський", "ADM2_PCODE": "UA1208", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.59273599900007, 47.875823 ], [ 34.590747, 47.871927 ], [ 34.584375, 47.87165 ], [ 34.585008, 47.865493 ], [ 34.583265999000048, 47.862744 ], [ 34.584213610000063, 47.859351713000081 ], [ 34.593493, 47.861462 ], [ 34.598339999000075, 47.875135 ], [ 34.59273599900007, 47.875823 ] ] ] } }
+]
+}

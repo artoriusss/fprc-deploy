@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0526439366288, "Shape_Area": 4.2921800115399999e-05, "ADM4_EN": "Aromat", "ADM4_UA": "Аромат", "ADM4_PCODE": "UA0102013002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Holubynska", "ADM3_UA": "Голубинська", "ADM3_PCODE": "UA0102013", "ADM2_EN": "Bakhchysaraiskyi", "ADM2_UA": "Бахчисарайський", "ADM2_PCODE": "UA0102", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.937197683000079, 44.585521379000056 ], [ 33.935894290000078, 44.583778618000053 ], [ 33.935821711000074, 44.577483736000033 ], [ 33.938738219000072, 44.579489996000063 ], [ 33.93981384600005, 44.583062854000048 ], [ 33.937197683000079, 44.585521379000056 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.101403581439, "Shape_Area": 0.00021413390749200001, "ADM4_EN": "Rostan", "ADM4_UA": "Ростань", "ADM4_PCODE": "UA0706045026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shatska", "ADM3_UA": "Шацька", "ADM3_PCODE": "UA0706045", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.719139314000074, 51.605544011000063 ], [ 23.71505731600007, 51.602532011000051 ], [ 23.709649317000071, 51.601559010000074 ], [ 23.697079319000068, 51.603337010000075 ], [ 23.692058321000047, 51.595991011000081 ], [ 23.714002315000073, 51.595214011000053 ], [ 23.717375314000037, 51.59449901000005 ], [ 23.722744313000078, 51.600528010000062 ], [ 23.719855313000039, 51.60137601100007 ], [ 23.719139314000074, 51.605544011000063 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.059553323776900001, "Shape_Area": 7.9536748597599998e-05, "ADM4_EN": "Nova Hryhorivka", "ADM4_UA": "Нова Григорівка", "ADM4_PCODE": "UA0508005024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mohyliv-Podilska", "ADM3_UA": "Могилів-Подільська", "ADM3_PCODE": "UA0508005", "ADM2_EN": "Mohyliv-Podilskyi", "ADM2_UA": "Могилів-Подільський", "ADM2_PCODE": "UA0508", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.932137667000063, 48.407129209000061 ], [ 27.926540284000055, 48.409959463000064 ], [ 27.921911456000032, 48.411020207000035 ], [ 27.919214087000057, 48.408161533000055 ], [ 27.926192084000036, 48.401938926000071 ], [ 27.932365960000027, 48.397790997000072 ], [ 27.932602995000025, 48.401293509000027 ], [ 27.927342255000042, 48.40490660100005 ], [ 27.932137667000063, 48.407129209000061 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.090344911877699996, "Shape_Area": 6.8399640162399998e-05, "ADM4_EN": "Zavyika", "ADM4_UA": "Завийка", "ADM4_PCODE": "UA2112019006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mizhhirska", "ADM3_UA": "Міжгірська", "ADM3_PCODE": "UA2112019", "ADM2_EN": "Khustskyi", "ADM2_UA": "Хустський", "ADM2_PCODE": "UA2112", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.57038831400007, 48.716941012000063 ], [ 23.561689317000059, 48.719016013000044 ], [ 23.559596316000068, 48.716358012000057 ], [ 23.553725318000033, 48.71394001200008 ], [ 23.551191320000044, 48.710912013000041 ], [ 23.557576319000077, 48.710112013000071 ], [ 23.562636317000056, 48.715171012000042 ], [ 23.567360317000066, 48.715133012000081 ], [ 23.57038831400007, 48.716941012000063 ] ] ] } }
+]
+}

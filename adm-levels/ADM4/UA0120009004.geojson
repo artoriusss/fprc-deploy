@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.060050891574000002, "Shape_Area": 9.35035139052e-05, "ADM4_EN": "Rozovyi", "ADM4_UA": "Розовий", "ADM4_PCODE": "UA0120009004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Izobilnenska", "ADM3_UA": "Ізобільненська", "ADM3_PCODE": "UA0120009", "ADM2_EN": "Yaltynskyi", "ADM2_UA": "Ялтинський", "ADM2_PCODE": "UA0120", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.315787767000074, 44.699949899000046 ], [ 34.311949603000073, 44.696308668000029 ], [ 34.314019149000046, 44.692910398000038 ], [ 34.316765646000079, 44.693529440000077 ], [ 34.327369975000067, 44.692254621000075 ], [ 34.329434482000067, 44.694149430000039 ], [ 34.325896804000024, 44.697605672000066 ], [ 34.315787767000074, 44.699949899000046 ] ] ] } }
+]
+}

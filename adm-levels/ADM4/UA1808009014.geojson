@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.07760402329, "Shape_Area": 0.00024424122693399999, "ADM4_EN": "Tartak", "ADM4_UA": "Тартак", "ADM4_PCODE": "UA1808009014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dovbyska", "ADM3_UA": "Довбиська", "ADM3_PCODE": "UA1808009", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.834563160000073, 50.38644897000006 ], [ 27.832228920000034, 50.385315960000071 ], [ 27.820802880000031, 50.385693960000026 ], [ 27.820041119000052, 50.380310970000039 ], [ 27.828794881000078, 50.378246010000055 ], [ 27.836862840000038, 50.374404990000073 ], [ 27.84759912100003, 50.375286 ], [ 27.849282121000044, 50.376602970000079 ], [ 27.847766879000062, 50.383577970000033 ], [ 27.834563160000073, 50.38644897000006 ] ] ] } }
+]
+}

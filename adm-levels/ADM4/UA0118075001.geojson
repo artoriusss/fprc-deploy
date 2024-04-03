@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.061617377313800001, "Shape_Area": 0.000204315648699, "ADM4_EN": "Chornozemne", "ADM4_UA": "Чорноземне", "ADM4_PCODE": "UA0118075001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chornozemnenska", "ADM3_UA": "Чорноземненська", "ADM3_PCODE": "UA0118075", "ADM2_EN": "Feodosiiskyi", "ADM2_UA": "Феодосійський", "ADM2_PCODE": "UA0118", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.824894, 45.412695 ], [ 34.81532, 45.412818 ], [ 34.814267, 45.409941 ], [ 34.810554, 45.409192 ], [ 34.809903, 45.401901 ], [ 34.813586, 45.402566 ], [ 34.825259, 45.402258 ], [ 34.831636, 45.403221 ], [ 34.831928, 45.406501 ], [ 34.830422, 45.412688 ], [ 34.824894, 45.412695 ] ] ] } }
+]
+}

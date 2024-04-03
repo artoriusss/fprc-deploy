@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.23926577405400001, "Shape_Area": 0.00022348321657000001, "ADM4_EN": "Mohylivka", "ADM4_UA": "Могилівка", "ADM4_PCODE": "UA0502007007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hnivanska", "ADM3_UA": "Гніванська", "ADM3_PCODE": "UA0502007", "ADM2_EN": "Vinnytskyi", "ADM2_UA": "Вінницький", "ADM2_PCODE": "UA0502", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.304815, 49.106812 ], [ 28.30246, 49.101394 ], [ 28.296708, 49.102323 ], [ 28.291477999000051, 49.097667 ], [ 28.296975, 49.095457 ], [ 28.298181, 49.090895 ], [ 28.294929999000033, 49.09051 ], [ 28.285138, 49.092706 ], [ 28.277153, 49.089329 ], [ 28.290107999000043, 49.088687 ], [ 28.299213, 49.086838 ], [ 28.304893001000039, 49.087752 ], [ 28.301273, 49.094122 ], [ 28.30274, 49.097112 ], [ 28.300423999000031, 49.100842 ], [ 28.306275, 49.102163 ], [ 28.304815, 49.106812 ] ] ] } }
+]
+}

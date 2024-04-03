@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.096256454268299999, "Shape_Area": 0.000157883194371, "ADM4_EN": "Novoivanivka", "ADM4_UA": "Новоіванівка", "ADM4_PCODE": "UA1408001023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Amvrosiivska", "ADM3_UA": "Амвросіївська", "ADM3_PCODE": "UA1408001", "ADM2_EN": "Donetskyi", "ADM2_UA": "Донецький", "ADM2_PCODE": "UA1408", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.371059998000078, 47.683682 ], [ 38.372226999000077, 47.680064 ], [ 38.380279997000059, 47.675855 ], [ 38.382838998000068, 47.673204 ], [ 38.391836996000052, 47.670683 ], [ 38.394564996000042, 47.674167 ], [ 38.399991997000029, 47.677044 ], [ 38.397956997000051, 47.679823 ], [ 38.39299199900006, 47.678033 ], [ 38.377219999000033, 47.679881 ], [ 38.377547998000068, 47.681791 ], [ 38.371059998000078, 47.683682 ] ] ] } }
+]
+}

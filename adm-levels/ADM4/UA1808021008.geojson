@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.049221201093899998, "Shape_Area": 5.0342548032399999e-05, "ADM4_EN": "Dibrivske", "ADM4_UA": "Дібрівське", "ADM4_PCODE": "UA1808021008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chyzhivska", "ADM3_UA": "Чижівська", "ADM3_PCODE": "UA1808021", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.472078081000063, 50.703993 ], [ 27.47029716000003, 50.706392040000026 ], [ 27.466575120000073, 50.705375040000035 ], [ 27.468405001000065, 50.702171040000053 ], [ 27.45682596000006, 50.69765502000007 ], [ 27.457900921000032, 50.695590960000061 ], [ 27.467976961000033, 50.699289960000044 ], [ 27.472222081000041, 50.700189960000046 ], [ 27.472078081000063, 50.703993 ] ] ] } }
+]
+}

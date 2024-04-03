@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10225715076899999, "Shape_Area": 0.00020032430039300001, "ADM4_EN": "Shyroka Balka", "ADM4_UA": "Широка Балка", "ADM4_PCODE": "UA1406003010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horlivska", "ADM3_UA": "Горлівська", "ADM3_PCODE": "UA1406003", "ADM2_EN": "Horlivskyi", "ADM2_UA": "Горлівський", "ADM2_PCODE": "UA1406", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.904407241000058, 48.306411223000055 ], [ 37.931815352000058, 48.298656528000038 ], [ 37.939846268000053, 48.296040506000054 ], [ 37.946560017000024, 48.298428622000074 ], [ 37.928032918000042, 48.303977167000028 ], [ 37.929381994000039, 48.305811249000044 ], [ 37.919680668000069, 48.308346742000026 ], [ 37.918084157000067, 48.307596301000046 ], [ 37.90653737100007, 48.309996378000051 ], [ 37.904407241000058, 48.306411223000055 ] ] ] } }
+]
+}

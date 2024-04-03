@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10906788725, "Shape_Area": 0.000171129829932, "ADM4_EN": "Synytsyne", "ADM4_UA": "Синицине", "ADM4_PCODE": "UA0118057001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Synytsynska", "ADM3_UA": "Синицинська", "ADM3_PCODE": "UA0118057", "ADM2_EN": "Feodosiiskyi", "ADM2_UA": "Феодосійський", "ADM2_PCODE": "UA0118", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.254531, 45.237247 ], [ 35.254144, 45.24016 ], [ 35.248537, 45.24155 ], [ 35.241774999000029, 45.242044 ], [ 35.232896, 45.241209 ], [ 35.232427001000076, 45.236311 ], [ 35.239397, 45.236949 ], [ 35.252226, 45.234417 ], [ 35.256852001000027, 45.23567 ], [ 35.25998, 45.232085 ], [ 35.262145, 45.239248 ], [ 35.256861, 45.239492 ], [ 35.254531, 45.237247 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.121061626516, "Shape_Area": 0.000118774703618, "ADM4_EN": "Mervyn", "ADM4_UA": "Мервин", "ADM4_PCODE": "UA0502019024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Orativska", "ADM3_UA": "Оратівська", "ADM3_PCODE": "UA0502019", "ADM2_EN": "Vinnytskyi", "ADM2_UA": "Вінницький", "ADM2_PCODE": "UA0502", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 29.3648, 49.200636 ], [ 29.35369, 49.199118 ], [ 29.352592, 49.202421 ], [ 29.349678, 49.199758 ], [ 29.35173700100006, 49.197118 ], [ 29.362435, 49.198366 ], [ 29.3648, 49.200636 ] ] ], [ [ [ 29.373820999000031, 49.193665 ], [ 29.370302, 49.192275 ], [ 29.359675, 49.193662 ], [ 29.358604, 49.191502 ], [ 29.366117001000077, 49.188839 ], [ 29.371167999000079, 49.18833 ], [ 29.371135, 49.191344 ], [ 29.373820999000031, 49.193665 ] ] ] ] } }
+]
+}

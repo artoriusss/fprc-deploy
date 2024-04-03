@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070026648013000001, "Shape_Area": 8.5279179404900002e-05, "ADM4_EN": "Khotiachiv", "ADM4_UA": "Хотячів", "ADM4_PCODE": "UA0702021024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ustyluzka", "ADM3_UA": "Устилузька", "ADM3_PCODE": "UA0702021", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.16519519700006, 50.831088007000062 ], [ 24.166751196000064, 50.83308900600008 ], [ 24.16582119800006, 50.837799007000058 ], [ 24.160237197000072, 50.837794006000081 ], [ 24.15830519800005, 50.832801006000068 ], [ 24.155578197000068, 50.829274007000038 ], [ 24.156751198000052, 50.827398006000067 ], [ 24.166024195000034, 50.829178007000053 ], [ 24.16519519700006, 50.831088007000062 ] ] ] } }
+]
+}

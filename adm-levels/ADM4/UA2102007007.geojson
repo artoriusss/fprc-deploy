@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.061093205197100001, "Shape_Area": 0.000177094685808, "ADM4_EN": "Mochola", "ADM4_UA": "Мочола", "ADM4_PCODE": "UA2102007007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykobyihanska", "ADM3_UA": "Великобийганська", "ADM3_PCODE": "UA2102007", "ADM2_EN": "Berehivskyi", "ADM2_UA": "Берегівський", "ADM2_PCODE": "UA2102", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.631428677000031, 48.148462818000041 ], [ 22.635301699000024, 48.148756526000057 ], [ 22.636663708000071, 48.152455031000045 ], [ 22.632156710000061, 48.15302003100004 ], [ 22.631314711000073, 48.15997303100005 ], [ 22.628880713000058, 48.167256032000068 ], [ 22.621430717000067, 48.166439031000039 ], [ 22.622876717000054, 48.152384031000054 ], [ 22.622714717000065, 48.149088031000076 ], [ 22.631428677000031, 48.148462818000041 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.040472767583600001, "Shape_Area": 2.87419806504e-05, "ADM4_EN": "Okunyn", "ADM4_UA": "Окунин", "ADM4_PCODE": "UA0706023010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lukivska", "ADM3_UA": "Луківська", "ADM3_PCODE": "UA0706023", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.304655174000061, 51.204078006000032 ], [ 24.301695174000031, 51.205343006000078 ], [ 24.300903176000077, 51.203895005000049 ], [ 24.30574817300004, 51.200905006000028 ], [ 24.304655174000061, 51.204078006000032 ] ] ] } }
+]
+}

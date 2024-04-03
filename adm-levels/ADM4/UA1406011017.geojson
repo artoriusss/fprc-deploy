@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.088150150276799996, "Shape_Area": 0.00015265078926399999, "ADM4_EN": "Manuilivka", "ADM4_UA": "Мануйлівка", "ADM4_PCODE": "UA1406011017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Snizhnianska", "ADM3_UA": "Сніжнянська", "ADM3_PCODE": "UA1406011", "ADM2_EN": "Horlivskyi", "ADM2_UA": "Горлівський", "ADM2_PCODE": "UA1406", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.675924996000049, 47.968147 ], [ 38.670105997000064, 47.969003 ], [ 38.669289997000078, 47.967576 ], [ 38.662616997000043, 47.966807 ], [ 38.651253997000026, 47.966786 ], [ 38.651235996000025, 47.964344 ], [ 38.658155998000041, 47.964821 ], [ 38.653934996000032, 47.959087 ], [ 38.663928997000028, 47.960218 ], [ 38.665516996000065, 47.958645 ], [ 38.674850996000032, 47.961565001000054 ], [ 38.67365699700008, 47.966452 ], [ 38.675924996000049, 47.968147 ] ] ] } }
+]
+}

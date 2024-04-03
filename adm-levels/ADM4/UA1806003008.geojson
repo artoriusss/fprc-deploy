@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.068416299314800005, "Shape_Area": 9.1527839798599998e-05, "ADM4_EN": "Radchytsi", "ADM4_UA": "Радчиці", "ADM4_PCODE": "UA1806003008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hladkovytska", "ADM3_UA": "Гладковицька", "ADM3_PCODE": "UA1806003", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.82773787900004, 51.336013709000042 ], [ 28.826444335000076, 51.331035092000036 ], [ 28.837265045000038, 51.326871025000059 ], [ 28.839114, 51.334038990000067 ], [ 28.836876960000041, 51.335654040000065 ], [ 28.82773787900004, 51.336013709000042 ] ] ] } }
+]
+}

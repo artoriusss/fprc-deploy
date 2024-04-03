@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.058274125766499998, "Shape_Area": 7.6600927301499996e-05, "ADM4_EN": "Pisky-Richytski", "ADM4_UA": "Піски-Річицькі", "ADM4_PCODE": "UA0706017014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zabrodivska", "ADM3_UA": "Забродівська", "ADM3_PCODE": "UA0706017", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.668187123000052, 51.781635004000066 ], [ 24.662055125000052, 51.781448004000026 ], [ 24.656815124000047, 51.779095004000055 ], [ 24.652023126000074, 51.775558004000061 ], [ 24.651458124000044, 51.772866004000036 ], [ 24.657216124000058, 51.773265004000052 ], [ 24.665149122000059, 51.776515003000043 ], [ 24.668187123000052, 51.781635004000066 ] ] ] } }
+]
+}

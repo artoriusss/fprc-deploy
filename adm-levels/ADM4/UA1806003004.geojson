@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0191901450896, "Shape_Area": 1.19565572808e-05, "ADM4_EN": "Husarivka", "ADM4_UA": "Гусарівка", "ADM4_PCODE": "UA1806003004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hladkovytska", "ADM3_UA": "Гладковицька", "ADM3_PCODE": "UA1806003", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.019324959000073, 51.349831020000067 ], [ 29.015259841000045, 51.350092020000034 ], [ 29.013828839000041, 51.348817980000035 ], [ 29.02033584000003, 51.347338020000052 ], [ 29.019324959000073, 51.349831020000067 ] ] ] } }
+]
+}

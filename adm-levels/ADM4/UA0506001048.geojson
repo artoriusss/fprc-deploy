@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.092204182617100006, "Shape_Area": 9.2235578653700003e-05, "ADM4_EN": "Seferivka", "ADM4_UA": "Сеферівка", "ADM4_PCODE": "UA0506001048", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Barska", "ADM3_UA": "Барська", "ADM3_PCODE": "UA0506001", "ADM2_EN": "Zhmerynskyi", "ADM2_UA": "Жмеринський", "ADM2_PCODE": "UA0506", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.626297, 48.988463 ], [ 27.619551, 48.986204 ], [ 27.616181, 48.986465 ], [ 27.612447, 48.982506 ], [ 27.607888, 48.981483 ], [ 27.605411, 48.984832 ], [ 27.603173999000035, 48.983967 ], [ 27.606222, 48.978675 ], [ 27.609972, 48.978134 ], [ 27.624292, 48.985737 ], [ 27.626297, 48.988463 ] ] ] } }
+]
+}

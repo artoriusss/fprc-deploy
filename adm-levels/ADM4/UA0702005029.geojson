@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.065555308551900004, "Shape_Area": 4.4165787669600003e-05, "ADM4_EN": "Shystiv", "ADM4_UA": "Шистів", "ADM4_PCODE": "UA0702005029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zymnivska", "ADM3_UA": "Зимнівська", "ADM3_PCODE": "UA0702005", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.305339171000071, 50.82314900700004 ], [ 24.302806170000053, 50.822895005000078 ], [ 24.30179417100004, 50.815891005000026 ], [ 24.303678171000058, 50.814239006000037 ], [ 24.303083171000026, 50.80750600500005 ], [ 24.307154170000047, 50.810541006000051 ], [ 24.304120169000043, 50.816119006000065 ], [ 24.305339171000071, 50.82314900700004 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.063723358965999996, "Shape_Area": 0.00014318086183300001, "ADM4_EN": "Novyi Myr", "ADM4_UA": "Новий Мир", "ADM4_PCODE": "UA1208003009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myrivska", "ADM3_UA": "Мирівська", "ADM3_PCODE": "UA1208003", "ADM2_EN": "Nikopolskyi", "ADM2_UA": "Нікопольський", "ADM2_PCODE": "UA1208", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.799796, 47.719823 ], [ 34.80153, 47.724646 ], [ 34.799944001000028, 47.725706 ], [ 34.792383999000037, 47.721378 ], [ 34.786088, 47.719374 ], [ 34.788028, 47.711453 ], [ 34.800059999000041, 47.714571 ], [ 34.802864999000064, 47.717056 ], [ 34.799796, 47.719823 ] ] ] } }
+]
+}

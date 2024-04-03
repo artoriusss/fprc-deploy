@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.080648255407499994, "Shape_Area": 0.00019856002399600001, "ADM4_EN": "Zoriane", "ADM4_UA": "Зоряне", "ADM4_PCODE": "UA1802013015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ruzhynska", "ADM3_UA": "Ружинська", "ADM3_PCODE": "UA1802013", "ADM2_EN": "Berdychivskyi", "ADM2_UA": "Бердичівський", "ADM2_PCODE": "UA1802", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.251986840000029, 49.648752 ], [ 29.251252081000075, 49.652965980000033 ], [ 29.240596080000046, 49.657053960000042 ], [ 29.234188080000024, 49.651153020000038 ], [ 29.236179960000072, 49.647831030000077 ], [ 29.239013879000026, 49.64856597000005 ], [ 29.241201961000058, 49.644872010000029 ], [ 29.247761880000041, 49.64183397000005 ], [ 29.255265, 49.643538030000059 ], [ 29.256657840000059, 49.649951970000075 ], [ 29.251986840000029, 49.648752 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.082212682177400007, "Shape_Area": 8.3941246789799996e-05, "ADM4_EN": "Nykonorivka", "ADM4_UA": "Никонорівка", "ADM4_PCODE": "UA1412013007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykolaivska", "ADM3_UA": "Миколаївська", "ADM3_PCODE": "UA1412013", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "Краматорський", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 37.754472999000029, 48.771126 ], [ 37.748228999000048, 48.770937 ], [ 37.748128, 48.767128 ], [ 37.756894, 48.766525 ], [ 37.754472999000029, 48.771126 ] ] ], [ [ [ 37.746320999000034, 48.770913 ], [ 37.737812999000028, 48.771017 ], [ 37.734847999000067, 48.768379 ], [ 37.74086599900005, 48.766836 ], [ 37.746905, 48.768534 ], [ 37.746320999000034, 48.770913 ] ] ] ] } }
+]
+}

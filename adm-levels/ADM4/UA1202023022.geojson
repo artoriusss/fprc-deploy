@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.086907203550499995, "Shape_Area": 0.000172120730402, "ADM4_EN": "Yakymivka", "ADM4_UA": "Якимівка", "ADM4_PCODE": "UA1202023022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sviatovasylivska", "ADM3_UA": "Святовасилівська", "ADM3_PCODE": "UA1202023", "ADM2_EN": "Dniprovskyi", "ADM2_UA": "Дніпровський", "ADM2_PCODE": "UA1202", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.435609, 48.179369 ], [ 34.434456, 48.182994 ], [ 34.419633, 48.181833 ], [ 34.419419, 48.179481 ], [ 34.40577599900007, 48.177805 ], [ 34.403323, 48.172072 ], [ 34.419156, 48.173583 ], [ 34.426784001000044, 48.177585 ], [ 34.435609, 48.179369 ] ] ] } }
+]
+}

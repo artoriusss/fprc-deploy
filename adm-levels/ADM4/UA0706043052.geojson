@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.083793605176699995, "Shape_Area": 5.9938954950100002e-05, "ADM4_EN": "Chorniiv", "ADM4_UA": "Чорніїв", "ADM4_PCODE": "UA0706043052", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Turiiska", "ADM3_UA": "Турійська", "ADM3_PCODE": "UA0706043", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.682934117000059, 50.971229004000065 ], [ 24.682836117000079, 50.97225600400003 ], [ 24.670799118000048, 50.969738004000078 ], [ 24.672867119000045, 50.965926004000039 ], [ 24.679708116000029, 50.966982004000045 ], [ 24.683393117000037, 50.968881004000082 ], [ 24.682934117000059, 50.971229004000065 ] ] ] } }
+]
+}

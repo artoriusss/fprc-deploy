@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.081404981701300005, "Shape_Area": 9.7338668671099999e-05, "ADM4_EN": "Chornozemne", "ADM4_UA": "Чорноземне", "ADM4_PCODE": "UA2304019031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozdolska", "ADM3_UA": "Роздольська", "ADM3_PCODE": "UA2304019", "ADM2_EN": "Vasylivskyi", "ADM2_UA": "Василівський", "ADM2_PCODE": "UA2304", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.486782525000024, 47.362621431000036 ], [ 35.485227952000059, 47.366211024000052 ], [ 35.481454568000061, 47.363141951000046 ], [ 35.467537127000071, 47.363155060000054 ], [ 35.470451082000068, 47.360299925000049 ], [ 35.474287122000078, 47.359122450000029 ], [ 35.485985078000056, 47.361265950000075 ], [ 35.486782525000024, 47.362621431000036 ] ] ] } }
+]
+}

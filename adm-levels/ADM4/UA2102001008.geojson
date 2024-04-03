@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.076492789315400003, "Shape_Area": 9.1112613562899995e-05, "ADM4_EN": "Svoboda", "ADM4_UA": "Свобода", "ADM4_PCODE": "UA2102001008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bativska", "ADM3_UA": "Батівська", "ADM3_PCODE": "UA2102001", "ADM2_EN": "Berehivskyi", "ADM2_UA": "Берегівський", "ADM2_PCODE": "UA2102", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.369844898000053, 48.364480039000057 ], [ 22.367146902000059, 48.36507203900004 ], [ 22.367108899000073, 48.359640040000045 ], [ 22.358197907000033, 48.356875040000034 ], [ 22.361841903000027, 48.353481040000077 ], [ 22.368711899000061, 48.357617039000047 ], [ 22.379970283000034, 48.358983820000049 ], [ 22.379971031000025, 48.361916206000046 ], [ 22.370067898000059, 48.360516039000061 ], [ 22.369844898000053, 48.364480039000057 ] ] ] } }
+]
+}

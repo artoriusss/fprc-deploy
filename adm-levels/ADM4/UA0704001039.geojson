@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0611758714067, "Shape_Area": 7.7417824153000003e-05, "ADM4_EN": "Ostrivok", "ADM4_UA": "Острівок", "ADM4_PCODE": "UA0704001039", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kamin-Kashyrska", "ADM3_UA": "Камінь-Каширська", "ADM3_PCODE": "UA0704001", "ADM2_EN": "Kamin-Kashyrskyi", "ADM2_UA": "Камінь-Каширський", "ADM2_PCODE": "UA0704", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.869020099000068, 51.708812003000048 ], [ 24.865426100000036, 51.708065003000058 ], [ 24.861652100000072, 51.709424003000038 ], [ 24.864197100000069, 51.70284900300004 ], [ 24.868510099000048, 51.703384003000053 ], [ 24.872194099000069, 51.700900003000072 ], [ 24.876677098000073, 51.703811003000055 ], [ 24.867648099000064, 51.707051003000061 ], [ 24.869020099000068, 51.708812003000048 ] ] ] } }
+]
+}

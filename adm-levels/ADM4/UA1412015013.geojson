@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.041062430089500002, "Shape_Area": 4.8419640728e-05, "ADM4_EN": "Samiilivka", "ADM4_UA": "Самійлівка", "ADM4_PCODE": "UA1412015013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novodonetska", "ADM3_UA": "Новодонецька", "ADM3_PCODE": "UA1412015", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "Краматорський", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.988884, 48.587867 ], [ 36.980573, 48.592289 ], [ 36.979092, 48.589407 ], [ 36.98363499900006, 48.585688 ], [ 36.993158, 48.58594 ], [ 36.993181, 48.589798 ], [ 36.988884, 48.587867 ] ] ] } }
+]
+}

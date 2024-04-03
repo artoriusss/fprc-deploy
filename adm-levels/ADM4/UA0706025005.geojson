@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062990954699, "Shape_Area": 7.9210272738e-05, "ADM4_EN": "Kruhel", "ADM4_UA": "Кругель", "ADM4_PCODE": "UA0706025005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Liublynetska", "ADM3_UA": "Люблинецька", "ADM3_PCODE": "UA0706025", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.527113138000061, 51.264914004000047 ], [ 24.522750140000028, 51.26333700400005 ], [ 24.51691414000004, 51.263801004000072 ], [ 24.512917141000059, 51.258217004000073 ], [ 24.522542140000041, 51.259176004000039 ], [ 24.527113138000061, 51.264914004000047 ] ] ] } }
+]
+}

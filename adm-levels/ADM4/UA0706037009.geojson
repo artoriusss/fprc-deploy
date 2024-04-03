@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.073111025321799999, "Shape_Area": 0.000119636540119, "ADM4_EN": "Sokolyshche", "ADM4_UA": "Соколище", "ADM4_PCODE": "UA0706037009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Serekhovychivska", "ADM3_UA": "Сереховичівська", "ADM3_PCODE": "UA0706037", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.693416119000062, 51.471650004000026 ], [ 24.702832116000025, 51.471118003000072 ], [ 24.702613117000055, 51.474839004000046 ], [ 24.698094117000039, 51.47614700400004 ], [ 24.700776117000032, 51.479799003000039 ], [ 24.701121117000071, 51.486935003000042 ], [ 24.693034118000071, 51.486565003000067 ], [ 24.694190118000051, 51.476629004000074 ], [ 24.691972118000024, 51.472873003000075 ], [ 24.693416119000062, 51.471650004000026 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0576355534433, "Shape_Area": 0.000144252424899, "ADM4_EN": "Morozivka", "ADM4_UA": "Морозівка", "ADM4_PCODE": "UA1804005020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Brusylivska", "ADM3_UA": "Брусилівська", "ADM3_PCODE": "UA1804005", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.528705161000062, 50.242401990000076 ], [ 29.525299920000066, 50.241832020000061 ], [ 29.527089840000031, 50.23718703000003 ], [ 29.527821, 50.23010097000008 ], [ 29.53026, 50.227248960000054 ], [ 29.536985880000032, 50.230150020000053 ], [ 29.540805840000075, 50.235868980000077 ], [ 29.539971, 50.239836990000072 ], [ 29.529587880000065, 50.240214 ], [ 29.528705161000062, 50.242401990000076 ] ] ] } }
+]
+}

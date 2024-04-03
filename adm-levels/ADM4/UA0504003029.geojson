@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.088856231349199996, "Shape_Area": 0.00020104364273800001, "ADM4_EN": "Rakhnivka", "ADM4_UA": "Рахнівка", "ADM4_PCODE": "UA0504003029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Haisynska", "ADM3_UA": "Гайсинська", "ADM3_PCODE": "UA0504003", "ADM2_EN": "Haisynskyi", "ADM2_UA": "Гайсинський", "ADM2_PCODE": "UA0504", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.5397, 48.789553 ], [ 29.534682, 48.790403 ], [ 29.54749, 48.777031 ], [ 29.555135, 48.773964999000043 ], [ 29.558673, 48.779251999000053 ], [ 29.562345, 48.779287 ], [ 29.560945, 48.783871 ], [ 29.553658001000031, 48.784491 ], [ 29.552303, 48.787248 ], [ 29.54776, 48.787568 ], [ 29.5397, 48.789553 ] ] ] } }
+]
+}

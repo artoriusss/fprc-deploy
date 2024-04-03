@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.096076092793599993, "Shape_Area": 0.000245340893302, "ADM4_EN": "Zarichany", "ADM4_UA": "Зарічани", "ADM4_PCODE": "UA1804049005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stanyshivska", "ADM3_UA": "Станишівська", "ADM3_PCODE": "UA1804049", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.635642747000077, 50.235621391000052 ], [ 28.632245040000043, 50.234865030000037 ], [ 28.634506920000035, 50.225902020000035 ], [ 28.659260880000033, 50.226811020000071 ], [ 28.664831160000062, 50.228964990000065 ], [ 28.646951040000033, 50.235446971000044 ], [ 28.638412540000047, 50.23781406300003 ], [ 28.636816285000066, 50.236426947000041 ], [ 28.635642747000077, 50.235621391000052 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.038965603420499997, "Shape_Area": 9.0369080236499995e-05, "ADM4_EN": "Prokhorivka", "ADM4_UA": "Прохорівка", "ADM4_PCODE": "UA1404003018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Volnovaska", "ADM3_UA": "Волноваська", "ADM3_PCODE": "UA1404003", "ADM2_EN": "Volnovaskyi", "ADM2_UA": "Волноваський", "ADM2_PCODE": "UA1404", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.674677999000039, 47.534077 ], [ 37.666103999000029, 47.531963 ], [ 37.666386001000035, 47.527641999000025 ], [ 37.668973999000059, 47.524834 ], [ 37.675603999000032, 47.521831999000028 ], [ 37.676723999000046, 47.526966 ], [ 37.674677999000039, 47.534077 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0551524804654, "Shape_Area": 0.000133962188501, "ADM4_EN": "Boriatyn", "ADM4_UA": "Борятин", "ADM4_PCODE": "UA1804047004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Romanivska", "ADM3_UA": "Романівська", "ADM3_PCODE": "UA1804047", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.117071, 50.147354970000038 ], [ 28.117902155000024, 50.150021591000041 ], [ 28.109247026000048, 50.154694304000031 ], [ 28.108291988000076, 50.15221637500008 ], [ 28.10443212000007, 50.152021020000063 ], [ 28.102468545000079, 50.149532751000038 ], [ 28.107240253000043, 50.143541007000067 ], [ 28.107090462000031, 50.140609543000039 ], [ 28.113844827000037, 50.140497359000051 ], [ 28.116717840000035, 50.143803030000072 ], [ 28.117071, 50.147354970000038 ] ] ] } }
+]
+}

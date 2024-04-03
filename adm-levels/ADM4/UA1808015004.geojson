@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.071999345023600003, "Shape_Area": 0.00018325526750500001, "ADM4_EN": "Borysivka", "ADM4_UA": "Борисівка", "ADM4_PCODE": "UA1808015004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zviahelska", "ADM3_UA": "Звягельська", "ADM3_PCODE": "UA1808015", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.358176185000048, 50.574056252000048 ], [ 27.358453392000058, 50.575380496000037 ], [ 27.344558241000072, 50.574314335000054 ], [ 27.346693416000051, 50.571839072000046 ], [ 27.344090855000047, 50.565893328000072 ], [ 27.346125709000034, 50.564095345000055 ], [ 27.354760508000027, 50.561611194000079 ], [ 27.360979493000059, 50.561393260000045 ], [ 27.360465120000072, 50.571266040000069 ], [ 27.358176185000048, 50.574056252000048 ] ] ] } }
+]
+}

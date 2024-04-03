@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070169127903700002, "Shape_Area": 7.9278489964600002e-05, "ADM4_EN": "Ukrainka", "ADM4_UA": "Українка", "ADM4_PCODE": "UA1214015029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mezhivska", "ADM3_UA": "Межівська", "ADM3_PCODE": "UA1214015", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.75755299900004, 48.308232 ], [ 36.757672999000079, 48.303903 ], [ 36.76073, 48.302289 ], [ 36.761839, 48.297164 ], [ 36.766353001000027, 48.297059 ], [ 36.766474999000025, 48.303949 ], [ 36.759503, 48.304997 ], [ 36.75755299900004, 48.308232 ] ] ] } }
+]
+}

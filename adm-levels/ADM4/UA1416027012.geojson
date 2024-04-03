@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.046879260155199998, "Shape_Area": 3.5982255873699997e-05, "ADM4_EN": "Marivka", "ADM4_UA": "Мар'ївка", "ADM4_PCODE": "UA1416027012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shakhivska", "ADM3_UA": "Шахівська", "ADM3_PCODE": "UA1416027", "ADM2_EN": "Pokrovskyi", "ADM2_UA": "Покровський", "ADM2_PCODE": "UA1416", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.161741, 48.568857 ], [ 37.162867, 48.564022 ], [ 37.169532999000069, 48.5634 ], [ 37.170656, 48.565726 ], [ 37.163838999000063, 48.56728 ], [ 37.161741, 48.568857 ] ] ] } }
+]
+}

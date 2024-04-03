@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057765534945499998, "Shape_Area": 0.000116072500247, "ADM4_EN": "Novoulianovka", "ADM4_UA": "Новоульяновка", "ADM4_PCODE": "UA0108043004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mizhvodnenska", "ADM3_UA": "Міжводненська", "ADM3_PCODE": "UA0108043", "ADM2_EN": "Yevpatoriiskyi", "ADM2_UA": "Євпаторійський", "ADM2_PCODE": "UA0108", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.945152, 45.580693 ], [ 32.941462999000066, 45.583782 ], [ 32.937071, 45.579518 ], [ 32.941202, 45.577125 ], [ 32.94207, 45.569231 ], [ 32.949412, 45.57436 ], [ 32.953949999000031, 45.57946 ], [ 32.945152, 45.580693 ] ] ] } }
+]
+}
