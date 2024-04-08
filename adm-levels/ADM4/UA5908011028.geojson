@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.106011858451, "Shape_Area": 0.000104951004486, "ADM4_EN": "Hryntseve", "ADM4_UA": "Гринцеве", "ADM4_PCODE": "UA5908011028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lebedynska", "ADM3_UA": "Лебединська", "ADM3_PCODE": "UA5908011", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.253828001000045, 50.772831 ], [ 34.252785, 50.765803 ], [ 34.240802001000077, 50.763196 ], [ 34.241641999000024, 50.76166 ], [ 34.253639, 50.764698 ], [ 34.257189, 50.761189 ], [ 34.262521, 50.766286 ], [ 34.261422, 50.76913 ], [ 34.257161, 50.768475 ], [ 34.253828001000045, 50.772831 ] ] ] } }
+]
+}

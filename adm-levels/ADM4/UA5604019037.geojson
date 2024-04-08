@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.067458013607199996, "Shape_Area": 0.00025316056742600001, "ADM4_EN": "Tereshiv", "ADM4_UA": "Терешів", "ADM4_PCODE": "UA5604019037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mlynivska", "ADM3_UA": "Млинівська", "ADM3_PCODE": "UA5604019", "ADM2_EN": "Dubenskyi", "ADM2_UA": "Дубенський", "ADM2_PCODE": "UA5604", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.678077121000058, 50.619226950000041 ], [ 25.687413, 50.615779050000071 ], [ 25.696663919000059, 50.625512010000079 ], [ 25.695752040000059, 50.631860970000048 ], [ 25.690017961000024, 50.630270940000059 ], [ 25.674996960000044, 50.632089030000031 ], [ 25.675484039000025, 50.622325020000062 ], [ 25.678077121000058, 50.619226950000041 ] ] ] } }
+]
+}

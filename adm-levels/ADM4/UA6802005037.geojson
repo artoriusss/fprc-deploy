@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.077006246580099996, "Shape_Area": 0.00015497863436699999, "ADM4_EN": "Rakhnivka", "ADM4_UA": "Рахнівка", "ADM4_PCODE": "UA6802005037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dunaievetska", "ADM3_UA": "Дунаєвецька", "ADM3_PCODE": "UA6802005", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.818792, 48.821922 ], [ 26.810563001000048, 48.824050001000046 ], [ 26.794291, 48.830413 ], [ 26.791652001000045, 48.827498 ], [ 26.797213, 48.822494 ], [ 26.800853, 48.821066 ], [ 26.807600999000044, 48.820693 ], [ 26.815158001000043, 48.816394 ], [ 26.816997, 48.81622 ], [ 26.818792, 48.821922 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.028264960780200001, "Shape_Area": 2.6163856703699999e-05, "ADM4_EN": "Dobrozhanove", "ADM4_UA": "Доброжанове", "ADM4_PCODE": "UA5110009005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vyhodianska", "ADM3_UA": "Вигодянська", "ADM3_PCODE": "UA5110009", "ADM2_EN": "Odeskyi", "ADM2_UA": "Одеський", "ADM2_PCODE": "UA5110", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.334551001000079, 46.542431 ], [ 30.331292001000065, 46.541921 ], [ 30.335426999000049, 46.532838 ], [ 30.33800799900007, 46.53387 ], [ 30.335605999000052, 46.53762 ], [ 30.334551001000079, 46.542431 ] ] ] } }
+]
+}

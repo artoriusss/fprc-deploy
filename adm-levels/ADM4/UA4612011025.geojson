@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.046568462926600003, "Shape_Area": 8.6718994721399995e-05, "ADM4_EN": "Leshchativ", "ADM4_UA": "Лещатів", "ADM4_PCODE": "UA4612011025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sokalska", "ADM3_UA": "Сокальська", "ADM3_PCODE": "UA4612011", "ADM2_EN": "Chervonohradskyi", "ADM2_UA": "Червоноградський", "ADM2_PCODE": "UA4612", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.497086138000043, 50.49078800500007 ], [ 24.485796141000037, 50.487778005000052 ], [ 24.486477139000044, 50.485320005000062 ], [ 24.490156139000078, 50.483719005000069 ], [ 24.500502138000058, 50.483171004000042 ], [ 24.501215138000077, 50.488818005000041 ], [ 24.497086138000043, 50.49078800500007 ] ] ] } }
+]
+}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.031376344719799998, "Shape_Area": 4.7011420786600003e-05, "ADM4_EN": "Yurivka", "ADM4_UA": "Ð®Ñ'ÑÐ²ÐºÐ°", "ADM4_RU": "Ð®ÑÑÐµÐ²ÐºÐ°", "ADM4_PCODE": "UA4804017025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novomarivska", "ADM3_UA": "ÐÐ¾Ð²Ð¾Ð¼Ð°Ñ'ÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¾Ð²Ð¾Ð¼Ð°ÑÑÐµÐ²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA4804017", "ADM2_EN": "Voznesenskyi", "ADM2_UA": "ÐÐ¾Ð·Ð½ÐµÑÐµÐ½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¾Ð·Ð½ÐµÑÐµÐ½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA4804", "ADM1_EN": "Mykolaivska", "ADM1_UA": "ÐÐ¸ÐºÐ¾Ð»Ð°ÑÐ²ÑÑÐºÐ°", "ADM1_RU": "ÐÐ¸ÐºÐ¾Ð»Ð°ÐµÐ²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.684673510000039, 47.986700975000076 ], [ 31.674322971000038, 47.985320768000065 ], [ 31.673050538000041, 47.989327637000031 ], [ 31.680079061000072, 47.990336679000052 ], [ 31.679806715000041, 47.99128539700007 ], [ 31.682946906000041, 47.991868762000081 ], [ 31.684673510000039, 47.986700975000076 ] ] ] } }
-]
-}

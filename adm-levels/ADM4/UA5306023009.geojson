@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0452373021704, "Shape_Area": 5.4254511825400001e-05, "ADM4_EN": "Derkachi", "ADM4_UA": "Деркачі", "ADM4_PCODE": "UA5306023009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myrhorodska", "ADM3_UA": "Миргородська", "ADM3_PCODE": "UA5306023", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.566865, 50.032528 ], [ 33.562170663000074, 50.032805274000054 ], [ 33.566165774000069, 50.027723769000033 ], [ 33.565561, 50.024269 ], [ 33.568535001000043, 50.022988 ], [ 33.571425, 50.027248 ], [ 33.570747, 50.029547 ], [ 33.566865, 50.032528 ] ] ] } }
+]
+}

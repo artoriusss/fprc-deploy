@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0524010769184, "Shape_Area": 6.9163356595400006e-05, "ADM4_EN": "Krasnoselivka", "ADM4_UA": "Красноселівка", "ADM4_PCODE": "UA2310029005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Fedorivska", "ADM3_UA": "Федорівська", "ADM3_PCODE": "UA2310029", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.564575784000056, 47.619810714000039 ], [ 36.560968615000036, 47.617254708000075 ], [ 36.563748997000062, 47.612064263000036 ], [ 36.569015602000036, 47.607653345000074 ], [ 36.57224797300006, 47.60903726600003 ], [ 36.568851621000078, 47.612599829000033 ], [ 36.573440162000054, 47.613404851000041 ], [ 36.573090807000028, 47.617246987000044 ], [ 36.566717357000073, 47.615841586000045 ], [ 36.564575784000056, 47.619810714000039 ] ] ] } }
+]
+}

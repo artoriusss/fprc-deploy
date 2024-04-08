@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0229886349393, "Shape_Area": 2.8752920616600001e-05, "ADM4_EN": "Novomykhailivka", "ADM4_UA": "ÐÐ¾Ð²Ð¾Ð¼Ð¸ÑÐ°Ð¹Ð»ÑÐ²ÐºÐ°", "ADM4_RU": "ÐÐ¾Ð²Ð¾Ð¼Ð¸ÑÐ°Ð¹Ð»Ð¾Ð²ÐºÐ°", "ADM4_PCODE": "UA1208013022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tomakivska", "ADM3_UA": "Ð¢Ð¾Ð¼Ð°ÐºÑÐ²ÑÑÐºÐ°", "ADM3_RU": "Ð¢Ð¾Ð¼Ð°Ð½Ð¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA1208013", "ADM2_EN": "Nikopolskyi", "ADM2_UA": "ÐÑÐºÐ¾Ð¿Ð¾Ð»ÑÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¸ÐºÐ¾Ð¿Ð¾Ð»ÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA1208", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "ÐÐ½ÑÐ¿ÑÐ¾Ð¿ÐµÑÑÐ¾Ð²ÑÑÐºÐ°", "ADM1_RU": "ÐÐ½ÐµÐ¿ÑÐ¾Ð¿ÐµÑÑÐ¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.90831200100007, 47.757943 ], [ 34.909874, 47.751973 ], [ 34.910251, 47.750533 ], [ 34.908435999000062, 47.75031 ], [ 34.906506999000044, 47.750073 ], [ 34.906132, 47.75153 ], [ 34.904566001000035, 47.757619 ], [ 34.905467001000034, 47.75773 ], [ 34.905736001000037, 47.757703 ], [ 34.906455, 47.757764 ], [ 34.90831200100007, 47.757943 ] ] ] } }
-]
-}

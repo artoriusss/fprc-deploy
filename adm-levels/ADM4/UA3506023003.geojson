@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.088393982519700001, "Shape_Area": 0.00015837840483, "ADM4_EN": "Berezivka", "ADM4_UA": "Березівка", "ADM4_PCODE": "UA3506023003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Smolinska", "ADM3_UA": "Смолінська", "ADM3_PCODE": "UA3506023", "ADM2_EN": "Novoukrainskyi", "ADM2_UA": "Новоукраїнський", "ADM2_PCODE": "UA3506", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.269227, 48.611848 ], [ 31.268143531000078, 48.613458821000052 ], [ 31.258495845000027, 48.611669541000026 ], [ 31.253460742000073, 48.612415148000082 ], [ 31.252784891000033, 48.608055790000037 ], [ 31.256495341000061, 48.606776488000037 ], [ 31.259030515000063, 48.603630075000069 ], [ 31.264309001000072, 48.605191 ], [ 31.267568999000048, 48.602746 ], [ 31.273910332000071, 48.604881470000066 ], [ 31.273016999000049, 48.607709 ], [ 31.269778, 48.608061 ], [ 31.269227, 48.611848 ] ] ] } }
+]
+}

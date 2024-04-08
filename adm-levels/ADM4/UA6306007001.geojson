@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.145735414595, "Shape_Area": 0.00029406327865900002, "ADM4_EN": "Natalyne", "ADM4_UA": "Наталине", "ADM4_PCODE": "UA6306007001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Natalynska", "ADM3_UA": "Наталинська", "ADM3_PCODE": "UA6306007", "ADM2_EN": "Krasnohradskyi", "ADM2_UA": "Красноградський", "ADM2_PCODE": "UA6306", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.473834999000076, 49.351883 ], [ 35.469401, 49.353561 ], [ 35.462739, 49.349746 ], [ 35.466535, 49.347575 ], [ 35.465786999000045, 49.342981 ], [ 35.463116, 49.339399 ], [ 35.464058, 49.33742 ], [ 35.47625799900004, 49.342668 ], [ 35.479122999000026, 49.339149 ], [ 35.484674, 49.337919 ], [ 35.488995, 49.340634 ], [ 35.494102, 49.340629 ], [ 35.487271, 49.345961 ], [ 35.485301999000058, 49.35012 ], [ 35.478337, 49.35025 ], [ 35.473834999000076, 49.351883 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.046480624570699999, "Shape_Area": 0.000106467027048, "ADM4_EN": "Hirzhove", "ADM4_UA": "Гіржове", "ADM4_PCODE": "UA5114001008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykomykhailivska", "ADM3_UA": "Великомихайлівська", "ADM3_PCODE": "UA5114001", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.82105800100004, 47.102555 ], [ 29.81652, 47.109801 ], [ 29.806204001000026, 47.104662 ], [ 29.808719, 47.101754 ], [ 29.813884, 47.100288 ], [ 29.817915, 47.097492 ], [ 29.823238, 47.099065 ], [ 29.82105800100004, 47.102555 ] ] ] } }
+]
+}

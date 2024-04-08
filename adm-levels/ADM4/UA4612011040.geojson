@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.049559414213000003, "Shape_Area": 4.3899799220300002e-05, "ADM4_EN": "Roiatyn", "ADM4_UA": "Роятин", "ADM4_PCODE": "UA4612011040", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sokalska", "ADM3_UA": "Сокальська", "ADM3_PCODE": "UA4612011", "ADM2_EN": "Chervonohradskyi", "ADM2_UA": "Червоноградський", "ADM2_PCODE": "UA4612", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.405329151000046, 50.529212004000044 ], [ 24.403802152000026, 50.531057005000036 ], [ 24.397930154000051, 50.532039005000058 ], [ 24.395123155000078, 50.534304005000081 ], [ 24.391559154000049, 50.530425005000041 ], [ 24.398504153000033, 50.529344005000041 ], [ 24.405329151000046, 50.529212004000044 ] ] ] } }
+]
+}

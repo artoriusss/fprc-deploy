@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10936596602, "Shape_Area": 0.000404866714551, "ADM4_EN": "Kadubivtsi", "ADM4_UA": "Кадубівці", "ADM4_PCODE": "UA7306021001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kadubovetska", "ADM3_UA": "Кадубовецька", "ADM3_PCODE": "UA7306021", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.770076910000057, 48.592171058000076 ], [ 25.766666001000033, 48.591152 ], [ 25.763014001000045, 48.592225 ], [ 25.756559, 48.588443 ], [ 25.754183999000077, 48.583215 ], [ 25.75814, 48.579296 ], [ 25.76287, 48.577525 ], [ 25.768623, 48.572428 ], [ 25.776335, 48.569558 ], [ 25.78204, 48.571136 ], [ 25.785690001000034, 48.576806 ], [ 25.780577999000059, 48.578458 ], [ 25.782223, 48.581534 ], [ 25.776929, 48.586925 ], [ 25.770076910000057, 48.592171058000076 ] ] ] } }
+]
+}

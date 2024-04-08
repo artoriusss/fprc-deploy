@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.085138157289499999, "Shape_Area": 0.00012174785102100001, "ADM4_EN": "Vytkivtsi", "ADM4_UA": "Витківці", "ADM4_PCODE": "UA6104015005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zbarazka", "ADM3_UA": "Збаразька", "ADM3_PCODE": "UA6104015", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.69334438900006, 49.784428886000057 ], [ 25.692890341000066, 49.782481835000056 ], [ 25.699301837000064, 49.780706228000042 ], [ 25.691401121000069, 49.77312489600007 ], [ 25.692271937000044, 49.771591081000054 ], [ 25.699499508000031, 49.773472318000074 ], [ 25.709705285000041, 49.773585729000047 ], [ 25.709029310000062, 49.777524166000035 ], [ 25.70002977300004, 49.782943519000071 ], [ 25.69334438900006, 49.784428886000057 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.075035793250200003, "Shape_Area": 0.00012886609204500001, "ADM4_EN": "Illiriia", "ADM4_UA": "Іллірія", "ADM4_PCODE": "UA4406003014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lutuhynska", "ADM3_UA": "Лутугинська", "ADM3_PCODE": "UA4406003", "ADM2_EN": "Luhanskyi", "ADM2_UA": "Луганський", "ADM2_PCODE": "UA4406", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.993475999000054, 48.408433 ], [ 38.991919, 48.406804 ], [ 38.985036, 48.409217 ], [ 38.982892, 48.401519 ], [ 38.984404, 48.398224 ], [ 38.987752, 48.400851 ], [ 39.001689999000064, 48.40027 ], [ 39.003585999000052, 48.398069 ], [ 39.007194, 48.399838 ], [ 38.999302, 48.403146 ], [ 38.996744, 48.405328 ], [ 38.996785001000035, 48.408565 ], [ 38.993475999000054, 48.408433 ] ] ] } }
+]
+}

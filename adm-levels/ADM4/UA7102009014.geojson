@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0368534345057, "Shape_Area": 3.4935339182000002e-05, "ADM4_EN": "Oleksandrivka", "ADM4_UA": "Олександрівка", "ADM4_PCODE": "UA7102009014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vodianytska", "ADM3_UA": "Водяницька", "ADM3_PCODE": "UA7102009", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.851834306000057, 49.162077424000074 ], [ 30.848725173000048, 49.160705609000047 ], [ 30.847655102000033, 49.164508549000061 ], [ 30.844001742000046, 49.164889688000073 ], [ 30.843970639000077, 49.160557034000078 ], [ 30.848098599000025, 49.158908429000064 ], [ 30.853968020000025, 49.158683108000048 ], [ 30.851834306000057, 49.162077424000074 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.098882047203099996, "Shape_Area": 0.00015769540363, "ADM4_EN": "Nenkovychi", "ADM4_UA": "Неньковичі", "ADM4_PCODE": "UA5602007020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zarichnenska", "ADM3_UA": "Зарічненська", "ADM3_PCODE": "UA5602007", "ADM2_EN": "Varaskyi", "ADM2_UA": "Вараський", "ADM2_PCODE": "UA5602", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.097644880000075, 51.879086010000037 ], [ 26.096717881000075, 51.882631020000076 ], [ 26.08596, 51.87755997000005 ], [ 26.084471040000039, 51.878996010000037 ], [ 26.075451960000066, 51.877723050000043 ], [ 26.06616396000004, 51.873768 ], [ 26.069138999000074, 51.869515050000075 ], [ 26.076768120000054, 51.871552020000081 ], [ 26.091051120000031, 51.87658698000007 ], [ 26.097126119000052, 51.876823050000041 ], [ 26.097644880000075, 51.879086010000037 ] ] ] } }
+]
+}

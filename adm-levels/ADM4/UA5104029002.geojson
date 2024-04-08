@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.114990521843, "Shape_Area": 0.00024831261510100002, "ADM4_EN": "Zabary", "ADM4_UA": "Забари", "ADM4_PCODE": "UA5104029002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Uspenivska", "ADM3_UA": "Успенівська", "ADM3_PCODE": "UA5104029", "ADM2_EN": "Bilhorod-Dnistrovskyi", "ADM2_UA": "Білгород-Дністровський", "ADM2_PCODE": "UA5104", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.74843, 46.312105 ], [ 29.744206, 46.315854 ], [ 29.739738001000035, 46.312812 ], [ 29.743747001000031, 46.306007 ], [ 29.741618, 46.303368 ], [ 29.744709, 46.299628 ], [ 29.746547, 46.300438 ], [ 29.763494299000058, 46.293415010000047 ], [ 29.763183999000034, 46.296612 ], [ 29.767302, 46.299533 ], [ 29.754542001000061, 46.304924 ], [ 29.74843, 46.312105 ] ] ] } }
+]
+}

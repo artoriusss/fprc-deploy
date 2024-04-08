@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.100806760271, "Shape_Area": 7.3368829296400004e-05, "ADM4_EN": "Kolodna", "ADM4_UA": "Колодна", "ADM4_PCODE": "UA5304007011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Orzhytska", "ADM3_UA": "Оржицька", "ADM3_PCODE": "UA5304007", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.931409, 49.856467 ], [ 32.929773001000058, 49.857365 ], [ 32.917525999000077, 49.852491 ], [ 32.906329, 49.848734 ], [ 32.908516, 49.847617 ], [ 32.927604, 49.854171 ], [ 32.931409, 49.856467 ] ] ] } }
+]
+}

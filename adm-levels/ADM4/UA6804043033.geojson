@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.108670536311, "Shape_Area": 0.000142309075139, "ADM4_EN": "Pyshky", "ADM4_UA": "Пишки", "ADM4_PCODE": "UA6804043033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starosyniavska", "ADM3_UA": "Старосинявська", "ADM3_PCODE": "UA6804043", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.677307, 49.784632 ], [ 27.677262962000043, 49.780241014000069 ], [ 27.674226, 49.774102001000074 ], [ 27.671942, 49.77491 ], [ 27.665817, 49.769721 ], [ 27.67006, 49.764424 ], [ 27.67530399900005, 49.771211 ], [ 27.67938698200004, 49.773826988000053 ], [ 27.681028960000049, 49.778478001000053 ], [ 27.680393160000051, 49.783060980000073 ], [ 27.677307, 49.784632 ] ] ] } }
+]
+}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.00538917761746, "Shape_Area": 1.48411453452e-06, "ADM4_EN": "Novoslobidske", "ADM4_UA": "ÐÐ¾Ð²Ð¾ÑÐ»Ð¾Ð±ÑÐ´ÑÑÐºÐµ", "ADM4_RU": "ÐÐ¾Ð²Ð¾ÑÐ»Ð¾Ð±Ð¾Ð´ÑÐºÐ¾Ðµ", "ADM4_PCODE": "UA5902011036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoslobidska", "ADM3_UA": "ÐÐ¾Ð²Ð¾ÑÐ»Ð¾Ð±ÑÐ´ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¾Ð²Ð¾ÑÐ»Ð¾Ð±Ð¾Ð´ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5902011", "ADM2_EN": "Konotopskyi", "ADM2_UA": "ÐÐ¾Ð½Ð¾ÑÐ¾Ð¿ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¾Ð½Ð¾ÑÐ¾Ð¿ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5902", "ADM1_EN": "Sumska", "ADM1_UA": "Ð¡ÑÐ¼ÑÑÐºÐ°", "ADM1_RU": "Ð¡ÑÐ¼ÑÐºÐ°Ñ", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.941033999000069, 51.360509 ], [ 33.940505001000076, 51.359906 ], [ 33.938772, 51.360607 ], [ 33.939084, 51.361152 ], [ 33.940786, 51.360739 ], [ 33.941033999000069, 51.360509 ] ] ] } }
-]
-}

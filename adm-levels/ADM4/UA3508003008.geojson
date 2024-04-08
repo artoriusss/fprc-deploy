@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070807242749099997, "Shape_Area": 0.0001193671751, "ADM4_EN": "Troianka", "ADM4_UA": "Троянка", "ADM4_PCODE": "UA3508003008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoprazka", "ADM3_UA": "Новопразька", "ADM3_PCODE": "UA3508003", "ADM2_EN": "Oleksandriiskyi", "ADM2_UA": "Олександрійський", "ADM2_PCODE": "UA3508", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.759656675000031, 48.658748997000032 ], [ 32.763608767000051, 48.656560196000044 ], [ 32.767947709000055, 48.651745621000032 ], [ 32.782988, 48.643115 ], [ 32.785399, 48.644708 ], [ 32.783159999000077, 48.648481 ], [ 32.782397999000068, 48.653216 ], [ 32.774477, 48.652899 ], [ 32.769493, 48.654414 ], [ 32.761615, 48.660536 ], [ 32.759656675000031, 48.658748997000032 ] ] ] } }
+]
+}

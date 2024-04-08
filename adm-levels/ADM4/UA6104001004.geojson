@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.072848050236700004, "Shape_Area": 0.00016908607326700001, "ADM4_EN": "Hai-Shevchenkivski", "ADM4_UA": "Гаї-Шевченківські", "ADM4_PCODE": "UA6104001004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Baikovetska", "ADM3_UA": "Байковецька", "ADM3_PCODE": "UA6104001", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.630338, 49.603476 ], [ 25.625968669000031, 49.603556907000041 ], [ 25.621162765000065, 49.588058415000035 ], [ 25.633439277000036, 49.582788383000036 ], [ 25.62839131800007, 49.588174071000026 ], [ 25.632032999000046, 49.592691999000067 ], [ 25.635985001000051, 49.602706 ], [ 25.630338, 49.603476 ] ] ] } }
+]
+}

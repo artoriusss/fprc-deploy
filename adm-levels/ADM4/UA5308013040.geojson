@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.14707660374699999, "Shape_Area": 0.000548834572556, "ADM4_EN": "Orlyk", "ADM4_UA": "Орлик", "ADM4_PCODE": "UA5308013040", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kobeliatska", "ADM3_UA": "Кобеляцька", "ADM3_PCODE": "UA5308013", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.229221, 48.871213 ], [ 34.227344, 48.874608 ], [ 34.220018999000047, 48.862707 ], [ 34.216902999000069, 48.86034 ], [ 34.211780001000079, 48.859363 ], [ 34.208224999000038, 48.860474 ], [ 34.206944999000029, 48.857358 ], [ 34.213953, 48.852152 ], [ 34.230637999000066, 48.84995 ], [ 34.246369, 48.848426 ], [ 34.247088, 48.851902 ], [ 34.242637, 48.852257 ], [ 34.246017, 48.866071 ], [ 34.239176, 48.866246 ], [ 34.227332, 48.867706 ], [ 34.229221, 48.871213 ] ] ] } }
+]
+}

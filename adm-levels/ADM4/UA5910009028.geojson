@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0418060050985, "Shape_Area": 4.86536125747e-05, "ADM4_EN": "Chetvertakove", "ADM4_UA": "Четвертакове", "ADM4_PCODE": "UA5910009028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Znob-Novhorodska", "ADM3_UA": "Зноб-Новгородська", "ADM3_PCODE": "UA5910009", "ADM2_EN": "Shostkynskyi", "ADM2_UA": "Шосткинський", "ADM2_PCODE": "UA5910", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.528449, 52.237538 ], [ 33.527052, 52.2283 ], [ 33.53169, 52.227531 ], [ 33.533722999000076, 52.230657 ], [ 33.531457, 52.237455 ], [ 33.528449, 52.237538 ] ] ] } }
+]
+}

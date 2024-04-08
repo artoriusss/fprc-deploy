@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.094616128785699999, "Shape_Area": 0.000124142660601, "ADM4_EN": "Shustivtsi", "ADM4_UA": "Шустівці", "ADM4_PCODE": "UA6802021017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Orynynska", "ADM3_UA": "Орининська", "ADM3_PCODE": "UA6802021", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.248359, 48.692643 ], [ 26.244931001000054, 48.690253 ], [ 26.240137, 48.688871 ], [ 26.2402, 48.68651 ], [ 26.234790001000079, 48.681998 ], [ 26.24486, 48.684208 ], [ 26.245812047000072, 48.681998383000064 ], [ 26.24296, 48.675558 ], [ 26.245796, 48.675133 ], [ 26.247211, 48.679217 ], [ 26.249981, 48.681578 ], [ 26.248154, 48.686033 ], [ 26.248359, 48.692643 ] ] ] } }
+]
+}

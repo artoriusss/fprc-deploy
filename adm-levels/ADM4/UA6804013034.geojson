@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.097828556755500007, "Shape_Area": 0.00034950499367199998, "ADM4_EN": "Pidlisnyi Oleksynets", "ADM4_UA": "Підлісний Олексинець", "ADM4_PCODE": "UA6804013034", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodotska", "ADM3_UA": "Городоцька", "ADM3_PCODE": "UA6804013", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.706427001000066, 49.242555 ], [ 26.699740001000066, 49.244763 ], [ 26.695324, 49.243271 ], [ 26.690069, 49.238226 ], [ 26.685917, 49.239033 ], [ 26.685570001000031, 49.233694 ], [ 26.682421, 49.232758 ], [ 26.687037001000078, 49.226947 ], [ 26.697237, 49.230858 ], [ 26.704786, 49.231004 ], [ 26.706008999000062, 49.232517 ], [ 26.713033, 49.232967 ], [ 26.719162999000048, 49.237913 ], [ 26.715951, 49.240272 ], [ 26.708691, 49.242707 ], [ 26.706427001000066, 49.242555 ] ] ] } }
+]
+}

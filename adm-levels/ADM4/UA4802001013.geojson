@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.069978788798399999, "Shape_Area": 0.00028763247598199998, "ADM4_EN": "Novopavlivka", "ADM4_UA": "Новопавлівка", "ADM4_PCODE": "UA4802001013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bashtanska", "ADM3_UA": "Баштанська", "ADM3_PCODE": "UA4802001", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.603524937000032, 47.435357212000042 ], [ 32.585930259000065, 47.43377195100004 ], [ 32.590568260000055, 47.417315657000074 ], [ 32.607257746000073, 47.419201731000044 ], [ 32.603524937000032, 47.435357212000042 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.097773899466900002, "Shape_Area": 0.000170237221171, "ADM4_EN": "Domakha", "ADM4_UA": "Домаха", "ADM4_PCODE": "UA6310005025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lozivska", "ADM3_UA": "Лозівська", "ADM3_PCODE": "UA6310005", "ADM2_EN": "Lozivskyi", "ADM2_UA": "Лозівський", "ADM2_PCODE": "UA6310", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.299472999000045, 48.867022 ], [ 36.29002, 48.868941 ], [ 36.289589999000043, 48.864032 ], [ 36.286523999000053, 48.864581 ], [ 36.281181, 48.862383 ], [ 36.289598, 48.859145 ], [ 36.291941, 48.863011 ], [ 36.298197, 48.85809 ], [ 36.298201, 48.855825 ], [ 36.303906, 48.853328 ], [ 36.310639, 48.862316 ], [ 36.299858, 48.86369 ], [ 36.299472999000045, 48.867022 ] ] ] } }
+]
+}

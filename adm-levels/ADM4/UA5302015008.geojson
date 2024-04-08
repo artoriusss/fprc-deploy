@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.12606455514000001, "Shape_Area": 0.00062259393238299997, "ADM4_EN": "Ivanivka", "ADM4_UA": "Іванівка", "ADM4_PCODE": "UA5302015008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Obolonska", "ADM3_UA": "Оболонська", "ADM3_PCODE": "UA5302015", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.826847907000058, 49.524676455000076 ], [ 32.848102, 49.519364 ], [ 32.863062, 49.535722 ], [ 32.865172999000038, 49.540454 ], [ 32.860415, 49.541965 ], [ 32.86214, 49.546656 ], [ 32.858549, 49.5487 ], [ 32.850448, 49.548265 ], [ 32.848157, 49.544938 ], [ 32.844737001000055, 49.543626 ], [ 32.844194, 49.538306 ], [ 32.830266608000045, 49.537985804000073 ], [ 32.832131841000034, 49.531702793000079 ], [ 32.826847907000058, 49.524676455000076 ] ] ] } }
+]
+}

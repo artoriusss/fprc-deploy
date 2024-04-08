@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.041543293084899999, "Shape_Area": 3.5935464840099999e-05, "ADM4_EN": "Bubereve", "ADM4_UA": "ÐÑÐ±ÐµÑÐµÐ²Ðµ", "ADM4_RU": "ÐÑÐ±ÐµÑÐµÐ²Ð¾", "ADM4_PCODE": "UA5304011009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khorolska", "ADM3_UA": "Ð¥Ð¾ÑÐ¾Ð»ÑÑÑÐºÐ°", "ADM3_RU": "Ð¥Ð¾ÑÐ¾Ð»ÑÑÐºÐ°Ñ", "ADM3_PCODE": "UA5304011", "ADM2_EN": "Lubenskyi", "ADM2_UA": "ÐÑÐ±ÐµÐ½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÑÐ±ÐµÐ½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "ÐÐ¾Ð»ÑÐ°Ð²ÑÑÐºÐ°", "ADM1_RU": "ÐÐ¾Ð»ÑÐ°Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.529717, 49.814252 ], [ 33.529222001000051, 49.813411 ], [ 33.514741418000028, 49.819283977000055 ], [ 33.511461039000039, 49.820293102000051 ], [ 33.512888167000028, 49.821817915000054 ], [ 33.514652, 49.821574 ], [ 33.523393, 49.818137 ], [ 33.523933, 49.817743 ], [ 33.525793253000074, 49.81698861700005 ], [ 33.527785137000023, 49.815603449000037 ], [ 33.527365377000024, 49.815123455000048 ], [ 33.529717, 49.814252 ] ] ] } }
-]
-}

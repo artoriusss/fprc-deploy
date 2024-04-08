@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.078632871872800006, "Shape_Area": 0.00019057026983700001, "ADM4_EN": "Kynakhivtsi", "ADM4_UA": "Кинахівці", "ADM4_PCODE": "UA6102005013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vyshnivetska", "ADM3_UA": "Вишнівецька", "ADM3_PCODE": "UA6102005", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.702246256000024, 49.877188869000065 ], [ 25.699005965000026, 49.878253273000041 ], [ 25.690287999000077, 49.87826 ], [ 25.679888002000041, 49.872777162000034 ], [ 25.678191035000054, 49.869747011000072 ], [ 25.68024450200005, 49.865797335000082 ], [ 25.692162205000045, 49.867210278000073 ], [ 25.692190550000078, 49.868801552000036 ], [ 25.699089359000027, 49.873495197000068 ], [ 25.702246256000024, 49.877188869000065 ] ] ] } }
+]
+}

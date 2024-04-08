@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.14199199575099999, "Shape_Area": 0.00019513814426700001, "ADM4_EN": "Nytsakha", "ADM4_UA": "Ницаха", "ADM4_PCODE": "UA5904013022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Trostianetska", "ADM3_UA": "Тростянецька", "ADM3_PCODE": "UA5904013", "ADM2_EN": "Okhtyrskyi", "ADM2_UA": "Охтирський", "ADM2_PCODE": "UA5904", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.171778999000026, 50.473797 ], [ 35.169202, 50.470924 ], [ 35.176585999000054, 50.46859 ], [ 35.178961, 50.461661 ], [ 35.176516, 50.454378 ], [ 35.175452, 50.443297 ], [ 35.178766, 50.443264 ], [ 35.178737001000059, 50.448887 ], [ 35.180585, 50.454175 ], [ 35.1858, 50.455359 ], [ 35.187364001000049, 50.462725 ], [ 35.186919, 50.46721 ], [ 35.171778999000026, 50.473797 ] ] ] } }
+]
+}

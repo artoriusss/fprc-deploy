@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.056482877100299998, "Shape_Area": 6.9970404803600006e-05, "ADM4_EN": "Zatoka", "ADM4_UA": "Затока", "ADM4_PCODE": "UA4614001014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivano-Frankivska", "ADM3_UA": "Івано-Франківська", "ADM3_PCODE": "UA4614001", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.677997301000062, 49.858479011000043 ], [ 23.665948305000029, 49.858532012000069 ], [ 23.663971305000075, 49.856871011000067 ], [ 23.680232300000057, 49.853955011000039 ], [ 23.683459299000049, 49.851053011000033 ], [ 23.68442729800006, 49.856188011000029 ], [ 23.677997301000062, 49.858479011000043 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.123195869062, "Shape_Area": 0.00015612105906899999, "ADM4_EN": "Mshanets", "ADM4_UA": "Мшанець", "ADM4_PCODE": "UA4608017013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Strilkivska", "ADM3_UA": "Стрілківська", "ADM3_PCODE": "UA4608017", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.777411664000056, 49.342516027000045 ], [ 22.772725668000078, 49.344066027000054 ], [ 22.762988673000052, 49.340249027000027 ], [ 22.755759677000071, 49.335601027000052 ], [ 22.758709676000024, 49.331603027000028 ], [ 22.767096671000047, 49.336718027000074 ], [ 22.769599670000048, 49.335849027000052 ], [ 22.778702664000036, 49.339589027000045 ], [ 22.777411664000056, 49.342516027000045 ] ] ] } }
+]
+}

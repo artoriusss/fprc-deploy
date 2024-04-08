@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.086135105136700002, "Shape_Area": 0.000266583409655, "ADM4_EN": "Nova Nekrasivka", "ADM4_UA": "Нова Некрасівка", "ADM4_PCODE": "UA5108009013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Safianivska", "ADM3_UA": "Саф'янівська", "ADM3_PCODE": "UA5108009", "ADM2_EN": "Izmailskyi", "ADM2_UA": "Ізмаїльський", "ADM2_PCODE": "UA5108", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.701437001000045, 45.362865 ], [ 28.694359, 45.361961 ], [ 28.692054, 45.35915 ], [ 28.68506, 45.358685 ], [ 28.685215, 45.354342 ], [ 28.680724, 45.351887 ], [ 28.683843, 45.348301 ], [ 28.701436, 45.348502 ], [ 28.705977, 45.35489700100004 ], [ 28.704831, 45.358391999000048 ], [ 28.701437001000045, 45.362865 ] ] ] } }
+]
+}

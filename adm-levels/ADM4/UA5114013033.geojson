@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.038937974906399997, "Shape_Area": 7.3597970853399999e-05, "ADM4_EN": "Novi Chobruchi", "ADM4_UA": "Нові Чобручі", "ADM4_PCODE": "UA5114013033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozdilnianska", "ADM3_UA": "Роздільнянська", "ADM3_PCODE": "UA5114013", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.078170088000036, 46.86328074100004 ], [ 30.077565999000058, 46.868381 ], [ 30.074705001000041, 46.868149 ], [ 30.073492, 46.871245 ], [ 30.068296, 46.87143 ], [ 30.068798, 46.866959 ], [ 30.067332892000024, 46.864406690000067 ], [ 30.068324485000062, 46.862530820000075 ], [ 30.078170088000036, 46.86328074100004 ] ] ] } }
+]
+}

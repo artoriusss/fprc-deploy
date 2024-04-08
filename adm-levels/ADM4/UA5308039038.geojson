@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.087799303669699999, "Shape_Area": 0.00026078555236199998, "ADM4_EN": "Malyi Bakai", "ADM4_UA": "Малий Бакай", "ADM4_PCODE": "UA5308039038", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Reshetylivska", "ADM3_UA": "Решетилівська", "ADM3_PCODE": "UA5308039", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.91917, 49.620928 ], [ 33.911637, 49.620846 ], [ 33.912132, 49.611899 ], [ 33.914128, 49.609375 ], [ 33.913979999000048, 49.605952 ], [ 33.91819, 49.605508 ], [ 33.918018, 49.608794 ], [ 33.93029, 49.610855 ], [ 33.933765, 49.60979 ], [ 33.93943, 49.610941 ], [ 33.9361, 49.614094 ], [ 33.93489, 49.618986 ], [ 33.932422, 49.619851 ], [ 33.91917, 49.620928 ] ] ] } }
+]
+}

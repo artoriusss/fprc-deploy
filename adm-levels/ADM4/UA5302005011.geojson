@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11437631069400001, "Shape_Area": 0.000117290561059, "ADM4_EN": "Kanivshchyna", "ADM4_UA": "Канівщина", "ADM4_PCODE": "UA5302005011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hradyzka", "ADM3_UA": "Градизька", "ADM3_PCODE": "UA5302005", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.340955001000054, 49.280528 ], [ 33.338401, 49.281685 ], [ 33.332100999000033, 49.276509 ], [ 33.333115999000029, 49.271549 ], [ 33.337629, 49.264473 ], [ 33.34096099900006, 49.263985 ], [ 33.340781, 49.268674 ], [ 33.335398999000063, 49.27316 ], [ 33.335711999000068, 49.274906 ], [ 33.340955001000054, 49.280528 ] ] ] } }
+]
+}

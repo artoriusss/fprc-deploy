@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.082119104153900002, "Shape_Area": 0.00031382145571900001, "ADM4_EN": "Tytkiv", "ADM4_UA": "Титьків", "ADM4_PCODE": "UA6806021029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Polonska", "ADM3_UA": "Полонська", "ADM3_PCODE": "UA6806021", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.378623, 50.031 ], [ 27.383938, 50.033293 ], [ 27.382933999000045, 50.038982 ], [ 27.35548699900005, 50.039065 ], [ 27.353915, 50.029303 ], [ 27.354341, 50.025148 ], [ 27.360772001000043, 50.025329 ], [ 27.364963, 50.027776 ], [ 27.372421001000077, 50.028917 ], [ 27.378623, 50.031 ] ] ] } }
+]
+}

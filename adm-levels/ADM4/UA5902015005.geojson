@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.213947544716, "Shape_Area": 0.00015834875721900001, "ADM4_EN": "Vesele", "ADM4_UA": "Веселе", "ADM4_PCODE": "UA5902015005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Putyvlska", "ADM3_UA": "Путивльська", "ADM3_PCODE": "UA5902015", "ADM2_EN": "Konotopskyi", "ADM2_UA": "Конотопський", "ADM2_PCODE": "UA5902", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 34.030717001000028, 51.509862 ], [ 34.031792, 51.50302 ], [ 34.028176999000038, 51.502969 ], [ 34.027473, 51.500763 ], [ 34.034924999000054, 51.500004 ], [ 34.030717001000028, 51.509862 ] ] ], [ [ [ 34.012644, 51.49849 ], [ 34.00624, 51.495408 ], [ 34.000913, 51.487582 ], [ 34.00637, 51.487876 ], [ 34.008465, 51.494478 ], [ 34.012644, 51.49849 ] ] ] ] } }
+]
+}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.035734172798200001, "Shape_Area": 3.414318578e-05, "ADM4_EN": "Yefrosynivka", "ADM4_UA": "ÐÑÑÐ¾ÑÐ¸Ð½ÑÐ²ÐºÐ°", "ADM4_RU": "ÐÑÑÐ¾ÑÐ¸Ð½Ð¾Ð²ÐºÐ°", "ADM4_PCODE": "UA5112011019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kuialnytska", "ADM3_UA": "ÐÑÑÐ»ÑÐ½Ð¸ÑÑÐºÐ°", "ADM3_RU": "ÐÑÑÐ»ÑÐ½Ð¸ÐºÑÐºÐ°Ñ", "ADM3_PCODE": "UA5112011", "ADM2_EN": "Podilskyi", "ADM2_UA": "ÐÐ¾Ð´ÑÐ»ÑÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¾Ð´Ð¾Ð»ÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "ÐÐ´ÐµÑÑÐºÐ°", "ADM1_RU": "ÐÐ´ÐµÑÑÐºÐ°Ñ", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.7815, 47.67169 ], [ 29.78723, 47.667582 ], [ 29.788025, 47.667717 ], [ 29.789514001000043, 47.667902 ], [ 29.790765, 47.667763 ], [ 29.792475999000033, 47.663609 ], [ 29.790844, 47.663459 ], [ 29.787852, 47.663433 ], [ 29.786531999000033, 47.667246 ], [ 29.785931, 47.666776 ], [ 29.784402, 47.666357 ], [ 29.783114999000077, 47.667252 ], [ 29.783786, 47.667924 ], [ 29.779649, 47.670228 ], [ 29.7815, 47.67169 ] ] ] } }
-]
-}

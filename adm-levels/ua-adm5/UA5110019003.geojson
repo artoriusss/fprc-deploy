@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.032648638009899998, "Shape_Area": 3.3852817316500002e-05, "ADM4_EN": "Vasylivka", "ADM4_UA": "ÐÐ°ÑÐ¸Ð»ÑÐ²ÐºÐ°", "ADM4_RU": "ÐÐ°ÑÐ¸Ð»ÐµÐ²ÐºÐ°", "ADM4_PCODE": "UA5110019003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasnosilska", "ADM3_UA": "ÐÑÐ°ÑÐ½Ð¾ÑÑÐ»ÑÑÑÐºÐ°", "ADM3_RU": "ÐÑÐ°ÑÐ½Ð¾ÑÐµÐ»ÑÑÐºÐ°Ñ", "ADM3_PCODE": "UA5110019", "ADM2_EN": "Odeskyi", "ADM2_UA": "ÐÐ´ÐµÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ´ÐµÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5110", "ADM1_EN": "Odeska", "ADM1_UA": "ÐÐ´ÐµÑÑÐºÐ°", "ADM1_RU": "ÐÐ´ÐµÑÑÐºÐ°Ñ", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.675275, 46.773207 ], [ 30.672773, 46.766314 ], [ 30.671126, 46.766452 ], [ 30.669684001000064, 46.766447 ], [ 30.66979, 46.768836 ], [ 30.67066, 46.773933 ], [ 30.669592001000069, 46.774679 ], [ 30.668922, 46.775225 ], [ 30.668349001000024, 46.775541 ], [ 30.667309, 46.775916 ], [ 30.670831, 46.776736 ], [ 30.671638, 46.773556 ], [ 30.671701, 46.773307 ], [ 30.672704, 46.773218 ], [ 30.675275, 46.773207 ] ] ] } }
-]
-}

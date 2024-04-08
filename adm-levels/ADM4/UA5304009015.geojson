@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.121443490302, "Shape_Area": 0.00036323944827199999, "ADM4_EN": "Deimanivka", "ADM4_UA": "Дейманівка", "ADM4_PCODE": "UA5304009015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pyriatynska", "ADM3_UA": "Пирятинська", "ADM3_PCODE": "UA5304009", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.62202, 50.227304 ], [ 32.621457, 50.221978 ], [ 32.618474, 50.220303 ], [ 32.620146, 50.214085 ], [ 32.620213999000043, 50.206363 ], [ 32.622286, 50.201834 ], [ 32.634945999000024, 50.206804 ], [ 32.635091, 50.21417 ], [ 32.636254, 50.21751 ], [ 32.640243, 50.219492 ], [ 32.644841, 50.220045 ], [ 32.642120001000023, 50.225791 ], [ 32.638626, 50.223236 ], [ 32.63339699900007, 50.225039 ], [ 32.627749001000041, 50.22215 ], [ 32.62202, 50.227304 ] ] ] } }
+]
+}

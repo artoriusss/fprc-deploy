@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.150731004104, "Shape_Area": 0.00013124434148700001, "ADM4_EN": "Shaparivka", "ADM4_UA": "Шапарівка", "ADM4_PCODE": "UA4410001037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilokurakynska", "ADM3_UA": "Білокуракинська", "ADM3_PCODE": "UA4410001", "ADM2_EN": "Svativskyi", "ADM2_UA": "Сватівський", "ADM2_PCODE": "UA4410", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.844408, 49.51699 ], [ 38.840387, 49.515133 ], [ 38.841409999000064, 49.50748 ], [ 38.840877, 49.504625 ], [ 38.843942001000073, 49.499333 ], [ 38.842651001000036, 49.494702 ], [ 38.845591120000051, 49.492579360000036 ], [ 38.847256999000081, 49.496984 ], [ 38.84634999900004, 49.501851 ], [ 38.842654, 49.50539 ], [ 38.844774, 49.511246 ], [ 38.844408, 49.51699 ] ] ] } }
+]
+}

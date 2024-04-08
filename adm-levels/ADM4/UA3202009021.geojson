@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.065135687518500004, "Shape_Area": 0.00013716592504500001, "ADM4_EN": "Shcherbaky", "ADM4_UA": "Щербаки", "ADM4_PCODE": "UA3202009021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Malovilshanska", "ADM3_UA": "Маловільшанська", "ADM3_PCODE": "UA3202009", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.960474232000024, 49.642759671000078 ], [ 29.957077247000029, 49.64324361000007 ], [ 29.94899218200004, 49.642310599000041 ], [ 29.947542266000028, 49.635679566000078 ], [ 29.952780680000046, 49.630948533000037 ], [ 29.957523569000045, 49.629839612000069 ], [ 29.957838189000029, 49.633633623000037 ], [ 29.961069200000054, 49.639449600000034 ], [ 29.960474232000024, 49.642759671000078 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.095129765821300005, "Shape_Area": 8.6058896290099995e-05, "ADM4_EN": "Vikhove", "ADM4_UA": "Віхове", "ADM4_PCODE": "UA5906009011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nedryhailivska", "ADM3_UA": "Недригайлівська", "ADM3_PCODE": "UA5906009", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.963898, 50.834559 ], [ 33.961815, 50.832239 ], [ 33.963524, 50.829378 ], [ 33.961698, 50.825692 ], [ 33.966256, 50.825405 ], [ 33.966929, 50.828142 ], [ 33.974780999000075, 50.82778 ], [ 33.993390203000047, 50.824676829000055 ], [ 33.99396499900007, 50.826433 ], [ 33.986231, 50.827677 ], [ 33.967730999000025, 50.829783 ], [ 33.963898, 50.834559 ] ] ] } }
+]
+}

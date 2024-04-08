@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.102679904244, "Shape_Area": 0.00017125242029400001, "ADM4_EN": "Solomiia", "ADM4_UA": "Соломія", "ADM4_PCODE": "UA3502005014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Haivoronska", "ADM3_UA": "Гайворонська", "ADM3_PCODE": "UA3502005", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "Голованівський", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.881264, 48.304432 ], [ 29.867256001000044, 48.293373 ], [ 29.863996, 48.294163 ], [ 29.862632, 48.291697 ], [ 29.871307, 48.291695 ], [ 29.874986999000043, 48.29088 ], [ 29.880082999000024, 48.286742 ], [ 29.880234, 48.290921 ], [ 29.888033, 48.292795 ], [ 29.884570999000061, 48.295475 ], [ 29.881287, 48.300877 ], [ 29.881264, 48.304432 ] ] ] } }
+]
+}

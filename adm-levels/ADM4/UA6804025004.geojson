@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.065993753858000007, "Shape_Area": 0.000236279558808, "ADM4_EN": "Klymashivka", "ADM4_UA": "Климашівка", "ADM4_PCODE": "UA6804025004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lisovohrynivetska", "ADM3_UA": "Лісовогринівецька", "ADM3_PCODE": "UA6804025", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.995207, 49.525966 ], [ 26.984874, 49.524523 ], [ 26.98037, 49.522028 ], [ 26.980123999000057, 49.518983 ], [ 26.986572, 49.513218 ], [ 26.988378999000076, 49.512671 ], [ 26.998517, 49.513447 ], [ 27.002043001000061, 49.512071 ], [ 27.005269, 49.515205 ], [ 26.995207, 49.525966 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0492772212599, "Shape_Area": 8.6526856185900001e-05, "ADM4_EN": "Porichchia", "ADM4_UA": "Поріччя", "ADM4_PCODE": "UA4614001024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivano-Frankivska", "ADM3_UA": "Івано-Франківська", "ADM3_PCODE": "UA4614001", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.771282276000022, 49.880040011000062 ], [ 23.770443276000037, 49.88502101000006 ], [ 23.765508277000038, 49.885935010000026 ], [ 23.762174279000078, 49.877502010000057 ], [ 23.766969277000044, 49.875960010000028 ], [ 23.771133274000078, 49.87620701000003 ], [ 23.771282276000022, 49.880040011000062 ] ] ] } }
+]
+}

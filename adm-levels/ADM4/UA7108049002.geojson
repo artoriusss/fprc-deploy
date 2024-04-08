@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.056363229459700001, "Shape_Area": 0.00016179541767300001, "ADM4_EN": "Orshanets", "ADM4_UA": "Оршанець", "ADM4_PCODE": "UA7108049002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Cherkaska", "ADM3_UA": "Черкаська", "ADM3_PCODE": "UA7108049", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.898181694000073, 49.443405306000045 ], [ 31.903861277000033, 49.443431689000079 ], [ 31.901930981000078, 49.460399402000064 ], [ 31.896729097000048, 49.460349453000049 ], [ 31.897129044000053, 49.454732068000055 ], [ 31.890742814000077, 49.454611491000037 ], [ 31.891532692000055, 49.446547687000077 ], [ 31.893777408000062, 49.443384654000056 ], [ 31.898181694000073, 49.443405306000045 ] ] ] } }
+]
+}

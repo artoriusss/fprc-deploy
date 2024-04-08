@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.111741302061, "Shape_Area": 0.00031855331617800003, "ADM4_EN": "Krachkivka", "ADM4_UA": "Крачківка", "ADM4_PCODE": "UA7106011003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivankivska", "ADM3_UA": "Іваньківська", "ADM3_PCODE": "UA7106011", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.422231999000076, 49.045162 ], [ 30.416564, 49.047872 ], [ 30.41548, 49.043596 ], [ 30.425377001000072, 49.038754 ], [ 30.423218, 49.035768 ], [ 30.425552, 49.030331 ], [ 30.433856999000056, 49.027708 ], [ 30.438218, 49.025427 ], [ 30.443100999000023, 49.020901 ], [ 30.44280400100007, 49.025739 ], [ 30.444531, 49.030015 ], [ 30.439941, 49.03695 ], [ 30.432798999000056, 49.041029 ], [ 30.429922, 49.041591 ], [ 30.428603, 49.044782 ], [ 30.425751, 49.043793 ], [ 30.422231999000076, 49.045162 ] ] ] } }
+]
+}

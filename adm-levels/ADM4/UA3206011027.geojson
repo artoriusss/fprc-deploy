@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062587211799499998, "Shape_Area": 7.9353464174899998e-05, "ADM4_EN": "Paiky", "ADM4_UA": "Пайки", "ADM4_PCODE": "UA3206011027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zghurivska", "ADM3_UA": "Згурівська", "ADM3_PCODE": "UA3206011", "ADM2_EN": "Brovarskyi", "ADM2_UA": "Броварський", "ADM2_PCODE": "UA3206", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.999707546000025, 50.455208766000055 ], [ 31.994969601000037, 50.456425821000039 ], [ 31.993734518000053, 50.454810812000062 ], [ 31.988185572000077, 50.453198824000026 ], [ 32.001536527000042, 50.451064816000041 ], [ 32.002379586000075, 50.449279779000051 ], [ 32.007165590000056, 50.449435808000032 ], [ 32.008306595000079, 50.454993812000055 ], [ 32.001724527000079, 50.454207842000073 ], [ 31.999707546000025, 50.455208766000055 ] ] ] } }
+]
+}

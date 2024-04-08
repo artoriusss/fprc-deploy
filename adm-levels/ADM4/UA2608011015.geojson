@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.14237766342800001, "Shape_Area": 0.000189663867848, "ADM4_EN": "Trostianka", "ADM4_UA": "Тростянка", "ADM4_PCODE": "UA2608011015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mateievetska", "ADM3_UA": "Матеївецька", "ADM3_PCODE": "UA2608011", "ADM2_EN": "Kolomyiskyi", "ADM2_UA": "Коломийський", "ADM2_PCODE": "UA2608", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.119146497000031, 48.49302577900005 ], [ 25.11315416900004, 48.495495305000077 ], [ 25.114993422000055, 48.489136295000037 ], [ 25.120943325000042, 48.489676582000072 ], [ 25.128310742000053, 48.487530123000056 ], [ 25.12715700900003, 48.48037884300004 ], [ 25.13451062200005, 48.479726264000078 ], [ 25.14017688000007, 48.487920853000048 ], [ 25.137414275000026, 48.490036458000077 ], [ 25.122780899000077, 48.493297617000053 ], [ 25.119146497000031, 48.49302577900005 ] ] ] } }
+]
+}

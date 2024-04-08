@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.041567136162099998, "Shape_Area": 4.1985071469099998e-05, "ADM4_EN": "Komarivka", "ADM4_UA": "Комарівка", "ADM4_PCODE": "UA5604033005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Smyzka", "ADM3_UA": "Смизька", "ADM3_PCODE": "UA5604033", "ADM2_EN": "Dubenskyi", "ADM2_UA": "Дубенський", "ADM2_PCODE": "UA5604", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.662114001000077, 50.225124960000073 ], [ 25.65957996000003, 50.23004805000005 ], [ 25.654417920000071, 50.232028950000029 ], [ 25.660253879000038, 50.223679020000077 ], [ 25.662114001000077, 50.225124960000073 ] ] ] } }
+]
+}

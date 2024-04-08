@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.082324358391600003, "Shape_Area": 0.000197320269594, "ADM4_EN": "Velyki Solontsi", "ADM4_UA": "Великі Солонці", "ADM4_PCODE": "UA5308031007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novosanzharska", "ADM3_UA": "Новосанжарська", "ADM3_PCODE": "UA5308031", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.431936, 49.281189 ], [ 34.432885, 49.288805 ], [ 34.42504199900003, 49.289772 ], [ 34.423093, 49.281653 ], [ 34.410760001000028, 49.277939 ], [ 34.416397, 49.274474 ], [ 34.422061, 49.274888 ], [ 34.427999001000046, 49.273217 ], [ 34.429434001000061, 49.270532 ], [ 34.432982, 49.271598 ], [ 34.42972, 49.275775 ], [ 34.432928, 49.278417 ], [ 34.431936, 49.281189 ] ] ] } }
+]
+}

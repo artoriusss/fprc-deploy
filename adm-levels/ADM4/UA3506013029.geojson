@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070024984704600002, "Shape_Area": 0.000101151867681, "ADM4_EN": "Morhunivka", "ADM4_UA": "Моргунівка", "ADM4_PCODE": "UA3506013029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novomyrhorodska", "ADM3_UA": "Новомиргородська", "ADM3_PCODE": "UA3506013", "ADM2_EN": "Novoukrainskyi", "ADM2_UA": "Новоукраїнський", "ADM2_PCODE": "UA3506", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.407299, 48.707726 ], [ 31.403319, 48.710628 ], [ 31.39514, 48.710046 ], [ 31.394294, 48.707189 ], [ 31.400274, 48.703423 ], [ 31.400282, 48.69892 ], [ 31.402889, 48.69887 ], [ 31.402764001000037, 48.70482 ], [ 31.406164001000036, 48.703759 ], [ 31.407299, 48.707726 ] ] ] } }
+]
+}

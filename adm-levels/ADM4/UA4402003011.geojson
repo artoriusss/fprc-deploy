@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.087697738261799996, "Shape_Area": 9.316555149e-05, "ADM4_EN": "Mamusheve", "ADM4_UA": "Мамушеве", "ADM4_PCODE": "UA4402003011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zymohirivska", "ADM3_UA": "Зимогір'ївська", "ADM3_PCODE": "UA4402003", "ADM2_EN": "Alchevskyi", "ADM2_UA": "Алчевський", "ADM2_PCODE": "UA4402", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 39.035889, 48.578224 ], [ 39.024246, 48.58044 ], [ 39.022446, 48.577179 ], [ 39.034533, 48.575144 ], [ 39.035889, 48.578224 ] ] ], [ [ [ 39.050710001000027, 48.578852 ], [ 39.055074, 48.5722 ], [ 39.060241, 48.57127 ], [ 39.058644001000062, 48.575631 ], [ 39.053966, 48.576651 ], [ 39.050710001000027, 48.578852 ] ] ] ] } }
+]
+}

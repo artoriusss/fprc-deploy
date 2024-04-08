@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0092725215899299995, "Shape_Area": 4.37409037815e-06, "ADM4_EN": "Ashurkove", "ADM4_UA": "ÐÑÑÑÐºÐ¾Ð²Ðµ", "ADM4_RU": "ÐÑÑÑÐºÐ¾Ð²Ð¾", "ADM4_PCODE": "UA1412009014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kramatorska", "ADM3_UA": "ÐÑÐ°Ð¼Ð°ÑÐ¾ÑÑÑÐºÐ°", "ADM3_RU": "ÐÑÐ°Ð¼Ð°ÑÐ¾ÑÑÐºÐ°Ñ", "ADM3_PCODE": "UA1412009", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "ÐÑÐ°Ð¼Ð°ÑÐ¾ÑÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÑÐ°Ð¼Ð°ÑÐ¾ÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "ÐÐ¾Ð½ÐµÑÑÐºÐ°", "ADM1_RU": "ÐÐ¾Ð½ÐµÑÐºÐ°Ñ", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.63622582000005, 48.656022213000028 ], [ 37.635383736000051, 48.655857301000026 ], [ 37.634886152000036, 48.656367714000055 ], [ 37.633989395000071, 48.65720237000005 ], [ 37.633682431000068, 48.657502607000026 ], [ 37.632989171000077, 48.658180662000063 ], [ 37.634160779000069, 48.658701571000051 ], [ 37.636465452000039, 48.656779396000047 ], [ 37.63622582000005, 48.656022213000028 ] ] ] } }
-]
-}

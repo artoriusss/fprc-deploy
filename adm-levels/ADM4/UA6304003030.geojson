@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.144108221244, "Shape_Area": 0.00018056584300600001, "ADM4_EN": "Mechebylove", "ADM4_UA": "Мечебилове", "ADM4_PCODE": "UA6304003030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Barvinkivska", "ADM3_UA": "Барвінківська", "ADM3_PCODE": "UA6304003", "ADM2_EN": "Iziumskyi", "ADM2_UA": "Ізюмський", "ADM2_PCODE": "UA6304", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.687651, 49.070061 ], [ 36.683666, 49.070142 ], [ 36.680008, 49.072099 ], [ 36.6792, 49.067593 ], [ 36.681091, 49.063871 ], [ 36.680919, 49.060424 ], [ 36.687554, 49.060994 ], [ 36.690749, 49.0597 ], [ 36.694964, 49.065776 ], [ 36.700998, 49.064716 ], [ 36.70403200100003, 49.069332 ], [ 36.687651, 49.070061 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.080906541925499995, "Shape_Area": 0.000114928648393, "ADM4_EN": "Bryntsi-Tserkovni", "ADM4_UA": "Бринці-Церковні", "ADM4_PCODE": "UA4610027008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khodorivska", "ADM3_UA": "Ходорівська", "ADM3_PCODE": "UA4610027", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.221777174000067, 49.558586007000031 ], [ 24.221873174000052, 49.551405006000039 ], [ 24.226176173000056, 49.54213500600008 ], [ 24.228048173000047, 49.545273006000059 ], [ 24.227506173000052, 49.550881006000054 ], [ 24.231257173000074, 49.552693006000027 ], [ 24.23294517100004, 49.556207007000069 ], [ 24.22488317400007, 49.554419006000046 ], [ 24.221777174000067, 49.558586007000031 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.081751733174500005, "Shape_Area": 0.00014719305467300001, "ADM4_EN": "Diachkove", "ADM4_UA": "Дячкове", "ADM4_PCODE": "UA5308005018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dykanska", "ADM3_UA": "Диканська", "ADM3_PCODE": "UA5308005", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.238292, 49.790547 ], [ 34.235515, 49.791265 ], [ 34.233008617000053, 49.786922559000061 ], [ 34.238075037000044, 49.786046464000037 ], [ 34.249222041000053, 49.786884719000057 ], [ 34.249362999000027, 49.785067 ], [ 34.256885178000061, 49.78645804100006 ], [ 34.268819025000028, 49.785029024000039 ], [ 34.270316596000043, 49.788093134000064 ], [ 34.258320216000072, 49.790344091000065 ], [ 34.238292, 49.790547 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0254733143722, "Shape_Area": 3.1830344887700001e-05, "ADM4_EN": "Mala Dibrova", "ADM4_UA": "Мала Діброва", "ADM4_PCODE": "UA4614007016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sudovovyshnianska", "ADM3_UA": "Судововишнянська", "ADM3_PCODE": "UA4614007", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.283692431000077, 49.711339016000068 ], [ 23.281750697000064, 49.707583987000078 ], [ 23.282610949000059, 49.703510037000058 ], [ 23.285543429000029, 49.70465501700005 ], [ 23.285887430000059, 49.70854201700007 ], [ 23.283692431000077, 49.711339016000068 ] ] ] } }
+]
+}

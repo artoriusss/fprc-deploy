@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.076612431063400002, "Shape_Area": 0.00015367623371499999, "ADM4_EN": "Rakovets", "ADM4_UA": "Раковець", "ADM4_PCODE": "UA4606043018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Solonkivska", "ADM3_UA": "Солонківська", "ADM3_PCODE": "UA4606043", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.025941214000056, 49.654403008000031 ], [ 24.030144212000039, 49.658623008000063 ], [ 24.024310213000035, 49.661353008000049 ], [ 24.013814216000071, 49.645706008000047 ], [ 24.013588215000027, 49.643592008000041 ], [ 24.025470214000052, 49.643396007000035 ], [ 24.024425213000029, 49.64820800800004 ], [ 24.027638212000056, 49.651018008000051 ], [ 24.025941214000056, 49.654403008000031 ] ] ] } }
+]
+}

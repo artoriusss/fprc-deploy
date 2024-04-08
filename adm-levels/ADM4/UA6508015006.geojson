@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.173881506869, "Shape_Area": 0.000754997434763, "ADM4_EN": "Krasne", "ADM4_UA": "Красне", "ADM4_PCODE": "UA6508015006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Skadovska", "ADM3_UA": "Скадовська", "ADM3_PCODE": "UA6508015", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Скадовський", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.78604400100005, 46.14233 ], [ 32.76915, 46.141016 ], [ 32.757057, 46.13952 ], [ 32.757689, 46.132933 ], [ 32.75244, 46.1312 ], [ 32.741521, 46.130238 ], [ 32.740240999000036, 46.12634 ], [ 32.744093, 46.125575 ], [ 32.74953, 46.117783 ], [ 32.758149960000026, 46.12050079800008 ], [ 32.769177548000073, 46.122331487000054 ], [ 32.778864, 46.119995 ], [ 32.782934, 46.122156 ], [ 32.784734, 46.125448 ], [ 32.783489, 46.130492 ], [ 32.78845700100004, 46.13156 ], [ 32.78604400100005, 46.14233 ] ] ] } }
+]
+}

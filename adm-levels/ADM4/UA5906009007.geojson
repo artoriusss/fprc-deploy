@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.091828181871400003, "Shape_Area": 0.000118857838209, "ADM4_EN": "Bizh", "ADM4_UA": "Біж", "ADM4_PCODE": "UA5906009007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nedryhailivska", "ADM3_UA": "Недригайлівська", "ADM3_PCODE": "UA5906009", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.846707, 50.981881 ], [ 33.845557, 50.980947 ], [ 33.836264, 50.979338 ], [ 33.823646, 50.972944 ], [ 33.823243001000037, 50.969326 ], [ 33.82868, 50.967918 ], [ 33.829959, 50.970588 ], [ 33.834215, 50.971069 ], [ 33.835739, 50.973305 ], [ 33.841629001000058, 50.976206 ], [ 33.842061, 50.978765 ], [ 33.846707, 50.981881 ] ] ] } }
+]
+}

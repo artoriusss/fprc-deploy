@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0662968898546, "Shape_Area": 9.8366262923999995e-05, "ADM4_EN": "Bessarabka", "ADM4_UA": "Бессарабка", "ADM4_PCODE": "UA5906015003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khmelivska", "ADM3_UA": "Хмелівська", "ADM3_PCODE": "UA5906015", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.619565001000069, 50.867389 ], [ 33.609852, 50.856321 ], [ 33.613438, 50.85406 ], [ 33.614738, 50.858574 ], [ 33.62042400100006, 50.854609 ], [ 33.622979999000052, 50.861645 ], [ 33.622644, 50.864787 ], [ 33.619565001000069, 50.867389 ] ] ] } }
+]
+}

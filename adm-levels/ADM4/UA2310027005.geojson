@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062064432351299999, "Shape_Area": 8.4113739150500002e-05, "ADM4_EN": "Kutuzivka", "ADM4_UA": "Кутузівка", "ADM4_PCODE": "UA2310027005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tokmatska", "ADM3_UA": "Токмацька", "ADM3_PCODE": "UA2310027", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.639441052000052, 47.223961093000071 ], [ 35.634880205000059, 47.226990642000032 ], [ 35.632209199000044, 47.223779426000078 ], [ 35.628006563000042, 47.223403712000049 ], [ 35.628541635000033, 47.218991480000057 ], [ 35.634802395000065, 47.220755386000064 ], [ 35.639849464000065, 47.219014210000068 ], [ 35.645589136000069, 47.218723247000071 ], [ 35.639441052000052, 47.223961093000071 ] ] ] } }
+]
+}

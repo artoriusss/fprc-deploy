@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.071119907590199996, "Shape_Area": 0.00013593723014, "ADM4_EN": "Khryplyn", "ADM4_UA": "Хриплин", "ADM4_PCODE": "UA2604019017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivano-Frankivska", "ADM3_UA": "Івано-Франківська", "ADM3_PCODE": "UA2604019", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.746772, 48.888009 ], [ 24.743684, 48.888282 ], [ 24.739265, 48.886046 ], [ 24.734552, 48.88702 ], [ 24.730044999000029, 48.881745 ], [ 24.726515999000071, 48.8748 ], [ 24.729008, 48.872527 ], [ 24.733459999000047, 48.87299499900007 ], [ 24.735349, 48.876741 ], [ 24.739379, 48.880094 ], [ 24.739925, 48.883048 ], [ 24.744826, 48.884002 ], [ 24.746772, 48.888009 ] ] ] } }
+]
+}

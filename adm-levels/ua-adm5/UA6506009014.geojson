@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0329774939781, "Shape_Area": 6.2858358125000006e-05, "ADM4_EN": "Slynenka", "ADM4_UA": "Ð¡Ð»Ð¸Ð½ÐµÐ½ÐºÐ°", "ADM4_RU": "Ð¡Ð»Ð¸Ð½ÐµÐ½ÐºÐ¾", "ADM4_PCODE": "UA6506009014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zelenopidska", "ADM3_UA": "ÐÐµÐ»ÐµÐ½Ð¾Ð¿ÑÐ´ÑÑÐºÐ°", "ADM3_RU": "ÐÐµÐ»ÐµÐ½Ð¾Ð¿Ð¾Ð´ÑÐºÐ°Ñ", "ADM3_PCODE": "UA6506009", "ADM2_EN": "Kakhovskyi", "ADM2_UA": "ÐÐ°ÑÐ¾Ð²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ°ÑÐ¾Ð²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA6506", "ADM1_EN": "Khersonska", "ADM1_UA": "Ð¥ÐµÑÑÐ¾Ð½ÑÑÐºÐ°", "ADM1_RU": "Ð¥ÐµÑÑÐ¾Ð½ÑÐºÐ°Ñ", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.908286, 46.699678 ], [ 33.902839, 46.699175 ], [ 33.899745001000042, 46.70186 ], [ 33.904225, 46.705037 ], [ 33.905253, 46.706104 ], [ 33.908411999000066, 46.705884 ], [ 33.909814999000048, 46.70582 ], [ 33.910674, 46.705735 ], [ 33.91099, 46.705642 ], [ 33.91228, 46.704573 ], [ 33.913847999000041, 46.703346 ], [ 33.913993001000051, 46.703099 ], [ 33.908937001000027, 46.699748 ], [ 33.908286, 46.699678 ] ] ] } }
-]
-}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.121881516121, "Shape_Area": 0.00030161704687400002, "ADM4_EN": "Kryva Balka", "ADM4_UA": "Крива Балка", "ADM4_PCODE": "UA5104029004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Uspenivska", "ADM3_UA": "Успенівська", "ADM3_PCODE": "UA5104029", "ADM2_EN": "Bilhorod-Dnistrovskyi", "ADM2_UA": "Білгород-Дністровський", "ADM2_PCODE": "UA5104", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.894377001000066, 46.209708 ], [ 29.891332, 46.208838 ], [ 29.889254, 46.20527 ], [ 29.889854, 46.201762 ], [ 29.888764, 46.194675 ], [ 29.891553, 46.182832 ], [ 29.891771, 46.178936 ], [ 29.894037, 46.174898 ], [ 29.899396, 46.17432 ], [ 29.898344, 46.183994 ], [ 29.905343, 46.185324 ], [ 29.900007999000024, 46.188757 ], [ 29.899030999000047, 46.195582 ], [ 29.900538, 46.200492 ], [ 29.89673, 46.199885 ], [ 29.895842, 46.204428 ], [ 29.897308, 46.207437 ], [ 29.894377001000066, 46.209708 ] ] ] } }
+]
+}

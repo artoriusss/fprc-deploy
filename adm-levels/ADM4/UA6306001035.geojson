@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.035491114396900003, "Shape_Area": 5.2660528214900002e-05, "ADM4_EN": "Stare Pekelne", "ADM4_UA": "Старе Пекельне", "ADM4_PCODE": "UA6306001035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zachepylivska", "ADM3_UA": "Зачепилівська", "ADM3_PCODE": "UA6306001", "ADM2_EN": "Krasnohradskyi", "ADM2_UA": "Красноградський", "ADM2_PCODE": "UA6306", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.383081, 49.038432 ], [ 35.378397999000072, 49.03606 ], [ 35.378192999000078, 49.03397 ], [ 35.382654, 49.031902 ], [ 35.392344, 49.035453 ], [ 35.388807001000032, 49.038161 ], [ 35.383081, 49.038432 ] ] ] } }
+]
+}

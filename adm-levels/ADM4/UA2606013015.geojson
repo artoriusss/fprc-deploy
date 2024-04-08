@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.068952627223799995, "Shape_Area": 0.000315190487553, "ADM4_EN": "Pidberezhzhia", "ADM4_UA": "Підбережжя", "ADM4_PCODE": "UA2606013015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dolynska", "ADM3_UA": "Долинська", "ADM3_PCODE": "UA2606013", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.919368001000066, 49.042635 ], [ 23.922851999000045, 49.044101 ], [ 23.928715, 49.056276 ], [ 23.922578999000052, 49.060085 ], [ 23.911057, 49.061476 ], [ 23.907397, 49.057162 ], [ 23.906995, 49.04636 ], [ 23.913677, 49.041198 ], [ 23.919368001000066, 49.042635 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.175363453552, "Shape_Area": 0.00034700704090699999, "ADM4_EN": "Iskivtsi", "ADM4_UA": "Ісківці", "ADM4_PCODE": "UA5306029009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Senchanska", "ADM3_UA": "Сенчанська", "ADM3_PCODE": "UA5306029", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.2137, 50.271507 ], [ 33.214558, 50.276196 ], [ 33.211658, 50.276294 ], [ 33.209641, 50.270174 ], [ 33.205393, 50.267416 ], [ 33.201388346000044, 50.267937217000053 ], [ 33.197148, 50.263436 ], [ 33.199858, 50.258141 ], [ 33.204807, 50.255707 ], [ 33.20671, 50.251948 ], [ 33.210655, 50.252494 ], [ 33.213749, 50.248814 ], [ 33.21848, 50.250586 ], [ 33.214171001000068, 50.260605 ], [ 33.21618200100005, 50.266621 ], [ 33.221038, 50.272382 ], [ 33.217805999000063, 50.273138 ], [ 33.2137, 50.271507 ] ] ] } }
+]
+}

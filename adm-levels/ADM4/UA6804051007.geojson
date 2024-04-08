@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.102632847922, "Shape_Area": 0.00022753293332900001, "ADM4_EN": "Radisne", "ADM4_UA": "Радісне", "ADM4_PCODE": "UA6804051007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shchyborivska", "ADM3_UA": "Щиборівська", "ADM3_PCODE": "UA6804051", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 27.06615799900004, 49.647325 ], [ 27.056665999000074, 49.646865 ], [ 27.048137, 49.64742 ], [ 27.04156400100004, 49.642575 ], [ 27.047805, 49.637879 ], [ 27.050633, 49.63706 ], [ 27.060594001000027, 49.638555 ], [ 27.064248001000067, 49.639807 ], [ 27.067347, 49.644078 ], [ 27.06615799900004, 49.647325 ] ] ], [ [ [ 27.051182001000029, 49.631106 ], [ 27.045691001000023, 49.629578 ], [ 27.048392999000043, 49.62649 ], [ 27.052501, 49.625797 ], [ 27.051182001000029, 49.631106 ] ] ] ] } }
+]
+}

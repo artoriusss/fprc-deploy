@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.14004360102, "Shape_Area": 0.00069412443601799998, "ADM4_EN": "Stara Tsarychanka", "ADM4_UA": "Стара Царичанка", "ADM4_PCODE": "UA5104023017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starokozatska", "ADM3_UA": "Старокозацька", "ADM3_PCODE": "UA5104023", "ADM2_EN": "Bilhorod-Dnistrovskyi", "ADM2_UA": "Білгород-Дністровський", "ADM2_PCODE": "UA5104", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.859027001000072, 46.306363 ], [ 29.858412, 46.309069 ], [ 29.852857, 46.308381 ], [ 29.853553, 46.295793 ], [ 29.861596, 46.271457 ], [ 29.867905, 46.271712 ], [ 29.869566, 46.267508 ], [ 29.877071999000066, 46.268968 ], [ 29.875856001000045, 46.272232 ], [ 29.879677, 46.276372 ], [ 29.879513001000078, 46.281206 ], [ 29.876527001000056, 46.28114 ], [ 29.87441700100004, 46.291365 ], [ 29.879734, 46.298157 ], [ 29.870047001000046, 46.297722 ], [ 29.86661299900004, 46.306687 ], [ 29.859027001000072, 46.306363 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.093908799971400003, "Shape_Area": 0.00032042215497900001, "ADM4_EN": "Ziankivtsi", "ADM4_UA": "Зяньківці", "ADM4_PCODE": "UA6804015012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Derazhnianska", "ADM3_UA": "Деражнянська", "ADM3_PCODE": "UA6804015", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.355792, 49.209561 ], [ 27.341402, 49.2099 ], [ 27.335405999000045, 49.208167 ], [ 27.328789, 49.209752 ], [ 27.325686, 49.206109999000034 ], [ 27.330335, 49.200425 ], [ 27.334200999000075, 49.197891 ], [ 27.350868999000056, 49.197857 ], [ 27.356415, 49.203335 ], [ 27.355792, 49.209561 ] ] ] } }
+]
+}

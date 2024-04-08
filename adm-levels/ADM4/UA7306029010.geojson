@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11462123262899999, "Shape_Area": 0.00028449792916199998, "ADM4_EN": "Sukhoverkhiv", "ADM4_UA": "Суховерхів", "ADM4_PCODE": "UA7306029010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kitsmanska", "ADM3_UA": "Кіцманська", "ADM3_PCODE": "UA7306029", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.752494099000046, 48.456564363000041 ], [ 25.765866839000068, 48.45613488500004 ], [ 25.76880600100003, 48.464258 ], [ 25.765703999000038, 48.466884 ], [ 25.763308001000041, 48.465439 ], [ 25.749006, 48.46671 ], [ 25.741296, 48.469144 ], [ 25.739019, 48.471394 ], [ 25.734772, 48.469218 ], [ 25.739976, 48.460907 ], [ 25.742663, 48.46114 ], [ 25.750973607000049, 48.456920672000081 ], [ 25.752494099000046, 48.456564363000041 ] ] ] } }
+]
+}

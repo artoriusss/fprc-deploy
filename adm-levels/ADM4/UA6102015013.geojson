@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.089371906927599998, "Shape_Area": 9.6585931576199994e-05, "ADM4_EN": "Zabara", "ADM4_UA": "Забара", "ADM4_PCODE": "UA6102015013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shumska", "ADM3_UA": "Шумська", "ADM3_PCODE": "UA6102015", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.944752081000047, 50.17664645900004 ], [ 25.942833347000033, 50.174111950000054 ], [ 25.954426730000023, 50.16527833400005 ], [ 25.958991795000031, 50.159333367000045 ], [ 25.961610201000042, 50.162999752000076 ], [ 25.952665846000059, 50.170988925000074 ], [ 25.951115259000062, 50.17002724300005 ], [ 25.944752081000047, 50.17664645900004 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.028551547549100002, "Shape_Area": 1.69314561386e-05, "ADM4_EN": "Dubyny", "ADM4_UA": "Дубини", "ADM4_PCODE": "UA5606045020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ostrozka", "ADM3_UA": "Острозька", "ADM3_PCODE": "UA5606045", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.425752120000027, 50.446339020000039 ], [ 26.423965079000027, 50.446519020000039 ], [ 26.425189080000052, 50.451749010000071 ], [ 26.426176921000035, 50.453533980000032 ], [ 26.424497880000047, 50.454211050000026 ], [ 26.423327160000042, 50.448325950000026 ], [ 26.422353, 50.44631301000004 ], [ 26.425514160000034, 50.445112050000034 ], [ 26.425752120000027, 50.446339020000039 ] ] ] } }
+]
+}

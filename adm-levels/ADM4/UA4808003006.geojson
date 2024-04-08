@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.140715581412, "Shape_Area": 0.00025153561329500001, "ADM4_EN": "Liuboivanivka", "ADM4_UA": "Любоіванівка", "ADM4_PCODE": "UA4808003006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Blahodatnenska", "ADM3_UA": "Благодатненська", "ADM3_PCODE": "UA4808003", "ADM2_EN": "Pervomaiskyi", "ADM2_UA": "Первомайський", "ADM2_PCODE": "UA4808", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.279508691000046, 48.031506112000045 ], [ 31.267487273000029, 48.027527478000081 ], [ 31.25953086100003, 48.026136447000056 ], [ 31.249630824000064, 48.025586212000064 ], [ 31.241207332000045, 48.026685430000043 ], [ 31.240258561000076, 48.018917965000071 ], [ 31.244247046000055, 48.021791767000082 ], [ 31.253580386000067, 48.01956393100005 ], [ 31.267023921000032, 48.022937272000036 ], [ 31.281488746000036, 48.024453910000034 ], [ 31.279508691000046, 48.031506112000045 ] ] ] } }
+]
+}

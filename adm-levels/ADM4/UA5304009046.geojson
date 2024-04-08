@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.17089071874799999, "Shape_Area": 0.0003889536837, "ADM4_EN": "Yatsyny", "ADM4_UA": "Яцини", "ADM4_PCODE": "UA5304009046", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pyriatynska", "ADM3_UA": "Пирятинська", "ADM3_PCODE": "UA5304009", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.760377, 50.28578 ], [ 32.76236657100003, 50.285239925000042 ], [ 32.769395001000078, 50.28832 ], [ 32.771647662000078, 50.294000044000029 ], [ 32.765618, 50.296635 ], [ 32.763485, 50.300918 ], [ 32.757024999000066, 50.303516 ], [ 32.757867, 50.299805 ], [ 32.75379, 50.299059 ], [ 32.750751, 50.305413 ], [ 32.745301, 50.299703 ], [ 32.740698, 50.29673 ], [ 32.735708001000035, 50.291419 ], [ 32.741344, 50.291053 ], [ 32.749501, 50.286982 ], [ 32.75387, 50.288575 ], [ 32.760377, 50.28578 ] ] ] } }
+]
+}

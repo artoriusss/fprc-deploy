@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0732025172433, "Shape_Area": 0.000112339096496, "ADM4_EN": "Lykhachykha", "ADM4_UA": "Лихачиха", "ADM4_PCODE": "UA3202003015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Volodarska", "ADM3_UA": "Володарська", "ADM3_PCODE": "UA3202003", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.990818392000051, 49.492814832000079 ], [ 29.992153414000029, 49.483096845000034 ], [ 30.002391860000046, 49.481491907000077 ], [ 30.00697460400005, 49.485456203000069 ], [ 30.002513240000042, 49.486900184000035 ], [ 30.002200394000056, 49.490447031000031 ], [ 29.994841371000064, 49.488704860000041 ], [ 29.990818392000051, 49.492814832000079 ] ] ] } }
+]
+}

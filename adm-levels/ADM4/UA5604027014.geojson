@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0562802787098, "Shape_Area": 5.4482353958299998e-05, "ADM4_EN": "Pantaliia", "ADM4_UA": "Панталія", "ADM4_PCODE": "UA5604027014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pryvilnenska", "ADM3_UA": "Привільненська", "ADM3_PCODE": "UA5604027", "ADM2_EN": "Dubenskyi", "ADM2_UA": "Дубенський", "ADM2_PCODE": "UA5604", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.765206120000073, 50.441175990000033 ], [ 25.758599039000046, 50.440994010000054 ], [ 25.759122999000056, 50.436251 ], [ 25.764065001000063, 50.437803 ], [ 25.769149919000029, 50.43255804000006 ], [ 25.768328040000029, 50.440445010000076 ], [ 25.765206120000073, 50.441175990000033 ] ] ] } }
+]
+}

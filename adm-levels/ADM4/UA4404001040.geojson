@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.07853334264, "Shape_Area": 0.000118749824032, "ADM4_EN": "Provallia", "ADM4_UA": "Провалля", "ADM4_PCODE": "UA4404001040", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dovzhanska", "ADM3_UA": "Довжанська", "ADM3_PCODE": "UA4404001", "ADM2_EN": "Dovzhanskyi", "ADM2_UA": "Довжанський", "ADM2_PCODE": "UA4404", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.830273, 48.153413001000047 ], [ 39.823403, 48.152713 ], [ 39.821155, 48.149779 ], [ 39.81439, 48.145077 ], [ 39.81676, 48.143875 ], [ 39.820469, 48.146417 ], [ 39.830113, 48.143509 ], [ 39.831671, 48.148714 ], [ 39.837329999000076, 48.151122 ], [ 39.830273, 48.153413001000047 ] ] ] } }
+]
+}

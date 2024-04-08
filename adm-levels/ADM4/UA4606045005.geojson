@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0279674480578, "Shape_Area": 2.5712955556e-05, "ADM4_EN": "Dubianka", "ADM4_UA": "Дуб'янка", "ADM4_PCODE": "UA4606045005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shchyretska", "ADM3_UA": "Щирецька", "ADM3_PCODE": "UA4606045", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.809261172000049, 49.697632165000073 ], [ 23.803929027000038, 49.698014236000063 ], [ 23.804047020000041, 49.694840670000076 ], [ 23.809353720000047, 49.695007975000067 ], [ 23.809261172000049, 49.697632165000073 ] ] ] } }
+]
+}

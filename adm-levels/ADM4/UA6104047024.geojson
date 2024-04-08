@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.098554620347700003, "Shape_Area": 0.00035999243196900002, "ADM4_EN": "Romanivka", "ADM4_UA": "Романівка", "ADM4_PCODE": "UA6104047024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Terebovlianska", "ADM3_UA": "Теребовлянська", "ADM3_PCODE": "UA6104047", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.577490488000024, 49.22826118100005 ], [ 25.557445001000076, 49.228231 ], [ 25.556526, 49.224634 ], [ 25.553162, 49.221022 ], [ 25.555530999000041, 49.217818 ], [ 25.557974, 49.219018 ], [ 25.56758783600003, 49.210458727000059 ], [ 25.57374800100007, 49.213131 ], [ 25.580910001000063, 49.211307999000041 ], [ 25.585398, 49.214493 ], [ 25.57727, 49.220599001000039 ], [ 25.577490488000024, 49.22826118100005 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.047229968325499999, "Shape_Area": 7.2577655518699997e-05, "ADM4_EN": "Kustyne", "ADM4_UA": "Кустине", "ADM4_PCODE": "UA5910009013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Znob-Novhorodska", "ADM3_UA": "Зноб-Новгородська", "ADM3_PCODE": "UA5910009", "ADM2_EN": "Shostkynskyi", "ADM2_UA": "Шосткинський", "ADM2_PCODE": "UA5910", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.58322399900004, 52.241254 ], [ 33.585121, 52.245863 ], [ 33.579822, 52.246763 ], [ 33.575923999000054, 52.241213 ], [ 33.570705, 52.24225 ], [ 33.569554001000029, 52.240162 ], [ 33.582008001000077, 52.237232 ], [ 33.58322399900004, 52.241254 ] ] ] } }
+]
+}

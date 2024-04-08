@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.102302835087, "Shape_Area": 0.00019105979039300001, "ADM4_EN": "Pisochky", "ADM4_UA": "Пісочки", "ADM4_PCODE": "UA5306013007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zavodska", "ADM3_UA": "Заводська", "ADM3_PCODE": "UA5306013", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.450077, 50.345886 ], [ 33.453248, 50.347374 ], [ 33.453914, 50.350147 ], [ 33.447596, 50.353348 ], [ 33.445452001000035, 50.345305 ], [ 33.435938, 50.342664 ], [ 33.429019, 50.344879 ], [ 33.424234, 50.339113 ], [ 33.423762, 50.333212 ], [ 33.427740999000036, 50.334406 ], [ 33.434929001000057, 50.334681 ], [ 33.435550999000043, 50.337991 ], [ 33.44328899900006, 50.3409 ], [ 33.447817, 50.345633 ], [ 33.450077, 50.345886 ] ] ] } }
+]
+}

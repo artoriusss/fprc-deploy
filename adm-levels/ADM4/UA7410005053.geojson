@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057222820212699997, "Shape_Area": 4.7964563974600002e-05, "ADM4_EN": "Travneve", "ADM4_UA": "Травневе", "ADM4_PCODE": "UA7410005053", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodnianska", "ADM3_UA": "Городнянська", "ADM3_PCODE": "UA7410005", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 31.479032879000044, 51.930013050000071 ], [ 31.470180120000066, 51.933863070000029 ], [ 31.468547880000074, 51.932478060000051 ], [ 31.479032879000044, 51.930013050000071 ] ] ], [ [ [ 31.472170920000053, 51.923207970000078 ], [ 31.467026880000049, 51.923216970000055 ], [ 31.468133160000036, 51.918181020000077 ], [ 31.472170920000053, 51.923207970000078 ] ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.037743740092699998, "Shape_Area": 6.8900815657100002e-05, "ADM4_EN": "Sukhodil", "ADM4_UA": "Суходіл", "ADM4_PCODE": "UA4402003019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zymohirivska", "ADM3_UA": "Зимогір'ївська", "ADM3_PCODE": "UA4402003", "ADM2_EN": "Alchevskyi", "ADM2_UA": "Алчевський", "ADM2_PCODE": "UA4402", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.043965, 48.591561 ], [ 39.033991, 48.592412 ], [ 39.033893, 48.586158 ], [ 39.040468, 48.585567 ], [ 39.043113, 48.583815 ], [ 39.043965, 48.591561 ] ] ] } }
+]
+}

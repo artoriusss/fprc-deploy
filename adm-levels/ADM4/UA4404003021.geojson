@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.044923408182000003, "Shape_Area": 9.8169017233099999e-05, "ADM4_EN": "Druzhne", "ADM4_UA": "Дружне", "ADM4_PCODE": "UA4404003021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sorokynska", "ADM3_UA": "Сорокинська", "ADM3_PCODE": "UA4404003", "ADM2_EN": "Dovzhanskyi", "ADM2_UA": "Довжанський", "ADM2_PCODE": "UA4404", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.75892900100007, 48.398668 ], [ 39.756984, 48.400341 ], [ 39.751067, 48.396895 ], [ 39.754042, 48.392577 ], [ 39.758969999000044, 48.388192 ], [ 39.76169550000003, 48.387874 ], [ 39.766307, 48.390267 ], [ 39.764071001000048, 48.394031 ], [ 39.75892900100007, 48.398668 ] ] ] } }
+]
+}

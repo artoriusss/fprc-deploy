@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.053385394983400003, "Shape_Area": 0.00014439814270500001, "ADM4_EN": "Kudriave", "ADM4_UA": "ÐÑÐ´ÑÑÐ²Ðµ", "ADM4_RU": "ÐÑÐ´ÑÑÐ²Ð¾Ðµ", "ADM4_PCODE": "UA6506029006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chaplynska", "ADM3_UA": "Ð§Ð°Ð¿Ð»Ð¸Ð½ÑÑÐºÐ°", "ADM3_RU": "Ð§Ð°Ð¿Ð»Ð¸Ð½ÑÐºÐ°Ñ", "ADM3_PCODE": "UA6506029", "ADM2_EN": "Kakhovskyi", "ADM2_UA": "ÐÐ°ÑÐ¾Ð²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ°ÑÐ¾Ð²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA6506", "ADM1_EN": "Khersonska", "ADM1_UA": "Ð¥ÐµÑÑÐ¾Ð½ÑÑÐºÐ°", "ADM1_RU": "Ð¥ÐµÑÑÐ¾Ð½ÑÐºÐ°Ñ", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.529531999000028, 46.508877 ], [ 33.531462, 46.501859 ], [ 33.532179001000031, 46.498935 ], [ 33.528526, 46.498495 ], [ 33.528256, 46.498463 ], [ 33.524834, 46.498078 ], [ 33.524122, 46.50114 ], [ 33.523003, 46.505496 ], [ 33.520255, 46.505162 ], [ 33.518869, 46.509707 ], [ 33.517747, 46.513871 ], [ 33.521633, 46.514191 ], [ 33.524228, 46.51442 ], [ 33.527894, 46.514698 ], [ 33.52932300100008, 46.509634 ], [ 33.529531999000028, 46.508877 ] ] ] } }
-]
-}

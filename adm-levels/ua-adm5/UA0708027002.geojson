@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.038586305931900003, "Shape_Area": 1.92697244356e-05, "ADM4_EN": "Barvinok", "ADM4_UA": "ÐÐ°ÑÐ²ÑÐ½Ð¾Ðº", "ADM4_RU": "ÐÐ°ÑÐ²Ð¸Ð½Ð¾Ðº", "ADM4_PCODE": "UA0708027002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Torchynska", "ADM3_UA": "Ð¢Ð¾ÑÑÐ¸Ð½ÑÑÐºÐ°", "ADM3_RU": "Ð¢Ð¾ÑÑÐ¸Ð½ÑÐºÐ°Ñ", "ADM3_PCODE": "UA0708027", "ADM2_EN": "Lutskyi", "ADM2_UA": "ÐÑÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "ÐÐ¾Ð»Ð¸Ð½ÑÑÐºÐ°", "ADM1_RU": "ÐÐ¾Ð»ÑÐ½ÑÐºÐ°Ñ", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.90983009100006, 50.818668003000028 ], [ 24.901065091000078, 50.816151002000026 ], [ 24.900331092000044, 50.817099003000067 ], [ 24.917890090000071, 50.822033003000058 ], [ 24.918450089000032, 50.821127003000072 ], [ 24.917517090000047, 50.820875003000026 ], [ 24.90983009100006, 50.818668003000028 ] ] ] } }
-]
-}

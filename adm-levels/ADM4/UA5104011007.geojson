@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.076565403528200002, "Shape_Area": 0.000164340131566, "ADM4_EN": "Polianka", "ADM4_UA": "Полянка", "ADM4_PCODE": "UA5104011007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Marazliivska", "ADM3_UA": "Маразліївська", "ADM3_PCODE": "UA5104011", "ADM2_EN": "Bilhorod-Dnistrovskyi", "ADM2_UA": "Білгород-Дністровський", "ADM2_PCODE": "UA5104", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 30.056792001000076, 46.082307 ], [ 30.061542, 46.085248 ], [ 30.061877, 46.091012 ], [ 30.064412, 46.096985 ], [ 30.062518001000058, 46.09803 ], [ 30.054443, 46.096688 ], [ 30.054586, 46.089172 ], [ 30.056792001000076, 46.082307 ] ] ], [ [ [ 30.063240654000026, 46.080217311000069 ], [ 30.055032, 46.079994 ], [ 30.056778458000053, 46.07715513200003 ], [ 30.056909015000031, 46.072128918000033 ], [ 30.062269761000039, 46.072209791000034 ], [ 30.063240654000026, 46.080217311000069 ] ] ] ] } }
+]
+}

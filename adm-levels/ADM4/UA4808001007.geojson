@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.038464441015600002, "Shape_Area": 8.3812654617599998e-05, "ADM4_EN": "Novyi Stavok", "ADM4_UA": "Новий Ставок", "ADM4_PCODE": "UA4808001007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Arbuzynska", "ADM3_UA": "Арбузинська", "ADM3_PCODE": "UA4808001", "ADM2_EN": "Pervomaiskyi", "ADM2_UA": "Первомайський", "ADM2_PCODE": "UA4808", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.423971176000066, 47.80166857100005 ], [ 31.415167059000055, 47.800809614000059 ], [ 31.413257687000055, 47.798558189000062 ], [ 31.415034282000079, 47.794144553000081 ], [ 31.420981085000051, 47.794274124000026 ], [ 31.423910662000026, 47.792577197000071 ], [ 31.425903958000049, 47.796150344000068 ], [ 31.423971176000066, 47.80166857100005 ] ] ] } }
+]
+}

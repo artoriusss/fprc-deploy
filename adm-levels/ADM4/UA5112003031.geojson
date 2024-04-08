@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0527504494689, "Shape_Area": 7.7852348501600001e-05, "ADM4_EN": "Semeno-Karpivka", "ADM4_UA": "Семено-Карпівка", "ADM4_PCODE": "UA5112003031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Baltska", "ADM3_UA": "Балтська", "ADM3_PCODE": "UA5112003", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 29.516109999000037, 47.926405 ], [ 29.51034, 47.927856 ], [ 29.510336002000031, 47.924504 ], [ 29.515634001000024, 47.924597 ], [ 29.516109999000037, 47.926405 ] ] ], [ [ [ 29.498425999000062, 47.910267 ], [ 29.499933999000064, 47.912695 ], [ 29.494326, 47.915597 ], [ 29.488058999000032, 47.911788 ], [ 29.490539, 47.907877 ], [ 29.494138, 47.907305 ], [ 29.498425999000062, 47.910267 ] ] ] ] } }
+]
+}

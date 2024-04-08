@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057562569786000002, "Shape_Area": 3.1067586775099998e-05, "ADM4_EN": "Zashliakhom", "ADM4_UA": "Зашляхом", "ADM4_PCODE": "UA6102005012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vyshnivetska", "ADM3_UA": "Вишнівецька", "ADM3_PCODE": "UA6102005", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.755335119000051, 49.827612681000062 ], [ 25.753791956000043, 49.829060318000074 ], [ 25.75262, 49.832221 ], [ 25.75372800100007, 49.834147 ], [ 25.752511023000068, 49.834833235000076 ], [ 25.751302459000044, 49.831941590000042 ], [ 25.752415988000052, 49.829572192000057 ], [ 25.75208228200006, 49.826803372000029 ], [ 25.755335119000051, 49.827612681000062 ] ] ] } }
+]
+}

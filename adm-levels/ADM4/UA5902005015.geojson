@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13033944321, "Shape_Area": 0.00028891805882400002, "ADM4_EN": "Kurylivka", "ADM4_UA": "Курилівка", "ADM4_PCODE": "UA5902005015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Duboviazivska", "ADM3_UA": "Дубов'язівська", "ADM3_PCODE": "UA5902005", "ADM2_EN": "Konotopskyi", "ADM2_UA": "Конотопський", "ADM2_PCODE": "UA5902", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.397827001000053, 51.08287 ], [ 33.392184, 51.088074 ], [ 33.377845, 51.084976 ], [ 33.380117, 51.080689 ], [ 33.381637, 51.069228 ], [ 33.386301, 51.065264 ], [ 33.386292, 51.071437 ], [ 33.38819, 51.075846 ], [ 33.399857001000044, 51.077449 ], [ 33.402933, 51.080374 ], [ 33.402283, 51.08357 ], [ 33.397827001000053, 51.08287 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.076305489532900006, "Shape_Area": 0.000113164786265, "ADM4_EN": "Nove Selo", "ADM4_UA": "Нове Село", "ADM4_PCODE": "UA4602003023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Drohobytska", "ADM3_UA": "Дрогобицька", "ADM3_PCODE": "UA4602003", "ADM2_EN": "Drohobytskyi", "ADM2_UA": "Дрогобицький", "ADM2_PCODE": "UA4602", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.596412317000045, 49.349448012000039 ], [ 23.590758318000042, 49.339681012000028 ], [ 23.597678316000042, 49.33885001200008 ], [ 23.601658316000055, 49.337129012000048 ], [ 23.602624315000071, 49.339698012000042 ], [ 23.598987317000024, 49.341675012000053 ], [ 23.60247965800005, 49.349213059000078 ], [ 23.596412317000045, 49.349448012000039 ] ] ] } }
+]
+}

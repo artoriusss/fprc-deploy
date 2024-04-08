@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.082824836495399998, "Shape_Area": 0.00014626558823700001, "ADM4_EN": "Drutske", "ADM4_UA": "Друцьке", "ADM4_PCODE": "UA7410011006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivanivska", "ADM3_UA": "Іванівська", "ADM3_PCODE": "UA7410011", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.158343800000068, 51.319988010000031 ], [ 31.15090907900003, 51.319026990000054 ], [ 31.147979040000052, 51.316536960000064 ], [ 31.143048119000071, 51.317487990000075 ], [ 31.142057040000054, 51.315759 ], [ 31.14618192000006, 51.311825010000064 ], [ 31.162240080000061, 51.312031920000038 ], [ 31.166744040000026, 51.313643010000078 ], [ 31.164669, 51.317799930000035 ], [ 31.161315961000071, 51.317695980000053 ], [ 31.158343800000068, 51.319988010000031 ] ] ] } }
+]
+}

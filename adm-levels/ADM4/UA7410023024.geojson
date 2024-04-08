@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.080610747613499997, "Shape_Area": 0.000104780128891, "ADM4_EN": "Mekshunivka", "ADM4_UA": "Мекшунівка", "ADM4_PCODE": "UA7410023024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Liubetska", "ADM3_UA": "Любецька", "ADM3_PCODE": "UA7410023", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.757892211000069, 51.569673844000079 ], [ 30.757841283000062, 51.567608872000051 ], [ 30.764966288000039, 51.565654857000027 ], [ 30.773004220000075, 51.566137806000029 ], [ 30.784645289000025, 51.562705802000039 ], [ 30.789463209000075, 51.562929856000039 ], [ 30.783533309000063, 51.567531826000049 ], [ 30.778471258000025, 51.569371846000081 ], [ 30.76204425800006, 51.568235813000058 ], [ 30.757892211000069, 51.569673844000079 ] ] ] } }
+]
+}

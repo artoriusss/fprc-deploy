@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.031612398675900003, "Shape_Area": 4.03821033171e-05, "ADM4_EN": "Ternovi Pody", "ADM4_UA": "Тернові Поди", "ADM4_PCODE": "UA4806037020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shevchenkivska", "ADM3_UA": "Шевченківська", "ADM3_PCODE": "UA4806037", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.393663801000059, 46.861687540000048 ], [ 32.380958207000049, 46.860691319000068 ], [ 32.382724775000042, 46.857928117000029 ], [ 32.387954888000024, 46.857194590000063 ], [ 32.392414531000043, 46.85862257000008 ], [ 32.393663801000059, 46.861687540000048 ] ] ] } }
+]
+}

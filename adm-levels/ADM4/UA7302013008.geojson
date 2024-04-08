@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.141324780994, "Shape_Area": 0.00012939871929800001, "ADM4_EN": "Malyi Dykhtynets", "ADM4_UA": "Малий Дихтинець", "ADM4_PCODE": "UA7302013008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Putylska", "ADM3_UA": "Путильська", "ADM3_PCODE": "UA7302013", "ADM2_EN": "Vyzhnytskyi", "ADM2_UA": "Вижницький", "ADM2_PCODE": "UA7302", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.036007291000033, 48.045938050000075 ], [ 25.035769344000073, 48.049221706000026 ], [ 25.030677298000057, 48.04550974700004 ], [ 25.02725087400006, 48.039037613000062 ], [ 25.029487567000047, 48.036705741000048 ], [ 25.032295331000057, 48.038371364000056 ], [ 25.036007291000033, 48.045938050000075 ] ] ] } }
+]
+}

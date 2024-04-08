@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0424448892467, "Shape_Area": 7.8460848556799999e-05, "ADM4_EN": "Perekop", "ADM4_UA": "Перекоп", "ADM4_PCODE": "UA6504001038", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Henicheska", "ADM3_UA": "Генічеська", "ADM3_PCODE": "UA6504001", "ADM2_EN": "Henicheskyi", "ADM2_UA": "Генічеський", "ADM2_PCODE": "UA6504", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.020047, 46.318742 ], [ 35.015952, 46.318679 ], [ 35.017693, 46.311986 ], [ 35.025725, 46.312784 ], [ 35.030716, 46.31236 ], [ 35.029726, 46.318418 ], [ 35.020179, 46.317347 ], [ 35.020047, 46.318742 ] ] ] } }
+]
+}

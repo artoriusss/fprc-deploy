@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.056810246362099998, "Shape_Area": 4.3258396447500003e-05, "ADM4_EN": "Mostyshche", "ADM4_UA": "Мостище", "ADM4_PCODE": "UA5602015006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rafalivska", "ADM3_UA": "Рафалівська", "ADM3_PCODE": "UA5602015", "ADM2_EN": "Varaskyi", "ADM2_UA": "Вараський", "ADM2_PCODE": "UA5602", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.096109839000064, 51.319970010000077 ], [ 26.095160880000037, 51.321068010000033 ], [ 26.091627121000045, 51.319627020000041 ], [ 26.084721420000051, 51.320012490000067 ], [ 26.078790960000049, 51.316821 ], [ 26.088765841000054, 51.316505010000071 ], [ 26.096109839000064, 51.319970010000077 ] ] ] } }
+]
+}

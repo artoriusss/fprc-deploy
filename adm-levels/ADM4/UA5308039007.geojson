@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.076972447116600007, "Shape_Area": 0.00015497353738199999, "ADM4_EN": "Brateshky", "ADM4_UA": "Братешки", "ADM4_PCODE": "UA5308039007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Reshetylivska", "ADM3_UA": "Решетилівська", "ADM3_PCODE": "UA5308039", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.03303868100005, 49.688190484000074 ], [ 34.026963, 49.687648 ], [ 34.026102999000045, 49.684921 ], [ 34.028697156000078, 49.677288607000037 ], [ 34.035783785000035, 49.675793510000062 ], [ 34.038259666000044, 49.671460249000063 ], [ 34.043341, 49.668868 ], [ 34.043852985000058, 49.672816271000045 ], [ 34.033438, 49.683067 ], [ 34.035964848000049, 49.685796465000067 ], [ 34.03303868100005, 49.688190484000074 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.042809053971299998, "Shape_Area": 0.000106431575531, "ADM4_EN": "Olenivka", "ADM4_UA": "Оленівка", "ADM4_PCODE": "UA4806037012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shevchenkivska", "ADM3_UA": "Шевченківська", "ADM3_PCODE": "UA4806037", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.304651300000046, 46.932008393000046 ], [ 32.309938179000028, 46.932640144000061 ], [ 32.307173390000059, 46.943347754000058 ], [ 32.30225966200004, 46.942803833000028 ], [ 32.297582348000049, 46.940133426000045 ], [ 32.299595143000033, 46.931277850000072 ], [ 32.304651300000046, 46.932008393000046 ] ] ] } }
+]
+}

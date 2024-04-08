@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0664730037784, "Shape_Area": 0.00016105084529000001, "ADM4_EN": "Kravchenky", "ADM4_UA": "Кравченки", "ADM4_PCODE": "UA5306001014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilotserkivska", "ADM3_UA": "Білоцерківська", "ADM3_PCODE": "UA5306001", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.685011, 49.540419 ], [ 33.678701001000036, 49.540658 ], [ 33.675635, 49.537174 ], [ 33.673964001000058, 49.532033 ], [ 33.681952, 49.525739 ], [ 33.689136, 49.527371 ], [ 33.688461, 49.531653 ], [ 33.691103, 49.535129 ], [ 33.684074, 49.534533 ], [ 33.685011, 49.540419 ] ] ] } }
+]
+}

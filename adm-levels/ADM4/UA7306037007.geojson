@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.106750952733, "Shape_Area": 0.00017743242749599999, "ADM4_EN": "Dubivtsi", "ADM4_UA": "Дубівці", "ADM4_PCODE": "UA7306037007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mamaivska", "ADM3_UA": "Мамаївська", "ADM3_PCODE": "UA7306037", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.708179001000076, 48.36075 ], [ 25.706469999000035, 48.357436 ], [ 25.70257, 48.354786 ], [ 25.704278001000034, 48.347276 ], [ 25.70895, 48.34734 ], [ 25.713337, 48.349855 ], [ 25.720084, 48.350175 ], [ 25.719922999000062, 48.354941 ], [ 25.708179001000076, 48.36075 ] ] ] } }
+]
+}

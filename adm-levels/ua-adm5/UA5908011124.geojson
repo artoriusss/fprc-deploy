@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.022488471447099999, "Shape_Area": 3.17577511625e-05, "ADM4_EN": "Novopetrivka", "ADM4_UA": "ÐÐ¾Ð²Ð¾Ð¿ÐµÑÑÑÐ²ÐºÐ°", "ADM4_RU": "ÐÐ¾Ð²Ð¾Ð¿ÐµÑÑÐ¾Ð²ÐºÐ°", "ADM4_PCODE": "UA5908011124", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lebedynska", "ADM3_UA": "ÐÐµÐ±ÐµÐ´Ð¸Ð½ÑÑÐºÐ°", "ADM3_RU": "ÐÐµÐ±ÐµÐ´Ð¸Ð½ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5908011", "ADM2_EN": "Sumskyi", "ADM2_UA": "Ð¡ÑÐ¼ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¡ÑÐ¼ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Ð¡ÑÐ¼ÑÑÐºÐ°", "ADM1_RU": "Ð¡ÑÐ¼ÑÐºÐ°Ñ", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.217387, 50.823371 ], [ 34.215713, 50.823341 ], [ 34.211815, 50.823544 ], [ 34.210184001000073, 50.825216 ], [ 34.210179999000047, 50.826924 ], [ 34.210057999000071, 50.827695 ], [ 34.217045001000031, 50.8284 ], [ 34.217456, 50.825945 ], [ 34.217387, 50.823371 ] ] ] } }
-]
-}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0409428862166, "Shape_Area": 6.7817169496099994e-05, "ADM4_EN": "Sadove", "ADM4_UA": "Садове", "ADM4_PCODE": "UA6504007036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novotroitska", "ADM3_UA": "Новотроїцька", "ADM3_PCODE": "UA6504007", "ADM2_EN": "Henicheskyi", "ADM2_UA": "Генічеський", "ADM2_PCODE": "UA6504", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.403461, 46.27657 ], [ 34.397252999000045, 46.277463 ], [ 34.396332, 46.275934 ], [ 34.397947001000034, 46.267946 ], [ 34.402814001000024, 46.267348 ], [ 34.401849, 46.271386 ], [ 34.406107, 46.273038 ], [ 34.403461, 46.27657 ] ] ] } }
+]
+}

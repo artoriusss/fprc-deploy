@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.081622271959699996, "Shape_Area": 0.000117565861798, "ADM4_EN": "Lushnyky", "ADM4_UA": "Лушники", "ADM4_PCODE": "UA5910017021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shostkynska", "ADM3_UA": "Шосткинська", "ADM3_PCODE": "UA5910017", "ADM2_EN": "Shostkynskyi", "ADM2_UA": "Шосткинський", "ADM2_PCODE": "UA5910", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.197112, 51.707651 ], [ 33.194878001000063, 51.708505 ], [ 33.187833001000058, 51.703717 ], [ 33.187064, 51.701559 ], [ 33.191584, 51.69731 ], [ 33.190798999000037, 51.692098 ], [ 33.195393, 51.689385 ], [ 33.194950999000071, 51.694242 ], [ 33.198912999000072, 51.696877 ], [ 33.200854001000039, 51.700109 ], [ 33.200269, 51.703027 ], [ 33.191512, 51.702779 ], [ 33.197112, 51.707651 ] ] ] } }
+]
+}

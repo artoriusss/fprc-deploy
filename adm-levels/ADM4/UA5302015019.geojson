@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.077077169028000006, "Shape_Area": 0.00013735346025899999, "ADM4_EN": "Strokachi", "ADM4_UA": "Строкачі", "ADM4_PCODE": "UA5302015019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Obolonska", "ADM3_UA": "Оболонська", "ADM3_PCODE": "UA5302015", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.871273001000077, 49.729302 ], [ 32.872145999000054, 49.726306 ], [ 32.878302999000027, 49.725231 ], [ 32.881772, 49.719064 ], [ 32.88533299900007, 49.71772 ], [ 32.888090001000023, 49.722038 ], [ 32.89065, 49.720631 ], [ 32.893987, 49.72497 ], [ 32.890165001000071, 49.728101 ], [ 32.88585899900005, 49.727481 ], [ 32.879325, 49.729008 ], [ 32.871273001000077, 49.729302 ] ] ] } }
+]
+}

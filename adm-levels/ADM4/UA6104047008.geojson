@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.068363814133499998, "Shape_Area": 0.000100739993087, "ADM4_EN": "Zalavie", "ADM4_UA": "Залав'є", "ADM4_PCODE": "UA6104047008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Terebovlianska", "ADM3_UA": "Теребовлянська", "ADM3_PCODE": "UA6104047", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.695241994000071, 49.262507924000033 ], [ 25.689168065000047, 49.26174762100004 ], [ 25.691509221000047, 49.257600049000075 ], [ 25.689656613000068, 49.254896686000052 ], [ 25.691830664000065, 49.252558178000072 ], [ 25.698274061000063, 49.250696424000068 ], [ 25.706554849000042, 49.25593387400005 ], [ 25.698571474000062, 49.256348680000031 ], [ 25.696398919000046, 49.257815006000044 ], [ 25.695241994000071, 49.262507924000033 ] ] ] } }
+]
+}

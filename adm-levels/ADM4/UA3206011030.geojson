@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.040650564318699997, "Shape_Area": 9.9889674541799999e-05, "ADM4_EN": "Svoboda", "ADM4_UA": "Свобода", "ADM4_PCODE": "UA3206011030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zghurivska", "ADM3_UA": "Згурівська", "ADM3_PCODE": "UA3206011", "ADM2_EN": "Brovarskyi", "ADM2_UA": "Броварський", "ADM2_PCODE": "UA3206", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.77593392600005, 50.42905569100003 ], [ 31.778361826000037, 50.439088656000081 ], [ 31.770720872000027, 50.439775651000048 ], [ 31.767822826000042, 50.438598689000059 ], [ 31.764728826000066, 50.434105726000041 ], [ 31.770565864000048, 50.43025366300003 ], [ 31.77593392600005, 50.42905569100003 ] ] ] } }
+]
+}

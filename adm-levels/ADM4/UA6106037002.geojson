@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.056061281797599997, "Shape_Area": 6.7164386283999995e-05, "ADM4_EN": "Anhelivka", "ADM4_UA": "Ангелівка", "ADM4_PCODE": "UA6106037002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tovstenska", "ADM3_UA": "Товстенська", "ADM3_PCODE": "UA6106037", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.673032578000061, 48.854746254000077 ], [ 25.669949, 48.854118 ], [ 25.667008594000038, 48.856098037000038 ], [ 25.662768659000051, 48.851356863000035 ], [ 25.665892388000032, 48.850350781000031 ], [ 25.669798, 48.852400999000054 ], [ 25.67654235200007, 48.850774404000049 ], [ 25.680661, 48.851789001000043 ], [ 25.68144686100004, 48.854185852000057 ], [ 25.674974045000056, 48.855602086000033 ], [ 25.673032578000061, 48.854746254000077 ] ] ] } }
+]
+}

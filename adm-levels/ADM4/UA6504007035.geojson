@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.066834665903300006, "Shape_Area": 0.000139984368889, "ADM4_EN": "Popelak", "ADM4_UA": "Попелак", "ADM4_PCODE": "UA6504007035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novotroitska", "ADM3_UA": "Новотроїцька", "ADM3_PCODE": "UA6504007", "ADM2_EN": "Henicheskyi", "ADM2_UA": "Генічеський", "ADM2_PCODE": "UA6504", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.432847, 46.531073 ], [ 34.425900001000059, 46.531564 ], [ 34.429351, 46.515212 ], [ 34.436175001000038, 46.515811 ], [ 34.434267, 46.52705 ], [ 34.441453, 46.52776 ], [ 34.440938, 46.530318 ], [ 34.435816001000035, 46.529456 ], [ 34.432847, 46.531073 ] ] ] } }
+]
+}

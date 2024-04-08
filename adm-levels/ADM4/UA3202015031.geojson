@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.043140264256400003, "Shape_Area": 4.4236926197999997e-05, "ADM4_EN": "Savran", "ADM4_UA": "Саврань", "ADM4_PCODE": "UA3202015031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Skvyrska", "ADM3_UA": "Сквирська", "ADM3_PCODE": "UA3202015", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.55778665400004, 49.698993212000062 ], [ 29.553330619000064, 49.702324221000026 ], [ 29.551172583000039, 49.696366285000067 ], [ 29.559320566000054, 49.696103278000066 ], [ 29.55778665400004, 49.698993212000062 ] ] ] } }
+]
+}

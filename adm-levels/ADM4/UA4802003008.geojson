@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11480559366199999, "Shape_Area": 7.0269558877900001e-05, "ADM4_EN": "Kavkaz", "ADM4_UA": "Кавказ", "ADM4_PCODE": "UA4802003008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bereznehuvatska", "ADM3_UA": "Березнегуватська", "ADM3_PCODE": "UA4802003", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 33.057365711000045, 47.292170626000029 ], [ 33.06755286300006, 47.284906535000061 ], [ 33.067320908000056, 47.28815516700007 ], [ 33.062460497000075, 47.289270498000064 ], [ 33.057365711000045, 47.292170626000029 ] ] ], [ [ [ 33.065889318000075, 47.283080969000025 ], [ 33.054407710000078, 47.28995881000003 ], [ 33.054170494000061, 47.288864192000062 ], [ 33.064935559000048, 47.28247465100003 ], [ 33.065889318000075, 47.283080969000025 ] ] ] ] } }
+]
+}

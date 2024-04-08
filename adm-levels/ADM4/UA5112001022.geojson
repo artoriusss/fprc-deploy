@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.117073485396, "Shape_Area": 0.00023782193082299999, "ADM4_EN": "Novoselivka", "ADM4_UA": "Новоселівка", "ADM4_PCODE": "UA5112001022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ananivska", "ADM3_UA": "Ананьївська", "ADM3_PCODE": "UA5112001", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.932147, 47.638242 ], [ 29.924301, 47.642257 ], [ 29.905496, 47.643991 ], [ 29.907221170000071, 47.636954275000051 ], [ 29.913973, 47.637164 ], [ 29.916706, 47.634478 ], [ 29.928974999000047, 47.635884 ], [ 29.933038, 47.633124 ], [ 29.943593001000067, 47.6304 ], [ 29.948737, 47.63287 ], [ 29.932147, 47.638242 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0950063313533, "Shape_Area": 0.00014176493951900001, "ADM4_EN": "Kononcha", "ADM4_UA": "Кононча", "ADM4_PCODE": "UA7108015004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kanivska", "ADM3_UA": "Канівська", "ADM3_PCODE": "UA7108015", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.441093, 49.644664 ], [ 31.449495, 49.64408 ], [ 31.453303, 49.642235 ], [ 31.45837, 49.644138 ], [ 31.466208, 49.645544 ], [ 31.469361, 49.645284 ], [ 31.47707, 49.647957 ], [ 31.482617001000051, 49.648998 ], [ 31.481863395000062, 49.651741188000074 ], [ 31.469528, 49.651323 ], [ 31.465399999000056, 49.650088 ], [ 31.456171, 49.645722 ], [ 31.45161, 49.648159 ], [ 31.44564, 49.645693 ], [ 31.440669999000079, 49.646466 ], [ 31.441093, 49.644664 ] ] ] } }
+]
+}

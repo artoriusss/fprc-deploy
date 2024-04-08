@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.066040564844199998, "Shape_Area": 7.0068194751199997e-05, "ADM4_EN": "Svitanok", "ADM4_UA": "Світанок", "ADM4_PCODE": "UA6508005008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dolmativska", "ADM3_UA": "Долматівська", "ADM3_PCODE": "UA6508005", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Скадовський", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.537204001000077, 46.269661 ], [ 32.537021, 46.264046 ], [ 32.541022001000044, 46.261907 ], [ 32.54821, 46.262651 ], [ 32.547348999000064, 46.266317 ], [ 32.543455, 46.268827 ], [ 32.538054999000053, 46.267341 ], [ 32.537204001000077, 46.269661 ] ] ] } }
+]
+}

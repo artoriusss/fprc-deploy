@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.094549607155300003, "Shape_Area": 0.000219063948605, "ADM4_EN": "Shchepaniv", "ADM4_UA": "Щепанів", "ADM4_PCODE": "UA6104023036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozivska", "ADM3_UA": "Козівська", "ADM3_PCODE": "UA6104023", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.116293001000031, 49.377603 ], [ 25.111136, 49.379099 ], [ 25.103184001000045, 49.378929 ], [ 25.101931001000025, 49.375807 ], [ 25.098925, 49.373811 ], [ 25.099525, 49.369475 ], [ 25.109231, 49.370082 ], [ 25.119633, 49.368404 ], [ 25.121451, 49.369963 ], [ 25.121854, 49.375109 ], [ 25.12981632900005, 49.374532138000063 ], [ 25.130179001000045, 49.377217001000076 ], [ 25.120075001000032, 49.377472 ], [ 25.116293001000031, 49.377603 ] ] ] } }
+]
+}

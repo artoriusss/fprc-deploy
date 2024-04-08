@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0539510351072, "Shape_Area": 7.1696134210399995e-05, "ADM4_EN": "Vyriv", "ADM4_UA": "Вирів", "ADM4_PCODE": "UA4606015003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhovtanetska", "ADM3_UA": "Жовтанецька", "ADM3_PCODE": "UA4606015", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.367530154000065, 49.991284005000068 ], [ 24.351898157000051, 49.992998005000061 ], [ 24.351436156000034, 49.991220005000059 ], [ 24.358983155000033, 49.990675005000071 ], [ 24.358861155000056, 49.987679006000064 ], [ 24.365654154000026, 49.983742006000057 ], [ 24.368530154000041, 49.986670005000065 ], [ 24.367530154000065, 49.991284005000068 ] ] ] } }
+]
+}

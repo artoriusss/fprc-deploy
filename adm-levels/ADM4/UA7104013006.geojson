@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.100776463106, "Shape_Area": 0.000314671395068, "ADM4_EN": "Zhovnyne", "ADM4_UA": "Жовнине", "ADM4_PCODE": "UA7104013006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Irkliivska", "ADM3_UA": "Іркліївська", "ADM3_PCODE": "UA7104013", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.675793112000065, 49.394485394000071 ], [ 32.664280065000071, 49.391804856000078 ], [ 32.665779433000068, 49.385770102000038 ], [ 32.676195064000069, 49.381872838000049 ], [ 32.684947967000028, 49.374102706000031 ], [ 32.69353168400005, 49.371121097000071 ], [ 32.697852574000024, 49.372262946000035 ], [ 32.701480549000053, 49.375159536000069 ], [ 32.6845, 49.383527 ], [ 32.676738, 49.394245 ], [ 32.675793112000065, 49.394485394000071 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.107745707404, "Shape_Area": 0.000153473352508, "ADM4_EN": "Saranchivka", "ADM4_UA": "Саранчівка", "ADM4_PCODE": "UA5308009060", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zinkivska", "ADM3_UA": "Зіньківська", "ADM3_PCODE": "UA5308009", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.55144800100004, 50.119821 ], [ 34.549784, 50.117761 ], [ 34.538451, 50.114218 ], [ 34.530662, 50.110519 ], [ 34.528428, 50.10427 ], [ 34.525302, 50.101993 ], [ 34.526034, 50.098518 ], [ 34.532772, 50.100258 ], [ 34.535925999000028, 50.107315 ], [ 34.540676, 50.113604 ], [ 34.547666, 50.11342 ], [ 34.550227, 50.116063 ], [ 34.557198001000074, 50.114522 ], [ 34.556869, 50.118539 ], [ 34.55144800100004, 50.119821 ] ] ] } }
+]
+}

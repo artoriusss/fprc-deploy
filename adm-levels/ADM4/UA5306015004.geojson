@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.029614081724299999, "Shape_Area": 4.4582672937699997e-05, "ADM4_EN": "Bezvodivka", "ADM4_UA": "Безводівка", "ADM4_PCODE": "UA5306015004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Komyshnianska", "ADM3_UA": "Комишнянська", "ADM3_PCODE": "UA5306015", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.502409630000045, 50.17447358700008 ], [ 33.502314701000046, 50.182600195000077 ], [ 33.49618575900007, 50.181713691000027 ], [ 33.498104400000045, 50.174117368000054 ], [ 33.502409630000045, 50.17447358700008 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.113069933155, "Shape_Area": 0.00016800899357, "ADM4_EN": "Sterche", "ADM4_UA": "Стерче", "ADM4_PCODE": "UA7306015007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hlybotska", "ADM3_UA": "Глибоцька", "ADM3_PCODE": "UA7306015", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.038138, 48.029983 ], [ 26.041524, 48.034752 ], [ 26.039727, 48.036908 ], [ 26.031927, 48.035011 ], [ 26.030321999000023, 48.031364 ], [ 26.023647, 48.029757 ], [ 26.030889001000048, 48.021849 ], [ 26.035722, 48.026342 ], [ 26.038138, 48.029983 ] ] ] } }
+]
+}

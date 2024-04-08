@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.073612609215100003, "Shape_Area": 0.00016285500474, "ADM4_EN": "Kairy", "ADM4_UA": "Каїри", "ADM4_PCODE": "UA5102013003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kurisovska", "ADM3_UA": "Курісовська", "ADM3_PCODE": "UA5102013", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.965124, 46.94358 ], [ 30.953488, 46.940743 ], [ 30.952652, 46.934941 ], [ 30.961281, 46.937186 ], [ 30.964222, 46.935137 ], [ 30.976757, 46.929475 ], [ 30.975728, 46.935862 ], [ 30.972358999000051, 46.939191 ], [ 30.967038, 46.941351 ], [ 30.965124, 46.94358 ] ] ] } }
+]
+}

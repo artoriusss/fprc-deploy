@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.050555249298699999, "Shape_Area": 0.00011634108525, "ADM4_EN": "Pryvitne", "ADM4_UA": "Привітне", "ADM4_PCODE": "UA7104019026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chornobaivska", "ADM3_UA": "Чорнобаївська", "ADM3_PCODE": "UA7104019", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.412787592000029, 49.80826828000005 ], [ 32.411175656000069, 49.811271403000035 ], [ 32.404217395000046, 49.80141923900004 ], [ 32.409379009000077, 49.800255767000067 ], [ 32.417834120000066, 49.800358044000063 ], [ 32.42179545700003, 49.802382540000053 ], [ 32.418181744000037, 49.809700435000082 ], [ 32.412787592000029, 49.80826828000005 ] ] ] } }
+]
+}

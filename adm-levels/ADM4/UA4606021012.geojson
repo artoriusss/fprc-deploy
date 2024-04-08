@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.053787241017799997, "Shape_Area": 0.000111520701258, "ADM4_EN": "Monastyrets", "ADM4_UA": "Монастирець", "ADM4_PCODE": "UA4606021012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Komarnivska", "ADM3_UA": "Комарнівська", "ADM3_PCODE": "UA4606021", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.698128291000046, 49.544132011000045 ], [ 23.690848292000055, 49.547099011000057 ], [ 23.684178294000048, 49.545449011000073 ], [ 23.687285293000059, 49.54199101100005 ], [ 23.693742291000035, 49.539139011000032 ], [ 23.698147291000055, 49.539149011000063 ], [ 23.703865289000078, 49.53703401100006 ], [ 23.707733289000032, 49.539164011000025 ], [ 23.702551291000077, 49.542541011000026 ], [ 23.698128291000046, 49.544132011000045 ] ] ] } }
+]
+}

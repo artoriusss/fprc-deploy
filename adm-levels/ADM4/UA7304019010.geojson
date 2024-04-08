@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.089640658645200003, "Shape_Area": 0.00027315869745900002, "ADM4_EN": "Pashkivtsi", "ADM4_UA": "Пашківці", "ADM4_PCODE": "UA7304019010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khotynska", "ADM3_UA": "Хотинська", "ADM3_PCODE": "UA7304019", "ADM2_EN": "Dnistrovskyi", "ADM2_UA": "Дністровський", "ADM2_PCODE": "UA7304", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.470146999000065, 48.400861 ], [ 26.467376, 48.399762 ], [ 26.463621, 48.395763 ], [ 26.465438, 48.391895 ], [ 26.473047, 48.390236 ], [ 26.47553, 48.384252 ], [ 26.4799, 48.382766 ], [ 26.480078, 48.38697 ], [ 26.484823001000052, 48.388258 ], [ 26.490435001000037, 48.392097 ], [ 26.49051, 48.395233 ], [ 26.483680999000057, 48.398781 ], [ 26.477203, 48.400709 ], [ 26.475746999000023, 48.398912 ], [ 26.470146999000065, 48.400861 ] ] ] } }
+]
+}

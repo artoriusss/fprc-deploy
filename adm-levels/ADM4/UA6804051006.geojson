@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.099584450202999997, "Shape_Area": 0.000113776063695, "ADM4_EN": "Motrunky", "ADM4_UA": "Мотрунки", "ADM4_PCODE": "UA6804051006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shchyborivska", "ADM3_UA": "Щиборівська", "ADM3_PCODE": "UA6804051", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.10728, 49.644544 ], [ 27.097577999000066, 49.646538 ], [ 27.098933, 49.643947 ], [ 27.106575001000067, 49.643175 ], [ 27.105801001000032, 49.639576 ], [ 27.108187, 49.635857 ], [ 27.105706, 49.632273 ], [ 27.112392001000046, 49.632726 ], [ 27.117745, 49.637167 ], [ 27.113359001000049, 49.643197 ], [ 27.10728, 49.644544 ] ] ] } }
+]
+}

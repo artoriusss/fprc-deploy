@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.034634043541100001, "Shape_Area": 1.81322464982e-05, "ADM4_EN": "Zakrevky", "ADM4_UA": "Закревки", "ADM4_PCODE": "UA7108029014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Moshnivska", "ADM3_UA": "Мошнівська", "ADM3_PCODE": "UA7108029", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.678365325000073, 49.444261786000027 ], [ 31.685037558000033, 49.448633765000068 ], [ 31.68262, 49.449312 ], [ 31.678948266000077, 49.446579782000072 ], [ 31.678365325000073, 49.444261786000027 ] ] ] } }
+]
+}

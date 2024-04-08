@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.041144877468400003, "Shape_Area": 9.8655693014399999e-05, "ADM4_EN": "Berezivka", "ADM4_UA": "Березівка", "ADM4_PCODE": "UA2310001003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilmatska", "ADM3_UA": "Більмацька", "ADM3_PCODE": "UA2310001", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.587680704000036, 47.483640994000041 ], [ 36.583828167000036, 47.483794530000068 ], [ 36.580994650000036, 47.473948397000072 ], [ 36.590176495000037, 47.473117330000036 ], [ 36.592938748000051, 47.483025507000036 ], [ 36.587680704000036, 47.483640994000041 ] ] ] } }
+]
+}

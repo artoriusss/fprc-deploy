@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.077148415971900003, "Shape_Area": 0.00012674327748399999, "ADM4_EN": "Kamianka", "ADM4_UA": "Кам'янка", "ADM4_PCODE": "UA7410033020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ripkynska", "ADM3_UA": "Ріпкинська", "ADM3_PCODE": "UA7410033", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.833652959000062, 51.922706040000037 ], [ 30.82794804100007, 51.922638 ], [ 30.82530096000005, 51.917996070000072 ], [ 30.822684120000076, 51.916589010000052 ], [ 30.818918880000069, 51.911199990000057 ], [ 30.821339881000029, 51.909481980000066 ], [ 30.826091161000079, 51.91068996000007 ], [ 30.828265920000035, 51.913503990000038 ], [ 30.833273881000025, 51.912389070000074 ], [ 30.835226160000047, 51.919992990000026 ], [ 30.833652959000062, 51.922706040000037 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11570943781199999, "Shape_Area": 0.000143228714505, "ADM4_EN": "Kolky", "ADM4_UA": "Колки", "ADM4_PCODE": "UA6804045022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Teofipolska", "ADM3_UA": "Теофіпольська", "ADM3_PCODE": "UA6804045", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.607879, 49.797437 ], [ 26.602394, 49.797675 ], [ 26.599972999000045, 49.794788 ], [ 26.593417, 49.796195 ], [ 26.590010001000053, 49.794734 ], [ 26.59283, 49.790657 ], [ 26.59691, 49.788391 ], [ 26.606444001000057, 49.78808 ], [ 26.60752, 49.789821 ], [ 26.616645, 49.789566 ], [ 26.616768, 49.791199 ], [ 26.607232001000057, 49.795274 ], [ 26.607879, 49.797437 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10752672080800001, "Shape_Area": 0.000195090782461, "ADM4_EN": "Dudnykove", "ADM4_UA": "Дудникове", "ADM4_PCODE": "UA5308015003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kolomatska", "ADM3_UA": "Коломацька", "ADM3_PCODE": "UA5308015", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.816827384000078, 49.620446532000074 ], [ 34.814501999000072, 49.622699 ], [ 34.784118999000043, 49.618701 ], [ 34.795155, 49.616926 ], [ 34.797270999000034, 49.613828 ], [ 34.80096099900004, 49.61512 ], [ 34.818378, 49.615613 ], [ 34.817298530000073, 49.619927716000063 ], [ 34.816827384000078, 49.620446532000074 ] ] ] } }
+]
+}

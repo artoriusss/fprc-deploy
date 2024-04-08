@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0851807245395, "Shape_Area": 8.9128436284399996e-05, "ADM4_EN": "Shyly", "ADM4_UA": "Шили", "ADM4_PCODE": "UA6104015052", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zbarazka", "ADM3_UA": "Збаразька", "ADM3_PCODE": "UA6104015", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.856942, 49.772845 ], [ 25.850114, 49.770165 ], [ 25.848155, 49.771345 ], [ 25.840809001000025, 49.769941 ], [ 25.839334, 49.76683 ], [ 25.843554, 49.764722 ], [ 25.848238, 49.765303999000025 ], [ 25.847426999000049, 49.761844 ], [ 25.851048, 49.761164 ], [ 25.853339, 49.764723 ], [ 25.852711, 49.769205 ], [ 25.857634, 49.772197 ], [ 25.856942, 49.772845 ] ] ] } }
+]
+}

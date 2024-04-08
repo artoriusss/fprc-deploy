@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.12204559481299999, "Shape_Area": 0.00048088739143599998, "ADM4_EN": "Tysmenychany", "ADM4_UA": "Тисменичани", "ADM4_PCODE": "UA2604019014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivano-Frankivska", "ADM3_UA": "Івано-Франківська", "ADM3_PCODE": "UA2604019", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.661499, 48.783422999000038 ], [ 24.657021001000032, 48.783261 ], [ 24.650510001000043, 48.76813 ], [ 24.65473, 48.763452 ], [ 24.656734, 48.759288 ], [ 24.664193001000058, 48.758715 ], [ 24.666459, 48.764781 ], [ 24.668977, 48.764839 ], [ 24.678971, 48.761269 ], [ 24.682473, 48.769763 ], [ 24.676477999000042, 48.770221 ], [ 24.67082, 48.772775 ], [ 24.673596, 48.777625 ], [ 24.670852, 48.780961 ], [ 24.661499, 48.783422999000038 ] ] ] } }
+]
+}

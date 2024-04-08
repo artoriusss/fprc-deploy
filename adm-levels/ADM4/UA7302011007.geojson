@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.092447892942200002, "Shape_Area": 5.7375136477500002e-05, "ADM4_EN": "Plyta", "ADM4_UA": "Плита", "ADM4_PCODE": "UA7302011007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Koniatynska", "ADM3_UA": "Конятинська", "ADM3_PCODE": "UA7302011", "ADM2_EN": "Vyzhnytskyi", "ADM2_UA": "Вижницький", "ADM2_PCODE": "UA7302", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.98668066700003, 48.052137339000069 ], [ 24.985413494000056, 48.053833886000064 ], [ 24.983409179000034, 48.052814851000051 ], [ 24.987537276000069, 48.049711786000046 ], [ 24.992248606000032, 48.050900019000039 ], [ 24.991772714000035, 48.051946982000061 ], [ 24.98668066700003, 48.052137339000069 ] ] ] } }
+]
+}

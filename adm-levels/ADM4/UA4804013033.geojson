@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.101992967808, "Shape_Area": 0.000168521368615, "ADM4_EN": "Fedoro-Mykhailivka", "ADM4_UA": "Федоро-Михайлівка", "ADM4_PCODE": "UA4804013033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yelanetska", "ADM3_UA": "Єланецька", "ADM3_PCODE": "UA4804013", "ADM2_EN": "Voznesenskyi", "ADM2_UA": "Вознесенський", "ADM2_PCODE": "UA4804", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.065921773000071, 47.776882192000073 ], [ 32.063776434000033, 47.775272702000052 ], [ 32.057777950000059, 47.775770866000073 ], [ 32.061163385000043, 47.764204818000053 ], [ 32.065271618000054, 47.765199814000027 ], [ 32.068728237000073, 47.759596398000042 ], [ 32.075466334000055, 47.761735479000038 ], [ 32.074218567000059, 47.766512153000065 ], [ 32.067029081000044, 47.768267249000075 ], [ 32.065921773000071, 47.776882192000073 ] ] ] } }
+]
+}

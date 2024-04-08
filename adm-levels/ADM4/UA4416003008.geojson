@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.098309175859200001, "Shape_Area": 0.000320796722248, "ADM4_EN": "Denezhnykove", "ADM4_UA": "Денежникове", "ADM4_PCODE": "UA4416003008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoaidarska", "ADM3_UA": "Новоайдарська", "ADM3_PCODE": "UA4416003", "ADM2_EN": "Shchastynskyi", "ADM2_UA": "Щастинський", "ADM2_PCODE": "UA4416", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.950862, 49.050778 ], [ 38.946851527000035, 49.049567100000047 ], [ 38.943778844000065, 49.044533972000067 ], [ 38.943502934000037, 49.04077690400004 ], [ 38.937255343000061, 49.034147535000045 ], [ 38.93960897200003, 49.027565483000046 ], [ 38.942946176000078, 49.023905461000027 ], [ 38.95792300100004, 49.030248 ], [ 38.956014, 49.033318 ], [ 38.949938, 49.039167 ], [ 38.957311, 49.042152 ], [ 38.950862, 49.050778 ] ] ] } }
+]
+}

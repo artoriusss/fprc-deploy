@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.068360678748699999, "Shape_Area": 8.5071884380099995e-05, "ADM4_EN": "Hali-Horbatky", "ADM4_UA": "Галі-Горбатки", "ADM4_PCODE": "UA5308013012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kobeliatska", "ADM3_UA": "Кобеляцька", "ADM3_PCODE": "UA5308013", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.24425099900003, 49.218358 ], [ 34.242965930000025, 49.220100713000079 ], [ 34.238476404000039, 49.215671729000064 ], [ 34.233155246000024, 49.214560747000064 ], [ 34.234700027000031, 49.210872675000076 ], [ 34.23842353200007, 49.21370962900005 ], [ 34.243114, 49.213897 ], [ 34.245719, 49.211645 ], [ 34.25034400100003, 49.213173 ], [ 34.252694758000075, 49.215408400000058 ], [ 34.24425099900003, 49.218358 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.050932182224199998, "Shape_Area": 4.8419298096300003e-05, "ADM4_EN": "Pidhaine", "ADM4_UA": "Підгайне", "ADM4_PCODE": "UA5606041019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mizotska", "ADM3_UA": "Мізоцька", "ADM3_PCODE": "UA5606041", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.034869881000077, 50.370381 ], [ 26.035104961000059, 50.367178980000062 ], [ 26.038892880000049, 50.366319030000057 ], [ 26.038944, 50.362242030000061 ], [ 26.044125120000047, 50.361103980000053 ], [ 26.042316840000069, 50.368040010000072 ], [ 26.039041200000042, 50.368056030000048 ], [ 26.034869881000077, 50.370381 ] ] ] } }
+]
+}

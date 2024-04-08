@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.108456717755, "Shape_Area": 0.00012278870155400001, "ADM4_EN": "Zaryvyntsi", "ADM4_UA": "Заривинці", "ADM4_PCODE": "UA6106007013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Buchatska", "ADM3_UA": "Бучацька", "ADM3_PCODE": "UA6106007", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.385831001000042, 49.101933 ], [ 25.388779623000062, 49.103088381000077 ], [ 25.388204915000074, 49.106297987000062 ], [ 25.381360422000057, 49.109489474000043 ], [ 25.369413, 49.103947 ], [ 25.378248369000062, 49.101023551000026 ], [ 25.380730310000047, 49.101251379000075 ], [ 25.385831001000042, 49.101933 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.039583866304099997, "Shape_Area": 5.4674463834300001e-05, "ADM4_EN": "Verbove", "ADM4_UA": "Вербове", "ADM4_PCODE": "UA4612001004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Belzka", "ADM3_UA": "Белзька", "ADM3_PCODE": "UA4612001", "ADM2_EN": "Chervonohradskyi", "ADM2_UA": "Червоноградський", "ADM2_PCODE": "UA4612", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.081028209000067, 50.44389000700005 ], [ 24.076717211000073, 50.445902007000029 ], [ 24.074799210000037, 50.441561007000075 ], [ 24.081141210000055, 50.44086900700006 ], [ 24.085668209000062, 50.438695007000035 ], [ 24.086552209000047, 50.443560007000031 ], [ 24.081028209000067, 50.44389000700005 ] ] ] } }
+]
+}

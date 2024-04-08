@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.083143308874399996, "Shape_Area": 0.000145765495249, "ADM4_EN": "Hazove", "ADM4_UA": "Газове", "ADM4_PCODE": "UA6302003101", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Valkivska", "ADM3_UA": "Валківська", "ADM3_PCODE": "UA6302003", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "Богодухівський", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.749688, 50.006687 ], [ 35.751483999000072, 50.006307 ], [ 35.758264, 50.009585 ], [ 35.751747, 50.01262 ], [ 35.752957999000046, 50.016137 ], [ 35.750407786000039, 50.017634330000078 ], [ 35.74360899900006, 50.014812 ], [ 35.732303067000032, 50.016186105000031 ], [ 35.732273999000029, 50.013082 ], [ 35.747069, 50.011416 ], [ 35.745635, 50.002645 ], [ 35.748384, 50.00108 ], [ 35.749688, 50.006687 ] ] ] } }
+]
+}

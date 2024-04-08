@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13947410050600001, "Shape_Area": 0.00020791736352100001, "ADM4_EN": "Polino-Osypenkove", "ADM4_UA": "Поліно-Осипенкове", "ADM4_PCODE": "UA5102007011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Znamianska", "ADM3_UA": "Знам'янська", "ADM3_PCODE": "UA5102007", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.154435, 47.079166 ], [ 30.148950999000078, 47.078525 ], [ 30.153123, 47.07087 ], [ 30.159718, 47.063039 ], [ 30.164544, 47.058617 ], [ 30.17137, 47.059321 ], [ 30.178167, 47.055953 ], [ 30.179891, 47.050427 ], [ 30.182215, 47.048213 ], [ 30.18838, 47.048732 ], [ 30.18572, 47.053552 ], [ 30.171845, 47.061115 ], [ 30.167493, 47.060513 ], [ 30.160223999000038, 47.070797 ], [ 30.163703999000063, 47.073507 ], [ 30.158493001000068, 47.075501 ], [ 30.154435, 47.079166 ] ] ] } }
+]
+}

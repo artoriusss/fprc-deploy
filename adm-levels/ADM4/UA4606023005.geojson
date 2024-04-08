@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.038660746790599998, "Shape_Area": 6.7463321404700002e-05, "ADM4_EN": "Hrebintsi", "ADM4_UA": "Гребінці", "ADM4_PCODE": "UA4606023005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kulykivska", "ADM3_UA": "Куликівська", "ADM3_PCODE": "UA4606023", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.120188197000061, 49.980271007000056 ], [ 24.118061198000078, 49.980714007000074 ], [ 24.108494200000052, 49.979090007000082 ], [ 24.109329200000047, 49.973940007000067 ], [ 24.120367198000054, 49.974679007000077 ], [ 24.120188197000061, 49.980271007000056 ] ] ] } }
+]
+}

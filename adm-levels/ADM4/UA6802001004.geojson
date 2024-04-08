@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.091535328417599995, "Shape_Area": 0.00018470506321300001, "ADM4_EN": "Zhabyntsi", "ADM4_UA": "Жабинці", "ADM4_PCODE": "UA6802001004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hukivska", "ADM3_UA": "Гуківська", "ADM3_PCODE": "UA6802001", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.244826, 48.903272 ], [ 26.23, 48.898717 ], [ 26.234406999000043, 48.893852 ], [ 26.239119, 48.893187 ], [ 26.239697, 48.891303 ], [ 26.247609, 48.889606 ], [ 26.252726, 48.897054 ], [ 26.250256, 48.900249 ], [ 26.24191, 48.899568 ], [ 26.244826, 48.903272 ] ] ] } }
+]
+}

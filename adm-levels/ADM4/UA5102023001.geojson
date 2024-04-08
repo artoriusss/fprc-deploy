@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.087100643368700006, "Shape_Area": 0.00020771665813899999, "ADM4_EN": "Rozkvit", "ADM4_UA": "Розквіт", "ADM4_PCODE": "UA5102023001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozkvitivska", "ADM3_UA": "Розквітівська", "ADM3_PCODE": "UA5102023", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.617579, 47.130265 ], [ 30.608043, 47.127437 ], [ 30.600759001000029, 47.127886 ], [ 30.601236, 47.1228 ], [ 30.60538, 47.119903 ], [ 30.61157, 47.119404 ], [ 30.612977, 47.117458 ], [ 30.624541, 47.120855 ], [ 30.620396, 47.123417 ], [ 30.617579, 47.130265 ] ] ] } }
+]
+}

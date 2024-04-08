@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11713847257399999, "Shape_Area": 0.00024465668752800002, "ADM4_EN": "Klivodyn", "ADM4_UA": "Кліводин", "ADM4_PCODE": "UA7306029007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kitsmanska", "ADM3_UA": "Кіцманська", "ADM3_PCODE": "UA7306029", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.740822, 48.484037 ], [ 25.741884999000035, 48.481841 ], [ 25.739292, 48.477227 ], [ 25.740275, 48.473843 ], [ 25.744157001000076, 48.471142 ], [ 25.748335, 48.472295 ], [ 25.769085439000037, 48.475516433000053 ], [ 25.768928001000063, 48.476879 ], [ 25.75987, 48.475803 ], [ 25.763190999000074, 48.480201 ], [ 25.757426, 48.480229 ], [ 25.740822, 48.484037 ] ] ] } }
+]
+}

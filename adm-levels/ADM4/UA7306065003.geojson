@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.084134633547599993, "Shape_Area": 0.00017442881811800001, "ADM4_EN": "Boianchuk", "ADM4_UA": "Боянчук", "ADM4_PCODE": "UA7306065003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yurkovetska", "ADM3_UA": "Юрковецька", "ADM3_PCODE": "UA7306065", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.969791723000071, 48.486702464000075 ], [ 25.965907, 48.48721 ], [ 25.962631, 48.490079 ], [ 25.949804, 48.494551 ], [ 25.949513, 48.492157 ], [ 25.942964, 48.488957 ], [ 25.941537999000047, 48.485024 ], [ 25.948999, 48.488088 ], [ 25.956823001000032, 48.484834001000081 ], [ 25.955008, 48.48161 ], [ 25.963515999000037, 48.483784 ], [ 25.96821938000005, 48.483434500000044 ], [ 25.969791723000071, 48.486702464000075 ] ] ] } }
+]
+}

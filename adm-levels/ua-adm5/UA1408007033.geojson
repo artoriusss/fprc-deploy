@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.029411860723700001, "Shape_Area": 4.3424224115900002e-05, "ADM4_EN": "Kholmyste", "ADM4_UA": "Ð¥Ð¾Ð»Ð¼Ð¸ÑÑÐµ", "ADM4_RU": "Ð¥Ð¾Ð»Ð¼Ð¸ÑÑÐ¾Ðµ", "ADM4_PCODE": "UA1408007033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Makiivska", "ADM3_UA": "ÐÐ°ÐºÑÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ°ÐºÐµÐµÐ²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA1408007", "ADM2_EN": "Donetskyi", "ADM2_UA": "ÐÐ¾Ð½ÐµÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¾Ð½ÐµÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA1408", "ADM1_EN": "Donetska", "ADM1_UA": "ÐÐ¾Ð½ÐµÑÑÐºÐ°", "ADM1_RU": "ÐÐ¾Ð½ÐµÑÐºÐ°Ñ", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.109265, 47.973664 ], [ 38.106027, 47.969389 ], [ 38.103482998000061, 47.970249 ], [ 38.100223998000047, 47.971019 ], [ 38.096763999000075, 47.971996 ], [ 38.097569, 47.972301 ], [ 38.098369999000056, 47.972796 ], [ 38.09837241300005, 47.972798511000065 ], [ 38.098374828000033, 47.972801021000066 ], [ 38.098713089000057, 47.973152717000062 ], [ 38.10147299700003, 47.976022 ], [ 38.109265, 47.973664 ] ] ] } }
-]
-}

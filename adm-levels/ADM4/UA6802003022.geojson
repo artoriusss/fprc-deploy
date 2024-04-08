@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11105906446200001, "Shape_Area": 0.00029183668217300002, "ADM4_EN": "Tsykova", "ADM4_UA": "Цикова", "ADM4_PCODE": "UA6802003022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Humenetska", "ADM3_UA": "Гуменецька", "ADM3_PCODE": "UA6802003", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.58867, 48.904465 ], [ 26.584962999000027, 48.907035 ], [ 26.581015, 48.905006 ], [ 26.574386999000069, 48.904943 ], [ 26.57067, 48.900478 ], [ 26.565047, 48.897701 ], [ 26.563705, 48.895309 ], [ 26.567726, 48.893228 ], [ 26.576566, 48.893438 ], [ 26.577827, 48.88951 ], [ 26.581769999000073, 48.887984 ], [ 26.589398, 48.890978 ], [ 26.58531, 48.900061 ], [ 26.58867, 48.904465 ] ] ] } }
+]
+}

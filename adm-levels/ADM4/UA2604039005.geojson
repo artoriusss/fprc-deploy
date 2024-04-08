@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.12098017119, "Shape_Area": 0.000175420802606, "ADM4_EN": "Rybne", "ADM4_UA": "Рибне", "ADM4_PCODE": "UA2604039005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yamnytska", "ADM3_UA": "Ямницька", "ADM3_PCODE": "UA2604039", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.612110162000079, 48.962832351000031 ], [ 24.606498068000064, 48.959967772000027 ], [ 24.602671409000038, 48.953111718000059 ], [ 24.605490861000078, 48.949763002000054 ], [ 24.610458848000064, 48.948616892000075 ], [ 24.61729428700005, 48.953005605000044 ], [ 24.618248802000039, 48.95761757300005 ], [ 24.620997372000033, 48.960981687000071 ], [ 24.617515974000071, 48.962826247000066 ], [ 24.612110162000079, 48.962832351000031 ] ] ] } }
+]
+}

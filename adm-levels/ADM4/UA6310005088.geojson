@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.061422408563999997, "Shape_Area": 0.00011647001840900001, "ADM4_EN": "Myroliubivka", "ADM4_UA": "Миролюбівка", "ADM4_PCODE": "UA6310005088", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lozivska", "ADM3_UA": "Лозівська", "ADM3_PCODE": "UA6310005", "ADM2_EN": "Lozivskyi", "ADM2_UA": "Лозівський", "ADM2_PCODE": "UA6310", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.15688700100003, 48.967692 ], [ 36.148541, 48.96673 ], [ 36.141455, 48.967154 ], [ 36.140209999000035, 48.964775 ], [ 36.148286, 48.964132 ], [ 36.150226001000078, 48.96248 ], [ 36.15853, 48.960563 ], [ 36.162752, 48.96077 ], [ 36.164972999000042, 48.965392500000064 ], [ 36.15688700100003, 48.967692 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.028539319214600001, "Shape_Area": 4.0728902649299998e-05, "ADM4_EN": "Zelena Dibrova", "ADM4_UA": "Зелена Діброва", "ADM4_PCODE": "UA7108017011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Korsun-Shevchenkivska", "ADM3_UA": "Корсунь-Шевченківська", "ADM3_PCODE": "UA7108017", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.115270381000073, 49.556936672000063 ], [ 31.110527383000033, 49.555624640000076 ], [ 31.109040631000028, 49.553418195000063 ], [ 31.114113370000041, 49.550197709000031 ], [ 31.11827622800007, 49.555233032000046 ], [ 31.11661321400004, 49.556860303000065 ], [ 31.115270381000073, 49.556936672000063 ] ] ] } }
+]
+}

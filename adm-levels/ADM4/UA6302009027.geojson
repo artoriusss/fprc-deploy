@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.115552924305, "Shape_Area": 0.00019615361808000001, "ADM4_EN": "Myrne", "ADM4_UA": "Мирне", "ADM4_PCODE": "UA6302009027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasnokutska", "ADM3_UA": "Краснокутська", "ADM3_PCODE": "UA6302009", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "Богодухівський", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 35.370618999000044, 50.039024 ], [ 35.368893, 50.036631 ], [ 35.37028900100006, 50.032317 ], [ 35.373363, 50.030861 ], [ 35.391199999000037, 50.03117 ], [ 35.390451, 50.034383 ], [ 35.385046, 50.038473 ], [ 35.377108, 50.037957 ], [ 35.370618999000044, 50.039024 ] ] ], [ [ [ 35.366418, 50.027779 ], [ 35.362142999000071, 50.034305 ], [ 35.359857, 50.033807 ], [ 35.364814999000032, 50.024666 ], [ 35.366418, 50.027779 ] ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.063280211534399999, "Shape_Area": 0.00015208171544299999, "ADM4_EN": "Mykhailo-Zhukove", "ADM4_UA": "Михайло-Жукове", "ADM4_PCODE": "UA4804017013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novomarivska", "ADM3_UA": "Новомар'ївська", "ADM3_PCODE": "UA4804017", "ADM2_EN": "Voznesenskyi", "ADM2_UA": "Вознесенський", "ADM2_PCODE": "UA4804", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.423713528000064, 48.036063392000074 ], [ 31.421731661000024, 48.039962569000068 ], [ 31.414946850000035, 48.039048171000047 ], [ 31.409339858000067, 48.029273652000029 ], [ 31.404832470000031, 48.024737424000079 ], [ 31.412212111000031, 48.022388651000028 ], [ 31.414753179000058, 48.02627876300005 ], [ 31.419482357000049, 48.030555891000063 ], [ 31.423713528000064, 48.036063392000074 ] ] ] } }
+]
+}

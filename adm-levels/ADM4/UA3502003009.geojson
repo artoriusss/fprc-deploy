@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.112346886674, "Shape_Area": 0.00030889994795799998, "ADM4_EN": "Dorozhynka", "ADM4_UA": "Дорожинка", "ADM4_PCODE": "UA3502003009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vilshanska", "ADM3_UA": "Вільшанська", "ADM3_PCODE": "UA3502003", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "Голованівський", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.73292, 48.31434 ], [ 30.728940001000069, 48.31619 ], [ 30.727528, 48.31338 ], [ 30.728811, 48.310338 ], [ 30.734383, 48.309233 ], [ 30.740826999000035, 48.303923 ], [ 30.741443, 48.297332 ], [ 30.747513, 48.286484 ], [ 30.752694, 48.287 ], [ 30.760859, 48.289743 ], [ 30.756077, 48.296361 ], [ 30.74801, 48.30484 ], [ 30.738607, 48.313203 ], [ 30.73292, 48.31434 ] ] ] } }
+]
+}

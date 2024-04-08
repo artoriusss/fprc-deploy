@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.060127733160699998, "Shape_Area": 9.8070272173899996e-05, "ADM4_EN": "Arapovychi", "ADM4_UA": "Араповичі", "ADM4_PCODE": "UA7406003002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novhorod-Siverska", "ADM3_UA": "Новгород-Сіверська", "ADM3_PCODE": "UA7406003", "ADM2_EN": "Novhorod-Siverskyi", "ADM2_UA": "Новгород-Сіверський", "ADM2_PCODE": "UA7406", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.318129960000078, 51.948202050000077 ], [ 33.316673040000069, 51.953328 ], [ 33.304660201000047, 51.952723020000064 ], [ 33.302053800000067, 51.949316970000041 ], [ 33.303152880000027, 51.946452 ], [ 33.307751880000069, 51.946202970000058 ], [ 33.318411120000064, 51.947742960000028 ], [ 33.318129960000078, 51.948202050000077 ] ] ] } }
+]
+}

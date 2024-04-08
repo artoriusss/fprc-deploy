@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.134098614201, "Shape_Area": 0.00032446609591300002, "ADM4_EN": "Sytnyky", "ADM4_UA": "Ситники", "ADM4_PCODE": "UA7108017008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Korsun-Shevchenkivska", "ADM3_UA": "Корсунь-Шевченківська", "ADM3_PCODE": "UA7108017", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.160393, 49.496911 ], [ 31.155955, 49.498934 ], [ 31.15233, 49.498933 ], [ 31.142116, 49.492885 ], [ 31.142823, 49.48948 ], [ 31.146634001000052, 49.488825 ], [ 31.145995, 49.48419 ], [ 31.148459, 49.483893 ], [ 31.150602, 49.479073 ], [ 31.15496900100004, 49.479148 ], [ 31.159844001000067, 49.480759 ], [ 31.162351, 49.486853 ], [ 31.168059, 49.485148 ], [ 31.167922001000079, 49.490291 ], [ 31.163327, 49.493158 ], [ 31.160393, 49.496911 ] ] ] } }
+]
+}

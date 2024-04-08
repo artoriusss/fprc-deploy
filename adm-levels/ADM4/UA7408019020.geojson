@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062214420760500003, "Shape_Area": 7.9652681194400003e-05, "ADM4_EN": "Myhuriv", "ADM4_UA": "Мигурів", "ADM4_PCODE": "UA7408019020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Talalaivska", "ADM3_UA": "Талалаївська", "ADM3_PCODE": "UA7408019", "ADM2_EN": "Prylutskyi", "ADM2_UA": "Прилуцький", "ADM2_PCODE": "UA7408", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.135758786000054, 50.958241820000069 ], [ 33.141207960000031, 50.95035297000004 ], [ 33.141287881000039, 50.945353020000027 ], [ 33.142897800000071, 50.944106970000064 ], [ 33.148815120000052, 50.947408080000059 ], [ 33.145323119000068, 50.950228950000053 ], [ 33.14727, 50.953537980000078 ], [ 33.145486921000042, 50.957225010000059 ], [ 33.140112841000075, 50.955619950000028 ], [ 33.135758786000054, 50.958241820000069 ] ] ] } }
+]
+}

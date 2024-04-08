@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.047383780717600001, "Shape_Area": 8.9718335773300003e-05, "ADM4_EN": "Dumivka", "ADM4_UA": "Думівка", "ADM4_PCODE": "UA5908009012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasnopilska", "ADM3_UA": "Краснопільська", "ADM3_PCODE": "UA5908009", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.114891001000046, 50.785882 ], [ 35.11237, 50.78511 ], [ 35.109824, 50.780407 ], [ 35.113895999000079, 50.778225 ], [ 35.118817, 50.779564 ], [ 35.121356999000056, 50.775283 ], [ 35.12673600100004, 50.776174 ], [ 35.123341001000028, 50.782019 ], [ 35.114891001000046, 50.785882 ] ] ] } }
+]
+}

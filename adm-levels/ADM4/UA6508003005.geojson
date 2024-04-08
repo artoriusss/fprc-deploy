@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.052706373594400002, "Shape_Area": 7.7081611528500001e-05, "ADM4_EN": "Velykyi Klyn", "ADM4_UA": "Великий Клин", "ADM4_PCODE": "UA6508003005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Holoprystanska", "ADM3_UA": "Голопристанська", "ADM3_PCODE": "UA6508003", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Скадовський", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.595303, 46.33292 ], [ 32.595497, 46.328135 ], [ 32.604492999000058, 46.326635 ], [ 32.611497, 46.327215 ], [ 32.610501, 46.329598 ], [ 32.605357, 46.331951 ], [ 32.601089999000067, 46.331691 ], [ 32.595303, 46.33292 ] ] ] } }
+]
+}

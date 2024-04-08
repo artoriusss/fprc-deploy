@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.080513371727900004, "Shape_Area": 0.000228915254251, "ADM4_EN": "Bahovytsia", "ADM4_UA": "Баговиця", "ADM4_PCODE": "UA6802023002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Slobidsko-Kulchiievetska", "ADM3_UA": "Слобідсько-Кульчієвецька", "ADM3_PCODE": "UA6802023", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.716985, 48.625159 ], [ 26.714649999000073, 48.624379 ], [ 26.706897, 48.624875 ], [ 26.707718, 48.619521 ], [ 26.712102001000062, 48.619799 ], [ 26.714698999000063, 48.617553 ], [ 26.716826999000034, 48.612828 ], [ 26.718177001000072, 48.605369 ], [ 26.719845999000029, 48.603297 ], [ 26.723506, 48.603894 ], [ 26.727447, 48.612002 ], [ 26.723606999000026, 48.615156 ], [ 26.725386, 48.622216 ], [ 26.716985, 48.625159 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.16457622823099999, "Shape_Area": 0.00013243857362500001, "ADM4_EN": "Asiivka", "ADM4_UA": "Асіївка", "ADM4_PCODE": "UA6304001002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Balakliiska", "ADM3_UA": "Балаклійська", "ADM3_PCODE": "UA6304001", "ADM2_EN": "Iziumskyi", "ADM2_UA": "Ізюмський", "ADM2_PCODE": "UA6304", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.671911, 49.370966 ], [ 36.672559, 49.365114 ], [ 36.67493, 49.361414 ], [ 36.680935999000042, 49.363468 ], [ 36.689102, 49.359666 ], [ 36.701356, 49.358281 ], [ 36.701401001000079, 49.359389 ], [ 36.687574, 49.361734 ], [ 36.686183999000036, 49.363982 ], [ 36.678721, 49.367143 ], [ 36.676295, 49.367099 ], [ 36.671911, 49.370966 ] ] ] } }
+]
+}

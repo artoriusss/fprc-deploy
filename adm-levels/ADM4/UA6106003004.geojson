@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.060350299952899998, "Shape_Area": 9.4864965119299994e-05, "ADM4_EN": "Mushkariv", "ADM4_UA": "Мушкарів", "ADM4_PCODE": "UA6106003004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilche-Zolotetska", "ADM3_UA": "Більче-Золотецька", "ADM3_PCODE": "UA6106003", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.824312831000043, 48.790544201000046 ], [ 25.818626264000045, 48.790186002000041 ], [ 25.821036001000039, 48.786457 ], [ 25.826677956000026, 48.78466514400003 ], [ 25.837545775000024, 48.782732141000054 ], [ 25.839989342000024, 48.787092359000042 ], [ 25.836550179000028, 48.789106299000082 ], [ 25.83373358700004, 48.787691814000027 ], [ 25.827369856000075, 48.787878727000077 ], [ 25.824312831000043, 48.790544201000046 ] ] ] } }
+]
+}

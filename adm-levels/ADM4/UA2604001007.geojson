@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.058647074882200001, "Shape_Area": 0.00013076093429500001, "ADM4_EN": "Kuriv", "ADM4_UA": "Курів", "ADM4_PCODE": "UA2604001007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilshivtsivska", "ADM3_UA": "Більшівцівська", "ADM3_PCODE": "UA2604001", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.73151733800006, 49.242821960000072 ], [ 24.727433013000052, 49.24639323100007 ], [ 24.718682744000034, 49.247696440000027 ], [ 24.708384980000062, 49.246398060000047 ], [ 24.711074412000073, 49.241288367000038 ], [ 24.715564782000058, 49.241627119000043 ], [ 24.725929087000054, 49.238691059000075 ], [ 24.727673407000054, 49.241854149000062 ], [ 24.73151733800006, 49.242821960000072 ] ] ] } }
+]
+}

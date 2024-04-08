@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0657059360239, "Shape_Area": 0.000214042318931, "ADM4_EN": "Stepkivka", "ADM4_UA": "Степківка", "ADM4_PCODE": "UA4808007013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kamianomostivska", "ADM3_UA": "Кам'яномостівська", "ADM3_PCODE": "UA4808007", "ADM2_EN": "Pervomaiskyi", "ADM2_UA": "Первомайський", "ADM2_PCODE": "UA4808", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.90911028000005, 47.898560424000038 ], [ 30.902163046000055, 47.894459472000051 ], [ 30.899812527000051, 47.896582063000039 ], [ 30.890938266000035, 47.893777813000042 ], [ 30.895520505000036, 47.882867435000037 ], [ 30.907809022000038, 47.88606679600008 ], [ 30.907389263000027, 47.888581686000066 ], [ 30.912629451000043, 47.890247743000032 ], [ 30.915324266000027, 47.892747868000072 ], [ 30.90911028000005, 47.898560424000038 ] ] ] } }
+]
+}

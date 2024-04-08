@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.048291264702799999, "Shape_Area": 0.000112543874801, "ADM4_EN": "Mala Mykhailivka", "ADM4_UA": "Мала Михайлівка", "ADM4_PCODE": "UA2308001005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Veselivska", "ADM3_UA": "Веселівська", "ADM3_PCODE": "UA2308001", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "Мелітопольський", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.855632568000033, 46.906973707000077 ], [ 34.852483103000054, 46.906517155000074 ], [ 34.850121353000077, 46.90274103400003 ], [ 34.852087758000039, 46.893183848000035 ], [ 34.855231180000033, 46.892257130000075 ], [ 34.860614329000043, 46.893238020000069 ], [ 34.859311437000031, 46.899877357000037 ], [ 34.860280292000027, 46.90414964200005 ], [ 34.855632568000033, 46.906973707000077 ] ] ] } }
+]
+}

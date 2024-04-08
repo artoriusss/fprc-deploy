@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.047876107003100001, "Shape_Area": 7.4637141569900006e-05, "ADM4_EN": "Novi Oleshky", "ADM4_UA": "Нові Олешки", "ADM4_PCODE": "UA6506007014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hornostaivska", "ADM3_UA": "Горностаївська", "ADM3_PCODE": "UA6506007", "ADM2_EN": "Kakhovskyi", "ADM2_UA": "Каховський", "ADM2_PCODE": "UA6506", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.05678, 46.922103 ], [ 34.053432001000033, 46.921522 ], [ 34.054647, 46.915481 ], [ 34.046069999000053, 46.914513 ], [ 34.046605, 46.912254 ], [ 34.061851, 46.913704 ], [ 34.060695, 46.919729 ], [ 34.05678, 46.922103 ] ] ] } }
+]
+}

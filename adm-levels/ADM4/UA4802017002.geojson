@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.049944170964900003, "Shape_Area": 5.2882389110799997e-05, "ADM4_EN": "Arkhanhelske", "ADM4_UA": "Архангельське", "ADM4_PCODE": "UA4802017002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pryvilnenska", "ADM3_UA": "Привільненська", "ADM3_PCODE": "UA4802017", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.124779892000049, 47.469299894000073 ], [ 32.123256250000054, 47.468060279000042 ], [ 32.122516647000054, 47.462733391000029 ], [ 32.124539508000055, 47.460949726000081 ], [ 32.128117347000057, 47.463585250000051 ], [ 32.132374878000064, 47.464179179000041 ], [ 32.131467830000076, 47.468113257000027 ], [ 32.124779892000049, 47.469299894000073 ] ] ] } }
+]
+}

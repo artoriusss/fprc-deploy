@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057545791735800003, "Shape_Area": 0.000115906285711, "ADM4_EN": "Opanasiv", "ADM4_UA": "Опанасів", "ADM4_PCODE": "UA3206015005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kalytianska", "ADM3_UA": "Калитянська", "ADM3_PCODE": "UA3206015", "ADM2_EN": "Brovarskyi", "ADM2_UA": "Броварський", "ADM2_PCODE": "UA3206", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.098918131000062, 50.773593758000061 ], [ 31.095172171000058, 50.770403806000047 ], [ 31.09128714600007, 50.769260766000059 ], [ 31.087358203000065, 50.76642077200006 ], [ 31.090045158000066, 50.763572760000045 ], [ 31.096628144000078, 50.762548750000065 ], [ 31.100202118000027, 50.766397772000062 ], [ 31.103224134000072, 50.766518820000044 ], [ 31.104138077000073, 50.773233817000062 ], [ 31.098918131000062, 50.773593758000061 ] ] ] } }
+]
+}

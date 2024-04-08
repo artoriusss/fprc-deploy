@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.037477008936, "Shape_Area": 3.6591469938200003e-05, "ADM4_EN": "Stavky", "ADM4_UA": "Ð¡ÑÐ°Ð²ÐºÐ¸", "ADM4_RU": "Ð¡ÑÐ°Ð²ÐºÐ¸", "ADM4_PCODE": "UA6508011007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myrnenska", "ADM3_UA": "ÐÐ¸ÑÐ½ÐµÐ½ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¸ÑÐ½ÐµÐ½ÑÐºÐ°Ñ", "ADM3_PCODE": "UA6508011", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Ð¡ÐºÐ°Ð´Ð¾Ð²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¡ÐºÐ°Ð´Ð¾Ð²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Ð¥ÐµÑÑÐ¾Ð½ÑÑÐºÐ°", "ADM1_RU": "Ð¥ÐµÑÑÐ¾Ð½ÑÐºÐ°Ñ", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.568564, 46.169686 ], [ 33.567133, 46.167589 ], [ 33.563595001000067, 46.168584 ], [ 33.564219001000026, 46.166224 ], [ 33.559664, 46.165765 ], [ 33.559022, 46.168363 ], [ 33.555834, 46.168131 ], [ 33.555603001000065, 46.169951 ], [ 33.562495, 46.170797 ], [ 33.563, 46.168717 ], [ 33.565240999000025, 46.170115 ], [ 33.567113, 46.171076 ], [ 33.56892, 46.170362 ], [ 33.568564, 46.169686 ] ] ] } }
-]
-}

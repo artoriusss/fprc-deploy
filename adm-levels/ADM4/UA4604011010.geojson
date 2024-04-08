@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.065167915732899998, "Shape_Area": 0.000141333012545, "ADM4_EN": "Kutyshche", "ADM4_UA": "Кутище", "ADM4_PCODE": "UA4604011010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pidkaminska", "ADM3_UA": "Підкамінська", "ADM3_PCODE": "UA4604011", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.377125052000054, 49.890461002000052 ], [ 25.370279052000058, 49.890895002000036 ], [ 25.368047052000065, 49.89272100200003 ], [ 25.360365052000077, 49.889382002000048 ], [ 25.358314053000072, 49.891793002000043 ], [ 25.354429053000047, 49.890352001000053 ], [ 25.352735052000071, 49.886257001000047 ], [ 25.362839052000027, 49.881060002000027 ], [ 25.370610052000075, 49.887843002000068 ], [ 25.376791052000044, 49.887330001000066 ], [ 25.377125052000054, 49.890461002000052 ] ] ] } }
+]
+}

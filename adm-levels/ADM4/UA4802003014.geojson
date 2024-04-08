@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.083658718433400003, "Shape_Area": 0.0002807730278, "ADM4_EN": "Maliivka", "ADM4_UA": "Маліївка", "ADM4_PCODE": "UA4802003014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bereznehuvatska", "ADM3_UA": "Березнегуватська", "ADM3_PCODE": "UA4802003", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.722516445000053, 47.496584769000037 ], [ 32.717671412000072, 47.494800019000081 ], [ 32.728312326000037, 47.479319155000042 ], [ 32.735770677000062, 47.473230087000047 ], [ 32.745133492000036, 47.476468734000036 ], [ 32.744906786000058, 47.479795150000029 ], [ 32.736027904000025, 47.486205191000067 ], [ 32.728658538000047, 47.495457180000074 ], [ 32.722516445000053, 47.496584769000037 ] ] ] } }
+]
+}

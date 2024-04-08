@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.076933903525, "Shape_Area": 0.00023136760164200001, "ADM4_EN": "Berezuvatka", "ADM4_UA": "Березуватка", "ADM4_PCODE": "UA3504033003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ustynivska", "ADM3_UA": "Устинівська", "ADM3_PCODE": "UA3504033", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.605098, 48.020221 ], [ 32.598835, 48.022111 ], [ 32.586354607000033, 48.006878393000079 ], [ 32.592691, 48.007611 ], [ 32.606455, 48.007335 ], [ 32.606309876000068, 48.010751619000075 ], [ 32.612869385000067, 48.017013859000031 ], [ 32.605098, 48.020221 ] ] ] } }
+]
+}

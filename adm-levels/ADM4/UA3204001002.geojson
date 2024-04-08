@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057994194904100002, "Shape_Area": 0.000116796284586, "ADM4_EN": "Andriivka", "ADM4_UA": "Андріївка", "ADM4_PCODE": "UA3204001002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Boryspilska", "ADM3_UA": "Бориспільська", "ADM3_PCODE": "UA3204001", "ADM2_EN": "Boryspilskyi", "ADM2_UA": "Бориспільський", "ADM2_PCODE": "UA3204", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.081468705000077, 50.407740315000069 ], [ 31.074796707000075, 50.407713243000046 ], [ 31.073190794000027, 50.404075281000075 ], [ 31.067226789000074, 50.404577298000049 ], [ 31.064523774000065, 50.398858319000055 ], [ 31.074818696000079, 50.397360250000077 ], [ 31.080416655000079, 50.397323265000068 ], [ 31.083796690000042, 50.400425221000035 ], [ 31.078534725000054, 50.40146229700008 ], [ 31.081468705000077, 50.407740315000069 ] ] ] } }
+]
+}

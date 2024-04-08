@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0507995664338, "Shape_Area": 8.0096907028099994e-05, "ADM4_EN": "Ostrivka", "ADM4_UA": "Острівка", "ADM4_PCODE": "UA4806013007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kutsurubska", "ADM3_UA": "Куцурубська", "ADM3_PCODE": "UA4806013", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.706351178000034, 46.724775172000079 ], [ 31.705745701000069, 46.720569793000038 ], [ 31.707428646000039, 46.711834725000074 ], [ 31.712985333000063, 46.714767795000057 ], [ 31.710902880000049, 46.719385590000059 ], [ 31.714226838000059, 46.721065276000047 ], [ 31.713436775000048, 46.723726889000034 ], [ 31.706351178000034, 46.724775172000079 ] ] ] } }
+]
+}

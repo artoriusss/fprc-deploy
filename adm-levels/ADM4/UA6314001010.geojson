@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.066654208458499994, "Shape_Area": 5.1426082238299997e-05, "ADM4_EN": "Buhruvatka", "ADM4_UA": "Бугруватка", "ADM4_PCODE": "UA6314001010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vovchanska", "ADM3_UA": "Вовчанська", "ADM3_PCODE": "UA6314001", "ADM2_EN": "Chuhuivskyi", "ADM2_UA": "Чугуївський", "ADM2_PCODE": "UA6314", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.835001, 50.257536 ], [ 36.833365, 50.258565 ], [ 36.826638999000068, 50.255023 ], [ 36.823554999000066, 50.255258 ], [ 36.817791999000065, 50.250756 ], [ 36.823998, 50.250439 ], [ 36.824188999000057, 50.252483 ], [ 36.830635, 50.254486 ], [ 36.835001, 50.257536 ] ] ] } }
+]
+}

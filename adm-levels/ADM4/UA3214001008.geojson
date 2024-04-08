@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.096348849030599995, "Shape_Area": 5.9656774155299998e-05, "ADM4_EN": "Lubske", "ADM4_UA": "Лубське", "ADM4_PCODE": "UA3214001008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Byshivska", "ADM3_UA": "Бишівська", "ADM3_PCODE": "UA3214001", "ADM2_EN": "Fastivskyi", "ADM2_UA": "Фастівський", "ADM2_PCODE": "UA3214", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.894996462000051, 50.22880878400008 ], [ 29.890313412000069, 50.231453800000054 ], [ 29.880602409000062, 50.233473718000027 ], [ 29.880157455000074, 50.232197776000078 ], [ 29.891453435000074, 50.229470756000069 ], [ 29.890779388000055, 50.227803763000054 ], [ 29.883663445000025, 50.226285745000041 ], [ 29.886275897000075, 50.223809753000069 ], [ 29.892507375000037, 50.22745679500008 ], [ 29.894996462000051, 50.22880878400008 ] ] ] } }
+]
+}

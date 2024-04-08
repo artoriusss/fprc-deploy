@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.034960202137199997, "Shape_Area": 4.41080431891e-05, "ADM4_EN": "Lisove", "ADM4_UA": "Лісове", "ADM4_PCODE": "UA4802007017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Volodymyrivska", "ADM3_UA": "Володимирівська", "ADM3_PCODE": "UA4802007", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.114820813000051, 47.516483197000071 ], [ 33.109128429000066, 47.515679639000041 ], [ 33.110350450000055, 47.512132634000068 ], [ 33.115228905000038, 47.510343019000061 ], [ 33.120958552000047, 47.512288520000027 ], [ 33.120089550000046, 47.516287421000072 ], [ 33.114820813000051, 47.516483197000071 ] ] ] } }
+]
+}

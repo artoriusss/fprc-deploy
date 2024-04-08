@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.076107303538099996, "Shape_Area": 0.00025611038057300002, "ADM4_EN": "Viktoriia", "ADM4_UA": "Вікторія", "ADM4_PCODE": "UA5304009010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pyriatynska", "ADM3_UA": "Пирятинська", "ADM3_PCODE": "UA5304009", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.274685727000076, 50.232744887000081 ], [ 32.275256314000046, 50.231728668000073 ], [ 32.301252831000056, 50.234276685000054 ], [ 32.298990764000052, 50.240965709000079 ], [ 32.295983989000035, 50.24461782700007 ], [ 32.273715211000024, 50.240503171000057 ], [ 32.271109632000048, 50.238263657000061 ], [ 32.274685727000076, 50.232744887000081 ] ] ] } }
+]
+}

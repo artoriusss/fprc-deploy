@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.065593049865199995, "Shape_Area": 0.00012463539536699999, "ADM4_EN": "Kopiichana", "ADM4_UA": "Копійчана", "ADM4_PCODE": "UA7108013017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kamianska", "ADM3_UA": "Кам'янська", "ADM3_PCODE": "UA7108013", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.962226771000076, 49.06285540600004 ], [ 31.959856819000038, 49.065257497000061 ], [ 31.953563403000032, 49.059964294000054 ], [ 31.952198676000023, 49.050113121000038 ], [ 31.964840882000033, 49.048626154000033 ], [ 31.960131537000052, 49.057802837000054 ], [ 31.962226771000076, 49.06285540600004 ] ] ] } }
+]
+}

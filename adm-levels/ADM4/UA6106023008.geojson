@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.090113503907299997, "Shape_Area": 0.000208395353469, "ADM4_EN": "Chornokinetska Volia", "ADM4_UA": "Чорнокінецька Воля", "ADM4_PCODE": "UA6106023008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kolyndianska", "ADM3_UA": "Колиндянська", "ADM3_PCODE": "UA6106023", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.06807, 48.955126 ], [ 26.066857184000071, 48.953337138000052 ], [ 26.073656, 48.949015 ], [ 26.07362, 48.945597 ], [ 26.071386, 48.941932 ], [ 26.076317, 48.941948 ], [ 26.077679, 48.940371 ], [ 26.089593, 48.936929 ], [ 26.093333, 48.942081 ], [ 26.083291, 48.944636 ], [ 26.087686, 48.953745 ], [ 26.085409, 48.954198 ], [ 26.082986, 48.950215 ], [ 26.078834001000075, 48.95135 ], [ 26.073779, 48.955036 ], [ 26.070907, 48.953443 ], [ 26.06807, 48.955126 ] ] ] } }
+]
+}

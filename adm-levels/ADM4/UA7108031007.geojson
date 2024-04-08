@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.108345179891, "Shape_Area": 0.00031372904827099999, "ADM4_EN": "Kornylivka", "ADM4_UA": "Корнилівка", "ADM4_PCODE": "UA7108031007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nabutivska", "ADM3_UA": "Набутівська", "ADM3_PCODE": "UA7108031", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.3316, 49.492325 ], [ 31.329009, 49.493596 ], [ 31.325696, 49.492134 ], [ 31.321869, 49.492864 ], [ 31.319946, 49.490555 ], [ 31.321051001000058, 49.483226 ], [ 31.328628, 49.474925 ], [ 31.330596, 49.476344 ], [ 31.333716, 49.472942 ], [ 31.338488, 49.476812 ], [ 31.34092799900003, 49.475168 ], [ 31.348987, 49.473379 ], [ 31.349833, 49.474956 ], [ 31.341624999000032, 49.480542 ], [ 31.3316, 49.492325 ] ] ] } }
+]
+}

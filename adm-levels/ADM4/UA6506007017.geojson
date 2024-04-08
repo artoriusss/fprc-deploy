@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.087608819487699996, "Shape_Area": 0.000215839250474, "ADM4_EN": "Slavne", "ADM4_UA": "Славне", "ADM4_PCODE": "UA6506007017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hornostaivska", "ADM3_UA": "Горностаївська", "ADM3_PCODE": "UA6506007", "ADM2_EN": "Kakhovskyi", "ADM2_UA": "Каховський", "ADM2_PCODE": "UA6506", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.13626799900004, 46.903526 ], [ 34.12798100100008, 46.901581 ], [ 34.12938900100005, 46.896071 ], [ 34.123288, 46.895411 ], [ 34.124689, 46.888893 ], [ 34.140484, 46.890517 ], [ 34.141486, 46.88754 ], [ 34.144734, 46.8879 ], [ 34.143046999000035, 46.89812 ], [ 34.14037, 46.897875 ], [ 34.139331001000073, 46.902 ], [ 34.13626799900004, 46.903526 ] ] ] } }
+]
+}

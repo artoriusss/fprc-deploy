@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.160121383294, "Shape_Area": 0.00047109523787599997, "ADM4_EN": "Stupychne", "ADM4_UA": "Ступичне", "ADM4_PCODE": "UA7102023006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mokrokalyhirska", "ADM3_UA": "Мокрокалигірська", "ADM3_PCODE": "UA7102023", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.196753, 48.890023 ], [ 31.188237, 48.894615 ], [ 31.191903001000071, 48.900899 ], [ 31.181739001000039, 48.902995 ], [ 31.172464, 48.887739 ], [ 31.166603, 48.885026 ], [ 31.160664, 48.887172 ], [ 31.156642, 48.886237 ], [ 31.156124001000023, 48.883159 ], [ 31.166658, 48.880904 ], [ 31.172795, 48.882519 ], [ 31.17342, 48.878844 ], [ 31.180074999000055, 48.876872 ], [ 31.180663, 48.881731 ], [ 31.189, 48.885071 ], [ 31.192063, 48.882505 ], [ 31.200842, 48.88387 ], [ 31.199638, 48.88775 ], [ 31.196753, 48.890023 ] ] ] } }
+]
+}

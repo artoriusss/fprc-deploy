@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.16576103972600001, "Shape_Area": 0.000242576971327, "ADM4_EN": "Zamiske", "ADM4_UA": "Заміське", "ADM4_PCODE": "UA6302003030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Valkivska", "ADM3_UA": "Валківська", "ADM3_PCODE": "UA6302003", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "Богодухівський", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.557941001000074, 49.789475 ], [ 35.552811001000066, 49.784921999000062 ], [ 35.555278, 49.781992 ], [ 35.55269700100007, 49.779047 ], [ 35.565453, 49.774527 ], [ 35.569984, 49.772181 ], [ 35.571922, 49.776046 ], [ 35.579364, 49.777228 ], [ 35.566608, 49.78102 ], [ 35.565720001000045, 49.784401 ], [ 35.559801, 49.786229 ], [ 35.557941001000074, 49.789475 ] ] ] } }
+]
+}

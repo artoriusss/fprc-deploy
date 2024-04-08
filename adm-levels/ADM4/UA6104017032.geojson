@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.075512195810500005, "Shape_Area": 0.00012663194151100001, "ADM4_EN": "Monylivka", "ADM4_UA": "Монилівка", "ADM4_PCODE": "UA6104017032", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zborivska", "ADM3_UA": "Зборівська", "ADM3_PCODE": "UA6104017", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.198183546000053, 49.736591933000057 ], [ 25.195019830000035, 49.741387743000075 ], [ 25.192420371000026, 49.74057844400005 ], [ 25.194208032000063, 49.73630068500006 ], [ 25.18877800100006, 49.735633 ], [ 25.187675268000078, 49.729503973000078 ], [ 25.196367892000069, 49.727518339000028 ], [ 25.201991, 49.727641 ], [ 25.200274457000035, 49.733748797000032 ], [ 25.198183546000053, 49.736591933000057 ] ] ] } }
+]
+}

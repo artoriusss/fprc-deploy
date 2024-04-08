@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.071670523819899995, "Shape_Area": 0.00012118178141, "ADM4_EN": "Karptsi", "ADM4_UA": "Карпці", "ADM4_PCODE": "UA5906013012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Synivska", "ADM3_UA": "Синівська", "ADM3_PCODE": "UA5906013", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.080792, 50.655245 ], [ 34.075406, 50.654048 ], [ 34.07807, 50.650501 ], [ 34.076624, 50.645612 ], [ 34.080758, 50.645503 ], [ 34.081473, 50.649071 ], [ 34.086019, 50.647085 ], [ 34.093582, 50.655126 ], [ 34.080792, 50.655245 ] ] ] } }
+]
+}

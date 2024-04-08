@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.065237323240899994, "Shape_Area": 9.3925108021799994e-05, "ADM4_EN": "Trudoliubyve", "ADM4_UA": "Трудолюбиве", "ADM4_PCODE": "UA5306001026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilotserkivska", "ADM3_UA": "Білоцерківська", "ADM3_PCODE": "UA5306001", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 33.677358, 49.63173 ], [ 33.683507, 49.630868 ], [ 33.684503, 49.632448 ], [ 33.677358, 49.63173 ] ] ], [ [ [ 33.686598, 49.625097 ], [ 33.691763, 49.625037 ], [ 33.691854, 49.622944 ], [ 33.701155, 49.622801 ], [ 33.699428001000058, 49.630756 ], [ 33.694891, 49.631338 ], [ 33.692043, 49.627409 ], [ 33.686331, 49.62748 ], [ 33.686598, 49.625097 ] ] ] ] } }
+]
+}

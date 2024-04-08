@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.050834420699000002, "Shape_Area": 0.00012874851785, "ADM4_EN": "Rykiv", "ADM4_UA": "Риків", "ADM4_PCODE": "UA4610009019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozivska", "ADM3_UA": "Козівська", "ADM3_PCODE": "UA4610009", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.362686386000064, 48.907620015000077 ], [ 23.36108605000004, 48.909503680000057 ], [ 23.357398387000046, 48.906607016000066 ], [ 23.35340338900005, 48.909306015000027 ], [ 23.349604390000025, 48.908808015000034 ], [ 23.344212392000031, 48.900046015000044 ], [ 23.347084391000067, 48.898497016000078 ], [ 23.354819389000056, 48.898085016000039 ], [ 23.362686386000064, 48.907620015000077 ] ] ] } }
+]
+}

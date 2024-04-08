@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.095967764706999997, "Shape_Area": 0.00021632903551599999, "ADM4_EN": "Valiava", "ADM4_UA": "Валява", "ADM4_PCODE": "UA7306029002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kitsmanska", "ADM3_UA": "Кіцманська", "ADM3_PCODE": "UA7306029", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.846931, 48.439933 ], [ 25.838925, 48.437424 ], [ 25.834685, 48.438221 ], [ 25.828369, 48.435993 ], [ 25.823760999000058, 48.432878 ], [ 25.829185, 48.429699 ], [ 25.830349001000059, 48.431892 ], [ 25.835711, 48.430152 ], [ 25.843473999000025, 48.429715 ], [ 25.851344001000029, 48.43011 ], [ 25.850377999000045, 48.436697 ], [ 25.846931, 48.439933 ] ] ] } }
+]
+}

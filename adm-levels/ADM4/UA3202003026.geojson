@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.041738891615299999, "Shape_Area": 2.8371095656299999e-05, "ADM4_EN": "Ratush", "ADM4_UA": "Ратуш", "ADM4_PCODE": "UA3202003026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Volodarska", "ADM3_UA": "Володарська", "ADM3_PCODE": "UA3202003", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.940680446000044, 49.512505793000059 ], [ 29.951606430000027, 49.50489269500008 ], [ 29.953550479000057, 49.506067668000071 ], [ 29.941733381000063, 49.512906774000044 ], [ 29.940680446000044, 49.512505793000059 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.121617071896, "Shape_Area": 0.000195281042735, "ADM4_EN": "Mokiivka", "ADM4_UA": "Мокіївка", "ADM4_PCODE": "UA5906011045", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Romenska", "ADM3_UA": "Роменська", "ADM3_PCODE": "UA5906011", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.320704001000024, 50.843092 ], [ 33.320056, 50.848298 ], [ 33.316351999000062, 50.84731 ], [ 33.31599, 50.843579 ], [ 33.311333, 50.843484 ], [ 33.298655, 50.840113 ], [ 33.293733, 50.835668 ], [ 33.295775, 50.834337 ], [ 33.302144001000045, 50.836612 ], [ 33.306039, 50.834109 ], [ 33.307761, 50.837686 ], [ 33.314259999000058, 50.836408 ], [ 33.318308, 50.836839 ], [ 33.320704001000024, 50.843092 ] ] ] } }
+]
+}

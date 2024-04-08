@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.073489866340299997, "Shape_Area": 0.00012719486566900001, "ADM4_EN": "Yurkivtsi", "ADM4_UA": "Юрківці", "ADM4_PCODE": "UA6802029045", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chemerovetska", "ADM3_UA": "Чемеровецька", "ADM3_PCODE": "UA6802029", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.344444, 49.034701 ], [ 26.335887, 49.031464 ], [ 26.33086399900003, 49.031979 ], [ 26.331892001000028, 49.028785 ], [ 26.337566, 49.028138 ], [ 26.347966001000032, 49.023856 ], [ 26.34945299900005, 49.020865 ], [ 26.35414333600005, 49.021916023000074 ], [ 26.351242, 49.029931 ], [ 26.345508, 49.030551 ], [ 26.344444, 49.034701 ] ] ] } }
+]
+}

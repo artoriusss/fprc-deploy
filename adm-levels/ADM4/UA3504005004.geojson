@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.061583940085400003, "Shape_Area": 7.3205132152299996e-05, "ADM4_EN": "Kandaurove", "ADM4_UA": "Кандаурове", "ADM4_PCODE": "UA3504005004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykoseverynivska", "ADM3_UA": "Великосеверинівська", "ADM3_PCODE": "UA3504005", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.260463999000024, 48.638929 ], [ 32.25992399900008, 48.644447 ], [ 32.261196, 48.647853 ], [ 32.26597200100008, 48.652699 ], [ 32.269056999000043, 48.653505 ], [ 32.266354041000056, 48.657554971000081 ], [ 32.26389800100003, 48.656396 ], [ 32.256433001000062, 48.643167 ], [ 32.258134, 48.638692 ], [ 32.260463999000024, 48.638929 ] ] ] } }
+]
+}

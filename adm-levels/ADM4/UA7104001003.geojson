@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.096967549294599997, "Shape_Area": 0.00018384923712500001, "ADM4_EN": "Rozhdestvenske", "ADM4_UA": "Рождественське", "ADM4_PCODE": "UA7104001003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykokhutirska", "ADM3_UA": "Великохутірська", "ADM3_PCODE": "UA7104001", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.180943809000041, 49.872471419000078 ], [ 32.179229872000064, 49.874189931000046 ], [ 32.171107, 49.869666 ], [ 32.167154999000047, 49.871981 ], [ 32.16014025000004, 49.868203250000079 ], [ 32.149087999000074, 49.86565 ], [ 32.150833, 49.863104 ], [ 32.162941, 49.865649 ], [ 32.170352999000045, 49.860958 ], [ 32.173375, 49.861755 ], [ 32.180628, 49.867553 ], [ 32.176933999000028, 49.869905 ], [ 32.180943809000041, 49.872471419000078 ] ] ] } }
+]
+}

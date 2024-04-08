@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.081586090639700001, "Shape_Area": 9.1104495191999995e-05, "ADM4_EN": "Rozghirche", "ADM4_UA": "Розгірче", "ADM4_PCODE": "UA4610023037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stryiska", "ADM3_UA": "Стрийська", "ADM3_PCODE": "UA4610023", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.705146282000044, 49.118306011000072 ], [ 23.704047283000023, 49.121319011000026 ], [ 23.697731284000042, 49.121469011000045 ], [ 23.693955286000062, 49.118291011000053 ], [ 23.686195288000079, 49.117552011000043 ], [ 23.685667288000047, 49.113697011000056 ], [ 23.690956288000052, 49.113324012000078 ], [ 23.696749285000067, 49.115165010000055 ], [ 23.701564283000039, 49.118094011000039 ], [ 23.705146282000044, 49.118306011000072 ] ] ] } }
+]
+}

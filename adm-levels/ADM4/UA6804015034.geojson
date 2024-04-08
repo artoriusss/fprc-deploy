@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0869568497676, "Shape_Area": 0.00018514098932800001, "ADM4_EN": "Shelekhove", "ADM4_UA": "Шелехове", "ADM4_PCODE": "UA6804015034", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Derazhnianska", "ADM3_UA": "Деражнянська", "ADM3_PCODE": "UA6804015", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.395069001000024, 49.159742 ], [ 27.386655, 49.158312 ], [ 27.375059001000068, 49.159669 ], [ 27.370733999000038, 49.158382 ], [ 27.376445, 49.152344 ], [ 27.383456, 49.153844 ], [ 27.390100999000026, 49.15097 ], [ 27.391492001000074, 49.147679 ], [ 27.397155, 49.151105 ], [ 27.393653001000075, 49.154792 ], [ 27.400251, 49.15552 ], [ 27.397461, 49.159338 ], [ 27.395069001000024, 49.159742 ] ] ] } }
+]
+}

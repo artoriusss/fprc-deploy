@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13936544601500001, "Shape_Area": 0.00020666230508000001, "ADM4_EN": "Sukhodil", "ADM4_UA": "Суходіл", "ADM4_PCODE": "UA2606025006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Spaska", "ADM3_UA": "Спаська", "ADM3_PCODE": "UA2606025", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.018143, 48.80447 ], [ 24.021322, 48.800639 ], [ 24.018198, 48.796868 ], [ 24.011439001000042, 48.794838 ], [ 24.007589001000042, 48.794709 ], [ 24.007165, 48.790727 ], [ 24.00444, 48.788265 ], [ 24.005765, 48.784342 ], [ 24.017179, 48.78864 ], [ 24.022463, 48.792722 ], [ 24.02678, 48.791752 ], [ 24.030468001000031, 48.79275 ], [ 24.027766, 48.796112 ], [ 24.023661999000069, 48.798488 ], [ 24.022186, 48.803315 ], [ 24.018143, 48.80447 ] ] ] } }
+]
+}

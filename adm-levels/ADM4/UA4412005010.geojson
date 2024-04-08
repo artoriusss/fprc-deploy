@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070754170490400004, "Shape_Area": 0.000120968092866, "ADM4_EN": "Zolotarivka", "ADM4_UA": "Золотарівка", "ADM4_PCODE": "UA4412005010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lysychanska", "ADM3_UA": "Лисичанська", "ADM3_PCODE": "UA4412005", "ADM2_EN": "Sievierodonetskyi", "ADM2_UA": "Сєвєродонецький", "ADM2_PCODE": "UA4412", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.27443, 48.885301 ], [ 38.266302001000042, 48.88426 ], [ 38.268352999000058, 48.881621 ], [ 38.267401, 48.872863 ], [ 38.273601, 48.873601 ], [ 38.27688099900007, 48.869388 ], [ 38.281275, 48.870707 ], [ 38.278269, 48.874358 ], [ 38.27443, 48.885301 ] ] ] } }
+]
+}

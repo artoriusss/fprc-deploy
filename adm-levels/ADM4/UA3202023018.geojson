@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.14700424930799999, "Shape_Area": 0.000191108848504, "ADM4_EN": "Sukholisy", "ADM4_UA": "Сухоліси", "ADM4_PCODE": "UA3202023018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Uzynska", "ADM3_UA": "Узинська", "ADM3_PCODE": "UA3202023", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.350606589000051, 49.74004375100003 ], [ 30.347049605000052, 49.740694703000031 ], [ 30.343454713000028, 49.733528750000062 ], [ 30.357999634000066, 49.733208704000049 ], [ 30.364089620000073, 49.732094726000071 ], [ 30.367789580000078, 49.736309672000061 ], [ 30.383503555000061, 49.734631647000072 ], [ 30.401541618000067, 49.731899723000026 ], [ 30.404260493000038, 49.73270264000007 ], [ 30.372081644000048, 49.736908777000053 ], [ 30.350606589000051, 49.74004375100003 ] ] ] } }
+]
+}

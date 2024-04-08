@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.066387508542900001, "Shape_Area": 8.9840744967100005e-05, "ADM4_EN": "Sukhodil", "ADM4_UA": "Суходіл", "ADM4_PCODE": "UA6106013015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Husiatynska", "ADM3_UA": "Гусятинська", "ADM3_PCODE": "UA6106013", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.157386999000039, 49.049755 ], [ 26.154158, 49.047358 ], [ 26.157538, 49.044686 ], [ 26.159672999000065, 49.038587 ], [ 26.166038, 49.038772 ], [ 26.166258, 49.042186 ], [ 26.170495, 49.043483 ], [ 26.165108, 49.046924 ], [ 26.159666001000062, 49.046715 ], [ 26.157386999000039, 49.049755 ] ] ] } }
+]
+}

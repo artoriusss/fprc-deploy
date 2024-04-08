@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.119179674939, "Shape_Area": 0.00025899180506499999, "ADM4_EN": "Andriiashivka", "ADM4_UA": "Андріяшівка", "ADM4_PCODE": "UA5112003003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Baltska", "ADM3_UA": "Балтська", "ADM3_PCODE": "UA5112003", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.669802, 47.924018 ], [ 29.666635559000042, 47.92140960200004 ], [ 29.671440906000043, 47.917879011000025 ], [ 29.695692, 47.915851 ], [ 29.711159318000057, 47.913799470000072 ], [ 29.712876359000063, 47.917960760000028 ], [ 29.704255, 47.920739 ], [ 29.687746, 47.922824 ], [ 29.669802, 47.924018 ] ] ] } }
+]
+}

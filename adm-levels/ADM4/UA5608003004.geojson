@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062374902528000001, "Shape_Area": 7.7421586320899997e-05, "ADM4_EN": "Zarivia", "ADM4_UA": "Зарів'я", "ADM4_PCODE": "UA5608003004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vyrivska", "ADM3_UA": "Вирівська", "ADM3_PCODE": "UA5608003", "ADM2_EN": "Sarnenskyi", "ADM2_UA": "Сарненський", "ADM2_PCODE": "UA5608", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.710309080000059, 51.252146010000047 ], [ 26.711893079000049, 51.249107970000068 ], [ 26.712487568000029, 51.243056554000077 ], [ 26.724025081000036, 51.237756990000037 ], [ 26.725687920000041, 51.241511070000058 ], [ 26.715376080000055, 51.244488990000036 ], [ 26.713586880000037, 51.246248040000069 ], [ 26.715241800000058, 51.251222970000072 ], [ 26.710309080000059, 51.252146010000047 ] ] ] } }
+]
+}

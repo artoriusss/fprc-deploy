@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.107775879876, "Shape_Area": 0.000207360861981, "ADM4_EN": "Sharyn", "ADM4_UA": "Шарин", "ADM4_PCODE": "UA7106013008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ladyzhynska", "ADM3_UA": "Ладижинська", "ADM3_PCODE": "UA7106013", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.232329851000031, 48.628797676000033 ], [ 30.235086, 48.628606 ], [ 30.234174, 48.622546 ], [ 30.237067, 48.622498 ], [ 30.240203, 48.618186 ], [ 30.239994999000032, 48.614442 ], [ 30.248358, 48.611409 ], [ 30.258134, 48.609292 ], [ 30.258928, 48.612679 ], [ 30.266241999000044, 48.61331 ], [ 30.265628, 48.616265 ], [ 30.254650001000073, 48.616771 ], [ 30.246596, 48.620671 ], [ 30.242585, 48.623802 ], [ 30.235681, 48.62506 ], [ 30.23605, 48.628995 ], [ 30.232329851000031, 48.628797676000033 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.060150200187900002, "Shape_Area": 0.00012863348515300001, "ADM4_EN": "Chervone", "ADM4_UA": "Червоне", "ADM4_PCODE": "UA7102029033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Talnivska", "ADM3_UA": "Тальнівська", "ADM3_PCODE": "UA7102029", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.823867, 48.903424 ], [ 30.827387701000077, 48.908047255000042 ], [ 30.823029999000028, 48.910198 ], [ 30.81731699900007, 48.905157 ], [ 30.81608, 48.905968 ], [ 30.811096, 48.901798 ], [ 30.813620999000079, 48.900432 ], [ 30.808294001000036, 48.895975 ], [ 30.814923645000079, 48.893587130000071 ], [ 30.823867, 48.903424 ] ] ] } }
+]
+}

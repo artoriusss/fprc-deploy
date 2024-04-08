@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.073531608053800004, "Shape_Area": 0.000106008157788, "ADM4_EN": "Bilokrynytsia", "ADM4_UA": "Білокриниця", "ADM4_PCODE": "UA6104013003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zalozetska", "ADM3_UA": "Залозецька", "ADM3_PCODE": "UA6104013", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.295146656000043, 49.76770668100005 ], [ 25.278834003000043, 49.769888714000047 ], [ 25.265374378000047, 49.767932794000046 ], [ 25.267132430000061, 49.765366693000033 ], [ 25.274252197000067, 49.76596640200006 ], [ 25.28087871300005, 49.762876634000065 ], [ 25.283396, 49.765256 ], [ 25.288019789000032, 49.764519980000046 ], [ 25.288460009000062, 49.767091133000065 ], [ 25.294799911000041, 49.765928296000027 ], [ 25.295146656000043, 49.76770668100005 ] ] ] } }
+]
+}

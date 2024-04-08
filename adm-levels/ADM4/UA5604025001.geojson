@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.091848233678499994, "Shape_Area": 0.00013284755569700001, "ADM4_EN": "Povcha", "ADM4_UA": "Повча", "ADM4_PCODE": "UA5604025001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Povchanska", "ADM3_UA": "Повчанська", "ADM3_PCODE": "UA5604025", "ADM2_EN": "Dubenskyi", "ADM2_UA": "Дубенський", "ADM2_PCODE": "UA5604", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.511168160000068, 50.379399990000081 ], [ 25.505948879000073, 50.379309990000081 ], [ 25.500480120000077, 50.380880040000079 ], [ 25.49837412100004, 50.377103010000042 ], [ 25.498036800000023, 50.371787970000071 ], [ 25.503498, 50.370444990000067 ], [ 25.508886840000059, 50.374143 ], [ 25.516599840000026, 50.367991950000032 ], [ 25.51869288000006, 50.371500960000049 ], [ 25.512222961000077, 50.373514980000039 ], [ 25.511168160000068, 50.379399990000081 ] ] ] } }
+]
+}

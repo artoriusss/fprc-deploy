@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.222220166311, "Shape_Area": 0.00037060130962400002, "ADM4_EN": "Chervone", "ADM4_UA": "Червоне", "ADM4_PCODE": "UA3502005017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Haivoronska", "ADM3_UA": "Гайворонська", "ADM3_PCODE": "UA3502005", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "Голованівський", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.984559999000055, 48.422805 ], [ 29.980803, 48.419592 ], [ 29.967724, 48.419664 ], [ 29.961997999000062, 48.419025 ], [ 29.956533, 48.420313 ], [ 29.955674999000053, 48.417893 ], [ 29.960712001000047, 48.41708 ], [ 29.956795, 48.41046 ], [ 29.965191, 48.406135 ], [ 29.970671999000047, 48.40659 ], [ 29.977761, 48.405579 ], [ 29.979537, 48.413151 ], [ 29.984847, 48.417956 ], [ 29.988259001000074, 48.417999 ], [ 29.987002, 48.422276 ], [ 29.984559999000055, 48.422805 ] ] ] } }
+]
+}

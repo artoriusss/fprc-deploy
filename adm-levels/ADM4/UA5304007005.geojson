@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0464776919904, "Shape_Area": 6.0283623308599998e-05, "ADM4_EN": "Dmytrivka", "ADM4_UA": "Дмитрівка", "ADM4_PCODE": "UA5304007005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Orzhytska", "ADM3_UA": "Оржицька", "ADM3_PCODE": "UA5304007", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.83035757500005, 49.867535763000035 ], [ 32.831787094000049, 49.862892930000044 ], [ 32.835106999000061, 49.85899 ], [ 32.836825520000048, 49.860532148000061 ], [ 32.834223370000075, 49.867814261000035 ], [ 32.83035757500005, 49.867535763000035 ] ] ] } }
+]
+}

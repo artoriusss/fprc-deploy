@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.050882423322700002, "Shape_Area": 6.2065551358599994e-05, "ADM4_EN": "Ridenke", "ADM4_UA": "Ріденьке", "ADM4_PCODE": "UA3202021022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tetiivska", "ADM3_UA": "Тетіївська", "ADM3_PCODE": "UA3202021", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.883733457000062, 49.216126182000039 ], [ 29.873121894000064, 49.215968126000064 ], [ 29.866791911000064, 49.210890168000049 ], [ 29.871440964000044, 49.208480193000071 ], [ 29.874765968000077, 49.213149204000047 ], [ 29.883338942000023, 49.214096212000072 ], [ 29.883733457000062, 49.216126182000039 ] ] ] } }
+]
+}

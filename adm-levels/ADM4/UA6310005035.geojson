@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.048264366471599998, "Shape_Area": 3.8429554219400002e-05, "ADM4_EN": "Lytovshchyna", "ADM4_UA": "Литовщина", "ADM4_PCODE": "UA6310005035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lozivska", "ADM3_UA": "Лозівська", "ADM3_PCODE": "UA6310005", "ADM2_EN": "Lozivskyi", "ADM2_UA": "Лозівський", "ADM2_PCODE": "UA6310", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.143718, 48.811015 ], [ 36.139217001000077, 48.80863 ], [ 36.132127, 48.807342 ], [ 36.132905, 48.805598 ], [ 36.15325000100006, 48.809789 ], [ 36.152638, 48.810879 ], [ 36.144405001000052, 48.809465 ], [ 36.143718, 48.811015 ] ] ] } }
+]
+}

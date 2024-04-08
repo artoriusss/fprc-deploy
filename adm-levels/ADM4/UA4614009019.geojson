@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.079040811978299999, "Shape_Area": 0.000110303152273, "ADM4_EN": "Mostyska Druhi", "ADM4_UA": "Мостиська Другі", "ADM4_PCODE": "UA4614009019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shehynivska", "ADM3_UA": "Шегинівська", "ADM3_PCODE": "UA4614009", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.042221539000025, 49.823748021000029 ], [ 23.03745654100004, 49.823710021000068 ], [ 23.031384544000048, 49.822033021000038 ], [ 23.030728545000045, 49.817592021000053 ], [ 23.034368543000028, 49.816517021000038 ], [ 23.041338539000037, 49.817284021000034 ], [ 23.034639542000036, 49.81111302100004 ], [ 23.042270538000025, 49.813057021000077 ], [ 23.044728380000038, 49.817292844000065 ], [ 23.044593342000042, 49.82134818000003 ], [ 23.042221539000025, 49.823748021000029 ] ] ] } }
+]
+}

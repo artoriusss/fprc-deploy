@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.037097854538599997, "Shape_Area": 4.1120918907100001e-05, "ADM4_EN": "Poliana", "ADM4_UA": "Поляна", "ADM4_PCODE": "UA3504017051", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ketrysanivska", "ADM3_UA": "Кетрисанівська", "ADM3_PCODE": "UA3504017", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.786956, 48.100702 ], [ 31.783052999000063, 48.10097 ], [ 31.770688999000072, 48.099276 ], [ 31.774729, 48.09659 ], [ 31.782109, 48.098322 ], [ 31.786956, 48.100702 ] ] ] } }
+]
+}

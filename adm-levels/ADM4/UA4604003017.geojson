@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13880463989200001, "Shape_Area": 9.6236083464500005e-05, "ADM4_EN": "Huta", "ADM4_UA": "Гута", "ADM4_PCODE": "UA4604003017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Buska", "ADM3_UA": "Буська", "ADM3_PCODE": "UA4604003", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.654501115000073, 50.118197003000034 ], [ 24.651566116000026, 50.118249005000052 ], [ 24.655135115000064, 50.11223900400006 ], [ 24.649395114000072, 50.10991600400007 ], [ 24.644174117000034, 50.112074004000078 ], [ 24.642648817000065, 50.109054498000035 ], [ 24.649591115000078, 50.108072004000064 ], [ 24.657388114000071, 50.112712004000059 ], [ 24.654501115000073, 50.118197003000034 ] ] ] } }
+]
+}

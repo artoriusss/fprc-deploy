@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.106571998086, "Shape_Area": 0.00041979812207300002, "ADM4_EN": "Kazavchyn", "ADM4_UA": "Казавчин", "ADM4_PCODE": "UA3502005007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Haivoronska", "ADM3_UA": "Гайворонська", "ADM3_PCODE": "UA3502005", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "Голованівський", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.935981001000073, 48.283598 ], [ 29.931958001000055, 48.284224 ], [ 29.928536999000073, 48.281682 ], [ 29.929475, 48.275395 ], [ 29.945581, 48.263579 ], [ 29.954716, 48.269091 ], [ 29.955826999000067, 48.268365 ], [ 29.963509001000034, 48.27235 ], [ 29.962246, 48.277018 ], [ 29.9524, 48.279923 ], [ 29.945289, 48.279396 ], [ 29.94163499900003, 48.283613 ], [ 29.935981001000073, 48.283598 ] ] ] } }
+]
+}

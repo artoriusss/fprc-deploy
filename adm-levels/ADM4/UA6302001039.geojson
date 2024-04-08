@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.16221323598000001, "Shape_Area": 0.00013197800734, "ADM4_EN": "Musiiky", "ADM4_UA": "Мусійки", "ADM4_PCODE": "UA6302001039", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bohodukhivska", "ADM3_UA": "Богодухівська", "ADM3_PCODE": "UA6302001", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "Богодухівський", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.518778600000076, 50.137328867000065 ], [ 35.535144, 50.139405 ], [ 35.545052, 50.129605 ], [ 35.542832, 50.141241 ], [ 35.558312999000066, 50.145564 ], [ 35.558347, 50.146507 ], [ 35.540000292000059, 50.141862359000072 ], [ 35.527889036000033, 50.138275027000077 ], [ 35.518778600000076, 50.137328867000065 ] ] ] } }
+]
+}

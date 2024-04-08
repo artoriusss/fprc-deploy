@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.083269783604599995, "Shape_Area": 0.000108437735516, "ADM4_EN": "Olianyne", "ADM4_UA": "Олянине", "ADM4_PCODE": "UA7108013010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kamianska", "ADM3_UA": "Кам'янська", "ADM3_PCODE": "UA7108013", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.846568, 48.954649 ], [ 31.843573001000038, 48.95549 ], [ 31.840224, 48.950651 ], [ 31.843563, 48.948044 ], [ 31.845563999000035, 48.944283 ], [ 31.84978, 48.94588 ], [ 31.853717001000064, 48.944142 ], [ 31.855398999000045, 48.948564 ], [ 31.851687, 48.948431 ], [ 31.850761999000042, 48.952424 ], [ 31.846568, 48.954649 ] ] ] } }
+]
+}

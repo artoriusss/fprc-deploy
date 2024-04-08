@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.1479918418, "Shape_Area": 0.00040677145433900001, "ADM4_EN": "Synytsia", "ADM4_UA": "Синиця", "ADM4_PCODE": "UA7106019014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Palanska", "ADM3_UA": "Паланська", "ADM3_PCODE": "UA7106019", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.070817, 48.710689 ], [ 30.068808, 48.706976 ], [ 30.060799999000039, 48.709457 ], [ 30.058001, 48.701771 ], [ 30.066354001000036, 48.698263 ], [ 30.066429999000036, 48.695471 ], [ 30.063162, 48.68948 ], [ 30.066246001000025, 48.685673 ], [ 30.073699404000024, 48.68320320600003 ], [ 30.076282, 48.683334 ], [ 30.081486, 48.687256 ], [ 30.080469, 48.69558 ], [ 30.074861, 48.698014 ], [ 30.078565, 48.701153 ], [ 30.077961, 48.706338 ], [ 30.074993, 48.709532 ], [ 30.070817, 48.710689 ] ] ] } }
+]
+}

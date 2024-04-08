@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0588353505278, "Shape_Area": 7.3891672095199997e-05, "ADM4_EN": "Hasychivka", "ADM4_UA": "Гасичівка", "ADM4_PCODE": "UA7410005013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodnianska", "ADM3_UA": "Городнянська", "ADM3_PCODE": "UA7410005", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.773720961000038, 52.018145010000069 ], [ 31.768394040000032, 52.020266040000081 ], [ 31.767450120000035, 52.016634990000057 ], [ 31.777832161000049, 52.012048950000064 ], [ 31.777893, 52.018038 ], [ 31.773720961000038, 52.018145010000069 ] ] ] } }
+]
+}

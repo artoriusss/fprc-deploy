@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.19344972789699999, "Shape_Area": 0.00033786043029700001, "ADM4_EN": "Velykyi Karabchiiv", "ADM4_UA": "Великий Карабчіїв", "ADM4_PCODE": "UA6804013009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodotska", "ADM3_UA": "Городоцька", "ADM3_PCODE": "UA6804013", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.594762001000049, 49.04317 ], [ 26.592478, 49.042163 ], [ 26.593007, 49.033817 ], [ 26.591994, 49.028148 ], [ 26.594827001000056, 49.026591001000043 ], [ 26.595388, 49.022534 ], [ 26.602965, 49.020121 ], [ 26.612749, 49.019167 ], [ 26.613013, 49.026106 ], [ 26.61446999900005, 49.028733 ], [ 26.612309, 49.031829 ], [ 26.604345999000031, 49.032546 ], [ 26.601282, 49.035464 ], [ 26.603919, 49.039371 ], [ 26.595203999000034, 49.040244 ], [ 26.594762001000049, 49.04317 ] ] ] } }
+]
+}

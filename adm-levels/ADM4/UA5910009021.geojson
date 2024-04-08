@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.091209080653799998, "Shape_Area": 0.00015064185415100001, "ADM4_EN": "Stiahailivka", "ADM4_UA": "Стягайлівка", "ADM4_PCODE": "UA5910009021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Znob-Novhorodska", "ADM3_UA": "Зноб-Новгородська", "ADM3_PCODE": "UA5910009", "ADM2_EN": "Shostkynskyi", "ADM2_UA": "Шосткинський", "ADM2_PCODE": "UA5910", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.663866, 52.273399 ], [ 33.66357399900005, 52.275427 ], [ 33.657448999000053, 52.274202 ], [ 33.658540001000063, 52.27159 ], [ 33.650121, 52.267949 ], [ 33.642816, 52.263879 ], [ 33.645866, 52.26266 ], [ 33.653614, 52.266558 ], [ 33.661576, 52.266767 ], [ 33.672187001000054, 52.268983 ], [ 33.677369, 52.27095 ], [ 33.675486, 52.27364 ], [ 33.663866, 52.273399 ] ] ] } }
+]
+}

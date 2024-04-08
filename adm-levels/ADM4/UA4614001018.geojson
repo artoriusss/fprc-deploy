@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.044424861218400002, "Shape_Area": 5.95232621863e-05, "ADM4_EN": "Lelekhivka", "ADM4_UA": "Лелехівка", "ADM4_PCODE": "UA4614001018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivano-Frankivska", "ADM3_UA": "Івано-Франківська", "ADM3_PCODE": "UA4614001", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.691086298000073, 49.942132011000069 ], [ 23.686284300000068, 49.945598011000072 ], [ 23.682819301000052, 49.94971901100007 ], [ 23.681853301000046, 49.945405011000048 ], [ 23.685056301000031, 49.940640011000028 ], [ 23.690037299000039, 49.939150011000038 ], [ 23.691086298000073, 49.942132011000069 ] ] ] } }
+]
+}

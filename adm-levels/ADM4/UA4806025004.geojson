@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13534548844300001, "Shape_Area": 0.000135574952521, "ADM4_EN": "Pokrovske", "ADM4_UA": "Покровське", "ADM4_PCODE": "UA4806025004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ochakivska", "ADM3_UA": "Очаківська", "ADM3_PCODE": "UA4806025", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.629482001000042, 46.538677 ], [ 31.609328001000051, 46.538649 ], [ 31.599009222000063, 46.537698359000046 ], [ 31.609229708000044, 46.534901397000056 ], [ 31.61620257900006, 46.534129105000034 ], [ 31.618046910000032, 46.536474480000038 ], [ 31.623439065000071, 46.537110756000061 ], [ 31.624613315000033, 46.535411140000065 ], [ 31.634357702000045, 46.535242285000038 ], [ 31.638678584000047, 46.53844160400007 ], [ 31.629482001000042, 46.538677 ] ] ] } }
+]
+}

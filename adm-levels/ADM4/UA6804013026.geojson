@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0794504768635, "Shape_Area": 0.00014772436256900001, "ADM4_EN": "Mudryholovy", "ADM4_UA": "Мудриголови", "ADM4_PCODE": "UA6804013026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodotska", "ADM3_UA": "Городоцька", "ADM3_PCODE": "UA6804013", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.689397, 49.140292 ], [ 26.685081, 49.141782 ], [ 26.681973, 49.145077 ], [ 26.677859, 49.146202 ], [ 26.673341, 49.140399 ], [ 26.665721, 49.141911 ], [ 26.66834, 49.135536 ], [ 26.676895, 49.135008 ], [ 26.681532, 49.133884 ], [ 26.687316, 49.137148 ], [ 26.689397, 49.140292 ] ] ] } }
+]
+}

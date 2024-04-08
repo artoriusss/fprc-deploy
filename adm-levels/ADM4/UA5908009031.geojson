@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.123438205161, "Shape_Area": 0.00042118077846400002, "ADM4_EN": "Riasne", "ADM4_UA": "Рясне", "ADM4_PCODE": "UA5908009031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasnopilska", "ADM3_UA": "Краснопільська", "ADM3_PCODE": "UA5908009", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.389562, 50.698928 ], [ 35.391901634000078, 50.707727057000056 ], [ 35.384851, 50.708036 ], [ 35.383953999000028, 50.703481 ], [ 35.377309, 50.700496 ], [ 35.379985999000041, 50.697394 ], [ 35.38124, 50.691532 ], [ 35.386912, 50.687439 ], [ 35.382537, 50.685325 ], [ 35.383624, 50.681657 ], [ 35.396298, 50.678852 ], [ 35.396386, 50.682189 ], [ 35.405277, 50.688728 ], [ 35.405024500000025, 50.694356 ], [ 35.40195900100008, 50.697576 ], [ 35.393849, 50.696142 ], [ 35.389562, 50.698928 ] ] ] } }
+]
+}

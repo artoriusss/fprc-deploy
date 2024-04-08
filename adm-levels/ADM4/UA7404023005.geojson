@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.090653921888700001, "Shape_Area": 0.000176607335137, "ADM4_EN": "Rozdolne", "ADM4_UA": "Роздольне", "ADM4_PCODE": "UA7404023005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mrynska", "ADM3_UA": "Мринська", "ADM3_PCODE": "UA7404023", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.415298121000035, 51.078064950000055 ], [ 31.410713881000049, 51.076800990000038 ], [ 31.407869880000078, 51.079622040000061 ], [ 31.403624040000068, 51.076187010000069 ], [ 31.40714808000007, 51.073475040000062 ], [ 31.408352999000044, 51.067442970000059 ], [ 31.42287107900006, 51.067424970000047 ], [ 31.426116120000074, 51.068475 ], [ 31.421454121000068, 51.074547030000076 ], [ 31.416108840000049, 51.075725040000066 ], [ 31.415298121000035, 51.078064950000055 ] ] ] } }
+]
+}

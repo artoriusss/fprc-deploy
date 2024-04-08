@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.064560014673500005, "Shape_Area": 0.00014682173825299999, "ADM4_EN": "Kudlativka", "ADM4_UA": "Кудлатівка", "ADM4_PCODE": "UA2606011006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Voinylivska", "ADM3_UA": "Войнилівська", "ADM3_PCODE": "UA2606011", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.518393943000035, 49.076437020000071 ], [ 24.512757129000079, 49.079416871000035 ], [ 24.504837691000034, 49.080324174000054 ], [ 24.499886254000046, 49.078724500000078 ], [ 24.494561387000033, 49.078561305000051 ], [ 24.496113920000028, 49.075103548000072 ], [ 24.506100667000055, 49.071448936000081 ], [ 24.510716562000027, 49.070707330000062 ], [ 24.512482914000032, 49.07294336700005 ], [ 24.518393943000035, 49.076437020000071 ] ] ] } }
+]
+}

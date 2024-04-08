@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10715662904000001, "Shape_Area": 0.000127154830676, "ADM4_EN": "Trybukhivtsi", "ADM4_UA": "Трибухівці", "ADM4_PCODE": "UA6106013016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Husiatynska", "ADM3_UA": "Гусятинська", "ADM3_PCODE": "UA6106013", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 26.160043, 49.142346 ], [ 26.159417897000026, 49.139301198000055 ], [ 26.165434, 49.134341 ], [ 26.168600128000037, 49.135433571000078 ], [ 26.169777962000069, 49.138752919000069 ], [ 26.166534795000075, 49.141403015000037 ], [ 26.160043, 49.142346 ] ] ], [ [ [ 26.172054, 49.147805 ], [ 26.171091045000026, 49.139512259000071 ], [ 26.17215, 49.136595 ], [ 26.182261, 49.137866 ], [ 26.174424, 49.141396 ], [ 26.176541, 49.145356 ], [ 26.172054, 49.147805 ] ] ] ] } }
+]
+}

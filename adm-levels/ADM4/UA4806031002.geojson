@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057691727621599999, "Shape_Area": 9.3446367324799998e-05, "ADM4_EN": "Vesniana Kvitka", "ADM4_UA": "Весняна Квітка", "ADM4_PCODE": "UA4806031002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stepivska", "ADM3_UA": "Степівська", "ADM3_PCODE": "UA4806031", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 31.526382364000028, 47.25419663200006 ], [ 31.519746674000032, 47.254491876000031 ], [ 31.51931279300004, 47.246984743000041 ], [ 31.525112798000066, 47.245536406000042 ], [ 31.526382364000028, 47.25419663200006 ] ] ], [ [ [ 31.53405228500003, 47.253914244000043 ], [ 31.528847589000065, 47.254037922000066 ], [ 31.529691274000072, 47.246794742000077 ], [ 31.533385425000063, 47.246670738000034 ], [ 31.53405228500003, 47.253914244000043 ] ] ] ] } }
+]
+}

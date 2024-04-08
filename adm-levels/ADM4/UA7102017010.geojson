@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.061626210592799997, "Shape_Area": 0.00017070623051300001, "ADM4_EN": "Mezhyhirka", "ADM4_UA": "Межигірка", "ADM4_PCODE": "UA7102017010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lypianska", "ADM3_UA": "Лип'янська", "ADM3_PCODE": "UA7102017", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.550151001000074, 48.885332 ], [ 31.545295001000056, 48.886626 ], [ 31.543467, 48.878821 ], [ 31.545982, 48.87427 ], [ 31.558077001000072, 48.876772 ], [ 31.55962, 48.880756 ], [ 31.562812999000073, 48.88215 ], [ 31.554089999000041, 48.885379 ], [ 31.550151001000074, 48.885332 ] ] ] } }
+]
+}

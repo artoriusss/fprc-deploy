@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.045344563805099998, "Shape_Area": 3.6244740141800002e-05, "ADM4_EN": "Nyzhnii Sukhodil", "ADM4_UA": "Нижній Суходіл", "ADM4_PCODE": "UA4412011011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sievierodonetska", "ADM3_UA": "Сєвєродонецька", "ADM3_PCODE": "UA4412011", "ADM2_EN": "Sievierodonetskyi", "ADM2_UA": "Сєвєродонецький", "ADM2_PCODE": "UA4412", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.746023, 49.003837 ], [ 38.734349, 49.009098 ], [ 38.725569, 49.010252 ], [ 38.725275, 49.008375 ], [ 38.733166001000029, 49.007335 ], [ 38.744893999000055, 49.003097 ], [ 38.746023, 49.003837 ] ] ] } }
+]
+}

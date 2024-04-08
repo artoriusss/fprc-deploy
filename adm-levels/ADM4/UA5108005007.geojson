@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.053844897808899998, "Shape_Area": 6.1241355786700006e-05, "ADM4_EN": "Pomazany", "ADM4_UA": "Помазани", "ADM4_PCODE": "UA5108005007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kiliiska", "ADM3_UA": "Кілійська", "ADM3_PCODE": "UA5108005", "ADM2_EN": "Izmailskyi", "ADM2_UA": "Ізмаїльський", "ADM2_PCODE": "UA5108", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.30954900100005, 45.604184 ], [ 29.308604999000067, 45.609042 ], [ 29.305352, 45.608733 ], [ 29.307428, 45.599325 ], [ 29.306420999000068, 45.595656 ], [ 29.313222, 45.596863 ], [ 29.310401, 45.600341 ], [ 29.30954900100005, 45.604184 ] ] ] } }
+]
+}

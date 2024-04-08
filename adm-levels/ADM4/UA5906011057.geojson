@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.061502651890099999, "Shape_Area": 0.000113111160659, "ADM4_EN": "Pohreby", "ADM4_UA": "Погреби", "ADM4_PCODE": "UA5906011057", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Romenska", "ADM3_UA": "Роменська", "ADM3_PCODE": "UA5906011", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.39436, 50.814744 ], [ 33.38653, 50.814629 ], [ 33.384685, 50.813023 ], [ 33.387976999000045, 50.809574 ], [ 33.393774001000054, 50.809264 ], [ 33.394348, 50.806723 ], [ 33.390132, 50.802434 ], [ 33.395332, 50.801736 ], [ 33.402182999000047, 50.80621 ], [ 33.402248001000032, 50.809621 ], [ 33.397961, 50.81054 ], [ 33.39436, 50.814744 ] ] ] } }
+]
+}

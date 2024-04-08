@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.096151877494900007, "Shape_Area": 0.00031084997572, "ADM4_EN": "Rozumivka", "ADM4_UA": "Розумівка", "ADM4_PCODE": "UA5308011010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Karlivska", "ADM3_UA": "Карлівська", "ADM3_PCODE": "UA5308011", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.039307, 49.352447 ], [ 35.038428, 49.35423 ], [ 35.030232, 49.351933 ], [ 35.019791, 49.350254 ], [ 35.008331, 49.351561 ], [ 35.007155999000076, 49.347872 ], [ 35.018406, 49.345465 ], [ 35.015019001000041, 49.340532 ], [ 35.025821, 49.338971 ], [ 35.043266, 49.345179 ], [ 35.039307, 49.352447 ] ] ] } }
+]
+}

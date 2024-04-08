@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.100425254008, "Shape_Area": 0.00018692042102200001, "ADM4_EN": "Leonidivka", "ADM4_UA": "Леонідівка", "ADM4_PCODE": "UA7404019008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Losynivska", "ADM3_UA": "Лосинівська", "ADM3_PCODE": "UA7404019", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.946437081000056, 50.79497697000005 ], [ 31.950824040000043, 50.798957040000062 ], [ 31.954068, 50.799355020000064 ], [ 31.966589880000072, 50.793720030000031 ], [ 31.966148160000046, 50.796903060000034 ], [ 31.969429199000047, 50.799278970000046 ], [ 31.954088880000029, 50.806683990000067 ], [ 31.944654, 50.79998898000008 ], [ 31.94265708000006, 50.79660903000007 ], [ 31.946437081000056, 50.79497697000005 ] ] ] } }
+]
+}

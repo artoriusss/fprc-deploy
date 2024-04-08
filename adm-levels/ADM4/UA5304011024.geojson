@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.075965263371200006, "Shape_Area": 0.00013013818783, "ADM4_EN": "Demyna Balka", "ADM4_UA": "Демина Балка", "ADM4_PCODE": "UA5304011024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khorolska", "ADM3_UA": "Хорольська", "ADM3_PCODE": "UA5304011", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.360438, 49.734814 ], [ 33.358994, 49.733032 ], [ 33.365508567000063, 49.728916458000072 ], [ 33.365747015000068, 49.725429602000077 ], [ 33.362886912000079, 49.722391429000027 ], [ 33.367363, 49.719472 ], [ 33.370612, 49.721937 ], [ 33.373341999000047, 49.720638 ], [ 33.380061, 49.723587 ], [ 33.365803, 49.733383 ], [ 33.360438, 49.734814 ] ] ] } }
+]
+}

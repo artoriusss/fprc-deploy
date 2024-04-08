@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.048132597378700001, "Shape_Area": 6.3893205587299998e-05, "ADM4_EN": "Zaturyn", "ADM4_UA": "Затурин", "ADM4_PCODE": "UA6104037015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pidhaietska", "ADM3_UA": "Підгаєцька", "ADM3_PCODE": "UA6104037", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.060196857000051, 49.180699347000029 ], [ 25.052441859000055, 49.180055032000041 ], [ 25.057768681000027, 49.172296306000078 ], [ 25.06062963200003, 49.171658798000067 ], [ 25.062973486000033, 49.173970421000035 ], [ 25.063109196000028, 49.177244290000033 ], [ 25.060196857000051, 49.180699347000029 ] ] ] } }
+]
+}

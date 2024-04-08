@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.12526430753600001, "Shape_Area": 0.000300405342899, "ADM4_EN": "Radalivka", "ADM4_UA": "Радалівка", "ADM4_PCODE": "UA5302001050", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hlobynska", "ADM3_UA": "Глобинська", "ADM3_PCODE": "UA5302001", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.478882, 49.572584 ], [ 33.483823, 49.568244 ], [ 33.475715, 49.561991 ], [ 33.466863, 49.563826 ], [ 33.464776, 49.554772 ], [ 33.464937999000028, 49.552181 ], [ 33.474801999000078, 49.54943 ], [ 33.478057, 49.54985 ], [ 33.483453, 49.553439 ], [ 33.485556, 49.552655 ], [ 33.4917, 49.557278 ], [ 33.478963, 49.561339 ], [ 33.484861, 49.56704 ], [ 33.486705999000037, 49.570118 ], [ 33.478882, 49.572584 ] ] ] } }
+]
+}

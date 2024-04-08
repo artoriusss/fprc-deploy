@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.022658150930299999, "Shape_Area": 1.5335331237499999e-05, "ADM4_EN": "Kopelianka", "ADM4_UA": "ÐÐ¾Ð¿ÐµÐ»ÑÐ½ÐºÐ°", "ADM4_RU": "ÐÐ¾Ð¿ÐµÐ»ÑÐ½ÐºÐ°", "ADM4_PCODE": "UA1804057026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khoroshivska", "ADM3_UA": "Ð¥Ð¾ÑÐ¾ÑÑÐ²ÑÑÐºÐ°", "ADM3_RU": "Ð¥Ð¾ÑÐ¾ÑÐµÐ²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA1804057", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "ÐÐ¸ÑÐ¾Ð¼Ð¸ÑÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¸ÑÐ¾Ð¼Ð¸ÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "ÐÐ¸ÑÐ¾Ð¼Ð¸ÑÑÑÐºÐ°", "ADM1_RU": "ÐÐ¸ÑÐ¾Ð¼Ð¸ÑÑÐºÐ°Ñ", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.576323, 50.552298990000054 ], [ 28.576167840000039, 50.551503030000049 ], [ 28.56725208000006, 50.552646030000062 ], [ 28.567572839000036, 50.553417960000047 ], [ 28.566744119000077, 50.55358203000003 ], [ 28.567095841000025, 50.554422 ], [ 28.568242080000061, 50.554234980000047 ], [ 28.570075920000079, 50.55397398000008 ], [ 28.576472039000066, 50.553080010000031 ], [ 28.576323, 50.552298990000054 ] ] ] } }
-]
-}

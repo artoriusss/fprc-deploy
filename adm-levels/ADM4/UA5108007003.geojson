@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.12743182731, "Shape_Area": 0.00052769379985099997, "ADM4_EN": "Kotlovyna", "ADM4_UA": "Котловина", "ADM4_PCODE": "UA5108007003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Reniiska", "ADM3_UA": "Ренійська", "ADM3_PCODE": "UA5108007", "ADM2_EN": "Izmailskyi", "ADM2_UA": "Ізмаїльський", "ADM2_PCODE": "UA5108", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.570041, 45.52431 ], [ 28.562785, 45.522038 ], [ 28.566364001000068, 45.515299 ], [ 28.560994, 45.512896 ], [ 28.561401, 45.508939 ], [ 28.558111001000043, 45.507549 ], [ 28.560395002000064, 45.504365 ], [ 28.566892, 45.499788 ], [ 28.574267, 45.496409 ], [ 28.578445999000053, 45.493385 ], [ 28.586269, 45.496491 ], [ 28.585215, 45.505471 ], [ 28.586668, 45.511869 ], [ 28.579876001000059, 45.512948 ], [ 28.582193, 45.516679 ], [ 28.571935, 45.520621 ], [ 28.570041, 45.52431 ] ] ] } }
+]
+}

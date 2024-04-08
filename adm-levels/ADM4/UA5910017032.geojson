@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.18091043265000001, "Shape_Area": 0.00024275053351099999, "ADM4_EN": "Sobycheve", "ADM4_UA": "Собичеве", "ADM4_PCODE": "UA5910017032", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shostkynska", "ADM3_UA": "Шосткинська", "ADM3_PCODE": "UA5910017", "ADM2_EN": "Shostkynskyi", "ADM2_UA": "Шосткинський", "ADM2_PCODE": "UA5910", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.70281, 51.827028 ], [ 33.694785, 51.820623 ], [ 33.683896, 51.820735 ], [ 33.683532, 51.819298 ], [ 33.691091999000037, 51.817252 ], [ 33.68794100100007, 51.814 ], [ 33.681457, 51.811796 ], [ 33.67708, 51.808701 ], [ 33.677301, 51.805865 ], [ 33.681505, 51.803858 ], [ 33.686416, 51.805577 ], [ 33.697244001000058, 51.81525 ], [ 33.698443, 51.820078 ], [ 33.704594, 51.825879 ], [ 33.70281, 51.827028 ] ] ] } }
+]
+}

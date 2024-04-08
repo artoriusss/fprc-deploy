@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.092508178202700006, "Shape_Area": 0.0001314162507, "ADM4_EN": "Usteriky", "ADM4_UA": "Устеріки", "ADM4_PCODE": "UA2602001013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Biloberizka", "ADM3_UA": "Білоберізька", "ADM3_PCODE": "UA2602001", "ADM2_EN": "Verkhovynskyi", "ADM2_UA": "Верховинський", "ADM2_PCODE": "UA2602", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.98457600100005, 48.127543 ], [ 24.978829, 48.131054 ], [ 24.976239, 48.128653 ], [ 24.978549999000052, 48.125529 ], [ 24.987467, 48.12446 ], [ 24.99452799900007, 48.120917 ], [ 25.002965999000025, 48.119821 ], [ 25.008278, 48.117805 ], [ 25.012267233000046, 48.114385398000081 ], [ 25.013640996000049, 48.116372547000026 ], [ 25.009500001000049, 48.119993 ], [ 25.003878, 48.123243001000048 ], [ 24.994307001000038, 48.125742 ], [ 24.992928, 48.124025 ], [ 24.98457600100005, 48.127543 ] ] ] } }
+]
+}

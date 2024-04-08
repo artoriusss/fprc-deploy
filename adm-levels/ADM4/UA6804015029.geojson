@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0514310302121, "Shape_Area": 0.000103673403435, "ADM4_EN": "Slobidka", "ADM4_UA": "Слобідка", "ADM4_PCODE": "UA6804015029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Derazhnianska", "ADM3_UA": "Деражнянська", "ADM3_PCODE": "UA6804015", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.515989, 49.27004 ], [ 27.509904, 49.271344 ], [ 27.506672, 49.269422 ], [ 27.50171799900005, 49.269572 ], [ 27.501238, 49.264513 ], [ 27.514740001000064, 49.263643 ], [ 27.52128353300003, 49.264292974000057 ], [ 27.521214, 49.266223 ], [ 27.515518999000051, 49.267972 ], [ 27.515989, 49.27004 ] ] ] } }
+]
+}

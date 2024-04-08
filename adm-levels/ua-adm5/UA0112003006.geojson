@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.040531079256699999, "Shape_Area": 8.3651878456400005e-05, "ADM4_EN": "Tsvitkove", "ADM4_UA": "Ð¦Ð²ÑÑÐºÐ¾Ð²Ðµ", "ADM4_RU": "Ð¦Ð²ÐµÑÐºÐ¾Ð²Ð¾", "ADM4_PCODE": "UA0112003006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Amurska", "ADM3_UA": "ÐÐ¼ÑÑÑÑÐºÐ°", "ADM3_RU": "ÐÐ¼ÑÑÑÐºÐ¸Ð¹", "ADM3_PCODE": "UA0112003", "ADM2_EN": "Krasnohvardiiskyi", "ADM2_UA": "ÐÑÐ°ÑÐ½Ð¾Ð³Ð²Ð°ÑÐ´ÑÐ¹ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÑÐ°ÑÐ½Ð¾Ð³Ð²Ð°ÑÐ´ÐµÐ¹ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA0112", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "ÐÐ²ÑÐ¾Ð½Ð¾Ð¼Ð½Ð° Ð ÐµÑÐ¿ÑÐ±Ð»ÑÐºÐ° ÐÑÐ¸Ð¼", "ADM1_RU": "ÐÐ²ÑÐ¾Ð½Ð¾Ð¼Ð½Ð°Ñ Ð ÐµÑÐ¿ÑÐ±Ð»Ð¸ÐºÐ° ÐÑÑÐ¼", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.167183, 45.310563 ], [ 34.159843, 45.310439 ], [ 34.159361001000036, 45.313797 ], [ 34.162747, 45.317448 ], [ 34.162559, 45.319305 ], [ 34.162467, 45.320877 ], [ 34.162814999000034, 45.322367 ], [ 34.166, 45.323798 ], [ 34.167455, 45.323158 ], [ 34.166071, 45.321385 ], [ 34.169702, 45.316324 ], [ 34.167183, 45.310563 ] ] ] } }
-]
-}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.118185618504, "Shape_Area": 7.3005699312400003e-05, "ADM4_EN": "Bidylo", "ADM4_UA": "Бідило", "ADM4_PCODE": "UA6302009004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasnokutska", "ADM3_UA": "Краснокутська", "ADM3_PCODE": "UA6302009", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "Богодухівський", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 35.353818999000055, 49.987015 ], [ 35.354400398000053, 49.992860137000037 ], [ 35.35156698600008, 49.992301635000047 ], [ 35.351275, 49.987587500000075 ], [ 35.353818999000055, 49.987015 ] ] ], [ [ [ 35.365196, 49.991386 ], [ 35.357268, 49.992453 ], [ 35.356277, 49.984679 ], [ 35.357845, 49.983735 ], [ 35.358923999000069, 49.990768 ], [ 35.365196, 49.991386 ] ] ] ] } }
+]
+}

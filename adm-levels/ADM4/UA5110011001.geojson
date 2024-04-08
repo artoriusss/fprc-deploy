@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.100830114432, "Shape_Area": 0.00034643040039599999, "ADM4_EN": "Vyzyrka", "ADM4_UA": "Визирка", "ADM4_PCODE": "UA5110011001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vyzyrska", "ADM3_UA": "Визирська", "ADM3_PCODE": "UA5110011", "ADM2_EN": "Odeskyi", "ADM2_UA": "Одеський", "ADM2_PCODE": "UA5110", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.001607, 46.699205 ], [ 31.000147001000073, 46.702626 ], [ 30.994799, 46.703782 ], [ 30.995841, 46.695646 ], [ 30.996074, 46.682345 ], [ 30.994429, 46.676833 ], [ 30.995658999000057, 46.670644 ], [ 31.002733, 46.671711 ], [ 31.009081, 46.671738 ], [ 31.009061, 46.676701 ], [ 31.004657, 46.676688 ], [ 31.006433, 46.687935 ], [ 31.009094, 46.689648 ], [ 31.007647, 46.69845 ], [ 31.001607, 46.699205 ] ] ] } }
+]
+}

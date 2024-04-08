@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0323274727975, "Shape_Area": 5.3467672605199999e-05, "ADM4_EN": "Novoiurivka", "ADM4_UA": "Новоюр'ївка", "ADM4_PCODE": "UA4806023006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Olshanska", "ADM3_UA": "Ольшанська", "ADM3_PCODE": "UA4806023", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.743897041000025, 47.211069420000058 ], [ 31.739327213000024, 47.209141461000058 ], [ 31.742219989000034, 47.204077837000057 ], [ 31.745202880000079, 47.20198051300008 ], [ 31.750790799000072, 47.205670973000053 ], [ 31.743897041000025, 47.211069420000058 ] ] ] } }
+]
+}

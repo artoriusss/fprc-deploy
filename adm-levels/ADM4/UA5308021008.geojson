@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070801347637099998, "Shape_Area": 0.0001273511823, "ADM4_EN": "Tyshenkivka", "ADM4_UA": "Тишенківка", "ADM4_PCODE": "UA5308021008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Martynivska", "ADM3_UA": "Мартинівська", "ADM3_PCODE": "UA5308021", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.369377240000063, 49.524947915000041 ], [ 35.360019168000065, 49.52608529400004 ], [ 35.355378827000038, 49.52295295700003 ], [ 35.344836869000062, 49.524527032000037 ], [ 35.340771324000059, 49.518139394000059 ], [ 35.34799700700006, 49.516328721000036 ], [ 35.351538, 49.520459 ], [ 35.359728540000049, 49.520737200000042 ], [ 35.364294513000061, 49.519343591000052 ], [ 35.367269302000068, 49.52062778100003 ], [ 35.369377240000063, 49.524947915000041 ] ] ] } }
+]
+}

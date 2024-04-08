@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.118604455264, "Shape_Area": 0.00037620950205, "ADM4_EN": "Maznyky", "ADM4_UA": "Мазники", "ADM4_PCODE": "UA6804015019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Derazhnianska", "ADM3_UA": "Деражнянська", "ADM3_PCODE": "UA6804015", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.285986001000026, 49.178703 ], [ 27.279887, 49.184175 ], [ 27.276306, 49.182801 ], [ 27.273268, 49.177703 ], [ 27.267385001000036, 49.176413 ], [ 27.262828, 49.177789 ], [ 27.25106, 49.176439 ], [ 27.244829, 49.174693 ], [ 27.244975, 49.171687 ], [ 27.250725, 49.165368 ], [ 27.253941, 49.163189 ], [ 27.270478, 49.170139 ], [ 27.274081, 49.172559 ], [ 27.286531, 49.174476 ], [ 27.285986001000026, 49.178703 ] ] ] } }
+]
+}

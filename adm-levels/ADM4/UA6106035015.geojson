@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.18447584237799999, "Shape_Area": 0.000280998002179, "ADM4_EN": "Turylche", "ADM4_UA": "Турильче", "ADM4_PCODE": "UA6106035015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Skala-Podilska", "ADM3_UA": "Скала-Подільська", "ADM3_PCODE": "UA6106035", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.213524001000053, 48.778613 ], [ 26.208848, 48.776091 ], [ 26.197045, 48.77667 ], [ 26.18891, 48.779727 ], [ 26.186909, 48.776834 ], [ 26.18893, 48.77407 ], [ 26.188129999000068, 48.769862 ], [ 26.189188, 48.766302 ], [ 26.199865, 48.766312 ], [ 26.204941, 48.76466 ], [ 26.213235, 48.767019001000051 ], [ 26.211893, 48.77007 ], [ 26.208434001000057, 48.76747 ], [ 26.202403999000069, 48.767905 ], [ 26.202154001000054, 48.771696 ], [ 26.209242, 48.773384 ], [ 26.213524001000053, 48.778613 ] ] ] } }
+]
+}

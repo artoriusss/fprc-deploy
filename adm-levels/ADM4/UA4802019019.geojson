@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0607865006675, "Shape_Area": 7.5406981706500003e-05, "ADM4_EN": "Tamaryne", "ADM4_UA": "Тамарине", "ADM4_PCODE": "UA4802019019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Snihurivska", "ADM3_UA": "Снігурівська", "ADM3_PCODE": "UA4802019", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.003822743000057, 47.016233831000079 ], [ 33.001691371000049, 47.017304865000028 ], [ 33.00686842600004, 47.022600084000032 ], [ 32.995957389000068, 47.027618571000062 ], [ 32.993964222000045, 47.025452581000081 ], [ 33.00208303200003, 47.021737536000046 ], [ 32.992948747000071, 47.012217490000069 ], [ 32.995862994000049, 47.010997902000042 ], [ 33.000255896000056, 47.015728153000055 ], [ 33.003822743000057, 47.016233831000079 ] ] ] } }
+]
+}

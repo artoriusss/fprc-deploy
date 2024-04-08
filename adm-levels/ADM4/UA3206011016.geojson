@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.044723696163400002, "Shape_Area": 7.8416747771400006e-05, "ADM4_EN": "Levchenkove", "ADM4_UA": "Левченкове", "ADM4_PCODE": "UA3206011016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zghurivska", "ADM3_UA": "Згурівська", "ADM3_PCODE": "UA3206011", "ADM2_EN": "Brovarskyi", "ADM2_UA": "Броварський", "ADM2_PCODE": "UA3206", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.705760954000027, 50.409319679000077 ], [ 31.702801038000075, 50.413394681000057 ], [ 31.691633012000068, 50.409525637000058 ], [ 31.696997019000037, 50.402907639000034 ], [ 31.699960001000079, 50.406178688000068 ], [ 31.705760954000027, 50.409319679000077 ] ] ] } }
+]
+}

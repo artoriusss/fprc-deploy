@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.097189518215099996, "Shape_Area": 0.00013066414567700001, "ADM4_EN": "Hlyboka Balka", "ADM4_UA": "Глибока Балка", "ADM4_PCODE": "UA3504031006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Subottsivska", "ADM3_UA": "Суботцівська", "ADM3_PCODE": "UA3504031", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 32.41381302700006, 48.69808094800004 ], [ 32.413710388000027, 48.701964970000063 ], [ 32.410010906000025, 48.713279800000066 ], [ 32.408118448000039, 48.71248264500008 ], [ 32.412488, 48.69833 ], [ 32.41381302700006, 48.69808094800004 ] ] ], [ [ [ 32.40249988000005, 48.705762564000054 ], [ 32.39575714800003, 48.704839571000036 ], [ 32.40202718200004, 48.695303161000027 ], [ 32.404525560000025, 48.68769276900008 ], [ 32.407867010000075, 48.68785280600008 ], [ 32.40249988000005, 48.705762564000054 ] ] ] ] } }
+]
+}

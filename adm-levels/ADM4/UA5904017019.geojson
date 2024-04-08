@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.16898998488200001, "Shape_Area": 0.000197615320956, "ADM4_EN": "Rozsokhuvate", "ADM4_UA": "Розсохувате", "ADM4_PCODE": "UA5904017019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chupakhivska", "ADM3_UA": "Чупахівська", "ADM3_PCODE": "UA5904017", "ADM2_EN": "Okhtyrskyi", "ADM2_UA": "Охтирський", "ADM2_PCODE": "UA5904", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.629628, 50.456702 ], [ 34.628508, 50.463272 ], [ 34.623348, 50.462572 ], [ 34.624995, 50.456372 ], [ 34.61164, 50.450481 ], [ 34.607182, 50.453416 ], [ 34.606425, 50.449835 ], [ 34.610893, 50.44825 ], [ 34.610700001000055, 50.444536 ], [ 34.616588999000044, 50.44529 ], [ 34.615879, 50.448903 ], [ 34.621793, 50.452366 ], [ 34.628105001000051, 50.45331 ], [ 34.629628, 50.456702 ] ] ] } }
+]
+}

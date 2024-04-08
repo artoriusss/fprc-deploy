@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.112597892016, "Shape_Area": 0.00014402328246600001, "ADM4_EN": "Shevchenka", "ADM4_UA": "Шевченка", "ADM4_PCODE": "UA7108003005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezniakivska", "ADM3_UA": "Березняківська", "ADM3_PCODE": "UA7108003", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.084863, 49.223653 ], [ 32.087065, 49.224751 ], [ 32.086405, 49.228661 ], [ 32.08292, 49.227465 ], [ 32.08283, 49.223448 ], [ 32.079648, 49.219321 ], [ 32.054478, 49.221278 ], [ 32.05461, 49.218892 ], [ 32.076876, 49.216975 ], [ 32.082478, 49.214255 ], [ 32.084435001000031, 49.21683 ], [ 32.084863, 49.223653 ] ] ] } }
+]
+}

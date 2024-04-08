@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.077480823084800005, "Shape_Area": 0.00017369335413699999, "ADM4_EN": "Prosianykivka", "ADM4_UA": "Просяниківка", "ADM4_PCODE": "UA5308013049", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kobeliatska", "ADM3_UA": "Кобеляцька", "ADM3_PCODE": "UA5308013", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.006386, 48.957648 ], [ 33.998762, 48.950194 ], [ 34.009984, 48.944587 ], [ 34.005819001000077, 48.941873 ], [ 34.009096999000064, 48.939347 ], [ 34.011012, 48.943106 ], [ 34.018691999000055, 48.949362 ], [ 34.017227001000037, 48.951529 ], [ 34.008515, 48.957349 ], [ 34.006386, 48.957648 ] ] ] } }
+]
+}

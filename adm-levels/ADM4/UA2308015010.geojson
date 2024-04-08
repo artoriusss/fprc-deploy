@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.069266991593300006, "Shape_Area": 0.00017426945698399999, "ADM4_EN": "Marianivka", "ADM4_UA": "Мар'янівка", "ADM4_PCODE": "UA2308015010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novovasylivska", "ADM3_UA": "Нововасилівська", "ADM3_PCODE": "UA2308015", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "Мелітопольський", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.005907593000074, 46.918429629000059 ], [ 36.015810421000026, 46.916369513000063 ], [ 36.026093302000049, 46.916136013000028 ], [ 36.025149653000028, 46.921145319000061 ], [ 36.026275436000049, 46.924621208000076 ], [ 36.008213496000053, 46.927709145000051 ], [ 36.007939398000076, 46.92669285900007 ], [ 36.005907593000074, 46.918429629000059 ] ] ] } }
+]
+}

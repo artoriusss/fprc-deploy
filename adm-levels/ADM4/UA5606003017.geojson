@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13190867781099999, "Shape_Area": 0.00010956380269599999, "ADM4_EN": "Zamostyshche", "ADM4_UA": "Замостище", "ADM4_PCODE": "UA5606003017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bereznivska", "ADM3_UA": "Березнівська", "ADM3_PCODE": "UA5606003", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.627514120000058, 50.93282097000008 ], [ 26.630524080000043, 50.935718070000064 ], [ 26.626406040000063, 50.937288030000047 ], [ 26.622534961000042, 50.935051980000026 ], [ 26.618869080000024, 50.928187050000076 ], [ 26.613365040000076, 50.924662020000028 ], [ 26.612130960000059, 50.918769 ], [ 26.618527079000046, 50.924713050000037 ], [ 26.622641160000057, 50.929766010000037 ], [ 26.627514120000058, 50.93282097000008 ] ] ] } }
+]
+}

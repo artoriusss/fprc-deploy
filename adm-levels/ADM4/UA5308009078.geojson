@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.074854824795700006, "Shape_Area": 0.00015473281268700001, "ADM4_EN": "Tsvitove", "ADM4_UA": "Цвітове", "ADM4_PCODE": "UA5308009078", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zinkivska", "ADM3_UA": "Зіньківська", "ADM3_PCODE": "UA5308009", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.217996001000074, 50.07449 ], [ 34.221190001000025, 50.077434 ], [ 34.217965, 50.081351 ], [ 34.212355, 50.077921 ], [ 34.194942001000072, 50.071247 ], [ 34.195669, 50.067888 ], [ 34.204377, 50.072414 ], [ 34.204312, 50.067961 ], [ 34.20727400100003, 50.065785 ], [ 34.211136, 50.068165 ], [ 34.217996001000074, 50.07449 ] ] ] } }
+]
+}

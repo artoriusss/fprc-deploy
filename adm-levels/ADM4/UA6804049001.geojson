@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.049267691265800002, "Shape_Area": 9.6438095674800006e-05, "ADM4_EN": "Chornyi Ostriv", "ADM4_UA": "Чорний Острів", "ADM4_PCODE": "UA6804049001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chornoostrivska", "ADM3_UA": "Чорноострівська", "ADM3_PCODE": "UA6804049", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.762994733000028, 49.506649369000058 ], [ 26.759308331000057, 49.508092074000047 ], [ 26.752024135000056, 49.508707833000074 ], [ 26.752537874000041, 49.503623870000069 ], [ 26.75791582100004, 49.503142611000044 ], [ 26.757862124000042, 49.499734724000064 ], [ 26.764202856000054, 49.499266119000026 ], [ 26.769477624000046, 49.503580892000059 ], [ 26.762994733000028, 49.506649369000058 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.060073434690699999, "Shape_Area": 7.9920457978500007e-05, "ADM4_EN": "Pidsosniv", "ADM4_UA": "Підсоснів", "ADM4_PCODE": "UA4606009018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Davydivska", "ADM3_UA": "Давидівська", "ADM3_PCODE": "UA4606009", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.339532157000065, 49.757347006000032 ], [ 24.345339155000033, 49.754243006000081 ], [ 24.346393156000033, 49.750906005000047 ], [ 24.352314154000055, 49.750488005000079 ], [ 24.352256153000042, 49.752844006000032 ], [ 24.344370156000025, 49.760235006000073 ], [ 24.340400157000033, 49.761119005000069 ], [ 24.339532157000065, 49.757347006000032 ] ] ] } }
+]
+}

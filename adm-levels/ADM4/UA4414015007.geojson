@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.063769672729600005, "Shape_Area": 0.000109445671549, "ADM4_EN": "Malokhatka", "ADM4_UA": "Малохатка", "ADM4_PCODE": "UA4414015007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shulhynska", "ADM3_UA": "Шульгинська", "ADM3_PCODE": "UA4414015", "ADM2_EN": "Starobilskyi", "ADM2_UA": "Старобільський", "ADM2_PCODE": "UA4414", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.804975001000059, 49.118218 ], [ 38.802082, 49.118283 ], [ 38.801248, 49.114675 ], [ 38.792088, 49.114118 ], [ 38.792484001000048, 49.112646 ], [ 38.801319, 49.112978 ], [ 38.801513, 49.108381 ], [ 38.815214815000047, 49.110126385000058 ], [ 38.815114999000059, 49.115638 ], [ 38.804945, 49.115037 ], [ 38.804975001000059, 49.118218 ] ] ] } }
+]
+}

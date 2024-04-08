@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0702561161, "Shape_Area": 0.00026644392609200001, "ADM4_EN": "Lazky", "ADM4_UA": "Лазьки", "ADM4_PCODE": "UA5308035022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Opishnianska", "ADM3_UA": "Опішнянська", "ADM3_PCODE": "UA5308035", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.61118699900004, 50.046375 ], [ 34.604834999000047, 50.049745 ], [ 34.601812, 50.044878 ], [ 34.601153001000057, 50.038721 ], [ 34.602869999000063, 50.036876 ], [ 34.609534999000061, 50.036205 ], [ 34.611466, 50.03223 ], [ 34.616422, 50.033087 ], [ 34.625066, 50.037323 ], [ 34.62563, 50.041157 ], [ 34.622186, 50.044781 ], [ 34.614887, 50.046936 ], [ 34.61118699900004, 50.046375 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.085816940305899994, "Shape_Area": 0.00025190858955799998, "ADM4_EN": "Frankivka", "ADM4_UA": "Франківка", "ADM4_PCODE": "UA7104019022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chornobaivska", "ADM3_UA": "Чорнобаївська", "ADM3_PCODE": "UA7104019", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.45785999900005, 49.72142 ], [ 32.456747, 49.721766 ], [ 32.446989, 49.732956 ], [ 32.431981, 49.727542 ], [ 32.44176, 49.716061 ], [ 32.447163, 49.718027 ], [ 32.452569, 49.717975 ], [ 32.45785999900005, 49.72142 ] ] ] } }
+]
+}

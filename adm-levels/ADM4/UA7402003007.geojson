@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.042296184994000001, "Shape_Area": 6.0829579993899997e-05, "ADM4_EN": "Vilne", "ADM4_UA": "Вільне", "ADM4_PCODE": "UA7402003007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Menska", "ADM3_UA": "Менська", "ADM3_PCODE": "UA7402003", "ADM2_EN": "Koriukivskyi", "ADM2_UA": "Корюківський", "ADM2_PCODE": "UA7402", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.304192121000028, 51.588055980000036 ], [ 32.299160040000061, 51.589919970000039 ], [ 32.29216488000003, 51.58850805000003 ], [ 32.29522884000005, 51.584036940000033 ], [ 32.309385840000061, 51.584575050000069 ], [ 32.309290081000029, 51.587441010000077 ], [ 32.304192121000028, 51.588055980000036 ] ] ] } }
+]
+}

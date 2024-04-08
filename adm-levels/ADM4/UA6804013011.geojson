@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.074538280182799996, "Shape_Area": 0.00011678634224, "ADM4_EN": "Dakhnivka", "ADM4_UA": "Дахнівка", "ADM4_PCODE": "UA6804013011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodotska", "ADM3_UA": "Городоцька", "ADM3_PCODE": "UA6804013", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.443128, 49.378702 ], [ 26.438947001000031, 49.377683 ], [ 26.443562, 49.369781 ], [ 26.434587, 49.368755 ], [ 26.4394, 49.36516 ], [ 26.44369400100004, 49.365651 ], [ 26.448879001000023, 49.370063 ], [ 26.450188, 49.373966 ], [ 26.448489, 49.377409 ], [ 26.445250999000052, 49.376562 ], [ 26.443128, 49.378702 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.119655145256, "Shape_Area": 9.25337864893e-05, "ADM4_EN": "Matviivka", "ADM4_UA": "Матвіївка", "ADM4_PCODE": "UA6302001035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bohodukhivska", "ADM3_UA": "Богодухівська", "ADM3_PCODE": "UA6302001", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "Богодухівський", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.382702, 50.236664 ], [ 35.400361001000078, 50.226946 ], [ 35.407247, 50.222404 ], [ 35.412234999000077, 50.220369 ], [ 35.413969999000074, 50.222053 ], [ 35.408973, 50.226685 ], [ 35.406041001000062, 50.225426 ], [ 35.387291, 50.23554 ], [ 35.382702, 50.236664 ] ] ] } }
+]
+}

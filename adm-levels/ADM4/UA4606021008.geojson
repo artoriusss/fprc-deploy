@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0583551381573, "Shape_Area": 0.00012320791188500001, "ADM4_EN": "Katerynychi", "ADM4_UA": "Катериничі", "ADM4_PCODE": "UA4606021008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Komarnivska", "ADM3_UA": "Комарнівська", "ADM3_PCODE": "UA4606021", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.725504642000033, 49.653219447000026 ], [ 23.727077580000071, 49.660335330000066 ], [ 23.719733286000064, 49.663344011000049 ], [ 23.717189288000043, 49.66120101100006 ], [ 23.712917289000075, 49.662885010000082 ], [ 23.711735289000046, 49.65744101100006 ], [ 23.716652288000034, 49.656889011000032 ], [ 23.716239287000064, 49.652751011000078 ], [ 23.725504642000033, 49.653219447000026 ] ] ] } }
+]
+}

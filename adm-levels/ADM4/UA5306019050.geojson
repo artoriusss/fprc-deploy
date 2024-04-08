@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.096545969972400003, "Shape_Area": 0.00017835811943600001, "ADM4_EN": "Yashnyky", "ADM4_UA": "Яшники", "ADM4_PCODE": "UA5306019050", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lokhvytska", "ADM3_UA": "Лохвицька", "ADM3_PCODE": "UA5306019", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.256273001000068, 50.41817 ], [ 33.251726, 50.421909 ], [ 33.250998, 50.427392 ], [ 33.248598999000023, 50.427676 ], [ 33.248189, 50.422892 ], [ 33.24977, 50.415174 ], [ 33.251540001000023, 50.410586 ], [ 33.246621, 50.409728 ], [ 33.244169, 50.40672 ], [ 33.252081, 50.406572 ], [ 33.254439, 50.40358 ], [ 33.256471999000041, 50.412522 ], [ 33.262293999000065, 50.411278 ], [ 33.266133, 50.415911 ], [ 33.265075, 50.417622 ], [ 33.260185, 50.417188 ], [ 33.256273001000068, 50.41817 ] ] ] } }
+]
+}

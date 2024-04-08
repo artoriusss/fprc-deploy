@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.078072294284199997, "Shape_Area": 0.00015195750557500001, "ADM4_EN": "Lisne", "ADM4_UA": "Лісне", "ADM4_PCODE": "UA5908009014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasnopilska", "ADM3_UA": "Краснопільська", "ADM3_PCODE": "UA5908009", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.325334999000063, 50.707061 ], [ 35.318415, 50.701984 ], [ 35.324221, 50.70173 ], [ 35.33037, 50.699824 ], [ 35.331796, 50.698185 ], [ 35.338398999000049, 50.696558 ], [ 35.34506900100007, 50.699598 ], [ 35.339931, 50.703156 ], [ 35.334164, 50.702418 ], [ 35.330815, 50.707046 ], [ 35.325334999000063, 50.707061 ] ] ] } }
+]
+}

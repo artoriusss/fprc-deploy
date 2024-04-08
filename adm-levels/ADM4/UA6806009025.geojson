@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.123168423926, "Shape_Area": 0.000189154078052, "ADM4_EN": "Mykhlia", "ADM4_UA": "Михля", "ADM4_PCODE": "UA6806009025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Iziaslavska", "ADM3_UA": "Ізяславська", "ADM3_PCODE": "UA6806009", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 26.820792672000039, 50.16648235100007 ], [ 26.815618758000028, 50.168286483000031 ], [ 26.812752, 50.165351 ], [ 26.805958, 50.164331 ], [ 26.803323001000024, 50.162731 ], [ 26.801728, 50.157313 ], [ 26.80264, 50.155544 ], [ 26.810316, 50.155214 ], [ 26.817749, 50.162323 ], [ 26.823496999000042, 50.163324 ], [ 26.820792672000039, 50.16648235100007 ] ] ], [ [ [ 26.804699, 50.154662 ], [ 26.807005, 50.153558 ], [ 26.805165, 50.145418 ], [ 26.808421, 50.145221 ], [ 26.808185999000045, 50.15144 ], [ 26.804699, 50.154662 ] ] ] ] } }
+]
+}

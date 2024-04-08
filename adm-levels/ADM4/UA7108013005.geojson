@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.113620263449, "Shape_Area": 0.00040402625503099999, "ADM4_EN": "Katerynivka", "ADM4_UA": "Катеринівка", "ADM4_PCODE": "UA7108013005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kamianska", "ADM3_UA": "Кам'янська", "ADM3_PCODE": "UA7108013", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.833884, 49.021545 ], [ 31.823214, 49.025017 ], [ 31.815311, 49.025765 ], [ 31.813599, 49.016119 ], [ 31.835687096000072, 49.010323438000057 ], [ 31.837190973000077, 49.012723222000034 ], [ 31.842706772000042, 49.011269650000031 ], [ 31.847176, 49.017469 ], [ 31.853288, 49.017852 ], [ 31.857373008000025, 49.016774465000026 ], [ 31.856927251000059, 49.021058603000029 ], [ 31.854277, 49.023104 ], [ 31.845115999000029, 49.023389 ], [ 31.833884, 49.021545 ] ] ] } }
+]
+}

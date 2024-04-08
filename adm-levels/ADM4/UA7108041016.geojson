@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.127665964051, "Shape_Area": 0.00026537020225000002, "ADM4_EN": "Polstvyn", "ADM4_UA": "Полствин", "ADM4_PCODE": "UA7108041016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stepanetska", "ADM3_UA": "Степанецька", "ADM3_PCODE": "UA7108041", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.367642001000036, 49.648785 ], [ 31.369876, 49.651555 ], [ 31.365997, 49.656187 ], [ 31.360607, 49.657494 ], [ 31.354437, 49.661727 ], [ 31.342714001000047, 49.663783 ], [ 31.33913, 49.661859 ], [ 31.342373999000074, 49.65714 ], [ 31.346413, 49.653248 ], [ 31.350300001000051, 49.655219 ], [ 31.353337, 49.654847 ], [ 31.354146001000061, 49.650711 ], [ 31.360084, 49.649804 ], [ 31.361365, 49.648116 ], [ 31.365456, 49.651263 ], [ 31.367642001000036, 49.648785 ] ] ] } }
+]
+}

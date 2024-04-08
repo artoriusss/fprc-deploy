@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.081827006046800002, "Shape_Area": 0.00027113959751499998, "ADM4_EN": "Strakholissia", "ADM4_UA": "Страхолісся", "ADM4_PCODE": "UA3210005069", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivankivska", "ADM3_UA": "Іванківська", "ADM3_PCODE": "UA3210005", "ADM2_EN": "Vyshhorodskyi", "ADM2_UA": "Вишгородський", "ADM2_PCODE": "UA3210", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.390740485000038, 51.083673894000071 ], [ 30.386616587000049, 51.08379883300006 ], [ 30.383920508000074, 51.069097887000055 ], [ 30.384389466000073, 51.067196907000039 ], [ 30.394959492000055, 51.067190925000034 ], [ 30.405140438000046, 51.067925959000036 ], [ 30.407637476000048, 51.070936914000072 ], [ 30.404154436000056, 51.073263930000053 ], [ 30.402810491000025, 51.078661873000044 ], [ 30.394782507000059, 51.080762896000067 ], [ 30.390740485000038, 51.083673894000071 ] ] ] } }
+]
+}

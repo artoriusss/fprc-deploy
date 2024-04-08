@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0398262567104, "Shape_Area": 7.9442652578800001e-05, "ADM4_EN": "Voronivshchyna", "ADM4_UA": "Воронівщина", "ADM4_PCODE": "UA3204021004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yahotynska", "ADM3_UA": "Яготинська", "ADM3_PCODE": "UA3204021", "ADM2_EN": "Boryspilskyi", "ADM2_UA": "Бориспільський", "ADM2_PCODE": "UA3204", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.861233049000077, 50.245248040000035 ], [ 31.858583072000044, 50.246169019000035 ], [ 31.849759102000064, 50.24129504800004 ], [ 31.852508043000057, 50.239316043000031 ], [ 31.86054303800006, 50.236595988000033 ], [ 31.864335026000049, 50.24356203800005 ], [ 31.861233049000077, 50.245248040000035 ] ] ] } }
+]
+}

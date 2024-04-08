@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.078863114934500003, "Shape_Area": 9.0222015429799993e-05, "ADM4_EN": "Korchunok", "ADM4_UA": "Корчунок", "ADM4_PCODE": "UA2604027032", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rohatynska", "ADM3_UA": "Рогатинська", "ADM3_PCODE": "UA2604027", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.755825001000062, 49.431037 ], [ 24.753547, 49.428097 ], [ 24.744532001000039, 49.430194 ], [ 24.742613, 49.432197 ], [ 24.738960999000028, 49.429378 ], [ 24.767045, 49.423393 ], [ 24.766999, 49.425028 ], [ 24.760933, 49.426747 ], [ 24.755825001000062, 49.431037 ] ] ] } }
+]
+}

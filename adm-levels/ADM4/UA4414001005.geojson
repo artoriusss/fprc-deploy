@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.092924259890900002, "Shape_Area": 9.9710550675199998e-05, "ADM4_EN": "Harmashivka", "ADM4_UA": "Гармашівка", "ADM4_PCODE": "UA4414001005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilovodska", "ADM3_UA": "Біловодська", "ADM3_PCODE": "UA4414001", "ADM2_EN": "Starobilskyi", "ADM2_UA": "Старобільський", "ADM2_PCODE": "UA4414", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.628078, 49.342257 ], [ 39.626834, 49.346984 ], [ 39.628628999000057, 49.351103 ], [ 39.628992001000029, 49.359769 ], [ 39.625826, 49.359162 ], [ 39.625492, 49.353606 ], [ 39.617337001000067, 49.352807 ], [ 39.618100999000035, 49.349586 ], [ 39.625480999000047, 49.348192 ], [ 39.62666099900008, 49.342073001000074 ], [ 39.628078, 49.342257 ] ] ] } }
+]
+}

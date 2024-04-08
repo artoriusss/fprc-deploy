@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.12050295905400001, "Shape_Area": 0.00042686039595699998, "ADM4_EN": "Skorodystyk", "ADM4_UA": "Скородистик", "ADM4_PCODE": "UA7104013018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Irkliivska", "ADM3_UA": "Іркліївська", "ADM3_PCODE": "UA7104013", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.323378001000037, 49.536599 ], [ 32.319801, 49.542261 ], [ 32.317195, 49.544298 ], [ 32.312011999000049, 49.542053 ], [ 32.30667800100008, 49.53847 ], [ 32.301116999000044, 49.537991 ], [ 32.297505, 49.535734 ], [ 32.30964, 49.532745 ], [ 32.31016500100003, 49.528314 ], [ 32.330023, 49.528974 ], [ 32.335449, 49.526742 ], [ 32.339643, 49.52677 ], [ 32.339462, 49.531824 ], [ 32.341222, 49.537173 ], [ 32.331989, 49.541911 ], [ 32.32911400100005, 49.53921 ], [ 32.323378001000037, 49.536599 ] ] ] } }
+]
+}

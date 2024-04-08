@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.081792896154399997, "Shape_Area": 8.3766657679700004e-05, "ADM4_EN": "Mamornytsia Vama", "ADM4_UA": "Маморниця Вама", "ADM4_PCODE": "UA7306043009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ostrytska", "ADM3_UA": "Острицька", "ADM3_PCODE": "UA7306043", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.125732001000074, 48.227191 ], [ 26.119911, 48.228315 ], [ 26.115469, 48.230439 ], [ 26.113013999000032, 48.225054 ], [ 26.103075, 48.218802 ], [ 26.104757, 48.217476 ], [ 26.114226, 48.222705 ], [ 26.115302, 48.224751 ], [ 26.11934, 48.224661 ], [ 26.125732001000074, 48.227191 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.082473997985899994, "Shape_Area": 6.1270302745800002e-05, "ADM4_EN": "Hryntsiv Rih", "ADM4_UA": "Гринців Ріг", "ADM4_PCODE": "UA6302003021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Valkivska", "ADM3_UA": "Валківська", "ADM3_PCODE": "UA6302003", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "Богодухівський", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.614657001000069, 49.915204 ], [ 35.61419, 49.919512 ], [ 35.616815, 49.923713 ], [ 35.627604, 49.923398 ], [ 35.628752, 49.925027 ], [ 35.61511, 49.924915 ], [ 35.611986769000055, 49.920302637000077 ], [ 35.613482499000042, 49.914982 ], [ 35.614657001000069, 49.915204 ] ] ] } }
+]
+}

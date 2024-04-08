@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.055452496341800002, "Shape_Area": 0.000116268908092, "ADM4_EN": "Zbruch", "ADM4_UA": "Збруч", "ADM4_PCODE": "UA6802007009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhvanetska", "ADM3_UA": "Жванецька", "ADM3_PCODE": "UA6802007", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.422856001000071, 48.551116 ], [ 26.420092001000057, 48.552775 ], [ 26.413056, 48.549311 ], [ 26.415290001000074, 48.545276 ], [ 26.408943, 48.546331 ], [ 26.410199, 48.542708 ], [ 26.41498800100004, 48.541686 ], [ 26.419826001000047, 48.542527 ], [ 26.427134999000032, 48.547704 ], [ 26.422856001000071, 48.551116 ] ] ] } }
+]
+}

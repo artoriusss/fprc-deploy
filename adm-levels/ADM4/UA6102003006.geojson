@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.077078752643299997, "Shape_Area": 0.00013772628640400001, "ADM4_EN": "Mali Zahaitsi", "ADM4_UA": "Малі Загайці", "ADM4_PCODE": "UA6102003006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykodederkalska", "ADM3_UA": "Великодедеркальська", "ADM3_PCODE": "UA6102003", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.031353983000031, 50.014929890000076 ], [ 26.032365, 50.010523 ], [ 26.035679001000062, 50.006036 ], [ 26.043140392000055, 50.006700275000071 ], [ 26.046789, 50.002801 ], [ 26.047301, 50.011049 ], [ 26.044105, 50.013565 ], [ 26.036725999000055, 50.015496 ], [ 26.031642999000042, 50.015004 ], [ 26.031353983000031, 50.014929890000076 ] ] ] } }
+]
+}

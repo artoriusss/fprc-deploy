@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.082453289337499999, "Shape_Area": 0.00017472026795600001, "ADM4_EN": "Rubanivka", "ADM4_UA": "Рубанівка", "ADM4_PCODE": "UA5308015007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kolomatska", "ADM3_UA": "Коломацька", "ADM3_PCODE": "UA5308015", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.007530403000032, 49.59959221400004 ], [ 34.999352, 49.598456 ], [ 34.997991, 49.60061 ], [ 34.986851, 49.597571 ], [ 34.983649, 49.59393 ], [ 34.978590001000043, 49.592273 ], [ 34.978839, 49.589887 ], [ 34.982945, 49.587615 ], [ 34.992422, 49.593339 ], [ 35.000232001000029, 49.594902 ], [ 35.006806999000048, 49.593872 ], [ 35.013261502000034, 49.596109400000046 ], [ 35.007530403000032, 49.59959221400004 ] ] ] } }
+]
+}

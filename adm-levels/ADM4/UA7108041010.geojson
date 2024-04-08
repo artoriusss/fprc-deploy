@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.12718400644299999, "Shape_Area": 0.00029259857874499998, "ADM4_EN": "Malyi Rzhavets", "ADM4_UA": "Малий Ржавець", "ADM4_PCODE": "UA7108041010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stepanetska", "ADM3_UA": "Степанецька", "ADM3_PCODE": "UA7108041", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.333823, 49.678477 ], [ 31.333737, 49.675109 ], [ 31.337216, 49.666558 ], [ 31.359051, 49.664713 ], [ 31.362992, 49.663461 ], [ 31.368125001000067, 49.657948 ], [ 31.37214700100003, 49.657963 ], [ 31.372855, 49.660982 ], [ 31.366669, 49.663671 ], [ 31.36361, 49.666615 ], [ 31.363066, 49.670348 ], [ 31.352729, 49.673546 ], [ 31.346667, 49.674054 ], [ 31.333823, 49.678477 ] ] ] } }
+]
+}

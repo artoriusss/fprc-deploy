@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.064096557653900002, "Shape_Area": 0.000190416493138, "ADM4_EN": "Briukhovychi", "ADM4_UA": "Брюховичі", "ADM4_PCODE": "UA4606033008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Peremyshlianska", "ADM3_UA": "Перемишлянська", "ADM3_PCODE": "UA4606033", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.58601112100007, 49.574126005000039 ], [ 24.586487370000043, 49.577191504000041 ], [ 24.581218120000074, 49.587161004000052 ], [ 24.582633371000043, 49.590582504000054 ], [ 24.575509122000028, 49.591840004000062 ], [ 24.568015123000066, 49.590042005000043 ], [ 24.571655122000038, 49.58681600400007 ], [ 24.573397123000063, 49.581666004000056 ], [ 24.579747122000072, 49.571955004000074 ], [ 24.585384120000072, 49.571610005000082 ], [ 24.58601112100007, 49.574126005000039 ] ] ] } }
+]
+}

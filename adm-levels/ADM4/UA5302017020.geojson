@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10973099170800001, "Shape_Area": 0.000118360122252, "ADM4_EN": "Yaremivka", "ADM4_UA": "Яремівка", "ADM4_PCODE": "UA5302017020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Omelnytska", "ADM3_UA": "Омельницька", "ADM3_PCODE": "UA5302017", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.49818, 49.26221 ], [ 33.488153, 49.266007 ], [ 33.483811999000068, 49.264144 ], [ 33.490843, 49.260527 ], [ 33.494, 49.261054 ], [ 33.494903001000068, 49.25748 ], [ 33.491119999000034, 49.253799 ], [ 33.48775099900007, 49.253962 ], [ 33.486579001000052, 49.257358 ], [ 33.481057001000067, 49.264729999000053 ], [ 33.480354999000042, 49.259757 ], [ 33.484607, 49.254581 ], [ 33.490564, 49.251521 ], [ 33.498457, 49.257822 ], [ 33.49818, 49.26221 ] ] ] } }
+]
+}

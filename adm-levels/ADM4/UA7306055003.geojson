@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0973030765652, "Shape_Area": 0.000110131238144, "ADM4_EN": "Verkhni Synivtsi", "ADM4_UA": "Верхні Синівці", "ADM4_PCODE": "UA7306055003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tereblechenska", "ADM3_UA": "Тереблеченська", "ADM3_PCODE": "UA7306055", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.116093999000043, 48.024574999000038 ], [ 26.112542, 48.021258 ], [ 26.112407, 48.012736 ], [ 26.107667999000057, 48.014366 ], [ 26.103713, 48.012024 ], [ 26.106147, 48.005417 ], [ 26.109547, 48.005766 ], [ 26.116598999000075, 48.009736 ], [ 26.114972, 48.015941 ], [ 26.116093999000043, 48.024574999000038 ] ] ] } }
+]
+}

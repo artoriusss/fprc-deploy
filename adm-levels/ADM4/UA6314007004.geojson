@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.058732668517100003, "Shape_Area": 6.7590249128499997e-05, "ADM4_EN": "Zauddia", "ADM4_UA": "Зауддя", "ADM4_PCODE": "UA6314007004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novopokrovska", "ADM3_UA": "Новопокровська", "ADM3_PCODE": "UA6314007", "ADM2_EN": "Chuhuivskyi", "ADM2_UA": "Чугуївський", "ADM2_PCODE": "UA6314", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.453546999000025, 49.804789 ], [ 36.445354, 49.803952001000027 ], [ 36.445767, 49.801502 ], [ 36.449148, 49.799607500000036 ], [ 36.453191999000069, 49.800004 ], [ 36.453546999000025, 49.804789 ] ] ] } }
+]
+}

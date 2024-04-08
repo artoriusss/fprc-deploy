@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.065280953257400007, "Shape_Area": 9.6741631539500004e-05, "ADM4_EN": "Shumeikiv", "ADM4_UA": "Шумейків", "ADM4_PCODE": "UA7404003036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bakhmatska", "ADM3_UA": "Бахмацька", "ADM3_PCODE": "UA7404003", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.867488469000079, 51.134397912000054 ], [ 32.863078495000025, 51.133982417000027 ], [ 32.861765450000064, 51.125401410000052 ], [ 32.853302386000053, 51.125890737000077 ], [ 32.852654010000037, 51.122906378000039 ], [ 32.860295063000024, 51.124029231000065 ], [ 32.861477530000059, 51.118989590000069 ], [ 32.865503856000032, 51.119181724000043 ], [ 32.867488469000079, 51.134397912000054 ] ] ] } }
+]
+}

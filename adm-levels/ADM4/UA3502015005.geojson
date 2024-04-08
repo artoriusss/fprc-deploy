@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.080787708490799998, "Shape_Area": 0.000105389608832, "ADM4_EN": "Leshchivka", "ADM4_UA": "Лещівка", "ADM4_PCODE": "UA3502015005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Perehonivska", "ADM3_UA": "Перегонівська", "ADM3_PCODE": "UA3502015", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "Голованівський", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.602031, 48.4692 ], [ 30.598214, 48.467572 ], [ 30.606071, 48.460566 ], [ 30.602997, 48.456995 ], [ 30.605034999000054, 48.455472 ], [ 30.60944500100004, 48.458483 ], [ 30.61106, 48.461428 ], [ 30.607530999000062, 48.465807 ], [ 30.602031, 48.4692 ] ] ] } }
+]
+}

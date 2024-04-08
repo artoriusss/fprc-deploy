@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.051737819195100003, "Shape_Area": 9.1208969238100002e-05, "ADM4_EN": "Dibrova", "ADM4_UA": "Діброва", "ADM4_PCODE": "UA2606013007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dolynska", "ADM3_UA": "Долинська", "ADM3_PCODE": "UA2606013", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.984323121000045, 49.006709594000029 ], [ 23.978317, 49.019181 ], [ 23.974107, 49.022589 ], [ 23.97348899900004, 49.018004 ], [ 23.97502600100006, 49.01369 ], [ 23.974318, 49.008248 ], [ 23.978361, 49.009191 ], [ 23.981463145000077, 49.005812993000063 ], [ 23.983194050000066, 49.006146588000036 ], [ 23.984323121000045, 49.006709594000029 ] ] ] } }
+]
+}

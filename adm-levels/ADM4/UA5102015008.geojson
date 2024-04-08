@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.119666634164, "Shape_Area": 0.00013886495346399999, "ADM4_EN": "Komarasheve", "ADM4_UA": "Комарашеве", "ADM4_PCODE": "UA5102015008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykolaivska", "ADM3_UA": "Миколаївська", "ADM3_PCODE": "UA5102015", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.822951, 47.507996 ], [ 30.821627999000043, 47.50978 ], [ 30.817635, 47.508034 ], [ 30.825456, 47.502546 ], [ 30.827873, 47.498373 ], [ 30.815896, 47.495286 ], [ 30.810403, 47.498169 ], [ 30.80872, 47.497326 ], [ 30.808573, 47.488705 ], [ 30.813714, 47.492075 ], [ 30.817860999000061, 47.490058 ], [ 30.822319001000039, 47.490573 ], [ 30.816654, 47.494889 ], [ 30.828516, 47.496647 ], [ 30.833218, 47.49824 ], [ 30.830377, 47.50204 ], [ 30.822951, 47.507996 ] ] ] } }
+]
+}

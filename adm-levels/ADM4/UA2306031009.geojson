@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.034742050509100002, "Shape_Area": 5.8575859273499997e-05, "ADM4_EN": "Kosivtseve", "ADM4_UA": "Косівцеве", "ADM4_PCODE": "UA2306031009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ternuvatska", "ADM3_UA": "Тернуватська", "ADM3_PCODE": "UA2306031", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.137560730000075, 47.816222768000046 ], [ 36.135429036000062, 47.815150579000033 ], [ 36.136568633000024, 47.805040207000047 ], [ 36.142637205000028, 47.805790359000071 ], [ 36.142876547000071, 47.812971340000047 ], [ 36.137964551000039, 47.812665553000045 ], [ 36.137560730000075, 47.816222768000046 ] ] ] } }
+]
+}

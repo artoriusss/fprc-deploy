@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.17810224106100001, "Shape_Area": 0.00038371297744999998, "ADM4_EN": "Chemerpil", "ADM4_UA": "Чемерпіль", "ADM4_PCODE": "UA3502009011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zavallivska", "ADM3_UA": "Заваллівська", "ADM3_PCODE": "UA3502009", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "Голованівський", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.14721, 48.158493 ], [ 30.134727999000063, 48.158099 ], [ 30.132458, 48.161194 ], [ 30.12541, 48.158973 ], [ 30.125496, 48.157554 ], [ 30.114788, 48.157101 ], [ 30.111657, 48.154514 ], [ 30.116403, 48.15155 ], [ 30.12931099900004, 48.149141 ], [ 30.141797, 48.149413 ], [ 30.153428, 48.148704 ], [ 30.161625001000061, 48.146292 ], [ 30.155702001000066, 48.152693 ], [ 30.148535694000032, 48.153095484000062 ], [ 30.14721, 48.158493 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.093154072005800004, "Shape_Area": 0.000176643738259, "ADM4_EN": "Sinne", "ADM4_UA": "Сінне", "ADM4_PCODE": "UA5908017010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myropilska", "ADM3_UA": "Миропільська", "ADM3_PCODE": "UA5908017", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.110893, 50.970718 ], [ 35.109291, 50.971363 ], [ 35.103199, 50.96816 ], [ 35.097732999000073, 50.969762 ], [ 35.092681, 50.969271 ], [ 35.091236001000027, 50.967392 ], [ 35.08593, 50.966672 ], [ 35.080707001000064, 50.967475 ], [ 35.079828, 50.965523 ], [ 35.08721, 50.958099 ], [ 35.096911999000042, 50.962766 ], [ 35.101331, 50.960979 ], [ 35.103447, 50.964265 ], [ 35.110893, 50.970718 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.090093614461900007, "Shape_Area": 0.000127866550186, "ADM4_EN": "Andrusiiv", "ADM4_UA": "Андрусіїв", "ADM4_PCODE": "UA5606017002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hoshchanska", "ADM3_UA": "Гощанська", "ADM3_PCODE": "UA5606017", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.778342960000032, 50.661111960000028 ], [ 26.774539920000052, 50.657445 ], [ 26.769909960000064, 50.655978 ], [ 26.771501159000024, 50.651885070000048 ], [ 26.782210080000027, 50.647840020000046 ], [ 26.785020960000054, 50.65435197000005 ], [ 26.778731040000025, 50.654940030000034 ], [ 26.778342960000032, 50.661111960000028 ] ] ] } }
+]
+}

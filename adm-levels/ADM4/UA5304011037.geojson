@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.12843797145399999, "Shape_Area": 0.000178123035393, "ADM4_EN": "Kolomiitseve Ozero", "ADM4_UA": "Коломійцеве Озеро", "ADM4_PCODE": "UA5304011037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khorolska", "ADM3_UA": "Хорольська", "ADM3_PCODE": "UA5304011", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.167405, 49.794208 ], [ 33.165804999000045, 49.786291 ], [ 33.174552, 49.77704 ], [ 33.186258999000074, 49.780229 ], [ 33.184545, 49.784053 ], [ 33.177893, 49.782055 ], [ 33.170312, 49.789863 ], [ 33.17503, 49.792314 ], [ 33.167405, 49.794208 ] ] ] } }
+]
+}

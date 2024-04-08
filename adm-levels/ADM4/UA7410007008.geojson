@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.076696398492399995, "Shape_Area": 0.00023117407851, "ADM4_EN": "Lutava", "ADM4_UA": "Лутава", "ADM4_PCODE": "UA7410007008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Desnianska", "ADM3_UA": "Деснянська", "ADM3_PCODE": "UA7410007", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.822121080000045, 50.969244960000026 ], [ 30.821068080000032, 50.97020499000007 ], [ 30.81110903900003, 50.969236950000038 ], [ 30.800985840000067, 50.965779060000045 ], [ 30.790347840000038, 50.95894104100006 ], [ 30.799269, 50.953100040000038 ], [ 30.81105, 50.957645940000077 ], [ 30.813926039000023, 50.966136990000052 ], [ 30.818640960000039, 50.967068040000072 ], [ 30.822121080000045, 50.969244960000026 ] ] ] } }
+]
+}

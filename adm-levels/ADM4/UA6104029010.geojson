@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.066648359317299996, "Shape_Area": 7.4353597602599999e-05, "ADM4_EN": "Kamianka", "ADM4_UA": "Кам'янка", "ADM4_PCODE": "UA6104029010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykulynetska", "ADM3_UA": "Микулинецька", "ADM3_PCODE": "UA6104029", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.606536712000036, 49.293276976000072 ], [ 25.603041001000065, 49.291144 ], [ 25.596441999000035, 49.292117001000065 ], [ 25.589604999000073, 49.292029 ], [ 25.589862222000079, 49.289629091000052 ], [ 25.59624799900007, 49.290481 ], [ 25.600746307000065, 49.288698097000065 ], [ 25.608679272000074, 49.289275333000035 ], [ 25.611331414000063, 49.294162562000054 ], [ 25.606536712000036, 49.293276976000072 ] ] ] } }
+]
+}

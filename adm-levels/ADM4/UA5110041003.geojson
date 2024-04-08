@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.060057840849800002, "Shape_Area": 9.6186350157100001e-05, "ADM4_EN": "Biliari", "ADM4_UA": "Білярі", "ADM4_PCODE": "UA5110041003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yuzhnenska", "ADM3_UA": "Южненська", "ADM3_PCODE": "UA5110041", "ADM2_EN": "Odeskyi", "ADM2_UA": "Одеський", "ADM2_PCODE": "UA5110", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.027886637000051, 46.632137329000045 ], [ 31.025364852000052, 46.631168026000068 ], [ 31.027254399000071, 46.626059257000065 ], [ 31.027863, 46.617593 ], [ 31.03825858600004, 46.624455976000036 ], [ 31.037826481000025, 46.626848774000052 ], [ 31.031677038000055, 46.62715266500004 ], [ 31.031303014000059, 46.630603673000053 ], [ 31.027886637000051, 46.632137329000045 ] ] ] } }
+]
+}

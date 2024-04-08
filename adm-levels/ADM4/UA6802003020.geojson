@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.122517613121, "Shape_Area": 8.0472827750699999e-05, "ADM4_EN": "Ternavka", "ADM4_UA": "Тернавка", "ADM4_PCODE": "UA6802003020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Humenetska", "ADM3_UA": "Гуменецька", "ADM3_PCODE": "UA6802003", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.829742, 48.755317 ], [ 26.826928, 48.754071 ], [ 26.825302, 48.750843 ], [ 26.826594, 48.747308 ], [ 26.828564, 48.745869 ], [ 26.827923201000033, 48.741816800000038 ], [ 26.831317, 48.744407 ], [ 26.828185001000065, 48.748633 ], [ 26.827190001000076, 48.752155 ], [ 26.830207, 48.753539 ], [ 26.829742, 48.755317 ] ] ] } }
+]
+}

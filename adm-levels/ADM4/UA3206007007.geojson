@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.068213711693100004, "Shape_Area": 0.00018580307985100001, "ADM4_EN": "Hrebelky", "ADM4_UA": "Гребельки", "ADM4_PCODE": "UA3206007007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykodymerska", "ADM3_UA": "Великодимерська", "ADM3_PCODE": "UA3206007", "ADM2_EN": "Brovarskyi", "ADM2_UA": "Броварський", "ADM2_PCODE": "UA3206", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.098671336000052, 50.611576941000067 ], [ 31.103069388000051, 50.606626986000038 ], [ 31.095585373000063, 50.602126998000074 ], [ 31.098477357000036, 50.597932998000033 ], [ 31.104853355000046, 50.593156049000072 ], [ 31.11398635300003, 50.599518049000039 ], [ 31.11182234100005, 50.60685698900005 ], [ 31.107960467000055, 50.609606873000075 ], [ 31.100313309000057, 50.61240994700006 ], [ 31.098671336000052, 50.611576941000067 ] ] ] } }
+]
+}

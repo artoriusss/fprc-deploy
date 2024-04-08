@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.061877123380200003, "Shape_Area": 0.00010034244040299999, "ADM4_EN": "Blahodatne", "ADM4_UA": "Благодатне", "ADM4_PCODE": "UA2310015003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Molochanska", "ADM3_UA": "Молочанська", "ADM3_PCODE": "UA2310015", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 35.53088040800003, 47.17620717300008 ], [ 35.523726940000074, 47.170223437000061 ], [ 35.527050705000079, 47.166964047000079 ], [ 35.535673774000031, 47.175080276000074 ], [ 35.53088040800003, 47.17620717300008 ] ] ], [ [ [ 35.519702663000032, 47.167586902000039 ], [ 35.515348376000077, 47.161304974000075 ], [ 35.520940229000075, 47.159449040000027 ], [ 35.525008975000048, 47.165778554000042 ], [ 35.519702663000032, 47.167586902000039 ] ] ] ] } }
+]
+}

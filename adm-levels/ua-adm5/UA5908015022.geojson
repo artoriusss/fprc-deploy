@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.03591796845, "Shape_Area": 3.1631365575300002e-05, "ADM4_EN": "Sofiivka", "ADM4_UA": "Ð¡Ð¾ÑÑÑÐ²ÐºÐ°", "ADM4_RU": "Ð¡Ð¾ÑÐ¸ÐµÐ²ÐºÐ°", "ADM4_PCODE": "UA5908015022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykolaivska", "ADM3_UA": "ÐÐ¸ÐºÐ¾Ð»Ð°ÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¸ÐºÐ¾Ð»Ð°ÐµÐ²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5908015", "ADM2_EN": "Sumskyi", "ADM2_UA": "Ð¡ÑÐ¼ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¡ÑÐ¼ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Ð¡ÑÐ¼ÑÑÐºÐ°", "ADM1_RU": "Ð¡ÑÐ¼ÑÐºÐ°Ñ", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.596632, 51.036465 ], [ 34.597127001000047, 51.036436 ], [ 34.599679, 51.036539 ], [ 34.599788001000036, 51.035696 ], [ 34.596954001000029, 51.035655 ], [ 34.596174999000027, 51.033777 ], [ 34.594133001000046, 51.034074 ], [ 34.592536, 51.034261 ], [ 34.593659, 51.036888 ], [ 34.598645001000079, 51.044417 ], [ 34.600191001000042, 51.044006 ], [ 34.598046, 51.040812 ], [ 34.59935, 51.04039 ], [ 34.596632, 51.036465 ] ] ] } }
-]
-}

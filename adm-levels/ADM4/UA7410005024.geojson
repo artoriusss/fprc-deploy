@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.093329518482200002, "Shape_Area": 9.7609462588899999e-05, "ADM4_EN": "Karpivka", "ADM4_UA": "Карпівка", "ADM4_PCODE": "UA7410005024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodnianska", "ADM3_UA": "Городнянська", "ADM3_PCODE": "UA7410005", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.401676799000029, 52.072733970000058 ], [ 31.399660081000036, 52.074650070000075 ], [ 31.389143040000079, 52.070643990000065 ], [ 31.386605040000063, 52.073526060000063 ], [ 31.378496040000073, 52.070609970000078 ], [ 31.37801292000006, 52.066061010000055 ], [ 31.385476800000049, 52.066998 ], [ 31.401676799000029, 52.072733970000058 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.021682899335200002, "Shape_Area": 1.0348486288e-05, "ADM4_EN": "Myrlohy", "ADM4_UA": "Мирлоги", "ADM4_PCODE": "UA5908003027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilopilska", "ADM3_UA": "Білопільська", "ADM3_PCODE": "UA5908003", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.535947, 51.192912 ], [ 34.533921, 51.19573 ], [ 34.534347999000033, 51.19842 ], [ 34.53289, 51.198461 ], [ 34.532615, 51.195543 ], [ 34.534748, 51.19257 ], [ 34.535947, 51.192912 ] ] ] } }
+]
+}

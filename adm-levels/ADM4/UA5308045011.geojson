@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.089080638225399994, "Shape_Area": 0.00014411624977100001, "ADM4_EN": "Kantemyrivka", "ADM4_UA": "Кантемирівка", "ADM4_PCODE": "UA5308045011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chutivska", "ADM3_UA": "Чутівська", "ADM3_PCODE": "UA5308045", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 35.007654, 49.707153 ], [ 35.009764001000065, 49.708458 ], [ 35.014246, 49.715268 ], [ 35.011648, 49.7161 ], [ 35.007654, 49.707153 ] ] ], [ [ [ 35.000763, 49.706585 ], [ 34.998416, 49.704393 ], [ 34.998467001000051, 49.699247 ], [ 35.002321001000041, 49.694672 ], [ 35.005860999000049, 49.695562 ], [ 35.011506999000062, 49.702592 ], [ 35.006569001000059, 49.706549 ], [ 35.000763, 49.706585 ] ] ] ] } }
+]
+}

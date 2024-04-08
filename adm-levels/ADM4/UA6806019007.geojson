@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.067260859745799997, "Shape_Area": 0.00024739659736299998, "ADM4_EN": "Dobryn", "ADM4_UA": "Добрин", "ADM4_PCODE": "UA6806019007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pluzhnenska", "ADM3_UA": "Плужненська", "ADM3_PCODE": "UA6806019", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.492694, 50.140874 ], [ 26.495333001000063, 50.14526 ], [ 26.498404, 50.146145 ], [ 26.498301, 50.152227 ], [ 26.495769, 50.15547500100007 ], [ 26.487468, 50.15871 ], [ 26.482865, 50.156317 ], [ 26.477355, 50.1562 ], [ 26.47689100100007, 50.153861 ], [ 26.478564, 50.147549 ], [ 26.483311001000061, 50.1463 ], [ 26.492694, 50.140874 ] ] ] } }
+]
+}

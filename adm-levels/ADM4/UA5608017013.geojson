@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.18593729287499999, "Shape_Area": 0.00020006826941099999, "ADM4_EN": "Ivanivka", "ADM4_UA": "Іванівка", "ADM4_PCODE": "UA5608017013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sarnenska", "ADM3_UA": "Сарненська", "ADM3_PCODE": "UA5608017", "ADM2_EN": "Sarnenskyi", "ADM2_UA": "Сарненський", "ADM2_PCODE": "UA5608", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.489756161000059, 51.296786010000062 ], [ 26.498136959000078, 51.295270050000056 ], [ 26.497982161000039, 51.281109990000061 ], [ 26.509641120000026, 51.281205930000056 ], [ 26.51600196000004, 51.276803040000061 ], [ 26.517695040000035, 51.28060707000003 ], [ 26.511797880000074, 51.283308060000081 ], [ 26.505722880000064, 51.283225980000054 ], [ 26.502683039000033, 51.294507030000034 ], [ 26.489756161000059, 51.296786010000062 ] ] ] } }
+]
+}

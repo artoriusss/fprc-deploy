@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11111867824299999, "Shape_Area": 8.3028265359299996e-05, "ADM4_EN": "Polonychi", "ADM4_UA": "Полоничі", "ADM4_PCODE": "UA4604009013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasnenska", "ADM3_UA": "Красненська", "ADM3_PCODE": "UA4604009", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.37510515200006, 49.876610005000032 ], [ 24.371614151000074, 49.87668100500008 ], [ 24.371421152000039, 49.87154100500004 ], [ 24.368289153000035, 49.868583006000051 ], [ 24.373038152000049, 49.86777300500006 ], [ 24.37346915300003, 49.874736005000045 ], [ 24.37510515200006, 49.876610005000032 ] ] ] } }
+]
+}

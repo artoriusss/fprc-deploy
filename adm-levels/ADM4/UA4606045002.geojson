@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.074816587030300002, "Shape_Area": 0.00021550855944700001, "ADM4_EN": "Horbachi", "ADM4_UA": "Горбачі", "ADM4_PCODE": "UA4606045002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shchyretska", "ADM3_UA": "Щирецька", "ADM3_PCODE": "UA4606045", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.918207236000057, 49.588532009000062 ], [ 23.91947523500005, 49.592993009000054 ], [ 23.91909223600004, 49.598968009000032 ], [ 23.915517236000028, 49.601573009000049 ], [ 23.906236240000055, 49.601953009000056 ], [ 23.900818241000024, 49.593721009000035 ], [ 23.906285239000056, 49.588997009000082 ], [ 23.916190236000034, 49.587510008000038 ], [ 23.918207236000057, 49.588532009000062 ] ] ] } }
+]
+}

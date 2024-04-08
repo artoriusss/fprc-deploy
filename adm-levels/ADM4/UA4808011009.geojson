@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.060922270950600002, "Shape_Area": 0.00016328801752699999, "ADM4_EN": "Romanova Balka", "ADM4_UA": "Романова Балка", "ADM4_PCODE": "UA4808011009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myhiivska", "ADM3_UA": "Мигіївська", "ADM3_PCODE": "UA4808011", "ADM2_EN": "Pervomaiskyi", "ADM2_UA": "Первомайський", "ADM2_PCODE": "UA4808", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.016882910000049, 47.934474759000068 ], [ 31.01524177400006, 47.933405269000048 ], [ 31.003418899000053, 47.932367353000075 ], [ 31.001605518000076, 47.928885196000067 ], [ 31.002596624000034, 47.92613601100004 ], [ 31.010740405000035, 47.926128686000027 ], [ 31.012936283000045, 47.92426293300008 ], [ 31.017886333000035, 47.924437749000049 ], [ 31.02555260400004, 47.926503386000036 ], [ 31.020208598000067, 47.933163819000072 ], [ 31.016882910000049, 47.934474759000068 ] ] ] } }
+]
+}

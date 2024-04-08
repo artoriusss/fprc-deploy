@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.091874017183400006, "Shape_Area": 0.00043264726042, "ADM4_EN": "Kyryiakivka", "ADM4_UA": "Кирияківка", "ADM4_PCODE": "UA5302005012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hradyzka", "ADM3_UA": "Градизька", "ADM3_PCODE": "UA5302005", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.075284001000057, 49.357612 ], [ 33.078144, 49.36379 ], [ 33.063776001000065, 49.369569 ], [ 33.064303001000042, 49.371901 ], [ 33.052941, 49.372819 ], [ 33.047665, 49.365311 ], [ 33.043885, 49.354534 ], [ 33.058494, 49.352529 ], [ 33.062571, 49.35756 ], [ 33.074398999000039, 49.355805 ], [ 33.075284001000057, 49.357612 ] ] ] } }
+]
+}

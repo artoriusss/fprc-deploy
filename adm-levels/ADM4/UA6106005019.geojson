@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10642743807500001, "Shape_Area": 0.00018362920785099999, "ADM4_EN": "Skoviatyn", "ADM4_UA": "Сков'ятин", "ADM4_PCODE": "UA6106005019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Borshchivska", "ADM3_UA": "Борщівська", "ADM3_PCODE": "UA6106005", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.0182, 48.730975 ], [ 26.012810999000067, 48.733905 ], [ 26.011356999000043, 48.731661 ], [ 26.021111, 48.728143 ], [ 26.026255500000048, 48.728842500000042 ], [ 26.025522, 48.718117 ], [ 26.028016, 48.716717 ], [ 26.031070999000065, 48.718241 ], [ 26.035535001000028, 48.717478 ], [ 26.036516, 48.725834 ], [ 26.0359, 48.7309 ], [ 26.034026, 48.732645 ], [ 26.027998, 48.733219 ], [ 26.026246, 48.731789 ], [ 26.0182, 48.730975 ] ] ] } }
+]
+}

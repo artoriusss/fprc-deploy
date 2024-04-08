@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.084825372834900006, "Shape_Area": 0.00016074348410300001, "ADM4_EN": "Borshchova", "ADM4_UA": "Борщова", "ADM4_PCODE": "UA3502017002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pidvysotska", "ADM3_UA": "Підвисоцька", "ADM3_PCODE": "UA3502017", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "Голованівський", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.59534, 48.577838 ], [ 30.596299226000042, 48.578915847000076 ], [ 30.582318, 48.586886 ], [ 30.595746, 48.596444 ], [ 30.59115226800003, 48.599185777000059 ], [ 30.585089289000052, 48.593525283000076 ], [ 30.577860287000078, 48.588040896000052 ], [ 30.575460894000059, 48.584418148000054 ], [ 30.57957330000005, 48.580576835000045 ], [ 30.59534, 48.577838 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.121245085268, "Shape_Area": 0.00025732159624200003, "ADM4_EN": "Dmytrenky", "ADM4_UA": "Дмитренки", "ADM4_PCODE": "UA5308023007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Machukhivska", "ADM3_UA": "Мачухівська", "ADM3_PCODE": "UA5308023", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.301881, 49.445378 ], [ 34.285796, 49.445449 ], [ 34.286582, 49.442112 ], [ 34.285047774000077, 49.438797470000054 ], [ 34.296612, 49.435043 ], [ 34.295763, 49.42343 ], [ 34.292676, 49.421187 ], [ 34.28281, 49.420389 ], [ 34.283545, 49.418663 ], [ 34.295717525000043, 49.41770413100005 ], [ 34.301828, 49.425983 ], [ 34.300106001000074, 49.434349 ], [ 34.301557, 49.442279 ], [ 34.303298207000068, 49.445206517000031 ], [ 34.301881, 49.445378 ] ] ] } }
+]
+}

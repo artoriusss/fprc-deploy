@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062229882441900003, "Shape_Area": 7.1017196394900005e-05, "ADM4_EN": "Tsenzhiv", "ADM4_UA": "Ценжів", "ADM4_PCODE": "UA2604039008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yamnytska", "ADM3_UA": "Ямницька", "ADM3_PCODE": "UA2604039", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.591591459000028, 49.00233103000005 ], [ 24.594241526000076, 49.000294293000081 ], [ 24.604610388000026, 48.999897941000029 ], [ 24.614357172000041, 49.007355820000043 ], [ 24.611422334000054, 49.011476397000081 ], [ 24.605458241000065, 49.004557488000046 ], [ 24.597860939000043, 49.000571538000031 ], [ 24.591591459000028, 49.00233103000005 ] ] ] } }
+]
+}

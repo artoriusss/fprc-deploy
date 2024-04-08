@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057386306972199999, "Shape_Area": 0.000114075376353, "ADM4_EN": "Khatky", "ADM4_UA": "Хатки", "ADM4_PCODE": "UA6508015017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Skadovska", "ADM3_UA": "Скадовська", "ADM3_PCODE": "UA6508015", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Скадовський", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.084261, 46.361159 ], [ 33.080254, 46.360755 ], [ 33.081309, 46.355192 ], [ 33.076240999000049, 46.354656 ], [ 33.076187999000069, 46.348701 ], [ 33.085928, 46.350216 ], [ 33.085481, 46.352189 ], [ 33.091864999000052, 46.352803 ], [ 33.090898999000046, 46.357773 ], [ 33.085096, 46.358111 ], [ 33.084261, 46.361159 ] ] ] } }
+]
+}

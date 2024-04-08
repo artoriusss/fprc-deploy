@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.029912993008199999, "Shape_Area": 2.36429460125e-05, "ADM4_EN": "Marianivka", "ADM4_UA": "ÐÐ°Ñ'ÑÐ½ÑÐ²ÐºÐ°", "ADM4_RU": "ÐÐ°ÑÑÑÐ½Ð¾Ð²ÐºÐ°", "ADM4_PCODE": "UA5908003025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilopilska", "ADM3_UA": "ÐÑÐ»Ð¾Ð¿ÑÐ»ÑÑÑÐºÐ°", "ADM3_RU": "ÐÐµÐ»Ð¾Ð¿Ð¾Ð»ÑÑÐºÐ°Ñ", "ADM3_PCODE": "UA5908003", "ADM2_EN": "Sumskyi", "ADM2_UA": "Ð¡ÑÐ¼ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¡ÑÐ¼ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Ð¡ÑÐ¼ÑÑÐºÐ°", "ADM1_RU": "Ð¡ÑÐ¼ÑÐºÐ°Ñ", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.420113001000061, 51.126364 ], [ 34.419503001000066, 51.125623 ], [ 34.416273, 51.126843 ], [ 34.407613, 51.1282 ], [ 34.407988001000035, 51.129062 ], [ 34.407991, 51.129837 ], [ 34.40791, 51.130296 ], [ 34.409426, 51.130307 ], [ 34.409751, 51.129634 ], [ 34.414766999000051, 51.129083 ], [ 34.420699, 51.127199 ], [ 34.420113001000061, 51.126364 ] ] ] } }
-]
-}

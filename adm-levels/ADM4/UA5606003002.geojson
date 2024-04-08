@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.134655414394, "Shape_Area": 0.00015056445946300001, "ADM4_EN": "Antonivka", "ADM4_UA": "Антонівка", "ADM4_PCODE": "UA5606003002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bereznivska", "ADM3_UA": "Березнівська", "ADM3_PCODE": "UA5606003", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.577039747000072, 50.988451172000055 ], [ 26.569509799000059, 50.987017508000065 ], [ 26.551119043000028, 50.986460413000032 ], [ 26.549746338000034, 50.982823339000049 ], [ 26.554923962000032, 50.983204760000035 ], [ 26.572918210000068, 50.981601667000064 ], [ 26.571468940000045, 50.984265924000056 ], [ 26.577532080000026, 50.985305010000047 ], [ 26.577039747000072, 50.988451172000055 ] ] ] } }
+]
+}

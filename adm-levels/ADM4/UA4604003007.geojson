@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.055684009876899997, "Shape_Area": 9.2986958450999997e-05, "ADM4_EN": "Brakhivka", "ADM4_UA": "Брахівка", "ADM4_PCODE": "UA4604003007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Buska", "ADM3_UA": "Буська", "ADM3_PCODE": "UA4604003", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.844863094000061, 50.010434003000057 ], [ 24.841118094000024, 50.011051003000034 ], [ 24.836733094000067, 50.008548003000044 ], [ 24.830965095000067, 50.01005000300006 ], [ 24.831427096000027, 50.004798004000065 ], [ 24.835311094000076, 50.00412100300008 ], [ 24.83937009400006, 50.000289003000034 ], [ 24.845162092000066, 50.006482003000031 ], [ 24.844863094000061, 50.010434003000057 ] ] ] } }
+]
+}

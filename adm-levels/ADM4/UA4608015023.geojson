@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.104820540906, "Shape_Area": 0.00010676100296399999, "ADM4_EN": "Tershiv", "ADM4_UA": "Тершів", "ADM4_PCODE": "UA4608015023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starosambirska", "ADM3_UA": "Старосамбірська", "ADM3_PCODE": "UA4608015", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.98703755400004, 49.410334022000029 ], [ 22.983033557000056, 49.409377022000058 ], [ 22.968830564000029, 49.412148023000043 ], [ 22.969781563000026, 49.407609022000031 ], [ 22.976206560000037, 49.405808023000077 ], [ 22.980979557000069, 49.401824022000028 ], [ 22.985763556000052, 49.405394022000053 ], [ 22.98703755400004, 49.410334022000029 ] ] ] } }
+]
+}

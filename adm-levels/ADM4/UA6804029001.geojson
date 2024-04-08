@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.18642859392200001, "Shape_Area": 0.000231013831101, "ADM4_EN": "Myroliubne", "ADM4_UA": "Миролюбне", "ADM4_PCODE": "UA6804029001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myroliubnenska", "ADM3_UA": "Миролюбненська", "ADM3_PCODE": "UA6804029", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.19898, 49.664161 ], [ 27.197462, 49.665131 ], [ 27.192967, 49.659573 ], [ 27.19681, 49.656175 ], [ 27.209502, 49.650715 ], [ 27.215411, 49.650246 ], [ 27.22097, 49.648013 ], [ 27.227318, 49.648217 ], [ 27.226684, 49.654745 ], [ 27.221939, 49.6575 ], [ 27.218966, 49.656076 ], [ 27.207551, 49.656317 ], [ 27.201889999000059, 49.657433 ], [ 27.198039999000059, 49.660104 ], [ 27.19898, 49.664161 ] ] ] } }
+]
+}

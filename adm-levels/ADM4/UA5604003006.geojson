@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.042007297603099999, "Shape_Area": 3.3559603311500003e-05, "ADM4_EN": "Naberezhne", "ADM4_UA": "Набережне", "ADM4_PCODE": "UA5604003006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Boremelska", "ADM3_UA": "Боремельська", "ADM3_PCODE": "UA5604003", "ADM2_EN": "Dubenskyi", "ADM2_UA": "Дубенський", "ADM2_PCODE": "UA5604", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.218268920000071, 50.470682040000042 ], [ 25.227137881000033, 50.46512301000007 ], [ 25.229346840000062, 50.467709070000069 ], [ 25.219463040000051, 50.471262 ], [ 25.218470880000041, 50.472746010000037 ], [ 25.218268920000071, 50.470682040000042 ] ] ] } }
+]
+}

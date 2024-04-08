@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.064021915477800007, "Shape_Area": 5.46986939e-05, "ADM4_EN": "Kukeziv", "ADM4_UA": "Кукезів", "ADM4_PCODE": "UA4606029008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoiarychivska", "ADM3_UA": "Новояричівська", "ADM3_PCODE": "UA4606029", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.266210170000079, 49.941844006000053 ], [ 24.263258170000029, 49.939478006000058 ], [ 24.276811168000052, 49.939698006000071 ], [ 24.271745169000042, 49.941244006000034 ], [ 24.266210170000079, 49.941844006000053 ] ] ] } }
+]
+}

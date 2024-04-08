@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.016248850188999998, "Shape_Area": 1.59583952164e-05, "ADM4_EN": "Berezyne", "ADM4_UA": "ÐÐµÑÐµÐ·Ð¸Ð½Ðµ", "ADM4_RU": "ÐÐµÑÐµÐ·Ð¸Ð½Ð¾", "ADM4_PCODE": "UA1204013002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zatyshnianska", "ADM3_UA": "ÐÐ°ÑÐ¸ÑÐ½ÑÐ½ÑÑÐºÐ°", "ADM3_RU": "ÐÐ°ÑÐ¸ÑÐ½ÑÐ½ÑÐºÐ°Ñ", "ADM3_PCODE": "UA1204013", "ADM2_EN": "Kamianskyi", "ADM2_UA": "ÐÐ°Ð¼âÑÐ½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ°Ð¼ÐµÐ½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "ÐÐ½ÑÐ¿ÑÐ¾Ð¿ÐµÑÑÐ¾Ð²ÑÑÐºÐ°", "ADM1_RU": "ÐÐ½ÐµÐ¿ÑÐ¾Ð¿ÐµÑÑÐ¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.180082001000073, 48.088703 ], [ 34.176403, 48.088183 ], [ 34.176116, 48.089981 ], [ 34.176799, 48.091251 ], [ 34.179465999000058, 48.091509 ], [ 34.180424001000063, 48.091897 ], [ 34.18146899900006, 48.091895 ], [ 34.181759, 48.091338 ], [ 34.181816, 48.090814 ], [ 34.181516, 48.089066 ], [ 34.181498, 48.088915 ], [ 34.180082001000073, 48.088703 ] ] ] } }
-]
-}

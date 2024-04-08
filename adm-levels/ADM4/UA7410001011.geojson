@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.036558716427899998, "Shape_Area": 4.4779721666000002e-05, "ADM4_EN": "Moshchne", "ADM4_UA": "Мощне", "ADM4_PCODE": "UA7410001011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bereznianska", "ADM3_UA": "Березнянська", "ADM3_PCODE": "UA7410001", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.833399959000076, 51.510874050000041 ], [ 31.844831040000031, 51.51204 ], [ 31.84425107900006, 51.514798950000056 ], [ 31.829056920000028, 51.513470010000049 ], [ 31.82972507900007, 51.510276 ], [ 31.833399959000076, 51.510874050000041 ] ] ] } }
+]
+}

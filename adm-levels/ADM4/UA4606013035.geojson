@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.052550043232599999, "Shape_Area": 7.9959441399199998e-05, "ADM4_EN": "Oplitna", "ADM4_UA": "Оплітна", "ADM4_PCODE": "UA4606013035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhovkivska", "ADM3_UA": "Жовківська", "ADM3_PCODE": "UA4606013", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.019601218000048, 50.087621007000052 ], [ 24.014225219000025, 50.086740008000049 ], [ 24.008727221000072, 50.083552008000026 ], [ 24.010848220000071, 50.080715008000027 ], [ 24.015614220000032, 50.081407008000042 ], [ 24.019763219000026, 50.079655008000032 ], [ 24.021448217000057, 50.083752008000033 ], [ 24.026696476000041, 50.082100867000065 ], [ 24.02809497800007, 50.084421875000032 ], [ 24.019601218000048, 50.087621007000052 ] ] ] } }
+]
+}

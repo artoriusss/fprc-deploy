@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.093285710145099995, "Shape_Area": 0.00013448187691400001, "ADM4_EN": "Huta-Pereima", "ADM4_UA": "Гута-Перейма", "ADM4_PCODE": "UA5608013002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nemovytska", "ADM3_UA": "Немовицька", "ADM3_PCODE": "UA5608013", "ADM2_EN": "Sarnenskyi", "ADM2_UA": "Сарненський", "ADM2_PCODE": "UA5608", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.591978879000067, 51.21619596000005 ], [ 26.584586279000064, 51.220988257000045 ], [ 26.579966581000065, 51.218052030000081 ], [ 26.580715200000043, 51.21243099000003 ], [ 26.576214120000031, 51.211363050000045 ], [ 26.574891120000075, 51.204830040000047 ], [ 26.58201192000007, 51.204550950000055 ], [ 26.583347161000063, 51.208524 ], [ 26.58609, 51.209010990000081 ], [ 26.586654121000038, 51.216129 ], [ 26.591978879000067, 51.21619596000005 ] ] ] } }
+]
+}

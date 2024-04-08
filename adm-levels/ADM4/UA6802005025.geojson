@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.103803813, "Shape_Area": 0.00029097643788700002, "ADM4_EN": "Lysets", "ADM4_UA": "Лисець", "ADM4_PCODE": "UA6802005025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dunaievetska", "ADM3_UA": "Дунаєвецька", "ADM3_PCODE": "UA6802005", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.005171, 48.801285 ], [ 27.00125, 48.794166 ], [ 27.002633, 48.790806 ], [ 27.011262999000053, 48.787997 ], [ 27.015429, 48.789944 ], [ 27.024246, 48.785723 ], [ 27.033672, 48.782646 ], [ 27.038443, 48.787812 ], [ 27.036459, 48.789404 ], [ 27.015096, 48.796681 ], [ 27.012939, 48.798745 ], [ 27.005171, 48.801285 ] ] ] } }
+]
+}

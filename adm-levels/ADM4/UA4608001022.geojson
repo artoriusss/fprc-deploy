@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.059459517662399999, "Shape_Area": 7.5797354072100001e-05, "ADM4_EN": "Mali Baranivtsi", "ADM4_UA": "Малі Баранівці", "ADM4_PCODE": "UA4608001022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Biskovytska", "ADM3_UA": "Бісковицька", "ADM3_PCODE": "UA4608001", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.153084483000043, 49.619684019000033 ], [ 23.146883484000057, 49.618880019000073 ], [ 23.147052484000028, 49.615999019000071 ], [ 23.151351484000031, 49.611503019000054 ], [ 23.155407481000054, 49.613516019000031 ], [ 23.159056480000061, 49.618391019000057 ], [ 23.153084483000043, 49.619684019000033 ] ] ] } }
+]
+}

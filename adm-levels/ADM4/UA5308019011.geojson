@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.048953226869300002, "Shape_Area": 7.70000888175e-05, "ADM4_EN": "Chalivka", "ADM4_UA": "Чалівка", "ADM4_PCODE": "UA5308019011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lannivska", "ADM3_UA": "Ланнівська", "ADM3_PCODE": "UA5308019", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.336681, 49.390965 ], [ 35.332801001000064, 49.392915 ], [ 35.325505, 49.388461 ], [ 35.332289, 49.384986 ], [ 35.335291, 49.387596 ], [ 35.337937, 49.385691 ], [ 35.342912001000059, 49.389574 ], [ 35.336681, 49.390965 ] ] ] } }
+]
+}

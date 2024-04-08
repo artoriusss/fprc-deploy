@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.081913036154900004, "Shape_Area": 0.00029667325315900001, "ADM4_EN": "Yarhoriv", "ADM4_UA": "Яргорів", "ADM4_PCODE": "UA6106031040", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Monastyryska", "ADM3_UA": "Монастириська", "ADM3_PCODE": "UA6106031", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.046780999000077, 49.087053 ], [ 25.052298999000072, 49.090146 ], [ 25.051464, 49.094130999000072 ], [ 25.035898, 49.108766 ], [ 25.025323, 49.104193 ], [ 25.034666, 49.097644 ], [ 25.030498, 49.093331 ], [ 25.045702, 49.086486 ], [ 25.046780999000077, 49.087053 ] ] ] } }
+]
+}

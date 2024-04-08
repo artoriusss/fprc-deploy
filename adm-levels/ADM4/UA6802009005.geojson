@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.043949485191899999, "Shape_Area": 5.7551582082999997e-05, "ADM4_EN": "Holenyshcheve", "ADM4_UA": "Голенищеве", "ADM4_PCODE": "UA6802009005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zakupnenska", "ADM3_UA": "Закупненська", "ADM3_PCODE": "UA6802009", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.202063, 49.141029 ], [ 26.196585220000031, 49.141135825000049 ], [ 26.195597001000067, 49.137276 ], [ 26.205846, 49.135473 ], [ 26.205869999000072, 49.138286 ], [ 26.202063, 49.141029 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0454415748124, "Shape_Area": 7.5861207553500006e-05, "ADM4_EN": "Sukhonosivka", "ADM4_UA": "Сухоносівка", "ADM4_PCODE": "UA5308025020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mashivska", "ADM3_UA": "Машівська", "ADM3_PCODE": "UA5308025", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.820327, 49.467963 ], [ 34.820408999000051, 49.470238 ], [ 34.813181, 49.470777 ], [ 34.805144, 49.464515 ], [ 34.805373, 49.461868 ], [ 34.813843, 49.46281 ], [ 34.816387, 49.467943 ], [ 34.820327, 49.467963 ] ] ] } }
+]
+}

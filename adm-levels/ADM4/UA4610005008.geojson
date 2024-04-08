@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.075577378439699999, "Shape_Area": 0.00015421833859300001, "ADM4_EN": "Zabolotivtsi", "ADM4_UA": "Заболотівці", "ADM4_PCODE": "UA4610005008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhydachivska", "ADM3_UA": "Жидачівська", "ADM3_PCODE": "UA4610005", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.165841181000076, 49.329559007000057 ], [ 24.158898183000076, 49.328829007000081 ], [ 24.153705015000071, 49.326328592000038 ], [ 24.154959276000056, 49.324189577000027 ], [ 24.176588181000056, 49.32459000700004 ], [ 24.188922178000041, 49.324511007000069 ], [ 24.185863178000034, 49.328983007000033 ], [ 24.177538180000056, 49.329421006000075 ], [ 24.168283182000039, 49.328928006000069 ], [ 24.165841181000076, 49.329559007000057 ] ] ] } }
+]
+}

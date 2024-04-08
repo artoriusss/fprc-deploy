@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.058848891161500001, "Shape_Area": 0.000117563569021, "ADM4_EN": "Libental", "ADM4_UA": "Лібенталь", "ADM4_PCODE": "UA5110021003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Maiakivska", "ADM3_UA": "Маяківська", "ADM3_PCODE": "UA5110021", "ADM2_EN": "Odeskyi", "ADM2_UA": "Одеський", "ADM2_PCODE": "UA5110", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.470291, 46.425807 ], [ 30.46895, 46.432727 ], [ 30.460233, 46.431797 ], [ 30.463554, 46.423477 ], [ 30.468349001000036, 46.421891 ], [ 30.473162, 46.423004 ], [ 30.47683, 46.420812 ], [ 30.480488, 46.42162 ], [ 30.479531, 46.426318 ], [ 30.470291, 46.425807 ] ] ] } }
+]
+}

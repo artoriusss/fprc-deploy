@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.047714232281499999, "Shape_Area": 4.7926908035199998e-05, "ADM4_EN": "Topolyne", "ADM4_UA": "Тополине", "ADM4_PCODE": "UA5106003007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bolhradska", "ADM3_UA": "Болградська", "ADM3_PCODE": "UA5106003", "ADM2_EN": "Bolhradskyi", "ADM2_UA": "Болградський", "ADM2_PCODE": "UA5106", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.631803, 45.608442 ], [ 28.627057999000044, 45.616276 ], [ 28.634974, 45.61874 ], [ 28.633785, 45.621826 ], [ 28.625414001000024, 45.618448 ], [ 28.623863001000075, 45.616073 ], [ 28.626642, 45.613214 ], [ 28.628782, 45.608397 ], [ 28.631803, 45.608442 ] ] ] } }
+]
+}

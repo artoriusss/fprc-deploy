@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0353262509382, "Shape_Area": 5.5422119039600001e-05, "ADM4_EN": "Svitanok", "ADM4_UA": "Ð¡Ð²ÑÑÐ°Ð½Ð¾Ðº", "ADM4_RU": "Ð¡Ð²Ð¸ÑÐ°Ð½Ð¾Ðº", "ADM4_PCODE": "UA6314007007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novopokrovska", "ADM3_UA": "ÐÐ¾Ð²Ð¾Ð¿Ð¾ÐºÑÐ¾Ð²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¾Ð²Ð¾Ð¿Ð¾ÐºÑÐ¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA6314007", "ADM2_EN": "Chuhuivskyi", "ADM2_UA": "Ð§ÑÐ³ÑÑÐ²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð§ÑÐ³ÑÐµÐ²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA6314", "ADM1_EN": "Kharkivska", "ADM1_UA": "Ð¥Ð°ÑÐºÑÐ²ÑÑÐºÐ°", "ADM1_RU": "Ð¥Ð°ÑÑÐºÐ¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.461513595000042, 49.875063777000037 ], [ 36.463068988000032, 49.879584144000034 ], [ 36.468277799000077, 49.878917165000075 ], [ 36.468245, 49.878655 ], [ 36.46521, 49.872771 ], [ 36.466008, 49.87186 ], [ 36.46835, 49.870066 ], [ 36.468194, 49.869518 ], [ 36.461792, 49.868622 ], [ 36.461346, 49.869688 ], [ 36.461097, 49.870903 ], [ 36.460268, 49.871443 ], [ 36.461513595000042, 49.875063777000037 ] ] ] } }
-]
-}

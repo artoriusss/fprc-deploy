@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.064051073517799997, "Shape_Area": 6.6091796840600002e-05, "ADM4_EN": "Kosteiv", "ADM4_UA": "Костеїв", "ADM4_PCODE": "UA4606023007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kulykivska", "ADM3_UA": "Куликівська", "ADM3_PCODE": "UA4606023", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.035536213000057, 49.979101008000043 ], [ 24.031184215000053, 49.979644007000047 ], [ 24.026904216000048, 49.976846008000052 ], [ 24.029963214000077, 49.97386300800008 ], [ 24.035536213000057, 49.979101008000043 ] ] ] } }
+]
+}

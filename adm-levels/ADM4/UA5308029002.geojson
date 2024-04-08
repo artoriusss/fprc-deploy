@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.089987205917499993, "Shape_Area": 0.00024635862469399999, "ADM4_EN": "Andriivka", "ADM4_UA": "Андріївка", "ADM4_PCODE": "UA5308029002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nekhvoroshchanska", "ADM3_UA": "Нехворощанська", "ADM3_PCODE": "UA5308029", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.606185, 49.184163 ], [ 34.598251953000045, 49.195009594000055 ], [ 34.581870371000036, 49.190121313000077 ], [ 34.581772991000037, 49.185827190000055 ], [ 34.575822723000044, 49.182973253000057 ], [ 34.57544, 49.180916 ], [ 34.581935999000052, 49.177061 ], [ 34.585263, 49.179884 ], [ 34.590850310000064, 49.187492101000032 ], [ 34.596271, 49.180532 ], [ 34.606185, 49.184163 ] ] ] } }
+]
+}

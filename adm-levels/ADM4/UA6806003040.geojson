@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.12713710028299999, "Shape_Area": 0.000308026086155, "ADM4_EN": "Mokrovolia", "ADM4_UA": "Мокроволя", "ADM4_PCODE": "UA6806003040", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilohirska", "ADM3_UA": "Білогірська", "ADM3_PCODE": "UA6806003", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.451971, 49.98665 ], [ 26.451212, 49.992236 ], [ 26.446458999000072, 49.995489 ], [ 26.439973, 49.994766 ], [ 26.437612, 49.991636 ], [ 26.430234, 49.988174 ], [ 26.434343, 49.985627 ], [ 26.438318999000046, 49.979048 ], [ 26.445050999000046, 49.983701 ], [ 26.454501, 49.980681 ], [ 26.450113, 49.975787 ], [ 26.453955, 49.974845 ], [ 26.455800001000057, 49.978947 ], [ 26.459041, 49.980606 ], [ 26.462898, 49.978529 ], [ 26.463337, 49.982325 ], [ 26.456103, 49.983257 ], [ 26.451971, 49.98665 ] ] ] } }
+]
+}

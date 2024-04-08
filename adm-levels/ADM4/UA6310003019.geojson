@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070991930937600006, "Shape_Area": 7.7441832131700005e-05, "ADM4_EN": "Vyshneve", "ADM4_UA": "Вишневе", "ADM4_PCODE": "UA6310003019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Blyzniukivska", "ADM3_UA": "Близнюківська", "ADM3_PCODE": "UA6310003", "ADM2_EN": "Lozivskyi", "ADM2_UA": "Лозівський", "ADM2_PCODE": "UA6310", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 36.415116, 48.620475 ], [ 36.40417, 48.625791 ], [ 36.401306, 48.623287 ], [ 36.408269, 48.620173 ], [ 36.415116, 48.620475 ] ] ], [ [ [ 36.408944001000066, 48.614432 ], [ 36.409929, 48.618982 ], [ 36.402185, 48.620287 ], [ 36.400643001000049, 48.618523 ], [ 36.408944001000066, 48.614432 ] ] ] ] } }
+]
+}

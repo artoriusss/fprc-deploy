@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.037452054703800003, "Shape_Area": 4.5079116538599998e-05, "ADM4_EN": "Lonivka", "ADM4_UA": "Лонівка", "ADM4_PCODE": "UA4606033032", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Peremyshlianska", "ADM3_UA": "Перемишлянська", "ADM3_PCODE": "UA4606033", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.713612106000028, 49.714696004000075 ], [ 24.709950107000054, 49.711285004000047 ], [ 24.71607610500007, 49.708396004000065 ], [ 24.720619104000036, 49.710996004000037 ], [ 24.721835105000025, 49.714403004000076 ], [ 24.716295107000064, 49.713296004000028 ], [ 24.713612106000028, 49.714696004000075 ] ] ] } }
+]
+}

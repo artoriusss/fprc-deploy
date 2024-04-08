@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.041645764185299999, "Shape_Area": 7.9885436554099997e-05, "ADM4_EN": "Sakhkamin", "ADM4_UA": "Сахкамінь", "ADM4_PCODE": "UA6802003023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Humenetska", "ADM3_UA": "Гуменецька", "ADM3_PCODE": "UA6802003", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.600245, 48.855291 ], [ 26.598256645000049, 48.857547128000078 ], [ 26.591383, 48.851361 ], [ 26.601435, 48.847541 ], [ 26.605980001000034, 48.848142 ], [ 26.600245, 48.855291 ] ] ] } }
+]
+}

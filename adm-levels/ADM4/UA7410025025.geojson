@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.051292188603700002, "Shape_Area": 6.6873441042699996e-05, "ADM4_EN": "Moskali", "ADM4_UA": "Москалі", "ADM4_PCODE": "UA7410025025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykhailo-Kotsiubynska", "ADM3_UA": "Михайло-Коцюбинська", "ADM3_PCODE": "UA7410025", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.980631960000039, 51.588406980000059 ], [ 30.978579960000047, 51.585807960000068 ], [ 30.969043920000047, 51.585798060000059 ], [ 30.970320840000056, 51.582209940000041 ], [ 30.985683120000033, 51.581949030000033 ], [ 30.985115040000039, 51.585469020000062 ], [ 30.980631960000039, 51.588406980000059 ] ] ] } }
+]
+}

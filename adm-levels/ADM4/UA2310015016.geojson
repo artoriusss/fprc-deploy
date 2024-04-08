@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0380508222403, "Shape_Area": 4.8755665681900001e-05, "ADM4_EN": "Mostove", "ADM4_UA": "Мостове", "ADM4_PCODE": "UA2310015016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Molochanska", "ADM3_UA": "Молочанська", "ADM3_PCODE": "UA2310015", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.749440394000032, 47.107881735000035 ], [ 35.748033231000079, 47.108804736000081 ], [ 35.736136083000076, 47.107108172000039 ], [ 35.734877015000052, 47.103499912000075 ], [ 35.744187799000031, 47.104079023000054 ], [ 35.749440394000032, 47.107881735000035 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.181745791642, "Shape_Area": 0.00021090460378500001, "ADM4_EN": "Bilohrudove", "ADM4_UA": "Білогрудове", "ADM4_PCODE": "UA6508003002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Holoprystanska", "ADM3_UA": "Голопристанська", "ADM3_PCODE": "UA6508003", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Скадовський", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.506997, 46.55509 ], [ 32.500611, 46.559986 ], [ 32.503452999000046, 46.552633 ], [ 32.509947, 46.550628 ], [ 32.513206, 46.551025 ], [ 32.520572, 46.549791 ], [ 32.528949001000058, 46.549754 ], [ 32.540227001000062, 46.543975 ], [ 32.54675, 46.547921 ], [ 32.548451, 46.55077 ], [ 32.548606001000053, 46.555313 ], [ 32.530099, 46.551115 ], [ 32.518818, 46.551264 ], [ 32.506997, 46.55509 ] ] ] } }
+]
+}

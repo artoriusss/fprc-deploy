@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.094817619441899995, "Shape_Area": 0.000116727733853, "ADM4_EN": "Ploska", "ADM4_UA": "Плоска", "ADM4_PCODE": "UA6806001019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezdivska", "ADM3_UA": "Берездівська", "ADM3_PCODE": "UA6806001", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.021978, 50.502306 ], [ 27.021536, 50.495761 ], [ 27.019657, 50.493925 ], [ 27.01896399900005, 50.48922 ], [ 27.024179, 50.485857 ], [ 27.025937, 50.493986 ], [ 27.032906, 50.493028 ], [ 27.030469001000029, 50.498692 ], [ 27.021978, 50.502306 ] ] ] } }
+]
+}

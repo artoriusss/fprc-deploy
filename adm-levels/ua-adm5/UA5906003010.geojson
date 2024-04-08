@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0327323626787, "Shape_Area": 2.01612742341e-05, "ADM4_EN": "Kushniry", "ADM4_UA": "ÐÑÑÐ½ÑÑÐ¸", "ADM4_RU": "ÐÑÑÐ½Ð¸ÑÑ", "ADM4_PCODE": "UA5906003010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vilshanska", "ADM3_UA": "ÐÑÐ»ÑÑÐ°Ð½ÑÑÐºÐ°", "ADM3_RU": "ÐÐ»ÑÑÐ°Ð½ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5906003", "ADM2_EN": "Romenskyi", "ADM2_UA": "Ð Ð¾Ð¼ÐµÐ½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð Ð¾Ð¼ÐµÐ½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Ð¡ÑÐ¼ÑÑÐºÐ°", "ADM1_RU": "Ð¡ÑÐ¼ÑÐºÐ°Ñ", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.107829, 50.838268 ], [ 34.111213, 50.83573 ], [ 34.115412, 50.836602 ], [ 34.115631001000054, 50.835633 ], [ 34.109589001000074, 50.834593 ], [ 34.110396, 50.833979 ], [ 34.108015999000031, 50.83317 ], [ 34.106705, 50.832784 ], [ 34.105913, 50.83311 ], [ 34.104887, 50.833152 ], [ 34.104524, 50.833613 ], [ 34.108638, 50.835409 ], [ 34.106065, 50.837485 ], [ 34.107829, 50.838268 ] ] ] } }
-]
-}

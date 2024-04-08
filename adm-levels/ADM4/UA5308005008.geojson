@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.080426012328899996, "Shape_Area": 0.0002102383273, "ADM4_EN": "Velyka Rudka", "ADM4_UA": "Велика Рудка", "ADM4_PCODE": "UA5308005008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dykanska", "ADM3_UA": "Диканська", "ADM3_PCODE": "UA5308005", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.459693056000049, 49.756186440000079 ], [ 34.449076613000045, 49.750401765000049 ], [ 34.452248001000044, 49.748077 ], [ 34.453064, 49.743666 ], [ 34.457565, 49.746699 ], [ 34.466813001000048, 49.742726 ], [ 34.469234, 49.743705 ], [ 34.475313, 49.741706 ], [ 34.473958, 49.746311 ], [ 34.47021600100004, 49.747256 ], [ 34.471588445000066, 49.750607209000066 ], [ 34.465205999000034, 49.75481 ], [ 34.459693056000049, 49.756186440000079 ] ] ] } }
+]
+}

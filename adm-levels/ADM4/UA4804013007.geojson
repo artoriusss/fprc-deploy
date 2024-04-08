@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.059811868372300001, "Shape_Area": 9.0857929984699995e-05, "ADM4_EN": "Velidarivka", "ADM4_UA": "Велідарівка", "ADM4_PCODE": "UA4804013007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yelanetska", "ADM3_UA": "Єланецька", "ADM3_PCODE": "UA4804013", "ADM2_EN": "Voznesenskyi", "ADM2_UA": "Вознесенський", "ADM2_PCODE": "UA4804", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.843772461000071, 47.672666771000081 ], [ 31.843165960000078, 47.677285085000051 ], [ 31.838769870000078, 47.673050275000037 ], [ 31.834246043000064, 47.671806647000039 ], [ 31.834679230000063, 47.668491318000065 ], [ 31.82762615200005, 47.660623439000062 ], [ 31.831337900000051, 47.658755971000062 ], [ 31.836216280000031, 47.662660026000026 ], [ 31.83954230300003, 47.670184420000055 ], [ 31.843772461000071, 47.672666771000081 ] ] ] } }
+]
+}

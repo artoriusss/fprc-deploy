@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.061654515218799999, "Shape_Area": 0.000134898051521, "ADM4_EN": "Haliave", "ADM4_UA": "Галяве", "ADM4_PCODE": "UA5304013009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chornukhynska", "ADM3_UA": "Чорнухинська", "ADM3_PCODE": "UA5304013", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.900905, 50.243108 ], [ 32.895781, 50.242754 ], [ 32.892325404000076, 50.239164604000052 ], [ 32.895869752000067, 50.234658177000028 ], [ 32.901603310000041, 50.231034222000062 ], [ 32.905952712000044, 50.234646868000027 ], [ 32.910434365000071, 50.24075337000005 ], [ 32.906245999000078, 50.240591 ], [ 32.900905, 50.243108 ] ] ] } }
+]
+}

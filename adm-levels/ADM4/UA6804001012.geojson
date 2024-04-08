@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13697834099600001, "Shape_Area": 0.00016653226537600001, "ADM4_EN": "Korchivka", "ADM4_UA": "Корчівка", "ADM4_PCODE": "UA6804001012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Antoninska", "ADM3_UA": "Антонінська", "ADM3_PCODE": "UA6804001", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.658974, 49.795858 ], [ 26.657907, 49.793061 ], [ 26.651801, 49.794152 ], [ 26.652039, 49.788828 ], [ 26.655209, 49.785332 ], [ 26.654906, 49.78213 ], [ 26.659946001000037, 49.782306 ], [ 26.665213999000059, 49.785219 ], [ 26.670889, 49.78448 ], [ 26.671284999000079, 49.787415 ], [ 26.669645001000049, 49.792175 ], [ 26.663589999000067, 49.791856 ], [ 26.658974, 49.795858 ] ] ] } }
+]
+}

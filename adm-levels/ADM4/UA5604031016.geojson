@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13200571004600001, "Shape_Area": 0.00014277395002599999, "ADM4_EN": "Trostianets", "ADM4_UA": "Тростянець", "ADM4_PCODE": "UA5604031016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Semydubska", "ADM3_UA": "Семидубська", "ADM3_PCODE": "UA5604031", "ADM2_EN": "Dubenskyi", "ADM2_UA": "Дубенський", "ADM2_PCODE": "UA5604", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.880446800000072, 50.348292030000039 ], [ 25.871861161000027, 50.345458020000081 ], [ 25.885317960000066, 50.338684980000039 ], [ 25.887787920000051, 50.335219980000034 ], [ 25.89424992000005, 50.340102030000025 ], [ 25.88681304000005, 50.34262797000008 ], [ 25.885167839000076, 50.342246010000054 ], [ 25.877166120000027, 50.345669970000074 ], [ 25.880446800000072, 50.348292030000039 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.034713019465400001, "Shape_Area": 6.4874811492299995e-05, "ADM4_EN": "Hlyniane", "ADM4_UA": "Глиняне", "ADM4_PCODE": "UA5908025003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stepanivska", "ADM3_UA": "Степанівська", "ADM3_PCODE": "UA5908025", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.593519043000072, 50.95685431000004 ], [ 34.586308020000047, 50.960476460000052 ], [ 34.579014050000069, 50.957140036000055 ], [ 34.581715490000079, 50.953705586000069 ], [ 34.58642738900005, 50.951969648000045 ], [ 34.593519043000072, 50.95685431000004 ] ] ] } }
+]
+}

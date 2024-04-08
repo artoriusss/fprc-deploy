@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.114034605099, "Shape_Area": 0.000309892629757, "ADM4_EN": "Biliaky", "ADM4_UA": "Біляки", "ADM4_PCODE": "UA5302023006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Semenivska", "ADM3_UA": "Семенівська", "ADM3_PCODE": "UA5302023", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.441662, 49.589677 ], [ 33.442, 49.592229 ], [ 33.437087, 49.594967 ], [ 33.434708999000065, 49.589524 ], [ 33.420835, 49.589556 ], [ 33.419074, 49.585379 ], [ 33.424974, 49.576977 ], [ 33.424915999000063, 49.57305 ], [ 33.430131, 49.57239 ], [ 33.43349500100004, 49.569156 ], [ 33.437421999000037, 49.569797 ], [ 33.442392, 49.572855 ], [ 33.440963444000033, 49.576450397000031 ], [ 33.433596, 49.57814 ], [ 33.432107001000077, 49.58191 ], [ 33.434488, 49.585564 ], [ 33.441662, 49.589677 ] ] ] } }
+]
+}

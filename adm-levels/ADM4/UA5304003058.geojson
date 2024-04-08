@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.12712435787500001, "Shape_Area": 0.00028998479728400002, "ADM4_EN": "Khoroshky", "ADM4_UA": "Хорошки", "ADM4_PCODE": "UA5304003058", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lubenska", "ADM3_UA": "Лубенська", "ADM3_PCODE": "UA5304003", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.288349001000029, 50.166418 ], [ 33.286147, 50.167149 ], [ 33.279175, 50.160008 ], [ 33.275564001000077, 50.159489 ], [ 33.277105, 50.15101 ], [ 33.283430001000056, 50.144089 ], [ 33.291219999000077, 50.14364 ], [ 33.295203001000061, 50.147072 ], [ 33.292691, 50.151386 ], [ 33.297469, 50.153853 ], [ 33.293725, 50.159137 ], [ 33.286133001000053, 50.15882 ], [ 33.284248, 50.159763 ], [ 33.288349001000029, 50.166418 ] ] ] } }
+]
+}

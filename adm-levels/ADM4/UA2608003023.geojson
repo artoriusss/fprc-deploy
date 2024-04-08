@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11628596401000001, "Shape_Area": 0.00036355026793500001, "ADM4_EN": "Rashkiv", "ADM4_UA": "Рашків", "ADM4_PCODE": "UA2608003023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodenkivska", "ADM3_UA": "Городенківська", "ADM3_PCODE": "UA2608003", "ADM2_EN": "Kolomyiskyi", "ADM2_UA": "Коломийський", "ADM2_PCODE": "UA2608", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.423754869000049, 48.732532612000057 ], [ 25.425646824000069, 48.738290284000072 ], [ 25.414557048000063, 48.741772387000026 ], [ 25.405263923000064, 48.72922045100006 ], [ 25.431710430000066, 48.718907690000037 ], [ 25.437418325000067, 48.727222500000039 ], [ 25.431788988000051, 48.728523639000059 ], [ 25.433273889000077, 48.731084966000026 ], [ 25.428988021000066, 48.732539853000048 ], [ 25.423754869000049, 48.732532612000057 ] ] ] } }
+]
+}

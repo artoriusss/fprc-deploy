@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.077618119376799993, "Shape_Area": 0.00028949581020699998, "ADM4_EN": "Pysarivka", "ADM4_UA": "Писарівка", "ADM4_PCODE": "UA7102019012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lysianska", "ADM3_UA": "Лисянська", "ADM3_PCODE": "UA7102019", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.758477, 49.337557 ], [ 30.747506, 49.33883 ], [ 30.744216001000041, 49.327886 ], [ 30.744763001000024, 49.323206 ], [ 30.757282, 49.326352 ], [ 30.760342, 49.327778 ], [ 30.7693, 49.326377 ], [ 30.772104, 49.333592 ], [ 30.764888001000031, 49.335669 ], [ 30.763758999000061, 49.33758 ], [ 30.758477, 49.337557 ] ] ] } }
+]
+}

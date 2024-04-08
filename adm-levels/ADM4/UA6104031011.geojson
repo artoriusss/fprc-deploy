@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0788364313313, "Shape_Area": 9.2353022316000002e-05, "ADM4_EN": "Pavliv", "ADM4_UA": "Павлів", "ADM4_PCODE": "UA6104031011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Naraivska", "ADM3_UA": "Нараївська", "ADM3_PCODE": "UA6104031", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.829783, 49.44598 ], [ 24.826962, 49.448133 ], [ 24.818858999000042, 49.44797 ], [ 24.812386, 49.445368999000038 ], [ 24.810906, 49.440058 ], [ 24.812691999000037, 49.438229 ], [ 24.820107001000054, 49.445531 ], [ 24.833582999000043, 49.442944 ], [ 24.829783, 49.44598 ] ] ] } }
+]
+}

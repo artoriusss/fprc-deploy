@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070700601020100007, "Shape_Area": 0.000136050330763, "ADM4_EN": "Verkhivtsi", "ADM4_UA": "Верхівці", "ADM4_PCODE": "UA6106041003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khorostkivska", "ADM3_UA": "Хоростківська", "ADM3_PCODE": "UA6106041", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.947924389000036, 49.268433943000048 ], [ 25.946537539000076, 49.263805235000063 ], [ 25.942228999000065, 49.260705 ], [ 25.950356808000038, 49.257193918000041 ], [ 25.954878393000058, 49.260892216000059 ], [ 25.959136183000055, 49.261763771000062 ], [ 25.958742, 49.266402 ], [ 25.95434178000005, 49.267928744000073 ], [ 25.947924389000036, 49.268433943000048 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.089451900450799995, "Shape_Area": 0.00028321482223800002, "ADM4_EN": "Potik", "ADM4_UA": "Потік", "ADM4_PCODE": "UA2604027053", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rohatynska", "ADM3_UA": "Рогатинська", "ADM3_PCODE": "UA2604027", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.595172503000072, 49.411085145000072 ], [ 24.593662952000045, 49.413024672000063 ], [ 24.572154002000048, 49.424624397000059 ], [ 24.559638498000027, 49.416632973000048 ], [ 24.564896731000033, 49.417086501000028 ], [ 24.576559158000066, 49.409025666000048 ], [ 24.582734128000027, 49.410696751000046 ], [ 24.588872199000036, 49.406782838000026 ], [ 24.595535623000046, 49.408630476000042 ], [ 24.595172503000072, 49.411085145000072 ] ] ] } }
+]
+}

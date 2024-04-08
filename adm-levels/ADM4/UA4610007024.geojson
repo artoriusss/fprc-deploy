@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.073795801454399998, "Shape_Area": 0.00015138382833199999, "ADM4_EN": "Stare Selo", "ADM4_UA": "Старе Село", "ADM4_PCODE": "UA4610007024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhuravnenska", "ADM3_UA": "Журавненська", "ADM3_PCODE": "UA4610007", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.371765148000065, 49.216791005000061 ], [ 24.367313148000051, 49.22302800500006 ], [ 24.361321150000038, 49.22428100500008 ], [ 24.355232150000063, 49.22823700500004 ], [ 24.347832151000034, 49.228684005000048 ], [ 24.343107152000073, 49.226823006000075 ], [ 24.340268152000078, 49.224152006000054 ], [ 24.359196148000024, 49.221128006000072 ], [ 24.368944148000026, 49.216215006000027 ], [ 24.371765148000065, 49.216791005000061 ] ] ] } }
+]
+}

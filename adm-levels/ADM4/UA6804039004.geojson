@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.059425876288600001, "Shape_Area": 0.000131713353798, "ADM4_EN": "Berezne", "ADM4_UA": "Березне", "ADM4_PCODE": "UA6804039004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starokostiantynivska", "ADM3_UA": "Старокостянтинівська", "ADM3_PCODE": "UA6804039", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.049321999000028, 49.872342 ], [ 27.049289, 49.874371 ], [ 27.042777001000047, 49.873816 ], [ 27.041787999000064, 49.871879 ], [ 27.036184, 49.873092 ], [ 27.035018, 49.868356 ], [ 27.046684, 49.864521 ], [ 27.049148, 49.865419 ], [ 27.056653, 49.865471 ], [ 27.057895999000039, 49.867709 ], [ 27.050229, 49.869364 ], [ 27.049321999000028, 49.872342 ] ] ] } }
+]
+}

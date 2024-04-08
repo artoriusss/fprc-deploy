@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.14487820004900001, "Shape_Area": 0.000168827555779, "ADM4_EN": "Pavlivka", "ADM4_UA": "Павлівка", "ADM4_PCODE": "UA6306003030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kehychivska", "ADM3_UA": "Кегичівська", "ADM3_PCODE": "UA6306003", "ADM2_EN": "Krasnohradskyi", "ADM2_UA": "Красноградський", "ADM2_PCODE": "UA6306", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.949872, 49.323277 ], [ 35.952112, 49.320634 ], [ 35.961027, 49.318268 ], [ 35.969856001000039, 49.316912 ], [ 35.968684, 49.315049 ], [ 35.960353, 49.316449 ], [ 35.945814001000031, 49.32027 ], [ 35.944026, 49.314259 ], [ 35.966562999000075, 49.311232 ], [ 35.967547999000033, 49.314005 ], [ 35.973771, 49.314584 ], [ 35.97414199900004, 49.317724 ], [ 35.960612, 49.319745 ], [ 35.949872, 49.323277 ] ] ] } }
+]
+}

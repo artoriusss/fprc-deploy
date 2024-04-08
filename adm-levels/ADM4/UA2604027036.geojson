@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.073092009431600005, "Shape_Area": 9.2169234462000004e-05, "ADM4_EN": "Lopushnia", "ADM4_UA": "Лопушня", "ADM4_PCODE": "UA2604027036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rohatynska", "ADM3_UA": "Рогатинська", "ADM3_PCODE": "UA2604027", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.775097171000027, 49.375790357000028 ], [ 24.779222092000055, 49.383561003000068 ], [ 24.775839416000053, 49.386739879000061 ], [ 24.771543993000023, 49.381299072000047 ], [ 24.760376721000057, 49.385801005000076 ], [ 24.759545305000074, 49.384550550000029 ], [ 24.767868061000058, 49.381115113000078 ], [ 24.76818868600003, 49.376662650000071 ], [ 24.772431010000048, 49.373590556000067 ], [ 24.775097171000027, 49.375790357000028 ] ] ] } }
+]
+}

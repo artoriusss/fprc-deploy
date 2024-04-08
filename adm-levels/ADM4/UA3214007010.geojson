@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.090875723334100003, "Shape_Area": 7.9713015120300005e-05, "ADM4_EN": "Mala Buhaivka", "ADM4_UA": "Мала Бугаївка", "ADM4_PCODE": "UA3214007010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hlevakhivska", "ADM3_UA": "Глевахівська", "ADM3_PCODE": "UA3214007", "ADM2_EN": "Fastivskyi", "ADM2_UA": "Фастівський", "ADM2_PCODE": "UA3214", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.393875808000075, 50.20522509400007 ], [ 30.39253986500006, 50.206400077000069 ], [ 30.381489821000059, 50.20514014500003 ], [ 30.383036858000025, 50.201461154000071 ], [ 30.389153829000065, 50.201253149000081 ], [ 30.393875808000075, 50.20522509400007 ] ] ] } }
+]
+}

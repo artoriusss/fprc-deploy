@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.079565834836099997, "Shape_Area": 0.000204374927536, "ADM4_EN": "Divoche Pole", "ADM4_UA": "Дівоче Поле", "ADM4_PCODE": "UA3508013004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Popelnastivska", "ADM3_UA": "Попельнастівська", "ADM3_PCODE": "UA3508013", "ADM2_EN": "Oleksandriiskyi", "ADM2_UA": "Олександрійський", "ADM2_PCODE": "UA3508", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.39778, 48.751141 ], [ 33.395121, 48.751397 ], [ 33.390358001000038, 48.748023 ], [ 33.386638, 48.747741 ], [ 33.388285, 48.742077 ], [ 33.393889, 48.734644 ], [ 33.399073, 48.73794 ], [ 33.399395001000073, 48.741373 ], [ 33.404498, 48.743093 ], [ 33.405552, 48.747801 ], [ 33.404287, 48.749723 ], [ 33.39778, 48.751141 ] ] ] } }
+]
+}

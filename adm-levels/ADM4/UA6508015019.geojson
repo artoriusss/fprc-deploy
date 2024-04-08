@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.115144927373, "Shape_Area": 0.000317050441003, "ADM4_EN": "Shyroke", "ADM4_UA": "Широке", "ADM4_PCODE": "UA6508015019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Skadovska", "ADM3_UA": "Скадовська", "ADM3_PCODE": "UA6508015", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Скадовський", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.907074, 46.207762 ], [ 32.907691001000046, 46.205007 ], [ 32.889157999000076, 46.203668 ], [ 32.891171, 46.19321 ], [ 32.899516, 46.194496 ], [ 32.90894, 46.1909 ], [ 32.908212, 46.1952 ], [ 32.914245, 46.195736 ], [ 32.917662, 46.192025 ], [ 32.920398, 46.192806 ], [ 32.917832, 46.198042 ], [ 32.916964, 46.202968 ], [ 32.907074, 46.207762 ] ] ] } }
+]
+}

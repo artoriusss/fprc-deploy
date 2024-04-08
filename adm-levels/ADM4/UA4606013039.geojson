@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.060409174584899999, "Shape_Area": 6.5211768862599994e-05, "ADM4_EN": "Ruda-Krekhivska", "ADM4_UA": "Руда-Крехівська", "ADM4_PCODE": "UA4606013039", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhovkivska", "ADM3_UA": "Жовківська", "ADM3_PCODE": "UA4606013", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.822827265000058, 50.078087010000047 ], [ 23.81897226500007, 50.07633400900005 ], [ 23.818995266000059, 50.073471009000059 ], [ 23.815069267000069, 50.072283009000046 ], [ 23.813274267000054, 50.074332010000035 ], [ 23.807740178000074, 50.076408121000043 ], [ 23.807442270000024, 50.071499010000082 ], [ 23.810161268000058, 50.068186009000044 ], [ 23.823492265000027, 50.074780009000051 ], [ 23.822827265000058, 50.078087010000047 ] ] ] } }
+]
+}

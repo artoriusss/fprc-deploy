@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.17361890236, "Shape_Area": 0.00111686849048, "ADM4_EN": "Kulevcha", "ADM4_UA": "Кулевча", "ADM4_PCODE": "UA5104007001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kulevchanska", "ADM3_UA": "Кулевчанська", "ADM3_PCODE": "UA5104007", "ADM2_EN": "Bilhorod-Dnistrovskyi", "ADM2_UA": "Білгород-Дністровський", "ADM2_PCODE": "UA5104", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.955976, 46.041889 ], [ 29.938930001000074, 46.037297 ], [ 29.934789, 46.041523 ], [ 29.924738011000045, 46.040288124000028 ], [ 29.926537, 46.036546 ], [ 29.916576, 46.036405 ], [ 29.906790001000047, 46.040321001000052 ], [ 29.900376, 46.038261 ], [ 29.906516999000075, 46.016334 ], [ 29.918816, 46.018054 ], [ 29.956756913000049, 46.022448319000034 ], [ 29.954527001000031, 46.026876 ], [ 29.965912, 46.029852 ], [ 29.961174, 46.038627 ], [ 29.959452001000045, 46.037366 ], [ 29.955976, 46.041889 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0496613298301, "Shape_Area": 5.3855510152500002e-05, "ADM4_EN": "Zushytsi", "ADM4_UA": "Зушиці", "ADM4_PCODE": "UA4606007019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodotska", "ADM3_UA": "Городоцька", "ADM3_PCODE": "UA4606007", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.710703292000062, 49.843323011000052 ], [ 23.707931292000069, 49.84573301000006 ], [ 23.698887294000031, 49.847300011000073 ], [ 23.695826296000064, 49.844217011000069 ], [ 23.70548429300004, 49.842242010000064 ], [ 23.709708291000027, 49.842652010000052 ], [ 23.710703292000062, 49.843323011000052 ] ] ] } }
+]
+}

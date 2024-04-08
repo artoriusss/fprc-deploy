@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0632695365274, "Shape_Area": 0.00012809593894300001, "ADM4_EN": "Viktorivka", "ADM4_UA": "Вікторівка", "ADM4_PCODE": "UA6104023009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozivska", "ADM3_UA": "Козівська", "ADM3_PCODE": "UA6104023", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.183834730000058, 49.447573780000027 ], [ 25.179483272000027, 49.448837280000077 ], [ 25.186388, 49.439301 ], [ 25.196911, 49.435983 ], [ 25.200692305000075, 49.437698092000062 ], [ 25.198993819000066, 49.44299213100004 ], [ 25.193444470000031, 49.444439208000063 ], [ 25.190589099000078, 49.443674593000026 ], [ 25.187981, 49.446324 ], [ 25.183834730000058, 49.447573780000027 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.069318819281000005, "Shape_Area": 0.00014038371520299999, "ADM4_EN": "Dyvne", "ADM4_UA": "Дивне", "ADM4_PCODE": "UA6504007012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novotroitska", "ADM3_UA": "Новотроїцька", "ADM3_PCODE": "UA6504007", "ADM2_EN": "Henicheskyi", "ADM2_UA": "Генічеський", "ADM2_PCODE": "UA6504", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.408695, 46.528978 ], [ 34.405684999000073, 46.523153 ], [ 34.408544, 46.520198 ], [ 34.409603, 46.512708 ], [ 34.418608, 46.515261 ], [ 34.415982, 46.523784 ], [ 34.411655, 46.525786 ], [ 34.408695, 46.528978 ] ] ] } }
+]
+}

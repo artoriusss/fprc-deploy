@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11663040999, "Shape_Area": 0.00027379215987400002, "ADM4_EN": "Poznanka Druha", "ADM4_UA": "Познанка Друга", "ADM4_PCODE": "UA5112007006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zelenohirska", "ADM3_UA": "Зеленогірська", "ADM3_PCODE": "UA5112007", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.918531, 47.922227 ], [ 29.923558, 47.919393 ], [ 29.943539, 47.913394 ], [ 29.948671, 47.910746 ], [ 29.959914538000078, 47.906198440000026 ], [ 29.959946471000023, 47.915622744000075 ], [ 29.954366, 47.917671 ], [ 29.941853999000045, 47.920652 ], [ 29.930605, 47.921293 ], [ 29.925992999000073, 47.923408 ], [ 29.918531, 47.922227 ] ] ] } }
+]
+}

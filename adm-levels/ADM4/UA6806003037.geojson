@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057617307463, "Shape_Area": 0.000101414309846, "ADM4_EN": "Mala Borovytsia", "ADM4_UA": "Мала Боровиця", "ADM4_PCODE": "UA6806003037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilohirska", "ADM3_UA": "Білогірська", "ADM3_PCODE": "UA6806003", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.271262, 50.16112 ], [ 26.269106001000068, 50.164291 ], [ 26.265909, 50.165867 ], [ 26.264447, 50.162465 ], [ 26.265996, 50.157652 ], [ 26.263107999000056, 50.157681 ], [ 26.261751999000069, 50.153145 ], [ 26.265894001000049, 50.152681 ], [ 26.274461, 50.153423 ], [ 26.274859, 50.154834 ], [ 26.271262, 50.16112 ] ] ] } }
+]
+}

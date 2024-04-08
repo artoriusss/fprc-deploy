@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.119318181993, "Shape_Area": 0.00031430286640299999, "ADM4_EN": "Kurazhyn", "ADM4_UA": "Куражин", "ADM4_PCODE": "UA6802019029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoushytska", "ADM3_UA": "Новоушицька", "ADM3_PCODE": "UA6802019", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.287109, 48.667212 ], [ 27.288019001000066, 48.669024 ], [ 27.277596, 48.670045 ], [ 27.276737999000034, 48.658722 ], [ 27.273507, 48.659549 ], [ 27.271248999000079, 48.65522 ], [ 27.275676999000041, 48.65402 ], [ 27.275816, 48.651039 ], [ 27.280748999000025, 48.646715 ], [ 27.289437, 48.650636 ], [ 27.289724, 48.654841 ], [ 27.294957, 48.658091 ], [ 27.287514999000052, 48.663189 ], [ 27.287109, 48.667212 ] ] ] } }
+]
+}

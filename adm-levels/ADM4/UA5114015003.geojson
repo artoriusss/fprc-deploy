@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.048070914763000003, "Shape_Area": 9.1490376671500001e-05, "ADM4_EN": "Buhai", "ADM4_UA": "Бугай", "ADM4_PCODE": "UA5114015003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stepanivska", "ADM3_UA": "Степанівська", "ADM3_PCODE": "UA5114015", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.854727, 46.924018 ], [ 29.845255, 46.927246 ], [ 29.841663999000048, 46.923222 ], [ 29.843992, 46.92059 ], [ 29.851727, 46.920581 ], [ 29.852563, 46.918095 ], [ 29.857777999000064, 46.917225 ], [ 29.854727, 46.924018 ] ] ] } }
+]
+}

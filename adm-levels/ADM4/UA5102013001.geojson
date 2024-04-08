@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.109503560281, "Shape_Area": 0.000467613510407, "ADM4_EN": "Kurisove", "ADM4_UA": "Курісове", "ADM4_PCODE": "UA5102013001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kurisovska", "ADM3_UA": "Курісовська", "ADM3_PCODE": "UA5102013", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.943962, 46.978403 ], [ 30.935124, 46.97556 ], [ 30.938770001000023, 46.967525 ], [ 30.94798, 46.96425 ], [ 30.963172, 46.965339 ], [ 30.967412, 46.958815 ], [ 30.971601, 46.959171 ], [ 30.974848, 46.962911 ], [ 30.969235, 46.976506 ], [ 30.965666999000064, 46.978124 ], [ 30.962265, 46.976555 ], [ 30.95894, 46.977657 ], [ 30.945846001000064, 46.975296 ], [ 30.943962, 46.978403 ] ] ] } }
+]
+}

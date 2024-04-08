@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.079822121234300006, "Shape_Area": 6.62049858923e-05, "ADM4_EN": "Movchaniv", "ADM4_UA": "Мовчанів", "ADM4_PCODE": "UA7406003049", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novhorod-Siverska", "ADM3_UA": "Новгород-Сіверська", "ADM3_PCODE": "UA7406003", "ADM2_EN": "Novhorod-Siverskyi", "ADM2_UA": "Новгород-Сіверський", "ADM2_PCODE": "UA7406", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.100443, 52.243298010000046 ], [ 33.098227200000053, 52.24140594000005 ], [ 33.09335100100003, 52.241598990000057 ], [ 33.09316380100006, 52.23839004000007 ], [ 33.107819041000027, 52.237161990000061 ], [ 33.113021041000025, 52.237687050000034 ], [ 33.110749079000072, 52.241839020000043 ], [ 33.100443, 52.243298010000046 ] ] ] } }
+]
+}

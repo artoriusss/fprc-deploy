@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.034435089289599999, "Shape_Area": 5.65749362137e-05, "ADM4_EN": "Rivne", "ADM4_UA": "Рівне", "ADM4_PCODE": "UA2310003012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vozdvyzhivska", "ADM3_UA": "Воздвижівська", "ADM3_PCODE": "UA2310003", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.042043613000033, 47.715672787000074 ], [ 36.041581406000034, 47.720089705000078 ], [ 36.029730517000075, 47.719165391000047 ], [ 36.030342210000072, 47.714993105000076 ], [ 36.042043613000033, 47.715672787000074 ] ] ] } }
+]
+}

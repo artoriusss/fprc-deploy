@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.045276647685599997, "Shape_Area": 6.2362242393599994e-05, "ADM4_EN": "Yasna Poliana", "ADM4_UA": "Ясна Поляна", "ADM4_PCODE": "UA6506007020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hornostaivska", "ADM3_UA": "Горностаївська", "ADM3_PCODE": "UA6506007", "ADM2_EN": "Kakhovskyi", "ADM2_UA": "Каховський", "ADM2_PCODE": "UA6506", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.009886, 46.993539 ], [ 34.007869, 46.9946 ], [ 33.997373, 46.984954 ], [ 34.001152, 46.983279 ], [ 34.011647, 46.992774 ], [ 34.009886, 46.993539 ] ] ] } }
+]
+}

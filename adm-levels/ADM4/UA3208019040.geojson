@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.049049528982199997, "Shape_Area": 8.0323280437900004e-05, "ADM4_EN": "Severynivka", "ADM4_UA": "Северинівка", "ADM4_PCODE": "UA3208019040", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Makarivska", "ADM3_UA": "Макарівська", "ADM3_PCODE": "UA3208019", "ADM2_EN": "Buchanskyi", "ADM2_UA": "Бучанський", "ADM2_PCODE": "UA3208", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.973224987000037, 50.418375551000054 ], [ 29.960961010000062, 50.417731518000039 ], [ 29.961508073000061, 50.413720518000048 ], [ 29.966921083000045, 50.413954525000065 ], [ 29.968109078000055, 50.41120958700003 ], [ 29.972519985000076, 50.413544559000059 ], [ 29.980093047000025, 50.415083553000045 ], [ 29.979000983000049, 50.417461536000076 ], [ 29.973707086000047, 50.416490536000026 ], [ 29.973224987000037, 50.418375551000054 ] ] ] } }
+]
+}

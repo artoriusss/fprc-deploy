@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.129391363634, "Shape_Area": 0.000109140660992, "ADM4_EN": "Pankivka", "ADM4_UA": "Паньківка", "ADM4_PCODE": "UA4410001023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilokurakynska", "ADM3_UA": "Білокуракинська", "ADM3_PCODE": "UA4410001", "ADM2_EN": "Svativskyi", "ADM2_UA": "Сватівський", "ADM2_PCODE": "UA4410", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 38.801773, 49.449659 ], [ 38.791848, 49.446584 ], [ 38.792613, 49.442977 ], [ 38.796835, 49.444013 ], [ 38.801773, 49.449659 ] ] ], [ [ [ 38.812814999000068, 49.443236 ], [ 38.81255400100008, 49.445034 ], [ 38.803184500000043, 49.439892500000042 ], [ 38.799203, 49.439812 ], [ 38.794761, 49.437044 ], [ 38.797318, 49.433325 ], [ 38.803330001000063, 49.435015 ], [ 38.802275, 49.437285 ], [ 38.812814999000068, 49.443236 ] ] ] ] } }
+]
+}

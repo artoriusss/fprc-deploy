@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13975660620700001, "Shape_Area": 0.000184733578759, "ADM4_EN": "Zhovte", "ADM4_UA": "Жовте", "ADM4_PCODE": "UA4406001008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Luhanska", "ADM3_UA": "Луганська", "ADM3_PCODE": "UA4406001", "ADM2_EN": "Luhanskyi", "ADM2_UA": "Луганський", "ADM2_PCODE": "UA4406", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.119959, 48.652279 ], [ 39.117312001000073, 48.654246 ], [ 39.114412001000062, 48.651424 ], [ 39.108185, 48.65203 ], [ 39.098178, 48.648634 ], [ 39.098467, 48.6457 ], [ 39.089342, 48.644619 ], [ 39.088415, 48.650836 ], [ 39.081322, 48.649774 ], [ 39.081579, 48.642652 ], [ 39.099196999000071, 48.644824 ], [ 39.108068999000068, 48.644679 ], [ 39.110596999000052, 48.647686 ], [ 39.121244, 48.649555 ], [ 39.119959, 48.652279 ] ] ] } }
+]
+}

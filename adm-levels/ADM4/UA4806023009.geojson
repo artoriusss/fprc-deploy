@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062499506003, "Shape_Area": 0.00014183657674300001, "ADM4_EN": "Ternuvate", "ADM4_UA": "Тернувате", "ADM4_PCODE": "UA4806023009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Olshanska", "ADM3_UA": "Ольшанська", "ADM3_PCODE": "UA4806023", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.779215004000037, 47.199068 ], [ 31.775018461000059, 47.201858179000055 ], [ 31.771109372000069, 47.198694438000075 ], [ 31.772653658000024, 47.193905607000033 ], [ 31.778703003000032, 47.192439 ], [ 31.78374300400003, 47.192607 ], [ 31.785479004000024, 47.189676001000066 ], [ 31.794950005000032, 47.191001 ], [ 31.793464005000033, 47.195965001000047 ], [ 31.779215004000037, 47.199068 ] ] ] } }
+]
+}

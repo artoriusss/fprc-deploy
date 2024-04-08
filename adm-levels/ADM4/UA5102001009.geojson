@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.048620464888699998, "Shape_Area": 7.5723284777700004e-05, "ADM4_EN": "Novohryhorivka", "ADM4_UA": "Новогригорівка", "ADM4_PCODE": "UA5102001009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Andriievo-Ivanivska", "ADM3_UA": "Андрієво-Іванівська", "ADM3_PCODE": "UA5102001", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.320392938000055, 47.559697915000072 ], [ 30.312828512000067, 47.558927941000036 ], [ 30.313947, 47.552844 ], [ 30.311372999000071, 47.551021 ], [ 30.31412, 47.546619 ], [ 30.31807400100007, 47.546977 ], [ 30.316492, 47.553874 ], [ 30.321115, 47.556349 ], [ 30.320392938000055, 47.559697915000072 ] ] ] } }
+]
+}

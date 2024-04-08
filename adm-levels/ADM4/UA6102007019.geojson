@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.081297149125300006, "Shape_Area": 0.00012482920025200001, "ADM4_EN": "Zeblazy", "ADM4_UA": "Зеблази", "ADM4_PCODE": "UA6102007019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kremenetska", "ADM3_UA": "Кременецька", "ADM3_PCODE": "UA6102007", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.765262258000064, 50.097031799000035 ], [ 25.76925, 50.094962 ], [ 25.78511099900004, 50.094063 ], [ 25.781587001000048, 50.096515 ], [ 25.784345, 50.099777 ], [ 25.776602, 50.099581 ], [ 25.772322, 50.102814 ], [ 25.77206, 50.106798 ], [ 25.764056362000076, 50.101799449000055 ], [ 25.765262258000064, 50.097031799000035 ] ] ] } }
+]
+}

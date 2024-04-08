@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.048715508644899999, "Shape_Area": 0.000133397683672, "ADM4_EN": "Hlyboch", "ADM4_UA": "Глибоч", "ADM4_PCODE": "UA4608009007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ralivska", "ADM3_UA": "Ралівська", "ADM3_PCODE": "UA4608009", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.274636429000054, 49.456334017000074 ], [ 23.275805429000059, 49.459044017000053 ], [ 23.262538434000078, 49.461524017000045 ], [ 23.257302435000042, 49.456594017000043 ], [ 23.265090433000069, 49.45071101700006 ], [ 23.27258542800007, 49.451198017000081 ], [ 23.274636429000054, 49.456334017000074 ] ] ] } }
+]
+}

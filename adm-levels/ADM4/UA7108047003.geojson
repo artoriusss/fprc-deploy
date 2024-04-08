@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.093813255485700006, "Shape_Area": 0.000126147707068, "ADM4_EN": "Nechaivka", "ADM4_UA": "Нечаївка", "ADM4_PCODE": "UA7108047003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chervonoslobidska", "ADM3_UA": "Червонослобідська", "ADM3_PCODE": "UA7108047", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.140686999000025, 49.301208 ], [ 32.146227, 49.30151 ], [ 32.151971999000068, 49.297694 ], [ 32.162042, 49.298352 ], [ 32.172559, 49.294729 ], [ 32.177190136000036, 49.296881564000046 ], [ 32.170406317000072, 49.298935837000045 ], [ 32.151088, 49.302775 ], [ 32.151907, 49.304801 ], [ 32.144126, 49.306128 ], [ 32.140686999000025, 49.301208 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.074948333687599997, "Shape_Area": 7.6839563720700003e-05, "ADM4_EN": "Martyny", "ADM4_UA": "Мартини", "ADM4_PCODE": "UA4614003033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mostyska", "ADM3_UA": "Мостиська", "ADM3_PCODE": "UA4614003", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.148787491000064, 49.883222019000073 ], [ 23.13963149500006, 49.883294019000061 ], [ 23.127657500000055, 49.87946301900007 ], [ 23.131412825000041, 49.874026943000047 ], [ 23.134532223000065, 49.873734409000065 ], [ 23.137287496000056, 49.880147019000049 ], [ 23.144841493000058, 49.881601019000072 ], [ 23.148787491000064, 49.883222019000073 ] ] ] } }
+]
+}

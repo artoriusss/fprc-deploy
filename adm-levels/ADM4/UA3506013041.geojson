@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.142566929083, "Shape_Area": 0.00021397046129100001, "ADM4_EN": "Rubanyi Mist", "ADM4_UA": "Рубаний Міст", "ADM4_PCODE": "UA3506013041", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novomyrhorodska", "ADM3_UA": "Новомиргородська", "ADM3_PCODE": "UA3506013", "ADM2_EN": "Novoukrainskyi", "ADM2_UA": "Новоукраїнський", "ADM2_PCODE": "UA3506", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.492433, 48.778442 ], [ 31.491236, 48.780603 ], [ 31.485464, 48.779135 ], [ 31.487041999000041, 48.775236 ], [ 31.481991, 48.771355 ], [ 31.471755001000076, 48.768382 ], [ 31.476177, 48.766055 ], [ 31.482157, 48.76709 ], [ 31.485441, 48.771771 ], [ 31.490675, 48.774537 ], [ 31.498458, 48.774980999000036 ], [ 31.508932, 48.769885 ], [ 31.513293001000079, 48.777738 ], [ 31.505514, 48.777176 ], [ 31.492433, 48.778442 ] ] ] } }
+]
+}

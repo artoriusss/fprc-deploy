@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.105099058636, "Shape_Area": 0.000275689467492, "ADM4_EN": "Kostiantynivka", "ADM4_UA": "Костянтинівка", "ADM4_PCODE": "UA6506013001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kostiantynivska", "ADM3_UA": "Костянтинівська", "ADM3_PCODE": "UA6506013", "ADM2_EN": "Kakhovskyi", "ADM2_UA": "Каховський", "ADM2_PCODE": "UA6506", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.874657, 46.833221 ], [ 33.874032, 46.835217 ], [ 33.866382, 46.834268 ], [ 33.848804, 46.830146 ], [ 33.850868, 46.826169 ], [ 33.861558, 46.826115 ], [ 33.860563, 46.82894 ], [ 33.865370001000031, 46.830501 ], [ 33.864553, 46.823022 ], [ 33.866366, 46.817492 ], [ 33.871134, 46.821957 ], [ 33.886235999000064, 46.823054 ], [ 33.884999, 46.826888 ], [ 33.878258, 46.828108 ], [ 33.874687, 46.830436 ], [ 33.874657, 46.833221 ] ] ] } }
+]
+}

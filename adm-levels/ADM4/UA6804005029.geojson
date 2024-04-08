@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.091174502047700001, "Shape_Area": 0.00023057073863, "ADM4_EN": "Fashchiivka", "ADM4_UA": "Фащіївка", "ADM4_PCODE": "UA6804005029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vinkovetska", "ADM3_UA": "Віньковецька", "ADM3_PCODE": "UA6804005", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.17785, 49.180204 ], [ 27.176879001000032, 49.181624 ], [ 27.164058, 49.182052 ], [ 27.163206, 49.180039 ], [ 27.157238001000053, 49.17887 ], [ 27.15723299900003, 49.16861 ], [ 27.158889, 49.16604 ], [ 27.166596001000073, 49.168051 ], [ 27.16529, 49.170266 ], [ 27.175943, 49.173234 ], [ 27.175818, 49.177785 ], [ 27.17785, 49.180204 ] ] ] } }
+]
+}

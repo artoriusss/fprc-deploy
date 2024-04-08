@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.063874516551900004, "Shape_Area": 0.000113594535854, "ADM4_EN": "Pletenychi", "ADM4_UA": "Плетеничі", "ADM4_PCODE": "UA4606033040", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Peremyshlianska", "ADM3_UA": "Перемишлянська", "ADM3_PCODE": "UA4606033", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.647455112000046, 49.623030004000043 ], [ 24.644761114000062, 49.620636004000062 ], [ 24.649492114000054, 49.617919004000044 ], [ 24.660810111000046, 49.616830004000064 ], [ 24.661587112000063, 49.619631004000041 ], [ 24.665887111000075, 49.619253004000029 ], [ 24.668112111000028, 49.622099004000063 ], [ 24.655766113000027, 49.623255004000043 ], [ 24.647455112000046, 49.623030004000043 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.078561503908500002, "Shape_Area": 8.1230169141800006e-05, "ADM4_EN": "Hrunivka", "ADM4_UA": "Грунівка", "ADM4_PCODE": "UA5908017006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myropilska", "ADM3_UA": "Миропільська", "ADM3_PCODE": "UA5908017", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.122551, 50.997651 ], [ 35.115867782000066, 50.998119528000075 ], [ 35.113142, 50.994282 ], [ 35.108744999000066, 50.994511 ], [ 35.106771556000069, 50.997304608000036 ], [ 35.100138, 50.99602 ], [ 35.104697999000052, 50.991647 ], [ 35.106109, 50.988817 ], [ 35.110542, 50.991162 ], [ 35.116423, 50.996085 ], [ 35.122551, 50.997651 ] ] ] } }
+]
+}

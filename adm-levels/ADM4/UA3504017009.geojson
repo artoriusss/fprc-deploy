@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.074574007109500004, "Shape_Area": 0.00016003402998399999, "ADM4_EN": "Bredykhyne", "ADM4_UA": "Бредихине", "ADM4_PCODE": "UA3504017009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ketrysanivska", "ADM3_UA": "Кетрисанівська", "ADM3_PCODE": "UA3504017", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.842952635000074, 48.100722264000069 ], [ 31.837609292000025, 48.102832678000027 ], [ 31.833161, 48.10129 ], [ 31.836101124000038, 48.096672835000049 ], [ 31.840196086000049, 48.092433864000043 ], [ 31.855622125000025, 48.095111890000055 ], [ 31.856490930000064, 48.100000606000037 ], [ 31.853132801000072, 48.10158589100007 ], [ 31.848361794000027, 48.100383621000049 ], [ 31.842952635000074, 48.100722264000069 ] ] ] } }
+]
+}

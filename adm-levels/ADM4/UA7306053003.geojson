@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.19645728239, "Shape_Area": 0.000211880114868, "ADM4_EN": "Pryvoroky", "ADM4_UA": "Привороки", "ADM4_PCODE": "UA7306053003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tarashanska", "ADM3_UA": "Тарашанська", "ADM3_PCODE": "UA7306053", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.051687973000071, 48.091018593000058 ], [ 26.041054, 48.097251 ], [ 26.034438, 48.099944 ], [ 26.043002, 48.106438 ], [ 26.041723, 48.109302 ], [ 26.037241999000059, 48.109332 ], [ 26.03319, 48.103652 ], [ 26.026928, 48.104389 ], [ 26.025323, 48.101049 ], [ 26.048085999000023, 48.09094 ], [ 26.05067561900006, 48.088411442000051 ], [ 26.051687973000071, 48.091018593000058 ] ] ] } }
+]
+}

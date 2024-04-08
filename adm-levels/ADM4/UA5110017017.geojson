@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0475712618191, "Shape_Area": 0.00014488042667000001, "ADM4_EN": "Stepove", "ADM4_UA": "Степове", "ADM4_PCODE": "UA5110017017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dobroslavska", "ADM3_UA": "Доброславська", "ADM3_PCODE": "UA5110017", "ADM2_EN": "Odeskyi", "ADM2_UA": "Одеський", "ADM2_PCODE": "UA5110", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.763088, 46.787204 ], [ 30.751353, 46.786326 ], [ 30.748965, 46.780987 ], [ 30.748852, 46.776612 ], [ 30.758625, 46.775480999000081 ], [ 30.763101, 46.776086 ], [ 30.763088, 46.787204 ] ] ] } }
+]
+}

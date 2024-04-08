@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.080234647874400003, "Shape_Area": 0.00017294592128900001, "ADM4_EN": "Sofiivka", "ADM4_UA": "Софіївка", "ADM4_PCODE": "UA5102015018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykolaivska", "ADM3_UA": "Миколаївська", "ADM3_PCODE": "UA5102015", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.682314999000027, 47.565866 ], [ 30.677601, 47.562333 ], [ 30.670734, 47.562318 ], [ 30.664911, 47.560615 ], [ 30.664306, 47.552397 ], [ 30.66650213500003, 47.550306805000048 ], [ 30.671372, 47.55247 ], [ 30.67826, 47.552108 ], [ 30.679232, 47.554479 ], [ 30.683424001000049, 47.555509 ], [ 30.679125001000045, 47.563598 ], [ 30.682314999000027, 47.565866 ] ] ] } }
+]
+}

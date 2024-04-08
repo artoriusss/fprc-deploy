@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.056931261348299997, "Shape_Area": 4.8404195946100003e-05, "ADM4_EN": "Pryluzhzhia", "ADM4_UA": "Прилужжя", "ADM4_PCODE": "UA5902001009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bochechkivska", "ADM3_UA": "Бочечківська", "ADM3_PCODE": "UA5902001", "ADM2_EN": "Konotopskyi", "ADM2_UA": "Конотопський", "ADM2_PCODE": "UA5902", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.502170999000043, 51.392255 ], [ 33.496446, 51.391284 ], [ 33.497392, 51.388353 ], [ 33.507738, 51.386604 ], [ 33.508668, 51.390431 ], [ 33.504373001000033, 51.389586 ], [ 33.502170999000043, 51.392255 ] ] ] } }
+]
+}

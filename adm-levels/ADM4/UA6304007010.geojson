@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.023379526196900001, "Shape_Area": 1.7574937667400002e-05, "ADM4_EN": "Chervona Hirka", "ADM4_UA": "Червона Гірка", "ADM4_PCODE": "UA6304007010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Donetska", "ADM3_UA": "Донецька", "ADM3_PCODE": "UA6304007", "ADM2_EN": "Iziumskyi", "ADM2_UA": "Ізюмський", "ADM2_PCODE": "UA6304", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.621833500000037, 49.469805500000064 ], [ 36.619876499000043, 49.469699 ], [ 36.616282999000077, 49.466293 ], [ 36.61818, 49.465338 ], [ 36.622091999000077, 49.467969 ], [ 36.621833500000037, 49.469805500000064 ] ] ] } }
+]
+}

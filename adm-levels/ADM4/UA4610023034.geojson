@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.055791277370400003, "Shape_Area": 8.2170891278399996e-05, "ADM4_EN": "Pukenychi", "ADM4_UA": "Пукеничі", "ADM4_PCODE": "UA4610023034", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stryiska", "ADM3_UA": "Стрийська", "ADM3_PCODE": "UA4610023", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.931656230000044, 49.327570008000066 ], [ 23.928415229000052, 49.327667008000049 ], [ 23.920989232000068, 49.324534009000047 ], [ 23.920205231000068, 49.320972009000059 ], [ 23.932134229000042, 49.323001009000052 ], [ 23.937391228000024, 49.32624000800007 ], [ 23.935728227000027, 49.328646009000067 ], [ 23.931656230000044, 49.327570008000066 ] ] ] } }
+]
+}

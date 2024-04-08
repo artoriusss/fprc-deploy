@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057667584241100002, "Shape_Area": 5.57746672225e-05, "ADM4_EN": "Khmarivka", "ADM4_UA": "Хмарівка", "ADM4_PCODE": "UA6312001009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bezliudivska", "ADM3_UA": "Безлюдівська", "ADM3_PCODE": "UA6312001", "ADM2_EN": "Kharkivskyi", "ADM2_UA": "Харківський", "ADM2_PCODE": "UA6312", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.416178, 49.804953 ], [ 36.40389500100008, 49.806534 ], [ 36.407041999000057, 49.80067 ], [ 36.409319001000028, 49.799349 ], [ 36.415365, 49.799945 ], [ 36.418879680000032, 49.801837285000033 ], [ 36.416178, 49.804953 ] ] ] } }
+]
+}

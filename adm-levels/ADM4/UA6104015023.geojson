@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.078772477605999994, "Shape_Area": 0.000165660647873, "ADM4_EN": "Kydantsi", "ADM4_UA": "Киданці", "ADM4_PCODE": "UA6104015023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zbarazka", "ADM3_UA": "Збаразька", "ADM3_PCODE": "UA6104015", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.874020207000058, 49.57352393900004 ], [ 25.868278001000078, 49.574049 ], [ 25.857527, 49.573021 ], [ 25.854030963000071, 49.569019363000052 ], [ 25.86292643400003, 49.563583251000068 ], [ 25.868726365000043, 49.567217677000031 ], [ 25.877011350000032, 49.57020458900007 ], [ 25.874020207000058, 49.57352393900004 ] ] ] } }
+]
+}

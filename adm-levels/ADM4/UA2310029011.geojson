@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.094397848503399995, "Shape_Area": 0.000167694692784, "ADM4_EN": "Shevchenka", "ADM4_UA": "Шевченка", "ADM4_PCODE": "UA2310029011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Fedorivska", "ADM3_UA": "Федорівська", "ADM3_PCODE": "UA2310029", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.464349861000073, 47.578462234000028 ], [ 36.457979278000039, 47.580660528000067 ], [ 36.454754937000075, 47.574834705000058 ], [ 36.46895623000006, 47.571650850000026 ], [ 36.468442034000077, 47.570275902000049 ], [ 36.482273791000068, 47.567055587000027 ], [ 36.482937019000076, 47.570068160000062 ], [ 36.475248578000048, 47.572222530000033 ], [ 36.475626813000076, 47.575943971000072 ], [ 36.464349861000073, 47.578462234000028 ] ] ] } }
+]
+}

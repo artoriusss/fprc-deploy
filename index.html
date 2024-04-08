@@ -15,7 +15,33 @@
 </head>
 <body>
 
-<div id="container"></div>
+    <div class="main">
+        <div id="container"></div>
+    
+        <div class="row d-flex justify-content-center main">
+            <div class="col-md-6 text-center">
+                <label for="obj-category" class="mt-4">Категорія обʼєкту:</label>
+                <select name="obj-category" id="obj-category" class="form-select">
+                    <option value="all">Всі</option>
+                    <option value="Транспорт">Транспорт</option>
+                    <option value="Освіта">Освіта</option>
+                    <option value="Медицина">Медицина</option>
+                    <option value="Житло">Житло</option>
+                    <option value="Адміністративні">Адміністративні</option>
+                    <option value="Інше">Інше</option>
+                </select>
+            </div>
+            <div class="col-md-6 text-center">
+                <label for="settlement-type" class="mt-4">Населений пункт:</label>
+                <select name="settlement-type" id="settlement-type" class="form-select">
+                    <option value="all">Всі</option>
+                    <option value="місто">Місто</option>
+                    <option value="селище">Селище</option>
+                    <option value="село">Село</option>
+                </select>
+            </div>
+        </div>
+    </div>
 
 <script src="https://code.highcharts.com/maps/highmaps.js"></script>
 <script src="https://code.highcharts.com/maps/modules/data.js"></script>
@@ -26,7 +52,7 @@
 <script src="https://code.highcharts.com/maps/modules/tiledwebmap.js"></script>
 <script src="https://code.highcharts.com/maps/modules/debugger.js"></script>
 
-<script src="index.js"></script>
+<script type="module" src="index.js"></script>
 
 </body>
 </html>

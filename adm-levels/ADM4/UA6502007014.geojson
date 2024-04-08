@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.073254594286399993, "Shape_Area": 0.00025482184759600002, "ADM4_EN": "Novovoznesenske", "ADM4_UA": "Нововознесенське", "ADM4_PCODE": "UA6502007014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vysokopilska", "ADM3_UA": "Високопільська", "ADM3_PCODE": "UA6502007", "ADM2_EN": "Beryslavskyi", "ADM2_UA": "Бериславський", "ADM2_PCODE": "UA6502", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.595592001000057, 47.418579 ], [ 33.597159, 47.421489 ], [ 33.601489, 47.421801 ], [ 33.602641, 47.425757 ], [ 33.606207999000048, 47.426335 ], [ 33.605398, 47.429664 ], [ 33.609484001000055, 47.430199 ], [ 33.607286999000053, 47.439479 ], [ 33.590262001000042, 47.437653 ], [ 33.594008, 47.418465 ], [ 33.595592001000057, 47.418579 ] ] ] } }
+]
+}

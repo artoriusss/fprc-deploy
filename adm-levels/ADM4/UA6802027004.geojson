@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.073214679858700005, "Shape_Area": 0.00014615079418600001, "ADM4_EN": "Huta-Chuhorska", "ADM4_UA": "Гута-Чугорська", "ADM4_PCODE": "UA6802027004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Staroushytska", "ADM3_UA": "Староушицька", "ADM3_PCODE": "UA6802027", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.047801001000039, 48.703479 ], [ 27.049204001000078, 48.691706 ], [ 27.050815, 48.689204 ], [ 27.0614, 48.689019 ], [ 27.058336, 48.692743 ], [ 27.060593001000029, 48.696137 ], [ 27.056151, 48.698783 ], [ 27.055747, 48.701746 ], [ 27.05011999900006, 48.700829 ], [ 27.047801001000039, 48.703479 ] ] ] } }
+]
+}

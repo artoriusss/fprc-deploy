@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.104728652836, "Shape_Area": 0.00015377705784699999, "ADM4_EN": "Morozivka", "ADM4_UA": "Морозівка", "ADM4_PCODE": "UA3508009004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pantaivska", "ADM3_UA": "Пантаївська", "ADM3_PCODE": "UA3508009", "ADM2_EN": "Oleksandriiskyi", "ADM2_UA": "Олександрійський", "ADM2_PCODE": "UA3508", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.929777087000048, 48.73199106900006 ], [ 32.919527, 48.734958 ], [ 32.918638999000052, 48.730465 ], [ 32.922965, 48.730612 ], [ 32.909916001000056, 48.717401 ], [ 32.906583999000077, 48.718586 ], [ 32.904054, 48.711523 ], [ 32.906518, 48.706639 ], [ 32.910081, 48.713678 ], [ 32.927105, 48.730628 ], [ 32.929777087000048, 48.73199106900006 ] ] ] } }
+]
+}

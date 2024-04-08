@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062855166408799998, "Shape_Area": 7.5440547121600001e-05, "ADM4_EN": "Sofiivka", "ADM4_UA": "Софіївка", "ADM4_PCODE": "UA3506021025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rivnianska", "ADM3_UA": "Рівнянська", "ADM3_PCODE": "UA3506021", "ADM2_EN": "Novoukrainskyi", "ADM2_UA": "Новоукраїнський", "ADM2_PCODE": "UA3506", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.646273, 48.167455 ], [ 31.645071999000038, 48.164343 ], [ 31.651181, 48.160835 ], [ 31.654451001000041, 48.157258 ], [ 31.659636, 48.157977 ], [ 31.658721, 48.161147 ], [ 31.648238, 48.167851 ], [ 31.646273, 48.167455 ] ] ] } }
+]
+}

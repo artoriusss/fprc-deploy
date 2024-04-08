@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.034475562699700001, "Shape_Area": 5.3675720211900003e-05, "ADM4_EN": "Altestove", "ADM4_UA": "Алтестове", "ADM4_PCODE": "UA5110023002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nerubaiska", "ADM3_UA": "Нерубайська", "ADM3_PCODE": "UA5110023", "ADM2_EN": "Odeskyi", "ADM2_UA": "Одеський", "ADM2_PCODE": "UA5110", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.550404999000079, 46.632422 ], [ 30.549707, 46.63828 ], [ 30.545681, 46.634782 ], [ 30.544709, 46.629875 ], [ 30.548762, 46.625914 ], [ 30.551162, 46.627334 ], [ 30.550404999000079, 46.632422 ] ] ] } }
+]
+}

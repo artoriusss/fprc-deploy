@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.027316754226400002, "Shape_Area": 3.06319956578e-05, "ADM4_EN": "Berezan", "ADM4_UA": "Березань", "ADM4_PCODE": "UA4806035003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chornomorska", "ADM3_UA": "Чорноморська", "ADM3_PCODE": "UA4806035", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.551212712000051, 46.744127751000065 ], [ 31.546551580000028, 46.742869054000039 ], [ 31.546531402000028, 46.739755597000055 ], [ 31.552847431000032, 46.74126373100006 ], [ 31.551212712000051, 46.744127751000065 ] ] ] } }
+]
+}

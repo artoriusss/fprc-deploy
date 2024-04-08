@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.117527079629, "Shape_Area": 0.00019521528529000001, "ADM4_EN": "Lukashivka", "ADM4_UA": "Лукашівка", "ADM4_PCODE": "UA7104011005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zorivska", "ADM3_UA": "Зорівська", "ADM3_PCODE": "UA7104011", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.237986, 49.782157 ], [ 32.236968, 49.79062 ], [ 32.24034, 49.795243 ], [ 32.232403, 49.79579 ], [ 32.230046999000024, 49.786145 ], [ 32.228431, 49.782403 ], [ 32.234938001000046, 49.781467 ], [ 32.235477, 49.773123 ], [ 32.228967999000076, 49.763542 ], [ 32.229182, 49.760693 ], [ 32.232847, 49.758078 ], [ 32.232084, 49.76436 ], [ 32.238168, 49.774741 ], [ 32.237986, 49.782157 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.032898189410500003, "Shape_Area": 4.4708422440200001e-05, "ADM4_EN": "Lisne", "ADM4_UA": "Лісне", "ADM4_PCODE": "UA4408001022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Antratsytivska", "ADM3_UA": "Антрацитівська", "ADM3_PCODE": "UA4408001", "ADM2_EN": "Rovenkivskyi", "ADM2_UA": "Ровеньківський", "ADM2_PCODE": "UA4408", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.01217992200003, 48.196891470000025 ], [ 39.017931293000061, 48.195356036000078 ], [ 39.023944356000072, 48.199042371000075 ], [ 39.023089747000029, 48.202096488000052 ], [ 39.019002206000039, 48.202925624000045 ], [ 39.017649781000046, 48.199767252000072 ], [ 39.01217992200003, 48.196891470000025 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.14126138203700001, "Shape_Area": 0.000172956360997, "ADM4_EN": "Moshenka", "ADM4_UA": "Мошенка", "ADM4_PCODE": "UA5904015022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chernechchynska", "ADM3_UA": "Чернеччинська", "ADM3_PCODE": "UA5904015", "ADM2_EN": "Okhtyrskyi", "ADM2_UA": "Охтирський", "ADM2_PCODE": "UA5904", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.893594, 50.256023 ], [ 34.895241, 50.2532 ], [ 34.906489, 50.248627 ], [ 34.901768, 50.244706 ], [ 34.907222, 50.24078 ], [ 34.913836, 50.244155 ], [ 34.915062, 50.239797 ], [ 34.919810999000049, 50.23784 ], [ 34.916621001000067, 50.245832 ], [ 34.924791, 50.240355 ], [ 34.924434, 50.244439 ], [ 34.921645999000077, 50.244024 ], [ 34.90835, 50.252385 ], [ 34.897296999000048, 50.255967 ], [ 34.893594, 50.256023 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.067805343327299997, "Shape_Area": 0.000216265944429, "ADM4_EN": "Krasnosilka", "ADM4_UA": "Красносілка", "ADM4_PCODE": "UA6804015017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Derazhnianska", "ADM3_UA": "Деражнянська", "ADM3_PCODE": "UA6804015", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.264282, 49.268194 ], [ 27.258811206000075, 49.265216414000065 ], [ 27.26033, 49.260917 ], [ 27.268294, 49.256209 ], [ 27.269097, 49.253229 ], [ 27.278487999000049, 49.253166 ], [ 27.278038, 49.257743 ], [ 27.281819, 49.259182 ], [ 27.280505, 49.261985 ], [ 27.271537, 49.266404 ], [ 27.264282, 49.268194 ] ] ] } }
+]
+}

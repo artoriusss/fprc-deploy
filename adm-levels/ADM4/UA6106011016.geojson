@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.076665909395700005, "Shape_Area": 0.000132597047371, "ADM4_EN": "Mali Birky", "ADM4_UA": "Малі Бірки", "ADM4_PCODE": "UA6106011016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hrymailivska", "ADM3_UA": "Гримайлівська", "ADM3_PCODE": "UA6106011", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 26.098276999000063, 49.250601 ], [ 26.093739980000066, 49.250998628000048 ], [ 26.093607, 49.24851 ], [ 26.096669309000049, 49.243254318000027 ], [ 26.103052982000065, 49.243405947000042 ], [ 26.107440445000066, 49.249854427000059 ], [ 26.098276999000063, 49.250601 ] ] ], [ [ [ 26.108419999000034, 49.247263 ], [ 26.103838, 49.242513 ], [ 26.112244481000062, 49.237638864000076 ], [ 26.112234, 49.241782 ], [ 26.109478341000056, 49.243538042000068 ], [ 26.108419999000034, 49.247263 ] ] ] ] } }
+]
+}

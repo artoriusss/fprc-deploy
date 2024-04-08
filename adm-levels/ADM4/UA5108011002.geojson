@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13614149001100001, "Shape_Area": 0.00048817505151899998, "ADM4_EN": "Kyrnychky", "ADM4_UA": "Кирнички", "ADM4_PCODE": "UA5108011002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Suvorovska", "ADM3_UA": "Суворовська", "ADM3_PCODE": "UA5108011", "ADM2_EN": "Izmailskyi", "ADM2_UA": "Ізмаїльський", "ADM2_PCODE": "UA5108", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.058125, 45.723487 ], [ 29.051640001000067, 45.722903 ], [ 29.053152, 45.716823 ], [ 29.05709, 45.709339 ], [ 29.056307, 45.707239 ], [ 29.063363, 45.697985 ], [ 29.06576, 45.692604 ], [ 29.06714899900004, 45.686631 ], [ 29.071888, 45.687331 ], [ 29.070209, 45.697882 ], [ 29.077608, 45.696265 ], [ 29.077137, 45.70506 ], [ 29.074058, 45.715327 ], [ 29.078988, 45.718008 ], [ 29.06405, 45.716265 ], [ 29.058125, 45.723487 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.044699401131400002, "Shape_Area": 4.69561903176e-05, "ADM4_EN": "Chervona Dacha", "ADM4_UA": "Червона Дача", "ADM4_PCODE": "UA7104021023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shramkivska", "ADM3_UA": "Шрамківська", "ADM3_PCODE": "UA7104021", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.007102360000033, 50.137261420000073 ], [ 31.99726109900007, 50.142221798000037 ], [ 31.994935, 50.140295 ], [ 32.007638490000033, 50.13379554900007 ], [ 32.007102360000033, 50.137261420000073 ] ] ] } }
+]
+}

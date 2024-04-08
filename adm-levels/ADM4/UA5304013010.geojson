@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13359810617599999, "Shape_Area": 0.00043071564486999998, "ADM4_EN": "Hiltsi", "ADM4_UA": "Гільці", "ADM4_PCODE": "UA5304013010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chornukhynska", "ADM3_UA": "Чорнухинська", "ADM3_PCODE": "UA5304013", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.949119, 50.338114 ], [ 32.948214, 50.335006 ], [ 32.944837, 50.336142 ], [ 32.937860999000065, 50.334971 ], [ 32.937941, 50.323888 ], [ 32.942742999000075, 50.324729 ], [ 32.944561, 50.322796 ], [ 32.954212999000049, 50.319607 ], [ 32.955137999000044, 50.31806 ], [ 32.961818, 50.316228 ], [ 32.959437, 50.320444 ], [ 32.968579233000071, 50.322419553000032 ], [ 32.967705624000075, 50.328710217000037 ], [ 32.964428, 50.334833 ], [ 32.957718001000046, 50.332892 ], [ 32.949119, 50.338114 ] ] ] } }
+]
+}

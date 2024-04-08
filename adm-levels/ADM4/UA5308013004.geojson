@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070174366178000006, "Shape_Area": 0.00014307435971, "ADM4_EN": "Brodshchyna", "ADM4_UA": "Бродщина", "ADM4_PCODE": "UA5308013004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kobeliatska", "ADM3_UA": "Кобеляцька", "ADM3_PCODE": "UA5308013", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.357527, 49.045665 ], [ 34.347102, 49.042351 ], [ 34.341204, 49.038525 ], [ 34.336717, 49.041829 ], [ 34.334861876000048, 49.040877819000059 ], [ 34.342409162000024, 49.03527484500006 ], [ 34.349296, 49.031488 ], [ 34.357147, 49.036609 ], [ 34.353413, 49.041337 ], [ 34.357527, 49.045665 ] ] ] } }
+]
+}

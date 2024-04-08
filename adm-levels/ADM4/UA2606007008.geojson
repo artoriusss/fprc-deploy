@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.073601063289, "Shape_Area": 8.0468467696400003e-05, "ADM4_EN": "Myslivka", "ADM4_UA": "Мислівка", "ADM4_PCODE": "UA2606007008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vyhodska", "ADM3_UA": "Вигодська", "ADM3_PCODE": "UA2606007", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 23.754903, 48.801299 ], [ 23.756361, 48.796318 ], [ 23.753647, 48.7925 ], [ 23.758219, 48.790931 ], [ 23.762854, 48.791234 ], [ 23.757472999000072, 48.799408 ], [ 23.754903, 48.801299 ] ] ], [ [ [ 23.77122, 48.789599 ], [ 23.768229, 48.788728 ], [ 23.769735001000072, 48.783781 ], [ 23.774023, 48.786071 ], [ 23.77122, 48.789599 ] ] ] ] } }
+]
+}

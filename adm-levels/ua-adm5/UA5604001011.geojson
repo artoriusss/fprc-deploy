@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.016542871584900001, "Shape_Area": 1.0449261202000001e-05, "ADM4_EN": "Pekaliv", "ADM4_UA": "ÐÐµÐºÐ°Ð»ÑÐ²", "ADM4_RU": "ÐÐµÐºÐ°Ð»ÐµÐ²", "ADM4_PCODE": "UA5604001011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bokiimivska", "ADM3_UA": "ÐÐ¾ÐºÑÐ¹Ð¼ÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¾ÐºÐ¸Ð¹Ð¼Ð¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5604001", "ADM2_EN": "Dubenskyi", "ADM2_UA": "ÐÑÐ±ÐµÐ½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÑÐ±ÐµÐ½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5604", "ADM1_EN": "Rivnenska", "ADM1_UA": "Ð ÑÐ²Ð½ÐµÐ½ÑÑÐºÐ°", "ADM1_RU": "Ð Ð¾Ð²ÐµÐ½ÑÐºÐ°Ñ", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.664934706000054, 50.458326218000082 ], [ 25.666907523000077, 50.456393431000038 ], [ 25.665776826000069, 50.456294820000039 ], [ 25.664071517000025, 50.456622190000076 ], [ 25.662152922000075, 50.456254700000045 ], [ 25.659954138000046, 50.455968510000048 ], [ 25.659974545000068, 50.45770875200003 ], [ 25.664934706000054, 50.458326218000082 ] ] ] } }
-]
-}

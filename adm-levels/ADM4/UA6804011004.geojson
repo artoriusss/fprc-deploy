@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.16765618435400001, "Shape_Area": 0.00046614813956199997, "ADM4_EN": "Dobrohorshcha", "ADM4_UA": "Доброгорща", "ADM4_PCODE": "UA6804011004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hvardiiska", "ADM3_UA": "Гвардійська", "ADM3_PCODE": "UA6804011", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.647691, 49.353297 ], [ 26.636059, 49.356358 ], [ 26.635256999000035, 49.352433999000027 ], [ 26.624614, 49.352715 ], [ 26.616633481000065, 49.354721857000072 ], [ 26.612217, 49.350422 ], [ 26.624311, 49.345904 ], [ 26.637434, 49.343022 ], [ 26.638001, 49.345051 ], [ 26.645699001000025, 49.34429 ], [ 26.652699, 49.342753 ], [ 26.652752001000067, 49.339137 ], [ 26.657401, 49.338098001000048 ], [ 26.661222, 49.344746999000051 ], [ 26.661182, 49.346551 ], [ 26.675996, 49.346563 ], [ 26.647691, 49.353297 ] ] ] } }
+]
+}

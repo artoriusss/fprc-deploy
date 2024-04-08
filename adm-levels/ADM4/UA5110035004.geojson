@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.094835065030200005, "Shape_Area": 0.000223923073447, "ADM4_EN": "Nova Dofinivka", "ADM4_UA": "Нова Дофінівка", "ADM4_PCODE": "UA5110035004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Fontanska", "ADM3_UA": "Фонтанська", "ADM3_PCODE": "UA5110035", "ADM2_EN": "Odeskyi", "ADM2_UA": "Одеський", "ADM2_PCODE": "UA5110", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.913755, 46.591322 ], [ 30.909878999000057, 46.589497 ], [ 30.901222, 46.588233 ], [ 30.901, 46.580722 ], [ 30.903779, 46.577449 ], [ 30.90343, 46.574127 ], [ 30.909043749000034, 46.573628848000055 ], [ 30.916111173000047, 46.575161071000025 ], [ 30.920205, 46.577713 ], [ 30.916099999000039, 46.584177 ], [ 30.909797999000034, 46.583463 ], [ 30.908726, 46.586407 ], [ 30.913755, 46.591322 ] ] ] } }
+]
+}

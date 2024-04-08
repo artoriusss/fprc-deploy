@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070376630126100001, "Shape_Area": 0.000180907436049, "ADM4_EN": "Malokakhovka", "ADM4_UA": "Малокаховка", "ADM4_PCODE": "UA6506011004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kakhovska", "ADM3_UA": "Каховська", "ADM3_PCODE": "UA6506011", "ADM2_EN": "Kakhovskyi", "ADM2_UA": "Каховський", "ADM2_PCODE": "UA6506", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.458138999000028, 46.783329 ], [ 33.456617001000041, 46.785279 ], [ 33.447845001000076, 46.78876 ], [ 33.446958001000041, 46.786624 ], [ 33.437503, 46.77837 ], [ 33.44671, 46.773214 ], [ 33.458138999000028, 46.783329 ] ] ] } }
+]
+}

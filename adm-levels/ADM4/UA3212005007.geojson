@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.048796966845399997, "Shape_Area": 0.000110675972919, "ADM4_EN": "Horokhivske", "ADM4_UA": "Горохівське", "ADM4_PCODE": "UA3212005007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kaharlytska", "ADM3_UA": "Кагарлицька", "ADM3_PCODE": "UA3212005", "ADM2_EN": "Obukhivskyi", "ADM2_UA": "Обухівський", "ADM2_PCODE": "UA3212", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.741420852000033, 49.931977673000063 ], [ 30.742539779000026, 49.935292666000066 ], [ 30.735636893000049, 49.93626071400007 ], [ 30.737220807000028, 49.941444731000047 ], [ 30.731134883000038, 49.942075677000048 ], [ 30.727982850000046, 49.940656714000056 ], [ 30.726677818000041, 49.93564873300005 ], [ 30.731557916000042, 49.932353718000059 ], [ 30.735377831000051, 49.931143749000057 ], [ 30.741420852000033, 49.931977673000063 ] ] ] } }
+]
+}

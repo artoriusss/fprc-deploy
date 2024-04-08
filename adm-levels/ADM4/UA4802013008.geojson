@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0495532782625, "Shape_Area": 6.0220741092900002e-05, "ADM4_EN": "Vesela Balka", "ADM4_UA": "Весела Балка", "ADM4_PCODE": "UA4802013008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kazankivska", "ADM3_UA": "Казанківська", "ADM3_PCODE": "UA4802013", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 32.74417246400003, 47.879885641000044 ], [ 32.742115950000027, 47.885325858000044 ], [ 32.737747762000026, 47.884042401000045 ], [ 32.74417246400003, 47.879885641000044 ] ] ], [ [ [ 32.74161265500004, 47.879971841000042 ], [ 32.737753372000043, 47.878939861000049 ], [ 32.738822283000047, 47.874372364000067 ], [ 32.746011323000062, 47.87545936500004 ], [ 32.744499448000056, 47.879054863000079 ], [ 32.74161265500004, 47.879971841000042 ] ] ] ] } }
+]
+}

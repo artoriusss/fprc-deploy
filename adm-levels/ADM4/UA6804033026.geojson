@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.100528846676, "Shape_Area": 0.00026178808355300002, "ADM4_EN": "Shumivtsi", "ADM4_UA": "Шумівці", "ADM4_PCODE": "UA6804033026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozsoshanska", "ADM3_UA": "Розсошанська", "ADM3_PCODE": "UA6804033", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.041801, 49.355792 ], [ 27.039567001000023, 49.356519 ], [ 27.034646, 49.354365 ], [ 27.024268, 49.354806 ], [ 27.021875999000031, 49.347837 ], [ 27.02997, 49.347416 ], [ 27.044233999000028, 49.349237 ], [ 27.05257, 49.348626 ], [ 27.05703, 49.347384 ], [ 27.062378, 49.34781 ], [ 27.065379, 49.354094 ], [ 27.050338, 49.353598 ], [ 27.043925001000048, 49.353846 ], [ 27.041801, 49.355792 ] ] ] } }
+]
+}

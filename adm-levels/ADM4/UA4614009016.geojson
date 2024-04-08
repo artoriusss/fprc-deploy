@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0109721228603, "Shape_Area": 6.9072285479399999e-06, "ADM4_EN": "Lypky", "ADM4_UA": "Липки", "ADM4_PCODE": "UA4614009016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shehynivska", "ADM3_UA": "Шегинівська", "ADM3_PCODE": "UA4614009", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.083424517000026, 49.726520020000066 ], [ 23.084001517000047, 49.727814020000039 ], [ 23.080351519000033, 49.727895020000062 ], [ 23.080690519000029, 49.726236020000044 ], [ 23.083424517000026, 49.726520020000066 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070103223120100006, "Shape_Area": 0.00014375066797499999, "ADM4_EN": "Stanymyr", "ADM4_UA": "Станимир", "ADM4_PCODE": "UA4606033051", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Peremyshlianska", "ADM3_UA": "Перемишлянська", "ADM3_PCODE": "UA4606033", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.445434140000032, 49.735125005000043 ], [ 24.431599142000039, 49.739135005000037 ], [ 24.433358141000042, 49.736396005000074 ], [ 24.432361142000047, 49.732849005000048 ], [ 24.428601144000027, 49.729483005000077 ], [ 24.436949143000049, 49.730145005000054 ], [ 24.443654141000025, 49.728867005000041 ], [ 24.454128139000034, 49.72942600500005 ], [ 24.451618139000061, 49.73424800500004 ], [ 24.445434140000032, 49.735125005000043 ] ] ] } }
+]
+}

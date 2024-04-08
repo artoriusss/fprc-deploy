@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.114016097446, "Shape_Area": 0.00016443447413900001, "ADM4_EN": "Vilkhivchyk", "ADM4_UA": "Вільхівчик", "ADM4_PCODE": "UA7102025002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Selyshchenska", "ADM3_UA": "Селищенська", "ADM3_PCODE": "UA7102025", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.334000001000049, 49.422942 ], [ 31.334018530000037, 49.419279671000027 ], [ 31.339356790000068, 49.418392546000064 ], [ 31.346312714000078, 49.414957847000039 ], [ 31.347731426000053, 49.409187919000033 ], [ 31.35151023800006, 49.407833305000054 ], [ 31.361491016000059, 49.407629832000055 ], [ 31.360869999000045, 49.411623 ], [ 31.346708001000025, 49.420277 ], [ 31.336715234000053, 49.420360999000081 ], [ 31.334000001000049, 49.422942 ] ] ] } }
+]
+}

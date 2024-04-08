@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.096304482594699994, "Shape_Area": 0.00035810905946600001, "ADM4_EN": "Bahachka Persha", "ADM4_UA": "Багачка Перша", "ADM4_PCODE": "UA5306003002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykobahachanska", "ADM3_UA": "Великобагачанська", "ADM3_PCODE": "UA5306003", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.610502432000033, 49.713731378000034 ], [ 33.601545680000072, 49.710553684000047 ], [ 33.599697, 49.703204 ], [ 33.600403666000034, 49.699757077000072 ], [ 33.598815999000067, 49.69141 ], [ 33.594851, 49.691285 ], [ 33.598032, 49.68261 ], [ 33.609816048000027, 49.683172404000061 ], [ 33.608279999000047, 49.688828 ], [ 33.612827069000048, 49.702293593000036 ], [ 33.61442899900004, 49.702314 ], [ 33.610502432000033, 49.713731378000034 ] ] ] } }
+]
+}

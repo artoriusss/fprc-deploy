@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.116959112766, "Shape_Area": 0.00025603667271499998, "ADM4_EN": "Kryvets", "ADM4_UA": "Кривець", "ADM4_PCODE": "UA2604029005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Solotvynska", "ADM3_UA": "Солотвинська", "ADM3_PCODE": "UA2604029", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.362665067000023, 48.711639441000045 ], [ 24.360105, 48.715957 ], [ 24.354577, 48.7172 ], [ 24.338830999000038, 48.722135 ], [ 24.337699999000051, 48.724604 ], [ 24.330555, 48.727299 ], [ 24.319978, 48.728325 ], [ 24.318242, 48.724781 ], [ 24.330217, 48.72153 ], [ 24.33600399900007, 48.717211 ], [ 24.353333001000067, 48.711972 ], [ 24.356154840000045, 48.708440776000032 ], [ 24.362665067000023, 48.711639441000045 ] ] ] } }
+]
+}

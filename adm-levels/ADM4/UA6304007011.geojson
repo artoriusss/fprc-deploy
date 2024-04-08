@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.106794549832, "Shape_Area": 0.000104353795613, "ADM4_EN": "Shebelynka", "ADM4_UA": "Шебелинка", "ADM4_PCODE": "UA6304007011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Donetska", "ADM3_UA": "Донецька", "ADM3_PCODE": "UA6304007", "ADM2_EN": "Iziumskyi", "ADM2_UA": "Ізюмський", "ADM2_PCODE": "UA6304", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 36.521514, 49.448538 ], [ 36.51872, 49.449536 ], [ 36.520776, 49.454852 ], [ 36.518704500000069, 49.456596500000046 ], [ 36.514417, 49.447577 ], [ 36.521514, 49.448538 ] ] ], [ [ [ 36.531008001000032, 49.448344 ], [ 36.526139, 49.453531 ], [ 36.522782999000071, 49.45109 ], [ 36.529878, 49.444793 ], [ 36.531008001000032, 49.448344 ] ] ] ] } }
+]
+}

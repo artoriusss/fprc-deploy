@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.051700175725199998, "Shape_Area": 9.6928177614500003e-05, "ADM4_EN": "Porichchia Zadvirne", "ADM4_UA": "Поріччя Задвірне", "ADM4_PCODE": "UA4606003012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykoliubinska", "ADM3_UA": "Великолюбінська", "ADM3_PCODE": "UA4606003", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.708318289000033, 49.689293010000029 ], [ 23.706298291000053, 49.693057010000075 ], [ 23.699173292000069, 49.69620301100008 ], [ 23.696114293000051, 49.685327011000027 ], [ 23.700331292000044, 49.686798011000064 ], [ 23.702198292000048, 49.689137010000081 ], [ 23.706347290000053, 49.68317101100007 ], [ 23.710045290000039, 49.685594011000035 ], [ 23.708318289000033, 49.689293010000029 ] ] ] } }
+]
+}

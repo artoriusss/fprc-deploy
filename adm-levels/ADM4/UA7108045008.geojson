@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.050872044969499999, "Shape_Area": 7.7603581926300003e-05, "ADM4_EN": "Kholodnianske", "ADM4_UA": "Холоднянське", "ADM4_PCODE": "UA7108045008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ternivska", "ADM3_UA": "Тернівська", "ADM3_PCODE": "UA7108045", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.865494439000031, 49.188506043000075 ], [ 31.870194039000069, 49.182439551000073 ], [ 31.877874140000074, 49.185413888000028 ], [ 31.875123233000068, 49.189837881000074 ], [ 31.865494439000031, 49.188506043000075 ] ] ] } }
+]
+}

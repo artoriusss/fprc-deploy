@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.079248392242400004, "Shape_Area": 0.00012792867623, "ADM4_EN": "Horokhivka", "ADM4_UA": "Горохівка", "ADM4_PCODE": "UA4806005008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Voskresenska", "ADM3_UA": "Воскресенська", "ADM3_PCODE": "UA4806005", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.156983569000033, 46.996949910000069 ], [ 32.158840004000069, 47.000817 ], [ 32.164587004000055, 47.003911001000063 ], [ 32.162547950000032, 47.00574024000008 ], [ 32.159407005000048, 47.004526001000045 ], [ 32.150338004000048, 47.003298 ], [ 32.14944474400005, 46.997606938000047 ], [ 32.14307700300003, 46.99352900100007 ], [ 32.135276003000058, 46.989563001000079 ], [ 32.137135004000072, 46.988113 ], [ 32.154833004000068, 46.996529 ], [ 32.156983569000033, 46.996949910000069 ] ] ] } }
+]
+}

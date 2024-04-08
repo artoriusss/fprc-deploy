@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.065999435292100006, "Shape_Area": 0.00016811063482500001, "ADM4_EN": "Zemlianka", "ADM4_UA": "Землянка", "ADM4_PCODE": "UA3212005012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kaharlytska", "ADM3_UA": "Кагарлицька", "ADM3_PCODE": "UA3212005", "ADM2_EN": "Obukhivskyi", "ADM2_UA": "Обухівський", "ADM2_PCODE": "UA3212", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.745086176000029, 49.757905958000038 ], [ 30.739937170000076, 49.757908885000063 ], [ 30.741660169000056, 49.740243022000072 ], [ 30.740076207000072, 49.737335956000038 ], [ 30.747531195000079, 49.737798972000064 ], [ 30.750555180000049, 49.74963598000005 ], [ 30.74716716000006, 49.753550989000075 ], [ 30.745086176000029, 49.757905958000038 ] ] ] } }
+]
+}

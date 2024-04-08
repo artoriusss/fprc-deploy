@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.019145439016799999, "Shape_Area": 7.5070236643599998e-06, "ADM4_EN": "Shchekynske", "ADM4_UA": "Ð©ÐµÐºÐ¸Ð½ÑÑÐºÐµ", "ADM4_RU": "Ð©ÐµÐºÐ¸Ð½ÑÐºÐ¾Ðµ", "ADM4_PCODE": "UA5902001013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bochechkivska", "ADM3_UA": "ÐÐ¾ÑÐµÑÐºÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¾ÑÐµÑÐºÐ¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5902001", "ADM2_EN": "Konotopskyi", "ADM2_UA": "ÐÐ¾Ð½Ð¾ÑÐ¾Ð¿ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¾Ð½Ð¾ÑÐ¾Ð¿ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5902", "ADM1_EN": "Sumska", "ADM1_UA": "Ð¡ÑÐ¼ÑÑÐºÐ°", "ADM1_RU": "Ð¡ÑÐ¼ÑÐºÐ°Ñ", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.460947999000041, 51.307126 ], [ 33.461088999000026, 51.306174 ], [ 33.45237, 51.306178 ], [ 33.45226400100006, 51.306949 ], [ 33.460947999000041, 51.307126 ] ] ] } }
-]
-}

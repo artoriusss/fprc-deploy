@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.077674834885999994, "Shape_Area": 0.00013856505621600001, "ADM4_EN": "Berezanka", "ADM4_UA": "Березанка", "ADM4_PCODE": "UA7404009002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vertiivska", "ADM3_UA": "Вертіївська", "ADM3_PCODE": "UA7404009", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.990182840000045, 51.101258040000062 ], [ 31.977732961000072, 51.104566980000072 ], [ 31.974810841000078, 51.10041195000008 ], [ 31.970592001000057, 51.100866990000043 ], [ 31.970085120000078, 51.093080010000051 ], [ 31.971682079000061, 51.090741 ], [ 31.976091, 51.090677010000036 ], [ 31.979664, 51.096199950000027 ], [ 31.980493800000033, 51.101058060000071 ], [ 31.990182840000045, 51.101258040000062 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.023454028431300001, "Shape_Area": 3.4810112835499998e-05, "ADM4_EN": "Solyhy", "ADM4_UA": "Солиги", "ADM4_PCODE": "UA4614005017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoiavorivska", "ADM3_UA": "Новояворівська", "ADM3_PCODE": "UA4614005", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.536763344000065, 49.931039012000042 ], [ 23.537863345000062, 49.935762013000044 ], [ 23.534776344000022, 49.936713013000031 ], [ 23.530386713000041, 49.931984125000042 ], [ 23.53454634600007, 49.92902801300005 ], [ 23.536763344000065, 49.931039012000042 ] ] ] } }
+]
+}

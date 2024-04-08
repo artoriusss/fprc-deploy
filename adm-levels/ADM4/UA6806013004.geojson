@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.116067937229, "Shape_Area": 0.00016932912742899999, "ADM4_EN": "Velyka Rishnivka", "ADM4_UA": "Велика Рішнівка", "ADM4_PCODE": "UA6806013004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lenkovetska", "ADM3_UA": "Ленковецька", "ADM3_PCODE": "UA6806013", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.206358001000069, 50.098268 ], [ 27.197565001000044, 50.094061 ], [ 27.197878, 50.086485 ], [ 27.192808647000049, 50.087299385000051 ], [ 27.192249543000059, 50.083441821000065 ], [ 27.204182, 50.083295 ], [ 27.208891, 50.081423 ], [ 27.213357, 50.081361 ], [ 27.214383, 50.083502 ], [ 27.207082, 50.088715 ], [ 27.205695, 50.092256 ], [ 27.208081, 50.097017 ], [ 27.206358001000069, 50.098268 ] ] ] } }
+]
+}

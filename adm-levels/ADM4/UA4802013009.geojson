@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.050782125772899998, "Shape_Area": 0.000134048409145, "ADM4_EN": "Dmytrivka", "ADM4_UA": "Дмитрівка", "ADM4_PCODE": "UA4802013009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kazankivska", "ADM3_UA": "Казанківська", "ADM3_PCODE": "UA4802013", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.742017619000023, 47.952005177000046 ], [ 32.746001908000039, 47.957028968000031 ], [ 32.748976096000035, 47.957349610000051 ], [ 32.749081881000052, 47.966230397000061 ], [ 32.738645817000076, 47.967562290000046 ], [ 32.738094703000058, 47.962682918000041 ], [ 32.739277276000053, 47.956498722000049 ], [ 32.737590452000063, 47.951956807000045 ], [ 32.742017619000023, 47.952005177000046 ] ] ] } }
+]
+}

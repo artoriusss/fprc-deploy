@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.093499671569599999, "Shape_Area": 9.7080464379899998e-05, "ADM4_EN": "Bilokopytove", "ADM4_UA": "Білокопитове", "ADM4_PCODE": "UA5910003003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hlukhivska", "ADM3_UA": "Глухівська", "ADM3_PCODE": "UA5910003", "ADM2_EN": "Shostkynskyi", "ADM2_UA": "Шосткинський", "ADM2_PCODE": "UA5910", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.081599, 51.675156 ], [ 34.078575, 51.675147 ], [ 34.063079001000062, 51.667864 ], [ 34.059224, 51.670742 ], [ 34.056012, 51.669424 ], [ 34.050999, 51.67052 ], [ 34.052790999000024, 51.665782 ], [ 34.058231999000043, 51.665811 ], [ 34.070696, 51.668985 ], [ 34.077235, 51.672051 ], [ 34.081599, 51.675156 ] ] ] } }
+]
+}

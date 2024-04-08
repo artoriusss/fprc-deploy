@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.065018121621799999, "Shape_Area": 0.00013488426193099999, "ADM4_EN": "Lymanske", "ADM4_UA": "Лиманське", "ADM4_PCODE": "UA6508009004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lazurnenska", "ADM3_UA": "Лазурненська", "ADM3_PCODE": "UA6508009", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Скадовський", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.665279, 46.125397 ], [ 32.667969, 46.119096 ], [ 32.672336, 46.119721 ], [ 32.672994999000025, 46.116694 ], [ 32.668406999000069, 46.116286 ], [ 32.669802, 46.110886 ], [ 32.680777999000043, 46.112204 ], [ 32.677992001000064, 46.124174 ], [ 32.669131, 46.123523 ], [ 32.665279, 46.125397 ] ] ] } }
+]
+}

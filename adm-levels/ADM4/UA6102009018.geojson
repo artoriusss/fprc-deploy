@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.12928592365399999, "Shape_Area": 0.000126158892726, "ADM4_EN": "Korzhkivtsi", "ADM4_UA": "Коржківці", "ADM4_PCODE": "UA6102009018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lanovetska", "ADM3_UA": "Лановецька", "ADM3_PCODE": "UA6102009", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.912552563000077, 49.747551822000048 ], [ 25.908223196000051, 49.750209938000069 ], [ 25.908645308000075, 49.743927423000059 ], [ 25.91056693400003, 49.73766437900008 ], [ 25.918629001000056, 49.739468 ], [ 25.920327, 49.742283 ], [ 25.915246109000066, 49.742888472000061 ], [ 25.915940921000072, 49.746927618000029 ], [ 25.912552563000077, 49.747551822000048 ] ] ] } }
+]
+}

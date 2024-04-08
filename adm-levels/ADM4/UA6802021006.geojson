@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.079441153543099996, "Shape_Area": 9.8695368621000006e-05, "ADM4_EN": "Kizia", "ADM4_UA": "Кізя", "ADM4_PCODE": "UA6802021006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Orynynska", "ADM3_UA": "Орининська", "ADM3_PCODE": "UA6802021", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.316233, 48.731817 ], [ 26.314858999000023, 48.724301 ], [ 26.319789, 48.724889 ], [ 26.322292, 48.719577 ], [ 26.32801, 48.721982 ], [ 26.323792001000072, 48.728434 ], [ 26.318607999000051, 48.731712 ], [ 26.316233, 48.731817 ] ] ] } }
+]
+}

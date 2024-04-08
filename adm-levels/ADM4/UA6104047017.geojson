@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.119369532084, "Shape_Area": 0.00042056002627100002, "ADM4_EN": "Mshanets", "ADM4_UA": "Мшанець", "ADM4_PCODE": "UA6104047017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Terebovlianska", "ADM3_UA": "Теребовлянська", "ADM3_PCODE": "UA6104047", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.809965, 49.22875 ], [ 25.793914, 49.232345 ], [ 25.776206388000048, 49.237709210000048 ], [ 25.766694066000071, 49.226946602000055 ], [ 25.772250787000075, 49.225411272000031 ], [ 25.777598309000041, 49.22157698500007 ], [ 25.790736493000054, 49.218968229000041 ], [ 25.794467, 49.224586 ], [ 25.800862981000023, 49.223876592000067 ], [ 25.801559320000024, 49.22668672900005 ], [ 25.816731, 49.22641 ], [ 25.809965, 49.22875 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.084805629384099995, "Shape_Area": 0.00033824591800100002, "ADM4_EN": "Brylivka", "ADM4_UA": "Брилівка", "ADM4_PCODE": "UA6510005002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vynohradivska", "ADM3_UA": "Виноградівська", "ADM3_PCODE": "UA6510005", "ADM2_EN": "Khersonskyi", "ADM2_UA": "Херсонський", "ADM2_PCODE": "UA6510", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.147751102000029, 46.42938857300004 ], [ 33.141774054000052, 46.429307737000045 ], [ 33.134841807000043, 46.421712849000073 ], [ 33.147918860000061, 46.414489913000068 ], [ 33.165130310000052, 46.416248221000046 ], [ 33.16908156900007, 46.419525107000027 ], [ 33.160688232000041, 46.424260153000034 ], [ 33.158598795000046, 46.42737631500006 ], [ 33.147751102000029, 46.42938857300004 ] ] ] } }
+]
+}

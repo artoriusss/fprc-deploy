@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.030355149674699999, "Shape_Area": 3.5535470429e-05, "ADM4_EN": "Mokvyn", "ADM4_UA": "Моквин", "ADM4_PCODE": "UA5606039009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Maloliubashanska", "ADM3_UA": "Малолюбашанська", "ADM3_PCODE": "UA5606039", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.514382273000024, 50.982537525000055 ], [ 26.519598, 50.982263010000054 ], [ 26.52262894100005, 50.990276942000037 ], [ 26.519707675000063, 50.991168569000081 ], [ 26.514382273000024, 50.982537525000055 ] ] ] } }
+]
+}

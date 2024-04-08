@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.047964076310900002, "Shape_Area": 4.3162942413900001e-05, "ADM4_EN": "Bondari", "ADM4_UA": "Бондарі", "ADM4_PCODE": "UA7404001002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Baturynska", "ADM3_UA": "Батуринська", "ADM3_PCODE": "UA7404001", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.927082265000024, 51.395151689000045 ], [ 32.92683598800005, 51.396959658000071 ], [ 32.919188314000053, 51.403140314000041 ], [ 32.918281568000054, 51.399694738000051 ], [ 32.92287940600005, 51.397718436000048 ], [ 32.922279435000064, 51.392674328000055 ], [ 32.927362111000036, 51.391345287000036 ], [ 32.927082265000024, 51.395151689000045 ] ] ] } }
+]
+}

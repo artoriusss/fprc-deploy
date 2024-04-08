@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.059364526273700001, "Shape_Area": 4.9974846604900001e-05, "ADM4_EN": "Salne", "ADM4_UA": "Сальне", "ADM4_PCODE": "UA7402005040", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Snovska", "ADM3_UA": "Сновська", "ADM3_PCODE": "UA7402005", "ADM2_EN": "Koriukivskyi", "ADM2_UA": "Корюківський", "ADM2_PCODE": "UA7402", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.172370920000048, 52.008314040000073 ], [ 32.165568, 52.010585010000057 ], [ 32.16108095900006, 52.010515980000037 ], [ 32.151938040000061, 52.012349010000037 ], [ 32.151688920000026, 52.009209990000045 ], [ 32.172121081000057, 52.006717980000076 ], [ 32.172370920000048, 52.008314040000073 ] ] ] } }
+]
+}

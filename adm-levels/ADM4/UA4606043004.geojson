@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.045179776008000001, "Shape_Area": 6.5051663123000004e-05, "ADM4_EN": "Derevach", "ADM4_UA": "Деревач", "ADM4_PCODE": "UA4606043004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Solonkivska", "ADM3_UA": "Солонківська", "ADM3_PCODE": "UA4606043", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.003524219000042, 49.668298008000079 ], [ 24.003106218000028, 49.672202008000056 ], [ 23.998246219000066, 49.67263600800004 ], [ 23.998237218000043, 49.66828700800005 ], [ 23.992390221000051, 49.668690008000056 ], [ 23.991961219000075, 49.666587008000079 ], [ 23.998033219000035, 49.665487008000071 ], [ 23.997479218000024, 49.661307008000051 ], [ 24.000755218000052, 49.661535008000044 ], [ 24.003524219000042, 49.668298008000079 ] ] ] } }
+]
+}

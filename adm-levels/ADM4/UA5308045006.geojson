@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.126516151474, "Shape_Area": 0.000124588159929, "ADM4_EN": "Vodiane", "ADM4_UA": "Водяне", "ADM4_PCODE": "UA5308045006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chutivska", "ADM3_UA": "Чутівська", "ADM3_PCODE": "UA5308045", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.032971, 49.715846 ], [ 35.028735, 49.714761 ], [ 35.025358999000048, 49.711707 ], [ 35.025783815000068, 49.707627292000041 ], [ 35.036323519000064, 49.709293629000058 ], [ 35.038211999000055, 49.704452 ], [ 35.042845, 49.705324 ], [ 35.041925999000057, 49.70886 ], [ 35.043573, 49.712883 ], [ 35.042945755000062, 49.715613957000073 ], [ 35.033591, 49.713789 ], [ 35.032971, 49.715846 ] ] ] } }
+]
+}

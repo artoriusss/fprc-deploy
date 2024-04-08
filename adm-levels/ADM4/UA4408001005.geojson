@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.109332598906, "Shape_Area": 0.00027519273377999998, "ADM4_EN": "Yesaulivka", "ADM4_UA": "Єсаулівка", "ADM4_PCODE": "UA4408001005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Antratsytivska", "ADM3_UA": "Антрацитівська", "ADM3_PCODE": "UA4408001", "ADM2_EN": "Rovenkivskyi", "ADM2_UA": "Ровеньківський", "ADM2_PCODE": "UA4408", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.011117175000038, 48.041081628000029 ], [ 39.014086931000065, 48.039310762000071 ], [ 39.02369447500007, 48.041719861000047 ], [ 39.027628711000034, 48.040621419000047 ], [ 39.028792115000044, 48.050085553000031 ], [ 39.031121123000048, 48.05004685800003 ], [ 39.03507163200004, 48.053759283000034 ], [ 39.035467350000033, 48.061257695000052 ], [ 39.027848773000073, 48.055524498000068 ], [ 39.016524686000025, 48.058176871000057 ], [ 39.011117175000038, 48.041081628000029 ] ] ] } }
+]
+}

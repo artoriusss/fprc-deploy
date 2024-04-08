@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0397816105, "Shape_Area": 9.1282410314099996e-05, "ADM4_EN": "Solodke", "ADM4_UA": "Солодке", "ADM4_PCODE": "UA2308021012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Plodorodnenska", "ADM3_UA": "Плодородненська", "ADM3_PCODE": "UA2308021", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "Мелітопольський", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.193957841000042, 47.141518124000072 ], [ 35.199779873000068, 47.141739367000071 ], [ 35.198391548000075, 47.154116789000057 ], [ 35.190886076000027, 47.153359760000058 ], [ 35.192242846000056, 47.141443938000066 ], [ 35.193957841000042, 47.141518124000072 ] ] ] } }
+]
+}

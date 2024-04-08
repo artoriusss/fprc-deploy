@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.043320558309200001, "Shape_Area": 8.4482680546000001e-05, "ADM4_EN": "Vyshkivske", "ADM4_UA": "Вишківське", "ADM4_PCODE": "UA3202017009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stavyshchenska", "ADM3_UA": "Ставищенська", "ADM3_PCODE": "UA3202017", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.158639781000034, 49.419813906000059 ], [ 30.149522455000067, 49.418166896000059 ], [ 30.151038077000067, 49.416351372000065 ], [ 30.148613324000053, 49.411364101000061 ], [ 30.152903758000036, 49.41143024400003 ], [ 30.163391056000023, 49.414418148000038 ], [ 30.162867401000028, 49.417414476000033 ], [ 30.158639781000034, 49.419813906000059 ] ] ] } }
+]
+}

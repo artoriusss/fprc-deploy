@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.093527754586999995, "Shape_Area": 0.000127513417308, "ADM4_EN": "Knuty", "ADM4_UA": "Кнути", "ADM4_PCODE": "UA7402007015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sosnytska", "ADM3_UA": "Сосницька", "ADM3_PCODE": "UA7402007", "ADM2_EN": "Koriukivskyi", "ADM2_UA": "Корюківський", "ADM2_PCODE": "UA7402", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.684706, 51.467913 ], [ 32.68102392000003, 51.466077 ], [ 32.679648, 51.460404930000038 ], [ 32.676607080000053, 51.459292980000043 ], [ 32.678508961000034, 51.455917980000038 ], [ 32.672131920000027, 51.451963020000051 ], [ 32.676568919000033, 51.448787010000046 ], [ 32.682837960000029, 51.451641 ], [ 32.683008961000041, 51.460244010000054 ], [ 32.685249960000078, 51.463709010000059 ], [ 32.684706, 51.467913 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.058539051994600001, "Shape_Area": 0.000149455935598, "ADM4_EN": "Vynohradne", "ADM4_UA": "Виноградне", "ADM4_PCODE": "UA6106017006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zalishchytska", "ADM3_UA": "Заліщицька", "ADM3_PCODE": "UA6106017", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.86023046400004, 48.60593751600004 ], [ 25.852308014000073, 48.607631112000036 ], [ 25.849719356000037, 48.602757304000079 ], [ 25.850118839000061, 48.597999020000032 ], [ 25.852489699000046, 48.596841606000055 ], [ 25.859926101000042, 48.597916349000059 ], [ 25.871325135000063, 48.601916053000082 ], [ 25.866362178000031, 48.605912889000081 ], [ 25.861718721000045, 48.607386640000072 ], [ 25.86023046400004, 48.60593751600004 ] ] ] } }
+]
+}

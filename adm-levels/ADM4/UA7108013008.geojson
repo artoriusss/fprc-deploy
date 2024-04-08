@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.111751299098, "Shape_Area": 0.000333846471323, "ADM4_EN": "Lebedivka", "ADM4_UA": "Лебедівка", "ADM4_PCODE": "UA7108013008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kamianska", "ADM3_UA": "Кам'янська", "ADM3_PCODE": "UA7108013", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.962217, 49.039772 ], [ 31.959868, 49.042515 ], [ 31.9542, 49.042491 ], [ 31.949933, 49.035833 ], [ 31.952048999000056, 49.034209 ], [ 31.959573, 49.033001 ], [ 31.958986, 49.026057 ], [ 31.963712, 49.025865 ], [ 31.96396, 49.019486 ], [ 31.969312, 49.021966 ], [ 31.972527, 49.026476 ], [ 31.972800001000053, 49.029089 ], [ 31.979387999000039, 49.035432 ], [ 31.974799999000027, 49.036128 ], [ 31.965153, 49.041285 ], [ 31.962217, 49.039772 ] ] ] } }
+]
+}

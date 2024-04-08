@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.107264021867, "Shape_Area": 0.000175660125291, "ADM4_EN": "Mukhariv", "ADM4_UA": "Мухарів", "ADM4_PCODE": "UA6806001016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezdivska", "ADM3_UA": "Берездівська", "ADM3_PCODE": "UA6806001", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.141869, 50.548291 ], [ 27.139104, 50.548547 ], [ 27.140381, 50.542506 ], [ 27.138676, 50.536482 ], [ 27.150072, 50.537703 ], [ 27.150288, 50.542402 ], [ 27.158214, 50.543709 ], [ 27.158776, 50.546881 ], [ 27.152183, 50.547124 ], [ 27.150804, 50.545372 ], [ 27.144154999000023, 50.546506 ], [ 27.141869, 50.548291 ] ] ] } }
+]
+}

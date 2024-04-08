@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.099512884763300002, "Shape_Area": 0.00020464651686600001, "ADM4_EN": "Svynarka", "ADM4_UA": "Свинарка", "ADM4_PCODE": "UA7106001012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Babanska", "ADM3_UA": "Бабанська", "ADM3_PCODE": "UA7106001", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.478328, 48.738965 ], [ 30.470099, 48.737722 ], [ 30.465269001000024, 48.73594 ], [ 30.457548001000077, 48.736332 ], [ 30.449443859000041, 48.726728733000073 ], [ 30.450222508000024, 48.72433471800008 ], [ 30.4653, 48.720242 ], [ 30.462517, 48.723834 ], [ 30.462008, 48.727746 ], [ 30.463392001000045, 48.731459 ], [ 30.467644, 48.732338 ], [ 30.471229999000059, 48.734809 ], [ 30.476405001000046, 48.734983 ], [ 30.478328, 48.738965 ] ] ] } }
+]
+}

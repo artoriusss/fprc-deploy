@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.085978744418800004, "Shape_Area": 9.3579259284999998e-05, "ADM4_EN": "Simaky", "ADM4_UA": "Сімаки", "ADM4_PCODE": "UA5304001035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hrebinkivska", "ADM3_UA": "Гребінківська", "ADM3_PCODE": "UA5304001", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.628574188000073, 50.101890837000042 ], [ 32.625866, 50.102289 ], [ 32.624519, 50.098875 ], [ 32.617035, 50.100166 ], [ 32.617837, 50.106046 ], [ 32.631157001000076, 50.113062 ], [ 32.628858, 50.115989 ], [ 32.618926, 50.113002 ], [ 32.617019, 50.1106 ], [ 32.615390999000056, 50.099498 ], [ 32.628241298000034, 50.097632288000057 ], [ 32.628574188000073, 50.101890837000042 ] ] ] } }
+]
+}

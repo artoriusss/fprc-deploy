@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057730355097499998, "Shape_Area": 0.000121864364228, "ADM4_EN": "Syvorohy", "ADM4_UA": "Сивороги", "ADM4_PCODE": "UA4606033049", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Peremyshlianska", "ADM3_UA": "Перемишлянська", "ADM3_PCODE": "UA4606033", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.539457128000038, 49.707503005000035 ], [ 24.536878128000069, 49.708274004000032 ], [ 24.535931128000072, 49.70222100400008 ], [ 24.546259127000042, 49.698543004000044 ], [ 24.553812125000036, 49.694924004000029 ], [ 24.556969124000034, 49.696586004000039 ], [ 24.551261125000053, 49.701733004000062 ], [ 24.551970126000072, 49.703762004000055 ], [ 24.539457128000038, 49.707503005000035 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11178279257900001, "Shape_Area": 0.00014103412560300001, "ADM4_EN": "Petrashivka", "ADM4_UA": "Петрашівка", "ADM4_PCODE": "UA5302003012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horishnoplavnivska", "ADM3_UA": "Горішньоплавнівська", "ADM3_PCODE": "UA5302003", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.768303, 49.004784 ], [ 33.768203, 49.005957 ], [ 33.760706001000074, 49.011705 ], [ 33.757984, 49.012772 ], [ 33.750725001000035, 49.01245 ], [ 33.747936001000028, 49.011405 ], [ 33.753320001000077, 49.005584 ], [ 33.761628, 49.008788 ], [ 33.764638, 49.006717 ], [ 33.763051001000065, 48.997882 ], [ 33.766298001000052, 48.999718 ], [ 33.769690001000072, 48.996865 ], [ 33.772410001000026, 48.999705 ], [ 33.767432, 49.004114 ], [ 33.768303, 49.004784 ] ] ] } }
+]
+}

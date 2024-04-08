@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.063455878564800006, "Shape_Area": 0.000207991625576, "ADM4_EN": "Starosillia", "ADM4_UA": "Старосілля", "ADM4_PCODE": "UA6502005026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykooleksandrivska", "ADM3_UA": "Великоолександрівська", "ADM3_PCODE": "UA6502005", "ADM2_EN": "Beryslavskyi", "ADM2_UA": "Бериславський", "ADM2_PCODE": "UA6502", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.384546001000047, 47.386713 ], [ 33.377027, 47.387064 ], [ 33.375299999000049, 47.382343 ], [ 33.368098001000078, 47.378903 ], [ 33.368293999000059, 47.376102 ], [ 33.373406, 47.375067 ], [ 33.376551, 47.372947 ], [ 33.380524001000026, 47.372466 ], [ 33.386231, 47.375577 ], [ 33.386722, 47.377589 ], [ 33.392331, 47.383617 ], [ 33.384546001000047, 47.386713 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.067919613406699997, "Shape_Area": 0.000111405907486, "ADM4_EN": "Zelenopillia", "ADM4_UA": "Зеленопілля", "ADM4_PCODE": "UA2306033010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shyrokivska", "ADM3_UA": "Широківська", "ADM3_PCODE": "UA2306033", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.94144149300007, 47.852151738000032 ], [ 34.913833218000036, 47.854985014000079 ], [ 34.910152039000025, 47.854611486000067 ], [ 34.911845952000078, 47.850511395000069 ], [ 34.916106439000032, 47.85078750100007 ], [ 34.926373183000067, 47.849396218000038 ], [ 34.936467984000046, 47.849008762000039 ], [ 34.94144149300007, 47.852151738000032 ] ] ] } }
+]
+}

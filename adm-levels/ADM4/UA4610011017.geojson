@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.055432648443999998, "Shape_Area": 0.000114573380304, "ADM4_EN": "Pidlissia", "ADM4_UA": "Підлісся", "ADM4_PCODE": "UA4610011017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykolaivska", "ADM3_UA": "Миколаївська", "ADM3_PCODE": "UA4610011", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.795791265000048, 49.556559010000058 ], [ 23.791298266000069, 49.560312010000075 ], [ 23.788569267000071, 49.55887701000006 ], [ 23.789064267000072, 49.555755010000041 ], [ 23.803466263000075, 49.548666010000034 ], [ 23.809572262000074, 49.549922010000046 ], [ 23.809466260000079, 49.556778009000027 ], [ 23.80181826300003, 49.555295009000076 ], [ 23.795791265000048, 49.556559010000058 ] ] ] } }
+]
+}

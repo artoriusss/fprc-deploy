@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.128654971555, "Shape_Area": 0.00037855307541300001, "ADM4_EN": "Cherlenivka", "ADM4_UA": "Черленівка", "ADM4_PCODE": "UA7306003009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vanchykovetska", "ADM3_UA": "Ванчиковецька", "ADM3_PCODE": "UA7306003", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.400704, 48.301292 ], [ 26.396948, 48.303406 ], [ 26.391398, 48.302173 ], [ 26.391369, 48.299224 ], [ 26.385675, 48.297415 ], [ 26.384624, 48.29168 ], [ 26.390372, 48.289085 ], [ 26.399554, 48.289117 ], [ 26.40338, 48.278356 ], [ 26.409164001000079, 48.280122 ], [ 26.407145, 48.28336 ], [ 26.419505999000023, 48.289222 ], [ 26.413384, 48.294161 ], [ 26.404694, 48.297525 ], [ 26.400704, 48.301292 ] ] ] } }
+]
+}

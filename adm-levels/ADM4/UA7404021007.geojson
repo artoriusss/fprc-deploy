@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.063658783204800007, "Shape_Area": 0.00014362463433800001, "ADM4_EN": "Hannivka", "ADM4_UA": "Ганнівка", "ADM4_PCODE": "UA7404021007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Makiivska", "ADM3_UA": "Макіївська", "ADM3_PCODE": "UA7404021", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.81653792000003, 50.715404010000043 ], [ 31.814768881000077, 50.715582030000064 ], [ 31.812760079000043, 50.712914070000068 ], [ 31.811123880000025, 50.704811010000071 ], [ 31.816461960000026, 50.699425050000059 ], [ 31.826638080000066, 50.699637 ], [ 31.82941584100007, 50.707494990000043 ], [ 31.818147120000049, 50.707145970000056 ], [ 31.815329040000051, 50.711015970000062 ], [ 31.81653792000003, 50.715404010000043 ] ] ] } }
+]
+}

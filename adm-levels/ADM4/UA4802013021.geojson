@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.079688422953400007, "Shape_Area": 0.00011918773738000001, "ADM4_EN": "Mykolo-Hulak", "ADM4_UA": "Миколо-Гулак", "ADM4_PCODE": "UA4802013021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kazankivska", "ADM3_UA": "Казанківська", "ADM3_PCODE": "UA4802013", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.886309744000073, 47.944119004000072 ], [ 32.885264868000036, 47.943997893000073 ], [ 32.888554173000045, 47.932219744000065 ], [ 32.891528243000039, 47.932336811000027 ], [ 32.894497447000049, 47.934852414000034 ], [ 32.903750382000055, 47.940457310000056 ], [ 32.901674110000044, 47.942854165000028 ], [ 32.896141955000076, 47.94207593200008 ], [ 32.888659926000059, 47.942336626000042 ], [ 32.886309744000073, 47.944119004000072 ] ] ] } }
+]
+}

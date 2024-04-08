@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.024950356542, "Shape_Area": 1.6658188649599999e-05, "ADM4_EN": "Hukivka", "ADM4_UA": "ÐÑÐºÑÐ²ÐºÐ°", "ADM4_RU": "ÐÑÐºÐ¾Ð²ÐºÐ°", "ADM4_PCODE": "UA6312025006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Solonytsivska", "ADM3_UA": "Ð¡Ð¾Ð»Ð¾Ð½Ð¸ÑÑÐ²ÑÑÐºÐ°", "ADM3_RU": "Ð¡Ð¾Ð»Ð¾Ð½Ð¸ÑÐµÐ²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA6312025", "ADM2_EN": "Kharkivskyi", "ADM2_UA": "Ð¥Ð°ÑÐºÑÐ²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¥Ð°ÑÑÐºÐ¾Ð²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA6312", "ADM1_EN": "Kharkivska", "ADM1_UA": "Ð¥Ð°ÑÐºÑÐ²ÑÑÐºÐ°", "ADM1_RU": "Ð¥Ð°ÑÑÐºÐ¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.844287, 50.03795 ], [ 35.843156, 50.037337 ], [ 35.842232, 50.037449 ], [ 35.835376, 50.035817 ], [ 35.834506999000041, 50.036604 ], [ 35.839249, 50.037751 ], [ 35.83911, 50.038268 ], [ 35.840975, 50.038841 ], [ 35.843468001000076, 50.040594 ], [ 35.844654001000038, 50.040055 ], [ 35.84536999900007, 50.03891 ], [ 35.844287, 50.03795 ] ] ] } }
-]
-}

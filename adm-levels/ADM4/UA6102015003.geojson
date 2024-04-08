@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.051925990639600003, "Shape_Area": 4.7775092634399997e-05, "ADM4_EN": "Antonivtsi", "ADM4_UA": "Антонівці", "ADM4_PCODE": "UA6102015003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shumska", "ADM3_UA": "Шумська", "ADM3_PCODE": "UA6102015", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 25.925728, 50.215577 ], [ 25.926675289000059, 50.22065789800007 ], [ 25.92390143800003, 50.22141649200006 ], [ 25.922665699000049, 50.216312217000052 ], [ 25.925728, 50.215577 ] ] ], [ [ [ 25.937145505000046, 50.205114820000063 ], [ 25.938154166000061, 50.207352800000081 ], [ 25.935150165000039, 50.210955264000063 ], [ 25.930419, 50.211062 ], [ 25.937145505000046, 50.205114820000063 ] ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.067029161260600004, "Shape_Area": 0.00016213325616799999, "ADM4_EN": "Terny", "ADM4_UA": "Терни", "ADM4_PCODE": "UA5304003052", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lubenska", "ADM3_UA": "Лубенська", "ADM3_PCODE": "UA5304003", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.998022001000038, 49.972755 ], [ 32.98696, 49.976574 ], [ 32.982099001000051, 49.981079 ], [ 32.977742001000024, 49.977809 ], [ 32.975757999000052, 49.9726 ], [ 32.979693999000062, 49.971666 ], [ 32.987615001000052, 49.966669 ], [ 32.989147, 49.968483 ], [ 32.998022001000038, 49.972755 ] ] ] } }
+]
+}

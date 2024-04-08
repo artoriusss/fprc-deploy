@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11225183670199999, "Shape_Area": 8.2949338940400006e-05, "ADM4_EN": "Cheremoshna", "ADM4_UA": "Черемошна", "ADM4_PCODE": "UA3210011029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Poliska", "ADM3_UA": "Поліська", "ADM3_PCODE": "UA3210011", "ADM2_EN": "Vyshhorodskyi", "ADM2_UA": "Вишгородський", "ADM2_PCODE": "UA3210", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.838604969000073, 51.21647630800004 ], [ 29.837173911000036, 51.212176343000067 ], [ 29.834230942000033, 51.209638336000069 ], [ 29.832951954000066, 51.205063361000043 ], [ 29.828440041000079, 51.20218032300005 ], [ 29.823972957000024, 51.20235537800005 ], [ 29.823375044000045, 51.19825538200007 ], [ 29.837269931000037, 51.205473354000048 ], [ 29.834690003000048, 51.207863322000037 ], [ 29.838604969000073, 51.21647630800004 ] ] ] } }
+]
+}

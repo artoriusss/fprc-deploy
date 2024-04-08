@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070296410397000006, "Shape_Area": 0.000104253753543, "ADM4_EN": "Yermolivka", "ADM4_UA": "Єрмолівка", "ADM4_PCODE": "UA4802017004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pryvilnenska", "ADM3_UA": "Привільненська", "ADM3_PCODE": "UA4802017", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.262714350000067, 47.567999980000081 ], [ 32.260261989000071, 47.567359504000081 ], [ 32.264518861000056, 47.552126716000032 ], [ 32.263618940000072, 47.547361429000034 ], [ 32.267724520000058, 47.549113040000066 ], [ 32.269008427000074, 47.545254124000053 ], [ 32.274756326000045, 47.545796316000065 ], [ 32.272235135000074, 47.553365817000042 ], [ 32.267279783000049, 47.552650087000075 ], [ 32.262714350000067, 47.567999980000081 ] ] ] } }
+]
+}

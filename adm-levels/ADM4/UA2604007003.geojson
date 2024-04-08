@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.088231026388299993, "Shape_Area": 0.00018862068013899999, "ADM4_EN": "Vyhivka", "ADM4_UA": "Вигівка", "ADM4_PCODE": "UA2604007003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Burshtynska", "ADM3_UA": "Бурштинська", "ADM3_PCODE": "UA2604007", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.586809778000031, 49.254069704000074 ], [ 24.582455879000065, 49.253907248000075 ], [ 24.577292706000037, 49.25023006400005 ], [ 24.579232499000057, 49.246337957000037 ], [ 24.593512943000064, 49.238189942000076 ], [ 24.594807209000066, 49.245703500000047 ], [ 24.594006590000049, 49.251198936000037 ], [ 24.586809778000031, 49.254069704000074 ] ] ] } }
+]
+}

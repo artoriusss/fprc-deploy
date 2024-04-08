@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.089158475277899996, "Shape_Area": 0.00014105650844200001, "ADM4_EN": "Hriada", "ADM4_UA": "Гряда", "ADM4_PCODE": "UA4606025008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lvivska", "ADM3_UA": "Львівська", "ADM3_PCODE": "UA4606025", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.032060215000058, 49.939599008000073 ], [ 24.03069021400006, 49.935454007000033 ], [ 24.041823213000043, 49.934212008000031 ], [ 24.043967212000041, 49.930479007000031 ], [ 24.046353212000042, 49.933712008000043 ], [ 24.049184210000078, 49.933823008000047 ], [ 24.050724211000045, 49.938499008000065 ], [ 24.038705214000061, 49.939599008000073 ], [ 24.032060215000058, 49.939599008000073 ] ] ] } }
+]
+}

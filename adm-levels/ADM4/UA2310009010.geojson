@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.074849911015800005, "Shape_Area": 0.00012789630515600001, "ADM4_EN": "Shevchenkivske", "ADM4_UA": "Шевченківське", "ADM4_PCODE": "UA2310009010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Komysh-Zorianska", "ADM3_UA": "Комиш-Зорянська", "ADM3_PCODE": "UA2310009", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.931741923000061, 47.36529801000006 ], [ 36.930782883000063, 47.358288991000052 ], [ 36.926530203000027, 47.357752950000076 ], [ 36.926226002000078, 47.353734 ], [ 36.942771963000041, 47.353316040000038 ], [ 36.940505042000041, 47.359926 ], [ 36.93779100200004, 47.359397071000046 ], [ 36.936474123000039, 47.363913 ], [ 36.931741923000061, 47.36529801000006 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057540017015500003, "Shape_Area": 0.00012704631913499999, "ADM4_EN": "Polove", "ADM4_UA": "Польове", "ADM4_PCODE": "UA3212009027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myronivska", "ADM3_UA": "Миронівська", "ADM3_PCODE": "UA3212009", "ADM2_EN": "Obukhivskyi", "ADM2_UA": "Обухівський", "ADM2_PCODE": "UA3212", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.998104843000078, 49.751536159000068 ], [ 30.99220084500007, 49.760086109000042 ], [ 30.985833883000055, 49.758148138000081 ], [ 30.989776906000031, 49.752778097000032 ], [ 30.989306886000065, 49.749369168000044 ], [ 30.991160897000043, 49.745275143000072 ], [ 31.000704877000032, 49.747799156000042 ], [ 30.998104843000078, 49.751536159000068 ] ] ] } }
+]
+}

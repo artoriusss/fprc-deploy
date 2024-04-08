@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062083015771500001, "Shape_Area": 0.000102313260587, "ADM4_EN": "Chornushovychi", "ADM4_UA": "Чорнушовичі", "ADM4_PCODE": "UA4606035011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pidberiztsivska", "ADM3_UA": "Підберізцівська", "ADM3_PCODE": "UA4606035", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.34170315800003, 49.816256005000071 ], [ 24.34469015600007, 49.820599005000076 ], [ 24.339214157000072, 49.821760006000034 ], [ 24.338334158000066, 49.815871006000066 ], [ 24.332559158000038, 49.81752100500006 ], [ 24.330277159000048, 49.815227006000043 ], [ 24.332976158000065, 49.811460005000072 ], [ 24.340097157000059, 49.810022006000054 ], [ 24.342254156000024, 49.811548006000066 ], [ 24.34170315800003, 49.816256005000071 ] ] ] } }
+]
+}

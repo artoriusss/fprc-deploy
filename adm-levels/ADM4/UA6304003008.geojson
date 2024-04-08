@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.054169575354000001, "Shape_Area": 6.93166300059e-05, "ADM4_EN": "Vasylivka Druha", "ADM4_UA": "Василівка Друга", "ADM4_PCODE": "UA6304003008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Barvinkivska", "ADM3_UA": "Барвінківська", "ADM3_PCODE": "UA6304003", "ADM2_EN": "Iziumskyi", "ADM2_UA": "Ізюмський", "ADM2_PCODE": "UA6304", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.169992, 48.862835 ], [ 37.169958001000055, 48.864341 ], [ 37.17683, 48.87206 ], [ 37.173527, 48.87396 ], [ 37.165956999000059, 48.865512 ], [ 37.166671001000054, 48.864556 ], [ 37.162850001000038, 48.856343 ], [ 37.164944, 48.85551 ], [ 37.168629, 48.862656 ], [ 37.169992, 48.862835 ] ] ] } }
+]
+}

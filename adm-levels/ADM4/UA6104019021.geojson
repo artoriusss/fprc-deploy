@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.143831512488, "Shape_Area": 0.000202167566868, "ADM4_EN": "Sosniv", "ADM4_UA": "Соснів", "ADM4_PCODE": "UA6104019021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zolotnykivska", "ADM3_UA": "Золотниківська", "ADM3_PCODE": "UA6104019", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.35789599900005, 49.346339 ], [ 25.358323001000031, 49.343721 ], [ 25.361894, 49.342419 ], [ 25.35638, 49.336668 ], [ 25.351567001000035, 49.333051 ], [ 25.35158799900006, 49.330132 ], [ 25.361919001000047, 49.33082 ], [ 25.367439, 49.339601 ], [ 25.373987, 49.34398 ], [ 25.366283166000073, 49.348420833000034 ], [ 25.365342001000045, 49.346506 ], [ 25.35789599900005, 49.346339 ] ] ] } }
+]
+}

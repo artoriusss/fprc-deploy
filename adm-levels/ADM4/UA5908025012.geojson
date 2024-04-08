@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.105217879243, "Shape_Area": 0.00015944028589300001, "ADM4_EN": "Novosukhanivka", "ADM4_UA": "Новосуханівка", "ADM4_PCODE": "UA5908025012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stepanivska", "ADM3_UA": "Степанівська", "ADM3_PCODE": "UA5908025", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.518481, 50.922498 ], [ 34.512647, 50.916836 ], [ 34.507523, 50.915373 ], [ 34.503344, 50.916862001000027 ], [ 34.499902, 50.912966 ], [ 34.505476, 50.911536 ], [ 34.506529, 50.9086 ], [ 34.502561, 50.904909 ], [ 34.512529, 50.903091 ], [ 34.514627, 50.905762 ], [ 34.515211, 50.915101 ], [ 34.514033, 50.916628 ], [ 34.518481, 50.922498 ] ] ] } }
+]
+}

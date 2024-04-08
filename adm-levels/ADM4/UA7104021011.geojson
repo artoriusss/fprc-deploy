@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.120437952847, "Shape_Area": 0.00022847238667100001, "ADM4_EN": "Moisivka", "ADM4_UA": "Мойсівка", "ADM4_PCODE": "UA7104021011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shramkivska", "ADM3_UA": "Шрамківська", "ADM3_PCODE": "UA7104021", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.144878999000071, 50.116832 ], [ 32.141779, 50.120037 ], [ 32.14249600100004, 50.110008 ], [ 32.141511999000045, 50.106911 ], [ 32.146542, 50.104573 ], [ 32.150629999000046, 50.104985 ], [ 32.16011, 50.103817 ], [ 32.156821, 50.113305 ], [ 32.156687, 50.116278 ], [ 32.152273999000045, 50.117231 ], [ 32.148928, 50.115847 ], [ 32.144878999000071, 50.116832 ] ] ] } }
+]
+}

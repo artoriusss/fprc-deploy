@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.104620485022, "Shape_Area": 0.00025743037042300001, "ADM4_EN": "Butsneve", "ADM4_UA": "Буцневе", "ADM4_PCODE": "UA6804015006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Derazhnianska", "ADM3_UA": "Деражнянська", "ADM3_PCODE": "UA6804015", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.448398001000044, 49.228634 ], [ 27.438351999000076, 49.229881 ], [ 27.434341, 49.233798 ], [ 27.431496, 49.231536 ], [ 27.434211, 49.227889 ], [ 27.435354, 49.223749 ], [ 27.43134, 49.219552 ], [ 27.434438, 49.215449 ], [ 27.43822, 49.213037 ], [ 27.439560999000037, 49.219221 ], [ 27.442959, 49.219956 ], [ 27.447015, 49.218798 ], [ 27.454457, 49.219765 ], [ 27.454617001000031, 49.223444 ], [ 27.457308, 49.225075 ], [ 27.448398001000044, 49.228634 ] ] ] } }
+]
+}

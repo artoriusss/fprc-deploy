@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.065414684669899997, "Shape_Area": 0.00012338574416, "ADM4_EN": "Yurkivka", "ADM4_UA": "Юрківка", "ADM4_PCODE": "UA5114001029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykomykhailivska", "ADM3_UA": "Великомихайлівська", "ADM3_PCODE": "UA5114001", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.839284, 46.981039 ], [ 29.829784, 46.984166 ], [ 29.826352001000032, 46.989509 ], [ 29.824862999000061, 46.997115 ], [ 29.819189, 46.996783 ], [ 29.819720001000064, 46.993193 ], [ 29.823687, 46.984313 ], [ 29.82363, 46.981049 ], [ 29.834658, 46.979819 ], [ 29.839284, 46.981039 ] ] ] } }
+]
+}

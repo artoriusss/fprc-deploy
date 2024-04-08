@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.097547698121800003, "Shape_Area": 0.000168074702877, "ADM4_EN": "Zadovha", "ADM4_UA": "Задовга", "ADM4_PCODE": "UA5302009019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozelshchynska", "ADM3_UA": "Козельщинська", "ADM3_PCODE": "UA5302009", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.920498001000055, 49.282601 ], [ 33.913051, 49.281539 ], [ 33.908091001000059, 49.281892 ], [ 33.900778, 49.281015 ], [ 33.896550999000056, 49.278714 ], [ 33.891175476000058, 49.278755347000072 ], [ 33.890583728000024, 49.276751397000055 ], [ 33.90308200100003, 49.277338 ], [ 33.909717, 49.275478 ], [ 33.917362299000047, 49.271185055000046 ], [ 33.918886, 49.277222 ], [ 33.922091, 49.278595 ], [ 33.920498001000055, 49.282601 ] ] ] } }
+]
+}

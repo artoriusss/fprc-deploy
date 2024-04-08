@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062127424937700002, "Shape_Area": 9.9215368272300003e-05, "ADM4_EN": "Sosnivka", "ADM4_UA": "Соснівка", "ADM4_PCODE": "UA3204015009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Studenykivska", "ADM3_UA": "Студениківська", "ADM3_PCODE": "UA3204015", "ADM2_EN": "Boryspilskyi", "ADM2_UA": "Бориспільський", "ADM2_PCODE": "UA3204", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.722488399000042, 50.163240994000034 ], [ 31.71555131100007, 50.168222039000057 ], [ 31.715156387000036, 50.172671023000078 ], [ 31.711073377000048, 50.175402035000047 ], [ 31.707705320000059, 50.172908040000038 ], [ 31.708328411000025, 50.168609004000075 ], [ 31.722423368000079, 50.159002021000049 ], [ 31.722488399000042, 50.163240994000034 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.055123296795300002, "Shape_Area": 0.000106485215595, "ADM4_EN": "Vyshneve", "ADM4_UA": "Вишневе", "ADM4_PCODE": "UA7104021021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shramkivska", "ADM3_UA": "Шрамківська", "ADM3_PCODE": "UA7104021", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.150822211000047, 50.180967871000064 ], [ 32.145349046000035, 50.178662300000042 ], [ 32.143535504000056, 50.180609778000075 ], [ 32.137560928000028, 50.17637717000008 ], [ 32.140168002000053, 50.174923055000079 ], [ 32.14903359300007, 50.172755801000051 ], [ 32.15026672700003, 50.174221836000072 ], [ 32.157270617000052, 50.171686585000032 ], [ 32.158304341000076, 50.17572487800004 ], [ 32.150822211000047, 50.180967871000064 ] ] ] } }
+]
+}

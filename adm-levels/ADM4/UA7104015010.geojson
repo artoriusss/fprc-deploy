@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.041248889858299997, "Shape_Area": 6.34962757573e-05, "ADM4_EN": "Markizivka", "ADM4_UA": "Маркізівка", "ADM4_PCODE": "UA7104015010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novodmytrivska", "ADM3_UA": "Новодмитрівська", "ADM3_PCODE": "UA7104015", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.065357, 49.800549 ], [ 32.066281, 49.804216 ], [ 32.060205, 49.804142 ], [ 32.060482, 49.800816 ], [ 32.055394, 49.794549 ], [ 32.057204, 49.793288 ], [ 32.063245, 49.79643 ], [ 32.065357, 49.800549 ] ] ] } }
+]
+}

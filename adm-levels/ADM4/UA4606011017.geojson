@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.044132195233, "Shape_Area": 8.3574890334300002e-05, "ADM4_EN": "Zubeiky", "ADM4_UA": "Зубейки", "ADM4_PCODE": "UA4606011017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dobrosynsko-Maherivska", "ADM3_UA": "Добросинсько-Магерівська", "ADM3_PCODE": "UA4606011", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.723419238000076, 50.152511584000081 ], [ 23.723608654000031, 50.155661605000034 ], [ 23.726728291000029, 50.15783201000005 ], [ 23.716538295000078, 50.158735010000044 ], [ 23.712077302000068, 50.159870799000032 ], [ 23.709446298000046, 50.15622901100005 ], [ 23.713988295000036, 50.153491011000028 ], [ 23.723248389000048, 50.151245005000078 ], [ 23.723419238000076, 50.152511584000081 ] ] ] } }
+]
+}

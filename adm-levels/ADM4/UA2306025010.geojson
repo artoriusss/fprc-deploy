@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.031367742200300003, "Shape_Area": 3.1422588001099998e-05, "ADM4_EN": "Perun", "ADM4_UA": "Перун", "ADM4_PCODE": "UA2306025010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Petro-Mykhailivska", "ADM3_UA": "Петро-Михайлівська", "ADM3_PCODE": "UA2306025", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.100366544000053, 48.093269611000039 ], [ 35.095017315000064, 48.090066310000054 ], [ 35.093966160000036, 48.08665336100006 ], [ 35.098038408000036, 48.084749418000058 ], [ 35.100366544000053, 48.093269611000039 ] ] ] } }
+]
+}

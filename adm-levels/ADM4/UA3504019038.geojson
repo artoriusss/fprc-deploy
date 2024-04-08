@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.133353891457, "Shape_Area": 8.6071914971400006e-05, "ADM4_EN": "Pershotravenka", "ADM4_UA": "Першотравенка", "ADM4_PCODE": "UA3504019038", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kompaniivska", "ADM3_UA": "Компаніївська", "ADM3_PCODE": "UA3504019", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 32.300093, 48.202343 ], [ 32.286823, 48.213682 ], [ 32.285786, 48.213185 ], [ 32.298271, 48.202565 ], [ 32.300093, 48.202343 ] ] ], [ [ [ 32.297810001000073, 48.198881 ], [ 32.290402999000037, 48.202506 ], [ 32.284517, 48.207096 ], [ 32.284286, 48.202935 ], [ 32.286982999000031, 48.200609 ], [ 32.297810001000073, 48.198881 ] ] ] ] } }
+]
+}

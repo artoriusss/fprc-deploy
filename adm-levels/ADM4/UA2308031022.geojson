@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.056540817537500003, "Shape_Area": 8.6023952486299996e-05, "ADM4_EN": "Petrivka", "ADM4_UA": "Петрівка", "ADM4_PCODE": "UA2308031022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yakymivska", "ADM3_UA": "Якимівська", "ADM3_PCODE": "UA2308031", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "Мелітопольський", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.918354492000049, 46.816832194000028 ], [ 34.912119874000041, 46.818309232000047 ], [ 34.909711197000036, 46.810238961000039 ], [ 34.904767489000051, 46.809175187000051 ], [ 34.905820601000073, 46.805308165000042 ], [ 34.913172612000039, 46.807040272000052 ], [ 34.916508753000073, 46.810959151000077 ], [ 34.918354492000049, 46.816832194000028 ] ] ] } }
+]
+}

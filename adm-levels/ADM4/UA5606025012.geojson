@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.041672643207099999, "Shape_Area": 4.6158848523200001e-05, "ADM4_EN": "Pidtsurkiv", "ADM4_UA": "Підцурків", "ADM4_PCODE": "UA5606025012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zdolbunivska", "ADM3_UA": "Здолбунівська", "ADM3_PCODE": "UA5606025", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.10434304000006, 50.49014193000005 ], [ 26.107471897000039, 50.479271735000054 ], [ 26.110777149000057, 50.480279386000063 ], [ 26.107981920000043, 50.487298020000026 ], [ 26.10434304000006, 50.49014193000005 ] ] ] } }
+]
+}

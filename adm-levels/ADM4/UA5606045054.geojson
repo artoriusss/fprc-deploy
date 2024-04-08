@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.101284897614, "Shape_Area": 0.000103406092908, "ADM4_EN": "Khriniv", "ADM4_UA": "Хрінів", "ADM4_PCODE": "UA5606045054", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ostrozka", "ADM3_UA": "Острозька", "ADM3_PCODE": "UA5606045", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.63858988000004, 50.511772080000071 ], [ 26.639940959000057, 50.512945050000042 ], [ 26.656857, 50.513375970000027 ], [ 26.659928161000039, 50.51074095000007 ], [ 26.659130040000036, 50.508380970000076 ], [ 26.667218161000051, 50.507568990000038 ], [ 26.665570079000076, 50.511227040000051 ], [ 26.661071160000063, 50.512222980000047 ], [ 26.660994840000058, 50.515358940000056 ], [ 26.63826516000006, 50.515648020000071 ], [ 26.63858988000004, 50.511772080000071 ] ] ] } }
+]
+}

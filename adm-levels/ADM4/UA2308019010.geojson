@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.079109923558099995, "Shape_Area": 0.000230414231944, "ADM4_EN": "Nadezhdyne", "ADM4_UA": "Надеждине", "ADM4_PCODE": "UA2308019010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Oleksandrivska", "ADM3_UA": "Олександрівська", "ADM3_PCODE": "UA2308019", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "Мелітопольський", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.447138343000063, 46.693373620000045 ], [ 35.446502272000032, 46.702448592000053 ], [ 35.434640633000072, 46.701131579000048 ], [ 35.434805439000058, 46.695341062000068 ], [ 35.424409099000059, 46.689028546000031 ], [ 35.425189105000072, 46.686942845000033 ], [ 35.432224369000039, 46.685352441000077 ], [ 35.438014886000076, 46.688647812000056 ], [ 35.443482609000057, 46.687550609000027 ], [ 35.446892391000063, 46.690023470000028 ], [ 35.447138343000063, 46.693373620000045 ] ] ] } }
+]
+}

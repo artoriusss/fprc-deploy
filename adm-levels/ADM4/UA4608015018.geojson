@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.067645183354099997, "Shape_Area": 0.00011665201720700001, "ADM4_EN": "Stara Ropa", "ADM4_UA": "Стара Ропа", "ADM4_PCODE": "UA4608015018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starosambirska", "ADM3_UA": "Старосамбірська", "ADM3_PCODE": "UA4608015", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.999665551000078, 49.495529021000038 ], [ 22.996204552000052, 49.497128021000037 ], [ 22.974099528000067, 49.491703727000072 ], [ 22.972423746000061, 49.487211670000079 ], [ 22.980894560000024, 49.488705022000033 ], [ 22.989711555000042, 49.491472022000039 ], [ 23.000072551000073, 49.492445022000027 ], [ 22.999665551000078, 49.495529021000038 ] ] ] } }
+]
+}

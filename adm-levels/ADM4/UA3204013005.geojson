@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.066268973640899995, "Shape_Area": 0.000104568731019, "ADM4_EN": "Zaimyshche", "ADM4_UA": "Займище", "ADM4_PCODE": "UA3204013005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Prystolychna", "ADM3_UA": "Пристолична", "ADM3_PCODE": "UA3204013", "ADM2_EN": "Boryspilskyi", "ADM2_UA": "Бориспільський", "ADM2_PCODE": "UA3204", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.00152769500005, 50.471796109000081 ], [ 31.000091730000065, 50.47300315800004 ], [ 30.986406726000041, 50.467924121000067 ], [ 30.978516787000046, 50.462178112000061 ], [ 30.99060176200004, 50.461687118000043 ], [ 30.993172736000076, 50.460972154000046 ], [ 30.992537768000034, 50.467919100000074 ], [ 30.997464729000058, 50.466458101000057 ], [ 31.00152769500005, 50.471796109000081 ] ] ] } }
+]
+}

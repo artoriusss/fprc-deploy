@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13232326155400001, "Shape_Area": 0.000285648898079, "ADM4_EN": "Rakiv", "ADM4_UA": "Раків", "ADM4_PCODE": "UA2606003005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Broshniv-Osadska", "ADM3_UA": "Брошнів-Осадська", "ADM3_PCODE": "UA2606003", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.117968, 48.996596 ], [ 24.11526, 48.999784 ], [ 24.11484, 49.004527 ], [ 24.110424, 49.011855999000034 ], [ 24.106102999000029, 49.012197 ], [ 24.102376999000057, 49.008235 ], [ 24.103320001000043, 48.998915 ], [ 24.100866, 48.996615 ], [ 24.10355, 48.993546 ], [ 24.106769, 48.994079 ], [ 24.110872999000037, 48.989937 ], [ 24.113904, 48.988935 ], [ 24.117973001000053, 48.982844 ], [ 24.123217, 48.986922 ], [ 24.111734001000059, 48.992704 ], [ 24.117968, 48.996596 ] ] ] } }
+]
+}

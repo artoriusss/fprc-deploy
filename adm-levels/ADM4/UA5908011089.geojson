@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.137749959231, "Shape_Area": 0.00014950552045399999, "ADM4_EN": "Revky", "ADM4_UA": "Ревки", "ADM4_PCODE": "UA5908011089", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lebedynska", "ADM3_UA": "Лебединська", "ADM3_PCODE": "UA5908011", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.691585, 50.626856 ], [ 34.68782599900004, 50.626887 ], [ 34.68107, 50.629391 ], [ 34.679051, 50.624356 ], [ 34.684215, 50.622845 ], [ 34.685598, 50.620502 ], [ 34.680529, 50.617532 ], [ 34.668065001000059, 50.612681 ], [ 34.667854, 50.608829 ], [ 34.671997, 50.608465 ], [ 34.674193999000067, 50.612822 ], [ 34.677602, 50.613666 ], [ 34.691351001000044, 50.620857 ], [ 34.691585, 50.626856 ] ] ] } }
+]
+}

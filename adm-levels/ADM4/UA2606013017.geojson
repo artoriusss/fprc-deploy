@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.078446130089400004, "Shape_Area": 0.00030585998980100002, "ADM4_EN": "Sloboda-Dolynska", "ADM4_UA": "Слобода-Долинська", "ADM4_PCODE": "UA2606013017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dolynska", "ADM3_UA": "Долинська", "ADM3_PCODE": "UA2606013", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.028115, 49.043937 ], [ 24.022392, 49.042938 ], [ 24.021295, 49.035989 ], [ 24.01723, 49.03403 ], [ 24.019429, 49.026123 ], [ 24.019048999000063, 49.016941 ], [ 24.026445, 49.019739 ], [ 24.032782, 49.03045 ], [ 24.035453, 49.033855 ], [ 24.032863001000067, 49.038902 ], [ 24.032717, 49.042641 ], [ 24.028115, 49.043937 ] ] ] } }
+]
+}

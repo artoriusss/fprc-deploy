@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.052366188678399997, "Shape_Area": 6.0960672804400001e-05, "ADM4_EN": "Dalnia Shebelynka", "ADM4_UA": "Дальня Шебелинка", "ADM4_PCODE": "UA6304007004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Donetska", "ADM3_UA": "Донецька", "ADM3_PCODE": "UA6304007", "ADM2_EN": "Iziumskyi", "ADM2_UA": "Ізюмський", "ADM2_PCODE": "UA6304", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.55709, 49.465205 ], [ 36.55415, 49.471495 ], [ 36.554272999000034, 49.480853 ], [ 36.549614001000066, 49.473225 ], [ 36.552254, 49.471089 ], [ 36.554969, 49.465496 ], [ 36.55709, 49.465205 ] ] ] } }
+]
+}

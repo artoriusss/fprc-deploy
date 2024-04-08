@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0714869991053, "Shape_Area": 0.0001903981422, "ADM4_EN": "Shostaky", "ADM4_UA": "Шостаки", "ADM4_PCODE": "UA5308037055", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Poltavska", "ADM3_UA": "Полтавська", "ADM3_PCODE": "UA5308037", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.443969, 49.600505 ], [ 34.441518999000039, 49.602729999000076 ], [ 34.437553, 49.601447 ], [ 34.428931488000046, 49.60078530100003 ], [ 34.430022999000073, 49.59604 ], [ 34.429530999000065, 49.591293 ], [ 34.441171, 49.588956 ], [ 34.442853, 49.586827 ], [ 34.447397365000029, 49.586682487000076 ], [ 34.446879964000061, 49.591213271000072 ], [ 34.443241001000047, 49.592806 ], [ 34.445188, 49.596869 ], [ 34.443969, 49.600505 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.049893967983500001, "Shape_Area": 2.4738306857799999e-05, "ADM4_EN": "Shchokiv", "ADM4_UA": "Щоків", "ADM4_PCODE": "UA5602003018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Varaska", "ADM3_UA": "Вараська", "ADM3_PCODE": "UA5602003", "ADM2_EN": "Varaskyi", "ADM2_UA": "Вараський", "ADM2_PCODE": "UA5602", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.901728920000039, 51.466954050000027 ], [ 25.899224040000036, 51.467593050000062 ], [ 25.900129080000056, 51.462142020000044 ], [ 25.901848800000039, 51.462135 ], [ 25.901728920000039, 51.466954050000027 ] ] ] } }
+]
+}

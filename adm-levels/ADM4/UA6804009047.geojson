@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13641423144000001, "Shape_Area": 0.00013893337776499999, "ADM4_EN": "Fedirky", "ADM4_UA": "Федірки", "ADM4_PCODE": "UA6804009047", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Volochyska", "ADM3_UA": "Волочиська", "ADM3_PCODE": "UA6804009", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 26.296413, 49.476179 ], [ 26.292298999000025, 49.475095 ], [ 26.286871, 49.476103 ], [ 26.288056, 49.47257 ], [ 26.291952, 49.471884 ], [ 26.296413, 49.476179 ] ] ], [ [ [ 26.294481001000065, 49.468466 ], [ 26.287747, 49.469923 ], [ 26.287715, 49.463448 ], [ 26.29352, 49.463231 ], [ 26.30032, 49.466368 ], [ 26.303206, 49.465763 ], [ 26.304641, 49.457265 ], [ 26.307498001000056, 49.453866 ], [ 26.305269001000056, 49.466556 ], [ 26.303073, 49.467707 ], [ 26.294481001000065, 49.468466 ] ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.028202509846899999, "Shape_Area": 3.5974104214699998e-05, "ADM4_EN": "Borysivka", "ADM4_UA": "Борисівка", "ADM4_PCODE": "UA3504017008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ketrysanivska", "ADM3_UA": "Кетрисанівська", "ADM3_PCODE": "UA3504017", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.366129003000026, 48.025745248000078 ], [ 32.36987460000006, 48.027671326000075 ], [ 32.371729198000025, 48.032724729000051 ], [ 32.368582102000062, 48.034092933000068 ], [ 32.364821398000061, 48.031658363000076 ], [ 32.366129003000026, 48.025745248000078 ] ] ] } }
+]
+}

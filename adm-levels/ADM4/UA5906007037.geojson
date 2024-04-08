@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10536751485199999, "Shape_Area": 0.00013067795776, "ADM4_EN": "Yahanivka", "ADM4_UA": "Яганівка", "ADM4_PCODE": "UA5906007037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lypovodolynska", "ADM3_UA": "Липоводолинська", "ADM3_PCODE": "UA5906007", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.580098999000029, 50.519584 ], [ 33.576684, 50.516285 ], [ 33.570521, 50.518538 ], [ 33.562032, 50.515872 ], [ 33.562444, 50.512439 ], [ 33.573684, 50.511957 ], [ 33.574139001000049, 50.509232 ], [ 33.577663, 50.506337 ], [ 33.579832, 50.507656 ], [ 33.577209, 50.511714 ], [ 33.57696, 50.514732 ], [ 33.584029001000033, 50.51158 ], [ 33.585029, 50.515626 ], [ 33.580098999000029, 50.519584 ] ] ] } }
+]
+}

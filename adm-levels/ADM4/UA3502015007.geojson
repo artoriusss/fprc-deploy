@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.135767028086, "Shape_Area": 0.00025444565896599999, "ADM4_EN": "Semyduby", "ADM4_UA": "Семидуби", "ADM4_PCODE": "UA3502015007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Perehonivska", "ADM3_UA": "Перегонівська", "ADM3_PCODE": "UA3502015", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "Голованівський", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.441925001000072, 48.513407 ], [ 30.439771, 48.517946 ], [ 30.437109, 48.517467 ], [ 30.431181001000027, 48.512829 ], [ 30.422171, 48.516022 ], [ 30.419519, 48.513389 ], [ 30.427217, 48.510242 ], [ 30.437976, 48.50892 ], [ 30.445075, 48.504585 ], [ 30.454173, 48.501664 ], [ 30.459707001000027, 48.502813 ], [ 30.468447001000072, 48.50093 ], [ 30.475658, 48.498103 ], [ 30.47755199900007, 48.50054 ], [ 30.462363, 48.505913 ], [ 30.457914, 48.505314 ], [ 30.441925001000072, 48.513407 ] ] ] } }
+]
+}

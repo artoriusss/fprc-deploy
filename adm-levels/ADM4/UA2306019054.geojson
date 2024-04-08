@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.063966349062899996, "Shape_Area": 0.000108143638533, "ADM4_EN": "Trudove", "ADM4_UA": "Трудове", "ADM4_PCODE": "UA2306019054", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novomykolaivska", "ADM3_UA": "Новомиколаївська", "ADM3_PCODE": "UA2306019", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.002565003000029, 47.956911030000072 ], [ 36.005861032000041, 47.957181189000039 ], [ 36.01317212500004, 47.955080759000055 ], [ 36.014074874000073, 47.956346960000076 ], [ 36.020242961000065, 47.954580723000049 ], [ 36.025359316000049, 47.956649741000035 ], [ 36.014844978000042, 47.960810475000073 ], [ 36.007889410000075, 47.962402811000061 ], [ 36.002239203000045, 47.962417950000031 ], [ 36.002304002000074, 47.958623010000053 ], [ 36.002565003000029, 47.956911030000072 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.042572244113900003, "Shape_Area": 8.0077131072499994e-05, "ADM4_EN": "Khorovy", "ADM4_UA": "Хорови", "ADM4_PCODE": "UA7302017011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ust-Putylska", "ADM3_UA": "Усть-Путильська", "ADM3_PCODE": "UA7302017", "ADM2_EN": "Vyzhnytskyi", "ADM2_UA": "Вижницький", "ADM2_PCODE": "UA7302", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.144521, 48.187616 ], [ 25.140962, 48.187681 ], [ 25.139705999000057, 48.182506 ], [ 25.151981500000034, 48.180173 ], [ 25.152817, 48.184768 ], [ 25.148304, 48.187672 ], [ 25.144521, 48.187616 ] ] ] } }
+]
+}

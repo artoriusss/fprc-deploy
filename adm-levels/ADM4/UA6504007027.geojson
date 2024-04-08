@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.112812556619, "Shape_Area": 0.00057544235611599998, "ADM4_EN": "Novopokrovka", "ADM4_UA": "Новопокровка", "ADM4_PCODE": "UA6504007027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novotroitska", "ADM3_UA": "Новотроїцька", "ADM3_PCODE": "UA6504007", "ADM2_EN": "Henicheskyi", "ADM2_UA": "Генічеський", "ADM2_PCODE": "UA6504", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.084359, 46.2798 ], [ 34.078964, 46.281161 ], [ 34.071384, 46.285962 ], [ 34.068633, 46.283877 ], [ 34.05576, 46.278633 ], [ 34.052341, 46.279746 ], [ 34.053256, 46.26885 ], [ 34.064163, 46.264237 ], [ 34.075390999000035, 46.265715 ], [ 34.081071, 46.263494 ], [ 34.086088, 46.265668 ], [ 34.083509999000057, 46.269113 ], [ 34.093267, 46.273972 ], [ 34.091132, 46.277393 ], [ 34.084359, 46.2798 ] ] ] } }
+]
+}

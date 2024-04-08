@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.042599187774399999, "Shape_Area": 5.5401349806199998e-05, "ADM4_EN": "Hlynne", "ADM4_UA": "Глинне", "ADM4_PCODE": "UA4602003010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Drohobytska", "ADM3_UA": "Дрогобицька", "ADM3_PCODE": "UA4602003", "ADM2_EN": "Drohobytskyi", "ADM2_UA": "Дрогобицький", "ADM2_PCODE": "UA4602", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.481939779000072, 49.450898171000063 ], [ 23.478097355000045, 49.451037014000065 ], [ 23.470924359000037, 49.449338014000034 ], [ 23.472930553000026, 49.445656771000074 ], [ 23.483101999000041, 49.446006 ], [ 23.481939779000072, 49.450898171000063 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.086656181810200003, "Shape_Area": 0.000295334335783, "ADM4_EN": "Fedunka", "ADM4_UA": "Федунка", "ADM4_PCODE": "UA5306033062", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shyshatska", "ADM3_UA": "Шишацька", "ADM3_PCODE": "UA5306033", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.906461, 49.769339 ], [ 33.899628, 49.766414 ], [ 33.895623, 49.767755 ], [ 33.892806999000072, 49.764103 ], [ 33.894898999000077, 49.76018 ], [ 33.911517, 49.753921 ], [ 33.919206001000077, 49.754746 ], [ 33.923085999000079, 49.756651 ], [ 33.92379500100003, 49.762215 ], [ 33.915646001000027, 49.765075 ], [ 33.906461, 49.769339 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.123717992561, "Shape_Area": 0.00029829433011500001, "ADM4_EN": "Strymivka", "ADM4_UA": "Стримівка", "ADM4_PCODE": "UA3504025047", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Oleksandrivska", "ADM3_UA": "Олександрівська", "ADM3_PCODE": "UA3504025", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.319915, 48.929732 ], [ 32.32325, 48.924683 ], [ 32.321946999000033, 48.922801 ], [ 32.309057, 48.925465 ], [ 32.305411001000039, 48.924464 ], [ 32.298076, 48.925697 ], [ 32.297074, 48.924015 ], [ 32.315712999000027, 48.91884 ], [ 32.31654, 48.91701 ], [ 32.31324199900007, 48.911393 ], [ 32.316534999000055, 48.90932 ], [ 32.329507, 48.910175 ], [ 32.334479999000052, 48.915086 ], [ 32.325461001000065, 48.923353 ], [ 32.324320974000045, 48.92926191600003 ], [ 32.319915, 48.929732 ] ] ] } }
+]
+}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.02566184977, "Shape_Area": 1.8401275960699999e-05, "ADM4_EN": "Fartukivka", "ADM4_UA": "Ð¤Ð°ÑÑÑÐºÑÐ²ÐºÐ°", "ADM4_RU": "Ð¤Ð°ÑÑÑÐºÐ¾Ð²ÐºÐ°", "ADM4_PCODE": "UA4414005034", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Markivska", "ADM3_UA": "ÐÐ°ÑÐºÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ°ÑÐºÐ¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA4414005", "ADM2_EN": "Starobilskyi", "ADM2_UA": "Ð¡ÑÐ°ÑÐ¾Ð±ÑÐ»ÑÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¡ÑÐ°ÑÐ¾Ð±ÐµÐ»ÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA4414", "ADM1_EN": "Luhanska", "ADM1_UA": "ÐÑÐ³Ð°Ð½ÑÑÐºÐ°", "ADM1_RU": "ÐÑÐ³Ð°Ð½ÑÐºÐ°Ñ", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.455189999000027, 49.550138 ], [ 39.456535999000039, 49.549552 ], [ 39.456916001000025, 49.549732 ], [ 39.457003, 49.549777 ], [ 39.457952001000081, 49.549259 ], [ 39.457052001000079, 49.548361 ], [ 39.462419, 49.545637 ], [ 39.46209, 49.54512 ], [ 39.463004, 49.544569 ], [ 39.462295, 49.54385 ], [ 39.456393, 49.546844 ], [ 39.453304, 49.548537500000066 ], [ 39.455189999000027, 49.550138 ] ] ] } }
-]
-}

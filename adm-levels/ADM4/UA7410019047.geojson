@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.095174228466299998, "Shape_Area": 0.00014769507044599999, "ADM4_EN": "Tarasiv", "ADM4_UA": "Тарасів", "ADM4_PCODE": "UA7410019047", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozeletska", "ADM3_UA": "Козелецька", "ADM3_PCODE": "UA7410019", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.040326800000059, 50.988933990000078 ], [ 31.032506880000028, 50.987797020000073 ], [ 31.033771200000047, 50.984404020000056 ], [ 31.031976960000065, 50.982008040000039 ], [ 31.039828200000045, 50.981517 ], [ 31.043924999000069, 50.976693 ], [ 31.047271199000079, 50.976412020000055 ], [ 31.048462080000036, 50.979869010000073 ], [ 31.044844080000075, 50.980818060000047 ], [ 31.045137839000063, 50.987933009000074 ], [ 31.040326800000059, 50.988933990000078 ] ] ] } }
+]
+}

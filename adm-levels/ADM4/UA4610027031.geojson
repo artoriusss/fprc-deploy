@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.058400905077199999, "Shape_Area": 0.00011312742954099999, "ADM4_EN": "Molodynche", "ADM4_UA": "Молодинче", "ADM4_PCODE": "UA4610027031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khodorivska", "ADM3_UA": "Ходорівська", "ADM3_PCODE": "UA4610027", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.336221154000043, 49.336828005000029 ], [ 24.331996154000024, 49.337951006000026 ], [ 24.329710153000065, 49.333868006000046 ], [ 24.325567156000034, 49.330574006000063 ], [ 24.33696915400003, 49.325578006000057 ], [ 24.339662153000063, 49.328574005000064 ], [ 24.33892815300004, 49.331344005000062 ], [ 24.342663153000046, 49.333336005000035 ], [ 24.338227152000059, 49.336964005000027 ], [ 24.336221154000043, 49.336828005000029 ] ] ] } }
+]
+}

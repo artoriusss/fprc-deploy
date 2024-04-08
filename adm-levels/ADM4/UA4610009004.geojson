@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057545273731799997, "Shape_Area": 0.00012708587290200001, "ADM4_EN": "Dolynivka", "ADM4_UA": "Долинівка", "ADM4_PCODE": "UA4610009004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozivska", "ADM3_UA": "Козівська", "ADM3_PCODE": "UA4610009", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.241427431000034, 48.882741017000058 ], [ 23.245419429000037, 48.889871017000075 ], [ 23.237057431000039, 48.893077017000053 ], [ 23.226527437000072, 48.899037017000069 ], [ 23.226688436000074, 48.895276017000072 ], [ 23.23019643400005, 48.889215017000026 ], [ 23.238002431000041, 48.886670017000029 ], [ 23.241427431000034, 48.882741017000058 ] ] ] } }
+]
+}

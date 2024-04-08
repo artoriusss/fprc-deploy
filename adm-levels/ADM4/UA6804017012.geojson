@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.098510727021900002, "Shape_Area": 9.6088265950899994e-05, "ADM4_EN": "Mala Klitna", "ADM4_UA": "Мала Клітна", "ADM4_PCODE": "UA6804017012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zasluchnenska", "ADM3_UA": "Заслучненська", "ADM3_PCODE": "UA6804017", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.665379, 49.733945 ], [ 26.668871, 49.730339 ], [ 26.669288, 49.726362 ], [ 26.672755, 49.726227 ], [ 26.675269999000079, 49.728975 ], [ 26.678433, 49.728609 ], [ 26.682583, 49.731008 ], [ 26.678634001000034, 49.734582 ], [ 26.675632, 49.732609 ], [ 26.671656, 49.73444 ], [ 26.667777, 49.732723 ], [ 26.665379, 49.733945 ] ] ] } }
+]
+}

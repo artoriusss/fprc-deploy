@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.081727510235499998, "Shape_Area": 0.00016435779357200001, "ADM4_EN": "Bakaly", "ADM4_UA": "Бакали", "ADM4_PCODE": "UA3202009002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Malovilshanska", "ADM3_UA": "Маловільшанська", "ADM3_PCODE": "UA3202009", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.057950018000042, 49.708802634000051 ], [ 30.049231955000039, 49.708833607000031 ], [ 30.045115997000039, 49.70677663400005 ], [ 30.039003001000026, 49.70605254600008 ], [ 30.035960001000035, 49.704122547000054 ], [ 30.042651009000053, 49.698234464000052 ], [ 30.047680033000063, 49.69806561200005 ], [ 30.048952045000078, 49.700335596000059 ], [ 30.052561062000052, 49.69986459100005 ], [ 30.055287036000038, 49.703175610000073 ], [ 30.057950018000042, 49.708802634000051 ] ] ] } }
+]
+}

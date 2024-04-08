@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.080270141374000001, "Shape_Area": 0.00021187924283699999, "ADM4_EN": "Skorobahatky", "ADM4_UA": "Скоробагатьки", "ADM4_PCODE": "UA5306029017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Senchanska", "ADM3_UA": "Сенчанська", "ADM3_PCODE": "UA5306029", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.229948999000044, 50.248095 ], [ 33.227161999000032, 50.24681 ], [ 33.228825, 50.240135 ], [ 33.231898, 50.238717 ], [ 33.230947, 50.233662 ], [ 33.24126, 50.23078 ], [ 33.246241, 50.232561 ], [ 33.248413, 50.237908 ], [ 33.242989999000031, 50.240307 ], [ 33.237627, 50.246873 ], [ 33.231047, 50.246726 ], [ 33.229948999000044, 50.248095 ] ] ] } }
+]
+}

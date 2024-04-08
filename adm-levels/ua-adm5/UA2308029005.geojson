@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.024143858634199999, "Shape_Area": 3.2330774456e-05, "ADM4_EN": "Zelenyi Luh", "ADM4_UA": "ÐÐµÐ»ÐµÐ½Ð¸Ð¹ ÐÑÐ³", "ADM4_RU": "ÐÐµÐ»ÐµÐ½ÑÐ¹ ÐÑÐ³", "ADM4_PCODE": "UA2308029005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chkalovska", "ADM3_UA": "Ð§ÐºÐ°Ð»Ð¾Ð²ÑÑÐºÐ°", "ADM3_RU": "Ð§ÐºÐ°Ð»Ð¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA2308029", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "ÐÐµÐ»ÑÑÐ¾Ð¿Ð¾Ð»ÑÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐµÐ»Ð¸ÑÐ¾Ð¿Ð¾Ð»ÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "ÐÐ°Ð¿Ð¾ÑÑÐ·ÑÐºÐ°", "ADM1_RU": "ÐÐ°Ð¿Ð¾ÑÐ¾Ð¶ÑÐºÐ°Ñ", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.755262908000077, 46.991319634000035 ], [ 34.751554387000056, 46.99066242300006 ], [ 34.750296614000035, 46.999011826000071 ], [ 34.754674644000033, 46.998849601000074 ], [ 34.755262908000077, 46.991319634000035 ] ] ] } }
-]
-}

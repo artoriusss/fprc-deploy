@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.081307474918200007, "Shape_Area": 0.00017099001189000001, "ADM4_EN": "Veselyi Khutir", "ADM4_UA": "Веселий Хутір", "ADM4_PCODE": "UA7104019007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chornobaivska", "ADM3_UA": "Чорнобаївська", "ADM3_PCODE": "UA7104019", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.471557, 49.653193 ], [ 32.473943001000066, 49.656952 ], [ 32.471192537000036, 49.65945787000004 ], [ 32.462860923000051, 49.661937390000048 ], [ 32.457001651000041, 49.654746745000068 ], [ 32.454917001000069, 49.650898 ], [ 32.465154079000058, 49.648463829000036 ], [ 32.467732884000043, 49.65262275200007 ], [ 32.471557, 49.653193 ] ] ] } }
+]
+}

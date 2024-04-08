@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11650194727099999, "Shape_Area": 0.00017928393810300001, "ADM4_EN": "Lozy", "ADM4_UA": "Лози", "ADM4_PCODE": "UA6102005017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vyshnivetska", "ADM3_UA": "Вишнівецька", "ADM3_PCODE": "UA6102005", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.77818773000007, 49.910500673000058 ], [ 25.773526412000024, 49.91196050700006 ], [ 25.774306489000026, 49.904674150000062 ], [ 25.782885414000077, 49.901429076000056 ], [ 25.791014894000057, 49.90279029900006 ], [ 25.79927925800007, 49.903001790000076 ], [ 25.798598273000039, 49.90611847200006 ], [ 25.78536428600006, 49.910138882000069 ], [ 25.782304186000033, 49.909335820000081 ], [ 25.77818773000007, 49.910500673000058 ] ] ] } }
+]
+}

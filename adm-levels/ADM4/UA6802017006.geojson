@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.083377302137300005, "Shape_Area": 0.00016916366062400001, "ADM4_EN": "Malyi Karabchiiv", "ADM4_UA": "Малий Карабчіїв", "ADM4_PCODE": "UA6802017006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novounaievetska", "ADM3_UA": "Новодунаєвецька", "ADM3_PCODE": "UA6802017", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.687472999000079, 49.064848 ], [ 26.684333, 49.061951 ], [ 26.685796, 49.059664 ], [ 26.691387001000066, 49.056513 ], [ 26.696235, 49.056375 ], [ 26.702309999000079, 49.052828 ], [ 26.703353, 49.054474 ], [ 26.708208999000078, 49.052896 ], [ 26.708701, 49.04817 ], [ 26.714624, 49.053192 ], [ 26.70387, 49.059246 ], [ 26.692172, 49.063815 ], [ 26.687472999000079, 49.064848 ] ] ] } }
+]
+}

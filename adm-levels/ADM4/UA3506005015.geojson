@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.056587773740599999, "Shape_Area": 0.00010386166587, "ADM4_EN": "Marivka", "ADM4_UA": "Мар'ївка", "ADM4_PCODE": "UA3506005015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dobrovelychkivska", "ADM3_UA": "Добровеличківська", "ADM3_PCODE": "UA3506005", "ADM2_EN": "Novoukrainskyi", "ADM2_UA": "Новоукраїнський", "ADM2_PCODE": "UA3506", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.196582, 48.397994 ], [ 31.192234, 48.406638 ], [ 31.190062001000058, 48.406353 ], [ 31.19214, 48.399735 ], [ 31.190549, 48.399335 ], [ 31.193009001000064, 48.390809 ], [ 31.194473, 48.389974 ], [ 31.202738001000057, 48.391932 ], [ 31.201715, 48.394626 ], [ 31.196582, 48.397994 ] ] ] } }
+]
+}

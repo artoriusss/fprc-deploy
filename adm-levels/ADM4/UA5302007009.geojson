@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.034710239984400003, "Shape_Area": 4.4737413938000002e-05, "ADM4_EN": "Stara Biletskivka", "ADM4_UA": "Стара Білецьківка", "ADM4_PCODE": "UA5302007009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kamianopotokivska", "ADM3_UA": "Кам'янопотоківська", "ADM3_PCODE": "UA5302007", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.340951, 49.023307 ], [ 33.343104, 49.019428 ], [ 33.354267, 49.017218 ], [ 33.354903, 49.020018 ], [ 33.345439, 49.02287 ], [ 33.340951, 49.023307 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.053013211582699997, "Shape_Area": 6.5994724658699995e-05, "ADM4_EN": "Krokva", "ADM4_UA": "Кроква", "ADM4_PCODE": "UA7304007004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Livynetska", "ADM3_UA": "Лівинецька", "ADM3_PCODE": "UA7304007", "ADM2_EN": "Dnistrovskyi", "ADM2_UA": "Дністровський", "ADM2_PCODE": "UA7304", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.610976, 48.42755 ], [ 26.610817, 48.429432 ], [ 26.603571, 48.428509 ], [ 26.604535, 48.424159 ], [ 26.607043, 48.420448 ], [ 26.611688005000076, 48.417200875000049 ], [ 26.614484, 48.418191 ], [ 26.60896, 48.422833 ], [ 26.607641, 48.425253 ], [ 26.610976, 48.42755 ] ] ] } }
+]
+}

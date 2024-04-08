@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.113281580304, "Shape_Area": 0.000269678262351, "ADM4_EN": "Tarnavka", "ADM4_UA": "Тарнавка", "ADM4_PCODE": "UA6106023006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kolyndianska", "ADM3_UA": "Колиндянська", "ADM3_PCODE": "UA6106023", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.002639, 48.917619 ], [ 25.997174, 48.915784 ], [ 25.994047999000031, 48.908928 ], [ 25.986093001000029, 48.907908 ], [ 25.988923, 48.904917 ], [ 25.991487, 48.906175 ], [ 25.998313, 48.906116 ], [ 26.002572, 48.904833 ], [ 26.017479517000027, 48.90306337800007 ], [ 26.028815245000033, 48.90328377700007 ], [ 26.029101, 48.905182 ], [ 26.020393, 48.908096 ], [ 26.010864, 48.910503 ], [ 26.010447999000064, 48.913938 ], [ 26.002639, 48.917619 ] ] ] } }
+]
+}

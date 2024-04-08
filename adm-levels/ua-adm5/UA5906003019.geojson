@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0216567388571, "Shape_Area": 1.6890484999399998e-05, "ADM4_EN": "Fartushyne", "ADM4_UA": "Ð¤Ð°ÑÑÑÑÐ¸Ð½Ðµ", "ADM4_RU": "Ð¤Ð°ÑÑÑÑÐ¸Ð½Ð¾", "ADM4_PCODE": "UA5906003019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vilshanska", "ADM3_UA": "ÐÑÐ»ÑÑÐ°Ð½ÑÑÐºÐ°", "ADM3_RU": "ÐÐ»ÑÑÐ°Ð½ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5906003", "ADM2_EN": "Romenskyi", "ADM2_UA": "Ð Ð¾Ð¼ÐµÐ½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð Ð¾Ð¼ÐµÐ½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Ð¡ÑÐ¼ÑÑÐºÐ°", "ADM1_RU": "Ð¡ÑÐ¼ÑÐºÐ°Ñ", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.032869500000061, 50.772521500000039 ], [ 34.034458001000075, 50.770608 ], [ 34.035271, 50.770757 ], [ 34.036571, 50.771134 ], [ 34.038407, 50.771193 ], [ 34.038672, 50.770114 ], [ 34.037662999000077, 50.770004 ], [ 34.037051, 50.769145 ], [ 34.031469001000062, 50.768875 ], [ 34.031604999000024, 50.769832 ], [ 34.03134, 50.770265 ], [ 34.029984, 50.771538 ], [ 34.03182, 50.772199 ], [ 34.032869500000061, 50.772521500000039 ] ] ] } }
-]
-}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.068011284551000001, "Shape_Area": 0.000109204931749, "ADM4_EN": "Chornoplatove", "ADM4_UA": "Чорноплатове", "ADM4_PCODE": "UA5902013037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Popivska", "ADM3_UA": "Попівська", "ADM3_PCODE": "UA5902013", "ADM2_EN": "Konotopskyi", "ADM2_UA": "Конотопський", "ADM2_PCODE": "UA5902", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.178278001000024, 51.384956 ], [ 33.174179001000027, 51.381692 ], [ 33.167105999000057, 51.383516 ], [ 33.168251, 51.379407 ], [ 33.165627999000037, 51.375222 ], [ 33.168856, 51.373342 ], [ 33.17569, 51.379044 ], [ 33.179128001000038, 51.379936 ], [ 33.178278001000024, 51.384956 ] ] ] } }
+]
+}

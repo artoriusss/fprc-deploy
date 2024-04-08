@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062886774317000002, "Shape_Area": 0.000101354356363, "ADM4_EN": "Horod", "ADM4_UA": "Город", "ADM4_PCODE": "UA2610001004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kosivska", "ADM3_UA": "Косівська", "ADM3_PCODE": "UA2610001", "ADM2_EN": "Kosivskyi", "ADM2_UA": "Косівський", "ADM2_PCODE": "UA2610", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.046634, 48.309575 ], [ 25.039509, 48.312628 ], [ 25.039386, 48.309646 ], [ 25.042872, 48.308165 ], [ 25.041085, 48.305164 ], [ 25.045872, 48.302145 ], [ 25.049495, 48.303794 ], [ 25.055633999000065, 48.301605 ], [ 25.055740999000022, 48.309298 ], [ 25.046634, 48.309575 ] ] ] } }
+]
+}

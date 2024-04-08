@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.072631055430700003, "Shape_Area": 0.00022591179057200001, "ADM4_EN": "Chervonokostiantynivka", "ADM4_UA": "Червонокостянтинівка", "ADM4_PCODE": "UA3508011037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Petrivska", "ADM3_UA": "Петрівська", "ADM3_PCODE": "UA3508011", "ADM2_EN": "Oleksandriiskyi", "ADM2_UA": "Олександрійський", "ADM2_PCODE": "UA3508", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.216147, 48.227067 ], [ 33.209625, 48.22681 ], [ 33.204196, 48.225599 ], [ 33.206246001000068, 48.216629 ], [ 33.210561, 48.216772 ], [ 33.210491001000037, 48.212827 ], [ 33.224965, 48.213556 ], [ 33.222705999000027, 48.225209 ], [ 33.216659, 48.224841 ], [ 33.216147, 48.227067 ] ] ] } }
+]
+}

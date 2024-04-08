@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.099849687993300004, "Shape_Area": 0.000191503889652, "ADM4_EN": "Tsebriv", "ADM4_UA": "Цебрів", "ADM4_PCODE": "UA6104033012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ozernianska", "ADM3_UA": "Озернянська", "ADM3_PCODE": "UA6104033", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.408414, 49.632501 ], [ 25.403939999000045, 49.63319 ], [ 25.394587001000048, 49.637879 ], [ 25.394331, 49.635513 ], [ 25.40419, 49.629721 ], [ 25.406501, 49.627599 ], [ 25.414723, 49.626862001000063 ], [ 25.415469, 49.623813 ], [ 25.419245, 49.62377 ], [ 25.419914, 49.627565 ], [ 25.430086, 49.626977 ], [ 25.43421199900007, 49.627809 ], [ 25.418269999000074, 49.634904 ], [ 25.41193, 49.632006 ], [ 25.408414, 49.632501 ] ] ] } }
+]
+}

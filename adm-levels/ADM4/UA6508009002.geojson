@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.067017978379099993, "Shape_Area": 0.000182081247237, "ADM4_EN": "Volodymyrivka", "ADM4_UA": "Володимирівка", "ADM4_PCODE": "UA6508009002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lazurnenska", "ADM3_UA": "Лазурненська", "ADM3_PCODE": "UA6508009", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Скадовський", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.646118, 46.129655 ], [ 32.643734, 46.127605 ], [ 32.639147999000045, 46.127104 ], [ 32.641436, 46.117554 ], [ 32.646224001000064, 46.117785 ], [ 32.647052, 46.111606 ], [ 32.651508, 46.114375 ], [ 32.650707999000076, 46.118939 ], [ 32.657692, 46.119691 ], [ 32.655151, 46.128324 ], [ 32.646683, 46.127471 ], [ 32.646118, 46.129655 ] ] ] } }
+]
+}

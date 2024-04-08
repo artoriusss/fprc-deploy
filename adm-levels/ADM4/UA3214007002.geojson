@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.053857522606999997, "Shape_Area": 0.000126847471177, "ADM4_EN": "Berezenshchyna", "ADM4_UA": "Березенщина", "ADM4_PCODE": "UA3214007002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hlevakhivska", "ADM3_UA": "Глевахівська", "ADM3_PCODE": "UA3214007", "ADM2_EN": "Fastivskyi", "ADM2_UA": "Фастівський", "ADM2_PCODE": "UA3214", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.304914978000056, 50.206489054000031 ], [ 30.302468917000056, 50.208941076000031 ], [ 30.288151929000037, 50.207931041000052 ], [ 30.285502932000043, 50.206599026000049 ], [ 30.29020999100004, 50.202913039000066 ], [ 30.296682950000047, 50.201193039000032 ], [ 30.301956939000036, 50.199762036000038 ], [ 30.302776198000061, 50.198129169000026 ], [ 30.304214043000059, 50.197998015000053 ], [ 30.304914978000056, 50.206489054000031 ] ] ] } }
+]
+}

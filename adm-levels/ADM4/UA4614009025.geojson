@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.046208420443599997, "Shape_Area": 6.7803594159900006e-05, "ADM4_EN": "Tyshkovychi", "ADM4_UA": "Тишковичі", "ADM4_PCODE": "UA4614009025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shehynivska", "ADM3_UA": "Шегинівська", "ADM3_PCODE": "UA4614009", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.926898594000022, 49.719583023000041 ], [ 22.92357759600003, 49.717378023000038 ], [ 22.918340600000079, 49.717002024000067 ], [ 22.921503596000036, 49.712518024000076 ], [ 22.927888593000034, 49.712335025000073 ], [ 22.933061591000069, 49.716377023000064 ], [ 22.927238593000027, 49.717769023000074 ], [ 22.926898594000022, 49.719583023000041 ] ] ] } }
+]
+}

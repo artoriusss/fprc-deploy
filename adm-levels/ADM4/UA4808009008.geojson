@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10939323646, "Shape_Area": 0.00042916964306099998, "ADM4_EN": "Krasnenke", "ADM4_UA": "Красненьке", "ADM4_PCODE": "UA4808009008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kryvoozerska", "ADM3_UA": "Кривоозерська", "ADM3_PCODE": "UA4808009", "ADM2_EN": "Pervomaiskyi", "ADM2_UA": "Первомайський", "ADM2_PCODE": "UA4808", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.333073758000069, 48.150170225000068 ], [ 30.331039267000051, 48.149491139000077 ], [ 30.326781374000063, 48.144516030000034 ], [ 30.316227311000034, 48.139001479000058 ], [ 30.314133032000029, 48.135394050000059 ], [ 30.317607962000068, 48.124178918000041 ], [ 30.337993771000072, 48.127113696000038 ], [ 30.338821886000062, 48.130553815000042 ], [ 30.333073758000069, 48.150170225000068 ] ] ] } }
+]
+}

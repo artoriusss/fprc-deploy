@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.106234498599, "Shape_Area": 0.000115150939064, "ADM4_EN": "Lozovivka", "ADM4_UA": "Лозовівка", "ADM4_PCODE": "UA4414015005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shulhynska", "ADM3_UA": "Шульгинська", "ADM3_PCODE": "UA4414015", "ADM2_EN": "Starobilskyi", "ADM2_UA": "Старобільський", "ADM2_PCODE": "UA4414", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.886076999000068, 49.201043 ], [ 38.879439, 49.199492 ], [ 38.877123, 49.194524 ], [ 38.880244, 49.19304 ], [ 38.881032, 49.18878 ], [ 38.884786, 49.183733 ], [ 38.880157, 49.180868 ], [ 38.882316001000049, 49.175023 ], [ 38.886827001000029, 49.183688 ], [ 38.883467001000042, 49.188319 ], [ 38.882833, 49.193018 ], [ 38.886076999000068, 49.201043 ] ] ] } }
+]
+}

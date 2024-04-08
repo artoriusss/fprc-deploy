@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.066488837989699998, "Shape_Area": 7.6929374033599999e-05, "ADM4_EN": "Bohdalivka", "ADM4_UA": "Богдалівка", "ADM4_PCODE": "UA7402001006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Koriukivska", "ADM3_UA": "Корюківська", "ADM3_PCODE": "UA7402001", "ADM2_EN": "Koriukivskyi", "ADM2_UA": "Корюківський", "ADM2_PCODE": "UA7402", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.510293919000048, 51.825924 ], [ 32.498314920000041, 51.830176950000066 ], [ 32.493191040000056, 51.831009 ], [ 32.492757961000052, 51.828293070000029 ], [ 32.498174879000032, 51.827951970000072 ], [ 32.500594080000042, 51.824982060000082 ], [ 32.50332, 51.825206970000067 ], [ 32.516249040000048, 51.82195401000007 ], [ 32.517095041000061, 51.82590096000007 ], [ 32.510293919000048, 51.825924 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.089080345651200002, "Shape_Area": 6.8851513229500005e-05, "ADM4_EN": "Kholodnyk", "ADM4_UA": "Холодник", "ADM4_PCODE": "UA5906001028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Andriiashivska", "ADM3_UA": "Андріяшівська", "ADM3_PCODE": "UA5906001", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.569190999000057, 50.538669 ], [ 33.5669, 50.536184 ], [ 33.5643, 50.538348 ], [ 33.560625999000024, 50.535452 ], [ 33.565678, 50.531801 ], [ 33.575311, 50.53264 ], [ 33.580737950000071, 50.534187643000053 ], [ 33.580572621000044, 50.536479533000033 ], [ 33.572761999000079, 50.536029 ], [ 33.569190999000057, 50.538669 ] ] ] } }
+]
+}

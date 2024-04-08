@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.025285881355400001, "Shape_Area": 1.80369204371e-05, "ADM4_EN": "Fedorivka", "ADM4_UA": "Ð¤ÐµÐ´Ð¾ÑÑÐ²ÐºÐ°", "ADM4_RU": "Ð¤ÐµÐ´Ð¾ÑÐ¾Ð²ÐºÐ°", "ADM4_PCODE": "UA6304003052", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Barvinkivska", "ADM3_UA": "ÐÐ°ÑÐ²ÑÐ½ÐºÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ°ÑÐ²ÐµÐ½ÐºÐ¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA6304003", "ADM2_EN": "Iziumskyi", "ADM2_UA": "ÐÐ·ÑÐ¼ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ·ÑÐ¼ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA6304", "ADM1_EN": "Kharkivska", "ADM1_UA": "Ð¥Ð°ÑÐºÑÐ²ÑÑÐºÐ°", "ADM1_RU": "Ð¥Ð°ÑÑÐºÐ¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.971437999000045, 48.794059 ], [ 36.970416001000046, 48.793644 ], [ 36.96539000100006, 48.799053 ], [ 36.964068, 48.802032 ], [ 36.965872, 48.802828 ], [ 36.967773, 48.799388 ], [ 36.969809999000063, 48.797162 ], [ 36.968942, 48.796713 ], [ 36.971437999000045, 48.794059 ] ] ] } }
-]
-}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.112167863871, "Shape_Area": 0.00022443158423300001, "ADM4_EN": "Shliakhove", "ADM4_UA": "Шляхове", "ADM4_PCODE": "UA6306003038", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kehychivska", "ADM3_UA": "Кегичівська", "ADM3_PCODE": "UA6306003", "ADM2_EN": "Krasnohradskyi", "ADM2_UA": "Красноградський", "ADM2_PCODE": "UA6306", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.843563122000035, 49.37084989300007 ], [ 35.844398177000073, 49.372804200000076 ], [ 35.835782, 49.37212 ], [ 35.833922, 49.373512 ], [ 35.818324001000065, 49.36899 ], [ 35.816938, 49.363237 ], [ 35.825126, 49.362164 ], [ 35.828874, 49.363771 ], [ 35.833847001000038, 49.361493 ], [ 35.834108, 49.357471 ], [ 35.837924999000052, 49.358641 ], [ 35.837371001000065, 49.363112 ], [ 35.838567337000029, 49.36637959400008 ], [ 35.843563122000035, 49.37084989300007 ] ] ] } }
+]
+}

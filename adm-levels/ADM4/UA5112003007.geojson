@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.124583696846, "Shape_Area": 0.00027297000571999998, "ADM4_EN": "Borsuky", "ADM4_UA": "Борсуки", "ADM4_PCODE": "UA5112003007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Baltska", "ADM3_UA": "Балтська", "ADM3_PCODE": "UA5112003", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.415409001000057, 48.048561 ], [ 29.411364, 48.046255 ], [ 29.402949001000025, 48.045308 ], [ 29.401031, 48.041865 ], [ 29.415588, 48.037451 ], [ 29.419366, 48.033974 ], [ 29.42277400100005, 48.034729 ], [ 29.43376, 48.031725 ], [ 29.432818, 48.037933 ], [ 29.425588, 48.042741 ], [ 29.42515, 48.046211 ], [ 29.420139, 48.042709 ], [ 29.419886, 48.046345 ], [ 29.415409001000057, 48.048561 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.058469905505299999, "Shape_Area": 6.3947792965699996e-05, "ADM4_EN": "Burbyne", "ADM4_UA": "Бурбине", "ADM4_PCODE": "UA5906001006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Andriiashivska", "ADM3_UA": "Андріяшівська", "ADM3_PCODE": "UA5906001", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.44828, 50.596162 ], [ 33.448359, 50.593096 ], [ 33.453645001000041, 50.588724 ], [ 33.456813, 50.589028 ], [ 33.460648999000057, 50.584506 ], [ 33.463742, 50.58721 ], [ 33.456991999000024, 50.592378 ], [ 33.453194, 50.592179 ], [ 33.44828, 50.596162 ] ] ] } }
+]
+}

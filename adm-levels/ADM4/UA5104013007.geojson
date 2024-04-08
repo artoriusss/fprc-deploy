@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062895381829700003, "Shape_Area": 0.00015690713734599999, "ADM4_EN": "Sadove", "ADM4_UA": "Садове", "ADM4_PCODE": "UA5104013007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Molohivska", "ADM3_UA": "Мологівська", "ADM3_PCODE": "UA5104013", "ADM2_EN": "Bilhorod-Dnistrovskyi", "ADM2_UA": "Білгород-Дністровський", "ADM2_PCODE": "UA5104", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.215734212000029, 46.239108060000035 ], [ 30.207905263000043, 46.241752928000039 ], [ 30.19998576100005, 46.246109292000028 ], [ 30.197519, 46.24358 ], [ 30.198569, 46.239079 ], [ 30.201957, 46.235455 ], [ 30.198138, 46.232841 ], [ 30.205225001000031, 46.229141 ], [ 30.21249, 46.234873 ], [ 30.215734212000029, 46.239108060000035 ] ] ] } }
+]
+}

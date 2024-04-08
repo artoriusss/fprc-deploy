@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.080299737150399994, "Shape_Area": 0.000118223600174, "ADM4_EN": "Adamivka", "ADM4_UA": "Адамівка", "ADM4_PCODE": "UA7404007002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Borznianska", "ADM3_UA": "Борзнянська", "ADM3_PCODE": "UA7404007", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.386381199000027, 51.349302990000069 ], [ 32.393718, 51.345323010000072 ], [ 32.396392080000055, 51.34539699000004 ], [ 32.40154584000004, 51.338312010000038 ], [ 32.403494160000037, 51.339425040000037 ], [ 32.410081081000044, 51.338969010000028 ], [ 32.413024080000071, 51.342885 ], [ 32.40487188000003, 51.344249940000054 ], [ 32.400542160000043, 51.347988990000033 ], [ 32.386381199000027, 51.349302990000069 ] ] ] } }
+]
+}

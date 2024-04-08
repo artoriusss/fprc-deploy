@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.136792060188, "Shape_Area": 0.000197066031105, "ADM4_EN": "Peremorivka", "ADM4_UA": "Переморівка", "ADM4_PCODE": "UA6102015031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shumska", "ADM3_UA": "Шумська", "ADM3_PCODE": "UA6102015", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.208709001000045, 50.252314 ], [ 26.200152, 50.247758 ], [ 26.197097, 50.24958 ], [ 26.192466001000071, 50.247881 ], [ 26.189965, 50.249376 ], [ 26.184742, 50.2473 ], [ 26.182895, 50.243066 ], [ 26.184229, 50.240239 ], [ 26.179861001000063, 50.238796 ], [ 26.183008, 50.235804 ], [ 26.190319001000034, 50.239283 ], [ 26.195172, 50.242706 ], [ 26.199527, 50.243137 ], [ 26.20532600100006, 50.241022 ], [ 26.204606, 50.245251 ], [ 26.209923, 50.245106 ], [ 26.208709001000045, 50.252314 ] ] ] } }
+]
+}

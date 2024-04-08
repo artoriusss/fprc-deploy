@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.117864094418, "Shape_Area": 0.000133651532434, "ADM4_EN": "Zholdaky", "ADM4_UA": "Жолдаки", "ADM4_PCODE": "UA5902013009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Popivska", "ADM3_UA": "Попівська", "ADM3_PCODE": "UA5902013", "ADM2_EN": "Konotopskyi", "ADM2_UA": "Конотопський", "ADM2_PCODE": "UA5902", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.353561999000078, 51.394807 ], [ 33.349032, 51.39303 ], [ 33.344155, 51.39329 ], [ 33.330917, 51.391806 ], [ 33.32785399900007, 51.389219 ], [ 33.329890378000073, 51.383426866000036 ], [ 33.332382, 51.388231 ], [ 33.338943001000075, 51.389028 ], [ 33.341397, 51.390602 ], [ 33.346330001000069, 51.389798 ], [ 33.349226639000051, 51.386714113000039 ], [ 33.356706, 51.387694 ], [ 33.35771, 51.390752 ], [ 33.350849, 51.391494 ], [ 33.353561999000078, 51.394807 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.090403256909900004, "Shape_Area": 9.6379560372199997e-05, "ADM4_EN": "Kozyrivka", "ADM4_UA": "Козирівка", "ADM4_PCODE": "UA3504023012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novhorodkivska", "ADM3_UA": "Новгородківська", "ADM3_PCODE": "UA3504023", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.400064436000036, 48.372605816000032 ], [ 32.401374, 48.36771 ], [ 32.393043001000024, 48.357787 ], [ 32.395504, 48.356893 ], [ 32.405103999000062, 48.36754 ], [ 32.404962, 48.372687 ], [ 32.402316, 48.376411 ], [ 32.400064436000036, 48.372605816000032 ] ] ] } }
+]
+}

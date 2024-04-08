@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.067265227253700002, "Shape_Area": 0.000117921047619, "ADM4_EN": "Dibrova", "ADM4_UA": "Діброва", "ADM4_PCODE": "UA5308003007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykorublivska", "ADM3_UA": "Великорублівська", "ADM3_PCODE": "UA5308003", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.691184, 49.778446 ], [ 34.687233001000038, 49.779903 ], [ 34.684326294000073, 49.775559069000053 ], [ 34.681678212000065, 49.777364226000032 ], [ 34.678560001000051, 49.774822 ], [ 34.682742001000065, 49.771568999000067 ], [ 34.693612001000076, 49.768876 ], [ 34.695689, 49.772875500000055 ], [ 34.691184, 49.778446 ] ] ] } }
+]
+}

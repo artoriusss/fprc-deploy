@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.060673242111699999, "Shape_Area": 8.1329142959700007e-05, "ADM4_EN": "Ulianivka", "ADM4_UA": "Улянівка", "ADM4_PCODE": "UA4408003022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rovenkivska", "ADM3_UA": "Ровеньківська", "ADM3_PCODE": "UA4408003", "ADM2_EN": "Rovenkivskyi", "ADM2_UA": "Ровеньківський", "ADM2_PCODE": "UA4408", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.389418999000043, 48.01247 ], [ 39.385527, 48.011356 ], [ 39.375429001000043, 48.011358 ], [ 39.371274, 48.012178 ], [ 39.362981, 48.009064 ], [ 39.365092, 48.007018 ], [ 39.372045, 48.009806 ], [ 39.374842, 48.006951 ], [ 39.381493001000081, 48.007175 ], [ 39.389418999000043, 48.01247 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.117923560949, "Shape_Area": 0.00021970713133100001, "ADM4_EN": "Kolyban", "ADM4_UA": "Колибань", "ADM4_PCODE": "UA6804047012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khmelnytska", "ADM3_UA": "Хмельницька", "ADM3_PCODE": "UA6804047", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.125316999000063, 49.342632 ], [ 27.120799001000023, 49.344756 ], [ 27.117715, 49.337395 ], [ 27.131484001000047, 49.333206 ], [ 27.136317999000028, 49.33423 ], [ 27.145993, 49.330862 ], [ 27.157348, 49.331169 ], [ 27.152776, 49.33421 ], [ 27.140706, 49.334024 ], [ 27.140459, 49.335938 ], [ 27.13489, 49.337911 ], [ 27.136353, 49.344048 ], [ 27.125316999000063, 49.342632 ] ] ] } }
+]
+}

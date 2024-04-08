@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.151121282542, "Shape_Area": 0.000339560480573, "ADM4_EN": "Velyka Pobiina", "ADM4_UA": "Велика Побійна", "ADM4_PCODE": "UA6802005004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dunaievetska", "ADM3_UA": "Дунаєвецька", "ADM3_PCODE": "UA6802005", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.996326, 48.831029 ], [ 26.993667, 48.831134 ], [ 26.991717, 48.828104 ], [ 26.997746, 48.826106 ], [ 27.003308, 48.822848 ], [ 27.003364, 48.820949 ], [ 27.014787, 48.814045 ], [ 27.018076, 48.817458 ], [ 27.023689, 48.820724 ], [ 27.020039, 48.82246 ], [ 27.020232, 48.825709 ], [ 27.025631, 48.825218 ], [ 27.028101001000039, 48.827771 ], [ 27.010218999000074, 48.830058 ], [ 27.004962, 48.832524 ], [ 27.003885001000071, 48.830571 ], [ 26.998548, 48.829165 ], [ 26.996326, 48.831029 ] ] ] } }
+]
+}

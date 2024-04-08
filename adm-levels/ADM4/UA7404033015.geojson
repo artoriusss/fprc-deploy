@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.032579863940899997, "Shape_Area": 5.5281216885100003e-05, "ADM4_EN": "Khomivka", "ADM4_UA": "Хомівка", "ADM4_PCODE": "UA7404033015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Talalaivska", "ADM3_UA": "Талалаївська", "ADM3_PCODE": "UA7404033", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.049312120000025, 50.919681960000048 ], [ 32.050146960000063, 50.920125030000065 ], [ 32.052414960000078, 50.930923950000079 ], [ 32.047894080000049, 50.931427050000082 ], [ 32.04507312100003, 50.919986970000082 ], [ 32.049312120000025, 50.919681960000048 ] ] ] } }
+]
+}

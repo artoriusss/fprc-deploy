@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0878966854937, "Shape_Area": 0.000193620515224, "ADM4_EN": "Symynivka", "ADM4_UA": "Симинівка", "ADM4_PCODE": "UA6314001059", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vovchanska", "ADM3_UA": "Вовчанська", "ADM3_PCODE": "UA6314001", "ADM2_EN": "Chuhuivskyi", "ADM2_UA": "Чугуївський", "ADM2_PCODE": "UA6314", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.900721, 50.218037 ], [ 36.901899, 50.224385 ], [ 36.899237, 50.224599 ], [ 36.897973, 50.21824 ], [ 36.890022999000053, 50.215814 ], [ 36.889794, 50.208972 ], [ 36.884656, 50.206298 ], [ 36.884907999000063, 50.203535 ], [ 36.889669, 50.203501 ], [ 36.897705, 50.206488 ], [ 36.900456001000066, 50.211533 ], [ 36.905544, 50.210875 ], [ 36.906578, 50.21376 ], [ 36.900721, 50.218037 ] ] ] } }
+]
+}

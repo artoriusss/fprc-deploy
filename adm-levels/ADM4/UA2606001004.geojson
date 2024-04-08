@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0859424057839, "Shape_Area": 0.00022280117635900001, "ADM4_EN": "Huziiv", "ADM4_UA": "Гузіїв", "ADM4_PCODE": "UA2606001004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bolekhivska", "ADM3_UA": "Болехівська", "ADM3_PCODE": "UA2606001", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.912216, 49.073342 ], [ 23.909755, 49.074388 ], [ 23.913052999000058, 49.080004 ], [ 23.910888, 49.080637 ], [ 23.897221, 49.068474 ], [ 23.889535, 49.069200999000032 ], [ 23.88872, 49.066762 ], [ 23.895256, 49.064694 ], [ 23.894068700000048, 49.058550474000072 ], [ 23.896010097000044, 49.058211653000058 ], [ 23.903550027000051, 49.060540304000028 ], [ 23.914391, 49.071439 ], [ 23.912216, 49.073342 ] ] ] } }
+]
+}

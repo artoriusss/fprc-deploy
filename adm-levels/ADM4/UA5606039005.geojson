@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.049515461485899998, "Shape_Area": 6.727887119e-05, "ADM4_EN": "Kamiana Hora", "ADM4_UA": "Кам'яна Гора", "ADM4_PCODE": "UA5606039005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Maloliubashanska", "ADM3_UA": "Малолюбашанська", "ADM3_PCODE": "UA5606039", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.394147001000078, 50.799608010000043 ], [ 26.394620041000053, 50.803978050000069 ], [ 26.380610999000055, 50.80751298000007 ], [ 26.379540001000066, 50.804057070000056 ], [ 26.391161880000027, 50.801618070000075 ], [ 26.394147001000078, 50.799608010000043 ] ] ] } }
+]
+}

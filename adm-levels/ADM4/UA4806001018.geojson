@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070463292734899999, "Shape_Area": 0.000116434277256, "ADM4_EN": "Liublyne", "ADM4_UA": "Люблине", "ADM4_PCODE": "UA4806001018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezanska", "ADM3_UA": "Березанська", "ADM3_PCODE": "UA4806001", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.159398233000047, 46.95991035600008 ], [ 31.159893429000078, 46.962702997000065 ], [ 31.157431857000063, 46.96554327900003 ], [ 31.156890069000042, 46.956014284000048 ], [ 31.154445630000055, 46.951286155000048 ], [ 31.154859679000026, 46.948341542000037 ], [ 31.16066130400003, 46.946388058000025 ], [ 31.165517357000056, 46.955819671000029 ], [ 31.160895623000044, 46.956792734000032 ], [ 31.159398233000047, 46.95991035600008 ] ] ] } }
+]
+}

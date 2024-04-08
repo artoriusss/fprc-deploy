@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.061190270951500002, "Shape_Area": 7.9085589173599996e-05, "ADM4_EN": "Vikniane", "ADM4_UA": "Вікняне", "ADM4_PCODE": "UA3506017003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pishchanobridska", "ADM3_UA": "Піщанобрідська", "ADM3_PCODE": "UA3506017", "ADM2_EN": "Novoukrainskyi", "ADM2_UA": "Новоукраїнський", "ADM2_PCODE": "UA3506", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.264518262000024, 48.213778087000037 ], [ 31.263574604000041, 48.211717758000077 ], [ 31.274061044000064, 48.208090643000048 ], [ 31.278183374000037, 48.203046206000067 ], [ 31.281384065000054, 48.202429344000052 ], [ 31.280655339000077, 48.20760326900006 ], [ 31.277488739000034, 48.207522902000051 ], [ 31.27461, 48.210697 ], [ 31.266896607000035, 48.216127861000075 ], [ 31.264518262000024, 48.213778087000037 ] ] ] } }
+]
+}

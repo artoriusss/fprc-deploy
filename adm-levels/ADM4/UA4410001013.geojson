@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.16697580546900001, "Shape_Area": 0.000134283193258, "ADM4_EN": "Lyzyne", "ADM4_UA": "Лизине", "ADM4_PCODE": "UA4410001013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilokurakynska", "ADM3_UA": "Білокуракинська", "ADM3_PCODE": "UA4410001", "ADM2_EN": "Svativskyi", "ADM2_UA": "Сватівський", "ADM2_PCODE": "UA4410", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 38.856043001000046, 49.564858 ], [ 38.85454, 49.565105 ], [ 38.852900999000042, 49.558327 ], [ 38.849724, 49.55473 ], [ 38.850348, 49.550959500000033 ], [ 38.847257, 49.547694 ], [ 38.844757, 49.540579 ], [ 38.849008, 49.54076 ], [ 38.852837, 49.545796 ], [ 38.852316, 49.552887 ], [ 38.856043001000046, 49.564858 ] ] ], [ [ [ 38.861626, 49.555114 ], [ 38.856013, 49.55182 ], [ 38.85720599900003, 49.547718 ], [ 38.860297001000049, 49.549944 ], [ 38.861626, 49.555114 ] ] ] ] } }
+]
+}

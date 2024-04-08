@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0315654435734, "Shape_Area": 3.16013386136e-05, "ADM4_EN": "Shevchenkivka", "ADM4_UA": "Ð¨ÐµÐ²ÑÐµÐ½ÐºÑÐ²ÐºÐ°", "ADM4_RU": "Ð¨ÐµÐ²ÑÐµÐ½ÐºÐ¾Ð²ÐºÐ°", "ADM4_PCODE": "UA5908013042", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykolaivska", "ADM3_UA": "ÐÐ¸ÐºÐ¾Ð»Ð°ÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¸ÐºÐ¾Ð»Ð°ÐµÐ²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5908013", "ADM2_EN": "Sumskyi", "ADM2_UA": "Ð¡ÑÐ¼ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¡ÑÐ¼ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Ð¡ÑÐ¼ÑÑÐºÐ°", "ADM1_RU": "Ð¡ÑÐ¼ÑÐºÐ°Ñ", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.443083, 50.996677 ], [ 34.443345, 50.995035 ], [ 34.443246, 50.994785 ], [ 34.441536, 50.994701 ], [ 34.441437, 50.993952 ], [ 34.434893, 50.993531 ], [ 34.434564001000069, 50.994279 ], [ 34.434069, 50.994272 ], [ 34.431341, 50.994234 ], [ 34.43019, 50.994295 ], [ 34.430191, 50.996311 ], [ 34.434565999000029, 50.996529 ], [ 34.434696001000077, 50.996004 ], [ 34.435486, 50.996254 ], [ 34.442754, 50.996822 ], [ 34.443083, 50.996677 ] ] ] } }
-]
-}

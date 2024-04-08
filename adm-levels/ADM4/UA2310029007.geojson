@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.093642767647600003, "Shape_Area": 0.000197399999742, "ADM4_EN": "Novoselivka", "ADM4_UA": "Новоселівка", "ADM4_PCODE": "UA2310029007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Fedorivska", "ADM3_UA": "Федорівська", "ADM3_PCODE": "UA2310029", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.413139146000049, 47.595856174000062 ], [ 36.409492552000074, 47.59337972700007 ], [ 36.423868734000052, 47.586598700000081 ], [ 36.424311627000066, 47.584727213000065 ], [ 36.44135285200008, 47.57720819900004 ], [ 36.444872849000035, 47.580266 ], [ 36.442200817000071, 47.584715137000046 ], [ 36.435510896000039, 47.587715458000048 ], [ 36.426956811000025, 47.589101935000031 ], [ 36.421533835000048, 47.592453824000074 ], [ 36.413139146000049, 47.595856174000062 ] ] ] } }
+]
+}

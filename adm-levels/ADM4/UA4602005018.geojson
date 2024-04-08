@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062027368008200003, "Shape_Area": 6.1769073986500003e-05, "ADM4_EN": "Tyniv", "ADM4_UA": "Тинів", "ADM4_PCODE": "UA4602005018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Medenytska", "ADM3_UA": "Меденицька", "ADM3_PCODE": "UA4602005", "ADM2_EN": "Drohobytskyi", "ADM2_UA": "Дрогобицький", "ADM2_PCODE": "UA4602", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.638381406000065, 49.468592102000059 ], [ 23.642204818000039, 49.469367592000026 ], [ 23.64155760400007, 49.473479301000054 ], [ 23.642884838000043, 49.47770584400007 ], [ 23.648913304000075, 49.478226011000061 ], [ 23.646760304000054, 49.48242201100004 ], [ 23.641500497000038, 49.478447616000039 ], [ 23.639863428000069, 49.470528769000055 ], [ 23.638150216000042, 49.470014806000052 ], [ 23.638381406000065, 49.468592102000059 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.169910622358, "Shape_Area": 0.00048247168937699998, "ADM4_EN": "Sokolivka", "ADM4_UA": "Соколівка", "ADM4_PCODE": "UA6804053028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yarmolynetska", "ADM3_UA": "Ярмолинецька", "ADM3_PCODE": "UA6804053", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.876561, 49.165355 ], [ 26.873200001000043, 49.166506 ], [ 26.862432, 49.165469 ], [ 26.862927, 49.16099 ], [ 26.854825001000052, 49.162992 ], [ 26.85687899900006, 49.153407 ], [ 26.863835, 49.147745 ], [ 26.867156001000069, 49.142011 ], [ 26.881086, 49.127379 ], [ 26.884053, 49.127778 ], [ 26.870057001000077, 49.14237 ], [ 26.878262, 49.147564 ], [ 26.87425999900006, 49.151407 ], [ 26.888288001000035, 49.159103 ], [ 26.886644, 49.160769001000062 ], [ 26.877543, 49.161792 ], [ 26.876561, 49.165355 ] ] ] } }
+]
+}

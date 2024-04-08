@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.064169010787099995, "Shape_Area": 0.00015116573034500001, "ADM4_EN": "Zhurivka", "ADM4_UA": "Журівка", "ADM4_PCODE": "UA4806001010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezanska", "ADM3_UA": "Березанська", "ADM3_PCODE": "UA4806001", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.40692014900003, 46.956517133000034 ], [ 31.404022626000028, 46.95751804300005 ], [ 31.401070015000073, 46.955989307000038 ], [ 31.396635891000074, 46.950244914000052 ], [ 31.392952962000038, 46.947009946000037 ], [ 31.400025923000044, 46.94582974900004 ], [ 31.405408468000076, 46.943048794000049 ], [ 31.41501801000004, 46.955975031000037 ], [ 31.407694685000024, 46.955308135000053 ], [ 31.40692014900003, 46.956517133000034 ] ] ] } }
+]
+}

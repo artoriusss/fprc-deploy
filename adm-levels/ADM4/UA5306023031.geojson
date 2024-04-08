@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.086500607849199995, "Shape_Area": 0.00021697231599500001, "ADM4_EN": "Slobidka", "ADM4_UA": "Слобідка", "ADM4_PCODE": "UA5306023031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myrhorodska", "ADM3_UA": "Миргородська", "ADM3_PCODE": "UA5306023", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.455850001000044, 49.874922 ], [ 33.452896001000056, 49.87794 ], [ 33.449534, 49.877758 ], [ 33.442389999000056, 49.870156 ], [ 33.444395999000051, 49.868016 ], [ 33.441767, 49.860811 ], [ 33.441628, 49.856971 ], [ 33.445833, 49.856996 ], [ 33.449161, 49.862167 ], [ 33.455431, 49.86242 ], [ 33.454141001000039, 49.86499 ], [ 33.455818, 49.868538 ], [ 33.463539, 49.871383 ], [ 33.455850001000044, 49.874922 ] ] ] } }
+]
+}

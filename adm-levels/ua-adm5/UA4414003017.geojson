@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.021173147976, "Shape_Area": 1.2652720612600001e-05, "ADM4_EN": "Shapran", "ADM4_UA": "Ð¨Ð°Ð¿ÑÐ°Ð½", "ADM4_RU": "Ð¨Ð°Ð¿ÑÐ°Ð½", "ADM4_PCODE": "UA4414003017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilolutska", "ADM3_UA": "ÐÑÐ»Ð¾Ð»ÑÑÑÐºÐ°", "ADM3_RU": "ÐÐµÐ»Ð¾Ð»ÑÑÐºÐ°Ñ", "ADM3_PCODE": "UA4414003", "ADM2_EN": "Starobilskyi", "ADM2_UA": "Ð¡ÑÐ°ÑÐ¾Ð±ÑÐ»ÑÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¡ÑÐ°ÑÐ¾Ð±ÐµÐ»ÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA4414", "ADM1_EN": "Luhanska", "ADM1_UA": "ÐÑÐ³Ð°Ð½ÑÑÐºÐ°", "ADM1_RU": "ÐÑÐ³Ð°Ð½ÑÐºÐ°Ñ", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.132168, 49.837602 ], [ 39.132081001000074, 49.836433 ], [ 39.127581, 49.836613 ], [ 39.126642, 49.83604 ], [ 39.124731001000043, 49.836579 ], [ 39.127511, 49.839804 ], [ 39.129266, 49.839366 ], [ 39.127963, 49.837669 ], [ 39.130448, 49.837635 ], [ 39.132168, 49.837602 ] ] ] } }
-]
-}

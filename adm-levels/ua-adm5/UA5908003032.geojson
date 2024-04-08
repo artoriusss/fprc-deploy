@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.045492168297500003, "Shape_Area": 3.9775660131400001e-05, "ADM4_EN": "Novoandriivka", "ADM4_UA": "ÐÐ¾Ð²Ð¾Ð°Ð½Ð´ÑÑÑÐ²ÐºÐ°", "ADM4_RU": "ÐÐ¾Ð²Ð¾Ð°Ð½Ð´ÑÐµÐµÐ²ÐºÐ°", "ADM4_PCODE": "UA5908003032", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilopilska", "ADM3_UA": "ÐÑÐ»Ð¾Ð¿ÑÐ»ÑÑÑÐºÐ°", "ADM3_RU": "ÐÐµÐ»Ð¾Ð¿Ð¾Ð»ÑÑÐºÐ°Ñ", "ADM3_PCODE": "UA5908003", "ADM2_EN": "Sumskyi", "ADM2_UA": "Ð¡ÑÐ¼ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¡ÑÐ¼ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Ð¡ÑÐ¼ÑÑÐºÐ°", "ADM1_RU": "Ð¡ÑÐ¼ÑÐºÐ°Ñ", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.209709001000078, 51.013578 ], [ 34.214373999000031, 51.012509 ], [ 34.215656, 51.013548 ], [ 34.218297, 51.01204 ], [ 34.224273999000047, 51.007747 ], [ 34.228262960000052, 51.004881164000039 ], [ 34.227234172000067, 51.004499536000026 ], [ 34.22698500100006, 51.004694 ], [ 34.225354, 51.00392 ], [ 34.21487, 51.011508 ], [ 34.208804, 51.012969 ], [ 34.209129, 51.013655 ], [ 34.209709001000078, 51.013578 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0284830306061, "Shape_Area": 3.9807314339400002e-05, "ADM4_EN": "Tik", "ADM4_UA": "Ð¢ÑÐº", "ADM4_RU": "Ð¢Ð¾Ðº", "ADM4_PCODE": "UA1206009005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hrushivska", "ADM3_UA": "ÐÑÑÑÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÑÑÑÐµÐ²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA1206009", "ADM2_EN": "Kryvorizkyi", "ADM2_UA": "ÐÑÐ¸Ð²Ð¾ÑÑÐ·ÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÑÐ¸Ð²Ð¾ÑÐ¾Ð¶ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA1206", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "ÐÐ½ÑÐ¿ÑÐ¾Ð¿ÐµÑÑÐ¾Ð²ÑÑÐºÐ°", "ADM1_RU": "ÐÐ½ÐµÐ¿ÑÐ¾Ð¿ÐµÑÑÐ¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.934229711000057, 47.635438697000041 ], [ 33.933003987000063, 47.63187763500008 ], [ 33.923909809000065, 47.633451076000028 ], [ 33.924298908000026, 47.635542949000069 ], [ 33.927487210000038, 47.635741450000069 ], [ 33.927197402000047, 47.638114511000026 ], [ 33.932916040000066, 47.636830189000079 ], [ 33.934229711000057, 47.635438697000041 ] ] ] } }
-]
-}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0401012341777, "Shape_Area": 7.7263770876300004e-05, "ADM4_EN": "Cherednyky", "ADM4_UA": "Чередники", "ADM4_PCODE": "UA5308023026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Machukhivska", "ADM3_UA": "Мачухівська", "ADM3_PCODE": "UA5308023", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.263273999000035, 49.464203 ], [ 34.257647, 49.469945 ], [ 34.253050001000076, 49.467248 ], [ 34.25536100100004, 49.463012 ], [ 34.255591, 49.459281 ], [ 34.26209, 49.458684 ], [ 34.263273999000035, 49.464203 ] ] ] } }
+]
+}

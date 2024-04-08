@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13226746512500001, "Shape_Area": 0.00012427992479600001, "ADM4_EN": "Khartonivtsi", "ADM4_UA": "Хартонівці", "ADM4_PCODE": "UA6106017028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zalishchytska", "ADM3_UA": "Заліщицька", "ADM3_PCODE": "UA6106017", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.774334732000057, 48.730298895000033 ], [ 25.763121999000077, 48.740765 ], [ 25.762728, 48.747414 ], [ 25.758969, 48.747648 ], [ 25.756687, 48.751409 ], [ 25.759534, 48.756047 ], [ 25.756823, 48.756777 ], [ 25.75517, 48.748628 ], [ 25.760483750000049, 48.744259750000026 ], [ 25.75998, 48.740454 ], [ 25.761879, 48.737614 ], [ 25.767602749000048, 48.734436750000043 ], [ 25.767792, 48.730918 ], [ 25.771307098000023, 48.729839342000048 ], [ 25.774334732000057, 48.730298895000033 ] ] ] } }
+]
+}

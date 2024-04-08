@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.033407374293499999, "Shape_Area": 1.8137619853e-05, "ADM4_EN": "Zhyhailivka", "ADM4_UA": "Жигайлівка", "ADM4_PCODE": "UA5902005010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Duboviazivska", "ADM3_UA": "Дубов'язівська", "ADM3_PCODE": "UA5902005", "ADM2_EN": "Konotopskyi", "ADM2_UA": "Конотопський", "ADM2_PCODE": "UA5902", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.350782999000046, 51.21396 ], [ 33.347078, 51.214195 ], [ 33.339679, 51.21333 ], [ 33.341237999000043, 51.211715 ], [ 33.342472, 51.2127 ], [ 33.350737999000046, 51.21303 ], [ 33.350782999000046, 51.21396 ] ] ] } }
+]
+}

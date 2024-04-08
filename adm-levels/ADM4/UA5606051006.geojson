@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.078350361150400005, "Shape_Area": 9.7208716640500003e-05, "ADM4_EN": "Malyi Zhytyn", "ADM4_UA": "Малий Житин", "ADM4_PCODE": "UA5606051006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shpanivska", "ADM3_UA": "Шпанівська", "ADM3_PCODE": "UA5606051", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.348151960000052, 50.683602060000055 ], [ 26.34325092000006, 50.68254402000008 ], [ 26.336598120000076, 50.678772030000061 ], [ 26.340940801000045, 50.67490599000007 ], [ 26.335650960000066, 50.672398950000058 ], [ 26.335275840000065, 50.670607050000058 ], [ 26.343299880000075, 50.670840960000078 ], [ 26.347182840000073, 50.670097020000071 ], [ 26.348092921000045, 50.677956 ], [ 26.349652080000055, 50.679218970000079 ], [ 26.348151960000052, 50.683602060000055 ] ] ] } }
+]
+}

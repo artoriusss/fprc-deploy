@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.086072545147399995, "Shape_Area": 0.000102966104346, "ADM4_EN": "Rivnia", "ADM4_UA": "Рівня", "ADM4_PCODE": "UA2602003017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Verkhovynska", "ADM3_UA": "Верховинська", "ADM3_PCODE": "UA2602003", "ADM2_EN": "Verkhovynskyi", "ADM2_UA": "Верховинський", "ADM2_PCODE": "UA2602", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 24.948845, 48.141273 ], [ 24.956597245000069, 48.134896402000038 ], [ 24.961307689000023, 48.136923599000056 ], [ 24.951202, 48.141473 ], [ 24.948845, 48.141273 ] ] ], [ [ [ 24.935563, 48.141017 ], [ 24.942063, 48.138595 ], [ 24.945468001000052, 48.133581 ], [ 24.953469249000023, 48.134565913000074 ], [ 24.947095750000074, 48.141676500000074 ], [ 24.942062999000029, 48.141343 ], [ 24.935563, 48.141017 ] ] ] ] } }
+]
+}

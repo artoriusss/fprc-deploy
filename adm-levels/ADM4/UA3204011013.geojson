@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.065292611516400006, "Shape_Area": 9.0342785933399995e-05, "ADM4_EN": "Chyrske", "ADM4_UA": "Чирське", "ADM4_PCODE": "UA3204011013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pereiaslavcska", "ADM3_UA": "Переяславська", "ADM3_PCODE": "UA3204011", "ADM2_EN": "Boryspilskyi", "ADM2_UA": "Бориспільський", "ADM2_PCODE": "UA3204", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.495584732000054, 50.113316962000056 ], [ 31.491005675000054, 50.112954927000033 ], [ 31.491861710000023, 50.108549001000029 ], [ 31.490381742000068, 50.102730975000043 ], [ 31.496971759000076, 50.101978005000035 ], [ 31.49824368000003, 50.106806929000072 ], [ 31.505178676000071, 50.109300011000073 ], [ 31.501753756000028, 50.112445940000043 ], [ 31.498220756000023, 50.11086199500005 ], [ 31.495584732000054, 50.113316962000056 ] ] ] } }
+]
+}

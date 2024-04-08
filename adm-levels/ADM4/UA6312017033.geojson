@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11427276645700001, "Shape_Area": 0.00012905797607, "ADM4_EN": "Stara Vodolaha", "ADM4_UA": "Стара Водолага", "ADM4_PCODE": "UA6312017033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novovodolazka", "ADM3_UA": "Нововодолазька", "ADM3_PCODE": "UA6312017", "ADM2_EN": "Kharkivskyi", "ADM2_UA": "Харківський", "ADM2_PCODE": "UA6312", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.829937, 49.793161 ], [ 35.831168, 49.79515 ], [ 35.82289, 49.795506 ], [ 35.822651999000072, 49.790451 ], [ 35.832093, 49.789399 ], [ 35.832165, 49.785018 ], [ 35.845107, 49.785156 ], [ 35.847849, 49.783494 ], [ 35.853297, 49.783483 ], [ 35.853695, 49.786943 ], [ 35.841115999000067, 49.786761 ], [ 35.840004, 49.789637 ], [ 35.829937, 49.793161 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.089989872138500002, "Shape_Area": 0.000391412658006, "ADM4_EN": "Shulhanivka", "ADM4_UA": "Шульганівка", "ADM4_PCODE": "UA6106033011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nahirianska", "ADM3_UA": "Нагірянська", "ADM3_PCODE": "UA6106033", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.724696031000065, 48.944547386000067 ], [ 25.722571, 48.949674999000081 ], [ 25.72218, 48.956389001000048 ], [ 25.724784, 48.958176 ], [ 25.722428233000073, 48.963331095000058 ], [ 25.719716001000052, 48.965362 ], [ 25.709063001000061, 48.963158 ], [ 25.706569001000048, 48.9657 ], [ 25.704040001000067, 48.956544 ], [ 25.697263999000029, 48.957108 ], [ 25.702975, 48.947598 ], [ 25.708383, 48.946 ], [ 25.716262999000037, 48.945308 ], [ 25.724696031000065, 48.944547386000067 ] ] ] } }
+]
+}

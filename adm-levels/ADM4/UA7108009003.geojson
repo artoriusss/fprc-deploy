@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.123857242361, "Shape_Area": 0.00024966206973200001, "ADM4_EN": "Lozivok", "ADM4_UA": "Лозівок", "ADM4_PCODE": "UA7108009003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Budyshchenska", "ADM3_UA": "Будищенська", "ADM3_PCODE": "UA7108009", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.782482999000024, 49.557608 ], [ 31.779711, 49.556465 ], [ 31.778307999000049, 49.552382 ], [ 31.783849, 49.549447 ], [ 31.787457001000064, 49.541859 ], [ 31.79975, 49.544372 ], [ 31.798285, 49.547177 ], [ 31.80377, 49.548474 ], [ 31.801548, 49.552313 ], [ 31.790714, 49.556073 ], [ 31.782457001000068, 49.556131 ], [ 31.782482999000024, 49.557608 ] ] ] } }
+]
+}

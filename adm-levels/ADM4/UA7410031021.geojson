@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.064940450139500006, "Shape_Area": 8.2614604308600006e-05, "ADM4_EN": "Samsony", "ADM4_UA": "Самсони", "ADM4_PCODE": "UA7410031021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Osterska", "ADM3_UA": "Остерська", "ADM3_PCODE": "UA7410031", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.037069879000057, 50.948053020000032 ], [ 31.033555920000026, 50.951454030000036 ], [ 31.02970896000005, 50.952654990000042 ], [ 31.027818960000047, 50.943456990000072 ], [ 31.033378080000034, 50.94342 ], [ 31.035752192000075, 50.940787343000068 ], [ 31.040252999000074, 50.943270060000032 ], [ 31.040570879000029, 50.946042960000057 ], [ 31.037069879000057, 50.948053020000032 ] ] ] } }
+]
+}

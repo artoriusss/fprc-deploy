@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.074321577236799996, "Shape_Area": 9.3478661463899999e-05, "ADM4_EN": "Turutyne", "ADM4_UA": "Турутине", "ADM4_PCODE": "UA5902013034", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Popivska", "ADM3_UA": "Попівська", "ADM3_PCODE": "UA5902013", "ADM2_EN": "Konotopskyi", "ADM2_UA": "Конотопський", "ADM2_PCODE": "UA5902", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.322789999000065, 50.990194 ], [ 33.315475001000038, 50.993117 ], [ 33.300266, 50.995287 ], [ 33.301478001000078, 50.991436 ], [ 33.309189, 50.990265 ], [ 33.306851, 50.98437 ], [ 33.309243, 50.982058 ], [ 33.312275, 50.990109 ], [ 33.322054546000061, 50.988822862000063 ], [ 33.322789999000065, 50.990194 ] ] ] } }
+]
+}

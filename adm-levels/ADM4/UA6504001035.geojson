@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.098164780763900006, "Shape_Area": 0.000215468305204, "ADM4_EN": "Ozeriany", "ADM4_UA": "Озеряни", "ADM4_PCODE": "UA6504001035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Henicheska", "ADM3_UA": "Генічеська", "ADM3_PCODE": "UA6504001", "ADM2_EN": "Henicheskyi", "ADM2_UA": "Генічеський", "ADM2_PCODE": "UA6504", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.051353001000052, 46.364746 ], [ 35.050495, 46.365977 ], [ 35.042503, 46.363401 ], [ 35.039121999000031, 46.364941 ], [ 35.033335, 46.363182 ], [ 35.028642001000037, 46.364292 ], [ 35.02865599900008, 46.360708 ], [ 35.031351, 46.356006 ], [ 35.031644999000036, 46.351877 ], [ 35.052731, 46.358702 ], [ 35.053279, 46.362152 ], [ 35.051353001000052, 46.364746 ] ] ] } }
+]
+}

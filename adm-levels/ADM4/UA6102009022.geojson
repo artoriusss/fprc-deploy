@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10955466429000001, "Shape_Area": 0.00029189620608900002, "ADM4_EN": "Lopushne", "ADM4_UA": "Лопушне", "ADM4_PCODE": "UA6102009022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lanovetska", "ADM3_UA": "Лановецька", "ADM3_PCODE": "UA6102009", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.885927559000038, 49.757271864000074 ], [ 25.883205, 49.758251 ], [ 25.877910999000051, 49.757678 ], [ 25.875822391000042, 49.751640393000059 ], [ 25.872717696000052, 49.746875786000032 ], [ 25.880792, 49.743189 ], [ 25.891778475000024, 49.742164366000054 ], [ 25.895153804000074, 49.743504835000067 ], [ 25.896375037000041, 49.746654326000055 ], [ 25.891396999000051, 49.7511 ], [ 25.893062573000066, 49.754931224000075 ], [ 25.885927559000038, 49.757271864000074 ] ] ] } }
+]
+}

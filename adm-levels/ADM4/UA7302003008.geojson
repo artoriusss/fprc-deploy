@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.074902869065599995, "Shape_Area": 9.3190176661700006e-05, "ADM4_EN": "Lypovany", "ADM4_UA": "Липовани", "ADM4_PCODE": "UA7302003008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berehometska", "ADM3_UA": "Берегометська", "ADM3_PCODE": "UA7302003", "ADM2_EN": "Vyzhnytskyi", "ADM2_UA": "Вижницький", "ADM2_PCODE": "UA7302", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.456927999000072, 48.231347 ], [ 25.447791, 48.229531 ], [ 25.445935, 48.225857 ], [ 25.45739, 48.225671 ], [ 25.459813, 48.226422 ], [ 25.461083, 48.231097 ], [ 25.456927999000072, 48.231347 ] ] ] } }
+]
+}

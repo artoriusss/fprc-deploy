@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.068491563567200001, "Shape_Area": 8.8848409736800004e-05, "ADM4_EN": "Liubymivka", "ADM4_UA": "Любимівка", "ADM4_PCODE": "UA2306029002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tavriiska", "ADM3_UA": "Таврійська", "ADM3_PCODE": "UA2306029", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.623261908000075, 47.699366032000057 ], [ 35.618782922000037, 47.697698037000066 ], [ 35.627402999000026, 47.691782226000043 ], [ 35.634065175000046, 47.684865123000066 ], [ 35.637623058000031, 47.683772201000068 ], [ 35.644406465000031, 47.684722984000075 ], [ 35.638988908000044, 47.690216454000051 ], [ 35.634077458000036, 47.688313422000078 ], [ 35.630379809000033, 47.691207759000065 ], [ 35.623261908000075, 47.699366032000057 ] ] ] } }
+]
+}

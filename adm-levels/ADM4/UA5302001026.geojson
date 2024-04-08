@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0780008574915, "Shape_Area": 0.00026021855382299999, "ADM4_EN": "Kupievate", "ADM4_UA": "Куп'євате", "ADM4_PCODE": "UA5302001026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hlobynska", "ADM3_UA": "Глобинська", "ADM3_PCODE": "UA5302001", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.610743754000055, 49.424686220000069 ], [ 33.618612, 49.425386 ], [ 33.618601001000059, 49.427318 ], [ 33.626373999000066, 49.427488 ], [ 33.625356, 49.432754 ], [ 33.619862, 49.432684 ], [ 33.61847, 49.435594 ], [ 33.618536, 49.440473 ], [ 33.615336, 49.441557 ], [ 33.598083999000039, 49.43468 ], [ 33.602975, 49.429949 ], [ 33.604741, 49.430791 ], [ 33.609846615000038, 49.424522004000039 ], [ 33.610743754000055, 49.424686220000069 ] ] ] } }
+]
+}

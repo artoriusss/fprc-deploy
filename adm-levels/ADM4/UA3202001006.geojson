@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0767248330177, "Shape_Area": 0.000131285606872, "ADM4_EN": "Hlybochka", "ADM4_UA": "Глибочка", "ADM4_PCODE": "UA3202001006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilotserkivska", "ADM3_UA": "Білоцерківська", "ADM3_PCODE": "UA3202001", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.040522912000029, 49.76917751700006 ], [ 30.031933882000033, 49.767359541000076 ], [ 30.030871948000026, 49.76509046700005 ], [ 30.039116939000053, 49.760973476000061 ], [ 30.038002929000072, 49.755075478000037 ], [ 30.038885955000069, 49.752351532000034 ], [ 30.04596093400005, 49.751847529000031 ], [ 30.050234899000031, 49.756090484000026 ], [ 30.042614986000046, 49.758887524000045 ], [ 30.041007918000048, 49.762241509000035 ], [ 30.040522912000029, 49.76917751700006 ] ] ] } }
+]
+}

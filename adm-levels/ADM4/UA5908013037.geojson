@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.20083016893200001, "Shape_Area": 0.00020678171672400001, "ADM4_EN": "Tuchne", "ADM4_UA": "Тучне", "ADM4_PCODE": "UA5908013037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykolaivska", "ADM3_UA": "Миколаївська", "ADM3_PCODE": "UA5908013", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 34.204962, 50.96463 ], [ 34.212548, 50.960707 ], [ 34.228389, 50.961027 ], [ 34.228262, 50.961785 ], [ 34.213029999000071, 50.961524 ], [ 34.204962, 50.96463 ] ] ], [ [ [ 34.205445, 50.959297 ], [ 34.209147, 50.957698 ], [ 34.20494, 50.949998 ], [ 34.2065, 50.941118 ], [ 34.208165, 50.941357 ], [ 34.206354, 50.949666 ], [ 34.209902, 50.951695 ], [ 34.228289, 50.953162 ], [ 34.22558500100007, 50.958819 ], [ 34.210555, 50.958194 ], [ 34.205445, 50.959297 ] ] ] ] } }
+]
+}

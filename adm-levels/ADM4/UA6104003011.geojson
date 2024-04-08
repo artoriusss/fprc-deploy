@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.086210656230199995, "Shape_Area": 0.00014967076568499999, "ADM4_EN": "Lisnyky", "ADM4_UA": "Лісники", "ADM4_PCODE": "UA6104003011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezhanska", "ADM3_UA": "Бережанська", "ADM3_PCODE": "UA6104003", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.896167, 49.447881 ], [ 24.885649001000047, 49.449888 ], [ 24.88287, 49.453527 ], [ 24.878429, 49.447841 ], [ 24.887288999000077, 49.445939 ], [ 24.889234001000034, 49.441402 ], [ 24.901355999000032, 49.443636 ], [ 24.907051898000077, 49.446049853000034 ], [ 24.90671003500006, 49.448349242000063 ], [ 24.896167, 49.447881 ] ] ] } }
+]
+}

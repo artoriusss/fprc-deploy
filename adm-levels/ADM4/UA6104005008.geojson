@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.065584219159000007, "Shape_Area": 0.00016569555612400001, "ADM4_EN": "Plotycha", "ADM4_UA": "Плотича", "ADM4_PCODE": "UA6104005008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Biletska", "ADM3_UA": "Білецька", "ADM3_PCODE": "UA6104005", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.567478022000046, 49.620445262000032 ], [ 25.567643, 49.625891 ], [ 25.563312, 49.625515 ], [ 25.562679999000068, 49.630466 ], [ 25.559431, 49.63213 ], [ 25.551531, 49.628537 ], [ 25.554904, 49.625633 ], [ 25.553767638000068, 49.619263275000037 ], [ 25.559380999000041, 49.617089 ], [ 25.565467, 49.617743999000027 ], [ 25.567478022000046, 49.620445262000032 ] ] ] } }
+]
+}

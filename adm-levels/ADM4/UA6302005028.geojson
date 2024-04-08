@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.149522183659, "Shape_Area": 0.00020739462137200001, "ADM4_EN": "Liutivka", "ADM4_UA": "Лютівка", "ADM4_PCODE": "UA6302005028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zolochivska", "ADM3_UA": "Золочівська", "ADM3_PCODE": "UA6302005", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "Богодухівський", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 35.818538999000054, 50.318125 ], [ 35.815276, 50.318674 ], [ 35.807685, 50.315178 ], [ 35.804019999000047, 50.314434 ], [ 35.803607999000064, 50.307493 ], [ 35.806318, 50.305501 ], [ 35.817076001000032, 50.308038 ], [ 35.816965999000047, 50.31261 ], [ 35.819927, 50.315744 ], [ 35.818538999000054, 50.318125 ] ] ], [ [ [ 35.825599999000076, 50.306986 ], [ 35.827194, 50.309974 ], [ 35.824577, 50.313601 ], [ 35.819352999000046, 50.311195 ], [ 35.821496, 50.308197 ], [ 35.825599999000076, 50.306986 ] ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.092450954845599995, "Shape_Area": 0.00030253972464700001, "ADM4_EN": "Varivtsi", "ADM4_UA": "Варівці", "ADM4_PCODE": "UA6804013006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodotska", "ADM3_UA": "Городоцька", "ADM3_PCODE": "UA6804013", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.55665, 49.340546 ], [ 26.548887, 49.339262 ], [ 26.551085, 49.332353 ], [ 26.549236, 49.330541 ], [ 26.542743, 49.328435 ], [ 26.546013999000024, 49.32601 ], [ 26.558498001000032, 49.322736 ], [ 26.564683001000049, 49.319908 ], [ 26.570661, 49.329692 ], [ 26.565618001000075, 49.332034 ], [ 26.565406800000062, 49.334572072000071 ], [ 26.560684696000067, 49.339249323000047 ], [ 26.55665, 49.340546 ] ] ] } }
+]
+}

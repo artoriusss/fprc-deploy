@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.061868645601500002, "Shape_Area": 0.000131910998037, "ADM4_EN": "Kysli", "ADM4_UA": "Кислі", "ADM4_PCODE": "UA7410033021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ripkynska", "ADM3_UA": "Ріпкинська", "ADM3_PCODE": "UA7410033", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.904085881000071, 51.766479 ], [ 30.902874120000035, 51.770232990000068 ], [ 30.897165960000052, 51.772060980000049 ], [ 30.891315960000043, 51.770356020000065 ], [ 30.887017921000052, 51.762179070000059 ], [ 30.887406001000045, 51.760466010000073 ], [ 30.895391880000034, 51.762576060000072 ], [ 30.899925001000042, 51.761917980000078 ], [ 30.899413080000045, 51.765426 ], [ 30.904085881000071, 51.766479 ] ] ] } }
+]
+}

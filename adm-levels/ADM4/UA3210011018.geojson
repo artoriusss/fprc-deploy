@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.045624462628600003, "Shape_Area": 7.5280124825699999e-05, "ADM4_EN": "Mikhlivshchyna", "ADM4_UA": "Міхлівщина", "ADM4_PCODE": "UA3210011018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Poliska", "ADM3_UA": "Поліська", "ADM3_PCODE": "UA3210011", "ADM2_EN": "Vyshhorodskyi", "ADM2_UA": "Вишгородський", "ADM2_PCODE": "UA3210", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.647902327000054, 51.101338377000047 ], [ 29.64460942200003, 51.101073386000053 ], [ 29.638846427000033, 51.096638357000074 ], [ 29.636136350000072, 51.09300944000006 ], [ 29.641894353000055, 51.091301444000067 ], [ 29.647956321000038, 51.09837940400007 ], [ 29.653417339000043, 51.096464358000048 ], [ 29.654546334000031, 51.098173433000056 ], [ 29.647902327000054, 51.101338377000047 ] ] ] } }
+]
+}

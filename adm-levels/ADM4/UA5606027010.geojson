@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.090699796745499994, "Shape_Area": 0.00020579269882, "ADM4_EN": "Novostav-Dalnii", "ADM4_UA": "Новостав-Дальній", "ADM4_PCODE": "UA5606027010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zorianska", "ADM3_UA": "Зорянська", "ADM3_PCODE": "UA5606027", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.958573999000066, 50.653776060000041 ], [ 25.957051199000034, 50.648885010000072 ], [ 25.953194160000066, 50.64862203000007 ], [ 25.950363120000077, 50.643734040000027 ], [ 25.959717, 50.644277010000053 ], [ 25.959813839000049, 50.641210080000064 ], [ 25.967237039000054, 50.641344 ], [ 25.975903061000054, 50.650192704000062 ], [ 25.965070921000063, 50.650887060000059 ], [ 25.961924880000026, 50.654921040000033 ], [ 25.958573999000066, 50.653776060000041 ] ] ] } }
+]
+}

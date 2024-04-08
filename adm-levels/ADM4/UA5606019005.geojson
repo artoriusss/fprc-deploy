@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.051776152976800001, "Shape_Area": 8.8930486225499998e-05, "ADM4_EN": "Zhylzha", "ADM4_UA": "Жильжа", "ADM4_PCODE": "UA5606019005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Derazhnenska", "ADM3_UA": "Деражненська", "ADM3_PCODE": "UA5606019", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.217266040000027, 50.839898940000069 ], [ 26.212231081000027, 50.841385020000075 ], [ 26.205195960000026, 50.840155980000077 ], [ 26.203338, 50.838542010000026 ], [ 26.204131080000025, 50.83313706000007 ], [ 26.211331080000036, 50.835075030000041 ], [ 26.21615292000007, 50.834233080000047 ], [ 26.218744920000063, 50.837177970000027 ], [ 26.217266040000027, 50.839898940000069 ] ] ] } }
+]
+}

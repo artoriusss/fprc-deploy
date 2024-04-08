@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.14586368700899999, "Shape_Area": 0.00091887714403799997, "ADM4_EN": "Tynivka", "ADM4_UA": "Тинівка", "ADM4_PCODE": "UA7106003007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bashtechkivska", "ADM3_UA": "Баштечківська", "ADM3_PCODE": "UA7106003", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.427062, 49.284664 ], [ 30.423405999000067, 49.28864 ], [ 30.419219, 49.286952 ], [ 30.419858999000041, 49.277031 ], [ 30.413205001000051, 49.271341 ], [ 30.400086, 49.264645 ], [ 30.410324001000049, 49.260819 ], [ 30.408791, 49.257063 ], [ 30.426606001000039, 49.254129 ], [ 30.428366, 49.258497 ], [ 30.443852, 49.255758 ], [ 30.448367, 49.267388 ], [ 30.443898, 49.268019 ], [ 30.446427, 49.276538 ], [ 30.431989, 49.285263 ], [ 30.427062, 49.284664 ] ] ] } }
+]
+}

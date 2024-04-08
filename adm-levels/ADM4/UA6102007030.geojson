@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.054804763232499998, "Shape_Area": 0.00012226189041100001, "ADM4_EN": "Mali Berezhtsi", "ADM4_UA": "Малі Бережці", "ADM4_PCODE": "UA6102007030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kremenetska", "ADM3_UA": "Кременецька", "ADM3_PCODE": "UA6102007", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.628677626000069, 50.113284569000029 ], [ 25.624324999000066, 50.115685 ], [ 25.622528857000077, 50.111265092000053 ], [ 25.618140840000024, 50.108545263000053 ], [ 25.621864730000027, 50.105062755000063 ], [ 25.631452465000052, 50.10580899200005 ], [ 25.634678429000076, 50.106766299000071 ], [ 25.637623, 50.110829 ], [ 25.633821642000044, 50.11344850100005 ], [ 25.628677626000069, 50.113284569000029 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.105411091409, "Shape_Area": 0.000166071948425, "ADM4_EN": "Novosilske", "ADM4_UA": "Новосільське", "ADM4_PCODE": "UA5908011068", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lebedynska", "ADM3_UA": "Лебединська", "ADM3_PCODE": "UA5908011", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.240145, 50.650693 ], [ 34.235678001000053, 50.651764 ], [ 34.236815001000025, 50.658472 ], [ 34.233882, 50.658068 ], [ 34.234373, 50.654312 ], [ 34.229062, 50.653902 ], [ 34.226354, 50.650712 ], [ 34.227446999000051, 50.645958 ], [ 34.225557001000027, 50.641971 ], [ 34.229455, 50.640829 ], [ 34.237042999000039, 50.646315 ], [ 34.248424, 50.647745 ], [ 34.256094, 50.65023 ], [ 34.254971, 50.6517 ], [ 34.246315, 50.649224 ], [ 34.240145, 50.650693 ] ] ] } }
+]
+}

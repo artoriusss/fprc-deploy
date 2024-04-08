@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070536144847000007, "Shape_Area": 0.0001448994694, "ADM4_EN": "Sadove", "ADM4_UA": "Садове", "ADM4_PCODE": "UA6804007016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vovkovynetska", "ADM3_UA": "Вовковинецька", "ADM3_PCODE": "UA6804007", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.644433, 49.237745 ], [ 27.639173001000074, 49.238337 ], [ 27.636531, 49.230862 ], [ 27.643993, 49.228453 ], [ 27.647367, 49.225384 ], [ 27.65236, 49.226822 ], [ 27.658128001000023, 49.223576 ], [ 27.660611001000063, 49.225346 ], [ 27.657611, 49.230465 ], [ 27.645481001000064, 49.233224 ], [ 27.644433, 49.237745 ] ] ] } }
+]
+}

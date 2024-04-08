@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.059604223707999997, "Shape_Area": 9.4250562260600004e-05, "ADM4_EN": "Tavriia", "ADM4_UA": "Таврія", "ADM4_PCODE": "UA2308017009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novouspenivska", "ADM3_UA": "Новоуспенівська", "ADM3_PCODE": "UA2308017", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "Мелітопольський", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.074093555000047, 46.950437942000065 ], [ 35.07112797700006, 46.951414041000078 ], [ 35.072438439000052, 46.944406533000063 ], [ 35.074549937000029, 46.939171759000033 ], [ 35.071769277000044, 46.934927311000081 ], [ 35.072391379000067, 46.932144229000073 ], [ 35.081518068000037, 46.933865832000038 ], [ 35.078184518000057, 46.943777195000052 ], [ 35.075171555000054, 46.944420867000076 ], [ 35.074093555000047, 46.950437942000065 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.091920666572199994, "Shape_Area": 0.00032115689166300001, "ADM4_EN": "Kopystyn", "ADM4_UA": "Копистин", "ADM4_PCODE": "UA6804047013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khmelnytska", "ADM3_UA": "Хмельницька", "ADM3_PCODE": "UA6804047", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.137586, 49.381654 ], [ 27.127704999000059, 49.384804 ], [ 27.125086893000059, 49.390897746000064 ], [ 27.115823437000074, 49.393643205000046 ], [ 27.112648999000044, 49.391197 ], [ 27.106666, 49.389408 ], [ 27.10126, 49.390431 ], [ 27.100796001000049, 49.385201 ], [ 27.110137, 49.382202 ], [ 27.132637, 49.37607 ], [ 27.135004001000027, 49.376369 ], [ 27.137586, 49.381654 ] ] ] } }
+]
+}

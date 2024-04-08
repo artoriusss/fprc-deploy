@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.12120061214900001, "Shape_Area": 0.00010331971795100001, "ADM4_EN": "Vorhol", "ADM4_UA": "Воргол", "ADM4_PCODE": "UA5902009013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krolevetska", "ADM3_UA": "Кролевецька", "ADM3_PCODE": "UA5902009", "ADM2_EN": "Konotopskyi", "ADM2_UA": "Конотопський", "ADM2_PCODE": "UA5902", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.704979, 51.44025 ], [ 33.703289, 51.442425 ], [ 33.697248001000048, 51.438799 ], [ 33.693383, 51.438689 ], [ 33.689128, 51.436842 ], [ 33.68642, 51.43942 ], [ 33.680488999000033, 51.4409 ], [ 33.679778, 51.43876 ], [ 33.685453, 51.435626 ], [ 33.691894, 51.436931 ], [ 33.693804, 51.434707 ], [ 33.699857999000074, 51.436908 ], [ 33.704979, 51.44025 ] ] ] } }
+]
+}

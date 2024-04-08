@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.043205500485700002, "Shape_Area": 5.88557395925e-05, "ADM4_EN": "Vodiane", "ADM4_UA": "Водяне", "ADM4_PCODE": "UA4804013009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yelanetska", "ADM3_UA": "Єланецька", "ADM3_PCODE": "UA4804013", "ADM2_EN": "Voznesenskyi", "ADM2_UA": "Вознесенський", "ADM2_PCODE": "UA4804", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.947576189000074, 47.608952215000045 ], [ 31.94227537300003, 47.606137068000066 ], [ 31.944925123000075, 47.599186144000043 ], [ 31.951897496000072, 47.600853030000053 ], [ 31.95069989700005, 47.604701446000036 ], [ 31.947576189000074, 47.608952215000045 ] ] ] } }
+]
+}

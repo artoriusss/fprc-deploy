@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.032093333890300002, "Shape_Area": 5.2987902478600002e-05, "ADM4_EN": "Makhnivtsi", "ADM4_UA": "Махнівці", "ADM4_PCODE": "UA4604013011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pomorianska", "ADM3_UA": "Поморянська", "ADM3_PCODE": "UA4604013", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.978248078000036, 49.688875003000078 ], [ 24.981534081000063, 49.694210002000034 ], [ 24.977569079000034, 49.698522003000051 ], [ 24.974325080000028, 49.69705500200007 ], [ 24.97242508100004, 49.69370800300004 ], [ 24.978248078000036, 49.688875003000078 ] ] ] } }
+]
+}

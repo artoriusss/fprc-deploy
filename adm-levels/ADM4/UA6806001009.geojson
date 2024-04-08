@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.107402348089, "Shape_Area": 0.000165362203847, "ADM4_EN": "Krasnostav", "ADM4_UA": "Красностав", "ADM4_PCODE": "UA6806001009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezdivska", "ADM3_UA": "Берездівська", "ADM3_PCODE": "UA6806001", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.176170999000078, 50.414728 ], [ 27.176952, 50.412279 ], [ 27.174336, 50.404966 ], [ 27.17205, 50.403511 ], [ 27.173722999000063, 50.394723 ], [ 27.178106999000079, 50.395207 ], [ 27.176550001000066, 50.400652 ], [ 27.182796001000042, 50.406823 ], [ 27.191070999000033, 50.408172 ], [ 27.190847001000066, 50.412027 ], [ 27.182006001000047, 50.412007 ], [ 27.180968, 50.414321 ], [ 27.176170999000078, 50.414728 ] ] ] } }
+]
+}

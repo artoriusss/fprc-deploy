@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.074933568629600003, "Shape_Area": 0.000108714042727, "ADM4_EN": "Lazky", "ADM4_UA": "Лазьки", "ADM4_PCODE": "UA5304011044", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khorolska", "ADM3_UA": "Хорольська", "ADM3_PCODE": "UA5304011", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.937535, 49.791907 ], [ 32.932514, 49.786977 ], [ 32.927096001000052, 49.783706 ], [ 32.934868999000059, 49.781282 ], [ 32.937912, 49.782697 ], [ 32.94033, 49.779847 ], [ 32.947631, 49.781188 ], [ 32.943182999000044, 49.785361 ], [ 32.939989, 49.783923 ], [ 32.937229001000048, 49.785994 ], [ 32.938801999000077, 49.789034 ], [ 32.937535, 49.791907 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.041959538143199998, "Shape_Area": 0.000104258978333, "ADM4_EN": "Malyi Zliiv", "ADM4_UA": "Малий Зліїв", "ADM4_PCODE": "UA7410023021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Liubetska", "ADM3_UA": "Любецька", "ADM3_PCODE": "UA7410023", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.852514080000049, 51.714752040000064 ], [ 30.853051920000041, 51.716976030000069 ], [ 30.849084, 51.722498970000061 ], [ 30.842179200000032, 51.725797020000073 ], [ 30.839769, 51.724536030000081 ], [ 30.839950080000051, 51.719084010000074 ], [ 30.843194040000071, 51.715171980000036 ], [ 30.852514080000049, 51.714752040000064 ] ] ] } }
+]
+}

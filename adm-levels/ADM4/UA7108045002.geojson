@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.088006047875300003, "Shape_Area": 0.00020619358984299999, "ADM4_EN": "Mala Smilianka", "ADM4_UA": "Мала Смілянка", "ADM4_PCODE": "UA7108045002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ternivska", "ADM3_UA": "Тернівська", "ADM3_PCODE": "UA7108045", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.883629, 49.167388 ], [ 31.876144, 49.164777 ], [ 31.87070600100003, 49.16648 ], [ 31.865941001000067, 49.163038 ], [ 31.866351, 49.156755 ], [ 31.875369, 49.15372 ], [ 31.880597, 49.159518 ], [ 31.89060239500003, 49.16600264300007 ], [ 31.890532431000054, 49.169334561000028 ], [ 31.883629, 49.167388 ] ] ] } }
+]
+}

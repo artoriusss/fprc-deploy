@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10087019024799999, "Shape_Area": 0.00025879724786500002, "ADM4_EN": "Zhovtyi Yar", "ADM4_UA": "Жовтий Яр", "ADM4_PCODE": "UA5104003004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dyviziiska", "ADM3_UA": "Дивізійська", "ADM3_PCODE": "UA5104003", "ADM2_EN": "Bilhorod-Dnistrovskyi", "ADM2_UA": "Білгород-Дністровський", "ADM2_PCODE": "UA5104", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.925908999000058, 45.87589 ], [ 29.922595001000047, 45.878203 ], [ 29.91695, 45.875388 ], [ 29.91173800100006, 45.876477 ], [ 29.911537, 45.874066 ], [ 29.917032, 45.873178 ], [ 29.921289, 45.869944 ], [ 29.925252, 45.865234 ], [ 29.925304001000029, 45.857878 ], [ 29.928257999000039, 45.851399 ], [ 29.931615, 45.851015 ], [ 29.934559, 45.868637 ], [ 29.934247001000074, 45.870997 ], [ 29.925908999000058, 45.87589 ] ] ] } }
+]
+}

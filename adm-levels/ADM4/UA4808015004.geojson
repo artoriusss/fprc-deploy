@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.097480529206199998, "Shape_Area": 0.000218846395102, "ADM4_EN": "Brid", "ADM4_UA": "Брід", "ADM4_PCODE": "UA4808015004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Syniukhynobridska", "ADM3_UA": "Синюхинобрідська", "ADM3_PCODE": "UA4808015", "ADM2_EN": "Pervomaiskyi", "ADM2_UA": "Первомайський", "ADM2_PCODE": "UA4808", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.567395457000032, 48.114748397000028 ], [ 30.552470111000048, 48.121323035000046 ], [ 30.548470966000025, 48.118724746000055 ], [ 30.551956001000065, 48.112764578000053 ], [ 30.558690682000076, 48.110660935000055 ], [ 30.563448601000061, 48.110438325000075 ], [ 30.569114163000052, 48.107245781000074 ], [ 30.571472638000046, 48.107866811000065 ], [ 30.587481746000037, 48.104111053000054 ], [ 30.590087874000062, 48.104908243000068 ], [ 30.567395457000032, 48.114748397000028 ] ] ] } }
+]
+}

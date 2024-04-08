@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.014457529777300001, "Shape_Area": 8.5667611755900001e-06, "ADM4_EN": "Malokalynove", "ADM4_UA": "ÐÐ°Ð»Ð¾ÐºÐ°Ð»Ð¸Ð½Ð¾Ð²Ðµ", "ADM4_RU": "ÐÐ°Ð»Ð¾ÐºÐ°Ð»Ð¸Ð½Ð¾Ð²Ð¾", "ADM4_PCODE": "UA4404003041", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sorokynska", "ADM3_UA": "Ð¡Ð¾ÑÐ¾ÐºÐ¸Ð½ÑÑÐºÐ°", "ADM3_RU": "Ð¡Ð¾ÑÐ¾ÐºÐ¸Ð½ÑÐºÐ°Ñ", "ADM3_PCODE": "UA4404003", "ADM2_EN": "Dovzhanskyi", "ADM2_UA": "ÐÐ¾Ð²Ð¶Ð°Ð½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¾Ð»Ð¶Ð°Ð½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA4404", "ADM1_EN": "Luhanska", "ADM1_UA": "ÐÑÐ³Ð°Ð½ÑÑÐºÐ°", "ADM1_RU": "ÐÑÐ³Ð°Ð½ÑÐºÐ°Ñ", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.688435001000073, 48.240265 ], [ 39.687828, 48.239186 ], [ 39.687204, 48.238569 ], [ 39.684798, 48.238885 ], [ 39.684664, 48.238817 ], [ 39.683855, 48.237828 ], [ 39.683182, 48.23802 ], [ 39.683164999000041, 48.2382 ], [ 39.683723, 48.240358 ], [ 39.685321001000034, 48.239963 ], [ 39.686029, 48.240694 ], [ 39.688334, 48.240659 ], [ 39.688385, 48.240535 ], [ 39.688435001000073, 48.240265 ] ] ] } }
-]
-}

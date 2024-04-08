@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0546236267375, "Shape_Area": 8.5266475486299998e-05, "ADM4_EN": "Kartamysh", "ADM4_UA": "Картамиш", "ADM4_PCODE": "UA6310007007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Oleksiivska", "ADM3_UA": "Олексіївська", "ADM3_PCODE": "UA6310007", "ADM2_EN": "Lozivskyi", "ADM2_UA": "Лозівський", "ADM2_PCODE": "UA6310", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.543939999000031, 49.280662 ], [ 36.541144999000039, 49.278301 ], [ 36.534724, 49.277274 ], [ 36.53237, 49.274992 ], [ 36.534705001000077, 49.27179 ], [ 36.539949, 49.274503 ], [ 36.547333999000045, 49.276162 ], [ 36.547736, 49.279957 ], [ 36.543939999000031, 49.280662 ] ] ] } }
+]
+}

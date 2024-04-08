@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.045637900239800001, "Shape_Area": 5.9921795849399997e-05, "ADM4_EN": "Druzheliubivka", "ADM4_UA": "Дружелюбівка", "ADM4_PCODE": "UA4804013014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yelanetska", "ADM3_UA": "Єланецька", "ADM3_PCODE": "UA4804013", "ADM2_EN": "Voznesenskyi", "ADM2_UA": "Вознесенський", "ADM2_PCODE": "UA4804", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.957526705000078, 47.66337164600003 ], [ 31.957459237000023, 47.666759765000052 ], [ 31.954174708000039, 47.666723923000063 ], [ 31.951876466000044, 47.672771252000075 ], [ 31.949134922000042, 47.67495621300003 ], [ 31.946242037000047, 47.674370920000058 ], [ 31.948645894000038, 47.667310909000037 ], [ 31.948125480000044, 47.664807425000049 ], [ 31.954575355000031, 47.665713811000046 ], [ 31.957526705000078, 47.66337164600003 ] ] ] } }
+]
+}

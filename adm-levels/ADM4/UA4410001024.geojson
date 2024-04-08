@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.114883838278, "Shape_Area": 8.20651764565e-05, "ADM4_EN": "Plakho-Petrivka", "ADM4_UA": "Плахо-Петрівка", "ADM4_PCODE": "UA4410001024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilokurakynska", "ADM3_UA": "Білокуракинська", "ADM3_PCODE": "UA4410001", "ADM2_EN": "Svativskyi", "ADM2_UA": "Сватівський", "ADM2_PCODE": "UA4410", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 38.490572, 49.623832 ], [ 38.483977, 49.629761 ], [ 38.47279300100007, 49.634918 ], [ 38.473342, 49.632659 ], [ 38.482505, 49.629121 ], [ 38.489636001000065, 49.623349 ], [ 38.490572, 49.623832 ] ] ], [ [ [ 38.494082, 49.622828 ], [ 38.495956, 49.618106 ], [ 38.505701, 49.612255 ], [ 38.50496399900004, 49.616537 ], [ 38.498467001000051, 49.619351 ], [ 38.494082, 49.622828 ] ] ] ] } }
+]
+}

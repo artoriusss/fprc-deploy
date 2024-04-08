@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.110060777378, "Shape_Area": 0.00027854918821500001, "ADM4_EN": "Dzvyniach", "ADM4_UA": "Дзвиняч", "ADM4_PCODE": "UA6106017011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zalishchytska", "ADM3_UA": "Заліщицька", "ADM3_PCODE": "UA6106017", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.727998, 48.712287 ], [ 25.722050152000065, 48.712297682000042 ], [ 25.721436287000074, 48.709522939000067 ], [ 25.716744, 48.705949 ], [ 25.717278409000073, 48.700868512000056 ], [ 25.73164, 48.699766 ], [ 25.7431, 48.699944 ], [ 25.740348, 48.704598 ], [ 25.742188881000061, 48.707934893000072 ], [ 25.727998, 48.712287 ] ] ] } }
+]
+}

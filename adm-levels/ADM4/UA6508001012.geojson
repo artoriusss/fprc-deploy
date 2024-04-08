@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.060342273846200001, "Shape_Area": 0.00011490628480800001, "ADM4_EN": "Suvorovka", "ADM4_UA": "Суворовка", "ADM4_PCODE": "UA6508001012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bekhterska", "ADM3_UA": "Бехтерська", "ADM3_PCODE": "UA6508001", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Скадовський", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.187518, 46.298998 ], [ 32.184674, 46.295243 ], [ 32.171251, 46.293479 ], [ 32.173662, 46.284794 ], [ 32.18174699900004, 46.285385 ], [ 32.180395374000057, 46.291480625000077 ], [ 32.189018, 46.292411 ], [ 32.187518, 46.298998 ] ] ] } }
+]
+}

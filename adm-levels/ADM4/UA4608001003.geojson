@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.099708448303899994, "Shape_Area": 8.0736364125899999e-05, "ADM4_EN": "Berestiany", "ADM4_UA": "Берестяни", "ADM4_PCODE": "UA4608001003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Biskovytska", "ADM3_UA": "Бісковицька", "ADM3_PCODE": "UA4608001", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.112166500000058, 49.612353019000068 ], [ 23.106495503000076, 49.612407020000035 ], [ 23.099746507000077, 49.610144020000064 ], [ 23.098718507000058, 49.61128302000003 ], [ 23.090713510000057, 49.607754020000073 ], [ 23.091761509000037, 49.605227020000029 ], [ 23.097357507000027, 49.607560019000061 ], [ 23.112166500000058, 49.612353019000068 ] ] ] } }
+]
+}

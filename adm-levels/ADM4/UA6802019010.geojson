@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13208886851900001, "Shape_Area": 0.00080335956928500002, "ADM4_EN": "Vilkhovets", "ADM4_UA": "Вільховець", "ADM4_PCODE": "UA6802019010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoushytska", "ADM3_UA": "Новоушицька", "ADM3_PCODE": "UA6802019", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.35819900100006, 48.712603 ], [ 27.348891001000027, 48.712504 ], [ 27.338294001000065, 48.70976 ], [ 27.338381, 48.699672 ], [ 27.340143, 48.695919 ], [ 27.344319, 48.69293 ], [ 27.344684, 48.685332 ], [ 27.349286, 48.685338 ], [ 27.360578001000079, 48.682131 ], [ 27.361451, 48.687756 ], [ 27.378272, 48.6925 ], [ 27.377406, 48.702038 ], [ 27.371487, 48.705654 ], [ 27.361221, 48.703178 ], [ 27.35819900100006, 48.712603 ] ] ] } }
+]
+}

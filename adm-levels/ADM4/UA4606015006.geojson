@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0602869753774, "Shape_Area": 0.000117230797994, "ADM4_EN": "Horpyn", "ADM4_UA": "Горпин", "ADM4_PCODE": "UA4606015006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhovtanetska", "ADM3_UA": "Жовтанецька", "ADM3_PCODE": "UA4606015", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.36636915400004, 50.011065006000081 ], [ 24.362935155000059, 50.010785005000059 ], [ 24.363968155000066, 50.004335006000076 ], [ 24.361882155000046, 49.999300005000066 ], [ 24.368782155000076, 49.999581005000039 ], [ 24.369057154000075, 50.003600005000067 ], [ 24.37366815300004, 50.007058005000033 ], [ 24.379361152000058, 50.009150006000027 ], [ 24.379908153000031, 50.011030005000066 ], [ 24.36636915400004, 50.011065006000081 ] ] ] } }
+]
+}

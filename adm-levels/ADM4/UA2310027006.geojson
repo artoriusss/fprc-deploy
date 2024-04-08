@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.051720284527800003, "Shape_Area": 7.1499014962500004e-05, "ADM4_EN": "Luhivka", "ADM4_UA": "Лугівка", "ADM4_PCODE": "UA2310027006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tokmatska", "ADM3_UA": "Токмацька", "ADM3_PCODE": "UA2310027", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.782019646000037, 47.251552451000066 ], [ 35.773276065000061, 47.251214262000076 ], [ 35.763088608000032, 47.248888488000034 ], [ 35.762612682000054, 47.245888587000081 ], [ 35.767019582000046, 47.24589717300006 ], [ 35.775741474000029, 47.247984728000063 ], [ 35.782246884000074, 47.24807028500004 ], [ 35.782019646000037, 47.251552451000066 ] ] ] } }
+]
+}

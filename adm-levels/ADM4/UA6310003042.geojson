@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.096697189705099995, "Shape_Area": 0.00016424053483199999, "ADM4_EN": "Lukashivka", "ADM4_UA": "Лукашівка", "ADM4_PCODE": "UA6310003042", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Blyzniukivska", "ADM3_UA": "Близнюківська", "ADM3_PCODE": "UA6310003", "ADM2_EN": "Lozivskyi", "ADM2_UA": "Лозівський", "ADM2_PCODE": "UA6310", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.508281, 48.777755 ], [ 36.505837, 48.78264 ], [ 36.503733001000057, 48.783826 ], [ 36.498584, 48.779885 ], [ 36.496728, 48.775846 ], [ 36.492223, 48.776334 ], [ 36.484578999000064, 48.770634 ], [ 36.479612, 48.768537 ], [ 36.486963999000068, 48.765115 ], [ 36.496844, 48.774453 ], [ 36.510722, 48.773589 ], [ 36.508281, 48.777755 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.073539530856799998, "Shape_Area": 0.000110968291824, "ADM4_EN": "Hreblia", "ADM4_UA": "Гребля", "ADM4_PCODE": "UA7410001004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bereznianska", "ADM3_UA": "Березнянська", "ADM3_PCODE": "UA7410001", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 31.792520159000048, 51.514431930000057 ], [ 31.792206959000055, 51.507577980000065 ], [ 31.801824, 51.505565040000079 ], [ 31.808379960000025, 51.505612020000058 ], [ 31.808298960000059, 51.507846990000075 ], [ 31.801937040000041, 51.508062 ], [ 31.801698, 51.514385040000036 ], [ 31.792520159000048, 51.514431930000057 ] ] ], [ [ [ 31.795575120000024, 51.498549 ], [ 31.791130921000047, 51.502488030000052 ], [ 31.790481120000038, 51.498690030000034 ], [ 31.795575120000024, 51.498549 ] ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.096652523297299994, "Shape_Area": 0.000162080179644, "ADM4_EN": "Mala Rohan", "ADM4_UA": "Мала Рогань", "ADM4_PCODE": "UA6312005012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vilkhivska", "ADM3_UA": "Вільхівська", "ADM3_PCODE": "UA6312005", "ADM2_EN": "Kharkivskyi", "ADM2_UA": "Харківський", "ADM2_PCODE": "UA6312", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": "UA6312005012", "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 10270500.0, "Total": 10270500.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.49506800100005, 49.950282 ], [ 36.495597, 49.945901 ], [ 36.49432, 49.943503 ], [ 36.490242, 49.943993 ], [ 36.486946, 49.938528 ], [ 36.484469999000055, 49.9367 ], [ 36.480969999000024, 49.9372 ], [ 36.481378, 49.932522 ], [ 36.493301, 49.931894 ], [ 36.49441100100006, 49.938083 ], [ 36.49843, 49.944067 ], [ 36.499296, 49.94819 ], [ 36.49506800100005, 49.950282 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.084547128777899994, "Shape_Area": 0.00024903862039200002, "ADM4_EN": "Novokostiantynivka", "ADM4_UA": "Новокостянтинівка", "ADM4_PCODE": "UA2308019012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Oleksandrivska", "ADM3_UA": "Олександрівська", "ADM3_PCODE": "UA2308019", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "Мелітопольський", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.678574909000076, 46.60450441100005 ], [ 35.677530920000038, 46.604760662000047 ], [ 35.670689996000078, 46.599140853000051 ], [ 35.686114694000025, 46.59171262600006 ], [ 35.689900651000073, 46.593326811000054 ], [ 35.700263222000046, 46.58863602100007 ], [ 35.702997679000077, 46.590803149000067 ], [ 35.706684660000064, 46.596490349000078 ], [ 35.689662708000071, 46.59895752400007 ], [ 35.683651237000049, 46.60278416500006 ], [ 35.678574909000076, 46.60450441100005 ] ] ] } }
+]
+}

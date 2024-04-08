@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.088301686027099993, "Shape_Area": 0.00028196739918399998, "ADM4_EN": "Shmankivtsi", "ADM4_UA": "Шманьківці", "ADM4_PCODE": "UA6106015005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zavodska", "ADM3_UA": "Заводська", "ADM3_PCODE": "UA6106015", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.922798, 49.003243 ], [ 25.916684001000078, 49.006467 ], [ 25.912034, 49.002219 ], [ 25.910612, 49.002928 ], [ 25.905788, 48.999005001000057 ], [ 25.909546642000066, 48.994302201000039 ], [ 25.921549999000035, 48.989179 ], [ 25.920666, 48.985655 ], [ 25.925429, 48.984872001000042 ], [ 25.92982472500006, 48.981413107000037 ], [ 25.93196295100006, 48.983037517000071 ], [ 25.92758, 48.988081 ], [ 25.929355, 48.992393001000039 ], [ 25.926667, 48.994584 ], [ 25.922798, 49.003243 ] ] ] } }
+]
+}

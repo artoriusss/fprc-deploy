@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10008794298699999, "Shape_Area": 0.00031253509631499999, "ADM4_EN": "Plebanivka", "ADM4_UA": "Плебанівка", "ADM4_PCODE": "UA6104047023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Terebovlianska", "ADM3_UA": "Теребовлянська", "ADM3_PCODE": "UA6104047", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.710284, 49.288764 ], [ 25.704642273000047, 49.290201779000029 ], [ 25.702984881000077, 49.288928294000073 ], [ 25.707740001000047, 49.284847 ], [ 25.70733, 49.278947 ], [ 25.71515, 49.279349 ], [ 25.723257001000036, 49.278622 ], [ 25.731175, 49.269525 ], [ 25.734487, 49.270284 ], [ 25.74307, 49.27526 ], [ 25.742617, 49.278857 ], [ 25.734387, 49.280506 ], [ 25.722593, 49.284372 ], [ 25.715952, 49.288321 ], [ 25.710284, 49.288764 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0572595762654, "Shape_Area": 0.000175058290436, "ADM4_EN": "Pokrovske", "ADM4_UA": "Покровське", "ADM4_PCODE": "UA3206007018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykodymerska", "ADM3_UA": "Великодимерська", "ADM3_PCODE": "UA3206007", "ADM2_EN": "Brovarskyi", "ADM2_UA": "Броварський", "ADM2_PCODE": "UA3206", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.076565441000071, 50.591021009000031 ], [ 31.071510405000026, 50.590974002000053 ], [ 31.06881549700006, 50.584762065000064 ], [ 31.065215420000072, 50.583828058000051 ], [ 31.070238526000026, 50.579261941000027 ], [ 31.083725465000043, 50.579156889000046 ], [ 31.085832357000072, 50.58598797500008 ], [ 31.081841484000051, 50.587003990000028 ], [ 31.078665451000063, 50.590967012000078 ], [ 31.076565441000071, 50.591021009000031 ] ] ] } }
+]
+}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.019953865831800002, "Shape_Area": 2.0335499192e-05, "ADM4_EN": "Shymshynivka", "ADM4_UA": "Ð¨Ð¸Ð¼ÑÐ¸Ð½ÑÐ²ÐºÐ°", "ADM4_RU": "Ð¨Ð¸Ð¼ÑÐ¸Ð½Ð¾Ð²ÐºÐ°", "ADM4_PCODE": "UA4406003038", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lutuhynska", "ADM3_UA": "ÐÑÑÑÐ³Ð¸Ð½ÑÑÐºÐ°", "ADM3_RU": "ÐÑÑÑÐ³Ð¸Ð½ÑÐºÐ°Ñ", "ADM3_PCODE": "UA4406003", "ADM2_EN": "Luhanskyi", "ADM2_UA": "ÐÑÐ³Ð°Ð½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÑÐ³Ð°Ð½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA4406", "ADM1_EN": "Luhanska", "ADM1_UA": "ÐÑÐ³Ð°Ð½ÑÑÐºÐ°", "ADM1_RU": "ÐÑÐ³Ð°Ð½ÑÐºÐ°Ñ", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.986302999000031, 48.440848 ], [ 38.986454001000027, 48.440308 ], [ 38.987535, 48.440408 ], [ 38.988523, 48.43645 ], [ 38.986799, 48.436295 ], [ 38.986513, 48.436835 ], [ 38.985702, 48.43679 ], [ 38.985027, 48.436802 ], [ 38.984438, 48.438073 ], [ 38.982276, 48.438199 ], [ 38.981620999000029, 48.439728 ], [ 38.982231001000059, 48.440627 ], [ 38.982501, 48.440638 ], [ 38.985897, 48.440882 ], [ 38.986302999000031, 48.440848 ] ] ] } }
-]
-}

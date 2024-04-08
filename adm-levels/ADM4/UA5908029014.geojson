@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.14977260595799999, "Shape_Area": 7.1910964692699998e-05, "ADM4_EN": "Stepne", "ADM4_UA": "Степне", "ADM4_PCODE": "UA5908029014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khotinska", "ADM3_UA": "Хотінська", "ADM3_PCODE": "UA5908029", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 34.667064, 51.178422 ], [ 34.669444, 51.179687 ], [ 34.665702, 51.183466 ], [ 34.66198, 51.182683 ], [ 34.667064, 51.178422 ] ] ], [ [ [ 34.674092, 51.178488 ], [ 34.680935, 51.179191 ], [ 34.680534001000069, 51.180074 ], [ 34.674092, 51.178488 ] ] ] ] } }
+]
+}

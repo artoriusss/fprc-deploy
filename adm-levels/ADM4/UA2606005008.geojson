@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0624023200936, "Shape_Area": 0.000150000111324, "ADM4_EN": "Ivankova", "ADM4_UA": "Іванкова", "ADM4_PCODE": "UA2606005008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Verkhnianska", "ADM3_UA": "Верхнянська", "ADM3_PCODE": "UA2606005", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.310473631000036, 49.11926872500004 ], [ 24.308503599000062, 49.118956965000052 ], [ 24.311354878000031, 49.108357555000055 ], [ 24.312322497000025, 49.107075939000026 ], [ 24.324390833000052, 49.11111113100003 ], [ 24.329369760000077, 49.114059102000056 ], [ 24.328893903000051, 49.115765249000049 ], [ 24.321841102000064, 49.115875629000072 ], [ 24.318432304000055, 49.11875901500008 ], [ 24.310473631000036, 49.11926872500004 ] ] ] } }
+]
+}

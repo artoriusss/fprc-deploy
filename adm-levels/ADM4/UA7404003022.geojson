@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.043374057148099998, "Shape_Area": 5.7039830094500001e-05, "ADM4_EN": "Movchyniv", "ADM4_UA": "Мовчинів", "ADM4_PCODE": "UA7404003022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bakhmatska", "ADM3_UA": "Бахмацька", "ADM3_PCODE": "UA7404003", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.922613828000067, 51.194347641000036 ], [ 32.915056703000062, 51.193918686000075 ], [ 32.915287121000063, 51.191672190000077 ], [ 32.920648915000072, 51.191924090000043 ], [ 32.92237979600003, 51.18934144800005 ], [ 32.931925144000047, 51.18987655400008 ], [ 32.928688623000028, 51.19344243200004 ], [ 32.922613828000067, 51.194347641000036 ] ] ] } }
+]
+}

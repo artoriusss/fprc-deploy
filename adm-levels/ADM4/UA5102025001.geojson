@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.15437568489699999, "Shape_Area": 0.00030288245922800001, "ADM4_EN": "Stari Maiaky", "ADM4_UA": "Старі Маяки", "ADM4_PCODE": "UA5102025001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Staromaiakivska", "ADM3_UA": "Старомаяківська", "ADM3_PCODE": "UA5102025", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.301517, 47.372698 ], [ 30.294555001000049, 47.372102 ], [ 30.295214001000033, 47.369691 ], [ 30.300816, 47.370322 ], [ 30.304136, 47.356157 ], [ 30.306297, 47.352987 ], [ 30.306672, 47.346682 ], [ 30.309894, 47.347075 ], [ 30.31304, 47.336671 ], [ 30.316316, 47.340189 ], [ 30.315416001000074, 47.345986 ], [ 30.31199, 47.356149 ], [ 30.315416, 47.356939 ], [ 30.313969, 47.361945 ], [ 30.318856999000047, 47.36251 ], [ 30.318836, 47.367607 ], [ 30.303444, 47.365552 ], [ 30.301517, 47.372698 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.041374617726900001, "Shape_Area": 6.8968548786500002e-05, "ADM4_EN": "Mala Tymoshivka", "ADM4_UA": "Мала Тимошівка", "ADM4_PCODE": "UA3506021016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rivnianska", "ADM3_UA": "Рівнянська", "ADM3_PCODE": "UA3506021", "ADM2_EN": "Novoukrainskyi", "ADM2_UA": "Новоукраїнський", "ADM2_PCODE": "UA3506", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.514729, 48.133135 ], [ 31.50961, 48.132274 ], [ 31.511757, 48.124024 ], [ 31.523787001000073, 48.125384 ], [ 31.523116, 48.127714 ], [ 31.518466, 48.12709 ], [ 31.514729, 48.133135 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.077510183170700006, "Shape_Area": 0.000131834894228, "ADM4_EN": "Shershenivka", "ADM4_UA": "Шершенівка", "ADM4_PCODE": "UA6106003006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilche-Zolotetska", "ADM3_UA": "Більче-Золотецька", "ADM3_PCODE": "UA6106003", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 25.824774, 48.823976 ], [ 25.813547, 48.823583 ], [ 25.809588, 48.821542 ], [ 25.811135, 48.818576 ], [ 25.817358999000078, 48.816351 ], [ 25.822592001000032, 48.816363 ], [ 25.829167, 48.81465 ], [ 25.828029, 48.818905 ], [ 25.824774, 48.823976 ] ] ], [ [ [ 25.820265, 48.815489 ], [ 25.823416, 48.811452 ], [ 25.826229001000058, 48.814802 ], [ 25.820265, 48.815489 ] ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057805796695800001, "Shape_Area": 7.3813336122799996e-05, "ADM4_EN": "Lubenets", "ADM4_UA": "Лубенець", "ADM4_PCODE": "UA7406001021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Koropska", "ADM3_UA": "Коропська", "ADM3_PCODE": "UA7406001", "ADM2_EN": "Novhorod-Siverskyi", "ADM2_UA": "Новгород-Сіверський", "ADM2_PCODE": "UA7406", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.974499880000053, 51.387613920000035 ], [ 32.971339080000064, 51.387691950000033 ], [ 32.96491380100008, 51.384199050000063 ], [ 32.963344920000054, 51.377817060000041 ], [ 32.969920584000079, 51.370530355000028 ], [ 32.973621840000078, 51.371436060000065 ], [ 32.96736216100004, 51.379780050000079 ], [ 32.969985840000049, 51.385049010000046 ], [ 32.974499880000053, 51.387613920000035 ] ] ] } }
+]
+}

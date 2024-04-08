@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.027510345239800001, "Shape_Area": 2.5492742774100001e-05, "ADM4_EN": "Korzhykha", "ADM4_UA": "Коржиха", "ADM4_PCODE": "UA3202003013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Volodarska", "ADM3_UA": "Володарська", "ADM3_PCODE": "UA3202003", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.564526848000071, 49.519594535000067 ], [ 29.561220845000037, 49.518794547000027 ], [ 29.560916882000072, 49.515433543000029 ], [ 29.565375871000072, 49.514180556000042 ], [ 29.563554857000042, 49.517447521000065 ], [ 29.564526848000071, 49.519594535000067 ] ] ] } }
+]
+}

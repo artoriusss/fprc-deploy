@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.16496422355199999, "Shape_Area": 0.000156948143728, "ADM4_EN": "Korbyni Ivany", "ADM4_UA": "Корбині Івани", "ADM4_PCODE": "UA6302001025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bohodukhivska", "ADM3_UA": "Богодухівська", "ADM3_PCODE": "UA6302001", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "Богодухівський", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.414647933000026, 50.32734804200004 ], [ 35.411407, 50.320670001000053 ], [ 35.405718996000076, 50.320047087000034 ], [ 35.411152, 50.315671 ], [ 35.411493001000053, 50.311731 ], [ 35.417594, 50.3127 ], [ 35.419256, 50.31485 ], [ 35.415940999000043, 50.317543 ], [ 35.414229, 50.321964 ], [ 35.41713, 50.326503 ], [ 35.414716001000045, 50.327551491000065 ], [ 35.414647933000026, 50.32734804200004 ] ] ] } }
+]
+}

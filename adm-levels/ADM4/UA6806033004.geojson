@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.113026688606, "Shape_Area": 0.00025506015208500002, "ADM4_EN": "Plishchyn", "ADM4_UA": "Пліщин", "ADM4_PCODE": "UA6806033004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shepetivska", "ADM3_UA": "Шепетівська", "ADM3_PCODE": "UA6806033", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.96951400100005, 50.174971 ], [ 26.968961, 50.177712 ], [ 26.962567, 50.181401 ], [ 26.961342, 50.178044 ], [ 26.956975001000046, 50.177181 ], [ 26.959104, 50.171502 ], [ 26.955646, 50.166166 ], [ 26.960981, 50.166512 ], [ 26.964092, 50.16193 ], [ 26.968512999000041, 50.163304 ], [ 26.96998, 50.167205 ], [ 26.972767, 50.167057 ], [ 26.974803999000073, 50.170168 ], [ 26.979721, 50.169587 ], [ 26.982297, 50.175619 ], [ 26.978589999000064, 50.175864 ], [ 26.970658, 50.174211 ], [ 26.96951400100005, 50.174971 ] ] ] } }
+]
+}

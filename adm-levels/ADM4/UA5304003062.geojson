@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.129124601295, "Shape_Area": 0.00024564896705200001, "ADM4_EN": "Shershnivka", "ADM4_UA": "Шершнівка", "ADM4_PCODE": "UA5304003062", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lubenska", "ADM3_UA": "Лубенська", "ADM3_PCODE": "UA5304003", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.021006, 49.923383 ], [ 33.026313, 49.923092 ], [ 33.031855, 49.928916 ], [ 33.032586001000027, 49.932469 ], [ 33.023832, 49.935101 ], [ 33.021549, 49.929937 ], [ 33.012980999000035, 49.929998 ], [ 33.009096999000064, 49.933655 ], [ 33.008415, 49.938596 ], [ 32.994768, 49.936099 ], [ 32.994862, 49.933168 ], [ 33.006532, 49.927264 ], [ 33.018176, 49.929315 ], [ 33.019039, 49.924873 ], [ 33.021006, 49.923383 ] ] ] } }
+]
+}

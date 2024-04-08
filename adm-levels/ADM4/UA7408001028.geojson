@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.055155291184599997, "Shape_Area": 7.2632356485899995e-05, "ADM4_EN": "Yashchenkiv", "ADM4_UA": "Ященків", "ADM4_PCODE": "UA7408001028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Varvynska", "ADM3_UA": "Варвинська", "ADM3_PCODE": "UA7408001", "ADM2_EN": "Prylutskyi", "ADM2_UA": "Прилуцький", "ADM2_PCODE": "UA7408", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.761365840000053, 50.412521070000082 ], [ 32.758697160000054, 50.412824010000065 ], [ 32.755240080000078, 50.409928980000075 ], [ 32.761064880000049, 50.404113 ], [ 32.763650040000073, 50.407195050000041 ], [ 32.763017160000061, 50.409554040000046 ], [ 32.773646880000058, 50.409352980000051 ], [ 32.771035079000058, 50.41226196000008 ], [ 32.761365840000053, 50.412521070000082 ] ] ] } }
+]
+}

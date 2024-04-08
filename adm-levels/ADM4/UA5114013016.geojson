@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.114564789488, "Shape_Area": 0.00028777025876600002, "ADM4_EN": "Vynohradar", "ADM4_UA": "Виноградар", "ADM4_PCODE": "UA5114013016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozdilnianska", "ADM3_UA": "Роздільнянська", "ADM3_PCODE": "UA5114013", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.332321001000025, 46.686723 ], [ 30.343177, 46.668683 ], [ 30.346946, 46.666505 ], [ 30.351348, 46.659868 ], [ 30.355831999000031, 46.661128 ], [ 30.34760299900006, 46.675985 ], [ 30.349641, 46.680042 ], [ 30.341416001000027, 46.682927 ], [ 30.335277, 46.692323 ], [ 30.333707, 46.695981 ], [ 30.328843, 46.699488 ], [ 30.325185, 46.697355 ], [ 30.326142, 46.695092 ], [ 30.331921, 46.687485 ], [ 30.332321001000025, 46.686723 ] ] ] } }
+]
+}

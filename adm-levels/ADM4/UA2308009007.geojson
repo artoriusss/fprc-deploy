@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.104178836572, "Shape_Area": 0.00016026086863, "ADM4_EN": "Svobodne", "ADM4_UA": "Свободне", "ADM4_PCODE": "UA2308009007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myrnenska", "ADM3_UA": "Мирненська", "ADM3_PCODE": "UA2308009", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "Мелітопольський", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.731522016000042, 46.971694356000057 ], [ 35.724956560000066, 46.969391510000037 ], [ 35.706207281000047, 46.956237716000032 ], [ 35.702460264000024, 46.954766883000048 ], [ 35.690395625000065, 46.95284626800003 ], [ 35.691122369000027, 46.950904150000042 ], [ 35.699202654000032, 46.952329483000028 ], [ 35.706595875000062, 46.951591647000043 ], [ 35.721598458000074, 46.962274674000071 ], [ 35.731578698000078, 46.968668199000035 ], [ 35.731522016000042, 46.971694356000057 ] ] ] } }
+]
+}

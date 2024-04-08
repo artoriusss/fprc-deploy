@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.116089664085, "Shape_Area": 0.00045522947886800002, "ADM4_EN": "Zeleni Kurylivtsi", "ADM4_UA": "Зелені Курилівці", "ADM4_PCODE": "UA6802019021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoushytska", "ADM3_UA": "Новоушицька", "ADM3_PCODE": "UA6802019", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.168879, 48.645262 ], [ 27.163199999000028, 48.648872 ], [ 27.157163, 48.654616 ], [ 27.15189299900004, 48.661545 ], [ 27.139848, 48.658857 ], [ 27.148202001000072, 48.644853 ], [ 27.15458, 48.642768 ], [ 27.163449, 48.638123 ], [ 27.163919, 48.636078 ], [ 27.172015, 48.631537 ], [ 27.178685896000047, 48.635255408000035 ], [ 27.180376, 48.639992 ], [ 27.168879, 48.645262 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.095312916140200002, "Shape_Area": 0.000218275215339, "ADM4_EN": "Berestia", "ADM4_UA": "Берестя", "ADM4_PCODE": "UA7306041002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoselytska", "ADM3_UA": "Новоселицька", "ADM3_PCODE": "UA7306041", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.345446999000046, 48.336901 ], [ 26.338064741000039, 48.335452687000043 ], [ 26.338221038000029, 48.333111313000074 ], [ 26.34483, 48.332113 ], [ 26.345429, 48.328145 ], [ 26.348283, 48.327077 ], [ 26.357397, 48.325989 ], [ 26.363161001000037, 48.328912 ], [ 26.368487999000024, 48.327924 ], [ 26.371488, 48.332106 ], [ 26.363238, 48.335523 ], [ 26.351046, 48.335104 ], [ 26.345446999000046, 48.336901 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.068927298708000004, "Shape_Area": 0.000109875724199, "ADM4_EN": "Koviari", "ADM4_UA": "Ков'ярі", "ADM4_PCODE": "UA4606043008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Solonkivska", "ADM3_UA": "Солонківська", "ADM3_PCODE": "UA4606043", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.005671218000032, 49.738664008000057 ], [ 24.000591220000047, 49.737294008000049 ], [ 24.002753218000066, 49.726697008000031 ], [ 24.005027218000066, 49.729539008000074 ], [ 24.008453217000067, 49.72874600800003 ], [ 24.012210308000078, 49.729927516000032 ], [ 24.014301549000038, 49.735002050000048 ], [ 24.01267421600005, 49.737510008000072 ], [ 24.005671218000032, 49.738664008000057 ] ] ] } }
+]
+}

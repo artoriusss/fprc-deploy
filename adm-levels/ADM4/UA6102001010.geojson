@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13711558641400001, "Shape_Area": 0.000146092513, "ADM4_EN": "Snihurivka", "ADM4_UA": "Снігурівка", "ADM4_PCODE": "UA6102001010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Borsukivska", "ADM3_UA": "Борсуківська", "ADM3_PCODE": "UA6102001", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.872440999000048, 49.893579 ], [ 25.877027, 49.891234 ], [ 25.87632, 49.887051 ], [ 25.871218, 49.883907 ], [ 25.872406, 49.880707 ], [ 25.876172, 49.879374 ], [ 25.878797999000028, 49.875133 ], [ 25.88087, 49.879424 ], [ 25.880535, 49.884468 ], [ 25.885172001000058, 49.88577 ], [ 25.879431, 49.890419 ], [ 25.879260001000034, 49.892634 ], [ 25.875019, 49.894634 ], [ 25.872440999000048, 49.893579 ] ] ] } }
+]
+}

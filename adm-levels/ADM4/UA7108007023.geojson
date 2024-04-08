@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.044595117089399998, "Shape_Area": 5.1718088919099997e-05, "ADM4_EN": "Orlovets", "ADM4_UA": "Орловець", "ADM4_PCODE": "UA7108007023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bobrytska", "ADM3_UA": "Бобрицька", "ADM3_PCODE": "UA7108007", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.239084, 49.802228 ], [ 31.234885, 49.801699 ], [ 31.243744157000037, 49.796781776000046 ], [ 31.247852, 49.793416 ], [ 31.249901, 49.795687 ], [ 31.244472399000074, 49.801988650000055 ], [ 31.239084, 49.802228 ] ] ] } }
+]
+}

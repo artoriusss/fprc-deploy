@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.089952173407100003, "Shape_Area": 5.4142055688799998e-05, "ADM4_EN": "Soldatske", "ADM4_UA": "Солдатське", "ADM4_PCODE": "UA3502013019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoarkhanhelska", "ADM3_UA": "Новоархангельська", "ADM3_PCODE": "UA3502013", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "Голованівський", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.790922, 48.593574 ], [ 30.791198999000073, 48.588762 ], [ 30.800604, 48.590135 ], [ 30.800852, 48.591771 ], [ 30.793034999000042, 48.590759 ], [ 30.790922, 48.593574 ] ] ] } }
+]
+}

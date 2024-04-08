@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.099686179387100005, "Shape_Area": 7.7694934691399995e-05, "ADM4_EN": "Bystrytsia", "ADM4_UA": "Бистриця", "ADM4_PCODE": "UA6804005003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vinkovetska", "ADM3_UA": "Віньковецька", "ADM3_PCODE": "UA6804005", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.241681, 48.969716 ], [ 27.236385, 48.970199 ], [ 27.237863, 48.965245 ], [ 27.240573, 48.964059 ], [ 27.242250999000078, 48.958433 ], [ 27.242368999000064, 48.953199 ], [ 27.246218, 48.953911 ], [ 27.24602800100007, 48.960618 ], [ 27.244895001000032, 48.964524 ], [ 27.240479, 48.966295 ], [ 27.241681, 48.969716 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.089219422001900001, "Shape_Area": 0.000202096631694, "ADM4_EN": "Mykhailivka", "ADM4_UA": "Михайлівка", "ADM4_PCODE": "UA3202021015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tetiivska", "ADM3_UA": "Тетіївська", "ADM3_PCODE": "UA3202021", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.551800099000047, 49.380110746000071 ], [ 29.54636012800006, 49.375184711000031 ], [ 29.552050112000074, 49.368584779000059 ], [ 29.550479100000075, 49.365115759000048 ], [ 29.55249413100006, 49.362144801000056 ], [ 29.55632012500007, 49.36324473600007 ], [ 29.560000096000067, 49.361055734000047 ], [ 29.562806063000039, 49.364929768000081 ], [ 29.565154110000037, 49.373646687000075 ], [ 29.562953920000041, 49.37400669200008 ], [ 29.551800099000047, 49.380110746000071 ] ] ] } }
+]
+}

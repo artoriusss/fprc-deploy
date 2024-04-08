@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.018614206151400001, "Shape_Area": 1.45194796495e-05, "ADM4_EN": "Vyshneve", "ADM4_UA": "ÐÐ¸ÑÐ½ÐµÐ²Ðµ", "ADM4_RU": "ÐÐ¸ÑÐ½ÐµÐ²Ð¾Ðµ", "ADM4_PCODE": "UA5908019003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nyzhnosyrovatska", "ADM3_UA": "ÐÐ¸Ð¶Ð½ÑÐ¾ÑÐ¸ÑÐ¾Ð²Ð°ÑÑÑÐºÐ°", "ADM3_RU": "ÐÐ¸Ð¶Ð½ÐµÑÑÑÐ¾Ð²Ð°ÑÑÐºÐ°Ñ", "ADM3_PCODE": "UA5908019", "ADM2_EN": "Sumskyi", "ADM2_UA": "Ð¡ÑÐ¼ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¡ÑÐ¼ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Ð¡ÑÐ¼ÑÑÐºÐ°", "ADM1_RU": "Ð¡ÑÐ¼ÑÐºÐ°Ñ", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.761523, 50.818006 ], [ 34.756605, 50.812701 ], [ 34.755691, 50.813116 ], [ 34.754642, 50.813592 ], [ 34.759389, 50.818707 ], [ 34.760439999000027, 50.818362 ], [ 34.761523, 50.818006 ] ] ] } }
-]
-}

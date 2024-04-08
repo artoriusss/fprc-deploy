@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0376756298387, "Shape_Area": 3.5569538961299999e-05, "ADM4_EN": "Ulianove", "ADM4_UA": "Улянове", "ADM4_PCODE": "UA4804005041", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Veselynivska", "ADM3_UA": "Веселинівська", "ADM3_PCODE": "UA4804005", "ADM2_EN": "Voznesenskyi", "ADM2_UA": "Вознесенський", "ADM2_PCODE": "UA4804", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 30.93340487200004, 47.362377742000035 ], [ 30.931331425000053, 47.363806369000031 ], [ 30.928693128000077, 47.358903618000056 ], [ 30.930648495000071, 47.357625221000035 ], [ 30.93340487200004, 47.362377742000035 ] ] ], [ [ [ 30.930173176000039, 47.363328502000059 ], [ 30.927147412000068, 47.363311882000062 ], [ 30.923823347000052, 47.357330393000041 ], [ 30.92618905300003, 47.356307020000031 ], [ 30.930173176000039, 47.363328502000059 ] ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.12721901156099999, "Shape_Area": 0.000111644730163, "ADM4_EN": "Yavirske", "ADM4_UA": "Явірське", "ADM4_PCODE": "UA6304007012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Donetska", "ADM3_UA": "Донецька", "ADM3_PCODE": "UA6304007", "ADM2_EN": "Iziumskyi", "ADM2_UA": "Ізюмський", "ADM2_PCODE": "UA6304", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.748552500000073, 49.527776500000073 ], [ 36.753721001000031, 49.542772 ], [ 36.754243, 49.548582 ], [ 36.752768001000049, 49.551288 ], [ 36.750915, 49.567285 ], [ 36.749083001000031, 49.567204 ], [ 36.751334, 49.551747 ], [ 36.750693999000077, 49.545241 ], [ 36.746586, 49.543566 ], [ 36.747560001000068, 49.539442 ], [ 36.750488999000027, 49.537545 ], [ 36.748552500000073, 49.527776500000073 ] ] ] } }
+]
+}

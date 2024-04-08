@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.072558715186400002, "Shape_Area": 0.000145882548831, "ADM4_EN": "Beizymy", "ADM4_UA": "Бейзими", "ADM4_PCODE": "UA6806025002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sakhnovetska", "ADM3_UA": "Сахновецька", "ADM3_PCODE": "UA6806025", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.920707999000058, 49.981089 ], [ 26.918198, 49.983595 ], [ 26.913586001000056, 49.984587 ], [ 26.907091001000026, 49.981475 ], [ 26.902908, 49.977938 ], [ 26.902868, 49.974157 ], [ 26.910828001000027, 49.975531 ], [ 26.917261, 49.974357 ], [ 26.920707999000058, 49.981089 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.090740135720099993, "Shape_Area": 0.00022052843440100001, "ADM4_EN": "Retsiukivshchyna", "ADM4_UA": "Рецюківщина", "ADM4_PCODE": "UA7104001005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykokhutirska", "ADM3_UA": "Великохутірська", "ADM3_PCODE": "UA7104001", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.985832479000067, 49.867392206000034 ], [ 31.98135479900003, 49.866431532000036 ], [ 31.985477999000068, 49.859609 ], [ 31.974270001000036, 49.856455 ], [ 31.969174490000057, 49.853552432000072 ], [ 31.986507, 49.848284 ], [ 31.990384, 49.849664 ], [ 31.991550275000066, 49.853424769000071 ], [ 31.997014689000025, 49.853092172000061 ], [ 31.993524999000044, 49.86132 ], [ 31.989710764000051, 49.861233413000036 ], [ 31.985832479000067, 49.867392206000034 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.064661629725299999, "Shape_Area": 0.000113623943072, "ADM4_EN": "Kryvnia", "ADM4_UA": "Кривня", "ADM4_PCODE": "UA2604027033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rohatynska", "ADM3_UA": "Рогатинська", "ADM3_PCODE": "UA2604027", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.580685260000052, 49.508881060000078 ], [ 24.589815159000068, 49.50250492400005 ], [ 24.599284281000052, 49.503729537000027 ], [ 24.599796136000066, 49.510112066000033 ], [ 24.594020478000061, 49.509942067000054 ], [ 24.591428811000071, 49.512195955000038 ], [ 24.583265152000024, 49.508725639000033 ], [ 24.582030989000032, 49.509746695000047 ], [ 24.580685260000052, 49.508881060000078 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.099525885339800002, "Shape_Area": 0.000158214934552, "ADM4_EN": "Sichyntsi", "ADM4_UA": "Січинці", "ADM4_PCODE": "UA6802005042", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dunaievetska", "ADM3_UA": "Дунаєвецька", "ADM3_PCODE": "UA6802005", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.840088628000046, 48.876862018000054 ], [ 26.833052817000066, 48.876122080000073 ], [ 26.834064, 48.874764 ], [ 26.828817999000023, 48.870136 ], [ 26.831161, 48.868345 ], [ 26.827836, 48.864972 ], [ 26.834691, 48.864711 ], [ 26.835918, 48.866016 ], [ 26.845191573000079, 48.867350057000067 ], [ 26.843692932000067, 48.872428667000065 ], [ 26.840088628000046, 48.876862018000054 ] ] ] } }
+]
+}

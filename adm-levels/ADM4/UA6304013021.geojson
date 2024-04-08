@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.079732684497300005, "Shape_Area": 4.6915354657699998e-05, "ADM4_EN": "Snizhkivka", "ADM4_UA": "Сніжківка", "ADM4_PCODE": "UA6304013021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Oskilska", "ADM3_UA": "Оскільська", "ADM3_PCODE": "UA6304013", "ADM2_EN": "Iziumskyi", "ADM2_UA": "Ізюмський", "ADM2_PCODE": "UA6304", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.235309, 49.161787 ], [ 37.230971, 49.160375 ], [ 37.229766, 49.157803 ], [ 37.230951, 49.15414 ], [ 37.234559, 49.155585 ], [ 37.236879, 49.159111 ], [ 37.235309, 49.161787 ] ] ] } }
+]
+}

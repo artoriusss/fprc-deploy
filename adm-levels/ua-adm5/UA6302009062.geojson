@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.010997658244300001, "Shape_Area": 7.40415925746e-06, "ADM4_EN": "Pylnianka", "ADM4_UA": "ÐÐ¸Ð»ÑÐ½ÑÐ½ÐºÐ°", "ADM4_RU": "ÐÑÐ»ÑÐ½ÑÐ½ÐºÐ°", "ADM4_PCODE": "UA6302009062", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasnokutska", "ADM3_UA": "ÐÑÐ°ÑÐ½Ð¾ÐºÑÑÑÑÐºÐ°", "ADM3_RU": "ÐÑÐ°ÑÐ½Ð¾ÐºÑÑÑÐºÐ°Ñ", "ADM3_PCODE": "UA6302009", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "ÐÐ¾Ð³Ð¾Ð´ÑÑÑÐ²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¾Ð³Ð¾Ð´ÑÑÐ¾Ð²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Ð¥Ð°ÑÐºÑÐ²ÑÑÐºÐ°", "ADM1_RU": "Ð¥Ð°ÑÑÐºÐ¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.278396999000051, 50.09293 ], [ 35.275674, 50.092389 ], [ 35.274486, 50.092837 ], [ 35.274763, 50.093916 ], [ 35.27738, 50.095064 ], [ 35.278884, 50.093874 ], [ 35.278396999000051, 50.09293 ] ] ] } }
-]
-}

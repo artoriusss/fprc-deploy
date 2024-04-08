@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.022686565971100001, "Shape_Area": 2.16647473869e-05, "ADM4_EN": "Vilshanka", "ADM4_UA": "ÐÑÐ»ÑÑÐ°Ð½ÐºÐ°", "ADM4_RU": "ÐÐ»ÑÑÐ°Ð½ÐºÐ°", "ADM4_PCODE": "UA4606039006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rava-Ruska", "ADM3_UA": "Ð Ð°Ð²Ð°-Ð ÑÑÑÐºÐ°", "ADM3_RU": "Ð Ð°Ð²Ð°-Ð ÑÑÑÐºÐ°Ñ", "ADM3_PCODE": "UA4606039", "ADM2_EN": "Lvivskyi", "ADM2_UA": "ÐÑÐ²ÑÐ²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÑÐ²Ð¾Ð²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "ÐÑÐ²ÑÐ²ÑÑÐºÐ°", "ADM1_RU": "ÐÑÐ²Ð¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.489376661000051, 50.194113207000044 ], [ 23.488051622000057, 50.193011253000066 ], [ 23.481017430000065, 50.194433781000043 ], [ 23.480039029000068, 50.197234847000061 ], [ 23.482091908000029, 50.197080150000033 ], [ 23.485959014000059, 50.196922693000033 ], [ 23.486233914000024, 50.195552143000043 ], [ 23.487042144000043, 50.194931848000067 ], [ 23.489376661000051, 50.194113207000044 ] ] ] } }
-]
-}

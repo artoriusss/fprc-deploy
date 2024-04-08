@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.087484465939699996, "Shape_Area": 0.00017362167339000001, "ADM4_EN": "Kamianka", "ADM4_UA": "Кам'янка", "ADM4_PCODE": "UA6806031010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ulashanivska", "ADM3_UA": "Улашанівська", "ADM3_PCODE": "UA6806031", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.984585999000046, 50.236734 ], [ 26.976129, 50.233656 ], [ 26.975180015000035, 50.226741119000053 ], [ 26.977329999000062, 50.224225 ], [ 26.982822999000064, 50.22501 ], [ 26.983995, 50.221796 ], [ 26.988812001000042, 50.22339 ], [ 26.993319661000044, 50.22100578900006 ], [ 26.994503, 50.224296 ], [ 26.98899, 50.226104 ], [ 26.984585999000046, 50.236734 ] ] ] } }
+]
+}

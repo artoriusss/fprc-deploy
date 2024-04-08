@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.114714698937, "Shape_Area": 0.00048167159088899998, "ADM4_EN": "Sychivka", "ADM4_UA": "Сичівка", "ADM4_PCODE": "UA7106023023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khrystynivska", "ADM3_UA": "Христинівська", "ADM3_PCODE": "UA7106023", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.852295001000073, 48.809924 ], [ 29.845425001000024, 48.812527 ], [ 29.843073, 48.80588 ], [ 29.835137, 48.804095 ], [ 29.829783001000067, 48.797107 ], [ 29.834659001000034, 48.790776 ], [ 29.844554, 48.793278 ], [ 29.854158999000049, 48.792868 ], [ 29.867533001000027, 48.800517 ], [ 29.86277, 48.804336 ], [ 29.867012, 48.807663 ], [ 29.858544, 48.810806 ], [ 29.855727, 48.808556 ], [ 29.852295001000073, 48.809924 ] ] ] } }
+]
+}

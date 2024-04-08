@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.114577488509, "Shape_Area": 7.0886566020900003e-05, "ADM4_EN": "Stulepivka", "ADM4_UA": "Стулепівка", "ADM4_PCODE": "UA6312017034", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novovodolazka", "ADM3_UA": "Нововодолазька", "ADM3_PCODE": "UA6312017", "ADM2_EN": "Kharkivskyi", "ADM2_UA": "Харківський", "ADM2_PCODE": "UA6312", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.854945001000033, 49.615403 ], [ 35.856830999000067, 49.611494 ], [ 35.862208, 49.608069 ], [ 35.866960999000071, 49.606351 ], [ 35.871481, 49.600470500000029 ], [ 35.873132001000045, 49.601386 ], [ 35.867307001000029, 49.607384 ], [ 35.857781001000035, 49.612461 ], [ 35.854945001000033, 49.615403 ] ] ] } }
+]
+}

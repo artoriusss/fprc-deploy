@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0576358132801, "Shape_Area": 0.00013483534465600001, "ADM4_EN": "Tataryniv", "ADM4_UA": "Татаринів", "ADM4_PCODE": "UA4606021019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Komarnivska", "ADM3_UA": "Комарнівська", "ADM3_PCODE": "UA4606021", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.739825108000048, 49.566931149000027 ], [ 23.76164327400005, 49.566332010000053 ], [ 23.76359427400007, 49.570443010000076 ], [ 23.749710277000077, 49.572764010000071 ], [ 23.739194392000059, 49.572223689000054 ], [ 23.739825108000048, 49.566931149000027 ] ] ] } }
+]
+}

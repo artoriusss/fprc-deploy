@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.163793566887, "Shape_Area": 0.00043601836814800003, "ADM4_EN": "Nova Ivanivka", "ADM4_UA": "Нова Іванівка", "ADM4_PCODE": "UA5106001008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Artsyzka", "ADM3_UA": "Арцизька", "ADM3_PCODE": "UA5106001", "ADM2_EN": "Bolhradskyi", "ADM2_UA": "Болградський", "ADM2_PCODE": "UA5106", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.073622, 45.927736 ], [ 29.071676001000071, 45.926619 ], [ 29.070568, 45.922155500000031 ], [ 29.072181001000047, 45.914077 ], [ 29.075733, 45.912747 ], [ 29.081336, 45.902561 ], [ 29.089551001000075, 45.895461 ], [ 29.089272999000059, 45.902664 ], [ 29.091967, 45.906108 ], [ 29.093002001000059, 45.910441 ], [ 29.089445, 45.91169 ], [ 29.088988, 45.927718 ], [ 29.083688, 45.92649 ], [ 29.073622, 45.927736 ] ] ] } }
+]
+}

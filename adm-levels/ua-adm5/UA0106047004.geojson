@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0286049752027, "Shape_Area": 2.4253179534599999e-05, "ADM4_EN": "Khlibne", "ADM4_UA": "Ð¥Ð»ÑÐ±Ð½Ðµ", "ADM4_RU": "Ð¥Ð»ÐµÐ±Ð½Ð¾Ðµ", "ADM4_PCODE": "UA0106047004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tabachnenska", "ADM3_UA": "Ð¢Ð°Ð±Ð°ÑÐ½ÐµÐ½ÑÑÐºÐ°", "ADM3_RU": "Ð¢Ð°Ð±Ð°ÑÐ½ÐµÐ½ÑÐºÐ¸Ð¹", "ADM3_PCODE": "UA0106047", "ADM2_EN": "Dzhankoiskyi", "ADM2_UA": "ÐÐ¶Ð°Ð½ÐºÐ¾Ð¹ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¶Ð°Ð½ÐºÐ¾Ð¹ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA0106", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "ÐÐ²ÑÐ¾Ð½Ð¾Ð¼Ð½Ð° Ð ÐµÑÐ¿ÑÐ±Ð»ÑÐºÐ° ÐÑÐ¸Ð¼", "ADM1_RU": "ÐÐ²ÑÐ¾Ð½Ð¾Ð¼Ð½Ð°Ñ Ð ÐµÑÐ¿ÑÐ±Ð»Ð¸ÐºÐ° ÐÑÑÐ¼", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.607919, 45.647533 ], [ 34.608595, 45.645181 ], [ 34.611771, 45.645928 ], [ 34.61254, 45.644018 ], [ 34.607387, 45.642711 ], [ 34.602978999000072, 45.641752 ], [ 34.602583, 45.642787 ], [ 34.60221, 45.643686 ], [ 34.606894999000076, 45.644683 ], [ 34.606665001000067, 45.646399 ], [ 34.606531, 45.647402 ], [ 34.607919, 45.647533 ] ] ] } }
-]
-}

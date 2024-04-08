@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.077109228871700006, "Shape_Area": 6.33509835494e-05, "ADM4_EN": "Kostiantynivka", "ADM4_UA": "Костянтинівка", "ADM4_PCODE": "UA5908029009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khotinska", "ADM3_UA": "Хотінська", "ADM3_PCODE": "UA5908029", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.772782, 51.174346 ], [ 34.774173, 51.170092 ], [ 34.767328, 51.170097 ], [ 34.760962999000071, 51.16913 ], [ 34.762193, 51.166938 ], [ 34.781235, 51.169277 ], [ 34.780573, 51.171605 ], [ 34.775185, 51.171309 ], [ 34.772782, 51.174346 ] ] ] } }
+]
+}

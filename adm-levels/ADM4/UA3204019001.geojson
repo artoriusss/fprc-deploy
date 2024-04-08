@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.118705801682, "Shape_Area": 0.00044009314662400001, "ADM4_EN": "Tsybli", "ADM4_UA": "Циблі", "ADM4_PCODE": "UA3204019001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tsyblivska", "ADM3_UA": "Циблівська", "ADM3_PCODE": "UA3204019", "ADM2_EN": "Boryspilskyi", "ADM2_UA": "Бориспільський", "ADM2_PCODE": "UA3204", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.553734853000037, 50.009796142000027 ], [ 31.547429794000038, 50.015710108000064 ], [ 31.534090778000063, 50.009731164000073 ], [ 31.537387872000068, 50.006697133000046 ], [ 31.552442767000059, 49.995179152000048 ], [ 31.557332778000045, 49.992419188000042 ], [ 31.563524848000043, 49.985986189000073 ], [ 31.574370783000063, 49.990452205000054 ], [ 31.553734853000037, 50.009796142000027 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.098638479004300006, "Shape_Area": 0.00024848355544800001, "ADM4_EN": "Birnosove", "ADM4_UA": "Бірносове", "ADM4_PCODE": "UA5114007003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zakharivska", "ADM3_UA": "Захарівська", "ADM3_PCODE": "UA5114007", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.817474999000069, 47.471192 ], [ 29.815273, 47.470494 ], [ 29.807325999000057, 47.472366 ], [ 29.806042, 47.47567 ], [ 29.800156, 47.475509 ], [ 29.801033, 47.471102 ], [ 29.805569, 47.462948 ], [ 29.814823999000055, 47.457394 ], [ 29.817385, 47.458856 ], [ 29.822692, 47.457671 ], [ 29.825473, 47.461629 ], [ 29.822002, 47.464239 ], [ 29.817698, 47.46516 ], [ 29.817474999000069, 47.471192 ] ] ] } }
+]
+}

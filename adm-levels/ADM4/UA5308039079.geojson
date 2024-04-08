@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.092417995392099994, "Shape_Area": 0.000197762785655, "ADM4_EN": "Shylivka", "ADM4_UA": "Шилівка", "ADM4_PCODE": "UA5308039079", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Reshetylivska", "ADM3_UA": "Решетилівська", "ADM3_PCODE": "UA5308039", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.8496, 49.579117 ], [ 33.844277, 49.579359 ], [ 33.84446, 49.577106 ], [ 33.835228, 49.578219 ], [ 33.838792, 49.573812 ], [ 33.843465999000045, 49.572067 ], [ 33.841718, 49.567128 ], [ 33.84781, 49.566986 ], [ 33.850090999000031, 49.569106 ], [ 33.858017, 49.568596 ], [ 33.860825001000023, 49.569678 ], [ 33.861368, 49.574075 ], [ 33.850316, 49.577446 ], [ 33.8496, 49.579117 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0464524908263, "Shape_Area": 0.00010517658947900001, "ADM4_EN": "Butenky", "ADM4_UA": "Бутенки", "ADM4_PCODE": "UA5302013003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novohaleshchynska", "ADM3_UA": "Новогалещинська", "ADM3_PCODE": "UA5302013", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.643561, 49.226284 ], [ 33.651689929000042, 49.225795072000039 ], [ 33.654499, 49.229115 ], [ 33.651713999000037, 49.232511 ], [ 33.65216107100008, 49.239472951000039 ], [ 33.646674245000042, 49.239683427000045 ], [ 33.643939, 49.230959 ], [ 33.643561, 49.226284 ] ] ] } }
+]
+}

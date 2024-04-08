@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.110142895634, "Shape_Area": 9.9077211255100002e-05, "ADM4_EN": "Hlyncha", "ADM4_UA": "Глинча", "ADM4_PCODE": "UA7108007004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bobrytska", "ADM3_UA": "Бобрицька", "ADM3_PCODE": "UA7108007", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.368929715000036, 49.844722922000074 ], [ 31.37209800100004, 49.841045 ], [ 31.372818203000065, 49.835912418000078 ], [ 31.377026380000075, 49.833029013000044 ], [ 31.377997392000054, 49.836504706000028 ], [ 31.375418952000075, 49.840106364000064 ], [ 31.368929715000036, 49.844722922000074 ] ] ] } }
+]
+}

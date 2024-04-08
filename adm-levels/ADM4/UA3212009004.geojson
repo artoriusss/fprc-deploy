@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062298263777799998, "Shape_Area": 0.000151383887607, "ADM4_EN": "Viktorivka", "ADM4_UA": "Вікторівка", "ADM4_PCODE": "UA3212009004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myronivska", "ADM3_UA": "Миронівська", "ADM3_PCODE": "UA3212009", "ADM2_EN": "Obukhivskyi", "ADM2_UA": "Обухівський", "ADM2_PCODE": "UA3212", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.841892065000025, 49.74004001000003 ], [ 30.831579096000041, 49.737993092000067 ], [ 30.824849021000034, 49.737643999000056 ], [ 30.822362088000034, 49.735561054000073 ], [ 30.825317095000059, 49.729719064000051 ], [ 30.837639074000037, 49.732842065000057 ], [ 30.838733112000057, 49.731379050000044 ], [ 30.845934076000049, 49.732887038000058 ], [ 30.841892065000025, 49.74004001000003 ] ] ] } }
+]
+}

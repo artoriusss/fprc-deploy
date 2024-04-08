@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.054481217431300001, "Shape_Area": 8.9304008417300003e-05, "ADM4_EN": "Rozselenets", "ADM4_UA": "Розселенець", "ADM4_PCODE": "UA5110005003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykodalnytska", "ADM3_UA": "Великодальницька", "ADM3_PCODE": "UA5110005", "ADM2_EN": "Odeskyi", "ADM2_UA": "Одеський", "ADM2_PCODE": "UA5110", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.440800001000071, 46.465967 ], [ 30.434616001000052, 46.465532 ], [ 30.432787, 46.463222 ], [ 30.434336, 46.460137 ], [ 30.439973999000074, 46.456609 ], [ 30.443606, 46.456965 ], [ 30.442896999000027, 46.465565 ], [ 30.440800001000071, 46.465967 ] ] ] } }
+]
+}

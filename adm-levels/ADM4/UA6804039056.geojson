@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.043940983360700001, "Shape_Area": 9.2348642209599997e-05, "ADM4_EN": "Radkivtsi", "ADM4_UA": "Радківці", "ADM4_PCODE": "UA6804039056", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starokostiantynivska", "ADM3_UA": "Старокостянтинівська", "ADM3_PCODE": "UA6804039", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.231945, 49.824163 ], [ 27.234922, 49.826077 ], [ 27.234739, 49.828963 ], [ 27.227460999000073, 49.832238 ], [ 27.219134, 49.829116 ], [ 27.219425999000066, 49.826755 ], [ 27.224632, 49.825884 ], [ 27.226906, 49.823817 ], [ 27.231945, 49.824163 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.105346550296, "Shape_Area": 0.00023090281882800001, "ADM4_EN": "Kormylcha", "ADM4_UA": "Кормильча", "ADM4_PCODE": "UA6802029021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chemerovetska", "ADM3_UA": "Чемеровецька", "ADM3_PCODE": "UA6802029", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.400121, 48.860651 ], [ 26.390604999000061, 48.860956 ], [ 26.390793, 48.855802 ], [ 26.380467001000056, 48.848435 ], [ 26.382826, 48.845915 ], [ 26.388868001000048, 48.843632 ], [ 26.394221001000062, 48.845652 ], [ 26.392063, 48.848995 ], [ 26.398502, 48.849944 ], [ 26.411900001000049, 48.849175 ], [ 26.411138999000059, 48.851063 ], [ 26.402642, 48.852789 ], [ 26.402458, 48.855793 ], [ 26.398554, 48.85775 ], [ 26.400121, 48.860651 ] ] ] } }
+]
+}

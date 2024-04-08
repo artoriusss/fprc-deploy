@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11822091079200001, "Shape_Area": 0.000428087399118, "ADM4_EN": "Hvizdivtsi", "ADM4_UA": "Гвіздівці", "ADM4_PCODE": "UA7304017008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sokyrianska", "ADM3_UA": "Сокирянська", "ADM3_PCODE": "UA7304017", "ADM2_EN": "Dnistrovskyi", "ADM2_UA": "Дністровський", "ADM2_PCODE": "UA7304", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.301679, 48.449564 ], [ 27.29824, 48.444065 ], [ 27.292144, 48.441993 ], [ 27.285631, 48.446743 ], [ 27.282344999000031, 48.441862 ], [ 27.287489, 48.437268 ], [ 27.29974499900004, 48.431308 ], [ 27.304307999000059, 48.430029 ], [ 27.305573, 48.431604 ], [ 27.312261, 48.43172 ], [ 27.315786999000068, 48.435195 ], [ 27.319604816000037, 48.443558230000065 ], [ 27.314423, 48.446132 ], [ 27.311889001000054, 48.445456 ], [ 27.309588, 48.448411 ], [ 27.301679, 48.449564 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.086781874081499996, "Shape_Area": 0.00029091128387300001, "ADM4_EN": "Solukiv", "ADM4_UA": "Солуків", "ADM4_PCODE": "UA2606013018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dolynska", "ADM3_UA": "Долинська", "ADM3_PCODE": "UA2606013", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.957604, 49.049501 ], [ 23.954969, 49.051152 ], [ 23.948183, 49.049138 ], [ 23.950490001000048, 49.042397 ], [ 23.959967001000052, 49.036251 ], [ 23.96229, 49.035814 ], [ 23.962414, 49.031105 ], [ 23.964145, 49.026216 ], [ 23.971219001000065, 49.027453 ], [ 23.973791999000071, 49.03076 ], [ 23.97197, 49.033642 ], [ 23.972884, 49.038157 ], [ 23.957604, 49.049501 ] ] ] } }
+]
+}

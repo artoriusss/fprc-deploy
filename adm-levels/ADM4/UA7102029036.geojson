@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.044674227953899998, "Shape_Area": 6.2934584371400002e-05, "ADM4_EN": "Dobrianka", "ADM4_UA": "Добрянка", "ADM4_PCODE": "UA7102029036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Talnivska", "ADM3_UA": "Тальнівська", "ADM3_PCODE": "UA7102029", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.887191628000039, 48.771301472000061 ], [ 30.883136239000066, 48.776949860000059 ], [ 30.881790542000033, 48.78125151200004 ], [ 30.878710335000051, 48.78191147800004 ], [ 30.87914373600006, 48.774487625000063 ], [ 30.880391177000035, 48.772519913000053 ], [ 30.887191628000039, 48.771301472000061 ] ] ] } }
+]
+}

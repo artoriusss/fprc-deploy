@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.087773736798199997, "Shape_Area": 0.000110230926514, "ADM4_EN": "Slobidka-Skypchanska", "ADM4_UA": "Слобідка-Скипчанська", "ADM4_PCODE": "UA6802029035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chemerovetska", "ADM3_UA": "Чемеровецька", "ADM3_PCODE": "UA6802029", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.548062, 49.033969 ], [ 26.539139, 49.034856 ], [ 26.537056999000072, 49.029602 ], [ 26.530756, 49.027601 ], [ 26.532216, 49.023789 ], [ 26.535807, 49.025029 ], [ 26.539396, 49.020660999000029 ], [ 26.543318, 49.02154 ], [ 26.541586, 49.027843 ], [ 26.54269000100004, 49.031937 ], [ 26.548062, 49.033969 ] ] ] } }
+]
+}

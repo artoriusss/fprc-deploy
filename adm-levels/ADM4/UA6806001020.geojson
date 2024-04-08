@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.087336144077399994, "Shape_Area": 0.000178572774088, "ADM4_EN": "Selychiv", "ADM4_UA": "Селичів", "ADM4_PCODE": "UA6806001020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezdivska", "ADM3_UA": "Берездівська", "ADM3_PCODE": "UA6806001", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.116174, 50.463517 ], [ 27.116735, 50.468952 ], [ 27.120907, 50.469956 ], [ 27.12212899900004, 50.472179 ], [ 27.126796001000059, 50.47225 ], [ 27.125981001000071, 50.476342 ], [ 27.11225599900007, 50.479804 ], [ 27.106626001000052, 50.477592 ], [ 27.107834, 50.473873 ], [ 27.112454, 50.471812 ], [ 27.110918, 50.46497 ], [ 27.116502, 50.460315 ], [ 27.116174, 50.463517 ] ] ] } }
+]
+}

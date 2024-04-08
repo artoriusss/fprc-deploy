@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.068162170293300003, "Shape_Area": 0.000151211403552, "ADM4_EN": "Druzheliubivka", "ADM4_UA": "Дружелюбівка", "ADM4_PCODE": "UA6504007013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novotroitska", "ADM3_UA": "Новотроїцька", "ADM3_PCODE": "UA6504007", "ADM2_EN": "Henicheskyi", "ADM2_UA": "Генічеський", "ADM2_PCODE": "UA6504", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.04679199900005, 46.184891 ], [ 34.049373, 46.186471 ], [ 34.045919, 46.18987 ], [ 34.041483001000074, 46.187776 ], [ 34.041877, 46.183415 ], [ 34.047434001000056, 46.176425 ], [ 34.0485, 46.173611 ], [ 34.060946, 46.183126 ], [ 34.056577, 46.187135 ], [ 34.048712, 46.183064 ], [ 34.04679199900005, 46.184891 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.040941531056799998, "Shape_Area": 7.3049781607500007e-05, "ADM4_EN": "Stara Huta", "ADM4_UA": "Стара Гута", "ADM4_PCODE": "UA6804007017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vovkovynetska", "ADM3_UA": "Вовковинецька", "ADM3_PCODE": "UA6804007", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.753493, 49.234444 ], [ 27.753414, 49.23683 ], [ 27.758163999000033, 49.239466 ], [ 27.751750999000024, 49.243704 ], [ 27.744360176000043, 49.240365102000055 ], [ 27.751978999000073, 49.233841 ], [ 27.753493, 49.234444 ] ] ] } }
+]
+}

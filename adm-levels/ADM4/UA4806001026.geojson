@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.079309103196699995, "Shape_Area": 0.000240460418651, "ADM4_EN": "Prohresivka", "ADM4_UA": "Прогресівка", "ADM4_PCODE": "UA4806001026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezanska", "ADM3_UA": "Березанська", "ADM3_PCODE": "UA4806001", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.081203892000076, 46.927185334000058 ], [ 31.060005872000033, 46.924447880000059 ], [ 31.054313384000068, 46.925799260000076 ], [ 31.053915507000056, 46.917088317000037 ], [ 31.064560391000043, 46.91567105300004 ], [ 31.065387978000047, 46.916803689000062 ], [ 31.085487597000053, 46.920069205000061 ], [ 31.081203892000076, 46.927185334000058 ] ] ] } }
+]
+}

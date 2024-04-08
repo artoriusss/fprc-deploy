@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.12838060244899999, "Shape_Area": 0.000217562280477, "ADM4_EN": "Pokropyvna", "ADM4_UA": "Покропивна", "ADM4_PCODE": "UA6104025003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozlivska", "ADM3_UA": "Козлівська", "ADM3_PCODE": "UA6104025", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.375843, 49.596149 ], [ 25.367715803000067, 49.598391985000035 ], [ 25.367173, 49.594729 ], [ 25.364629999000044, 49.592638 ], [ 25.359932, 49.59488 ], [ 25.359028, 49.597392 ], [ 25.354682, 49.596503 ], [ 25.359736001000044, 49.592419 ], [ 25.366275, 49.584559 ], [ 25.362227, 49.577058 ], [ 25.366268, 49.575132 ], [ 25.367555, 49.582337 ], [ 25.371175, 49.582769 ], [ 25.38150500100005, 49.582223 ], [ 25.379455, 49.586689 ], [ 25.373127, 49.586902 ], [ 25.372003, 49.591369 ], [ 25.375843, 49.596149 ] ] ] } }
+]
+}

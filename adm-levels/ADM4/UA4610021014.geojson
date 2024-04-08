@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.072226181461500005, "Shape_Area": 9.5258098065699999e-05, "ADM4_EN": "Khashchovania", "ADM4_UA": "Хащованя", "ADM4_PCODE": "UA4610021014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Slavska", "ADM3_UA": "Славська", "ADM3_PCODE": "UA4610021", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.402972368000064, 48.764476014000081 ], [ 23.394343371000048, 48.757904014000076 ], [ 23.391926372000057, 48.751157014000057 ], [ 23.392530371000078, 48.746410015000038 ], [ 23.395976370000028, 48.746330015000069 ], [ 23.396343370000068, 48.754125015000056 ], [ 23.400740370000051, 48.757735015000037 ], [ 23.402972368000064, 48.764476014000081 ] ] ] } }
+]
+}

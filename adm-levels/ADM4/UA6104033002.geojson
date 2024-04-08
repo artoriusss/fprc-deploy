@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.073181658779600006, "Shape_Area": 0.00010231202000099999, "ADM4_EN": "Bilkivtsi", "ADM4_UA": "Білківці", "ADM4_PCODE": "UA6104033002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ozernianska", "ADM3_UA": "Озернянська", "ADM3_PCODE": "UA6104033", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.310556, 49.684748 ], [ 25.311934370000074, 49.686435978000077 ], [ 25.317972673000043, 49.686698989000035 ], [ 25.317196281000065, 49.689988861000074 ], [ 25.312608415000057, 49.689757377000035 ], [ 25.302862, 49.693804 ], [ 25.301895391000073, 49.691549676000079 ], [ 25.30574193700005, 49.687109630000066 ], [ 25.30573277600007, 49.684260466000069 ], [ 25.310556, 49.684748 ] ] ] } }
+]
+}

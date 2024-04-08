@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.112806637091, "Shape_Area": 0.00029379498323099998, "ADM4_EN": "Dovzhyk", "ADM4_UA": "Довжик", "ADM4_PCODE": "UA5308009021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zinkivska", "ADM3_UA": "Зіньківська", "ADM3_PCODE": "UA5308009", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.501217, 50.140725 ], [ 34.496181, 50.140223 ], [ 34.506012, 50.134296 ], [ 34.50508, 50.131108 ], [ 34.510071999000047, 50.131418 ], [ 34.52166, 50.128075 ], [ 34.521092999000075, 50.125912 ], [ 34.534204001000035, 50.127572 ], [ 34.531141001000037, 50.131295 ], [ 34.532250999000041, 50.133205 ], [ 34.512908, 50.141126 ], [ 34.503319, 50.139728 ], [ 34.501217, 50.140725 ] ] ] } }
+]
+}

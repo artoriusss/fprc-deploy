@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.067260829257500002, "Shape_Area": 3.1401303200600003e-05, "ADM4_EN": "Novyi Myr", "ADM4_UA": "Новий Мир", "ADM4_PCODE": "UA5902003029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Burynska", "ADM3_UA": "Буринська", "ADM3_PCODE": "UA5902003", "ADM2_EN": "Konotopskyi", "ADM2_UA": "Конотопський", "ADM2_PCODE": "UA5902", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.097755999000071, 51.192683 ], [ 34.094591, 51.194341 ], [ 34.08278, 51.19595 ], [ 34.081406999000023, 51.195162 ], [ 34.093653, 51.193515 ], [ 34.096576, 51.191835 ], [ 34.097755999000071, 51.192683 ] ] ] } }
+]
+}

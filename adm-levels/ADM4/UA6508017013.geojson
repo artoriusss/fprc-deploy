@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.060101031213, "Shape_Area": 0.000141769301899, "ADM4_EN": "Sadove", "ADM4_UA": "Садове", "ADM4_PCODE": "UA6508017013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chulakivska", "ADM3_UA": "Чулаківська", "ADM3_PCODE": "UA6508017", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Скадовський", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.185393, 46.360514 ], [ 32.181054, 46.361327 ], [ 32.177139999000076, 46.358702 ], [ 32.174887, 46.355266 ], [ 32.186641, 46.351545 ], [ 32.187191, 46.349015 ], [ 32.192415, 46.349577 ], [ 32.190836, 46.35654 ], [ 32.195119, 46.35672 ], [ 32.194792, 46.360526 ], [ 32.185393, 46.360514 ] ] ] } }
+]
+}

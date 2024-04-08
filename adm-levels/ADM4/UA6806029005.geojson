@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.110833995103, "Shape_Area": 9.3087413798400003e-05, "ADM4_EN": "Vovkivtsi", "ADM4_UA": "Вовківці", "ADM4_PCODE": "UA6806029005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sudylkivska", "ADM3_UA": "Судилківська", "ADM3_PCODE": "UA6806029", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.998333, 50.088638 ], [ 26.993525001000023, 50.086049 ], [ 26.987902999000028, 50.085627 ], [ 26.982273001000067, 50.086967 ], [ 26.980626, 50.085141 ], [ 26.987104999000053, 50.082833 ], [ 26.988417001000073, 50.081289 ], [ 26.99596, 50.081727 ], [ 27.003390001000071, 50.080293 ], [ 27.004728, 50.082785 ], [ 26.998881, 50.085555 ], [ 26.998333, 50.088638 ] ] ] } }
+]
+}

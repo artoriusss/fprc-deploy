@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.100843696187, "Shape_Area": 0.00020735414175800001, "ADM4_EN": "Ledianka", "ADM4_UA": "Ледянка", "ADM4_PCODE": "UA6804001017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Antoninska", "ADM3_UA": "Антонінська", "ADM3_PCODE": "UA6804001", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.682730001000039, 49.848655 ], [ 26.679932, 49.850149 ], [ 26.675275, 49.84549 ], [ 26.678206, 49.844252 ], [ 26.673353001000066, 49.837901 ], [ 26.677683, 49.838009999000064 ], [ 26.683948001000033, 49.835817 ], [ 26.690393, 49.83816 ], [ 26.698691, 49.837089 ], [ 26.698416, 49.839246 ], [ 26.689857, 49.840553 ], [ 26.690048, 49.847589 ], [ 26.682730001000039, 49.848655 ] ] ] } }
+]
+}

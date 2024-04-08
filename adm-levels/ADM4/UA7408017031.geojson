@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.121509378825, "Shape_Area": 0.00013416154692299999, "ADM4_EN": "Milky", "ADM4_UA": "Мільки", "ADM4_PCODE": "UA7408017031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sukhopolovianska", "ADM3_UA": "Сухополов'янська", "ADM3_PCODE": "UA7408017", "ADM2_EN": "Prylutskyi", "ADM2_UA": "Прилуцький", "ADM2_PCODE": "UA7408", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.576532841000073, 50.628234960000043 ], [ 32.570152920000055, 50.638646970000082 ], [ 32.566750919000071, 50.64318 ], [ 32.564233080000065, 50.641789050000057 ], [ 32.567598, 50.635899 ], [ 32.570750880000048, 50.627226060000055 ], [ 32.573549879000041, 50.624485020000066 ], [ 32.563256041000045, 50.621416920000058 ], [ 32.564237041000069, 50.617852020000043 ], [ 32.578687080000066, 50.624667 ], [ 32.576532841000073, 50.628234960000043 ] ] ] } }
+]
+}

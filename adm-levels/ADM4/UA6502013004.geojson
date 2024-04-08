@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.121394234, "Shape_Area": 0.00054735714989299997, "ADM4_EN": "Nova Kamianka", "ADM4_UA": "Нова Кам'янка", "ADM4_PCODE": "UA6502013004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mylivska", "ADM3_UA": "Милівська", "ADM3_PCODE": "UA6502013", "ADM2_EN": "Beryslavskyi", "ADM2_UA": "Бериславський", "ADM2_PCODE": "UA6502", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.589230999000051, 47.232845 ], [ 33.584596001000079, 47.234913 ], [ 33.57392, 47.223594 ], [ 33.574595, 47.220017 ], [ 33.56977, 47.217568 ], [ 33.565899, 47.213414 ], [ 33.568512999000063, 47.208868 ], [ 33.568652, 47.199877 ], [ 33.57627, 47.199286 ], [ 33.578524, 47.209932 ], [ 33.599044, 47.226451 ], [ 33.602526, 47.232066 ], [ 33.599132, 47.234129 ], [ 33.590751, 47.234186 ], [ 33.589230999000051, 47.232845 ] ] ] } }
+]
+}

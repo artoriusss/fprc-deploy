@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.076443296438199998, "Shape_Area": 0.000229936186522, "ADM4_EN": "Ploske", "ADM4_UA": "Плоске", "ADM4_PCODE": "UA5308023019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Machukhivska", "ADM3_UA": "Мачухівська", "ADM3_PCODE": "UA5308023", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.233779, 49.49321 ], [ 34.232412, 49.494945 ], [ 34.236128001000054, 49.499017 ], [ 34.233540001000051, 49.501228 ], [ 34.223576999000045, 49.496382 ], [ 34.226569, 49.493928 ], [ 34.222192001000053, 49.49104 ], [ 34.222586, 49.488682 ], [ 34.230795001000047, 49.481819 ], [ 34.243855, 49.484383 ], [ 34.241867, 49.487624 ], [ 34.243194, 49.490884 ], [ 34.233779, 49.49321 ] ] ] } }
+]
+}

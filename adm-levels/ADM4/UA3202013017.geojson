@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.087079365210700005, "Shape_Area": 0.00019332154093699999, "ADM4_EN": "Puhachivka", "ADM4_UA": "Пугачівка", "ADM4_PCODE": "UA3202013017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rokytnianska", "ADM3_UA": "Рокитнянська", "ADM3_PCODE": "UA3202013", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.316060636000032, 49.715213714000072 ], [ 30.31770672500005, 49.713388769000062 ], [ 30.325564678000035, 49.71108679300005 ], [ 30.330010668000057, 49.711968800000079 ], [ 30.33734273400006, 49.702659671000049 ], [ 30.339990658000033, 49.708815661000074 ], [ 30.334447616000034, 49.718079764000038 ], [ 30.323007616000041, 49.720403715000032 ], [ 30.316035670000076, 49.719723740000063 ], [ 30.316060636000032, 49.715213714000072 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.049305000408699999, "Shape_Area": 9.7315009020900007e-05, "ADM4_EN": "Kamianyi Plast", "ADM4_UA": "Кам'яний Пласт", "ADM4_PCODE": "UA4406003032", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lutuhynska", "ADM3_UA": "Лутугинська", "ADM3_PCODE": "UA4406003", "ADM2_EN": "Luhanskyi", "ADM2_UA": "Луганський", "ADM2_PCODE": "UA4406", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.063991674000079, 48.444825095000056 ], [ 39.062437, 48.448026 ], [ 39.049934999000072, 48.447085 ], [ 39.052351, 48.443128 ], [ 39.055897001000062, 48.442992 ], [ 39.055979, 48.437714 ], [ 39.058769, 48.43603 ], [ 39.061013001000049, 48.437807 ], [ 39.063991674000079, 48.444825095000056 ] ] ] } }
+]
+}

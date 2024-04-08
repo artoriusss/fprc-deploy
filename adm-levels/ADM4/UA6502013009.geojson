@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.065818251444299994, "Shape_Area": 0.000190284728299, "ADM4_EN": "Sukhanove", "ADM4_UA": "Суханове", "ADM4_PCODE": "UA6502013009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mylivska", "ADM3_UA": "Милівська", "ADM3_PCODE": "UA6502013", "ADM2_EN": "Beryslavskyi", "ADM2_UA": "Бериславський", "ADM2_PCODE": "UA6502", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.542962, 47.118672 ], [ 33.547691, 47.119044 ], [ 33.546323, 47.124181 ], [ 33.540913, 47.132146 ], [ 33.530620001000045, 47.136131 ], [ 33.526393, 47.129929 ], [ 33.538374, 47.121445 ], [ 33.538961, 47.116499 ], [ 33.542962, 47.118672 ] ] ] } }
+]
+}

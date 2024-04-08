@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.122328185061, "Shape_Area": 0.00020533640355699999, "ADM4_EN": "Syniavka", "ADM4_UA": "Синявка", "ADM4_PCODE": "UA7108007017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bobrytska", "ADM3_UA": "Бобрицька", "ADM3_PCODE": "UA7108007", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.23584, 49.748403 ], [ 31.236007, 49.743793 ], [ 31.218911999000056, 49.739221 ], [ 31.226435, 49.737252 ], [ 31.227336, 49.738936 ], [ 31.232708, 49.738319 ], [ 31.243578999000079, 49.733272 ], [ 31.246634999000037, 49.7386 ], [ 31.250797, 49.74348 ], [ 31.248434, 49.748385 ], [ 31.242744001000062, 49.747425 ], [ 31.239891999000065, 49.745554 ], [ 31.23584, 49.748403 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.14152517701199999, "Shape_Area": 0.00021476131308900001, "ADM4_EN": "Kurmany", "ADM4_UA": "Курмани", "ADM4_PCODE": "UA5906009029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nedryhailivska", "ADM3_UA": "Недригайлівська", "ADM3_PCODE": "UA5906009", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.782415999000079, 50.8393 ], [ 33.777032001000066, 50.837188 ], [ 33.77250900100006, 50.833296 ], [ 33.771897, 50.830476 ], [ 33.77779200100008, 50.829698 ], [ 33.780966, 50.826163 ], [ 33.783869, 50.827727 ], [ 33.789694, 50.822008 ], [ 33.792768, 50.82693 ], [ 33.785499, 50.827829 ], [ 33.789723, 50.830586 ], [ 33.793986, 50.829738 ], [ 33.79603, 50.834633 ], [ 33.790687999000056, 50.834663 ], [ 33.792079, 50.837953 ], [ 33.782415999000079, 50.8393 ] ] ] } }
+]
+}

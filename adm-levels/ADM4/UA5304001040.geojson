@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13638527864800001, "Shape_Area": 0.00023707845661700001, "ADM4_EN": "Stukalivka", "ADM4_UA": "Стукалівка", "ADM4_PCODE": "UA5304001040", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hrebinkivska", "ADM3_UA": "Гребінківська", "ADM3_PCODE": "UA5304001", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.439441, 49.991663 ], [ 32.435755, 49.990518 ], [ 32.439360001000068, 49.985554 ], [ 32.43707, 49.984451 ], [ 32.433652, 49.986675 ], [ 32.424197, 49.994904 ], [ 32.41937, 49.987384 ], [ 32.42528100100003, 49.982859 ], [ 32.434213, 49.984055 ], [ 32.435888, 49.982492 ], [ 32.4406, 49.984399 ], [ 32.447806, 49.978505 ], [ 32.455173, 49.982621 ], [ 32.456839, 49.984765 ], [ 32.449306, 49.98629 ], [ 32.439441, 49.991663 ] ] ] } }
+]
+}

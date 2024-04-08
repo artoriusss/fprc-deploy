@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0809073967359, "Shape_Area": 0.000149950353183, "ADM4_EN": "Ivana Franka", "ADM4_UA": "Івана Франка", "ADM4_PCODE": "UA2310019008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Polohivska", "ADM3_UA": "Пологівська", "ADM3_PCODE": "UA2310019", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 36.152653950000058, 47.50349650000004 ], [ 36.150913149000075, 47.499451399000066 ], [ 36.160692733000076, 47.498137936000035 ], [ 36.162314578000064, 47.503083796000055 ], [ 36.152653950000058, 47.50349650000004 ] ] ], [ [ [ 36.179217513000026, 47.497414878000029 ], [ 36.170994095000026, 47.496708178000063 ], [ 36.16706140000008, 47.494204159000049 ], [ 36.165682537000066, 47.48999266900006 ], [ 36.179190522000056, 47.488904149000064 ], [ 36.179217513000026, 47.497414878000029 ] ] ] ] } }
+]
+}

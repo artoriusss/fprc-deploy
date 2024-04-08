@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057212786636199997, "Shape_Area": 0.00011061824112, "ADM4_EN": "Novoselivka", "ADM4_UA": "Новоселівка", "ADM4_PCODE": "UA5102021008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Raukhivska", "ADM3_UA": "Раухівська", "ADM3_PCODE": "UA5102021", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.822766905000037, 47.160397641000031 ], [ 30.824163777000024, 47.156268932000046 ], [ 30.820657484000037, 47.153623836000065 ], [ 30.821895191000067, 47.149396560000071 ], [ 30.824362822000069, 47.14688043700005 ], [ 30.829050408000057, 47.148009171000069 ], [ 30.828763001000027, 47.154624 ], [ 30.831001, 47.155862 ], [ 30.828872444000069, 47.163393393000035 ], [ 30.822766905000037, 47.160397641000031 ] ] ] } }
+]
+}

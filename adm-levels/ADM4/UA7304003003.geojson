@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.079053647701799998, "Shape_Area": 0.00021211849661300001, "ADM4_EN": "Bernove", "ADM4_UA": "Бернове", "ADM4_PCODE": "UA7304003003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kelmenetska", "ADM3_UA": "Кельменецька", "ADM3_PCODE": "UA7304003", "ADM2_EN": "Dnistrovskyi", "ADM2_UA": "Дністровський", "ADM2_PCODE": "UA7304", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.62456, 48.50578 ], [ 26.625141, 48.50187 ], [ 26.629944999000031, 48.494187 ], [ 26.634163001000047, 48.49085 ], [ 26.641246, 48.486896 ], [ 26.647243, 48.490986 ], [ 26.645303001000059, 48.49469 ], [ 26.634887, 48.503307 ], [ 26.632207, 48.503184 ], [ 26.62456, 48.50578 ] ] ] } }
+]
+}

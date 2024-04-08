@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.113058640542, "Shape_Area": 0.000103248391855, "ADM4_EN": "Bohodarove", "ADM4_UA": "Богодарове", "ADM4_PCODE": "UA6304003007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Barvinkivska", "ADM3_UA": "Барвінківська", "ADM3_PCODE": "UA6304003", "ADM2_EN": "Iziumskyi", "ADM2_UA": "Ізюмський", "ADM2_PCODE": "UA6304", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.965877001000024, 48.854129 ], [ 36.958861, 48.853831 ], [ 36.95494, 48.851429 ], [ 36.956364001000054, 48.84736 ], [ 36.958594, 48.847179 ], [ 36.958176, 48.84165 ], [ 36.960593, 48.84139 ], [ 36.961438, 48.847604 ], [ 36.964782, 48.851355 ], [ 36.967641, 48.841677 ], [ 36.969413, 48.842002 ], [ 36.966381999000077, 48.851162 ], [ 36.972716999000056, 48.851404 ], [ 36.973071, 48.853618 ], [ 36.965877001000024, 48.854129 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.077573183517900005, "Shape_Area": 0.000120501488349, "ADM4_EN": "Sychivka", "ADM4_UA": "Сичівка", "ADM4_PCODE": "UA3210003030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dymerska", "ADM3_UA": "Димерська", "ADM3_PCODE": "UA3210003", "ADM2_EN": "Vyshhorodskyi", "ADM2_UA": "Вишгородський", "ADM2_PCODE": "UA3210", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.318752733000053, 50.955575018000047 ], [ 30.31677277700004, 50.956995 ], [ 30.309038775000033, 50.949932057000069 ], [ 30.297833823000076, 50.946300005000069 ], [ 30.295912856000029, 50.942446999000026 ], [ 30.303508783000041, 50.944298049000054 ], [ 30.308242749000044, 50.942885999000055 ], [ 30.310425813000052, 50.947183059000054 ], [ 30.312808762000031, 50.94809003000006 ], [ 30.32135377000003, 50.954911983000045 ], [ 30.318752733000053, 50.955575018000047 ] ] ] } }
+]
+}

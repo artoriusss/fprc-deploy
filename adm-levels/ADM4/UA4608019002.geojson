@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.099908658947500006, "Shape_Area": 0.00010266596438899999, "ADM4_EN": "Berezhok", "ADM4_UA": "Бережок", "ADM4_PCODE": "UA4608019002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Turkivska", "ADM3_UA": "Турківська", "ADM3_PCODE": "UA4608019", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.854490618000057, 49.236599025000032 ], [ 22.847790621000058, 49.239975025000035 ], [ 22.839290627000025, 49.247104025000056 ], [ 22.83703962800007, 49.243652025000074 ], [ 22.842638376000025, 49.241384775000029 ], [ 22.846452622000072, 49.237083025000061 ], [ 22.852979219000076, 49.235050625000042 ], [ 22.854490618000057, 49.236599025000032 ] ] ] } }
+]
+}

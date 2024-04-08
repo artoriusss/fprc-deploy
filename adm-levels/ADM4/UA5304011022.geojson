@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.089409882179899994, "Shape_Area": 0.000231674791488, "ADM4_EN": "Hrushyne", "ADM4_UA": "Грушине", "ADM4_PCODE": "UA5304011022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khorolska", "ADM3_UA": "Хорольська", "ADM3_PCODE": "UA5304011", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.549604, 49.812421 ], [ 33.547109, 49.814177 ], [ 33.536043999000071, 49.813077 ], [ 33.535707306000063, 49.810754049000082 ], [ 33.540563305000035, 49.809443108000039 ], [ 33.532592048000026, 49.794029911000052 ], [ 33.539555207000035, 49.79231105000008 ], [ 33.54169571500006, 49.795810015000029 ], [ 33.551832172000047, 49.795802623000043 ], [ 33.551070534000075, 49.802099770000041 ], [ 33.545112918000029, 49.802400619000082 ], [ 33.549604, 49.812421 ] ] ] } }
+]
+}

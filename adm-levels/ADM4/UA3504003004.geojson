@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.054181705372800003, "Shape_Area": 0.00014204081545, "ADM4_EN": "Dibrivka", "ADM4_UA": "Дібрівка", "ADM4_PCODE": "UA3504003004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bobrynetska", "ADM3_UA": "Бобринецька", "ADM3_PCODE": "UA3504003", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.127521784000066, 48.033591195000042 ], [ 32.121816468000077, 48.026377576000073 ], [ 32.119687269000053, 48.021997769000052 ], [ 32.120122785000035, 48.016579801000034 ], [ 32.127624113000024, 48.018013198000062 ], [ 32.132169395000062, 48.022132616000079 ], [ 32.131881282000052, 48.029214517000071 ], [ 32.127521784000066, 48.033591195000042 ] ] ] } }
+]
+}

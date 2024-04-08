@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.069092851295400007, "Shape_Area": 0.000110646420468, "ADM4_EN": "Oleksandrivka Druha", "ADM4_UA": "Олександрівка Друга", "ADM4_PCODE": "UA5302009037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozelshchynska", "ADM3_UA": "Козельщинська", "ADM3_PCODE": "UA5302009", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.079506, 49.163681 ], [ 34.081131, 49.165572 ], [ 34.078512, 49.168895 ], [ 34.081547, 49.174235 ], [ 34.077876986000035, 49.177458680000029 ], [ 34.070381999000062, 49.178549 ], [ 34.065598999000031, 49.177766 ], [ 34.065140001000032, 49.173992 ], [ 34.075521999000046, 49.171479 ], [ 34.073752, 49.167171 ], [ 34.076991, 49.16278 ], [ 34.079506, 49.163681 ] ] ] } }
+]
+}

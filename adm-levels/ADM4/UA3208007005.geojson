@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.083322537159799995, "Shape_Area": 0.00015625713396, "ADM4_EN": "Buda-Babynetska", "ADM4_UA": "Буда-Бабинецька", "ADM4_PCODE": "UA3208007005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Buchanska", "ADM3_UA": "Бучанська", "ADM3_PCODE": "UA3208007", "ADM2_EN": "Buchanskyi", "ADM2_UA": "Бучанський", "ADM2_PCODE": "UA3208", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.075274616000058, 50.625376351000057 ], [ 30.071327531000065, 50.627160308000043 ], [ 30.068005586000027, 50.624599295000053 ], [ 30.054852623000045, 50.625662305000048 ], [ 30.047622606000061, 50.626905307000072 ], [ 30.046901671000057, 50.624999332000073 ], [ 30.054014571000039, 50.623152274000063 ], [ 30.055918625000061, 50.620761352000045 ], [ 30.070950626000069, 50.615851353000039 ], [ 30.071551645000056, 50.62017129700007 ], [ 30.075274616000058, 50.625376351000057 ] ] ] } }
+]
+}

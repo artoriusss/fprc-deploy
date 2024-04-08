@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.068395517431699998, "Shape_Area": 0.000138985436649, "ADM4_EN": "Druzheliubivka", "ADM4_UA": "Дружелюбівка", "ADM4_PCODE": "UA5102015006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykolaivska", "ADM3_UA": "Миколаївська", "ADM3_PCODE": "UA5102015", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.775585, 47.60465 ], [ 30.774139, 47.607152 ], [ 30.770040999000059, 47.606495 ], [ 30.766929, 47.603963 ], [ 30.763474, 47.605921 ], [ 30.764747, 47.599013 ], [ 30.764636, 47.592725 ], [ 30.771461999000053, 47.59306 ], [ 30.771797, 47.597224 ], [ 30.77738, 47.597835 ], [ 30.775585, 47.60465 ] ] ] } }
+]
+}

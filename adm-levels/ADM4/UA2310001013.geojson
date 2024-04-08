@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.059172252935400002, "Shape_Area": 0.00012592573682, "ADM4_EN": "Myrske", "ADM4_UA": "Мирське", "ADM4_PCODE": "UA2310001013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilmatska", "ADM3_UA": "Більмацька", "ADM3_PCODE": "UA2310001", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.915189263000059, 47.419741669000075 ], [ 36.916205127000069, 47.422283789000062 ], [ 36.897068650000051, 47.434487088000026 ], [ 36.892419160000031, 47.431298794000043 ], [ 36.912513886000056, 47.418297709000058 ], [ 36.915189263000059, 47.419741669000075 ] ] ] } }
+]
+}

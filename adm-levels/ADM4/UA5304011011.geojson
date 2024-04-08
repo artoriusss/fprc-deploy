@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.096948200257199996, "Shape_Area": 0.0002370468541, "ADM4_EN": "Butivtsi", "ADM4_UA": "Бутівці", "ADM4_PCODE": "UA5304011011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khorolska", "ADM3_UA": "Хорольська", "ADM3_PCODE": "UA5304011", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.386753396000074, 49.810307882000075 ], [ 33.376408559000026, 49.810102141000073 ], [ 33.367202, 49.812522 ], [ 33.363476999000056, 49.81193 ], [ 33.360943001000066, 49.80947 ], [ 33.357344, 49.81204 ], [ 33.355644, 49.809785 ], [ 33.362263, 49.806131 ], [ 33.36154, 49.801154 ], [ 33.363531001000069, 49.799457 ], [ 33.371236, 49.800059 ], [ 33.372818, 49.798951 ], [ 33.382941001000063, 49.805238 ], [ 33.387299999000049, 49.8103 ], [ 33.386753396000074, 49.810307882000075 ] ] ] } }
+]
+}

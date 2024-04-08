@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.115589594782, "Shape_Area": 0.00031971950950899998, "ADM4_EN": "Perebykivtsi", "ADM4_UA": "Перебиківці", "ADM4_PCODE": "UA7304005008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Klishkovetska", "ADM3_UA": "Клішковецька", "ADM3_PCODE": "UA7304005", "ADM2_EN": "Dnistrovskyi", "ADM2_UA": "Дністровський", "ADM2_PCODE": "UA7304", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.137632999000061, 48.601744 ], [ 26.136117, 48.603844 ], [ 26.130084, 48.601728 ], [ 26.135725, 48.594518 ], [ 26.126384, 48.590345 ], [ 26.129453, 48.588478 ], [ 26.126591, 48.584538 ], [ 26.133227, 48.57579 ], [ 26.139315001000057, 48.576882 ], [ 26.140835001000028, 48.571342 ], [ 26.143779, 48.591719 ], [ 26.140532, 48.600427 ], [ 26.137632999000061, 48.601744 ] ] ] } }
+]
+}

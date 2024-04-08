@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.066780311865700007, "Shape_Area": 8.5497904780999998e-05, "ADM4_EN": "Sukhomlynove", "ADM4_UA": "Сухомлинове", "ADM4_PCODE": "UA5102009017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivanivska", "ADM3_UA": "Іванівська", "ADM3_PCODE": "UA5102009", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.360831001000065, 46.979036 ], [ 30.355776, 46.982347 ], [ 30.354101, 46.981166 ], [ 30.36197, 46.975816 ], [ 30.361095001000024, 46.973234 ], [ 30.36479, 46.969615 ], [ 30.361441, 46.966676 ], [ 30.374954, 46.968866 ], [ 30.36949, 46.972053 ], [ 30.360831001000065, 46.979036 ] ] ] } }
+]
+}

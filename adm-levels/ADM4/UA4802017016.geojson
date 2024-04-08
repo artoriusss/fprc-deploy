@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.030495869600099999, "Shape_Area": 3.9374211742699999e-05, "ADM4_EN": "Novofontanka", "ADM4_UA": "Новофонтанка", "ADM4_PCODE": "UA4802017016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pryvilnenska", "ADM3_UA": "Привільненська", "ADM3_PCODE": "UA4802017", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.208938870000054, 47.318147535000037 ], [ 32.208832825000059, 47.322906509000063 ], [ 32.206592013000034, 47.322962413000027 ], [ 32.204588287000036, 47.32820799600006 ], [ 32.201965119000079, 47.328070768000032 ], [ 32.204276244000027, 47.318686421000052 ], [ 32.208938870000054, 47.318147535000037 ] ] ] } }
+]
+}

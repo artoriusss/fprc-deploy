@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.081581588420100007, "Shape_Area": 0.000117184095621, "ADM4_EN": "Kosenky", "ADM4_UA": "Косенки", "ADM4_PCODE": "UA5906005009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Korovynska", "ADM3_UA": "Коровинська", "ADM3_PCODE": "UA5906005", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.675173, 50.875574 ], [ 33.672632, 50.876956 ], [ 33.664367, 50.873151 ], [ 33.663274, 50.87027 ], [ 33.669867, 50.868273 ], [ 33.67524, 50.861332 ], [ 33.675729999000055, 50.857346 ], [ 33.679412, 50.857961 ], [ 33.680889999000044, 50.863003 ], [ 33.676458, 50.862156 ], [ 33.673622001000069, 50.866456 ], [ 33.676358, 50.871282 ], [ 33.675173, 50.875574 ] ] ] } }
+]
+}

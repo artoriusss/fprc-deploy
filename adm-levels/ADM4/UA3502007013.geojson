@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.066556487765700001, "Shape_Area": 0.00010648287450800001, "ADM4_EN": "Marynopil", "ADM4_UA": "Маринопіль", "ADM4_PCODE": "UA3502007013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Holovanivska", "ADM3_UA": "Голованівська", "ADM3_PCODE": "UA3502007", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "Голованівський", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.570035, 48.326964 ], [ 30.567686, 48.326527 ], [ 30.572688001000074, 48.317475 ], [ 30.579181, 48.312642 ], [ 30.581516, 48.313919 ], [ 30.587887, 48.307959 ], [ 30.5908, 48.308746 ], [ 30.577884, 48.319939 ], [ 30.575572, 48.325149 ], [ 30.571563, 48.324338 ], [ 30.570035, 48.326964 ] ] ] } }
+]
+}

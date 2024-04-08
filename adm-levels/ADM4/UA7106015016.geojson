@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10074359849599999, "Shape_Area": 0.000297554171643, "ADM4_EN": "Kharkivka", "ADM4_UA": "Харківка", "ADM4_PCODE": "UA7106015016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mankivska", "ADM3_UA": "Маньківська", "ADM3_PCODE": "UA7106015", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.295119, 49.025646 ], [ 30.288813, 49.021819 ], [ 30.293934999000044, 49.018317 ], [ 30.295339, 49.013379 ], [ 30.299046999000041, 49.012488 ], [ 30.304299999000079, 49.013039 ], [ 30.312326, 49.009219 ], [ 30.313732001000062, 49.006192 ], [ 30.317804999000032, 49.004707 ], [ 30.319425, 49.010984 ], [ 30.316172001000041, 49.014239 ], [ 30.319931, 49.019683 ], [ 30.3195, 49.021516 ], [ 30.312836, 49.022494 ], [ 30.308472, 49.019254 ], [ 30.299112, 49.02294 ], [ 30.295119, 49.025646 ] ] ] } }
+]
+}

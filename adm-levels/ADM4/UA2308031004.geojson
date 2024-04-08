@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.093381020350399996, "Shape_Area": 0.000209455021378, "ADM4_EN": "Velyka Ternivka", "ADM4_UA": "Велика Тернівка", "ADM4_PCODE": "UA2308031004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yakymivska", "ADM3_UA": "Якимівська", "ADM3_PCODE": "UA2308031", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "Мелітопольський", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.990895616000046, 46.68832322600008 ], [ 34.984394915000053, 46.685094550000031 ], [ 34.996582971000066, 46.678790083000081 ], [ 35.00783584800007, 46.664875635000044 ], [ 35.011697002000062, 46.660947896000039 ], [ 35.017034762000037, 46.664821420000067 ], [ 35.012455515000056, 46.667711599000029 ], [ 35.000471634000064, 46.68359511500006 ], [ 34.990895616000046, 46.68832322600008 ] ] ] } }
+]
+}

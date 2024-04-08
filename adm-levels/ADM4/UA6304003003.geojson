@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.050865051757700001, "Shape_Area": 8.7675384281399999e-05, "ADM4_EN": "Afrykanivka", "ADM4_UA": "Африканівка", "ADM4_PCODE": "UA6304003003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Barvinkivska", "ADM3_UA": "Барвінківська", "ADM3_PCODE": "UA6304003", "ADM2_EN": "Iziumskyi", "ADM2_UA": "Ізюмський", "ADM2_PCODE": "UA6304", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.808751423000047, 48.892388746000051 ], [ 36.807856001000061, 48.888417 ], [ 36.804006, 48.887441 ], [ 36.803387001000033, 48.883346 ], [ 36.81093, 48.877328 ], [ 36.812359001000061, 48.882575 ], [ 36.812752657000033, 48.892280177000032 ], [ 36.808751423000047, 48.892388746000051 ] ] ] } }
+]
+}

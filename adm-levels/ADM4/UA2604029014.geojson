@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.035388193972900002, "Shape_Area": 1.9477718896100001e-05, "ADM4_EN": "Boiky", "ADM4_UA": "Бойки", "ADM4_PCODE": "UA2604029014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Solotvynska", "ADM3_UA": "Солотвинська", "ADM3_PCODE": "UA2604029", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.350774, 48.631828 ], [ 24.343843, 48.629375 ], [ 24.341287, 48.626099 ], [ 24.342946, 48.623703 ], [ 24.345352999000056, 48.626284 ], [ 24.344106, 48.628791 ], [ 24.350774, 48.631828 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.069163288959800007, "Shape_Area": 8.1353411090700006e-05, "ADM4_EN": "Bubnyshche", "ADM4_UA": "Бубнище", "ADM4_PCODE": "UA2606001002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bolekhivska", "ADM3_UA": "Болехівська", "ADM3_PCODE": "UA2606001", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.703504001000056, 49.049043 ], [ 23.696382, 49.050972 ], [ 23.695114, 49.047523 ], [ 23.703232, 49.046671 ], [ 23.709721, 49.042219 ], [ 23.713112999000032, 49.043128 ], [ 23.707174, 49.048606 ], [ 23.703504001000056, 49.049043 ] ] ] } }
+]
+}

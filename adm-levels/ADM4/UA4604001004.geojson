@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11805170096500001, "Shape_Area": 0.000146194545988, "ADM4_EN": "Biliavtsi", "ADM4_UA": "Білявці", "ADM4_PCODE": "UA4604001004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Brodivska", "ADM3_UA": "Бродівська", "ADM3_PCODE": "UA4604001", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.107339071000069, 50.166958002000058 ], [ 25.10500907100004, 50.173285002000057 ], [ 25.09989807200003, 50.170572002000029 ], [ 25.099091071000032, 50.166670002000046 ], [ 25.095354072000077, 50.165878003000046 ], [ 25.095637072000045, 50.161534002000053 ], [ 25.105922071000066, 50.160752003000027 ], [ 25.110937070000034, 50.156622002000063 ], [ 25.110559070000079, 50.163335002000053 ], [ 25.106461070000023, 50.16344500200006 ], [ 25.107339071000069, 50.166958002000058 ] ] ] } }
+]
+}

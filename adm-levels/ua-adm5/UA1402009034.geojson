@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0128126608737, "Shape_Area": 5.5239486739300003e-06, "ADM4_EN": "Vyimka", "ADM4_UA": "ÐÐ¸ÑÐ¼ÐºÐ°", "ADM4_RU": "ÐÑÐµÐ¼ÐºÐ°", "ADM4_PCODE": "UA1402009034", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Soledarska", "ADM3_UA": "Ð¡Ð¾Ð»ÐµÐ´Ð°ÑÑÑÐºÐ°", "ADM3_RU": "Ð¡Ð¾Ð»ÐµÐ´Ð°ÑÑÐºÐ°Ñ", "ADM3_PCODE": "UA1402009", "ADM2_EN": "Bakhmutskyi", "ADM2_UA": "ÐÐ°ÑÐ¼ÑÑÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ°ÑÐ¼ÑÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA1402", "ADM1_EN": "Donetska", "ADM1_UA": "ÐÐ¾Ð½ÐµÑÑÐºÐ°", "ADM1_RU": "ÐÐ¾Ð½ÐµÑÐºÐ°Ñ", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.148532998000064, 48.80281 ], [ 38.147828997000033, 48.802697 ], [ 38.146365998000078, 48.804496 ], [ 38.144542999000066, 48.806727 ], [ 38.14561999700004, 48.80706 ], [ 38.148977998000078, 48.802953 ], [ 38.148532998000064, 48.80281 ] ] ] } }
-]
-}

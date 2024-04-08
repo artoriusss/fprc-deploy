@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13386021634799999, "Shape_Area": 0.000178371526583, "ADM4_EN": "Zavadyntsi", "ADM4_UA": "Завадинці", "ADM4_PCODE": "UA6804013013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodotska", "ADM3_UA": "Городоцька", "ADM3_PCODE": "UA6804013", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 26.503963, 49.099449 ], [ 26.502815001000045, 49.099426 ], [ 26.498002, 49.091773 ], [ 26.498884, 49.087899 ], [ 26.507357957000067, 49.083719946000031 ], [ 26.508849919000056, 49.083262912000066 ], [ 26.511388563000025, 49.083135345000073 ], [ 26.511287001000028, 49.091842 ], [ 26.509045999000023, 49.099332 ], [ 26.503963, 49.099449 ] ] ], [ [ [ 26.527675001000034, 49.093347 ], [ 26.526438, 49.089343 ], [ 26.532432, 49.089895 ], [ 26.527675001000034, 49.093347 ] ] ] ] } }
+]
+}

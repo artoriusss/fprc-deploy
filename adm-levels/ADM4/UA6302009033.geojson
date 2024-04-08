@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.094095059163600003, "Shape_Area": 0.00024484137291000001, "ADM4_EN": "Oleksiivka", "ADM4_UA": "Олексіївка", "ADM4_PCODE": "UA6302009033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasnokutska", "ADM3_UA": "Краснокутська", "ADM3_PCODE": "UA6302009", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "Богодухівський", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.352727999000024, 49.920361 ], [ 35.349579001000052, 49.91881 ], [ 35.345123, 49.923168 ], [ 35.345904, 49.926662 ], [ 35.340545, 49.926178 ], [ 35.328168, 49.930184 ], [ 35.32486300100004, 49.928711 ], [ 35.325495, 49.922993 ], [ 35.329830001000062, 49.920276 ], [ 35.337222171000064, 49.914096742000027 ], [ 35.344267989000059, 49.914571017000071 ], [ 35.35372, 49.919485 ], [ 35.352727999000024, 49.920361 ] ] ] } }
+]
+}

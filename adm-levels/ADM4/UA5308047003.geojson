@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.075457346843200004, "Shape_Area": 0.00020592889612200001, "ADM4_EN": "Velykyi Trostianets", "ADM4_UA": "Великий Тростянець", "ADM4_PCODE": "UA5308047003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shcherbanivska", "ADM3_UA": "Щербанівська", "ADM3_PCODE": "UA5308047", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.545999, 49.499118 ], [ 34.541128, 49.501732 ], [ 34.539400001000047, 49.506769 ], [ 34.53651300100006, 49.506618 ], [ 34.537350999000068, 49.501072 ], [ 34.531766, 49.499041 ], [ 34.524992, 49.49788 ], [ 34.524868, 49.491226 ], [ 34.530238001000043, 49.492409 ], [ 34.535754, 49.491159 ], [ 34.541304, 49.48837 ], [ 34.543445, 49.493478 ], [ 34.547766, 49.497112 ], [ 34.545999, 49.499118 ] ] ] } }
+]
+}

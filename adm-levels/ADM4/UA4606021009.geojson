@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.061938229156499998, "Shape_Area": 0.000176501900545, "ADM4_EN": "Klitsko", "ADM4_UA": "Кліцько", "ADM4_PCODE": "UA4606021009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Komarnivska", "ADM3_UA": "Комарнівська", "ADM3_PCODE": "UA4606021", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.720852997000065, 49.623736463000057 ], [ 23.725992632000043, 49.628780920000054 ], [ 23.732175283000061, 49.628566011000032 ], [ 23.737683281000045, 49.63269801000007 ], [ 23.73452128100007, 49.636437010000066 ], [ 23.72962328400007, 49.638321011000073 ], [ 23.724101284000028, 49.637498011000048 ], [ 23.717959286000053, 49.63448401100004 ], [ 23.719039204000069, 49.624977479000052 ], [ 23.720852997000065, 49.623736463000057 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.108722748331, "Shape_Area": 0.00024781154678600001, "ADM4_EN": "Sakunykha", "ADM4_UA": "Сакуниха", "ADM4_PCODE": "UA5906009043", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nedryhailivska", "ADM3_UA": "Недригайлівська", "ADM3_PCODE": "UA5906009", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.872049, 50.773927 ], [ 33.867856, 50.772141 ], [ 33.869385001000069, 50.769068 ], [ 33.858596, 50.766186 ], [ 33.85314, 50.76185 ], [ 33.858902, 50.759438 ], [ 33.863145, 50.76304 ], [ 33.867584, 50.762687 ], [ 33.875690999000028, 50.764598 ], [ 33.87656, 50.763022 ], [ 33.884009, 50.766567 ], [ 33.894673, 50.768441 ], [ 33.891375999000047, 50.772998 ], [ 33.88206199900003, 50.772366 ], [ 33.875259, 50.770617 ], [ 33.872049, 50.773927 ] ] ] } }
+]
+}

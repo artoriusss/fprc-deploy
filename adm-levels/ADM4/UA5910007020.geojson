@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.203045919322, "Shape_Area": 0.00022925684110400001, "ADM4_EN": "Studenok", "ADM4_UA": "Студенок", "ADM4_PCODE": "UA5910007020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Esmanska", "ADM3_UA": "Есманьська", "ADM3_PCODE": "UA5910007", "ADM2_EN": "Shostkynskyi", "ADM2_UA": "Шосткинський", "ADM2_PCODE": "UA5910", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 34.109522, 51.699047 ], [ 34.11785, 51.688844 ], [ 34.127486, 51.68984 ], [ 34.126942, 51.694517 ], [ 34.111827, 51.699362 ], [ 34.109522, 51.699047 ] ] ], [ [ [ 34.132796, 51.699445 ], [ 34.129182, 51.697073 ], [ 34.130996, 51.692294 ], [ 34.134407, 51.691925 ], [ 34.142783999000073, 51.693291 ], [ 34.139969, 51.697214 ], [ 34.135314, 51.696227 ], [ 34.132796, 51.699445 ] ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.089208901264499998, "Shape_Area": 8.4337787666500006e-05, "ADM4_EN": "Kozak", "ADM4_UA": "Козак", "ADM4_PCODE": "UA5606031016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Koretska", "ADM3_UA": "Корецька", "ADM3_PCODE": "UA5606031", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.144160920000047, 50.676256980000062 ], [ 27.140011921000053, 50.678176050000047 ], [ 27.134750160000067, 50.678558010000074 ], [ 27.129697920000069, 50.677541010000027 ], [ 27.131244120000076, 50.674639050000053 ], [ 27.136722960000043, 50.675847930000032 ], [ 27.138075121000043, 50.673230010000054 ], [ 27.143682840000054, 50.672742030000052 ], [ 27.144160920000047, 50.676256980000062 ] ] ] } }
+]
+}

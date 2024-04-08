@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.055120208188899997, "Shape_Area": 8.6373430520700003e-05, "ADM4_EN": "Yasnohorodka", "ADM4_UA": "Ясногородка", "ADM4_PCODE": "UA4804013034", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yelanetska", "ADM3_UA": "Єланецька", "ADM3_PCODE": "UA4804013", "ADM2_EN": "Voznesenskyi", "ADM2_UA": "Вознесенський", "ADM2_PCODE": "UA4804", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.801414947000069, 47.762909921000073 ], [ 31.800323, 47.766192016000048 ], [ 31.791661583000064, 47.764654287000042 ], [ 31.792250316000036, 47.759958196000071 ], [ 31.796658419000039, 47.759871818000079 ], [ 31.797679306000077, 47.754623375000051 ], [ 31.802532404000033, 47.755352335000055 ], [ 31.801414947000069, 47.762909921000073 ] ] ] } }
+]
+}

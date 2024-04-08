@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070728050569299997, "Shape_Area": 0.00015628413041, "ADM4_EN": "Myrna Dolyna", "ADM4_UA": "Мирна Долина", "ADM4_PCODE": "UA4412005007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lysychanska", "ADM3_UA": "Лисичанська", "ADM3_PCODE": "UA4412005", "ADM2_EN": "Sievierodonetskyi", "ADM2_UA": "Сєвєродонецький", "ADM2_PCODE": "UA4412", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.475081874000068, 48.818189514000039 ], [ 38.472091844000033, 48.817357076000064 ], [ 38.473294477000024, 48.812136214000077 ], [ 38.467903815000057, 48.807131582000068 ], [ 38.46859016600007, 48.80492593300005 ], [ 38.477409742000077, 48.805061463000072 ], [ 38.486006964000069, 48.807213726000043 ], [ 38.482211661000065, 48.814641962000053 ], [ 38.478900501000055, 48.817248583000037 ], [ 38.475081874000068, 48.818189514000039 ] ] ] } }
+]
+}

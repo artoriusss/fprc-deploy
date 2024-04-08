@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.12564240552299999, "Shape_Area": 0.000114479635122, "ADM4_EN": "Mali Zozulyntsi", "ADM4_UA": "Малі Зозулинці", "ADM4_PCODE": "UA6804017013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zasluchnenska", "ADM3_UA": "Заслучненська", "ADM3_PCODE": "UA6804017", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.670511999000041, 49.685623 ], [ 26.670058001000029, 49.683596 ], [ 26.673715999000024, 49.680993 ], [ 26.670105, 49.679166 ], [ 26.668017, 49.684128 ], [ 26.662658, 49.685458 ], [ 26.662978, 49.682297 ], [ 26.665975, 49.678493 ], [ 26.670495, 49.67723 ], [ 26.674981001000049, 49.679581 ], [ 26.679066001000024, 49.678741 ], [ 26.685207, 49.682604 ], [ 26.674245001000031, 49.684266 ], [ 26.670511999000041, 49.685623 ] ] ] } }
+]
+}

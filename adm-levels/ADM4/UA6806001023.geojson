@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.063265465982000002, "Shape_Area": 0.00011106507356, "ADM4_EN": "Trostianets", "ADM4_UA": "Тростянець", "ADM4_PCODE": "UA6806001023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezdivska", "ADM3_UA": "Берездівська", "ADM3_PCODE": "UA6806001", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.101544, 50.573848 ], [ 27.098733, 50.573885 ], [ 27.097627, 50.566983 ], [ 27.095546999000078, 50.563348 ], [ 27.098705, 50.559152 ], [ 27.105101001000037, 50.557055 ], [ 27.107246, 50.560844 ], [ 27.103237, 50.561712 ], [ 27.101607, 50.566449 ], [ 27.101544, 50.573848 ] ] ] } }
+]
+}

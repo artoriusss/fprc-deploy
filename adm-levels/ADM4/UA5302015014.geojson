@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0488848722418, "Shape_Area": 9.9970865028100006e-05, "ADM4_EN": "Natalenky", "ADM4_UA": "Наталенки", "ADM4_PCODE": "UA5302015014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Obolonska", "ADM3_UA": "Оболонська", "ADM3_PCODE": "UA5302015", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.852408, 49.593544 ], [ 32.845254, 49.596175 ], [ 32.838495, 49.597362 ], [ 32.834621, 49.593213 ], [ 32.833495733000063, 49.589937819000056 ], [ 32.842704001000072, 49.588329 ], [ 32.851084, 49.592621 ], [ 32.852408, 49.593544 ] ] ] } }
+]
+}

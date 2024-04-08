@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.037042821864799999, "Shape_Area": 3.7841382560700003e-05, "ADM4_EN": "Kamianopil", "ADM4_UA": "Кам'янопіль", "ADM4_PCODE": "UA4804017009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novomarivska", "ADM3_UA": "Новомар'ївська", "ADM3_PCODE": "UA4804017", "ADM2_EN": "Voznesenskyi", "ADM2_UA": "Вознесенський", "ADM2_PCODE": "UA4804", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.597930650000023, 47.956469846000061 ], [ 31.59759936100005, 47.96478264600006 ], [ 31.594788304000076, 47.964569810000057 ], [ 31.594624167000063, 47.957559758000059 ], [ 31.597930650000023, 47.956469846000061 ] ] ] } }
+]
+}

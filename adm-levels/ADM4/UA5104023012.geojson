@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10999327102000001, "Shape_Area": 0.000233776308994, "ADM4_EN": "Petrivka", "ADM4_UA": "Петрівка", "ADM4_PCODE": "UA5104023012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starokozatska", "ADM3_UA": "Старокозацька", "ADM3_PCODE": "UA5104023", "ADM2_EN": "Bilhorod-Dnistrovskyi", "ADM2_UA": "Білгород-Дністровський", "ADM2_PCODE": "UA5104", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.936702001000072, 46.31757 ], [ 29.937676, 46.312601 ], [ 29.944716, 46.3083 ], [ 29.950574, 46.309046 ], [ 29.958297, 46.303565 ], [ 29.956051, 46.30177 ], [ 29.957972999000049, 46.297622 ], [ 29.963165, 46.2981 ], [ 29.962636, 46.303894 ], [ 29.959831999000073, 46.311936 ], [ 29.95444139500006, 46.316812381000034 ], [ 29.947895624000068, 46.317798470000071 ], [ 29.936702001000072, 46.31757 ] ] ] } }
+]
+}

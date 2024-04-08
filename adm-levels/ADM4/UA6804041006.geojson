@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.092989968191900002, "Shape_Area": 7.8352681067999996e-05, "ADM4_EN": "Korzhivka", "ADM4_UA": "Коржівка", "ADM4_PCODE": "UA6804041006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Staroostropilska", "ADM3_UA": "Староостропільська", "ADM3_PCODE": "UA6804041", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.595046999000033, 49.840724 ], [ 27.59013599900004, 49.839458 ], [ 27.585827, 49.83368 ], [ 27.58906, 49.832839 ], [ 27.593152, 49.834267 ], [ 27.597987, 49.838306 ], [ 27.595046999000033, 49.840724 ] ] ] } }
+]
+}

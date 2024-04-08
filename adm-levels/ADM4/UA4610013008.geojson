@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.05670013551, "Shape_Area": 0.000146316902425, "ADM4_EN": "Zaderevach", "ADM4_UA": "Задеревач", "ADM4_PCODE": "UA4610013008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Morshynska", "ADM3_UA": "Моршинська", "ADM3_PCODE": "UA4610013", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.93938922600006, 49.134879009000031 ], [ 23.943792225000038, 49.138656008000055 ], [ 23.937988226000073, 49.138933008000038 ], [ 23.928354228000046, 49.141725009000027 ], [ 23.924086229000068, 49.137006009000061 ], [ 23.927885228000036, 49.134032008000077 ], [ 23.929164228000047, 49.129686008000078 ], [ 23.932591227000046, 49.127826009000046 ], [ 23.93938922600006, 49.134879009000031 ] ] ] } }
+]
+}

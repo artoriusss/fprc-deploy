@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.034210543614300003, "Shape_Area": 5.5485735146299997e-05, "ADM4_EN": "Morkvyna", "ADM4_UA": "Морквина", "ADM4_PCODE": "UA3504019033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kompaniivska", "ADM3_UA": "Компаніївська", "ADM3_PCODE": "UA3504019", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.353127, 48.096869 ], [ 32.34905, 48.096408 ], [ 32.349866758000076, 48.090290293000066 ], [ 32.355907997000031, 48.091431025000077 ], [ 32.361022, 48.093997 ], [ 32.361034, 48.096061 ], [ 32.353127, 48.096869 ] ] ] } }
+]
+}

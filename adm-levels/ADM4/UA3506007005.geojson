@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.128877540574, "Shape_Area": 0.000128087261061, "ADM4_EN": "Rozsokhuvatka", "ADM4_UA": "Розсохуватка", "ADM4_PCODE": "UA3506007005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zlynska", "ADM3_UA": "Злинська", "ADM3_PCODE": "UA3506007", "ADM2_EN": "Novoukrainskyi", "ADM2_UA": "Новоукраїнський", "ADM2_PCODE": "UA3506", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 31.547976, 48.572665 ], [ 31.54334, 48.576387 ], [ 31.541674, 48.574243 ], [ 31.547976, 48.572665 ] ] ], [ [ [ 31.544681, 48.571731 ], [ 31.542189, 48.567158 ], [ 31.538234, 48.565844 ], [ 31.536418, 48.560822 ], [ 31.539928, 48.56115 ], [ 31.543838999000059, 48.563805 ], [ 31.543826, 48.558381 ], [ 31.549184, 48.558203 ], [ 31.549320999000031, 48.563804 ], [ 31.547137, 48.567172 ], [ 31.547175, 48.570747 ], [ 31.544681, 48.571731 ] ] ] ] } }
+]
+}

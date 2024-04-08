@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.071137084695599997, "Shape_Area": 0.00012808879297500001, "ADM4_EN": "Chervonyi Lyman", "ADM4_UA": "Червоний Лиман", "ADM4_PCODE": "UA6304003058", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Barvinkivska", "ADM3_UA": "Барвінківська", "ADM3_PCODE": "UA6304003", "ADM2_EN": "Iziumskyi", "ADM2_UA": "Ізюмський", "ADM2_PCODE": "UA6304", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.808637999000041, 49.115269 ], [ 36.804821, 49.114851 ], [ 36.802712, 49.106119 ], [ 36.806614, 49.1062 ], [ 36.805713, 49.101615 ], [ 36.812610001000053, 49.101406 ], [ 36.813116, 49.106665 ], [ 36.816128, 49.106767 ], [ 36.822309, 49.10468 ], [ 36.823555999000064, 49.106423 ], [ 36.81847, 49.109443 ], [ 36.810337, 49.112045 ], [ 36.808637999000041, 49.115269 ] ] ] } }
+]
+}

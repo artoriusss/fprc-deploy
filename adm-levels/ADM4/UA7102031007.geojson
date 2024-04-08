@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.070861288741700001, "Shape_Area": 0.000110371194914, "ADM4_EN": "Kononove-Ivasiv", "ADM4_UA": "Кононове-Івасів", "ADM4_PCODE": "UA7102031007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shevchenkivska", "ADM3_UA": "Шевченківська", "ADM3_PCODE": "UA7102031", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.16504976300007, 49.194152597000027 ], [ 31.169172983000067, 49.195407863000071 ], [ 31.163984, 49.201298 ], [ 31.158167350000042, 49.20459147300005 ], [ 31.157176001000039, 49.207384 ], [ 31.152944537000053, 49.204477481000026 ], [ 31.149582458000054, 49.207076511000025 ], [ 31.148243999000044, 49.202212 ], [ 31.152625, 49.203158 ], [ 31.157978726000067, 49.199222951000081 ], [ 31.162383429000045, 49.193383049000033 ], [ 31.16504976300007, 49.194152597000027 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.049555290815, "Shape_Area": 8.5632569367200003e-05, "ADM4_EN": "Ulianivka", "ADM4_UA": "Улянівка", "ADM4_PCODE": "UA2306025015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Petro-Mykhailivska", "ADM3_UA": "Петро-Михайлівська", "ADM3_PCODE": "UA2306025", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.144106744000055, 48.050517524000043 ], [ 35.138310998000065, 48.049458798000046 ], [ 35.132691089000048, 48.047159282000052 ], [ 35.134637283000075, 48.043631884000035 ], [ 35.141124680000075, 48.043412242000045 ], [ 35.14766591800003, 48.044203193000044 ], [ 35.144106744000055, 48.050517524000043 ] ] ] } }
+]
+}

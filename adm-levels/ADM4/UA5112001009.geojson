@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.12130415754399999, "Shape_Area": 0.000164017048387, "ADM4_EN": "Verbove", "ADM4_UA": "Вербове", "ADM4_PCODE": "UA5112001009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ananivska", "ADM3_UA": "Ананьївська", "ADM3_PCODE": "UA5112001", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.14682, 47.593401 ], [ 30.14213600100004, 47.59229 ], [ 30.127633, 47.592611 ], [ 30.125338, 47.591239 ], [ 30.115661, 47.589842 ], [ 30.115341, 47.588116 ], [ 30.110045, 47.587009 ], [ 30.114278, 47.583219 ], [ 30.11698, 47.584011 ], [ 30.123963999000068, 47.583228 ], [ 30.120772, 47.588714 ], [ 30.125690999000028, 47.590265 ], [ 30.128025001000026, 47.586871 ], [ 30.137069999000062, 47.587166 ], [ 30.141546, 47.590558 ], [ 30.153466999000045, 47.590976 ], [ 30.14682, 47.593401 ] ] ] } }
+]
+}

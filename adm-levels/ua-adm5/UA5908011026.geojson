@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.026522014675899999, "Shape_Area": 1.0383077017199999e-05, "ADM4_EN": "Hostrobury", "ADM4_UA": "ÐÐ¾ÑÑÑÐ¾Ð±ÑÑÐ¸", "ADM4_RU": "ÐÑÑÑÐ¾Ð±ÑÑÑ", "ADM4_PCODE": "UA5908011026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lebedynska", "ADM3_UA": "ÐÐµÐ±ÐµÐ´Ð¸Ð½ÑÑÐºÐ°", "ADM3_RU": "ÐÐµÐ±ÐµÐ´Ð¸Ð½ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5908011", "ADM2_EN": "Sumskyi", "ADM2_UA": "Ð¡ÑÐ¼ÑÑÐºÐ¸Ð¹", "ADM2_RU": "Ð¡ÑÐ¼ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Ð¡ÑÐ¼ÑÑÐºÐ°", "ADM1_RU": "Ð¡ÑÐ¼ÑÐºÐ°Ñ", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.511591, 50.767344 ], [ 34.511485, 50.764755 ], [ 34.511953, 50.764734 ], [ 34.511547, 50.762545 ], [ 34.510580999000069, 50.762345 ], [ 34.506309, 50.76156 ], [ 34.506109999000046, 50.762205 ], [ 34.510603, 50.763053 ], [ 34.510878, 50.764649 ], [ 34.510673, 50.765898 ], [ 34.510536, 50.766494 ], [ 34.50944, 50.766438 ], [ 34.509361, 50.76886 ], [ 34.510455999000044, 50.768859 ], [ 34.51052, 50.767386 ], [ 34.511591, 50.767344 ] ] ] } }
-]
-}

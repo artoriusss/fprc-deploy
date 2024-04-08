@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0847645583004, "Shape_Area": 0.000144641037465, "ADM4_EN": "Pniatyn", "ADM4_UA": "Пнятин", "ADM4_PCODE": "UA4606033042", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Peremyshlianska", "ADM3_UA": "Перемишлянська", "ADM3_PCODE": "UA4606033", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.682506108000041, 49.651135004000025 ], [ 24.663669112000036, 49.651559004000035 ], [ 24.664953112000035, 49.646093004000079 ], [ 24.667753111000025, 49.646990005000077 ], [ 24.675421110000059, 49.645953004000035 ], [ 24.680856109000047, 49.647236004000035 ], [ 24.682831109000062, 49.644080004000045 ], [ 24.686043108000035, 49.645917004000069 ], [ 24.690045109000039, 49.645265004000066 ], [ 24.690276108000035, 49.650629004000052 ], [ 24.682506108000041, 49.651135004000025 ] ] ] } }
+]
+}

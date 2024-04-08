@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0494940512507, "Shape_Area": 9.9813755000799999e-05, "ADM4_EN": "Krupske", "ADM4_UA": "Крупське", "ADM4_PCODE": "UA4610017005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozvadivska", "ADM3_UA": "Розвадівська", "ADM3_PCODE": "UA4610017", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.042952207000042, 49.460867008000037 ], [ 24.03260221000005, 49.465216008000027 ], [ 24.022903212000074, 49.466897008000046 ], [ 24.022097211000073, 49.463133008000057 ], [ 24.037501208000037, 49.457238008000047 ], [ 24.042952207000042, 49.460867008000037 ] ] ] } }
+]
+}

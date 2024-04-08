@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.078958851709700004, "Shape_Area": 0.00015844284410800001, "ADM4_EN": "Shevchenka", "ADM4_UA": "Шевченка", "ADM4_PCODE": "UA7408009012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Malodivytska", "ADM3_UA": "Малодівицька", "ADM3_PCODE": "UA7408009", "ADM2_EN": "Prylutskyi", "ADM2_UA": "Прилуцький", "ADM2_PCODE": "UA7408", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.095953, 50.646027960000026 ], [ 32.09304996000003, 50.649262020000037 ], [ 32.079389040000024, 50.649519960000077 ], [ 32.078565, 50.643810990000077 ], [ 32.080008960000043, 50.639906970000027 ], [ 32.085290880000059, 50.638439970000036 ], [ 32.092221960000074, 50.638419990000045 ], [ 32.092322040000056, 50.643654930000082 ], [ 32.095953, 50.646027960000026 ] ] ] } }
+]
+}

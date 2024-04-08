@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.043620354228099997, "Shape_Area": 5.4374995183600002e-05, "ADM4_EN": "Smerechka", "ADM4_UA": "Смеречка", "ADM4_PCODE": "UA4608017017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Strilkivska", "ADM3_UA": "Стрілківська", "ADM3_PCODE": "UA4608017", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.897666596000079, 49.250169024000058 ], [ 22.899555596000027, 49.251590024000052 ], [ 22.902334593000035, 49.257867023000074 ], [ 22.904419592000067, 49.259231023000041 ], [ 22.902878593000025, 49.263205024000058 ], [ 22.899445595000032, 49.259735024000065 ], [ 22.896002596000073, 49.253706024000053 ], [ 22.897666596000079, 49.250169024000058 ] ] ] } }
+]
+}

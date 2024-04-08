@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.079061589488800002, "Shape_Area": 0.00022243755861300001, "ADM4_EN": "Borysivka", "ADM4_UA": "Борисівка", "ADM4_PCODE": "UA5104025004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tatarbunarska", "ADM3_UA": "Татарбунарська", "ADM3_PCODE": "UA5104025", "ADM2_EN": "Bilhorod-Dnistrovskyi", "ADM2_UA": "Білгород-Дністровський", "ADM2_PCODE": "UA5104", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.644033393000029, 45.793898161000072 ], [ 29.641815, 45.796666 ], [ 29.640797502000055, 45.803983563000031 ], [ 29.636527624000053, 45.803633364000063 ], [ 29.636043, 45.792433 ], [ 29.633033, 45.789757 ], [ 29.633651999000051, 45.781709 ], [ 29.630607, 45.781271 ], [ 29.631874, 45.776192 ], [ 29.635622, 45.775283 ], [ 29.639233729000068, 45.776818089000074 ], [ 29.640733, 45.781297 ], [ 29.644412, 45.786556 ], [ 29.644033393000029, 45.793898161000072 ] ] ] } }
+]
+}

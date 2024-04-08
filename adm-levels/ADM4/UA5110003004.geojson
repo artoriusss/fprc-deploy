@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.06487668068000001, "Shape_Area": 0.00018255294991500001, "ADM4_EN": "Maiory", "ADM4_UA": "Майори", "ADM4_PCODE": "UA5110003004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Biliaivska", "ADM3_UA": "Біляївська", "ADM3_PCODE": "UA5110003", "ADM2_EN": "Odeskyi", "ADM2_UA": "Одеський", "ADM2_PCODE": "UA5110", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.284318, 46.547129 ], [ 30.279685, 46.545505 ], [ 30.274092001000042, 46.547126 ], [ 30.274729, 46.540272 ], [ 30.276698001000057, 46.539797 ], [ 30.279098, 46.529194 ], [ 30.287531, 46.530162 ], [ 30.285412, 46.539065 ], [ 30.290311999000039, 46.539863 ], [ 30.288571999000055, 46.545414 ], [ 30.284318, 46.547129 ] ] ] } }
+]
+}

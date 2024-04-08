@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057808475154799997, "Shape_Area": 0.000140251993504, "ADM4_EN": "Mlynky", "ADM4_UA": "Млинки", "ADM4_PCODE": "UA5308017008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kotelevska", "ADM3_UA": "Котелевська", "ADM3_PCODE": "UA5308017", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.71233288600007, 50.039317436000033 ], [ 34.71767075300005, 50.041483003000053 ], [ 34.712673, 50.047406 ], [ 34.70125, 50.051942 ], [ 34.696896862000074, 50.051274956000043 ], [ 34.702305, 50.044113 ], [ 34.71233288600007, 50.039317436000033 ] ] ] } }
+]
+}

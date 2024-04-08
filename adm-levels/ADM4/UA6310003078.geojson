@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.12642339364899999, "Shape_Area": 0.00018758335599500001, "ADM4_EN": "Sadove", "ADM4_UA": "Садове", "ADM4_PCODE": "UA6310003078", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Blyzniukivska", "ADM3_UA": "Близнюківська", "ADM3_PCODE": "UA6310003", "ADM2_EN": "Lozivskyi", "ADM2_UA": "Лозівський", "ADM2_PCODE": "UA6310", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.576172, 48.833276 ], [ 36.578933340000049, 48.838952859000074 ], [ 36.57119003300005, 48.841601547000039 ], [ 36.569785, 48.837651 ], [ 36.572698, 48.835877 ], [ 36.573263001000043, 48.832319 ], [ 36.571703, 48.827622 ], [ 36.583183, 48.817392 ], [ 36.58752, 48.818382 ], [ 36.582257, 48.823604 ], [ 36.582170001000065, 48.832452999000054 ], [ 36.576172, 48.833276 ] ] ] } }
+]
+}

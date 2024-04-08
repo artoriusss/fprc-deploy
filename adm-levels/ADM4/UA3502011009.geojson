@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.071228431415299998, "Shape_Area": 0.000120728208186, "ADM4_EN": "Nyzove", "ADM4_UA": "Низове", "ADM4_PCODE": "UA3502011009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nadlatska", "ADM3_UA": "Надлацька", "ADM3_PCODE": "UA3502011", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "Голованівський", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.084703, 48.706398 ], [ 31.078676, 48.705192 ], [ 31.080356, 48.698289 ], [ 31.084079001000077, 48.696207 ], [ 31.090742, 48.698652 ], [ 31.095307, 48.698098 ], [ 31.088689, 48.704776 ], [ 31.084703, 48.706398 ] ] ] } }
+]
+}

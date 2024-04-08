@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.085356580851099997, "Shape_Area": 0.00015985370219500001, "ADM4_EN": "Piatyhirtsi", "ADM4_UA": "П'ятигірці", "ADM4_PCODE": "UA5304003043", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lubenska", "ADM3_UA": "Лубенська", "ADM3_PCODE": "UA5304003", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.852573999000072, 49.939573 ], [ 32.841604, 49.939888 ], [ 32.836945, 49.938119 ], [ 32.830949, 49.93224 ], [ 32.836166, 49.929419 ], [ 32.84364, 49.928277 ], [ 32.848218, 49.930954 ], [ 32.850249, 49.933756 ], [ 32.848214999000049, 49.936911 ], [ 32.854638, 49.937962 ], [ 32.852573999000072, 49.939573 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.074116120922200004, "Shape_Area": 0.00014790838497400001, "ADM4_EN": "Yazlovets", "ADM4_UA": "Язловець", "ADM4_PCODE": "UA6106007037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Buchatska", "ADM3_UA": "Бучацька", "ADM3_PCODE": "UA6106007", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.447915, 48.965103 ], [ 25.443981, 48.967761 ], [ 25.437694, 48.963848 ], [ 25.437290500000074, 48.959767 ], [ 25.44137, 48.956692001000079 ], [ 25.445246, 48.957764 ], [ 25.45437, 48.955236 ], [ 25.45357, 48.958747 ], [ 25.453786, 48.961878 ], [ 25.450373, 48.962506 ], [ 25.447915, 48.965103 ] ] ] } }
+]
+}

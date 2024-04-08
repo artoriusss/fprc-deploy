@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.097201436331499996, "Shape_Area": 0.00016865594210799999, "ADM4_EN": "Kateryno-Platonivka", "ADM4_UA": "Катерино-Платонівка", "ADM4_PCODE": "UA5102011008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Konoplianska", "ADM3_UA": "Коноплянська", "ADM3_PCODE": "UA5102011", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.484478, 47.180993 ], [ 30.482552, 47.184493 ], [ 30.477387, 47.18079 ], [ 30.476144, 47.172819 ], [ 30.46861, 47.172183 ], [ 30.472185, 47.166867 ], [ 30.472954999000024, 47.158605 ], [ 30.47878, 47.160053 ], [ 30.477977999000075, 47.166177 ], [ 30.480341, 47.177095 ], [ 30.485215, 47.176785 ], [ 30.484478, 47.180993 ] ] ] } }
+]
+}

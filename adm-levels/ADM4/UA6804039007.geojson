@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.134283084473, "Shape_Area": 0.000270928650736, "ADM4_EN": "Velykyi Cherniatyn", "ADM4_UA": "Великий Чернятин", "ADM4_PCODE": "UA6804039007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starokostiantynivska", "ADM3_UA": "Старокостянтинівська", "ADM3_PCODE": "UA6804039", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 27.065596, 49.796132 ], [ 27.059826, 49.791807 ], [ 27.060751001000028, 49.78796 ], [ 27.059342001000061, 49.7826 ], [ 27.065478, 49.781328 ], [ 27.075387, 49.781187 ], [ 27.08111, 49.783579 ], [ 27.079461, 49.787829 ], [ 27.072491, 49.793641 ], [ 27.065596, 49.796132 ] ] ], [ [ [ 27.078021, 49.773343 ], [ 27.080079, 49.77681 ], [ 27.08516, 49.779721 ], [ 27.076651, 49.781024 ], [ 27.073726001000068, 49.779684 ], [ 27.078021, 49.773343 ] ] ] ] } }
+]
+}

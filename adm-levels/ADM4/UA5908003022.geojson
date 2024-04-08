@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.091520728438899995, "Shape_Area": 0.00011079288006100001, "ADM4_EN": "Kotenky", "ADM4_UA": "Котенки", "ADM4_PCODE": "UA5908003022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilopilska", "ADM3_UA": "Білопільська", "ADM3_PCODE": "UA5908003", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.343483, 51.043818 ], [ 34.34035, 51.047044 ], [ 34.337118, 51.043523 ], [ 34.328064999000048, 51.047762 ], [ 34.327091, 51.046812 ], [ 34.339646, 51.040838 ], [ 34.344704001000025, 51.036737 ], [ 34.34903, 51.034656 ], [ 34.349555001000056, 51.02984 ], [ 34.354538, 51.029841 ], [ 34.354275, 51.034347 ], [ 34.351887, 51.037132 ], [ 34.343483, 51.043818 ] ] ] } }
+]
+}

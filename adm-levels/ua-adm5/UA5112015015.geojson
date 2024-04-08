@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.039754687658799998, "Shape_Area": 8.1229146075499994e-05, "ADM4_EN": "Dnistrovets", "ADM4_UA": "ÐÐ½ÑÑÑÑÐ¾Ð²ÐµÑÑ", "ADM4_RU": "ÐÐ½ÐµÑÑÑÐ¾Ð²ÐµÑ", "ADM4_PCODE": "UA5112015015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Oknianska", "ADM3_UA": "ÐÐºÐ½ÑÐ½ÑÑÐºÐ°", "ADM3_RU": "ÐÐºÐ½ÑÐ½ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5112015", "ADM2_EN": "Podilskyi", "ADM2_UA": "ÐÐ¾Ð´ÑÐ»ÑÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¾Ð´Ð¾Ð»ÑÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "ÐÐ´ÐµÑÑÐºÐ°", "ADM1_RU": "ÐÐ´ÐµÑÑÐºÐ°Ñ", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.469525, 47.386581 ], [ 29.468709001000036, 47.383597 ], [ 29.470815001000062, 47.383347 ], [ 29.468442, 47.375295 ], [ 29.465545, 47.375674 ], [ 29.461940001000073, 47.376144 ], [ 29.460085999000057, 47.376421 ], [ 29.460967, 47.379506 ], [ 29.462342, 47.384318 ], [ 29.465016, 47.384063 ], [ 29.465833, 47.387047 ], [ 29.468546, 47.386705 ], [ 29.469525, 47.386581 ] ] ] } }
-]
-}

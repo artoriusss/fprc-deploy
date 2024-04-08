@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.054070626522600002, "Shape_Area": 0.000124199519652, "ADM4_EN": "Karnahorove", "ADM4_UA": "Карнагорове", "ADM4_PCODE": "UA5102003009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezivska", "ADM3_UA": "Березівська", "ADM3_PCODE": "UA5102003", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.879115999000078, 47.119201 ], [ 30.874738, 47.120084 ], [ 30.867961, 47.117189 ], [ 30.867193001000032, 47.11445 ], [ 30.872038, 47.112382 ], [ 30.873682, 47.106068999000058 ], [ 30.88044, 47.107305 ], [ 30.878611, 47.114408 ], [ 30.879115999000078, 47.119201 ] ] ] } }
+]
+}

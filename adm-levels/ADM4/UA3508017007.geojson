@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.074906162807000007, "Shape_Area": 0.00022061752783100001, "ADM4_EN": "Ozera", "ADM4_UA": "Озера", "ADM4_PCODE": "UA3508017007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Svitlovodska", "ADM3_UA": "Світловодська", "ADM3_PCODE": "UA3508017", "ADM2_EN": "Oleksandriiskyi", "ADM2_UA": "Олександрійський", "ADM2_PCODE": "UA3508", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.180909, 48.889324 ], [ 33.177451, 48.888973 ], [ 33.177031, 48.883743 ], [ 33.169322, 48.882446 ], [ 33.165574001000039, 48.880457 ], [ 33.16692099900007, 48.877496 ], [ 33.176837, 48.878382 ], [ 33.177447, 48.875589 ], [ 33.187874, 48.876697 ], [ 33.192107001000068, 48.879597 ], [ 33.189645, 48.889213 ], [ 33.180909, 48.889324 ] ] ] } }
+]
+}

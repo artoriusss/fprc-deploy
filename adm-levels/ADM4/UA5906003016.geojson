@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.097982252864999994, "Shape_Area": 0.00012980292767300001, "ADM4_EN": "Saieve", "ADM4_UA": "Саєве", "ADM4_PCODE": "UA5906003016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vilshanska", "ADM3_UA": "Вільшанська", "ADM3_PCODE": "UA5906003", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.140216, 50.75548 ], [ 34.141607001000068, 50.758587 ], [ 34.137844001000076, 50.759558 ], [ 34.13686, 50.753187 ], [ 34.139188999000055, 50.750658 ], [ 34.147454, 50.745987 ], [ 34.14887, 50.749246 ], [ 34.152455, 50.752677 ], [ 34.155856999000036, 50.751318 ], [ 34.157488999000066, 50.755131 ], [ 34.153619, 50.756551 ], [ 34.145588, 50.753323 ], [ 34.140216, 50.75548 ] ] ] } }
+]
+}

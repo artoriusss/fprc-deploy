@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0423420810795, "Shape_Area": 7.3178295288900004e-05, "ADM4_EN": "Pedorychi", "ADM4_UA": "Педоричі", "ADM4_PCODE": "UA5306005015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykobudyshchanska", "ADM3_UA": "Великобудищанська", "ADM3_PCODE": "UA5306005", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.281918001000065, 50.413221 ], [ 34.278474, 50.410983 ], [ 34.27514, 50.411155 ], [ 34.274055, 50.406545 ], [ 34.287066, 50.406241 ], [ 34.286720031000073, 50.413183169000035 ], [ 34.281918001000065, 50.413221 ] ] ] } }
+]
+}

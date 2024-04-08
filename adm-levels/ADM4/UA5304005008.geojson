@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.12729066636, "Shape_Area": 9.3655051194000005e-05, "ADM4_EN": "Horobii", "ADM4_UA": "Горобії", "ADM4_PCODE": "UA5304005008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoorzhytska", "ADM3_UA": "Новооржицька", "ADM3_PCODE": "UA5304005", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.835024967000038, 50.163918636000062 ], [ 32.841123999000047, 50.163654 ], [ 32.850701, 50.165402 ], [ 32.856105, 50.16371 ], [ 32.859257, 50.164363 ], [ 32.86386200100003, 50.162282 ], [ 32.869881, 50.161446 ], [ 32.87481, 50.162663 ], [ 32.874257028000045, 50.16495156700006 ], [ 32.864257069000075, 50.164461402000029 ], [ 32.854041, 50.165478 ], [ 32.852983, 50.167366 ], [ 32.835024967000038, 50.163918636000062 ] ] ] } }
+]
+}

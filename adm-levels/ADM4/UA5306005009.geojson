@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.043872404134600002, "Shape_Area": 9.9603649015899998e-05, "ADM4_EN": "Duchyntsi", "ADM4_UA": "Дучинці", "ADM4_PCODE": "UA5306005009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykobudyshchanska", "ADM3_UA": "Великобудищанська", "ADM3_PCODE": "UA5306005", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.158237099000075, 50.41994117400003 ], [ 34.15619, 50.421434 ], [ 34.152087448000032, 50.419501002000061 ], [ 34.147835974000031, 50.41471430200005 ], [ 34.156239999000036, 50.409053 ], [ 34.160681, 50.412413 ], [ 34.162174999000058, 50.416021 ], [ 34.158237099000075, 50.41994117400003 ] ] ] } }
+]
+}

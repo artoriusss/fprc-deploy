@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.076020431821100007, "Shape_Area": 0.000106110561443, "ADM4_EN": "Matviivka", "ADM4_UA": "Матвіївка", "ADM4_PCODE": "UA7104015011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novodmytrivska", "ADM3_UA": "Новодмитрівська", "ADM3_PCODE": "UA7104015", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.779771592000031, 49.655017860000044 ], [ 31.775393455000028, 49.654561598000043 ], [ 31.773173161000045, 49.659579483000073 ], [ 31.769142, 49.656724 ], [ 31.775263, 49.653399 ], [ 31.777428, 49.64954 ], [ 31.788127, 49.644511 ], [ 31.792644, 49.647947 ], [ 31.784113160000061, 49.649542481000026 ], [ 31.779771592000031, 49.655017860000044 ] ] ] } }
+]
+}

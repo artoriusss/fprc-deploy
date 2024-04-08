@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10496054890299999, "Shape_Area": 0.000164833845175, "ADM4_EN": "Mykhailivka", "ADM4_UA": "Михайлівка", "ADM4_PCODE": "UA5308005032", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dykanska", "ADM3_UA": "Диканська", "ADM3_PCODE": "UA5308005", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.610602999000037, 49.797332 ], [ 34.607116, 49.797027 ], [ 34.604261, 49.78995 ], [ 34.606428, 49.788918 ], [ 34.603602, 49.783974 ], [ 34.604325, 49.7793 ], [ 34.603218999000035, 49.776883 ], [ 34.597264, 49.775843 ], [ 34.600933999000063, 49.772592 ], [ 34.608964, 49.771949 ], [ 34.609537, 49.774287 ], [ 34.607788001000074, 49.779071 ], [ 34.610469, 49.780806 ], [ 34.609611001000076, 49.785055 ], [ 34.612518, 49.792602 ], [ 34.610602999000037, 49.797332 ] ] ] } }
+]
+}

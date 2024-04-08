@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.081490653577100003, "Shape_Area": 0.000126500599697, "ADM4_EN": "Malashivtsi", "ADM4_UA": "Малашівці", "ADM4_PCODE": "UA6104049008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ternopilska", "ADM3_UA": "Тернопільська", "ADM3_PCODE": "UA6104049", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.496715427000026, 49.677724632000036 ], [ 25.487476614000059, 49.678064802000051 ], [ 25.488581, 49.672986 ], [ 25.491383, 49.668994 ], [ 25.498817390000056, 49.663561879000042 ], [ 25.500797548000037, 49.666853381000067 ], [ 25.497433001000047, 49.671727 ], [ 25.496715427000026, 49.677724632000036 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.045480047897399997, "Shape_Area": 4.9541469498799998e-05, "ADM4_EN": "Bolohivka", "ADM4_UA": "Бологівка", "ADM4_PCODE": "UA6308005004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dvorichanska", "ADM3_UA": "Дворічанська", "ADM3_PCODE": "UA6308005", "ADM2_EN": "Kupianskyi", "ADM2_UA": "Куп'янський", "ADM2_PCODE": "UA6308", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.803222, 50.056901 ], [ 37.798893999000029, 50.056358 ], [ 37.798968001000048, 50.053886 ], [ 37.811915, 50.05218 ], [ 37.811515, 50.055063 ], [ 37.807027001000051, 50.056971 ], [ 37.803222, 50.056901 ] ] ] } }
+]
+}

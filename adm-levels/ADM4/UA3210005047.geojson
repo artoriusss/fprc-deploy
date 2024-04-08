@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.087566520258700001, "Shape_Area": 0.000114344157178, "ADM4_EN": "Pisky", "ADM4_UA": "Піски", "ADM4_PCODE": "UA3210005047", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivankivska", "ADM3_UA": "Іванківська", "ADM3_PCODE": "UA3210005", "ADM2_EN": "Vyshhorodskyi", "ADM2_UA": "Вишгородський", "ADM2_PCODE": "UA3210", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.048801881000031, 51.095677609000063 ], [ 30.041310895000038, 51.091406659000029 ], [ 30.03556788800006, 51.091862616000071 ], [ 30.024371908000035, 51.091163642000026 ], [ 30.019409864000068, 51.09173861000005 ], [ 30.019280866000031, 51.08923664100007 ], [ 30.026918903000023, 51.087971692000053 ], [ 30.042198952000035, 51.088161654000032 ], [ 30.048071943000025, 51.091250624000054 ], [ 30.048801881000031, 51.095677609000063 ] ] ] } }
+]
+}

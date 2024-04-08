@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.071729661971100006, "Shape_Area": 0.000114316506624, "ADM4_EN": "Bobyne", "ADM4_UA": "Бобине", "ADM4_PCODE": "UA5902015003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Putyvlska", "ADM3_UA": "Путивльська", "ADM3_PCODE": "UA5902015", "ADM2_EN": "Konotopskyi", "ADM2_UA": "Конотопський", "ADM2_PCODE": "UA5902", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.889911, 51.359859 ], [ 33.884053, 51.358883 ], [ 33.884760001000075, 51.356508 ], [ 33.882197, 51.353107 ], [ 33.892099, 51.354934 ], [ 33.894076, 51.352696 ], [ 33.898163001000057, 51.351996 ], [ 33.907036, 51.356944001000045 ], [ 33.905275, 51.358676 ], [ 33.894369, 51.358556 ], [ 33.889911, 51.359859 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.061801688303500003, "Shape_Area": 7.8322825744600003e-05, "ADM4_EN": "Sokyrykha", "ADM4_UA": "Сокириха", "ADM4_PCODE": "UA5306019036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lokhvytska", "ADM3_UA": "Лохвицька", "ADM3_PCODE": "UA5306019", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.097511, 50.398018 ], [ 33.095345, 50.398506 ], [ 33.087755, 50.397 ], [ 33.091043999000078, 50.393409 ], [ 33.107276, 50.393616 ], [ 33.100102, 50.39568 ], [ 33.097511, 50.398018 ] ] ] } }
+]
+}

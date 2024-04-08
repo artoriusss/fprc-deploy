@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.087038979369399999, "Shape_Area": 0.00014445214663, "ADM4_EN": "Kozachky", "ADM4_UA": "Козачки", "ADM4_PCODE": "UA6102009017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lanovetska", "ADM3_UA": "Лановецька", "ADM3_PCODE": "UA6102009", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.154963357000042, 49.859543793000057 ], [ 26.149057, 49.856027 ], [ 26.144515583000043, 49.855448370000033 ], [ 26.152768527000035, 49.850644429000056 ], [ 26.158349772000065, 49.852122105000035 ], [ 26.162577533000047, 49.849557232000052 ], [ 26.169750209000028, 49.850270581000075 ], [ 26.169310890000077, 49.853120798000077 ], [ 26.154963357000042, 49.859543793000057 ] ] ] } }
+]
+}

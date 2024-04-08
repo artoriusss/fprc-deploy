@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.053322825299099999, "Shape_Area": 0.000133590776829, "ADM4_EN": "Nove", "ADM4_UA": "Нове", "ADM4_PCODE": "UA2308011001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novenska", "ADM3_UA": "Новенська", "ADM3_PCODE": "UA2308011", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "Мелітопольський", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.290113928000039, 46.786145163000072 ], [ 35.276396394000074, 46.790365010000073 ], [ 35.273057727000037, 46.785343734000037 ], [ 35.271673236000026, 46.78024842800005 ], [ 35.278568882000059, 46.778203001000065 ], [ 35.290113928000039, 46.786145163000072 ] ] ] } }
+]
+}

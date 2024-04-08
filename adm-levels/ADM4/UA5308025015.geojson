@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.084143538289799993, "Shape_Area": 0.00020614585454200001, "ADM4_EN": "Novyi Tahamlyk", "ADM4_UA": "Новий Тагамлик", "ADM4_PCODE": "UA5308025015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mashivska", "ADM3_UA": "Машівська", "ADM3_PCODE": "UA5308025", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.684665, 49.438501 ], [ 34.695164, 49.437205 ], [ 34.699563001000058, 49.439228 ], [ 34.709487999000032, 49.436925 ], [ 34.714977, 49.440158 ], [ 34.719433, 49.444216 ], [ 34.718341001000056, 49.447088 ], [ 34.71247, 49.447793 ], [ 34.704835, 49.445388 ], [ 34.69967, 49.445543 ], [ 34.69865, 49.442784 ], [ 34.689663, 49.442885 ], [ 34.685598, 49.440325 ], [ 34.684665, 49.438501 ] ] ] } }
+]
+}

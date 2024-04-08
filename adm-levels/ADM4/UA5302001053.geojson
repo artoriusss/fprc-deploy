@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10079409603099999, "Shape_Area": 0.00017597692800099999, "ADM4_EN": "Semymohyly", "ADM4_UA": "Семимогили", "ADM4_PCODE": "UA5302001053", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hlobynska", "ADM3_UA": "Глобинська", "ADM3_PCODE": "UA5302001", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.370822001000079, 49.430241 ], [ 33.367945999000028, 49.428066 ], [ 33.367825999000047, 49.419238 ], [ 33.369482, 49.414967 ], [ 33.378843001000064, 49.40917 ], [ 33.382156, 49.411207 ], [ 33.381202001000077, 49.417385 ], [ 33.381816, 49.421452 ], [ 33.37781, 49.421756 ], [ 33.373444999000071, 49.430155 ], [ 33.370822001000079, 49.430241 ] ] ] } }
+]
+}

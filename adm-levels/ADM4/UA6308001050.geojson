@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.084161849533999994, "Shape_Area": 0.00013282937877400001, "ADM4_EN": "Chervona Khvylia", "ADM4_UA": "Червона Хвиля", "ADM4_PCODE": "UA6308001050", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykoburlutska", "ADM3_UA": "Великобурлуцька", "ADM3_PCODE": "UA6308001", "ADM2_EN": "Kupianskyi", "ADM2_UA": "Куп'янський", "ADM2_PCODE": "UA6308", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 37.321704, 49.98228 ], [ 37.321509, 49.976141 ], [ 37.320052, 49.972538 ], [ 37.322090001000049, 49.969715 ], [ 37.333705, 49.969194 ], [ 37.333196001000033, 49.973104 ], [ 37.328767, 49.976608 ], [ 37.322554999000033, 49.977744 ], [ 37.321704, 49.98228 ] ] ], [ [ [ 37.245449, 49.912977 ], [ 37.245137001000046, 49.916903 ], [ 37.238032, 49.916918 ], [ 37.237410001000057, 49.913461 ], [ 37.245449, 49.912977 ] ] ] ] } }
+]
+}

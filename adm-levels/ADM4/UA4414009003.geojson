@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.09642738307, "Shape_Area": 0.000154752173845, "ADM4_EN": "Hanusivka", "ADM4_UA": "Ганусівка", "ADM4_PCODE": "UA4414009003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novopskovska", "ADM3_UA": "Новопсковська", "ADM3_PCODE": "UA4414009", "ADM2_EN": "Starobilskyi", "ADM2_UA": "Старобільський", "ADM2_PCODE": "UA4414", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.365207999000063, 49.709653 ], [ 39.36520899900006, 49.705741 ], [ 39.362386001000061, 49.702887 ], [ 39.370064, 49.697908 ], [ 39.372419999000044, 49.698291 ], [ 39.380252, 49.708462 ], [ 39.371223001000033, 49.707529 ], [ 39.365207999000063, 49.709653 ] ] ] } }
+]
+}

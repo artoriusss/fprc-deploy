@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.051784336886200003, "Shape_Area": 8.6479127927300002e-05, "ADM4_EN": "Volytsia", "ADM4_UA": "Волиця", "ADM4_PCODE": "UA6102011004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lopushnenska", "ADM3_UA": "Лопушненська", "ADM3_PCODE": "UA6102011", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.487893, 49.890603 ], [ 25.471444362000057, 49.892609300000061 ], [ 25.469619701000056, 49.887967181000079 ], [ 25.473743887000069, 49.885347961000036 ], [ 25.477883, 49.887173 ], [ 25.486454317000039, 49.885541578000073 ], [ 25.487734834000037, 49.887058719000038 ], [ 25.487893, 49.890603 ] ] ] } }
+]
+}

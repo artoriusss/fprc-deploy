@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.087662894398299995, "Shape_Area": 0.0002248118607, "ADM4_EN": "Brovarky", "ADM4_UA": "Броварки", "ADM4_PCODE": "UA5306005004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykobudyshchanska", "ADM3_UA": "Великобудищанська", "ADM3_PCODE": "UA5306005", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.06289388600004, 50.40157500600003 ], [ 34.057884, 50.39994 ], [ 34.046804, 50.400783 ], [ 34.045935, 50.398659 ], [ 34.037454, 50.39844 ], [ 34.037399225000058, 50.396191427000076 ], [ 34.052693773000044, 50.392594058000043 ], [ 34.06395585100006, 50.391216326000063 ], [ 34.071596999000064, 50.394987 ], [ 34.068542001000026, 50.39832 ], [ 34.061361223000063, 50.39949960000007 ], [ 34.06289388600004, 50.40157500600003 ] ] ] } }
+]
+}

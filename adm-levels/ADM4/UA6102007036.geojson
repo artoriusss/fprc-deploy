@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.15708053217199999, "Shape_Area": 0.000182761064141, "ADM4_EN": "Popivtsi", "ADM4_UA": "Попівці", "ADM4_PCODE": "UA6102007036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kremenetska", "ADM3_UA": "Кременецька", "ADM3_PCODE": "UA6102007", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.639963, 50.011989 ], [ 25.638427, 50.011769 ], [ 25.642888, 50.008345 ], [ 25.638255999000023, 50.00576 ], [ 25.631639001000053, 50.008481001000064 ], [ 25.631354999000052, 50.002702 ], [ 25.637462, 50.002945 ], [ 25.642584, 49.996911 ], [ 25.649619001000076, 49.996112 ], [ 25.65307, 49.997985 ], [ 25.646902, 50.000898 ], [ 25.64646699900004, 50.005335 ], [ 25.648213, 50.00764 ], [ 25.639963, 50.011989 ] ] ] } }
+]
+}

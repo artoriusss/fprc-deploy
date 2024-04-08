@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.083097303388400004, "Shape_Area": 0.000105343297747, "ADM4_EN": "Kamianyi Mist", "ADM4_UA": "Кам'яний Міст", "ADM4_PCODE": "UA3506015008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoukrainska", "ADM3_UA": "Новоукраїнська", "ADM3_PCODE": "UA3506015", "ADM2_EN": "Novoukrainskyi", "ADM2_UA": "Новоукраїнський", "ADM2_PCODE": "UA3506", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.548362894000036, 48.410857518000057 ], [ 31.545403, 48.417951 ], [ 31.542216, 48.418076 ], [ 31.544237001000056, 48.412651 ], [ 31.538367, 48.412447 ], [ 31.533869, 48.409485 ], [ 31.544572, 48.410185 ], [ 31.545084, 48.405747 ], [ 31.547084, 48.402317 ], [ 31.551699, 48.402436 ], [ 31.551801001000058, 48.407493 ], [ 31.548362894000036, 48.410857518000057 ] ] ] } }
+]
+}

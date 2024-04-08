@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.032462622921800001, "Shape_Area": 5.26135488829e-05, "ADM4_EN": "Huta Obedynska", "ADM4_UA": "Гута Обединська", "ADM4_PCODE": "UA4606039013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rava-Ruska", "ADM3_UA": "Рава-Руська", "ADM3_PCODE": "UA4606039", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.511539357000061, 50.164614014000051 ], [ 23.511971358000039, 50.170579013000065 ], [ 23.506668359000059, 50.171298013000069 ], [ 23.502691361000075, 50.168137013000035 ], [ 23.502599359000044, 50.164573013000052 ], [ 23.510968357000024, 50.163461013000074 ], [ 23.511539357000061, 50.164614014000051 ] ] ] } }
+]
+}

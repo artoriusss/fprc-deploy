@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.032388436258600002, "Shape_Area": 1.4415950691299999e-05, "ADM4_EN": "Verkhivske", "ADM4_UA": "ÐÐµÑÑÑÐ²ÑÑÐºÐµ", "ADM4_RU": "ÐÐµÑÑÐ¾Ð²ÑÐºÐ¾Ðµ", "ADM4_PCODE": "UA0504015010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Obodivska", "ADM3_UA": "ÐÐ±Ð¾Ð´ÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ±Ð¾Ð´Ð¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA0504015", "ADM2_EN": "Haisynskyi", "ADM2_UA": "ÐÐ°Ð¹ÑÐ¸Ð½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ°Ð¹ÑÐ¸Ð½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA0504", "ADM1_EN": "Vinnytska", "ADM1_UA": "ÐÑÐ½Ð½Ð¸ÑÑÐºÐ°", "ADM1_RU": "ÐÐ¸Ð½Ð½Ð¸ÑÐºÐ°Ñ", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.115267999000025, 48.433393 ], [ 29.119406, 48.432876 ], [ 29.123374, 48.433045 ], [ 29.124691, 48.433146 ], [ 29.130551, 48.431821 ], [ 29.130466001000059, 48.431012 ], [ 29.123948001000031, 48.432079 ], [ 29.123374, 48.432124 ], [ 29.119219999000052, 48.431966 ], [ 29.115302, 48.432595 ], [ 29.115267999000025, 48.433393 ] ] ] } }
-]
-}

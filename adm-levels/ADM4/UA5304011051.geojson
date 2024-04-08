@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.127366231858, "Shape_Area": 0.00021802242505200001, "ADM4_EN": "Meliushky", "ADM4_UA": "Мелюшки", "ADM4_PCODE": "UA5304011051", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khorolska", "ADM3_UA": "Хорольська", "ADM3_PCODE": "UA5304011", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.455882, 49.844227 ], [ 33.453546999000025, 49.848734 ], [ 33.445459, 49.84655 ], [ 33.451568, 49.839672 ], [ 33.456262, 49.839589 ], [ 33.463497, 49.836369 ], [ 33.462865001000068, 49.832397 ], [ 33.471895, 49.834076 ], [ 33.470188, 49.830016 ], [ 33.486036001000059, 49.844544 ], [ 33.481354, 49.844736 ], [ 33.473036, 49.840315 ], [ 33.465114, 49.839223 ], [ 33.460968, 49.840437 ], [ 33.455882, 49.844227 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.126673469087, "Shape_Area": 0.000375646138322, "ADM4_EN": "Trudove", "ADM4_UA": "Трудове", "ADM4_PCODE": "UA5108005008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kiliiska", "ADM3_UA": "Кілійська", "ADM3_PCODE": "UA5108005", "ADM2_EN": "Izmailskyi", "ADM2_UA": "Ізмаїльський", "ADM2_PCODE": "UA5108", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.396556, 45.631338 ], [ 29.386992, 45.629802 ], [ 29.388119, 45.623656 ], [ 29.386959, 45.619397 ], [ 29.382677, 45.618809 ], [ 29.382491, 45.616036 ], [ 29.387527999000042, 45.616703 ], [ 29.389305, 45.608875 ], [ 29.392901, 45.609282 ], [ 29.391902, 45.613506 ], [ 29.394331, 45.617632 ], [ 29.3983, 45.612163 ], [ 29.400285999000062, 45.612071 ], [ 29.403322, 45.60467 ], [ 29.410527, 45.605989 ], [ 29.402391001000069, 45.628458 ], [ 29.39807, 45.628579 ], [ 29.396556, 45.631338 ] ] ] } }
+]
+}

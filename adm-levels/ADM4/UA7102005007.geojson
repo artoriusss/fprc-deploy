@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.068665321307899999, "Shape_Area": 0.00028896438293100001, "ADM4_EN": "Tovsti Rohy", "ADM4_UA": "Товсті Роги", "ADM4_PCODE": "UA7102005007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vynohradska", "ADM3_UA": "Виноградська", "ADM3_PCODE": "UA7102005", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.568619, 49.220334 ], [ 30.571678, 49.220474 ], [ 30.586376, 49.223503 ], [ 30.589075001000026, 49.231776 ], [ 30.582046001000037, 49.233252 ], [ 30.580517, 49.236749 ], [ 30.571721, 49.23652 ], [ 30.567316, 49.232961 ], [ 30.564634, 49.220942 ], [ 30.568619, 49.220334 ] ] ] } }
+]
+}

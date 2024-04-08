@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.052285180701299998, "Shape_Area": 9.55998518991e-05, "ADM4_EN": "Bereheli", "ADM4_UA": "Берегелі", "ADM4_PCODE": "UA6804021003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasylivska", "ADM3_UA": "Красилівська", "ADM3_PCODE": "UA6804021", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.171766, 49.578116 ], [ 27.168350466000049, 49.583698377000076 ], [ 27.161664001000076, 49.580708 ], [ 27.153698, 49.578685 ], [ 27.155836, 49.574318 ], [ 27.159652402000063, 49.573640968000063 ], [ 27.164930864000041, 49.575405197000066 ], [ 27.164936001000058, 49.577884 ], [ 27.171766, 49.578116 ] ] ] } }
+]
+}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.019884319113699998, "Shape_Area": 2.69104625955e-05, "ADM4_EN": "Mali Kozuby", "ADM4_UA": "ÐÐ°Ð»Ñ ÐÐ¾Ð·ÑÐ±Ð¸", "ADM4_RU": "ÐÐ°Ð»ÑÐµ ÐÐ¾Ð·ÑÐ±Ñ", "ADM4_PCODE": "UA5308023014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Machukhivska", "ADM3_UA": "ÐÐ°ÑÑÑÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ°ÑÐµÑÐ¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA5308023", "ADM2_EN": "Poltavskyi", "ADM2_UA": "ÐÐ¾Ð»ÑÐ°Ð²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¾Ð»ÑÐ°Ð²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "ÐÐ¾Ð»ÑÐ°Ð²ÑÑÐºÐ°", "ADM1_RU": "ÐÐ¾Ð»ÑÐ°Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.331094001000054, 49.498185 ], [ 34.331002999000077, 49.496413 ], [ 34.32901, 49.496435 ], [ 34.327541001000043, 49.496291 ], [ 34.327352, 49.496608 ], [ 34.325499, 49.499378 ], [ 34.325504, 49.501052 ], [ 34.325971, 49.501927 ], [ 34.3276, 49.502367 ], [ 34.329084, 49.502753 ], [ 34.330884, 49.499527 ], [ 34.331094001000054, 49.498185 ] ] ] } }
-]
-}

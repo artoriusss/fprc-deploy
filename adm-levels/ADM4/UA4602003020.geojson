@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.034745658712999998, "Shape_Area": 4.2336780194900001e-05, "ADM4_EN": "Monastyr-Lishnianskyi", "ADM4_UA": "Монастир-Лішнянський", "ADM4_PCODE": "UA4602003020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Drohobytska", "ADM3_UA": "Дрогобицька", "ADM3_PCODE": "UA4602003", "ADM2_EN": "Drohobytskyi", "ADM2_UA": "Дрогобицький", "ADM2_PCODE": "UA4602", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.434499370000026, 49.38499601400008 ], [ 23.431737369000075, 49.386762014000055 ], [ 23.426262373000043, 49.383787014000063 ], [ 23.428186372000027, 49.381792014000041 ], [ 23.433820369000046, 49.382255014000066 ], [ 23.434499370000026, 49.38499601400008 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0586436797291, "Shape_Area": 0.000153366369855, "ADM4_EN": "Kulyshivka", "ADM4_UA": "Кулишівка", "ADM4_PCODE": "UA7408001014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Varvynska", "ADM3_UA": "Варвинська", "ADM3_PCODE": "UA7408001", "ADM2_EN": "Prylutskyi", "ADM2_UA": "Прилуцький", "ADM2_PCODE": "UA7408", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.542625160000057, 50.467535010000063 ], [ 32.538956040000073, 50.468206050000049 ], [ 32.533071120000045, 50.467170960000033 ], [ 32.526957960000061, 50.461252020000074 ], [ 32.531073840000033, 50.456365020000078 ], [ 32.544658080000033, 50.457483990000071 ], [ 32.543651160000024, 50.46609699000004 ], [ 32.542625160000057, 50.467535010000063 ] ] ] } }
+]
+}

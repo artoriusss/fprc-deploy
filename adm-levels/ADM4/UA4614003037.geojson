@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.043954851327500002, "Shape_Area": 6.1240744074900005e-05, "ADM4_EN": "Nihovychi", "ADM4_UA": "Ніговичі", "ADM4_PCODE": "UA4614003037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mostyska", "ADM3_UA": "Мостиська", "ADM3_PCODE": "UA4614003", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.25833644100004, 49.666522017000034 ], [ 23.256176441000036, 49.668964017000064 ], [ 23.247611444000029, 49.669314017000033 ], [ 23.242455447000054, 49.666468017000057 ], [ 23.249463442000035, 49.664052017000074 ], [ 23.254899441000077, 49.663268017000064 ], [ 23.25833644100004, 49.666522017000034 ] ] ] } }
+]
+}

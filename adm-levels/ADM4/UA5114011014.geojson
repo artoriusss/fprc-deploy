@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.086286266334899997, "Shape_Area": 0.000262192853303, "ADM4_EN": "Polishpakove", "ADM4_UA": "Полішпакове", "ADM4_PCODE": "UA5114011014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoborysivska", "ADM3_UA": "Новоборисівська", "ADM3_PCODE": "UA5114011", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.057108001000074, 47.052409 ], [ 30.048959, 47.051976 ], [ 30.051288999000064, 47.047663 ], [ 30.056918, 47.033337 ], [ 30.059602, 47.032904 ], [ 30.062815, 47.023212 ], [ 30.070107, 47.024269 ], [ 30.060376001000066, 47.051348 ], [ 30.057108001000074, 47.052409 ] ] ] } }
+]
+}

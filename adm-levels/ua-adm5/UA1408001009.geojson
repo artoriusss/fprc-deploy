@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.022894264781800001, "Shape_Area": 1.78236029625e-05, "ADM4_EN": "Verkhnoielanchyk", "ADM4_UA": "ÐÐµÑÑÐ½ÑÐ¾ÑÐ»Ð°Ð½ÑÐ¸Ðº", "ADM4_RU": "ÐÐµÑÑÐ½ÐµÐµÐ»Ð°Ð½ÑÐ¸Ðº", "ADM4_PCODE": "UA1408001009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Amvrosiivska", "ADM3_UA": "ÐÐ¼Ð²ÑÐ¾ÑÑÑÐ²ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¼Ð²ÑÐ¾ÑÐ¸ÐµÐ²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA1408001", "ADM2_EN": "Donetskyi", "ADM2_UA": "ÐÐ¾Ð½ÐµÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ¾Ð½ÐµÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA1408", "ADM1_EN": "Donetska", "ADM1_UA": "ÐÐ¾Ð½ÐµÑÑÐºÐ°", "ADM1_RU": "ÐÐ¾Ð½ÐµÑÐºÐ°Ñ", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.44660699700006, 47.761388 ], [ 38.444946998000034, 47.758876 ], [ 38.444096997000031, 47.757591 ], [ 38.439623998000059, 47.758374 ], [ 38.439675998000041, 47.758464 ], [ 38.441074997000044, 47.760358 ], [ 38.43885399800007, 47.76096 ], [ 38.439263997000069, 47.761582 ], [ 38.441488998000068, 47.760973 ], [ 38.443187998000042, 47.76051 ], [ 38.444227998000031, 47.761958 ], [ 38.44660699700006, 47.761388 ] ] ] } }
-]
-}

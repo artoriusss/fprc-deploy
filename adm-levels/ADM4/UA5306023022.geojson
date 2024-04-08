@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.078496728709399999, "Shape_Area": 0.000189182318859, "ADM4_EN": "Maltsi", "ADM4_UA": "Мальці", "ADM4_PCODE": "UA5306023022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myrhorodska", "ADM3_UA": "Миргородська", "ADM3_PCODE": "UA5306023", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.465427, 49.905184 ], [ 33.460943, 49.903427 ], [ 33.460622001000047, 49.901112 ], [ 33.452487, 49.893399 ], [ 33.448787, 49.886111 ], [ 33.450508, 49.884744 ], [ 33.460933, 49.888548 ], [ 33.468012, 49.889635 ], [ 33.464834001000042, 49.897665 ], [ 33.462326, 49.899958 ], [ 33.465692001000036, 49.902406 ], [ 33.465427, 49.905184 ] ] ] } }
+]
+}

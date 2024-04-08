@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.049968891254200003, "Shape_Area": 3.14662607336e-05, "ADM4_EN": "Stara Sharpivka", "ADM4_UA": "Стара Шарпівка", "ADM4_PCODE": "UA5902015045", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Putyvlska", "ADM3_UA": "Путивльська", "ADM3_PCODE": "UA5902015", "ADM2_EN": "Konotopskyi", "ADM2_UA": "Конотопський", "ADM2_PCODE": "UA5902", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.715426, 51.412117 ], [ 33.713499001000059, 51.409924 ], [ 33.718842, 51.409705 ], [ 33.720562, 51.410495 ], [ 33.725756, 51.410287 ], [ 33.725845, 51.411238 ], [ 33.715453999000033, 51.41149 ], [ 33.715426, 51.412117 ] ] ] } }
+]
+}

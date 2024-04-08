@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13665426721900001, "Shape_Area": 0.000417571666849, "ADM4_EN": "Hruzevytsia", "ADM4_UA": "Грузевиця", "ADM4_PCODE": "UA6804049006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chornoostrivska", "ADM3_UA": "Чорноострівська", "ADM3_PCODE": "UA6804049", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.810045999000067, 49.484353 ], [ 26.801816, 49.482242 ], [ 26.803765, 49.479848 ], [ 26.811571, 49.479097 ], [ 26.82184600100004, 49.479756 ], [ 26.814935001000038, 49.475538 ], [ 26.817448999000078, 49.471874 ], [ 26.827275001000032, 49.468438 ], [ 26.834415, 49.467052 ], [ 26.841381999000077, 49.469186 ], [ 26.847854, 49.475533 ], [ 26.836766, 49.478498 ], [ 26.830993, 49.482332 ], [ 26.824557001000073, 49.48372 ], [ 26.82157, 49.482992 ], [ 26.810045999000067, 49.484353 ] ] ] } }
+]
+}

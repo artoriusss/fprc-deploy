@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.093385492837200004, "Shape_Area": 0.000176763499747, "ADM4_EN": "Oleksyntsi", "ADM4_UA": "Олексинці", "ADM4_PCODE": "UA6106003005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilche-Zolotetska", "ADM3_UA": "Більче-Золотецька", "ADM3_PCODE": "UA6106003", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.836966509000035, 48.806240090000074 ], [ 25.829543639000065, 48.809055940000064 ], [ 25.829782163000061, 48.803005164000069 ], [ 25.840101, 48.798314 ], [ 25.845890952000047, 48.80157087300006 ], [ 25.848215008000068, 48.799470632000066 ], [ 25.853481, 48.799425 ], [ 25.856251421000024, 48.800735825000061 ], [ 25.844786638000073, 48.808381193000059 ], [ 25.841278553000052, 48.808948429000054 ], [ 25.836966509000035, 48.806240090000074 ] ] ] } }
+]
+}

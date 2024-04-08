@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.089343479607099999, "Shape_Area": 0.00025715627011299998, "ADM4_EN": "Shevchenkove", "ADM4_UA": "Шевченкове", "ADM4_PCODE": "UA3204017016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tashanska", "ADM3_UA": "Ташанська", "ADM3_PCODE": "UA3204017", "ADM2_EN": "Boryspilskyi", "ADM2_UA": "Бориспільський", "ADM2_PCODE": "UA3204", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.762204512000039, 50.059228166000025 ], [ 31.761882005000075, 50.060107218000041 ], [ 31.751701532000027, 50.058874224000078 ], [ 31.749341525000034, 50.059837198000082 ], [ 31.753243541000074, 50.048317250000082 ], [ 31.750162505000048, 50.046618221000074 ], [ 31.750629513000035, 50.040408243000059 ], [ 31.764913492000062, 50.040689201000077 ], [ 31.764736474000074, 50.051795214000038 ], [ 31.762204512000039, 50.059228166000025 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.078901190561099996, "Shape_Area": 0.00018363111754100001, "ADM4_EN": "Krykhivtsi", "ADM4_UA": "Крихівці", "ADM4_PCODE": "UA2604019009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivano-Frankivska", "ADM3_UA": "Івано-Франківська", "ADM3_PCODE": "UA2604019", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.680770399000039, 48.906315433000032 ], [ 24.679643999000064, 48.907756 ], [ 24.668765, 48.906206 ], [ 24.665, 48.900278 ], [ 24.653930634000062, 48.894774236000046 ], [ 24.655612777000044, 48.892045320000079 ], [ 24.656382, 48.891122 ], [ 24.664427, 48.895073 ], [ 24.670617999000058, 48.897163 ], [ 24.672602, 48.896643 ], [ 24.68144, 48.90214 ], [ 24.680716809000046, 48.905864354000073 ], [ 24.680770399000039, 48.906315433000032 ] ] ] } }
+]
+}

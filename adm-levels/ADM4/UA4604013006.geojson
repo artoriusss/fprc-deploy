@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.135728852944, "Shape_Area": 0.00014468648787899999, "ADM4_EN": "Koropets", "ADM4_UA": "Коропець", "ADM4_PCODE": "UA4604013006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pomorianska", "ADM3_UA": "Поморянська", "ADM3_PCODE": "UA4604013", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.892094088000079, 49.67150500300005 ], [ 24.885619088000055, 49.673215003000053 ], [ 24.883479088000058, 49.671383003000074 ], [ 24.885845088000053, 49.667657003000045 ], [ 24.88443208800004, 49.657003003000057 ], [ 24.892824087000065, 49.656540003000032 ], [ 24.889452339000059, 49.664289003000079 ], [ 24.892094088000079, 49.67150500300005 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.089972790099900002, "Shape_Area": 8.63236292963e-05, "ADM4_EN": "Yatsyne-Okari", "ADM4_UA": "Яцине-Окарі", "ADM4_PCODE": "UA5308009084", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zinkivska", "ADM3_UA": "Зіньківська", "ADM3_PCODE": "UA5308009", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.391828001000079, 49.999933 ], [ 34.390883, 50.00356 ], [ 34.38556, 50.001628 ], [ 34.385722, 49.999463 ], [ 34.38064, 49.996467 ], [ 34.376621, 49.997049 ], [ 34.375649, 49.99489 ], [ 34.368867494000028, 49.993314393000048 ], [ 34.36804999900005, 49.989149 ], [ 34.37226799900003, 49.988708 ], [ 34.370961, 49.992973 ], [ 34.375830001000054, 49.994278 ], [ 34.380728, 49.993274 ], [ 34.387567, 49.995092 ], [ 34.391828001000079, 49.999933 ] ] ] } }
+]
+}

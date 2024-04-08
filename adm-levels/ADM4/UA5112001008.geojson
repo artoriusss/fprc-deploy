@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0735039642721, "Shape_Area": 0.00014741510130799999, "ADM4_EN": "Velykoboiarka", "ADM4_UA": "Великобоярка", "ADM4_PCODE": "UA5112001008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ananivska", "ADM3_UA": "Ананьївська", "ADM3_PCODE": "UA5112001", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.131304666000062, 47.673965666000072 ], [ 30.118127, 47.677567 ], [ 30.114321, 47.6771 ], [ 30.11259, 47.672999 ], [ 30.120501999000055, 47.672458 ], [ 30.131923, 47.666744 ], [ 30.136365, 47.665784 ], [ 30.141013999000052, 47.669777 ], [ 30.137637999000049, 47.67223 ], [ 30.131304666000062, 47.673965666000072 ] ] ] } }
+]
+}

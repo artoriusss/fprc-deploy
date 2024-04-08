@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.049731545547299999, "Shape_Area": 6.9960982511999996e-05, "ADM4_EN": "Ustynivka", "ADM4_UA": "Устинівка", "ADM4_PCODE": "UA4404001052", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dovzhanska", "ADM3_UA": "Довжанська", "ADM3_PCODE": "UA4404001", "ADM2_EN": "Dovzhanskyi", "ADM2_UA": "Довжанський", "ADM2_PCODE": "UA4404", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.542380372000025, 48.09711463900004 ], [ 39.542596146000051, 48.093304849000049 ], [ 39.545790876000069, 48.091651947000059 ], [ 39.549661105000041, 48.092454392000036 ], [ 39.552501702000029, 48.090276219000032 ], [ 39.556108129000052, 48.096801457000026 ], [ 39.542380372000025, 48.09711463900004 ] ] ] } }
+]
+}

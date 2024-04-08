@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.069280527760500005, "Shape_Area": 0.00016950841071900001, "ADM4_EN": "Pershotravneve", "ADM4_UA": "Першотравневе", "ADM4_PCODE": "UA5308009047", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zinkivska", "ADM3_UA": "Зіньківська", "ADM3_PCODE": "UA5308009", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.521051901000078, 50.244573521000063 ], [ 34.518300552000028, 50.24586425900003 ], [ 34.512546999000051, 50.243573 ], [ 34.507776, 50.243646 ], [ 34.501505999000074, 50.245797 ], [ 34.502545999000063, 50.241836 ], [ 34.506745, 50.24096 ], [ 34.509308999000041, 50.237369 ], [ 34.514912001000027, 50.237648 ], [ 34.527048, 50.234864 ], [ 34.529327999000031, 50.236417 ], [ 34.526287130000071, 50.242720533000067 ], [ 34.521051901000078, 50.244573521000063 ] ] ] } }
+]
+}

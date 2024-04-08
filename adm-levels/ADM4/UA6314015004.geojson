@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.127322658181, "Shape_Area": 0.00036525159279599998, "ADM4_EN": "Hrakove", "ADM4_UA": "Гракове", "ADM4_PCODE": "UA6314015004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chkalovska", "ADM3_UA": "Чкаловська", "ADM3_PCODE": "UA6314015", "ADM2_EN": "Chuhuivskyi", "ADM2_UA": "Чугуївський", "ADM2_PCODE": "UA6314", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.810766001000047, 49.723813 ], [ 36.799208001000068, 49.727209 ], [ 36.789199, 49.728267 ], [ 36.788127, 49.725076 ], [ 36.798030001000029, 49.723626 ], [ 36.803622, 49.716102 ], [ 36.803114, 49.71387 ], [ 36.809816, 49.712086 ], [ 36.815791, 49.713117 ], [ 36.817055999000047, 49.71184 ], [ 36.823397, 49.71415 ], [ 36.829544001000045, 49.713948 ], [ 36.833687, 49.71244 ], [ 36.83785799900005, 49.714876 ], [ 36.824827, 49.719681 ], [ 36.82224, 49.724184 ], [ 36.810766001000047, 49.723813 ] ] ] } }
+]
+}

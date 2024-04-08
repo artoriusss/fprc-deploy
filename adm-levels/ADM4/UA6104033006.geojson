@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.068351213542200001, "Shape_Area": 0.00013748050282400001, "ADM4_EN": "Danylivtsi", "ADM4_UA": "Данилівці", "ADM4_PCODE": "UA6104033006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ozernianska", "ADM3_UA": "Озернянська", "ADM3_PCODE": "UA6104033", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.308021, 49.659666 ], [ 25.305284552000046, 49.664085380000074 ], [ 25.289683053000033, 49.664155676000064 ], [ 25.292032050000046, 49.658669297000074 ], [ 25.298859521000054, 49.659211645000028 ], [ 25.304228052000042, 49.654195314000049 ], [ 25.31008631800006, 49.65450671900004 ], [ 25.313357, 49.65607 ], [ 25.308021, 49.659666 ] ] ] } }
+]
+}

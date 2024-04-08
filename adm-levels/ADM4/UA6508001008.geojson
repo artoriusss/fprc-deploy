@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.111265842041, "Shape_Area": 0.00026945641216300002, "ADM4_EN": "Novochornomoria", "ADM4_UA": "Новочорномор'я", "ADM4_PCODE": "UA6508001008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bekhterska", "ADM3_UA": "Бехтерська", "ADM3_PCODE": "UA6508001", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Скадовський", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.26410099900005, 46.208388 ], [ 32.259309, 46.208018 ], [ 32.242412, 46.193206 ], [ 32.236666, 46.193669 ], [ 32.236702, 46.191219 ], [ 32.246947, 46.190649 ], [ 32.257494999000073, 46.192392 ], [ 32.265977, 46.200902 ], [ 32.264568, 46.203872 ], [ 32.271657001000051, 46.207419 ], [ 32.26410099900005, 46.208388 ] ] ] } }
+]
+}

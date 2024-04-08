@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.05997950259, "Shape_Area": 8.9450576148000002e-05, "ADM4_EN": "Luhy", "ADM4_UA": "Луги", "ADM4_PCODE": "UA2606025003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Spaska", "ADM3_UA": "Спаська", "ADM3_PCODE": "UA2606025", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.028167999000061, 48.84794 ], [ 24.027798, 48.843441 ], [ 24.025925, 48.838883 ], [ 24.023106001000031, 48.836929 ], [ 24.021962001000077, 48.83335 ], [ 24.023453001000064, 48.830656 ], [ 24.030019500000037, 48.839119500000038 ], [ 24.033424, 48.840422 ], [ 24.032887, 48.843198 ], [ 24.034847, 48.846938 ], [ 24.028167999000061, 48.84794 ] ] ] } }
+]
+}

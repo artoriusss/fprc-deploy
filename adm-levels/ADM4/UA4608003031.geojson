@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.046673694729000001, "Shape_Area": 5.7647325121200001e-05, "ADM4_EN": "Shtukovets", "ADM4_UA": "Штуковець", "ADM4_PCODE": "UA4608003031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Borynska", "ADM3_UA": "Боринська", "ADM3_PCODE": "UA4608003", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.032650359000058, 49.057470714000033 ], [ 23.035037522000039, 49.053899021000063 ], [ 23.032859522000024, 49.049959021000063 ], [ 23.03978151900003, 49.051995021000039 ], [ 23.03967152000007, 49.056267021000053 ], [ 23.036964523000051, 49.060198021000076 ], [ 23.034372622000035, 49.060406426000043 ], [ 23.032650359000058, 49.057470714000033 ] ] ] } }
+]
+}

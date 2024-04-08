@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.075893983566399995, "Shape_Area": 6.58593438875e-05, "ADM4_EN": "Yemelivka", "ADM4_UA": "Ємелівка", "ADM4_PCODE": "UA6106025004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kopychynetska", "ADM3_UA": "Копичинецька", "ADM3_PCODE": "UA6106025", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.864857999000037, 49.097878 ], [ 25.857561797000074, 49.09866949600007 ], [ 25.853589690000035, 49.098076746000061 ], [ 25.839954, 49.099428 ], [ 25.838863, 49.097757 ], [ 25.868626937000045, 49.094988670000077 ], [ 25.864857999000037, 49.097878 ] ] ] } }
+]
+}

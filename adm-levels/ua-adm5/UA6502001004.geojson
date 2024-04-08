@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060978814945099998, "Shape_Area": 0.00021403099774899999, "ADM4_EN": "Novosilka", "ADM4_UA": "ÐÐ¾Ð²Ð¾ÑÑÐ»ÐºÐ°", "ADM4_RU": "ÐÐ¾Ð²Ð¾ÑÐµÐ»ÐºÐ°", "ADM4_PCODE": "UA6502001004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Beryslavska", "ADM3_UA": "ÐÐµÑÐ¸ÑÐ»Ð°Ð²ÑÑÐºÐ°", "ADM3_RU": "ÐÐµÑÐ¸ÑÐ»Ð°Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA6502001", "ADM2_EN": "Beryslavskyi", "ADM2_UA": "ÐÐµÑÐ¸ÑÐ»Ð°Ð²ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐµÑÐ¸ÑÐ»Ð°Ð²ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA6502", "ADM1_EN": "Khersonska", "ADM1_UA": "Ð¥ÐµÑÑÐ¾Ð½ÑÑÐºÐ°", "ADM1_RU": "Ð¥ÐµÑÑÐ¾Ð½ÑÐºÐ°Ñ", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.192438, 46.975132 ], [ 33.194161, 46.969305 ], [ 33.195493, 46.964119 ], [ 33.18351, 46.96214 ], [ 33.178431999000054, 46.961634 ], [ 33.175999, 46.968456 ], [ 33.175976001000038, 46.968539 ], [ 33.174293001000024, 46.974541 ], [ 33.179126, 46.974882 ], [ 33.179955, 46.974192 ], [ 33.180520001000048, 46.973627 ], [ 33.187249, 46.974582 ], [ 33.192438, 46.975132 ] ] ] } }
-]
-}

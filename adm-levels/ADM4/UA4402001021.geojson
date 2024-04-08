@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.154741982321, "Shape_Area": 0.00020762140624000001, "ADM4_EN": "Maloivanivka", "ADM4_UA": "Малоіванівка", "ADM4_PCODE": "UA4402001021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Alchevska", "ADM3_UA": "Алчевська", "ADM3_PCODE": "UA4402001", "ADM2_EN": "Alchevskyi", "ADM2_UA": "Алчевський", "ADM2_PCODE": "UA4402", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.646077999000056, 48.38866 ], [ 38.639023, 48.388683 ], [ 38.63325945400004, 48.380830323000055 ], [ 38.640217588000041, 48.379685918000064 ], [ 38.63997, 48.374225 ], [ 38.64393750000005, 48.373474 ], [ 38.645246, 48.375564 ], [ 38.652653, 48.375113 ], [ 38.654884, 48.381823 ], [ 38.647189, 48.382117 ], [ 38.648642, 48.38522 ], [ 38.646077999000056, 48.38866 ] ] ] } }
+]
+}

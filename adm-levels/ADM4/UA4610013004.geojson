@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.078122855906500005, "Shape_Area": 0.00017283800242399999, "ADM4_EN": "Volia-Zaderevatska", "ADM4_UA": "Воля-Задеревацька", "ADM4_PCODE": "UA4610013004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Morshynska", "ADM3_UA": "Моршинська", "ADM3_PCODE": "UA4610013", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.964858221000043, 49.142875009000079 ], [ 23.96781033600007, 49.147198161000063 ], [ 23.964698220000059, 49.150821008000037 ], [ 23.957156222000037, 49.143657009000037 ], [ 23.948638224000035, 49.13939300800007 ], [ 23.948469223000075, 49.136945009000044 ], [ 23.951015222000024, 49.132607008000036 ], [ 23.959751221000033, 49.13504100800003 ], [ 23.958998221000058, 49.137950008000075 ], [ 23.964858221000043, 49.142875009000079 ] ] ] } }
+]
+}

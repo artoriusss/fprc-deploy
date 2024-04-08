@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.066041286215600001, "Shape_Area": 0.000145229958694, "ADM4_EN": "Myrhorodshchyna", "ADM4_UA": "Миргородщина", "ADM4_PCODE": "UA5302009031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozelshchynska", "ADM3_UA": "Козельщинська", "ADM3_PCODE": "UA5302009", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.968608999000026, 49.198698 ], [ 33.970196, 49.205851 ], [ 33.967156, 49.204689 ], [ 33.965677999000036, 49.199897 ], [ 33.957304, 49.198284 ], [ 33.960343999000031, 49.192392 ], [ 33.961137, 49.188306 ], [ 33.966008, 49.187908 ], [ 33.970601, 49.191015 ], [ 33.968608999000026, 49.198698 ] ] ] } }
+]
+}

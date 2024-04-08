@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.080781147880100004, "Shape_Area": 0.00016364513299600001, "ADM4_EN": "Myklashiv", "ADM4_UA": "Миклашів", "ADM4_PCODE": "UA4606035005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pidberiztsivska", "ADM3_UA": "Підберізцівська", "ADM3_PCODE": "UA4606035", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.234218174000034, 49.835170006000055 ], [ 24.229611176000049, 49.837481007000065 ], [ 24.225125176000063, 49.835007006000069 ], [ 24.213208180000038, 49.836170006000032 ], [ 24.214503178000029, 49.826624006000031 ], [ 24.217601178000052, 49.828984006000042 ], [ 24.224760176000075, 49.827327006000075 ], [ 24.229868175000036, 49.827620006000075 ], [ 24.232090176000042, 49.833022006000078 ], [ 24.234218174000034, 49.835170006000055 ] ] ] } }
+]
+}

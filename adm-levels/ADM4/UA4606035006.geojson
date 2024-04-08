@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.074038976870700005, "Shape_Area": 8.1151148840199994e-05, "ADM4_EN": "Nyzhnia Bilka", "ADM4_UA": "Нижня Білка", "ADM4_PCODE": "UA4606035006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pidberiztsivska", "ADM3_UA": "Підберізцівська", "ADM3_PCODE": "UA4606035", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.289034164000043, 49.847238006000055 ], [ 24.276413168000033, 49.846840006000036 ], [ 24.280468167000038, 49.839965006000057 ], [ 24.285217166000052, 49.841187006000041 ], [ 24.284759166000072, 49.84532600600005 ], [ 24.289034164000043, 49.847238006000055 ] ] ] } }
+]
+}

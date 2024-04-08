@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.085158546936599994, "Shape_Area": 0.000325976551447, "ADM4_EN": "Pekari", "ADM4_UA": "Пекарі", "ADM4_PCODE": "UA7108015008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kanivska", "ADM3_UA": "Канівська", "ADM3_PCODE": "UA7108015", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.559178999000039, 49.697544 ], [ 31.562554, 49.697958 ], [ 31.561982001000047, 49.702074 ], [ 31.55673, 49.70864 ], [ 31.548093, 49.716172 ], [ 31.542453, 49.714943 ], [ 31.543519, 49.712825 ], [ 31.545705, 49.695248 ], [ 31.543738001000065, 49.69534 ], [ 31.540738, 49.690054 ], [ 31.549107, 49.689829 ], [ 31.553072, 49.691615 ], [ 31.559178999000039, 49.697544 ] ] ] } }
+]
+}

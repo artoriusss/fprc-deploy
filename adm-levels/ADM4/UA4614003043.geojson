@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.056627317602699997, "Shape_Area": 0.000106502460067, "ADM4_EN": "Pisok", "ADM4_UA": "Пісок", "ADM4_PCODE": "UA4614003043", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mostyska", "ADM3_UA": "Мостиська", "ADM3_PCODE": "UA4614003", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.291266430000064, 49.808623017000059 ], [ 23.279381434000072, 49.80815001700006 ], [ 23.273352437000028, 49.808576016000075 ], [ 23.269520438000029, 49.803813017000039 ], [ 23.271567438000034, 49.801548017000073 ], [ 23.276750434000064, 49.801822017000063 ], [ 23.283212433000074, 49.804378016000044 ], [ 23.286936433000051, 49.803203017000044 ], [ 23.291222431000051, 49.805557018000059 ], [ 23.291266430000064, 49.808623017000059 ] ] ] } }
+]
+}

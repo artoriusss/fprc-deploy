@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.082214740118800006, "Shape_Area": 0.000192043514546, "ADM4_EN": "Novoselytsia", "ADM4_UA": "Новоселиця", "ADM4_PCODE": "UA2606007010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vyhodska", "ADM3_UA": "Вигодська", "ADM3_PCODE": "UA2606007", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.916399444000035, 48.960013224000079 ], [ 23.916254, 48.954219 ], [ 23.914352001000054, 48.946402 ], [ 23.910395, 48.944472 ], [ 23.909094, 48.940209 ], [ 23.911199168000053, 48.936243667000042 ], [ 23.915848928000059, 48.938565182000048 ], [ 23.920275012000047, 48.942199867000056 ], [ 23.92021199900006, 48.946601 ], [ 23.924469, 48.953929 ], [ 23.924227221000024, 48.961042684000063 ], [ 23.916399444000035, 48.960013224000079 ] ] ] } }
+]
+}

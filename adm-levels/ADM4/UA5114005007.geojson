@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.061255129188499999, "Shape_Area": 9.8172618800300003e-05, "ADM4_EN": "Zahiria", "ADM4_UA": "Загір'я", "ADM4_PCODE": "UA5114005007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zatyshanska", "ADM3_UA": "Затишанська", "ADM3_PCODE": "UA5114005", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.828148, 47.335908 ], [ 29.824229, 47.334973 ], [ 29.820567, 47.33021 ], [ 29.822551502000067, 47.327229686000067 ], [ 29.831159, 47.328394 ], [ 29.833218, 47.323303 ], [ 29.83598, 47.32418 ], [ 29.833115, 47.330684 ], [ 29.836145, 47.334364 ], [ 29.828148, 47.335908 ] ] ] } }
+]
+}

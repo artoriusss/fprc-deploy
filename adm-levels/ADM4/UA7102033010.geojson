@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10301004536699999, "Shape_Area": 0.00056310201851600004, "ADM4_EN": "Krymky", "ADM4_UA": "Кримки", "ADM4_PCODE": "UA7102033010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shpolianska", "ADM3_UA": "Шполянська", "ADM3_PCODE": "UA7102033", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.428017, 48.929754 ], [ 31.437272001000053, 48.930136 ], [ 31.435758, 48.93309 ], [ 31.441458, 48.940731 ], [ 31.438294, 48.94219 ], [ 31.437498, 48.953267 ], [ 31.42203500100004, 48.952888 ], [ 31.422524, 48.948888 ], [ 31.411709001000077, 48.945468 ], [ 31.410955, 48.929047 ], [ 31.428017, 48.929754 ] ] ] } }
+]
+}

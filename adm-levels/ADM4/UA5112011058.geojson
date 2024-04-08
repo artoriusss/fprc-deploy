@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.083423168860300004, "Shape_Area": 0.000128686475138, "ADM4_EN": "Chubivka", "ADM4_UA": "Чубівка", "ADM4_PCODE": "UA5112011058", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kuialnytska", "ADM3_UA": "Куяльницька", "ADM3_PCODE": "UA5112011", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.596099001000027, 47.648855 ], [ 29.594560001000048, 47.650543 ], [ 29.579201, 47.657169 ], [ 29.578069001000074, 47.655601 ], [ 29.571020268000041, 47.654884073000062 ], [ 29.571102472000064, 47.653863685000033 ], [ 29.578228, 47.651797 ], [ 29.580088, 47.640409 ], [ 29.583697, 47.640541 ], [ 29.581364, 47.650057 ], [ 29.584766, 47.651125 ], [ 29.590391, 47.648822 ], [ 29.596877, 47.647706 ], [ 29.596099001000027, 47.648855 ] ] ] } }
+]
+}

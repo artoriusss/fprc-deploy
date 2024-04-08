@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.090250900056000005, "Shape_Area": 0.00031872635133100002, "ADM4_EN": "Moshanets", "ADM4_UA": "Мошанець", "ADM4_PCODE": "UA7304003019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kelmenetska", "ADM3_UA": "Кельменецька", "ADM3_PCODE": "UA7304003", "ADM2_EN": "Dnistrovskyi", "ADM2_UA": "Дністровський", "ADM2_PCODE": "UA7304", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.691919, 48.48416 ], [ 26.685164001000032, 48.483981 ], [ 26.67977, 48.482387 ], [ 26.689741, 48.468192 ], [ 26.695327, 48.462561 ], [ 26.702287, 48.462998 ], [ 26.704906, 48.46944 ], [ 26.710244, 48.471305 ], [ 26.708094999000025, 48.473804 ], [ 26.703151, 48.474249 ], [ 26.691919, 48.48416 ] ] ] } }
+]
+}

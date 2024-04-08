@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.086544221175800004, "Shape_Area": 0.00018818535393699999, "ADM4_EN": "Yakovlivka", "ADM4_UA": "Яковлівка", "ADM4_PCODE": "UA5114015020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stepanivska", "ADM3_UA": "Степанівська", "ADM3_PCODE": "UA5114015", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.9616, 46.875138 ], [ 29.95772, 46.874943 ], [ 29.95784, 46.871901 ], [ 29.953609, 46.8714 ], [ 29.954801, 46.861767 ], [ 29.958518999000034, 46.860827 ], [ 29.96024, 46.853518 ], [ 29.959017001000063, 46.850822 ], [ 29.963938001000031, 46.848174 ], [ 29.972146, 46.849208 ], [ 29.969147, 46.85408 ], [ 29.965063, 46.854745 ], [ 29.962362, 46.860002 ], [ 29.963518, 46.861549 ], [ 29.961086, 46.868864 ], [ 29.9616, 46.875138 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.061021849858099997, "Shape_Area": 0.00019232963086900001, "ADM4_EN": "Dubivka", "ADM4_UA": "Дубівка", "ADM4_PCODE": "UA6506013004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kostiantynivska", "ADM3_UA": "Костянтинівська", "ADM3_PCODE": "UA6506013", "ADM2_EN": "Kakhovskyi", "ADM2_UA": "Каховський", "ADM2_PCODE": "UA6506", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.937574, 46.813431 ], [ 33.936997999000027, 46.823854 ], [ 33.934643999000059, 46.826356 ], [ 33.923375, 46.825559 ], [ 33.925431, 46.816847 ], [ 33.921760999000071, 46.816416 ], [ 33.920968, 46.811212 ], [ 33.935939, 46.812572 ], [ 33.937574, 46.813431 ] ] ] } }
+]
+}

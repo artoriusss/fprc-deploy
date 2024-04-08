@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062442143608000003, "Shape_Area": 0.000110573092268, "ADM4_EN": "Zelena", "ADM4_UA": "Зелена", "ADM4_PCODE": "UA6106007015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Buchatska", "ADM3_UA": "Бучацька", "ADM3_PCODE": "UA6106007", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.40921886600006, 49.124812186000042 ], [ 25.405212487000028, 49.125627818000055 ], [ 25.39866382200006, 49.123977761000049 ], [ 25.396242822000033, 49.126935012000047 ], [ 25.392386391000059, 49.124928276000048 ], [ 25.38959668800004, 49.125363619000041 ], [ 25.386171561000026, 49.120935958000075 ], [ 25.393198042000051, 49.115645151000081 ], [ 25.399522649000062, 49.121831505000046 ], [ 25.40921886600006, 49.124812186000042 ] ] ] } }
+]
+}

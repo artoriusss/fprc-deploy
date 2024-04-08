@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.17189422923299999, "Shape_Area": 0.00032608009255300001, "ADM4_EN": "Pohreby", "ADM4_UA": "Погреби", "ADM4_PCODE": "UA7104021015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shramkivska", "ADM3_UA": "Шрамківська", "ADM3_PCODE": "UA7104021", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.205941, 50.102116 ], [ 32.200698999000053, 50.106367 ], [ 32.195579001000056, 50.100668 ], [ 32.189413999000067, 50.099602 ], [ 32.184656001000064, 50.100274 ], [ 32.185388, 50.103446 ], [ 32.175801001000025, 50.099566 ], [ 32.177621, 50.096616 ], [ 32.186284, 50.087745 ], [ 32.185990999000069, 50.082245 ], [ 32.192407, 50.087508 ], [ 32.195424, 50.08612 ], [ 32.203153001000032, 50.097504 ], [ 32.205981, 50.098949 ], [ 32.205941, 50.102116 ] ] ] } }
+]
+}

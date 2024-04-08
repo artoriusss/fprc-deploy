@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.020527805152900001, "Shape_Area": 2.0924851285e-05, "ADM4_EN": "Nova Oleksandrivka", "ADM4_UA": "Нова Олександрівка", "ADM4_PCODE": "UA6308001045", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykoburlutska", "ADM3_UA": "Великобурлуцька", "ADM3_PCODE": "UA6308001", "ADM2_EN": "Kupianskyi", "ADM2_UA": "Куп'янський", "ADM2_PCODE": "UA6308", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.312432388000047, 49.933313329000043 ], [ 37.310568326000066, 49.931931712000051 ], [ 37.310314443000038, 49.926943708000067 ], [ 37.314365991000045, 49.931090763000043 ], [ 37.312432388000047, 49.933313329000043 ] ] ] } }
+]
+}

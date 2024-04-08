@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.077479276242199996, "Shape_Area": 0.00014675915668700001, "ADM4_EN": "Stehnykivtsi", "ADM4_UA": "Стегниківці", "ADM4_PCODE": "UA6104001012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Baikovetska", "ADM3_UA": "Байковецька", "ADM3_PCODE": "UA6104001", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.661730001000024, 49.658747 ], [ 25.658072999000069, 49.656766 ], [ 25.648587, 49.65626 ], [ 25.648572, 49.651891 ], [ 25.652858, 49.650749 ], [ 25.655572, 49.648254 ], [ 25.657115, 49.642756 ], [ 25.65607925300003, 49.637551046000056 ], [ 25.65895471400006, 49.637170004000041 ], [ 25.660164001000055, 49.6409 ], [ 25.659653001000038, 49.648135 ], [ 25.662703, 49.651238 ], [ 25.664063, 49.656631 ], [ 25.661730001000024, 49.658747 ] ] ] } }
+]
+}

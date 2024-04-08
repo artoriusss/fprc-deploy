@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.095111503148000001, "Shape_Area": 0.000157694486439, "ADM4_EN": "Lisohirka", "ADM4_UA": "Лісогірка", "ADM4_PCODE": "UA6804013022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodotska", "ADM3_UA": "Городоцька", "ADM3_PCODE": "UA6804013", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.554591, 49.138654 ], [ 26.550086, 49.136735 ], [ 26.550525, 49.131342 ], [ 26.558716, 49.127389 ], [ 26.555118999000058, 49.121959999000069 ], [ 26.558131001000049, 49.119608 ], [ 26.561085, 49.121271 ], [ 26.564469999000039, 49.127821 ], [ 26.564665, 49.131409 ], [ 26.561781001000043, 49.135 ], [ 26.554591, 49.138654 ] ] ] } }
+]
+}

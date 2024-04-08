@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11230644068499999, "Shape_Area": 0.00016971157609100001, "ADM4_EN": "Maliatyntsi", "ADM4_UA": "Малятинці", "ADM4_PCODE": "UA7306047002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stavchanska", "ADM3_UA": "Ставчанська", "ADM3_PCODE": "UA7306047", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.645773, 48.517858 ], [ 25.640942, 48.516959 ], [ 25.63776, 48.51388 ], [ 25.638148, 48.511172 ], [ 25.633733001000053, 48.509992 ], [ 25.636235, 48.503833 ], [ 25.640717, 48.50354 ], [ 25.639534001000072, 48.507193 ], [ 25.643544001000066, 48.509699 ], [ 25.650039, 48.508686 ], [ 25.656652, 48.51562 ], [ 25.658151, 48.518832001000078 ], [ 25.650788, 48.516778 ], [ 25.645773, 48.517858 ] ] ] } }
+]
+}

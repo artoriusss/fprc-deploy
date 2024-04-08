@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062850336150899994, "Shape_Area": 0.00020253472986299999, "ADM4_EN": "Tarasa Shevchenka", "ADM4_UA": "Тараса Шевченка", "ADM4_PCODE": "UA6502001007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Beryslavska", "ADM3_UA": "Бериславська", "ADM3_PCODE": "UA6502001", "ADM2_EN": "Beryslavskyi", "ADM2_UA": "Бериславський", "ADM2_PCODE": "UA6502", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.292687999000066, 46.954976 ], [ 33.293046, 46.96421 ], [ 33.283386, 46.96258 ], [ 33.280335, 46.951281 ], [ 33.276120001000038, 46.947119 ], [ 33.2801, 46.946319 ], [ 33.292096001000061, 46.946221 ], [ 33.292687999000066, 46.954976 ] ] ] } }
+]
+}

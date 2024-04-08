@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.071823587453800006, "Shape_Area": 0.00019386963308799999, "ADM4_EN": "Yasna Zirka", "ADM4_UA": "Ясна Зірка", "ADM4_PCODE": "UA7404029021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nosivska", "ADM3_UA": "Носівська", "ADM3_PCODE": "UA7404029", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.619737542000053, 50.85517728800005 ], [ 31.629216686000063, 50.850142709000067 ], [ 31.633247270000027, 50.852136034000068 ], [ 31.639128841000058, 50.849355960000025 ], [ 31.641096960000027, 50.850423990000081 ], [ 31.644921960000033, 50.848062030000051 ], [ 31.647742920000042, 50.852256930000067 ], [ 31.631241959000079, 50.861987010000064 ], [ 31.619737542000053, 50.85517728800005 ] ] ] } }
+]
+}

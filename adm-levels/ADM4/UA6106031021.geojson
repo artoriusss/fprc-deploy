@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.071010213550999998, "Shape_Area": 0.00013824222375400001, "ADM4_EN": "Krasiiv", "ADM4_UA": "Красіїв", "ADM4_PCODE": "UA6106031021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Monastyryska", "ADM3_UA": "Монастириська", "ADM3_PCODE": "UA6106031", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.033792, 49.052402001000075 ], [ 25.035661001000051, 49.062339 ], [ 25.037165, 49.065677 ], [ 25.036672001000056, 49.06925700100004 ], [ 25.032850216000043, 49.071678686000041 ], [ 25.029993, 49.070411 ], [ 25.032103167000059, 49.066808875000049 ], [ 25.029663622000044, 49.062131767000039 ], [ 25.027042001000041, 49.060955 ], [ 25.024313757000073, 49.055912228000068 ], [ 25.031731001000026, 49.052369 ], [ 25.033792, 49.052402001000075 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.119441750867, "Shape_Area": 8.7833829946200006e-05, "ADM4_EN": "Stryhany", "ADM4_UA": "Стригани", "ADM4_PCODE": "UA6806011010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krupetska", "ADM3_UA": "Крупецька", "ADM3_PCODE": "UA6806011", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.761572, 50.321594 ], [ 26.764583001000062, 50.317339 ], [ 26.770769, 50.317811 ], [ 26.772660001000077, 50.319307 ], [ 26.784468, 50.320898 ], [ 26.793208, 50.317546 ], [ 26.793646999000032, 50.320263 ], [ 26.790187, 50.322478 ], [ 26.782209, 50.322181 ], [ 26.769204, 50.319707 ], [ 26.764243, 50.319786 ], [ 26.761572, 50.321594 ] ] ] } }
+]
+}

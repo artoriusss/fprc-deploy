@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.049471594066199998, "Shape_Area": 0.000110670188793, "ADM4_EN": "Dubove", "ADM4_UA": "Дубове", "ADM4_PCODE": "UA5304011025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khorolska", "ADM3_UA": "Хорольська", "ADM3_PCODE": "UA5304011", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.125875, 49.748768 ], [ 33.120841999000049, 49.750449 ], [ 33.121425, 49.757921 ], [ 33.113966800000071, 49.757653391000076 ], [ 33.11436678900003, 49.754665372000034 ], [ 33.111129306000066, 49.752977299000065 ], [ 33.113005791000035, 49.747517007000056 ], [ 33.115969614000051, 49.745091925000054 ], [ 33.125875, 49.748768 ] ] ] } }
+]
+}

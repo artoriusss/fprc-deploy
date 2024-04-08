@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.069159370220400002, "Shape_Area": 8.3325987130799999e-05, "ADM4_EN": "Stara Huta", "ADM4_UA": "Стара Гута", "ADM4_PCODE": "UA2604029012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Solotvynska", "ADM3_UA": "Солотвинська", "ADM3_PCODE": "UA2604029", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.210628, 48.635939 ], [ 24.208614, 48.636669 ], [ 24.205243999000061, 48.63615 ], [ 24.2072, 48.629993 ], [ 24.204604, 48.62528 ], [ 24.204092, 48.618885 ], [ 24.207972500000039, 48.622456500000055 ], [ 24.211567001000049, 48.623903 ], [ 24.212018, 48.62776 ], [ 24.208935, 48.629232 ], [ 24.209091, 48.634391 ], [ 24.210628, 48.635939 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.23819288359, "Shape_Area": 0.000261839100858, "ADM4_EN": "Vesele", "ADM4_UA": "Веселе", "ADM4_PCODE": "UA6312009004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lypetska", "ADM3_UA": "Липецька", "ADM3_PCODE": "UA6312009", "ADM2_EN": "Kharkivskyi", "ADM2_UA": "Харківський", "ADM2_PCODE": "UA6312", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": "UA6312009004", "Інше": 0.0, "Адміністративні": 0.0, "Житло": 10270500.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 10270500.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.531161, 50.174744 ], [ 36.534038, 50.170714 ], [ 36.524624, 50.172548 ], [ 36.523007, 50.168155 ], [ 36.531067999000072, 50.164126 ], [ 36.539222, 50.161515 ], [ 36.545875, 50.164039 ], [ 36.54583, 50.166826 ], [ 36.535878, 50.168693 ], [ 36.536991, 50.171929 ], [ 36.531161, 50.174744 ] ] ] } }
+]
+}

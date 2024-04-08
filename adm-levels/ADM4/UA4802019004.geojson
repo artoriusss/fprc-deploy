@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.037276322294100002, "Shape_Area": 5.2039394375699999e-05, "ADM4_EN": "Burkhanivka", "ADM4_UA": "Бурханівка", "ADM4_PCODE": "UA4802019004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Snihurivska", "ADM3_UA": "Снігурівська", "ADM3_PCODE": "UA4802019", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.63401858900005, 46.987833784000031 ], [ 32.62473968200004, 46.985785530000044 ], [ 32.625243796000063, 46.981331860000068 ], [ 32.637930845000028, 46.985332965000055 ], [ 32.63401858900005, 46.987833784000031 ] ] ] } }
+]
+}

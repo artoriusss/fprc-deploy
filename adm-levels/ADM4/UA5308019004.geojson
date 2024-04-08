@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.081591090678899997, "Shape_Area": 0.000157474682, "ADM4_EN": "Korzhykha", "ADM4_UA": "Коржиха", "ADM4_PCODE": "UA5308019004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lannivska", "ADM3_UA": "Ланнівська", "ADM3_PCODE": "UA5308019", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.337063882000052, 49.363554639000029 ], [ 35.331043, 49.364 ], [ 35.319779, 49.366191 ], [ 35.324098001000038, 49.37046 ], [ 35.317982, 49.373992 ], [ 35.305153, 49.36394 ], [ 35.317345, 49.361205 ], [ 35.319893, 49.363114 ], [ 35.334123, 49.361148 ], [ 35.337063882000052, 49.363554639000029 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0584766912347, "Shape_Area": 0.000120247853025, "ADM4_EN": "Dolishnie", "ADM4_UA": "Долішнє", "ADM4_PCODE": "UA4610013007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Morshynska", "ADM3_UA": "Моршинська", "ADM3_PCODE": "UA4610013", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.821670253000036, 49.158273010000073 ], [ 23.81745025500004, 49.158029010000064 ], [ 23.808367257000043, 49.147671009000078 ], [ 23.812653255000043, 49.145875009000065 ], [ 23.825249253000038, 49.154204009000068 ], [ 23.827450252000062, 49.158077010000056 ], [ 23.821670253000036, 49.158273010000073 ] ] ] } }
+]
+}

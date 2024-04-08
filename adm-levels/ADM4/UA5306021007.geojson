@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0416523795184, "Shape_Area": 6.3809701397600006e-05, "ADM4_EN": "Novyi Vyselok", "ADM4_UA": "Новий Виселок", "ADM4_PCODE": "UA5306021007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Liutenska", "ADM3_UA": "Лютенська", "ADM3_PCODE": "UA5306021", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.840209, 50.171018 ], [ 33.840126, 50.173303 ], [ 33.82878, 50.176739 ], [ 33.82858, 50.171363 ], [ 33.834207001000038, 50.169844 ], [ 33.840209, 50.171018 ] ] ] } }
+]
+}

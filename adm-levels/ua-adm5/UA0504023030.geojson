@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.032267194578499997, "Shape_Area": 5.3477181527900001e-05, "ADM4_EN": "Leninka", "ADM4_UA": "ÐÐµÐ½ÑÐ½ÐºÐ°", "ADM4_RU": "ÐÐµÐ½Ð¸Ð½ÐºÐ°", "ADM4_PCODE": "UA0504023030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Teplytska", "ADM3_UA": "Ð¢ÐµÐ¿Ð»Ð¸ÑÑÐºÐ°", "ADM3_RU": "Ð¢ÐµÐ¿Ð»Ð¸ÐºÑÐºÐ°Ñ", "ADM3_PCODE": "UA0504023", "ADM2_EN": "Haisynskyi", "ADM2_UA": "ÐÐ°Ð¹ÑÐ¸Ð½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ°Ð¹ÑÐ¸Ð½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA0504", "ADM1_EN": "Vinnytska", "ADM1_UA": "ÐÑÐ½Ð½Ð¸ÑÑÐºÐ°", "ADM1_RU": "ÐÐ¸Ð½Ð½Ð¸ÑÐºÐ°Ñ", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.803150001000063, 48.543583 ], [ 29.79886, 48.543334 ], [ 29.797793, 48.545913 ], [ 29.796087, 48.548387 ], [ 29.795099, 48.5527 ], [ 29.795707001000039, 48.553543 ], [ 29.799753999000075, 48.551602 ], [ 29.802365001000055, 48.548233 ], [ 29.805806, 48.544337 ], [ 29.803150001000063, 48.543583 ] ] ] } }
-]
-}

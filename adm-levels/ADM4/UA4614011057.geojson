@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.040699085583199998, "Shape_Area": 6.9578032158999995e-05, "ADM4_EN": "Prynada", "ADM4_UA": "Принада", "ADM4_PCODE": "UA4614011057", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yavorivska", "ADM3_UA": "Яворівська", "ADM3_PCODE": "UA4614011", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.529530352000052, 50.171399013000041 ], [ 23.523886080000068, 50.172121466000078 ], [ 23.523318353000036, 50.166297013000076 ], [ 23.536930349000045, 50.166199013000039 ], [ 23.535813349000023, 50.169880013000068 ], [ 23.529530352000052, 50.171399013000041 ] ] ] } }
+]
+}

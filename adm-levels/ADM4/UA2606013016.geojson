@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.084134631883099997, "Shape_Area": 0.00028068066719799998, "ADM4_EN": "Rakhynia", "ADM4_UA": "Рахиня", "ADM4_PCODE": "UA2606013016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dolynska", "ADM3_UA": "Долинська", "ADM3_PCODE": "UA2606013", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.050108, 48.99979 ], [ 24.041943, 49.005092 ], [ 24.04121, 49.00896 ], [ 24.035396, 49.010629 ], [ 24.028554, 49.010756 ], [ 24.022724999000047, 49.00312 ], [ 24.021184, 48.996785 ], [ 24.024444, 48.996772 ], [ 24.025726, 48.999747 ], [ 24.029818, 48.99737 ], [ 24.037917, 48.996767 ], [ 24.041869999000028, 48.993918 ], [ 24.044068, 48.997053 ], [ 24.048635, 48.996267 ], [ 24.050108, 48.99979 ] ] ] } }
+]
+}

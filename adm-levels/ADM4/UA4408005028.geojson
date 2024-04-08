@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.060182933207000001, "Shape_Area": 7.7008750369899996e-05, "ADM4_EN": "Butkevych", "ADM4_UA": "Буткевич", "ADM4_PCODE": "UA4408005028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khrustalnenska", "ADM3_UA": "Хрустальненська", "ADM3_PCODE": "UA4408005", "ADM2_EN": "Rovenkivskyi", "ADM2_UA": "Ровеньківський", "ADM2_PCODE": "UA4408", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.870595738000077, 48.302702336000038 ], [ 38.86687745200004, 48.310605015000078 ], [ 38.868380859000069, 48.313706013000058 ], [ 38.87406375300003, 48.316805783000063 ], [ 38.871619544000055, 48.319293408000078 ], [ 38.867901490000065, 48.316204227000071 ], [ 38.860351596000044, 48.312881556000036 ], [ 38.862640812000052, 48.308242025000027 ], [ 38.867479846000037, 48.302781352000068 ], [ 38.870595738000077, 48.302702336000038 ] ] ] } }
+]
+}

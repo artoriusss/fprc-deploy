@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.034129238428000003, "Shape_Area": 4.2357878441000002e-05, "ADM4_EN": "Porubka", "ADM4_UA": "Порубка", "ADM4_PCODE": "UA5608007031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dubrovytska", "ADM3_UA": "Дубровицька", "ADM3_PCODE": "UA5608007", "ADM2_EN": "Sarnenskyi", "ADM2_UA": "Сарненський", "ADM2_PCODE": "UA5608", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.620539840000049, 51.560579970000049 ], [ 26.616024, 51.562199070000077 ], [ 26.616413880000039, 51.566043960000059 ], [ 26.609727960000043, 51.566429970000058 ], [ 26.612332200000026, 51.559818930000063 ], [ 26.620539840000049, 51.560579970000049 ] ] ] } }
+]
+}

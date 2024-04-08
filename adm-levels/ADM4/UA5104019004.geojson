@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.13338509356799999, "Shape_Area": 0.000782703293429, "ADM4_EN": "Zoria", "ADM4_UA": "Зоря", "ADM4_PCODE": "UA5104019004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Saratska", "ADM3_UA": "Саратська", "ADM3_PCODE": "UA5104019", "ADM2_EN": "Bilhorod-Dnistrovskyi", "ADM2_UA": "Білгород-Дністровський", "ADM2_PCODE": "UA5104", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.695602, 46.01105 ], [ 29.68324, 46.008752 ], [ 29.685660001000031, 45.987675 ], [ 29.684163, 45.984929 ], [ 29.690345, 45.972862 ], [ 29.708152999000049, 45.974537 ], [ 29.706904, 45.981202 ], [ 29.71065800100007, 45.982956 ], [ 29.712443, 45.986647 ], [ 29.714702, 45.986764 ], [ 29.716028999000059, 45.992431 ], [ 29.713102001000038, 45.994074 ], [ 29.705599, 45.993401 ], [ 29.702621, 46.005328 ], [ 29.698492001000034, 46.004997 ], [ 29.695602, 46.01105 ] ] ] } }
+]
+}

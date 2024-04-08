@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.103234583064, "Shape_Area": 0.00025428450997400001, "ADM4_EN": "Bila Hora", "ADM4_UA": "Біла Гора", "ADM4_PCODE": "UA4412005008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lysychanska", "ADM3_UA": "Лисичанська", "ADM3_PCODE": "UA4412005", "ADM2_EN": "Sievierodonetskyi", "ADM2_UA": "Сєвєродонецький", "ADM2_PCODE": "UA4412", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 38.51094099900007, 48.854035 ], [ 38.508914999000069, 48.853673 ], [ 38.507948, 48.844871 ], [ 38.515711999000075, 48.845452 ], [ 38.516896, 48.849443 ], [ 38.51094099900007, 48.854035 ] ] ], [ [ [ 38.534039, 48.838666 ], [ 38.523712, 48.844202 ], [ 38.510868, 48.84318 ], [ 38.505493, 48.841267 ], [ 38.506305001000044, 48.835227 ], [ 38.510857, 48.834571 ], [ 38.519488, 48.837217 ], [ 38.528946, 48.833955 ], [ 38.534039, 48.838666 ] ] ] ] } }
+]
+}

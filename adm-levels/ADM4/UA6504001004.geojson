@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.16959329691399999, "Shape_Area": 0.0010600957942799999, "ADM4_EN": "Azovske", "ADM4_UA": "Азовське", "ADM4_PCODE": "UA6504001004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Henicheska", "ADM3_UA": "Генічеська", "ADM3_PCODE": "UA6504001", "ADM2_EN": "Henicheskyi", "ADM2_UA": "Генічеський", "ADM2_PCODE": "UA6504", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.878254, 46.276082 ], [ 34.866963, 46.281571 ], [ 34.861388, 46.27587 ], [ 34.854445, 46.277953 ], [ 34.852033, 46.272698 ], [ 34.849533, 46.273351 ], [ 34.848431, 46.267532 ], [ 34.842652, 46.25915 ], [ 34.851395, 46.253785 ], [ 34.854204, 46.248684 ], [ 34.866097999000033, 46.243857 ], [ 34.874964, 46.252201 ], [ 34.878615, 46.252569 ], [ 34.882566, 46.257362 ], [ 34.879604, 46.259762 ], [ 34.886547, 46.264377 ], [ 34.896036, 46.266081 ], [ 34.896626999000034, 46.267667 ], [ 34.878254, 46.276082 ] ] ] } }
+]
+}

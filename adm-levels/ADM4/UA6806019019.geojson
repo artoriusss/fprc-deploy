@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.071837502225199995, "Shape_Area": 7.3478914367999993e-05, "ADM4_EN": "Stara Hutyska", "ADM4_UA": "Стара Гутиська", "ADM4_PCODE": "UA6806019019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pluzhnenska", "ADM3_UA": "Плужненська", "ADM3_PCODE": "UA6806019", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.448664, 50.16554 ], [ 26.446331, 50.162566 ], [ 26.441402, 50.159701 ], [ 26.434141, 50.159736 ], [ 26.432792999000071, 50.154553 ], [ 26.428781001000061, 50.152860001000079 ], [ 26.428839, 50.150133 ], [ 26.436110001000031, 50.154346 ], [ 26.437029, 50.157755 ], [ 26.442640001000029, 50.157689 ], [ 26.449215999000046, 50.161771 ], [ 26.448664, 50.16554 ] ] ] } }
+]
+}

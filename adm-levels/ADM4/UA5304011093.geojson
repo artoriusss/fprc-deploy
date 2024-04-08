@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.11525423996799999, "Shape_Area": 0.00037232718991200001, "ADM4_EN": "Yalosovetske", "ADM4_UA": "Ялосовецьке", "ADM4_PCODE": "UA5304011093", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khorolska", "ADM3_UA": "Хорольська", "ADM3_PCODE": "UA5304011", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.43295, 49.694362 ], [ 33.421649, 49.696026 ], [ 33.414967, 49.680684 ], [ 33.415794, 49.678721 ], [ 33.411119001000031, 49.670517 ], [ 33.410596, 49.665714 ], [ 33.415505, 49.664668 ], [ 33.428815, 49.681763 ], [ 33.435108, 49.688968 ], [ 33.436724, 49.692671 ], [ 33.43295, 49.694362 ] ] ] } }
+]
+}

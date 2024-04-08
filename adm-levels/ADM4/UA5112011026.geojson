@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.065001283840700003, "Shape_Area": 0.00018928196605700001, "ADM4_EN": "Kosy-Slobidka", "ADM4_UA": "Коси-Слобідка", "ADM4_PCODE": "UA5112011026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kuialnytska", "ADM3_UA": "Куяльницька", "ADM3_PCODE": "UA5112011", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.468488, 47.661043 ], [ 29.456942999000034, 47.659883 ], [ 29.458155, 47.656003 ], [ 29.45567999900004, 47.653145 ], [ 29.457723, 47.648995 ], [ 29.462382001000037, 47.645688 ], [ 29.470654, 47.647826 ], [ 29.469640001000073, 47.657656 ], [ 29.468488, 47.661043 ] ] ] } }
+]
+}

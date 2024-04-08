@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.058383701344799997, "Shape_Area": 6.2576076382800006e-05, "ADM4_EN": "Trishchuky", "ADM4_UA": "Тріщуки", "ADM4_PCODE": "UA4604005018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zabolottsivska", "ADM3_UA": "Заболотцівська", "ADM3_PCODE": "UA4604005", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.093771071000049, 49.968360002000054 ], [ 25.084677072000034, 49.967824003000032 ], [ 25.085513071000037, 49.965484003000029 ], [ 25.094371071000069, 49.963523002000045 ], [ 25.093771071000049, 49.968360002000054 ] ] ] } }
+]
+}

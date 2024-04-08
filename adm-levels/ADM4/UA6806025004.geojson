@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.064992533914999998, "Shape_Area": 0.000108439939611, "ADM4_EN": "Vlashanivka", "ADM4_UA": "Влашанівка", "ADM4_PCODE": "UA6806025004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sakhnovetska", "ADM3_UA": "Сахновецька", "ADM3_PCODE": "UA6806025", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.871275, 49.965964 ], [ 26.863889, 49.967242 ], [ 26.858378999000024, 49.965488 ], [ 26.859205, 49.963138 ], [ 26.866038, 49.960832 ], [ 26.86725, 49.958328 ], [ 26.874016, 49.960495 ], [ 26.87846, 49.958045 ], [ 26.879829, 49.961118 ], [ 26.875124999000036, 49.962586 ], [ 26.871275, 49.965964 ] ] ] } }
+]
+}

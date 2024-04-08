@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.079861276755599994, "Shape_Area": 9.7229285766499995e-05, "ADM4_EN": "Prosiane", "ADM4_UA": "Просяне", "ADM4_PCODE": "UA4414005026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Markivska", "ADM3_UA": "Марківська", "ADM3_PCODE": "UA4414005", "ADM2_EN": "Starobilskyi", "ADM2_UA": "Старобільський", "ADM2_PCODE": "UA4414", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.660956, 49.596478 ], [ 39.656637, 49.600559 ], [ 39.656166001000031, 49.594973 ], [ 39.660192, 49.590173 ], [ 39.669212, 49.586484 ], [ 39.671115, 49.588 ], [ 39.668699999000069, 49.593609 ], [ 39.665279, 49.597173 ], [ 39.660956, 49.596478 ] ] ] } }
+]
+}

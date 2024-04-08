@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.073810063210200005, "Shape_Area": 0.000104501745388, "ADM4_EN": "Nahoriany", "ADM4_UA": "Нагоряни", "ADM4_PCODE": "UA7304003020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kelmenetska", "ADM3_UA": "Кельменецька", "ADM3_PCODE": "UA7304003", "ADM2_EN": "Dnistrovskyi", "ADM2_UA": "Дністровський", "ADM2_PCODE": "UA7304", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.795953, 48.5451 ], [ 26.792446, 48.5472 ], [ 26.78522, 48.545025 ], [ 26.784749, 48.543271 ], [ 26.792604, 48.54321 ], [ 26.798856999000066, 48.539145 ], [ 26.806272001000025, 48.538296 ], [ 26.808926, 48.541063 ], [ 26.802762, 48.542903 ], [ 26.800355001000071, 48.54488 ], [ 26.795953, 48.5451 ] ] ] } }
+]
+}

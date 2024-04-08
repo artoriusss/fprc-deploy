@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.047318946232299999, "Shape_Area": 0.00012923277029800001, "ADM4_EN": "Rychahiv", "ADM4_UA": "Ричагів", "ADM4_PCODE": "UA4610011020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykolaivska", "ADM3_UA": "Миколаївська", "ADM3_PCODE": "UA4610011", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.862214249000033, 49.552358009000045 ], [ 23.865588248000051, 49.556301009000038 ], [ 23.866725247000034, 49.560497009000073 ], [ 23.854958250000038, 49.562455010000065 ], [ 23.848621252000044, 49.557116009000026 ], [ 23.851543309000078, 49.554302935000067 ], [ 23.86040225000005, 49.550766009000029 ], [ 23.862214249000033, 49.552358009000045 ] ] ] } }
+]
+}

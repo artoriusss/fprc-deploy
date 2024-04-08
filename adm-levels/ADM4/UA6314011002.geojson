@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.124097307861, "Shape_Area": 0.00010126158595100001, "ADM4_EN": "Heivka", "ADM4_UA": "Геївка", "ADM4_PCODE": "UA6314011002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Slobozhanska", "ADM3_UA": "Слобожанська", "ADM3_PCODE": "UA6314011", "ADM2_EN": "Chuhuivskyi", "ADM2_UA": "Чугуївський", "ADM2_PCODE": "UA6314", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.495766999000068, 49.506478 ], [ 36.493929999000045, 49.503052 ], [ 36.493967999000063, 49.496952 ], [ 36.501017, 49.497906 ], [ 36.499442, 49.504206 ], [ 36.495766999000068, 49.506478 ] ] ] } }
+]
+}

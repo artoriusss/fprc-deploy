@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.086684246025099998, "Shape_Area": 0.000166020000343, "ADM4_EN": "Roztochky", "ADM4_UA": "Розточки", "ADM4_PCODE": "UA2606009005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vytvytska", "ADM3_UA": "Витвицька", "ADM3_PCODE": "UA2606009", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.805067, 48.980723 ], [ 23.8007, 48.982745 ], [ 23.791811, 48.979572 ], [ 23.786287, 48.975751 ], [ 23.786765, 48.971014 ], [ 23.782629999000051, 48.969008 ], [ 23.786043, 48.966086 ], [ 23.786520001000042, 48.959281 ], [ 23.791325, 48.963464 ], [ 23.790097001000049, 48.966312 ], [ 23.791222, 48.97029 ], [ 23.794912, 48.972908 ], [ 23.79811999900005, 48.977906 ], [ 23.805067, 48.980723 ] ] ] } }
+]
+}

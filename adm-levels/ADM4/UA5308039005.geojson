@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062522300319799995, "Shape_Area": 9.6030138022200006e-05, "ADM4_EN": "Berezniaky", "ADM4_UA": "Березняки", "ADM4_PCODE": "UA5308039005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Reshetylivska", "ADM3_UA": "Решетилівська", "ADM3_PCODE": "UA5308039", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.827378, 49.463759 ], [ 33.822497999000063, 49.46392 ], [ 33.822979, 49.457878 ], [ 33.82687, 49.457414 ], [ 33.830214999000077, 49.450806 ], [ 33.841832, 49.45211 ], [ 33.840478, 49.45421 ], [ 33.835522, 49.453696 ], [ 33.832094, 49.456879 ], [ 33.827378, 49.463759 ] ] ] } }
+]
+}

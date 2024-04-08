@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.094839751184600002, "Shape_Area": 0.000140142966528, "ADM4_EN": "Nyzhnie Synovydne", "ADM4_UA": "Нижнє Синьовидне", "ADM4_PCODE": "UA4610019010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Skolivska", "ADM3_UA": "Сколівська", "ADM3_PCODE": "UA4610019", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.638792301000024, 49.114059012000041 ], [ 23.634386302000053, 49.113031012000079 ], [ 23.635124303000055, 49.107295012000066 ], [ 23.632033303000071, 49.106301012000074 ], [ 23.632332303000055, 49.103347011000039 ], [ 23.635891301000072, 49.101889012000072 ], [ 23.641982299000063, 49.102363012000069 ], [ 23.645739300000059, 49.112713012000029 ], [ 23.638792301000024, 49.114059012000041 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.042342685088699997, "Shape_Area": 4.9492584662799999e-05, "ADM4_EN": "Zadorozhnie", "ADM4_UA": "Задорожнє", "ADM4_PCODE": "UA2306023007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pavlivska", "ADM3_UA": "Павлівська", "ADM3_PCODE": "UA2306023", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.530428676000042, 47.951184043000069 ], [ 35.529096448000075, 47.948281894000047 ], [ 35.533009858000071, 47.940231935000043 ], [ 35.539522757000043, 47.940763902000072 ], [ 35.538564877000056, 47.945419403000074 ], [ 35.532479262000038, 47.944388440000068 ], [ 35.530428676000042, 47.951184043000069 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.087352945193000006, "Shape_Area": 0.000238933213225, "ADM4_EN": "Vlasivka", "ADM4_UA": "Власівка", "ADM4_PCODE": "UA3206001006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Baryshivska", "ADM3_UA": "Баришівська", "ADM3_PCODE": "UA3206001", "ADM2_EN": "Brovarskyi", "ADM2_UA": "Броварський", "ADM2_PCODE": "UA3206", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.232572639000068, 50.374907414000063 ], [ 31.22870561600007, 50.376666421000039 ], [ 31.223109625000063, 50.371316432000071 ], [ 31.220716626000069, 50.365626380000037 ], [ 31.234214568000027, 50.363500462000047 ], [ 31.240395579000051, 50.365389443000026 ], [ 31.248880592000035, 50.364964404000034 ], [ 31.249787584000046, 50.368020424000065 ], [ 31.247118557000078, 50.37226346500006 ], [ 31.232572639000068, 50.374907414000063 ] ] ] } }
+]
+}

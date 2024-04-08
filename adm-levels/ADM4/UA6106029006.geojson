@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0949617834183, "Shape_Area": 0.00033831407495400002, "ADM4_EN": "Horoshova", "ADM4_UA": "Горошова", "ADM4_PCODE": "UA6106029006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Melnytse-Podilska", "ADM3_UA": "Мельнице-Подільська", "ADM3_PCODE": "UA6106029", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.106644999000025, 48.555236 ], [ 26.10295, 48.552062 ], [ 26.0975, 48.550452 ], [ 26.093676999000024, 48.552232 ], [ 26.087398, 48.549511 ], [ 26.090327, 48.541346 ], [ 26.092289, 48.539507 ], [ 26.098122, 48.539082 ], [ 26.107544, 48.541176 ], [ 26.11500600100004, 48.544969 ], [ 26.118430001000036, 48.547943 ], [ 26.12098300100007, 48.552747 ], [ 26.109098, 48.551935 ], [ 26.106644999000025, 48.555236 ] ] ] } }
+]
+}

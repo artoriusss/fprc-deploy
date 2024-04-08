@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.095067022123, "Shape_Area": 0.000278216261601, "ADM4_EN": "Mykolaivka", "ADM4_UA": "Миколаївка", "ADM4_PCODE": "UA7108045003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ternivska", "ADM3_UA": "Тернівська", "ADM3_PCODE": "UA7108045", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.820073, 49.199825 ], [ 31.811203, 49.199832 ], [ 31.806982001000051, 49.201605 ], [ 31.795097, 49.189739 ], [ 31.806942, 49.184106 ], [ 31.811468001000037, 49.182855 ], [ 31.809861, 49.187933 ], [ 31.816308001000039, 49.19306 ], [ 31.822293, 49.195992 ], [ 31.82297800200007, 49.205372182000076 ], [ 31.820892882000066, 49.205260999000075 ], [ 31.820073, 49.199825 ] ] ] } }
+]
+}

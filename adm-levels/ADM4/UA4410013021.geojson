@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.093305566150899993, "Shape_Area": 9.5981689570200001e-05, "ADM4_EN": "Kozaryk", "ADM4_UA": "Козарик", "ADM4_PCODE": "UA4410013021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Troitska", "ADM3_UA": "Троїцька", "ADM3_PCODE": "UA4410013", "ADM2_EN": "Svativskyi", "ADM2_UA": "Сватівський", "ADM2_PCODE": "UA4410", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.276279, 49.855811 ], [ 38.274991, 49.856338 ], [ 38.266748, 49.850488 ], [ 38.266316001000064, 49.849172 ], [ 38.272695999000064, 49.840772 ], [ 38.274666, 49.845898 ], [ 38.278153, 49.848565 ], [ 38.279053, 49.84243 ], [ 38.282348, 49.8544 ], [ 38.28026, 49.855163 ], [ 38.277004, 49.84953 ], [ 38.271751, 49.851548 ], [ 38.276279, 49.855811 ] ] ] } }
+]
+}

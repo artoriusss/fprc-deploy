@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.090978946699699997, "Shape_Area": 0.000153446732816, "ADM4_EN": "Adrianopil", "ADM4_UA": "Адріанопіль", "ADM4_PCODE": "UA4402001017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Alchevska", "ADM3_UA": "Алчевська", "ADM3_PCODE": "UA4402001", "ADM2_EN": "Alchevskyi", "ADM2_UA": "Алчевський", "ADM2_PCODE": "UA4402", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.72563, 48.367564 ], [ 38.71588, 48.365986 ], [ 38.717634, 48.360588 ], [ 38.721551, 48.359225 ], [ 38.72447, 48.35177 ], [ 38.727100999000072, 48.351746 ], [ 38.728120999000055, 48.347754 ], [ 38.732268, 48.347121 ], [ 38.731584999000063, 48.350764 ], [ 38.729013, 48.354813 ], [ 38.729249, 48.363323 ], [ 38.72563, 48.367564 ] ] ] } }
+]
+}

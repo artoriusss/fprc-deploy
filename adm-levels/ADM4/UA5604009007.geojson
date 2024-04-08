@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.040303235167899999, "Shape_Area": 6.8294630332699997e-05, "ADM4_EN": "Dubliany", "ADM4_UA": "Дубляни", "ADM4_PCODE": "UA5604009007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Demydivska", "ADM3_UA": "Демидівська", "ADM3_PCODE": "UA5604009", "ADM2_EN": "Dubenskyi", "ADM2_UA": "Дубенський", "ADM2_PCODE": "UA5604", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.345924920000073, 50.437126980000073 ], [ 25.345251, 50.444466030000058 ], [ 25.342000920000032, 50.44619799000003 ], [ 25.335753120000049, 50.44495401000006 ], [ 25.337256119000074, 50.440943970000035 ], [ 25.344704880000052, 50.437125990000027 ], [ 25.345924920000073, 50.437126980000073 ] ] ] } }
+]
+}

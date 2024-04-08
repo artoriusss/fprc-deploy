@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062276628007100002, "Shape_Area": 8.9871890976400007e-05, "ADM4_EN": "Zalissia", "ADM4_UA": "Залісся", "ADM4_PCODE": "UA4604007019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zolochivska", "ADM3_UA": "Золочівська", "ADM3_PCODE": "UA4604007", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.823879095000052, 49.794949003000056 ], [ 24.822375094000051, 49.796499004000054 ], [ 24.815813096000056, 49.793948003000025 ], [ 24.819599095000058, 49.792152004000059 ], [ 24.822015094000051, 49.786213003000057 ], [ 24.825105095000026, 49.790133003000051 ], [ 24.831151094000063, 49.791328003000046 ], [ 24.831315094000047, 49.794290003000071 ], [ 24.823879095000052, 49.794949003000056 ] ] ] } }
+]
+}

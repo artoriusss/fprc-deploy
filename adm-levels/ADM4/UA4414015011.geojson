@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.034549660224499998, "Shape_Area": 3.6353540956200003e-05, "ADM4_EN": "Fedchyne", "ADM4_UA": "Федчине", "ADM4_PCODE": "UA4414015011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shulhynska", "ADM3_UA": "Шульгинська", "ADM3_PCODE": "UA4414015", "ADM2_EN": "Starobilskyi", "ADM2_UA": "Старобільський", "ADM2_PCODE": "UA4414", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.767475001000037, 49.110389 ], [ 38.766710001000035, 49.107769 ], [ 38.770018, 49.105918 ], [ 38.778647, 49.105239 ], [ 38.778728, 49.107678 ], [ 38.77357100100005, 49.109956 ], [ 38.767475001000037, 49.110389 ] ] ] } }
+]
+}

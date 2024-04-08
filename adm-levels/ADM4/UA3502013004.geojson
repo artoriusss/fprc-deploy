@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057634604108699999, "Shape_Area": 7.3108048515200001e-05, "ADM4_EN": "Dykovycheve", "ADM4_UA": "Диковичеве", "ADM4_PCODE": "UA3502013004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoarkhanhelska", "ADM3_UA": "Новоархангельська", "ADM3_PCODE": "UA3502013", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "Голованівський", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.889946838000071, 48.616196614000046 ], [ 30.889858441000058, 48.618661146000079 ], [ 30.874668615000076, 48.614449197000056 ], [ 30.869748006000066, 48.614449454000066 ], [ 30.87287695200007, 48.608560171000079 ], [ 30.879060227000025, 48.609097031000033 ], [ 30.878818758000079, 48.613610041000072 ], [ 30.884158033000062, 48.614117148000048 ], [ 30.889946838000071, 48.616196614000046 ] ] ] } }
+]
+}

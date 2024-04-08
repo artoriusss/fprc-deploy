@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.078395331392299997, "Shape_Area": 0.00013517291173000001, "ADM4_EN": "Stadnia", "ADM4_UA": "Стадня", "ADM4_PCODE": "UA5304003050", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lubenska", "ADM3_UA": "Лубенська", "ADM3_PCODE": "UA5304003", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.249424001000079, 49.99068 ], [ 33.246993, 49.982046 ], [ 33.241225, 49.978889 ], [ 33.237001, 49.972913 ], [ 33.233475001000045, 49.971227 ], [ 33.240165, 49.967498 ], [ 33.245292001000053, 49.97559 ], [ 33.248891001000061, 49.976599 ], [ 33.255053, 49.985108 ], [ 33.253644, 49.988698 ], [ 33.249424001000079, 49.99068 ] ] ] } }
+]
+}

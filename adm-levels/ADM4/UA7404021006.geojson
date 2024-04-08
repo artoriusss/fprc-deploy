@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.088315633297600005, "Shape_Area": 0.00014236478911700001, "ADM4_EN": "Vidradne", "ADM4_UA": "Відрадне", "ADM4_PCODE": "UA7404021006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Makiivska", "ADM3_UA": "Макіївська", "ADM3_PCODE": "UA7404021", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.739117040000053, 50.841560970000046 ], [ 31.735842120000029, 50.839783020000027 ], [ 31.736593080000034, 50.836869 ], [ 31.73976, 50.834203020000075 ], [ 31.728246120000051, 50.828914980000036 ], [ 31.730689080000047, 50.826886020000074 ], [ 31.741741800000057, 50.832174060000057 ], [ 31.747655880000025, 50.829495030000032 ], [ 31.754176920000077, 50.833050030000038 ], [ 31.744734119000043, 50.840663040000038 ], [ 31.739117040000053, 50.841560970000046 ] ] ] } }
+]
+}

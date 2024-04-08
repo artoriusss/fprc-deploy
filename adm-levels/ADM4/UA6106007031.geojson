@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.142241054856, "Shape_Area": 0.00039579500738299997, "ADM4_EN": "Porokhova", "ADM4_UA": "Порохова", "ADM4_PCODE": "UA6106007031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Buchatska", "ADM3_UA": "Бучацька", "ADM3_PCODE": "UA6106007", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.261593, 48.961919 ], [ 25.260803999000075, 48.96578 ], [ 25.262544001000037, 48.971027 ], [ 25.258118286000069, 48.974035561000051 ], [ 25.248317001000032, 48.973996 ], [ 25.248248, 48.970267 ], [ 25.252604, 48.966215 ], [ 25.253022, 48.95665 ], [ 25.254658, 48.95364 ], [ 25.255384, 48.948209 ], [ 25.264794, 48.947394 ], [ 25.267934, 48.948858 ], [ 25.267925, 48.952263 ], [ 25.273901, 48.953078 ], [ 25.270866, 48.958317 ], [ 25.266914, 48.960891 ], [ 25.261989, 48.959705 ], [ 25.261593, 48.961919 ] ] ] } }
+]
+}

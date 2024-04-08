@@ -1,30 +1,82 @@
 let breadcrumbNames = ['Ukraine']; 
+let currentLevel = 0;
 
-function updateChartByCategory(chart, category) {
-    const series = chart.series[0]; // Assuming the first series is the one with the drilldown
-    series.points.forEach(point => {
-        // Skip points without properties (like separators in breadcrumbs)
-        if (!point.properties) {
-            return;
+var data
+var drilldownLevel = 0;
+
+const pointsFull = await fetch('test_points.json').then(response => response.json());
+
+const getFilteredMappoints = async function () {
+    let points = await fetch('test_points.json').then(response => response.json());
+    points = await filterByCategories();
+
+    const maxAmount = Math.max(...points.map(p => p.amount)); 
+    const minRadius = 10; 
+    const maxRadius = 60; 
+
+    const scale_factor = (maxRadius - minRadius) / Math.sqrt(maxAmount);
+
+    const calculateRadius = (amount) => {
+        return Math.sqrt(amount) * scale_factor + minRadius;
+    };
+
+    points = points.map(obj => ({
+        ...obj,
+        lat: obj.latitude,
+        lon: obj.longitude,
+        marker: {
+            radius: calculateRadius(obj.amount),
+            fillColor: 'rgba(78, 224, 58, 0.95)' 
         }
+    }));
+    return points;
+}
 
-        const newVal = category === 'Total'
-            ? (point.properties['Total'] === 0 ? 0.0001 : point.properties['Total'])
-            : (point[category] === undefined ? 0.0001 : point[category]);
 
-        point.update({ value: newVal }, false); // False to prevent redrawing for each point
+const filterByCategories = async function () {
+    const points = await fetch('test_points.json').then(response => response.json());
+
+    const objectCategory = document.getElementById('obj-category').value;
+    const settlementType = document.getElementById('settlement-type').value;
+
+    const filteredPoints = points.filter(point => {
+        const matchesObjectCategory = objectCategory === 'all' || point.object_type === objectCategory;
+        const matchesSettlementType = settlementType === 'all' || point.settlement_type === settlementType;
+        return matchesObjectCategory && matchesSettlementType;
     });
-    chart.redraw(); // Redraw once after all points are updated
+    console.log(`Filtered Points. Object Category: ${objectCategory}, Settlement Type: ${settlementType}`);
+    return filteredPoints;
+}
+
+const aggregateByPcode = async function (data) {
+    const points = await filterByCategories(); 
+    data.forEach((d) => {   
+        d.value = 0;
+        d.drilldown = d.properties[`ADM${drilldownLevel+1}_PCODE`];
+        points.forEach(p => {
+            if (d.properties[`ADM${drilldownLevel+1}_PCODE`] === p[`adm${drilldownLevel+1}_pcode`]) {
+                d.value += p.amount;
+            }
+        }
+    )});
+    return data;
+}
+
+const getDrilldownLevel = function (length) {
+    return length > 9 ? 4 : length > 6 ? 3 : length > 4 ? 2 : 1;
 }
 
 const drilldown = async function (e) {
+    //console.log(data);
     if (!e.seriesOptions) {
         const chart = this;
-        const isSecondLevel = e.point.drilldown.length > 4; 
-        const isThirdLevel = e.point.drilldown.length > 6; 
-        const isFourthLevel = e.point.drilldown.length > 9;
 
-        if (isFourthLevel) {
+        const level = getDrilldownLevel(e.point.drilldown.length);
+        drilldownLevel = level;
+
+        if (level === 4) {
+            console.log(chart)
+            console.log("Drilldown level: ", level);
             chart.update({
                 mapView: {
                     projection: {
@@ -33,34 +85,7 @@ const drilldown = async function (e) {
                 }
             }, false);
 
-            const points = await fetch('points.json').then(response => response.json());
-            const convertToFloat = str => parseFloat(str.replace(',', '.'));
-
-            const pointsConverted = points.map(obj => ({
-                ...obj,
-                lat: convertToFloat(obj.lat),
-                lon: convertToFloat(obj.lon)
-            }));
-
-            const maxAmount = Math.max(...points.map(p => p.amount)); 
-            const minRadius = 5; 
-            const maxRadius = 40; 
-
-            const scale_factor = (maxRadius - minRadius) / Math.sqrt(maxAmount);
-
-            const calculateRadius = (amount) => {
-                return Math.sqrt(amount) * scale_factor + minRadius;
-            };
-
-            const pointsWithRadii = points.map(obj => ({
-                ...obj,
-                lat: convertToFloat(obj.lat),
-                lon: convertToFloat(obj.lon),
-                marker: {
-                    radius: calculateRadius(obj.amount),
-                    fillColor: 'rgba(124, 181, 236, 0.8)' 
-                }
-            }));
+            let pointsConverted = await getFilteredMappoints();
 
             while (chart.series.length > 0) {
                 chart.series[0].remove(false);
@@ -76,6 +101,7 @@ const drilldown = async function (e) {
                 color: 'rgba(128,128,128,0.3)'
             }, false); 
 
+
             chart.addSeries({
                 type: 'mappoint',
                 name: 'Mappoints',
@@ -86,62 +112,51 @@ const drilldown = async function (e) {
                     }
                 },
                 dataLabels: {
-                    enabled: true
+                    enabled: true,
+                    format: '{point.options.object_type} - {point.options.settlement_type}'
                 },
-                data: pointsWithRadii
+                data: pointsConverted
             }, false);
 
+            chart.mapView.update({
+                projection: {
+                    name: 'WebMercator'
+                },
+                // center: [30.241707892961198, 50.51925906538692], 
+                // zoom: 13
+            }, false);
             chart.redraw(); 
             chart.hideLoading();
             return;
         }
 
         let mapKey = 'adm-levels/';
-        if (isFourthLevel) {
-            mapKey += `ADM5/${e.point.drilldown}.geojson`;
-        } else if (isThirdLevel) {
+        if (level === 3) {
             mapKey += `ADM4/${e.point.drilldown}.geojson`;
-        } else if (isSecondLevel) {
+        } else if (level === 2) {
             mapKey += `ADM3/${e.point.drilldown}.geojson`;
         } else {
             mapKey += `ADM2/${e.point.drilldown}.geojson`;
-        }
+        }  
+        //console.log(mapKey);
 
         chart.showLoading('<i class="icon-spinner icon-spin icon-3x"></i>'); 
         const topology = await fetch(mapKey).then(response => response.json());
-        let data = Highcharts.geojson(topology);
+        data = Highcharts.geojson(topology);
 
         chart.hideLoading(); 
 
-        const seriesName = e.point.properties[`ADM${isFourthLevel ? '4' : isThirdLevel ? '3' : isSecondLevel ? '2' : '1'}_UA`];
-        if (isFourthLevel) {
-            breadcrumbNames = [seriesName];
-        } else if (isThirdLevel) {
-            breadcrumbNames = [seriesName];
-        } else if (isSecondLevel) {
-            breadcrumbNames = [seriesName];
-        } else {
-            breadcrumbNames = [seriesName];
-        }
+        const seriesName = e.point.properties[`ADM${drilldownLevel}_UA`];
+        breadcrumbNames = [seriesName];
 
-        data.forEach((d, i) => {
-            d.value = i; 
-            d.drilldown = d.properties[isThirdLevel ? 'ADM4_PCODE' : isSecondLevel ? 'ADM3_PCODE' : 'ADM2_PCODE'];
-            d.value = d.properties['Total'];
-            d.a = d.properties['Транспорт'],
-            d.b = d.properties['Освіта'],
-            d.c = d.properties['Медицина'],
-            d.d = d.properties['Житло'],
-            d.e = d.properties['Адміністративні'],
-            d.f = d.properties['Інше']
-        });
+        data = await aggregateByPcode(data);
 
         chart.addSeriesAsDrilldown(e.point, {
             name: seriesName,
             data: data,
             dataLabels: {
                 enabled: true,
-                format: `{point.properties.${isThirdLevel ? 'ADM4_UA' : isSecondLevel ? 'ADM3_UA' : 'ADM2_UA'}}`
+                format: `{point.properties.ADM${drilldownLevel+1}_UA}`
             }
         });
 
@@ -149,6 +164,7 @@ const drilldown = async function (e) {
 };
 
 const afterDrillUp = function (e) {
+    drilldownLevel -= 1;
     const chart = e.target;
     setTimeout(function() {
         const seriesTypesToRemove = ['tiledwebmap', 'mappoint'];
@@ -173,46 +189,22 @@ const afterDrillUp = function (e) {
 };
 
 (async () => {
-    const response = await fetch('adm-levels/adm1_merged.geojson');
+    const response = await fetch('adm-levels/adm1.json');
     const topology = await response.json();
-    const data = Highcharts.geojson(topology);
+    data = Highcharts.geojson(topology);
 
-    data.forEach((d, i) => {
-        d.drilldown = d.properties.ADM1_PCODE;
-        d.value = d.properties['Total'];
-        d.a = d.properties['Транспорт'],
-        d.b = d.properties['Освіта'],
-        d.c = d.properties['Медицина'],
-        d.d = d.properties['Житло'],
-        d.e = d.properties['Адміністративні'],
-        d.f = d.properties['Інше']
-    });
+    data = await aggregateByPcode(data, 0, 'all');
 
-    console.log(data);
+    //console.log(data);
 
     Highcharts.mapChart('container', {
+        custom: {
+            customData: data
+        },
         chart: {
             events: {
                 drilldown,
-                afterDrillUp,
-                load() {
-                    const chart = this; // Reference to the chart instance
-                    
-                    // Select the dropdown element
-                    const selectElement = document.getElementById('obj-category');
-    
-                    // Update chart when the dropdown changes
-                    selectElement.addEventListener('change', function () {
-                        const selectedCategory = this.value;
-                        updateChartByCategory(chart, selectedCategory);
-                    });
-    
-                    // Update the chart based on the current selection on initial load
-                    const selectedCategory = selectElement.value;
-                    if (selectedCategory !== 'Total') { // Assuming 'Total' is the default selection
-                        updateChartByCategory(chart, selectedCategory);
-                    }
-                }
+                afterDrillUp
             }
         },
 
@@ -259,7 +251,7 @@ const afterDrillUp = function (e) {
         },
 
         series: [{
-            data,
+            data: data,
             name: 'Ukraine',
             dataLabels: {
                 enabled: true,
@@ -297,4 +289,73 @@ const afterDrillUp = function (e) {
             }
         }
     });
+    let allPointsData;
+    fetch('test_points.json').then(response => response.json()).then(data => {
+        allPointsData = data;
+    });
+
+    document.getElementById('obj-category').addEventListener('change', async (e) => {
+        //console.log('change. category: ', e.target.value);
+        //console.log(filterByCategories(data));
+        const selectedCategory = e.target.value;
+        const chart = Highcharts.charts[0]; 
+    
+        let aggregatedData = await aggregateByPcode(data); 
+        //console.log(aggregatedData);
+        chart.series[0].setData(aggregatedData); 
+    });
+
+    document.getElementById('settlement-type').addEventListener('change', async (e) => {
+        if (drilldownLevel !== 4) {
+            const selectedCategory = e.target.value;
+            const chart = Highcharts.charts[0]; 
+        
+            let aggregatedData = await aggregateByPcode(data); 
+            console.log('SERIES 0', chart.series);
+            chart.series[0].setData(aggregatedData); 
+        }  else {
+            const chart = Highcharts.charts[0]; 
+            let pointsConverted = await getFilteredMappoints();
+
+            // while (chart.series.length > 0) {
+            //     chart.series[0].remove(false);
+            // }
+            chart.series[1].remove();
+
+            chart.addSeries({
+                type: 'tiledwebmap',
+                name: 'TWM Tiles',
+                provider: {
+                    type: 'OpenStreetMap',
+                    theme: 'Standard'
+                },
+                color: 'rgba(128,128,128,0.3)'
+            }, false); 
+
+
+            chart.addSeries({
+                type: 'mappoint',
+                name: 'Mappoints',
+                enableMouseTracking: false,
+                states: {
+                    inactive: {
+                        enabled: false
+                    }
+                },
+                dataLabels: {
+                    enabled: true,
+                    format: '{point.options.object_type} - {point.options.settlement_type}'
+                },
+                data: pointsConverted
+            }, false);
+
+            chart.mapView.update({
+                projection: {
+                    name: 'WebMercator'
+                },
+            }, false);
+            chart.redraw(); 
+        }
+    });
+
 })();

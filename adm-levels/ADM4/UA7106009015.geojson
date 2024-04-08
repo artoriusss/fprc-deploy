@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.057941298123299997, "Shape_Area": 0.00012106401721500001, "ADM4_EN": "Meduvata", "ADM4_UA": "Медувата", "ADM4_PCODE": "UA7106009015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhashkivska", "ADM3_UA": "Жашківська", "ADM3_PCODE": "UA7106009", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.010931001000074, 49.018407 ], [ 30.010534999000072, 49.01411 ], [ 30.015202999000053, 49.012156 ], [ 30.022157001000039, 49.006317 ], [ 30.027488, 49.009015 ], [ 30.029451001000041, 49.011717 ], [ 30.028466001000027, 49.01565 ], [ 30.023411, 49.017909 ], [ 30.020577999000068, 49.0135 ], [ 30.010931001000074, 49.018407 ] ] ] } }
+]
+}

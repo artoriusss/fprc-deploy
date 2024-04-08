@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.085994900989800005, "Shape_Area": 0.00023407600506, "ADM4_EN": "Rudkivtsi", "ADM4_UA": "Рудківці", "ADM4_PCODE": "UA6802019043", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoushytska", "ADM3_UA": "Новоушицька", "ADM3_PCODE": "UA6802019", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.367632, 48.643407 ], [ 27.357629999000039, 48.646374 ], [ 27.35281, 48.642717 ], [ 27.347482, 48.644148 ], [ 27.343440001000033, 48.643936 ], [ 27.346182, 48.635485 ], [ 27.351675, 48.634724 ], [ 27.360974, 48.636447 ], [ 27.367806999000038, 48.638563 ], [ 27.37151, 48.640955 ], [ 27.367632, 48.643407 ] ] ] } }
+]
+}

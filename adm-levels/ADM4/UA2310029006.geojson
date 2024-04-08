@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.054259408923599997, "Shape_Area": 7.2694341373800002e-05, "ADM4_EN": "Mezhyrich", "ADM4_UA": "Межиріч", "ADM4_PCODE": "UA2310029006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Fedorivska", "ADM3_UA": "Федорівська", "ADM3_PCODE": "UA2310029", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.409683550000068, 47.607778752000058 ], [ 36.408767121000039, 47.604428114000029 ], [ 36.411953788000062, 47.602529703000073 ], [ 36.423766931000046, 47.598739261000048 ], [ 36.42069893300004, 47.603778273000046 ], [ 36.409683550000068, 47.607778752000058 ] ] ] } }
+]
+}

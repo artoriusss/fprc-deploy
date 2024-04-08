@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.183843862981, "Shape_Area": 0.00050559345838700005, "ADM4_EN": "Kniazha Krynytsia", "ADM4_UA": "Княжа Криниця", "ADM4_PCODE": "UA7106017013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Monastyryshchenska", "ADM3_UA": "Монастирищенська", "ADM3_PCODE": "UA7106017", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.746471, 49.110649 ], [ 29.751173001000041, 49.105556 ], [ 29.740721, 49.099527 ], [ 29.742415, 49.097064 ], [ 29.734334, 49.095126 ], [ 29.732777001000045, 49.089123 ], [ 29.734216, 49.086412 ], [ 29.741163, 49.084486 ], [ 29.742852, 49.081497 ], [ 29.748621, 49.083448 ], [ 29.750085999000078, 49.087028 ], [ 29.754906, 49.090597 ], [ 29.757189, 49.094545 ], [ 29.764295, 49.097639 ], [ 29.763877, 49.105188 ], [ 29.757557999000028, 49.106732 ], [ 29.754863001000047, 49.104921 ], [ 29.746471, 49.110649 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.022853608202100001, "Shape_Area": 1.01321275075e-05, "ADM4_EN": "Tarasenky", "ADM4_UA": "Тарасенки", "ADM4_PCODE": "UA3214015017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Fastivska", "ADM3_UA": "Фастівська", "ADM3_PCODE": "UA3214015", "ADM2_EN": "Fastivskyi", "ADM2_UA": "Фастівський", "ADM2_PCODE": "UA3214", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.987125397000057, 50.158734965000065 ], [ 29.987007425000058, 50.159589802000028 ], [ 29.980263406000063, 50.160138814000049 ], [ 29.980393410000033, 50.15945182300004 ], [ 29.987125397000057, 50.158734965000065 ] ] ] } }
+]
+}

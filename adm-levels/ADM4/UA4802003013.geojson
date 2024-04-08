@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.060847431721200003, "Shape_Area": 0.00011081195629, "ADM4_EN": "Liubomyrivka", "ADM4_UA": "Любомирівка", "ADM4_PCODE": "UA4802003013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bereznehuvatska", "ADM3_UA": "Березнегуватська", "ADM3_PCODE": "UA4802003", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.882345064000049, 47.196007045000044 ], [ 32.878922291000038, 47.192618089000064 ], [ 32.874290933000054, 47.191167319000044 ], [ 32.872716403000027, 47.178010725000036 ], [ 32.877863671000057, 47.178480407000052 ], [ 32.879854453000064, 47.181802464000043 ], [ 32.880485427000053, 47.188395426000056 ], [ 32.882173425000076, 47.190735417000042 ], [ 32.882345064000049, 47.196007045000044 ] ] ] } }
+]
+}

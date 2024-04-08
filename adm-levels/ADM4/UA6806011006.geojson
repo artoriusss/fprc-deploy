@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.156939826043, "Shape_Area": 0.00015186789627800001, "ADM4_EN": "Lysyche", "ADM4_UA": "Лисиче", "ADM4_PCODE": "UA6806011006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krupetska", "ADM3_UA": "Крупецька", "ADM3_PCODE": "UA6806011", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.778664508000077, 50.404482783000049 ], [ 26.776998, 50.404306 ], [ 26.77176, 50.395559 ], [ 26.757217, 50.389917 ], [ 26.764523999000062, 50.388686 ], [ 26.765168, 50.392052 ], [ 26.779044999000064, 50.389841 ], [ 26.78129, 50.39357 ], [ 26.774491, 50.394715 ], [ 26.77903199900004, 50.402736 ], [ 26.778664508000077, 50.404482783000049 ] ] ] } }
+]
+}

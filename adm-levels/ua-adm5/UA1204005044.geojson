@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.027033997387500001, "Shape_Area": 4.2034924194799999e-05, "ADM4_EN": "Tomakivka", "ADM4_UA": "Ð¢Ð¾Ð¼Ð°ÐºÑÐ²ÐºÐ°", "ADM4_RU": "Ð¢Ð¾Ð¼Ð°ÐºÐ¾Ð²ÐºÐ°", "ADM4_PCODE": "UA1204005044", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Verkhnodniprovska", "ADM3_UA": "ÐÐµÑÑÐ½ÑÐ¾Ð´Ð½ÑÐ¿ÑÐ¾Ð²ÑÑÐºÐ°", "ADM3_RU": "ÐÐµÑÑÐ½ÐµÐ´Ð½ÐµÐ¿ÑÐ¾Ð²ÑÐºÐ°Ñ", "ADM3_PCODE": "UA1204005", "ADM2_EN": "Kamianskyi", "ADM2_UA": "ÐÐ°Ð¼âÑÐ½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐ°Ð¼ÐµÐ½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "ÐÐ½ÑÐ¿ÑÐ¾Ð¿ÐµÑÑÐ¾Ð²ÑÑÐºÐ°", "ADM1_RU": "ÐÐ½ÐµÐ¿ÑÐ¾Ð¿ÐµÑÑÐ¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.159884, 48.588499 ], [ 34.161579, 48.588111 ], [ 34.161812, 48.588204 ], [ 34.162045, 48.58822 ], [ 34.162439, 48.588036 ], [ 34.163088001000062, 48.587668 ], [ 34.160156999000037, 48.582779 ], [ 34.157398, 48.581801 ], [ 34.155151, 48.580997 ], [ 34.155523, 48.589187 ], [ 34.157271, 48.588984 ], [ 34.159884, 48.588499 ] ] ] } }
-]
-}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.067918299523899994, "Shape_Area": 0.000113669565375, "ADM4_EN": "Radky", "ADM4_UA": "Радьки", "ADM4_PCODE": "UA5304011071", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khorolska", "ADM3_UA": "Хорольська", "ADM3_PCODE": "UA5304011", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.278799, 49.825083 ], [ 33.276231, 49.826587 ], [ 33.270086, 49.82517 ], [ 33.262270001000047, 49.825094 ], [ 33.261177, 49.819465 ], [ 33.265982, 49.817122 ], [ 33.267193, 49.814196 ], [ 33.271687, 49.820448 ], [ 33.276933, 49.821716 ], [ 33.278799, 49.825083 ] ] ] } }
+]
+}

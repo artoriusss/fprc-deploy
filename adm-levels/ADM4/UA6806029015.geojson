@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.083514657259300004, "Shape_Area": 9.64545161771e-05, "ADM4_EN": "Pashuky", "ADM4_UA": "Пашуки", "ADM4_PCODE": "UA6806029015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sudylkivska", "ADM3_UA": "Судилківська", "ADM3_PCODE": "UA6806029", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.073134999000047, 50.097288 ], [ 27.065676, 50.098491 ], [ 27.062062, 50.10017 ], [ 27.059796, 50.096432 ], [ 27.061748001000069, 50.090794 ], [ 27.058966999000063, 50.086762 ], [ 27.063035, 50.085594 ], [ 27.066272, 50.089763 ], [ 27.068068, 50.09425 ], [ 27.073134999000047, 50.097288 ] ] ] } }
+]
+}

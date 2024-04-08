@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.122093177685, "Shape_Area": 0.000247156706074, "ADM4_EN": "Sadzhava", "ADM4_UA": "Саджава", "ADM4_PCODE": "UA2604003015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bohorodchanska", "ADM3_UA": "Богородчанська", "ADM3_PCODE": "UA2604003", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 24.491574, 48.826135 ], [ 24.486461, 48.826954 ], [ 24.482787, 48.829861 ], [ 24.472404, 48.822935 ], [ 24.469924, 48.819491 ], [ 24.466881, 48.819137 ], [ 24.462958123000078, 48.814335003000053 ], [ 24.472809917000063, 48.813038985000048 ], [ 24.475838001000056, 48.816554 ], [ 24.482612, 48.817772 ], [ 24.491574, 48.826135 ] ] ], [ [ [ 24.48163, 48.836811 ], [ 24.479486001000055, 48.841378 ], [ 24.476904, 48.83893 ], [ 24.479129, 48.834502 ], [ 24.48163, 48.836811 ] ] ] ] } }
+]
+}

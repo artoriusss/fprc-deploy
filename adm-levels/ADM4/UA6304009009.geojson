@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.103007972071, "Shape_Area": 8.7256219229099995e-05, "ADM4_EN": "Kramarivka", "ADM4_UA": "Крамарівка", "ADM4_PCODE": "UA6304009009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Iziumska", "ADM3_UA": "Ізюмська", "ADM3_PCODE": "UA6304009", "ADM2_EN": "Iziumskyi", "ADM2_UA": "Ізюмський", "ADM2_PCODE": "UA6304", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.26072, 49.281566 ], [ 37.264016, 49.278628 ], [ 37.261751, 49.274589 ], [ 37.270018999000058, 49.276548 ], [ 37.273156, 49.27396999900003 ], [ 37.275313, 49.27722 ], [ 37.26072, 49.281566 ] ] ] } }
+]
+}

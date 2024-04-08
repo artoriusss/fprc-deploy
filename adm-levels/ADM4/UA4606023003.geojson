@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.047801381517400002, "Shape_Area": 7.8525944556399999e-05, "ADM4_EN": "Velykyi Doroshiv", "ADM4_UA": "Великий Дорошів", "ADM4_PCODE": "UA4606023003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kulykivska", "ADM3_UA": "Куликівська", "ADM3_PCODE": "UA4606023", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.058991209000055, 49.952925007000033 ], [ 24.057545209000068, 49.955420007000043 ], [ 24.051778210000066, 49.952916008000045 ], [ 24.050500211000042, 49.947994007000034 ], [ 24.057696210000074, 49.945880007000028 ], [ 24.063661208000042, 49.947873007000055 ], [ 24.058991209000055, 49.952925007000033 ] ] ] } }
+]
+}

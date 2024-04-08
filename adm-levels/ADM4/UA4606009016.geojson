@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.039973426397499998, "Shape_Area": 7.9101245285200002e-05, "ADM4_EN": "Mykolaiv", "ADM4_UA": "Миколаїв", "ADM4_PCODE": "UA4606009016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Davydivska", "ADM3_UA": "Давидівська", "ADM3_PCODE": "UA4606009", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.340400157000033, 49.761119005000069 ], [ 24.338559157000077, 49.764668005000033 ], [ 24.335833156000035, 49.765036006000059 ], [ 24.330870158000039, 49.760198006000053 ], [ 24.33036015700003, 49.755991004000066 ], [ 24.337113157000033, 49.754899005000027 ], [ 24.339532157000065, 49.757347006000032 ], [ 24.340400157000033, 49.761119005000069 ] ] ] } }
+]
+}

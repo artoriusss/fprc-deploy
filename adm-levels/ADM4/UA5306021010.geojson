@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.055450472445200003, "Shape_Area": 5.5349273470699998e-05, "ADM4_EN": "Soldatove", "ADM4_UA": "Солдатове", "ADM4_PCODE": "UA5306021010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Liutenska", "ADM3_UA": "Лютенська", "ADM3_PCODE": "UA5306021", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.869807, 50.161621 ], [ 33.867593, 50.163288 ], [ 33.864439999000069, 50.159998 ], [ 33.864817, 50.15455 ], [ 33.869216999000059, 50.152577 ], [ 33.876433, 50.159388 ], [ 33.874468, 50.16005 ], [ 33.868765, 50.154452 ], [ 33.867291, 50.159014 ], [ 33.869807, 50.161621 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.080132985565200002, "Shape_Area": 0.00015717659000499999, "ADM4_EN": "Hrytsenky", "ADM4_UA": "Гриценки", "ADM4_PCODE": "UA6804001007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Antoninska", "ADM3_UA": "Антонінська", "ADM3_PCODE": "UA6804001", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.758759, 49.813404 ], [ 26.752729, 49.815603 ], [ 26.753362, 49.81246 ], [ 26.750331999000025, 49.807383 ], [ 26.758776, 49.804814 ], [ 26.761507, 49.807865 ], [ 26.766928999000072, 49.806204 ], [ 26.768062001000033, 49.809684 ], [ 26.774508, 49.809277 ], [ 26.776302999000052, 49.812299 ], [ 26.76496, 49.814528 ], [ 26.758759, 49.813404 ] ] ] } }
+]
+}

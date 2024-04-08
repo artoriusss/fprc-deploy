@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.151265681825, "Shape_Area": 0.00036702949487599999, "ADM4_EN": "Letava", "ADM4_UA": "Летава", "ADM4_PCODE": "UA6802029026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chemerovetska", "ADM3_UA": "Чемеровецька", "ADM3_PCODE": "UA6802029", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.296679, 48.912536 ], [ 26.293767, 48.911342 ], [ 26.285744, 48.913143 ], [ 26.284879, 48.908388 ], [ 26.291017, 48.907616 ], [ 26.305587, 48.90399 ], [ 26.307699, 48.902948 ], [ 26.314678, 48.902837 ], [ 26.320924, 48.90174999900006 ], [ 26.322457001000032, 48.903538 ], [ 26.337196, 48.900936 ], [ 26.338668, 48.904976 ], [ 26.333689, 48.907885 ], [ 26.329083, 48.90797 ], [ 26.314316001000066, 48.912043 ], [ 26.306703001000074, 48.913169 ], [ 26.303709, 48.910386 ], [ 26.296679, 48.912536 ] ] ] } }
+]
+}

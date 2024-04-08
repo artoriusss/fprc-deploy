@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.066147015098600007, "Shape_Area": 0.00012394867035000001, "ADM4_EN": "Zahatka", "ADM4_UA": "Загатка", "ADM4_PCODE": "UA7410025012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykhailo-Kotsiubynska", "ADM3_UA": "Михайло-Коцюбинська", "ADM3_PCODE": "UA7410025", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.664922040000079, 51.343974 ], [ 30.656436120000023, 51.339171960000044 ], [ 30.655081080000059, 51.335881020000045 ], [ 30.657943080000052, 51.33105702000006 ], [ 30.667273200000068, 51.331677030000037 ], [ 30.668202, 51.336936 ], [ 30.665500920000056, 51.337745010000049 ], [ 30.668410080000058, 51.34329396000004 ], [ 30.664922040000079, 51.343974 ] ] ] } }
+]
+}

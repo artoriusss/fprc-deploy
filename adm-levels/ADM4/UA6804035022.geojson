@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.10447602435800001, "Shape_Area": 0.000191164183235, "ADM4_EN": "Satanivka", "ADM4_UA": "Сатанівка", "ADM4_PCODE": "UA6804035022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Satanivska", "ADM3_UA": "Сатанівська", "ADM3_PCODE": "UA6804035", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.262027999000054, 49.269258 ], [ 26.278266, 49.269949 ], [ 26.279854, 49.273342 ], [ 26.265454001000023, 49.274555 ], [ 26.260085999000069, 49.276078 ], [ 26.253436, 49.272128 ], [ 26.249457, 49.274596 ], [ 26.241425941000045, 49.277036991000045 ], [ 26.243684804000054, 49.27225702100003 ], [ 26.255407675000072, 49.266603451000037 ], [ 26.262147390000052, 49.267291321000073 ], [ 26.262027999000054, 49.269258 ] ] ] } }
+]
+}

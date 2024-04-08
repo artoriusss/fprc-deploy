@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.0840399818587, "Shape_Area": 0.000316470599406, "ADM4_EN": "Stare Selo", "ADM4_UA": "Старе Село", "ADM4_PCODE": "UA5908019005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nyzhnosyrovatska", "ADM3_UA": "Нижньосироватська", "ADM3_PCODE": "UA5908019", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.82023, 50.82991 ], [ 34.809971, 50.831012 ], [ 34.803989, 50.829851 ], [ 34.792997, 50.826041 ], [ 34.790938001000029, 50.823952 ], [ 34.791217, 50.820434 ], [ 34.795032, 50.81669 ], [ 34.803381, 50.81889 ], [ 34.813963, 50.81934 ], [ 34.819533, 50.821186 ], [ 34.823375001000045, 50.825559 ], [ 34.824177, 50.829562 ], [ 34.82023, 50.82991 ] ] ] } }
+]
+}

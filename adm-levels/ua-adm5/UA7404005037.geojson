@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.021192829731599999, "Shape_Area": 2.7253347341800001e-05, "ADM4_EN": "Urozhaine", "ADM4_UA": "Ð£ÑÐ¾Ð¶Ð°Ð¹Ð½Ðµ", "ADM4_RU": "Ð£ÑÐ¾Ð¶Ð°Ð¹Ð½Ð¾Ðµ", "ADM4_PCODE": "UA7404005037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bobrovytska", "ADM3_UA": "ÐÐ¾Ð±ÑÐ¾Ð²Ð¸ÑÑÐºÐ°", "ADM3_RU": "ÐÐ¾Ð±ÑÐ¾Ð²Ð¸ÑÐºÐ°Ñ", "ADM3_PCODE": "UA7404005", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "ÐÑÐ¶Ð¸Ð½ÑÑÐºÐ¸Ð¹", "ADM2_RU": "ÐÐµÐ¶Ð¸Ð½ÑÐºÐ¸Ð¹", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Ð§ÐµÑÐ½ÑÐ³ÑÐ²ÑÑÐºÐ°", "ADM1_RU": "Ð§ÐµÑÐ½Ð¸Ð³Ð¾Ð²ÑÐºÐ°Ñ", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Ð£ÐºÑÐ°ÑÐ½Ð°", "ADM0_RU": "Ð£ÐºÑÐ°Ð¸Ð½Ð°", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "amount": 0.0, "longitude": "0", "latitude": "0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.50053280000003, 50.756708970000034 ], [ 31.499147160000064, 50.756638050000049 ], [ 31.497788161000074, 50.763083040000026 ], [ 31.499182079000036, 50.763401010000052 ], [ 31.501613160000034, 50.763667050000038 ], [ 31.502342879000025, 50.762485980000065 ], [ 31.502757960000054, 50.75677206000006 ], [ 31.50053280000003, 50.756708970000034 ] ] ] } }
-]
-}

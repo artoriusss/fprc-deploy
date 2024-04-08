@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.062131313547099998, "Shape_Area": 5.1856647811900002e-05, "ADM4_EN": "Norytsia", "ADM4_UA": "Нориця", "ADM4_PCODE": "UA7406001028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Koropska", "ADM3_UA": "Коропська", "ADM3_PCODE": "UA7406001", "ADM2_EN": "Novhorod-Siverskyi", "ADM2_UA": "Новгород-Сіверський", "ADM2_PCODE": "UA7406", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.777047079000056, 51.483045960000027 ], [ 32.779422, 51.480829980000067 ], [ 32.783664960000067, 51.480626940000036 ], [ 32.790967920000071, 51.478785990000063 ], [ 32.79451320000004, 51.476648040000043 ], [ 32.794251120000069, 51.480724050000049 ], [ 32.788466999000036, 51.48109197000008 ], [ 32.781120840000028, 51.483313980000048 ], [ 32.777047079000056, 51.483045960000027 ] ] ] } }
+]
+}

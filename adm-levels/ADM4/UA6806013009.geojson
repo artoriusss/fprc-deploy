@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.101375614148, "Shape_Area": 0.000199866545488, "ADM4_EN": "Lavrynivtsi", "ADM4_UA": "Лавринівці", "ADM4_PCODE": "UA6806013009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lenkovetska", "ADM3_UA": "Ленковецька", "ADM3_PCODE": "UA6806013", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.016541, 49.946261 ], [ 27.014089, 49.947206 ], [ 27.01368, 49.951048 ], [ 27.008244, 49.951037 ], [ 27.006158, 49.94945 ], [ 26.988646, 49.950115 ], [ 26.984431999000037, 49.949034999000048 ], [ 26.986511, 49.945957 ], [ 26.99119, 49.945469 ], [ 26.988400999000078, 49.939954 ], [ 26.99319, 49.94136 ], [ 27.00081, 49.940165 ], [ 27.000974, 49.943602 ], [ 27.016541, 49.946261 ] ] ] } }
+]
+}

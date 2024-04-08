@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.087370251741499996, "Shape_Area": 0.00013160578003800001, "ADM4_EN": "Liubechanyniv", "ADM4_UA": "Любечанинів", "ADM4_PCODE": "UA7410031015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Osterska", "ADM3_UA": "Остерська", "ADM3_PCODE": "UA7410031", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.932048880000025, 50.941331010000056 ], [ 30.927845160000061, 50.944347 ], [ 30.926674801000047, 50.940495 ], [ 30.916438199000027, 50.940323010000043 ], [ 30.910917960000063, 50.937814980000041 ], [ 30.916064880000079, 50.933603970000036 ], [ 30.922085880000054, 50.932633950000081 ], [ 30.921397920000061, 50.937289020000037 ], [ 30.931765920000032, 50.935888980000072 ], [ 30.933646920000058, 50.938768980000077 ], [ 30.932048880000025, 50.941331010000056 ] ] ] } }
+]
+}

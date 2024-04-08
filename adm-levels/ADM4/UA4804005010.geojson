@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.064096267049299993, "Shape_Area": 7.5418427255600001e-05, "ADM4_EN": "Zvenyhorodka", "ADM4_UA": "Звенигородка", "ADM4_PCODE": "UA4804005010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Veselynivska", "ADM3_UA": "Веселинівська", "ADM3_PCODE": "UA4804005", "ADM2_EN": "Voznesenskyi", "ADM2_UA": "Вознесенський", "ADM2_PCODE": "UA4804", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.166038369000034, 47.387183260000029 ], [ 31.163868743000023, 47.391936889000078 ], [ 31.158996784000067, 47.391506697000068 ], [ 31.158539218000044, 47.387037019000047 ], [ 31.169121550000057, 47.385034913000027 ], [ 31.179991839000024, 47.379734281000026 ], [ 31.179511139000056, 47.383866298000044 ], [ 31.166038369000034, 47.387183260000029 ] ] ] } }
+]
+}

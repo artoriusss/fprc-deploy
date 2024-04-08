@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.071633881477199998, "Shape_Area": 0.00013078121921000001, "ADM4_EN": "Lukivka", "ADM4_UA": "Луківка", "ADM4_PCODE": "UA7102015011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Katerynopilska", "ADM3_UA": "Катеринопільська", "ADM3_PCODE": "UA7102015", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.941084, 48.839792 ], [ 30.935623, 48.838605 ], [ 30.936115, 48.833379 ], [ 30.934572, 48.830676 ], [ 30.926614, 48.8261 ], [ 30.928473, 48.824557 ], [ 30.944326999000054, 48.83318 ], [ 30.948445999000057, 48.832894 ], [ 30.95053, 48.836969 ], [ 30.947057001000076, 48.838839 ], [ 30.941084, 48.839792 ] ] ] } }
+]
+}

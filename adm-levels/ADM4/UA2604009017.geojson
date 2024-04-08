@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.077703591509600003, "Shape_Area": 0.00018909518235, "ADM4_EN": "Ostriv", "ADM4_UA": "Острів", "ADM4_PCODE": "UA2604009017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Halytska", "ADM3_UA": "Галицька", "ADM3_PCODE": "UA2604009", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.635700144000054, 49.163666171000045 ], [ 24.627957400000071, 49.165263241000048 ], [ 24.621171827000069, 49.16398864100006 ], [ 24.618298827000046, 49.161557196000047 ], [ 24.615752258000043, 49.152939015000072 ], [ 24.625136378000036, 49.154836107000051 ], [ 24.631817803000047, 49.153174629000034 ], [ 24.63483971200003, 49.156748490000041 ], [ 24.638458939000031, 49.157231849000027 ], [ 24.635700144000054, 49.163666171000045 ] ] ] } }
+]
+}

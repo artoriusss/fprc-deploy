@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.064697390972100005, "Shape_Area": 0.00014641302260100001, "ADM4_EN": "Vilnianka", "ADM4_UA": "Вільнянка", "ADM4_PCODE": "UA2310021004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Preobrazhenska", "ADM3_UA": "Преображенська", "ADM3_PCODE": "UA2310021", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.829047995000053, 47.776021641000057 ], [ 35.811969755000064, 47.773947960000044 ], [ 35.813402665000069, 47.769408105000025 ], [ 35.812537507000059, 47.765981363000037 ], [ 35.833447153000066, 47.769634574000065 ], [ 35.83260972000005, 47.772992277000071 ], [ 35.829047995000053, 47.776021641000057 ] ] ] } }
+]
+}
