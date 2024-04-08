@@ -295,43 +295,18 @@ const afterDrillUp = function (e) {
     });
 
     document.getElementById('obj-category').addEventListener('change', async (e) => {
-        //console.log('change. category: ', e.target.value);
-        //console.log(filterByCategories(data));
-        const selectedCategory = e.target.value;
-        const chart = Highcharts.charts[0]; 
-    
-        let aggregatedData = await aggregateByPcode(data); 
-        //console.log(aggregatedData);
-        chart.series[0].setData(aggregatedData); 
-    });
-
-    document.getElementById('settlement-type').addEventListener('change', async (e) => {
         if (drilldownLevel !== 4) {
             const selectedCategory = e.target.value;
             const chart = Highcharts.charts[0]; 
         
             let aggregatedData = await aggregateByPcode(data); 
-            console.log('SERIES 0', chart.series);
             chart.series[0].setData(aggregatedData); 
-        }  else {
+        } 
+        else {
             const chart = Highcharts.charts[0]; 
-            let pointsConverted = await getFilteredMappoints();
+            let points = await getFilteredMappoints();
 
-            // while (chart.series.length > 0) {
-            //     chart.series[0].remove(false);
-            // }
             chart.series[1].remove();
-
-            chart.addSeries({
-                type: 'tiledwebmap',
-                name: 'TWM Tiles',
-                provider: {
-                    type: 'OpenStreetMap',
-                    theme: 'Standard'
-                },
-                color: 'rgba(128,128,128,0.3)'
-            }, false); 
-
 
             chart.addSeries({
                 type: 'mappoint',
@@ -346,7 +321,7 @@ const afterDrillUp = function (e) {
                     enabled: true,
                     format: '{point.options.object_type} - {point.options.settlement_type}'
                 },
-                data: pointsConverted
+                data: points
             }, false);
 
             chart.mapView.update({
@@ -358,4 +333,42 @@ const afterDrillUp = function (e) {
         }
     });
 
+    document.getElementById('settlement-type').addEventListener('change', async (e) => {
+        if (drilldownLevel !== 4) {
+            const selectedCategory = e.target.value;
+            const chart = Highcharts.charts[0]; 
+        
+            let aggregatedData = await aggregateByPcode(data); 
+            console.log('SERIES 0', chart.series);
+            chart.series[0].setData(aggregatedData); 
+        }  else {
+            const chart = Highcharts.charts[0]; 
+            let points = await getFilteredMappoints();
+
+            chart.series[1].remove();
+
+            chart.addSeries({
+                type: 'mappoint',
+                name: 'Mappoints',
+                enableMouseTracking: false,
+                states: {
+                    inactive: {
+                        enabled: false
+                    }
+                },
+                dataLabels: {
+                    enabled: true,
+                    format: '{point.options.object_type} - {point.options.settlement_type}'
+                },
+                data: points
+            }, false);
+
+            chart.mapView.update({
+                projection: {
+                    name: 'WebMercator'
+                },
+            }, false);
+            chart.redraw(); 
+        }
+    });
 })();
