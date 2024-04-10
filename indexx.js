@@ -62,15 +62,26 @@ const getLevelData = function(l) {
 
 const aggregateByPcode = async function (data) {
     const points = await filterByCategories(); 
-    data.forEach((d) => {   
-        d.value = 0;
+    // data.forEach((d) => {   
+    //     d.value = 0;
+    //     d.drilldown = d.properties[`ADM${drilldownLevel+1}_PCODE`];
+    //     points.forEach(p => {
+    //         if (d.properties[`ADM${drilldownLevel+1}_PCODE`] === p[`adm${drilldownLevel+1}_pcode`]) {
+    //             d.value += p.amount;
+    //         }
+    //     }
+    // )});
+    data.forEach((d) => {
+        d.value = 0; // Initialize the value
         d.drilldown = d.properties[`ADM${drilldownLevel+1}_PCODE`];
         points.forEach(p => {
             if (d.properties[`ADM${drilldownLevel+1}_PCODE`] === p[`adm${drilldownLevel+1}_pcode`]) {
                 d.value += p.amount;
             }
-        }
-    )});
+        });
+        // Set the value to null if it is 0 after aggregation
+        d.value = d.value === 0 ? null : d.value;
+    });
     return data;
 }
 
@@ -194,7 +205,9 @@ const syncAggregate = function (data) {
                 d.value += p.amount;
             }
         });
+        d.value = d.value === 0 ? null : d.value;
     });
+    console.log('sync aggregate data: ', data);
     return data;
 }
 
@@ -343,6 +356,7 @@ const afterDrillUp = function(e) {
         colorAxis: {
             minColor: '#FFFFFF', 
             maxColor: '#00467E', 
+            nullColor: '#FFFFFF',
             stops: [
                 [0, '#FFFFFF'], 
                 [0.0001, '#fff5cc'],
