@@ -17,17 +17,46 @@
             height: 700px; /* Set the desired height */
             margin: 0 auto; /* Center the container horizontally */
         }
+        .main {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .row {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+        }
+
+        .col-md-6 {
+            flex: 0 0 25%; /* Use 25% of the container width for each column */
+            max-width: 25%;
+            box-sizing: border-box;
+            padding: 0 5px; /* Spacing between columns */
+            text-align: center;
+        }
+
+        .form-select {
+            width: 100%; /* Make the select elements take the full width of their parent */
+        }
+
+        #container {
+            flex: 0 0 100%; /* Make sure the container takes the full width */
+            padding-top: 1.5rem; /* Spacing above the container */
+        }
     </style>
 </head>
 <body>
 
     <div class="main">
-        <div id="container"></div>
-    
         <div class="row d-flex justify-content-center main">
 
             <div class="col-md-6 text-center">
-                <label for="obj-category" class="mt-4" style="margin-right: 44px;">Категорія обʼєкту:</label>
+                <label for="obj-category" class="mt-4" style="margin-right: 10px;">Категорія обʼєкту:</label>
                 <select name="obj-category" id="obj-category" class="form-select" style="width: 170px; height: 20px;"">
                     <option value="all">Всі</option>
                     <option value="Транспорт">Транспорт</option>
@@ -40,7 +69,7 @@
             </div>
 
             <div class="col-md-6 text-center">
-                <label for="program-type" class="mt-4" style="margin-right: 30px;">Бюджетна програма:</label>
+                <label for="program-type" class="mt-4" style="margin-right: 10px;">Бюджетна програма:</label>
                 <select name="program-type" id="program-type" class="form-select" style="width: 170px; height: 20px;">
                     <option value="all">Всі</option>
                     <option value="7383">Фонд ліквідації наслідків збройної агресії</option>
@@ -53,7 +82,7 @@
             </div>
 
             <div class="col-md-6 text-center mt-4">
-                <label for="payer-edrpou" class="mt-4" style="margin-right: 32px;">ЄДРПОУ Платника:</label>
+                <label for="payer-edrpou" class="mt-4" style="margin-right: 10px;">ЄДРПОУ Платника:</label>
                 <select name="payer-edrpou" id="payer-edrpou" class="form-select" style="width: 170px; height: 20px;">
                     <option value="all">Всі</option>
                     <option value="39932654">39932654</option>
@@ -122,7 +151,7 @@
             </div>
 
             <div class="col-md-6 text-center mt-4">
-                <label for="receipt-edrpou" class="mt-4" style="margin-right: 15px;">ЄДРПОУ Отримувача:</label>
+                <label for="receipt-edrpou" class="mt-4" style="margin-right: 10px;">ЄДРПОУ Отримувача:</label>
                 <select name="receipt-edrpou" id="receipt-edrpou" class="form-select" style="width: 170px;">
                     <option value="all">Всі</option>
                     <option value="xxxxxxxxxx">xxxxxxxxxx</option>
@@ -269,7 +298,7 @@
                     <option value="34511098">34511098</option>
                 </select>
             </div>
-
+            <div id="container"></div>
         </div>
     </div>
 
