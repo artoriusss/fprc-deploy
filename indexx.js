@@ -1,10 +1,13 @@
 let breadcrumbNames = ['Ukraine']; 
-let prevSeries;
 
-var data
+var data;
+var dataInit;
 var drilldownLevel = 0;
+var levelData = {};
 
-const pointsFull = await fetch('test_points.json').then(response => response.json());
+var drillUpMapKey;
+
+const pointsFull = await fetch('points.json').then(response => response.json());
 
 const getFilteredMappoints = async function () {
     let points = await fetch('test_points.json').then(response => response.json());
@@ -26,27 +29,36 @@ const getFilteredMappoints = async function () {
         lon: obj.longitude,
         marker: {
             radius: calculateRadius(obj.amount),
-            fillColor: 'rgba(78, 224, 58, 0.95)' 
+            fillColor: 'rgba(25, 77, 119, 0.8)',
+            symbol: 'circle'
         }
     }));
     return points;
 }
 
-
 const filterByCategories = async function () {
-    const points = await fetch('test_points.json').then(response => response.json());
+    const points = await fetch('points.json').then(response => response.json());
 
     const objectCategory = document.getElementById('obj-category').value;
-    const settlementType = document.getElementById('settlement-type').value;
+    const programType = document.getElementById('program-type').value;
+    const payerEdrpou = document.getElementById('payer-edrpou').value;
+    const receiptEdrpou = document.getElementById('receipt-edrpou').value;
+    console.log('receipt edrpou', receiptEdrpou);
 
     const filteredPoints = points.filter(point => {
         const matchesObjectCategory = objectCategory === 'all' || point.object_type === objectCategory;
-        const matchesSettlementType = settlementType === 'all' || point.settlement_type === settlementType;
-        return matchesObjectCategory && matchesSettlementType;
+        const matchesProgramType = programType === 'all' || point.kpk == programType;
+        const matchesPayerEdrpou = payerEdrpou === 'all' || point.payer_edrpou == payerEdrpou; 
+        const matchesReceiptEdrpou = receiptEdrpou === 'all' || point.recipt_edrpou == receiptEdrpou;
+        return matchesObjectCategory &&  matchesProgramType && matchesPayerEdrpou && matchesReceiptEdrpou;
     });
-    //console.log(`Filtered Points. Object Category: ${objectCategory}, Settlement Type: ${settlementType}`);
+    console.log(`Filtering by ${objectCategory}, ${payerEdrpou}, ${receiptEdrpou} ${programType}`)
     return filteredPoints;
 }
+
+const getLevelData = function(l) {
+    const points = 'j'
+} 
 
 const aggregateByPcode = async function (data) {
     const points = await filterByCategories(); 
@@ -67,7 +79,6 @@ const getDrilldownLevel = function (length) {
 }
 
 const drilldown = async function (e) {
-    //console.log(data);
     if (!e.seriesOptions) {
         const chart = this;
 
@@ -75,8 +86,8 @@ const drilldown = async function (e) {
         drilldownLevel = level;
 
         if (level === 4) {
-            console.log(chart)
-            console.log("Drilldown level: ", level);
+            const seriesName = e.point.properties[`ADM${drilldownLevel}_UA`];
+            breadcrumbNames.push(seriesName);
             chart.update({
                 mapView: {
                     projection: {
@@ -104,7 +115,7 @@ const drilldown = async function (e) {
 
             chart.addSeries({
                 type: 'mappoint',
-                name: 'Mappoints',
+                name: seriesName,
                 enableMouseTracking: false,
                 states: {
                     inactive: {
@@ -113,7 +124,7 @@ const drilldown = async function (e) {
                 },
                 dataLabels: {
                     enabled: true,
-                    format: '{point.options.object_type} - {point.options.settlement_type}'
+                    format: '{point.options.name}'
                 },
                 data: pointsConverted
             }, false);
@@ -129,17 +140,19 @@ const drilldown = async function (e) {
         }
 
         let mapKey = `adm-levels/ADM${level+1}/${e.point.drilldown}.geojson`
+
         chart.showLoading('<i class="icon-spinner icon-spin icon-3x"></i>'); 
         const topology = await fetch(mapKey).then(response => response.json());
-        prevSeries = chart.series[0];
-        console.log('before: ',prevSeries);
         data = Highcharts.geojson(topology);
+
+        levelData[drilldownLevel] = data.map(item => ({ ...item }));
+        //console.log('levelData', levelData);
+
         chart.hideLoading(); 
 
         const seriesName = e.point.properties[`ADM${drilldownLevel}_UA`];
         breadcrumbNames = [seriesName];
-
-        data = await aggregateByPcode(data);
+        data = syncAggregate(data);
 
         chart.addSeriesAsDrilldown(e.point, {
             name: seriesName,
@@ -149,20 +162,25 @@ const drilldown = async function (e) {
                 format: `{point.properties.ADM${drilldownLevel+1}_UA}`
             }
         });
-        console.log('after: ',prevSeries);
     }
 };
 
 const syncFilter = function () {
     const points = pointsFull;
     const objectCategory = document.getElementById('obj-category').value;
-    const settlementType = document.getElementById('settlement-type').value;
+    const programType = document.getElementById('program-type').value;
+    const payerEdrpou = document.getElementById('payer-edrpou').value;
+    const receiptEdrpou = document.getElementById('receipt-edrpou').value;
+    console.log('receipt edrpou', receiptEdrpou);
 
     const filteredPoints = points.filter(point => {
         const matchesObjectCategory = objectCategory === 'all' || point.object_type === objectCategory;
-        const matchesSettlementType = settlementType === 'all' || point.settlement_type === settlementType;
-        return matchesObjectCategory && matchesSettlementType;
+        const matchesProgramType = programType === 'all' || point.kpk == programType;
+        const matchesPayerEdrpou = payerEdrpou === 'all' || point.payer_edrpou == payerEdrpou; 
+        const matchesReceiptEdrpou = receiptEdrpou === 'all' || point.recipt_edrpou == receiptEdrpou;
+        return matchesObjectCategory &&  matchesProgramType && matchesPayerEdrpou && matchesReceiptEdrpou;
     });
+    console.log(`Filtering by ${objectCategory}, ${payerEdrpou}, ${receiptEdrpou} ${programType}`)
     return filteredPoints;
 }
 
@@ -180,42 +198,130 @@ const syncAggregate = function (data) {
     return data;
 }
 
-const afterDrillUp = function (e) {
-    drilldownLevel -= 1;
-    data = syncAggregate(data);
-    const chart = this;
-    console.log('afterDrillUp: ', drilldownLevel);
-    // chart.series[0] = prevSeries;
-    
-    // setTimeout(function() {
-    //     const seriesTypesToRemove = ['tiledwebmap', 'mappoint'];
-    //     seriesTypesToRemove.forEach(seriesType => {
-    //         const series = chart.series.find(s => s.type === seriesType);
-    //         if (series) {
-    //             series.remove(false); 
-    //         }
-    //     });
-    //     chart.redraw();
-    // }, 0); 
+const syncGetFilteredMappoints = function() {
+    let points = syncFilter();
 
-    // if (e.seriesOptions.custom && e.seriesOptions.custom.mapView) {
-    //     chart.mapView.update(
-    //         Highcharts.merge(
-    //             { insets: undefined },
-    //             e.seriesOptions.custom.mapView
-    //         ),
-    //         false 
-    //     );
-    // }
-    // chart.redraw(); 
+    const maxAmount = Math.max(...points.map(p => p.amount)); 
+    const minRadius = 10; 
+    const maxRadius = 60; 
+
+    const scale_factor = (maxRadius - minRadius) / Math.sqrt(maxAmount);
+
+    const calculateRadius = (amount) => {
+        return Math.sqrt(amount) * scale_factor + minRadius;
+    };
+
+    points = points.map(obj => ({
+        ...obj,
+        lat: obj.latitude,
+        lon: obj.longitude,
+        marker: {
+            radius: calculateRadius(obj.amount),
+            fillColor: 'rgba(78, 224, 58, 0.95)' 
+        }
+    }));
+    return points;
+}
+
+const updateMapData = function(chart) {
+    const aggregatedData = syncAggregate(data);
+    chart.series[0].setData(aggregatedData, false); 
+
+    if (drilldownLevel === 4) {
+        let points = syncGetFilteredMappoints();
+        
+        while (chart.series.length > 1) {
+            chart.series[1].remove(false); 
+        }
+
+        chart.addSeries({
+            type: 'mappoint',
+            name: 'Mappoints',
+            enableMouseTracking: false,
+            states: {
+                inactive: {
+                    enabled: false
+                }
+            },
+            dataLabels: {
+                enabled: true,
+                format: '{point.options.name}'
+            },
+            data: points
+        }, false); 
+    }
+
+    if (drilldownLevel !== 4) {
+        while (chart.series.length > 1) {
+            chart.series[1].remove(false); 
+        }
+    }
+
+    chart.redraw(); 
+}
+
+const afterDrillUp = function(e) {
+    drilldownLevel -= 1;
+    breadcrumbNames.pop(); 
+    const chart = this;
+
+    if (drilldownLevel === 0) {
+        data = syncAggregate([...dataInit]);
+    } 
+    else if (drilldownLevel === 3) {
+        //console.log('drillup before: ', chart.series);
+        console.log('lev 3!!')
+        data = syncAggregate(JSON.parse(JSON.stringify(levelData[drilldownLevel])));
+        //console.log('drilldown level: ', drilldownLevel);
+        //console.log('set data from level ', levelData[drilldownLevel]);
+        setTimeout(function() {
+            const seriesTypesToRemove = ['tiledwebmap', 'mappoint'];
+            seriesTypesToRemove.forEach(seriesType => {
+                const series = chart.series.find(s => s.type === seriesType);
+                if (series) {
+                    series.remove(false); 
+                }
+            });
+            chart.redraw();
+        }, 0); 
+        //console.log('drillup after: ', chart.series);
+    } 
+    else {
+        //console.log('drilldown level: ', drilldownLevel);
+        //console.log('setting data from level ', levelData[drilldownLevel]);
+        //data = syncAggregate(JSON.parse(JSON.stringify(levelData[drilldownLevel])));
+        data = syncAggregate(data);
+        chart.series[0].setData(data); 
+        //console.log('data is set.')
+        //console.log(data)
+    }
+
+    // prevData.level = drilldownLevel;
+    // prevData.data = data;
+    // const chart = this;
+
+    // data = prevData;
+
+    // fetch(drillUpMapKey).then(response => response.json()).then(async function(topology) {
+    //     data = Highcharts.geojson(topology); 
+    //     chart.series[0].setData(prevData, false);
+
+    //     // while (chart.series.length > 1) {
+    //     //     chart.series[1].remove(); // Redraw set to false
+    //     // }
+    //     // chart.redraw();
+    // });
 };
+
 
 (async () => {
     const response = await fetch('adm-levels/adm1.json');
     const topology = await response.json();
     data = Highcharts.geojson(topology);
 
-    data = await aggregateByPcode(data);
+    //data = await aggregateByPcode(data);
+    data = syncAggregate(data);
+    dataInit = data.map(item => ({ ...item }));;
 
     //console.log(data);
 
@@ -226,7 +332,7 @@ const afterDrillUp = function (e) {
         chart: {
             events: {
                 drilldown,
-                afterDrillUp
+                drillup: afterDrillUp
             }
         },
 
@@ -311,6 +417,10 @@ const afterDrillUp = function (e) {
             }
         }
     });
+    let allPointsData;
+    fetch('test_points.json').then(response => response.json()).then(data => {
+        allPointsData = data;
+    });
 
     document.getElementById('obj-category').addEventListener('change', async (e) => {
         if (drilldownLevel !== 4) {
@@ -335,7 +445,7 @@ const afterDrillUp = function (e) {
                 },
                 dataLabels: {
                     enabled: true,
-                    format: '{point.options.object_type} - {point.options.settlement_type}'
+                    format: '{point.options.name}'
                 },
                 data: points
             }, false);
@@ -349,12 +459,11 @@ const afterDrillUp = function (e) {
         }
     });
 
-    document.getElementById('settlement-type').addEventListener('change', async (e) => {
+    const onDropdownChange = async function() {
         if (drilldownLevel !== 4) {
-            console.log('DRILLDOWN LEVEL: ', drilldownLevel);
+            console.log('filtering by payer edrpou');
             const chart = Highcharts.charts[0]; 
             let aggregatedData = await aggregateByPcode(data); 
-            //console.log('SERIES 0', chart.series);
             chart.series[0].setData(aggregatedData); 
         }  else {
             const chart = Highcharts.charts[0]; 
@@ -373,7 +482,55 @@ const afterDrillUp = function (e) {
                 },
                 dataLabels: {
                     enabled: true,
-                    format: '{point.options.object_type} - {point.options.settlement_type}'
+                    format: '{point.options.name}'
+                },
+                data: points
+            }, false);
+
+            chart.mapView.update({
+                projection: {
+                    name: 'WebMercator'
+                },
+            }, false);
+            chart.redraw(); 
+        }
+    }
+
+    $(document).ready(function() {
+        $('#obj-category').select2();
+        $('#program-type').select2();
+        $('#receipt-edrpou').select2();
+        $('#payer-edrpou').select2();
+        $('#payer-edrpou').on('change', onDropdownChange);
+        $('#receipt-edrpou').on('change', onDropdownChange);
+        $('#obj-category').on('change', onDropdownChange);
+        $('#program-type').on('change', onDropdownChange);
+    });
+
+    document.getElementById('program-type').addEventListener('change', async (e) => {
+        if (drilldownLevel !== 4) {
+            console.log('filtering by program type');
+            const chart = Highcharts.charts[0]; 
+            let aggregatedData = await aggregateByPcode(data); 
+            chart.series[0].setData(aggregatedData); 
+        } else {
+            const chart = Highcharts.charts[0]; 
+            let points = await getFilteredMappoints();
+
+            chart.series[1].remove();
+
+            chart.addSeries({
+                type: 'mappoint',
+                name: 'Mappoints',
+                enableMouseTracking: false,
+                states: {
+                    inactive: {
+                        enabled: false
+                    }
+                },
+                dataLabels: {
+                    enabled: true,
+                    format: '{point.options.name}'
                 },
                 data: points
             }, false);
