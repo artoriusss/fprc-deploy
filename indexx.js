@@ -5,6 +5,10 @@ var drilldownLevel = 0;
 var levelData = {};
 
 const pointsFull = await fetch('points.json').then(response => response.json());
+const response = await fetch('adm-levels/adm1.json');
+const topology = await response.json();
+const dataa = Highcharts.geojson(topology);
+const dataInit = dataa.map(item => ({ ...item }));
 
 const getFilteredMappoints = async function () {
     let points = await fetch('test_points.json').then(response => response.json());
@@ -48,28 +52,27 @@ const filterByCategories = async function () {
         const matchesReceiptEdrpou = receiptEdrpou === 'all' || point.recipt_edrpou == receiptEdrpou;
         return matchesObjectCategory &&  matchesProgramType && matchesPayerEdrpou && matchesReceiptEdrpou;
     });
-    //console.log(`Filtering by ${objectCategory}, ${payerEdrpou}, ${receiptEdrpou} ${programType}`)
+    console.log(`Filtering by ${objectCategory}, ${payerEdrpou}, ${receiptEdrpou} ${programType}`)
     return filteredPoints;
+}
+
+const getDrilldownLevel = function (length) {
+    return length > 9 ? 4 : length > 6 ? 3 : length > 4 ? 2 : 1;
 }
 
 const aggregateByPcode = async function (data) {
     const points = await filterByCategories(); 
     data.forEach((d) => {
-        d.value = 0; // Initialize the value
+        d.value = 0; 
         d.drilldown = d.properties[`ADM${drilldownLevel+1}_PCODE`];
         points.forEach(p => {
             if (d.properties[`ADM${drilldownLevel+1}_PCODE`] === p[`adm${drilldownLevel+1}_pcode`]) {
                 d.value += p.amount;
             }
         });
-        // Set the value to null if it is 0 after aggregation
         d.value = d.value === 0 ? null : d.value;
     });
     return data;
-}
-
-const getDrilldownLevel = function (length) {
-    return length > 9 ? 4 : length > 6 ? 3 : length > 4 ? 2 : 1;
 }
 
 const drilldown = async function (e) {
@@ -141,7 +144,6 @@ const drilldown = async function (e) {
         const topoData = Highcharts.geojson(topology);
 
         levelData[drilldownLevel] = topoData.map(item => ({ ...item }));
-        console.log(`added level ${drilldownLevel} Data: `, levelData);
 
         chart.hideLoading(); 
 
@@ -159,11 +161,6 @@ const drilldown = async function (e) {
         });
     }
 };
-
-const response = await fetch('adm-levels/adm1.json');
-const topology = await response.json();
-const dataa = Highcharts.geojson(topology);
-const dataInit = dataa.map(item => ({ ...item }));
 
 const syncFilter = function () {
     const points = pointsFull;
@@ -195,101 +192,11 @@ const syncAggregate = function (data) {
         });
         d.value = d.value === 0 ? null : d.value;
     });
-    console.log('sync aggregate data: ', data);
     return data;
 }
 
-const syncGetFilteredMappoints = function() {
-    let points = syncFilter();
-
-    const maxAmount = Math.max(...points.map(p => p.amount)); 
-    const minRadius = 10; 
-    const maxRadius = 60; 
-
-    const scale_factor = (maxRadius - minRadius) / Math.sqrt(maxAmount);
-
-    const calculateRadius = (amount) => {
-        return Math.sqrt(amount) * scale_factor + minRadius;
-    };
-
-    points = points.map(obj => ({
-        ...obj,
-        lat: obj.latitude,
-        lon: obj.longitude,
-        marker: {
-            radius: calculateRadius(obj.amount),
-            fillColor: 'rgba(78, 224, 58, 0.95)' 
-        }
-    }));
-    return points;
-}
-
-const updateMapData = function(chart) {
-    const aggregatedData = syncAggregate(data);
-    chart.series[0].setData(aggregatedData, false); 
-
-    if (drilldownLevel === 4) {
-        let points = syncGetFilteredMappoints();
-        
-        while (chart.series.length > 1) {
-            chart.series[1].remove(false); 
-        }
-
-        chart.addSeries({
-            type: 'mappoint',
-            name: 'Mappoints',
-            enableMouseTracking: false,
-            states: {
-                inactive: {
-                    enabled: false
-                }
-            },
-            dataLabels: {
-                enabled: true,
-                format: '{point.options.name}'
-            },
-            data: points
-        }, false); 
-    }
-
-    if (drilldownLevel !== 4) {
-        while (chart.series.length > 1) {
-            chart.series[1].remove(false); 
-        }
-    }
-
-    chart.redraw(); 
-}
-
-const afterDrillUp = function(e) {
-    drilldownLevel -= 1;
-    breadcrumbNames.pop(); 
-    const chart = this;
-
-    if (drilldownLevel === 0) {
-        data = syncAggregate(dataInit);
-        chart.series[0].setData(data, true);
-        duRedraw = true;
-        chart.redraw();
-        duRedraw = false;
-    } 
-    else if (drilldownLevel === 3) {
-        data = syncAggregate(JSON.parse(JSON.stringify(levelData[drilldownLevel])));
-        setTimeout(function() {
-            const seriesTypesToRemove = ['tiledwebmap', 'mappoint'];
-            seriesTypesToRemove.forEach(seriesType => {
-                const series = chart.series.find(s => s.type === seriesType);
-                if (series) {
-                    series.remove(false); 
-                }
-            });
-            chart.redraw();
-        }, 0); 
-    } 
-    else {
-        data = syncAggregate(dataPrev);
-        chart.series[0].setData(data); 
-    }
+let afterDrillUp = function(e) {
+    console.log('drillup event: ', e);
 };
 
 (async () => {
@@ -305,7 +212,9 @@ const afterDrillUp = function(e) {
         chart: {
             events: {
                 drilldown,
-                redraw: function() {console.log('redraw')},
+                redraw: function() {
+                    //console.log('redraw')
+            },
                 drillupall: function(e) {
                     drilldownLevel -= 1;
                     breadcrumbNames.pop(); 
