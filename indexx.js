@@ -1,11 +1,8 @@
 let breadcrumbNames = ['Ukraine']; 
 
 var data;
-var dataInit;
 var drilldownLevel = 0;
 var levelData = {};
-
-var drillUpMapKey;
 
 const pointsFull = await fetch('points.json').then(response => response.json());
 
@@ -43,7 +40,6 @@ const filterByCategories = async function () {
     const programType = document.getElementById('program-type').value;
     const payerEdrpou = document.getElementById('payer-edrpou').value;
     const receiptEdrpou = document.getElementById('receipt-edrpou').value;
-    console.log('receipt edrpou', receiptEdrpou);
 
     const filteredPoints = points.filter(point => {
         const matchesObjectCategory = objectCategory === 'all' || point.object_type === objectCategory;
@@ -52,7 +48,7 @@ const filterByCategories = async function () {
         const matchesReceiptEdrpou = receiptEdrpou === 'all' || point.recipt_edrpou == receiptEdrpou;
         return matchesObjectCategory &&  matchesProgramType && matchesPayerEdrpou && matchesReceiptEdrpou;
     });
-    console.log(`Filtering by ${objectCategory}, ${payerEdrpou}, ${receiptEdrpou} ${programType}`)
+    //console.log(`Filtering by ${objectCategory}, ${payerEdrpou}, ${receiptEdrpou} ${programType}`)
     return filteredPoints;
 }
 
@@ -84,6 +80,7 @@ const drilldown = async function (e) {
 
         const level = getDrilldownLevel(e.point.drilldown.length);
         drilldownLevel = level;
+        console.log('drilled to level: ', drilldownLevel);
 
         if (level === 4) {
             const seriesName = e.point.properties[`ADM${drilldownLevel}_UA`];
@@ -143,16 +140,16 @@ const drilldown = async function (e) {
 
         chart.showLoading('<i class="icon-spinner icon-spin icon-3x"></i>'); 
         const topology = await fetch(mapKey).then(response => response.json());
-        data = Highcharts.geojson(topology);
+        const topoData = Highcharts.geojson(topology);
 
-        levelData[drilldownLevel] = data.map(item => ({ ...item }));
-        //console.log('levelData', levelData);
+        levelData[drilldownLevel] = topoData.map(item => ({ ...item }));
+        console.log(`added level ${drilldownLevel} Data: `, levelData);
 
         chart.hideLoading(); 
 
         const seriesName = e.point.properties[`ADM${drilldownLevel}_UA`];
         breadcrumbNames = [seriesName];
-        data = syncAggregate(data);
+        data = syncAggregate(topoData);
 
         chart.addSeriesAsDrilldown(e.point, {
             name: seriesName,
@@ -171,7 +168,6 @@ const syncFilter = function () {
     const programType = document.getElementById('program-type').value;
     const payerEdrpou = document.getElementById('payer-edrpou').value;
     const receiptEdrpou = document.getElementById('receipt-edrpou').value;
-    console.log('receipt edrpou', receiptEdrpou);
 
     const filteredPoints = points.filter(point => {
         const matchesObjectCategory = objectCategory === 'all' || point.object_type === objectCategory;
@@ -197,6 +193,13 @@ const syncAggregate = function (data) {
     });
     return data;
 }
+
+
+const response = await fetch('adm-levels/adm1.json');
+const topology = await response.json();
+const dataa = Highcharts.geojson(topology);
+const dataInit = dataa.map(item => ({ ...item }));
+//console.log(dataInit);
 
 const syncGetFilteredMappoints = function() {
     let points = syncFilter();
@@ -266,14 +269,17 @@ const afterDrillUp = function(e) {
     const chart = this;
 
     if (drilldownLevel === 0) {
-        data = syncAggregate([...dataInit]);
+        //console.log(dataInit)
+        data = syncAggregate(dataInit);
+        chart.series[0].setData(data, true);
+        duRedraw = true;
+        chart.redraw();
+        duRedraw = false;
     } 
     else if (drilldownLevel === 3) {
-        //console.log('drillup before: ', chart.series);
-        console.log('lev 3!!')
+        console.log('Fourth level: ', drilldownLevel);
         data = syncAggregate(JSON.parse(JSON.stringify(levelData[drilldownLevel])));
-        //console.log('drilldown level: ', drilldownLevel);
-        //console.log('set data from level ', levelData[drilldownLevel]);
+        console.log(this.series);
         setTimeout(function() {
             const seriesTypesToRemove = ['tiledwebmap', 'mappoint'];
             seriesTypesToRemove.forEach(seriesType => {
@@ -284,35 +290,12 @@ const afterDrillUp = function(e) {
             });
             chart.redraw();
         }, 0); 
-        //console.log('drillup after: ', chart.series);
     } 
     else {
-        //console.log('drilldown level: ', drilldownLevel);
-        //console.log('setting data from level ', levelData[drilldownLevel]);
-        //data = syncAggregate(JSON.parse(JSON.stringify(levelData[drilldownLevel])));
-        data = syncAggregate(data);
+        data = syncAggregate(dataPrev);
         chart.series[0].setData(data); 
-        //console.log('data is set.')
-        //console.log(data)
     }
-
-    // prevData.level = drilldownLevel;
-    // prevData.data = data;
-    // const chart = this;
-
-    // data = prevData;
-
-    // fetch(drillUpMapKey).then(response => response.json()).then(async function(topology) {
-    //     data = Highcharts.geojson(topology); 
-    //     chart.series[0].setData(prevData, false);
-
-    //     // while (chart.series.length > 1) {
-    //     //     chart.series[1].remove(); // Redraw set to false
-    //     // }
-    //     // chart.redraw();
-    // });
 };
-
 
 (async () => {
     const response = await fetch('adm-levels/adm1.json');
@@ -321,9 +304,6 @@ const afterDrillUp = function(e) {
 
     //data = await aggregateByPcode(data);
     data = syncAggregate(data);
-    dataInit = data.map(item => ({ ...item }));;
-
-    //console.log(data);
 
     Highcharts.mapChart('container', {
         custom: {
@@ -332,7 +312,70 @@ const afterDrillUp = function(e) {
         chart: {
             events: {
                 drilldown,
-                drillup: afterDrillUp
+                redraw: function() {console.log('redraw')},
+                drillupall: function(e) {
+                    console.log('drillupall');
+                    drilldownLevel -= 1;
+                    breadcrumbNames.pop(); 
+                    console.log(`level ${drilldownLevel} data: `, levelData)
+
+                    if (drilldownLevel === 0) {
+                        data = syncAggregate(dataInit);
+                        this.series[0].remove();
+                        this.addSeries(e.point, {
+                            name: 'seriesName',
+                            data: data,
+                            dataLabels: {
+                                enabled: true,
+                                format: `{point.properties.ADM${drilldownLevel+1}_UA}`
+                            }
+                        });
+                        this.series[0].setData(data, true);
+                    }
+
+                    else if (drilldownLevel === 1 || drilldownLevel === 2) {
+                        data = syncAggregate(levelData[drilldownLevel]);
+                        this.series[0].remove();
+                        this.addSeries(e.point, {
+                            name: 'seriesName',
+                            data: data,
+                            dataLabels: {
+                                enabled: true,
+                                format: `{point.properties.ADM${drilldownLevel+1}_UA}`
+                            }
+                        });
+                        this.series[0].setData(data, true);
+                    }
+
+                    else {
+                        drilldownLevel -= 1;
+                        console.log('Level Data: ', levelData);
+                        const chart = this;
+                        console.log('DRILLUPALL to ', drilldownLevel);
+                        const seriesTypesToRemove = ['tiledwebmap', 'mappoint'];
+                            seriesTypesToRemove.forEach(seriesType => {
+                                const series = chart.series.find(s => s.type === seriesType);
+                                if (series) {
+                                    series.remove(false); 
+                                }
+                            });
+                        chart.redraw();
+                        data = syncAggregate(levelData[drilldownLevel]);
+                        //this.series[0].remove();
+                        console.log('data: ', data);
+                        this.addSeries(e.point, {
+                            name: 'seriesName',
+                            data: data,
+                            dataLabels: {
+                                enabled: true,
+                                format: `{point.properties.ADM${drilldownLevel}_UA}`
+                            }
+                        });
+                        this.series[0].setData(data, true);
+                        console.log('series [0]:',this.series[0]);
+                        console.log('result drilldownLevel: ', drilldownLevel);
+                    }
+                }
             }
         },
 
@@ -422,49 +465,11 @@ const afterDrillUp = function(e) {
         allPointsData = data;
     });
 
-    document.getElementById('obj-category').addEventListener('change', async (e) => {
-        if (drilldownLevel !== 4) {
-            const chart = Highcharts.charts[0]; 
-            let aggregatedData = await aggregateByPcode(data); 
-            chart.series[0].setData(aggregatedData); 
-        } 
-        else {
-            const chart = Highcharts.charts[0]; 
-            let points = await getFilteredMappoints();
-
-            chart.series[1].remove();
-
-            chart.addSeries({
-                type: 'mappoint',
-                name: 'Mappoints',
-                enableMouseTracking: false,
-                states: {
-                    inactive: {
-                        enabled: false
-                    }
-                },
-                dataLabels: {
-                    enabled: true,
-                    format: '{point.options.name}'
-                },
-                data: points
-            }, false);
-
-            chart.mapView.update({
-                projection: {
-                    name: 'WebMercator'
-                },
-            }, false);
-            chart.redraw(); 
-        }
-    });
-
     const onDropdownChange = async function() {
         if (drilldownLevel !== 4) {
-            console.log('filtering by payer edrpou');
             const chart = Highcharts.charts[0]; 
             let aggregatedData = await aggregateByPcode(data); 
-            chart.series[0].setData(aggregatedData); 
+            chart.series[0].setData(aggregatedData);
         }  else {
             const chart = Highcharts.charts[0]; 
             let points = await getFilteredMappoints();
@@ -505,42 +510,5 @@ const afterDrillUp = function(e) {
         $('#receipt-edrpou').on('change', onDropdownChange);
         $('#obj-category').on('change', onDropdownChange);
         $('#program-type').on('change', onDropdownChange);
-    });
-
-    document.getElementById('program-type').addEventListener('change', async (e) => {
-        if (drilldownLevel !== 4) {
-            console.log('filtering by program type');
-            const chart = Highcharts.charts[0]; 
-            let aggregatedData = await aggregateByPcode(data); 
-            chart.series[0].setData(aggregatedData); 
-        } else {
-            const chart = Highcharts.charts[0]; 
-            let points = await getFilteredMappoints();
-
-            chart.series[1].remove();
-
-            chart.addSeries({
-                type: 'mappoint',
-                name: 'Mappoints',
-                enableMouseTracking: false,
-                states: {
-                    inactive: {
-                        enabled: false
-                    }
-                },
-                dataLabels: {
-                    enabled: true,
-                    format: '{point.options.name}'
-                },
-                data: points
-            }, false);
-
-            chart.mapView.update({
-                projection: {
-                    name: 'WebMercator'
-                },
-            }, false);
-            chart.redraw(); 
-        }
     });
 })();
