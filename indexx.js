@@ -52,10 +52,6 @@ const filterByCategories = async function () {
     return filteredPoints;
 }
 
-const getLevelData = function(l) {
-    const points = 'j'
-} 
-
 const aggregateByPcode = async function (data) {
     const points = await filterByCategories(); 
     data.forEach((d) => {   
