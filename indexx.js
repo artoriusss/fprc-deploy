@@ -54,15 +54,6 @@ const filterByCategories = async function () {
 
 const aggregateByPcode = async function (data) {
     const points = await filterByCategories(); 
-    // data.forEach((d) => {   
-    //     d.value = 0;
-    //     d.drilldown = d.properties[`ADM${drilldownLevel+1}_PCODE`];
-    //     points.forEach(p => {
-    //         if (d.properties[`ADM${drilldownLevel+1}_PCODE`] === p[`adm${drilldownLevel+1}_pcode`]) {
-    //             d.value += p.amount;
-    //         }
-    //     }
-    // )});
     data.forEach((d) => {
         d.value = 0; // Initialize the value
         d.drilldown = d.properties[`ADM${drilldownLevel+1}_PCODE`];
@@ -169,6 +160,11 @@ const drilldown = async function (e) {
     }
 };
 
+const response = await fetch('adm-levels/adm1.json');
+const topology = await response.json();
+const dataa = Highcharts.geojson(topology);
+const dataInit = dataa.map(item => ({ ...item }));
+
 const syncFilter = function () {
     const points = pointsFull;
     const objectCategory = document.getElementById('obj-category').value;
@@ -202,13 +198,6 @@ const syncAggregate = function (data) {
     console.log('sync aggregate data: ', data);
     return data;
 }
-
-
-const response = await fetch('adm-levels/adm1.json');
-const topology = await response.json();
-const dataa = Highcharts.geojson(topology);
-const dataInit = dataa.map(item => ({ ...item }));
-//console.log(dataInit);
 
 const syncGetFilteredMappoints = function() {
     let points = syncFilter();
@@ -278,7 +267,6 @@ const afterDrillUp = function(e) {
     const chart = this;
 
     if (drilldownLevel === 0) {
-        //console.log(dataInit)
         data = syncAggregate(dataInit);
         chart.series[0].setData(data, true);
         duRedraw = true;
@@ -286,9 +274,7 @@ const afterDrillUp = function(e) {
         duRedraw = false;
     } 
     else if (drilldownLevel === 3) {
-        console.log('Fourth level: ', drilldownLevel);
         data = syncAggregate(JSON.parse(JSON.stringify(levelData[drilldownLevel])));
-        console.log(this.series);
         setTimeout(function() {
             const seriesTypesToRemove = ['tiledwebmap', 'mappoint'];
             seriesTypesToRemove.forEach(seriesType => {
@@ -310,8 +296,6 @@ const afterDrillUp = function(e) {
     const response = await fetch('adm-levels/adm1.json');
     const topology = await response.json();
     data = Highcharts.geojson(topology);
-
-    //data = await aggregateByPcode(data);
     data = syncAggregate(data);
 
     Highcharts.mapChart('container', {
@@ -323,10 +307,8 @@ const afterDrillUp = function(e) {
                 drilldown,
                 redraw: function() {console.log('redraw')},
                 drillupall: function(e) {
-                    console.log('drillupall');
                     drilldownLevel -= 1;
                     breadcrumbNames.pop(); 
-                    console.log(`level ${drilldownLevel} data: `, levelData)
 
                     if (drilldownLevel === 0) {
                         data = syncAggregate(dataInit);
@@ -358,9 +340,7 @@ const afterDrillUp = function(e) {
 
                     else {
                         drilldownLevel -= 1;
-                        console.log('Level Data: ', levelData);
                         const chart = this;
-                        console.log('DRILLUPALL to ', drilldownLevel);
                         const seriesTypesToRemove = ['tiledwebmap', 'mappoint'];
                             seriesTypesToRemove.forEach(seriesType => {
                                 const series = chart.series.find(s => s.type === seriesType);
@@ -370,8 +350,6 @@ const afterDrillUp = function(e) {
                             });
                         chart.redraw();
                         data = syncAggregate(levelData[drilldownLevel]);
-                        //this.series[0].remove();
-                        console.log('data: ', data);
                         this.addSeries(e.point, {
                             name: 'seriesName',
                             data: data,
@@ -381,8 +359,6 @@ const afterDrillUp = function(e) {
                             }
                         });
                         this.series[0].setData(data, true);
-                        console.log('series [0]:',this.series[0]);
-                        console.log('result drilldownLevel: ', drilldownLevel);
                     }
                 }
             }
@@ -469,10 +445,6 @@ const afterDrillUp = function(e) {
                 }
             }
         }
-    });
-    let allPointsData;
-    fetch('test_points.json').then(response => response.json()).then(data => {
-        allPointsData = data;
     });
 
     const onDropdownChange = async function() {
