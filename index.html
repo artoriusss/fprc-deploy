@@ -13,6 +13,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
     <style>
         .sidebar {
+            z-index: 2;
             position: fixed;
             top: 0;
             right: 0;
@@ -23,8 +24,19 @@
             margin-right: 50px;
             box-sizing: border-box;
         }
+
+        #treemap-container {
+            position: relative;
+            top: 0;
+            left: 0;
+            width: calc(60% - 250px); 
+            height: 500px; 
+            z-index: 0;
+        }
     
         #map-container {
+            position: relative;
+            z-index: 1; 
             width: calc(100% - 250px); 
             height: 700px;
             float: left; 
@@ -299,6 +311,11 @@
         </div>
     </div>
 
+    <div id="treemap-container">
+        <!-- Treemap will be inserted here -->
+    </div>
+
+<!-- Scripts for Highcharts map -->
 <script src="https://code.highcharts.com/maps/highmaps.js"></script>
 <script src="https://code.highcharts.com/maps/modules/data.js"></script>
 <script src="https://code.highcharts.com/maps/modules/drilldown.js"></script>
@@ -307,6 +324,12 @@
 <script src="https://code.highcharts.com/maps/modules/accessibility.js"></script>
 <script src="https://code.highcharts.com/maps/modules/tiledwebmap.js"></script>
 <script src="https://code.highcharts.com/maps/modules/debugger.js"></script>
+<!-- Other Highcharts scripts  -->
+
+<script src="https://code.highcharts.com/modules/treemap.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/modules/accessibility.js"></script>
+
 
 <script type="module" src="indexx.js"></script>
 

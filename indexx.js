@@ -10,6 +10,34 @@ const topology = await response.json();
 const dataa = Highcharts.geojson(topology);
 const dataInit = dataa.map(item => ({ ...item }));
 
+const calculateColorValue = (value) => {
+    const scaleFactor = 0.1;
+    return value * scaleFactor;
+};
+
+const getValuesByObjCategory = function () {
+    const points = pointsFull;
+    const aggregatedByCategory = points.reduce((acc, point) => {
+        const { object_type, amount } = point;
+        if (!acc[object_type]) {
+            acc[object_type] = 0;
+        }
+        acc[object_type] += amount;
+        return acc;
+    }, {});
+
+    const categoryValuesArray = Object.keys(aggregatedByCategory).map((key) => ({
+        name: key,
+        value: aggregatedByCategory[key],
+        colorValue: calculateColorValue(aggregatedByCategory[key]) 
+    }));
+
+    return categoryValuesArray;
+};
+
+const valuesByCategory = getValuesByObjCategory();
+console.log(valuesByCategory);
+
 const getFilteredMappoints = async function () {
     let points = await fetch('test_points.json').then(response => response.json());
     points = await filterByCategories();
@@ -353,6 +381,28 @@ let afterDrillUp = function(e) {
                     y: 60
                 }
             }
+        }
+    });
+
+    Highcharts.chart('treemap-container', {
+        colorAxis: {
+        minColor: '#FFFFFF', 
+        maxColor: '#00467E', 
+    },
+    series: [{
+        type: 'treemap',
+        layoutAlgorithm: 'squarified',
+        clip: false,
+        data: valuesByCategory
+    }],
+        title: {
+            text: 'Тип видатків',
+            align: 'left'
+        },
+        tooltip: {
+            useHTML: true,
+            pointFormat:
+                '{point.name}: <b>{point.value}</b> гривень'
         }
     });
 
