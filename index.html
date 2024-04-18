@@ -12,293 +12,290 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
     <style>
-        #container {
-            width: 100%; /* Set the desired width */
-            height: 700px; /* Set the desired height */
-            margin: 0 auto; /* Center the container horizontally */
-        }
-        .main {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            align-items: center;
-        }
-
-        .row {
-            display: flex;
-            flex-direction: row;
-            justify-content: center;
-            align-items: center;
-            width: 100%;
-        }
-
-        .col-md-6 {
-            flex: 0 0 25%; /* Use 25% of the container width for each column */
-            max-width: 25%;
+        .sidebar {
+            position: fixed;
+            top: 0;
+            right: 0;
+            width: 200px; 
+            height: 100%;
+            overflow-y: auto;
+            padding: 10px;
+            margin-right: 50px;
             box-sizing: border-box;
-            padding: 0 5px; /* Spacing between columns */
-            text-align: center;
         }
-
+    
+        #map-container {
+            width: calc(100% - 250px); 
+            height: 700px;
+            float: left; 
+        }   
+    
+        .row {
+            margin-bottom: 15px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+    
         .form-select {
-            width: 100%; /* Make the select elements take the full width of their parent */
+            width: 100%;
+            height: 20px;
         }
-
+    
         #container {
-            flex: 0 0 100%; /* Make sure the container takes the full width */
-            padding-top: 1.5rem; /* Spacing above the container */
+            padding-top: 1.5rem;
         }
     </style>
 </head>
 <body>
+    <div id="map-container">
+        <!-- Map will be inserted here -->
+    </div>
 
-    <div class="main">
-        <div class="row d-flex justify-content-center main">
+    <div class="sidebar">
+        <div class="row">
+            <label for="obj-category">Категорія обʼєкту:</label>
+            <select name="obj-category" id="obj-category" class="form-select">
+                <option value="all">Всі</option>
+                <option value="Транспорт">Транспорт</option>
+                <option value="Освіта">Освіта</option>
+                <option value="Медицина">Медицина</option>
+                <option value="Житло">Житло</option>
+                <option value="Адміністративні">Адміністративні</option>
+                <option value="Інше">Інше</option>
+            </select>
+        </div>
 
-            <div class="col-md-6 text-center">
-                <label for="obj-category" class="mt-4" style="margin-right: 10px;">Категорія обʼєкту:</label>
-                <select name="obj-category" id="obj-category" class="form-select" style="width: 170px; height: 20px;"">
-                    <option value="all">Всі</option>
-                    <option value="Транспорт">Транспорт</option>
-                    <option value="Освіта">Освіта</option>
-                    <option value="Медицина">Медицина</option>
-                    <option value="Житло">Житло</option>
-                    <option value="Адміністративні">Адміністративні</option>
-                    <option value="Інше">Інше</option>
-                </select>
-            </div>
+        <div class="row">
+            <label for="program-type">Бюджетна програма:</label>
+            <select name="program-type" id="program-type" class="form-select">
+                <option value="all">Всі</option>
+                <option value="7383">Фонд ліквідації наслідків збройної агресії</option>
+                <option value="3111370">Відновлення населених пунктів</option>
+                <option value="2201160">Підготовка кадрів ЗВО</option>
+                <option value="3111360">Відновлення житлових та громадських обʼєктів</option>
+                <option value="3111340">Будівництво магістральних водогонів</option>
+                <option value="1501040">Реконструкція Бородянського центру соціально-психологічної реабілітації</option>
+            </select>
+        </div>
 
-            <div class="col-md-6 text-center">
-                <label for="program-type" class="mt-4" style="margin-right: 10px;">Бюджетна програма:</label>
-                <select name="program-type" id="program-type" class="form-select" style="width: 170px; height: 20px;">
-                    <option value="all">Всі</option>
-                    <option value="7383">Фонд ліквідації наслідків збройної агресії</option>
-                    <option value="3111370">Відновлення населених пунктів</option>
-                    <option value="2201160">Підготовка кадрів ЗВО</option>
-                    <option value="3111360">Відновлення житлових та громадських обʼєктів</option>
-                    <option value="3111340">Будівництво магістральних водогонів</option>
-                    <option value="1501040">Реконструкція Бородянського центру соціально-психологічної реабілітації</option>
-                </select>
-            </div>
+        <div class="row">
+            <label for="payer-edrpou">ЄДРПОУ Платника:</label>
+            <select name="payer-edrpou" id="payer-edrpou" class="form-select">
+                <option value="all">Всі</option>
+                <option value="39932654">39932654</option>
+                <option value="4014080">4014080</option>
+                <option value="36565276">36565276</option>
+                <option value="24014538">24014538</option>
+                <option value="25899361">25899361</option>
+                <option value="35989356">35989356</option>
+                <option value="44234755">44234755</option>
+                <option value="4058516">4058516</option>
+                <option value="34329096">34329096</option>
+                <option value="31694098">31694098</option>
+                <option value="5408846">5408846</option>
+                <option value="3358222">3358222</option>
+                <option value="3366144">3366144</option>
+                <option value="33836176">33836176</option>
+                <option value="4389940">4389940</option>
+                <option value="44053418">44053418</option>
+                <option value="25843931">25843931</option>
+                <option value="4389868">4389868</option>
+                <option value="4056902">4056902</option>
+                <option value="26013402">26013402</option>
+                <option value="21467647">21467647</option>
+                <option value="4360586">4360586</option>
+                <option value="4014246">4014246</option>
+                <option value="25901106">25901106</option>
+                <option value="36297606">36297606</option>
+                <option value="33278140">33278140</option>
+                <option value="26345736">26345736</option>
+                <option value="4062205">4062205</option>
+                <option value="2004350">2004350</option>
+                <option value="4390133">4390133</option>
+                <option value="3363772">3363772</option>
+                <option value="40422357">40422357</option>
+                <option value="4054151">4054151</option>
+                <option value="4014252">4014252</option>
+                <option value="38461952">38461952</option>
+                <option value="41834774">41834774</option>
+                <option value="22563784">22563784</option>
+                <option value="43602693">43602693</option>
+                <option value="4382613">4382613</option>
+                <option value="3362152">3362152</option>
+                <option value="25891336">25891336</option>
+                <option value="38181706">38181706</option>
+                <option value="32017591">32017591</option>
+                <option value="2142833">2142833</option>
+                <option value="21103589">21103589</option>
+                <option value="4590317">4590317</option>
+                <option value="33824934">33824934</option>
+                <option value="40650849">40650849</option>
+                <option value="32897226">32897226</option>
+                <option value="24013674">24013674</option>
+                <option value="4382056">4382056</option>
+                <option value="26137720">26137720</option>
+                <option value="24014283">24014283</option>
+                <option value="25565312">25565312</option>
+                <option value="3338030">3338030</option>
+                <option value="41882571">41882571</option>
+                <option value="4390110">4390110</option>
+                <option value="41826674">41826674</option>
+                <option value="20577606">20577606</option>
+                <option value="22558889">22558889</option>
+                <option value="25829550">25829550</option>
+                <option value="41829591">41829591</option>
+            </select>
+        </div>
 
-            <div class="col-md-6 text-center mt-4">
-                <label for="payer-edrpou" class="mt-4" style="margin-right: 10px;">ЄДРПОУ Платника:</label>
-                <select name="payer-edrpou" id="payer-edrpou" class="form-select" style="width: 170px; height: 20px;">
-                    <option value="all">Всі</option>
-                    <option value="39932654">39932654</option>
-                    <option value="4014080">4014080</option>
-                    <option value="36565276">36565276</option>
-                    <option value="24014538">24014538</option>
-                    <option value="25899361">25899361</option>
-                    <option value="35989356">35989356</option>
-                    <option value="44234755">44234755</option>
-                    <option value="4058516">4058516</option>
-                    <option value="34329096">34329096</option>
-                    <option value="31694098">31694098</option>
-                    <option value="5408846">5408846</option>
-                    <option value="3358222">3358222</option>
-                    <option value="3366144">3366144</option>
-                    <option value="33836176">33836176</option>
-                    <option value="4389940">4389940</option>
-                    <option value="44053418">44053418</option>
-                    <option value="25843931">25843931</option>
-                    <option value="4389868">4389868</option>
-                    <option value="4056902">4056902</option>
-                    <option value="26013402">26013402</option>
-                    <option value="21467647">21467647</option>
-                    <option value="4360586">4360586</option>
-                    <option value="4014246">4014246</option>
-                    <option value="25901106">25901106</option>
-                    <option value="36297606">36297606</option>
-                    <option value="33278140">33278140</option>
-                    <option value="26345736">26345736</option>
-                    <option value="4062205">4062205</option>
-                    <option value="2004350">2004350</option>
-                    <option value="4390133">4390133</option>
-                    <option value="3363772">3363772</option>
-                    <option value="40422357">40422357</option>
-                    <option value="4054151">4054151</option>
-                    <option value="4014252">4014252</option>
-                    <option value="38461952">38461952</option>
-                    <option value="41834774">41834774</option>
-                    <option value="22563784">22563784</option>
-                    <option value="43602693">43602693</option>
-                    <option value="4382613">4382613</option>
-                    <option value="3362152">3362152</option>
-                    <option value="25891336">25891336</option>
-                    <option value="38181706">38181706</option>
-                    <option value="32017591">32017591</option>
-                    <option value="2142833">2142833</option>
-                    <option value="21103589">21103589</option>
-                    <option value="4590317">4590317</option>
-                    <option value="33824934">33824934</option>
-                    <option value="40650849">40650849</option>
-                    <option value="32897226">32897226</option>
-                    <option value="24013674">24013674</option>
-                    <option value="4382056">4382056</option>
-                    <option value="26137720">26137720</option>
-                    <option value="24014283">24014283</option>
-                    <option value="25565312">25565312</option>
-                    <option value="3338030">3338030</option>
-                    <option value="41882571">41882571</option>
-                    <option value="4390110">4390110</option>
-                    <option value="41826674">41826674</option>
-                    <option value="20577606">20577606</option>
-                    <option value="22558889">22558889</option>
-                    <option value="25829550">25829550</option>
-                    <option value="41829591">41829591</option>
-                </select>
-            </div>
-
-            <div class="col-md-6 text-center mt-4">
-                <label for="receipt-edrpou" class="mt-4" style="margin-right: 10px;">ЄДРПОУ Отримувача:</label>
-                <select name="receipt-edrpou" id="receipt-edrpou" class="form-select" style="width: 170px;">
-                    <option value="all">Всі</option>
-                    <option value="xxxxxxxxxx">xxxxxxxxxx</option>
-                    <option value="04014080">04014080</option>
-                    <option value="39879348">39879348</option>
-                    <option value="42871953">42871953</option>
-                    <option value="13993936">13993936</option>
-                    <option value="44033480">44033480</option>
-                    <option value="35683453">35683453</option>
-                    <option value="34252469">34252469</option>
-                    <option value="42703169">42703169</option>
-                    <option value="24797380">24797380</option>
-                    <option value="34390030">34390030</option>
-                    <option value="04058516">04058516</option>
-                    <option value="35407955">35407955</option>
-                    <option value="45042941">45042941</option>
-                    <option value="42442375">42442375</option>
-                    <option value="01270285">01270285</option>
-                    <option value="01270351">01270351</option>
-                    <option value="41967780">41967780</option>
-                    <option value="40627275">40627275</option>
-                    <option value="23915570">23915570</option>
-                    <option value="32670703">32670703</option>
-                    <option value="32121615">32121615</option>
-                    <option value="44567938">44567938</option>
-                    <option value="40639626">40639626</option>
-                    <option value="42481990">42481990</option>
-                    <option value="42051445">42051445</option>
-                    <option value="34490487">34490487</option>
-                    <option value="01268012">01268012</option>
-                    <option value="33658865">33658865</option>
-                    <option value="35989356">35989356</option>
-                    <option value="40148165">40148165</option>
-                    <option value="04056902">04056902</option>
-                    <option value="37477703">37477703</option>
-                    <option value="32343302">32343302</option>
-                    <option value="41564138">41564138</option>
-                    <option value="43000606">43000606</option>
-                    <option value="39394222">39394222</option>
-                    <option value="40171972">40171972</option>
-                    <option value="42850430">42850430</option>
-                    <option value="39157868">39157868</option>
-                    <option value="38732010">38732010</option>
-                    <option value="23318437">23318437</option>
-                    <option value="37383046">37383046</option>
-                    <option value="31712951">31712951</option>
-                    <option value="41242077">41242077</option>
-                    <option value="40053319">40053319</option>
-                    <option value="40729651">40729651</option>
-                    <option value="44549311">44549311</option>
-                    <option value="30686931">30686931</option>
-                    <option value="36476658">36476658</option>
-                    <option value="38494616">38494616</option>
-                    <option value="34722653">34722653</option>
-                    <option value="21467647">21467647</option>
-                    <option value="37563856">37563856</option>
-                    <option value="36100693">36100693</option>
-                    <option value="43635027">43635027</option>
-                    <option value="32828388">32828388</option>
-                    <option value="43697785">43697785</option>
-                    <option value="38374729">38374729</option>
-                    <option value="41041022">41041022</option>
-                    <option value="31541926">31541926</option>
-                    <option value="33387560">33387560</option>
-                    <option value="44960463">44960463</option>
-                    <option value="44957246">44957246</option>
-                    <option value="37065126">37065126</option>
-                    <option value="39086059">39086059</option>
-                    <option value="04854874">04854874</option>
-                    <option value="41219095">41219095</option>
-                    <option value="38855369">38855369</option>
-                    <option value="41631772">41631772</option>
-                    <option value="35859985">35859985</option>
-                    <option value="32646801">32646801</option>
-                    <option value="23521635">23521635</option>
-                    <option value="42297001">42297001</option>
-                    <option value="24340261">24340261</option>
-                    <option value="41719513">41719513</option>
-                    <option value="41899543">41899543</option>
-                    <option value="31342727">31342727</option>
-                    <option value="30428408">30428408</option>
-                    <option value="23979469">23979469</option>
-                    <option value="41969018">41969018</option>
-                    <option value="40543761">40543761</option>
-                    <option value="33897028">33897028</option>
-                    <option value="35023634">35023634</option>
-                    <option value="35458329">35458329</option>
-                    <option value="42153444">42153444</option>
-                    <option value="33620522">33620522</option>
-                    <option value="30481196">30481196</option>
-                    <option value="39583429">39583429</option>
-                    <option value="32462002">32462002</option>
-                    <option value="36550631">36550631</option>
-                    <option value="35376388">35376388</option>
-                    <option value="38397620">38397620</option>
-                    <option value="33246889">33246889</option>
-                    <option value="33783799">33783799</option>
-                    <option value="41235604">41235604</option>
-                    <option value="38376988">38376988</option>
-                    <option value="44874233">44874233</option>
-                    <option value="43468483">43468483</option>
-                    <option value="42848290">42848290</option>
-                    <option value="42613505">42613505</option>
-                    <option value="43828301">43828301</option>
-                    <option value="38831585">38831585</option>
-                    <option value="42866503">42866503</option>
-                    <option value="39024736">39024736</option>
-                    <option value="39789974">39789974</option>
-                    <option value="42647801">42647801</option>
-                    <option value="39894111">39894111</option>
-                    <option value="39503652">39503652</option>
-                    <option value="42172933">42172933</option>
-                    <option value="35556983">35556983</option>
-                    <option value="30655306">30655306</option>
-                    <option value="39639151">39639151</option>
-                    <option value="31733547">31733547</option>
-                    <option value="34987714">34987714</option>
-                    <option value="44985776">44985776</option>
-                    <option value="41286491">41286491</option>
-                    <option value="42537723">42537723</option>
-                    <option value="38747797">38747797</option>
-                    <option value="40609167">40609167</option>
-                    <option value="33313400">33313400</option>
-                    <option value="36839566">36839566</option>
-                    <option value="32417358">32417358</option>
-                    <option value="43440096">43440096</option>
-                    <option value="39485251">39485251</option>
-                    <option value="34391269">34391269</option>
-                    <option value="04014246">04014246</option>
-                    <option value="43615126">43615126</option>
-                    <option value="38606332">38606332</option>
-                    <option value="44304224">44304224</option>
-                    <option value="44535602">44535602</option>
-                    <option value="01236963">01236963</option>
-                    <option value="40250918">40250918</option>
-                    <option value="45118093">45118093</option>
-                    <option value="38445911">38445911</option>
-                    <option value="43396681">43396681</option>
-                    <option value="41187933">41187933</option>
-                    <option value="36611683">36611683</option>
-                    <option value="39471123">39471123</option>
-                    <option value="41310760">41310760</option>
-                    <option value="41024509">41024509</option>
-                    <option value="34511098">34511098</option>
-                </select>
-            </div>
-            <div id="container"></div>
+        <div class="row">
+            <label for="receipt-edrpou">ЄДРПОУ Отримувача:</label>
+            <select name="receipt-edrpou" id="receipt-edrpou" class="form-select">
+                <option value="all">Всі</option>
+                <option value="xxxxxxxxxx">xxxxxxxxxx</option>
+                <option value="04014080">04014080</option>
+                <option value="39879348">39879348</option>
+                <option value="42871953">42871953</option>
+                <option value="13993936">13993936</option>
+                <option value="44033480">44033480</option>
+                <option value="35683453">35683453</option>
+                <option value="34252469">34252469</option>
+                <option value="42703169">42703169</option>
+                <option value="24797380">24797380</option>
+                <option value="34390030">34390030</option>
+                <option value="04058516">04058516</option>
+                <option value="35407955">35407955</option>
+                <option value="45042941">45042941</option>
+                <option value="42442375">42442375</option>
+                <option value="01270285">01270285</option>
+                <option value="01270351">01270351</option>
+                <option value="41967780">41967780</option>
+                <option value="40627275">40627275</option>
+                <option value="23915570">23915570</option>
+                <option value="32670703">32670703</option>
+                <option value="32121615">32121615</option>
+                <option value="44567938">44567938</option>
+                <option value="40639626">40639626</option>
+                <option value="42481990">42481990</option>
+                <option value="42051445">42051445</option>
+                <option value="34490487">34490487</option>
+                <option value="01268012">01268012</option>
+                <option value="33658865">33658865</option>
+                <option value="35989356">35989356</option>
+                <option value="40148165">40148165</option>
+                <option value="04056902">04056902</option>
+                <option value="37477703">37477703</option>
+                <option value="32343302">32343302</option>
+                <option value="41564138">41564138</option>
+                <option value="43000606">43000606</option>
+                <option value="39394222">39394222</option>
+                <option value="40171972">40171972</option>
+                <option value="42850430">42850430</option>
+                <option value="39157868">39157868</option>
+                <option value="38732010">38732010</option>
+                <option value="23318437">23318437</option>
+                <option value="37383046">37383046</option>
+                <option value="31712951">31712951</option>
+                <option value="41242077">41242077</option>
+                <option value="40053319">40053319</option>
+                <option value="40729651">40729651</option>
+                <option value="44549311">44549311</option>
+                <option value="30686931">30686931</option>
+                <option value="36476658">36476658</option>
+                <option value="38494616">38494616</option>
+                <option value="34722653">34722653</option>
+                <option value="21467647">21467647</option>
+                <option value="37563856">37563856</option>
+                <option value="36100693">36100693</option>
+                <option value="43635027">43635027</option>
+                <option value="32828388">32828388</option>
+                <option value="43697785">43697785</option>
+                <option value="38374729">38374729</option>
+                <option value="41041022">41041022</option>
+                <option value="31541926">31541926</option>
+                <option value="33387560">33387560</option>
+                <option value="44960463">44960463</option>
+                <option value="44957246">44957246</option>
+                <option value="37065126">37065126</option>
+                <option value="39086059">39086059</option>
+                <option value="04854874">04854874</option>
+                <option value="41219095">41219095</option>
+                <option value="38855369">38855369</option>
+                <option value="41631772">41631772</option>
+                <option value="35859985">35859985</option>
+                <option value="32646801">32646801</option>
+                <option value="23521635">23521635</option>
+                <option value="42297001">42297001</option>
+                <option value="24340261">24340261</option>
+                <option value="41719513">41719513</option>
+                <option value="41899543">41899543</option>
+                <option value="31342727">31342727</option>
+                <option value="30428408">30428408</option>
+                <option value="23979469">23979469</option>
+                <option value="41969018">41969018</option>
+                <option value="40543761">40543761</option>
+                <option value="33897028">33897028</option>
+                <option value="35023634">35023634</option>
+                <option value="35458329">35458329</option>
+                <option value="42153444">42153444</option>
+                <option value="33620522">33620522</option>
+                <option value="30481196">30481196</option>
+                <option value="39583429">39583429</option>
+                <option value="32462002">32462002</option>
+                <option value="36550631">36550631</option>
+                <option value="35376388">35376388</option>
+                <option value="38397620">38397620</option>
+                <option value="33246889">33246889</option>
+                <option value="33783799">33783799</option>
+                <option value="41235604">41235604</option>
+                <option value="38376988">38376988</option>
+                <option value="44874233">44874233</option>
+                <option value="43468483">43468483</option>
+                <option value="42848290">42848290</option>
+                <option value="42613505">42613505</option>
+                <option value="43828301">43828301</option>
+                <option value="38831585">38831585</option>
+                <option value="42866503">42866503</option>
+                <option value="39024736">39024736</option>
+                <option value="39789974">39789974</option>
+                <option value="42647801">42647801</option>
+                <option value="39894111">39894111</option>
+                <option value="39503652">39503652</option>
+                <option value="42172933">42172933</option>
+                <option value="35556983">35556983</option>
+                <option value="30655306">30655306</option>
+                <option value="39639151">39639151</option>
+                <option value="31733547">31733547</option>
+                <option value="34987714">34987714</option>
+                <option value="44985776">44985776</option>
+                <option value="41286491">41286491</option>
+                <option value="42537723">42537723</option>
+                <option value="38747797">38747797</option>
+                <option value="40609167">40609167</option>
+                <option value="33313400">33313400</option>
+                <option value="36839566">36839566</option>
+                <option value="32417358">32417358</option>
+                <option value="43440096">43440096</option>
+                <option value="39485251">39485251</option>
+                <option value="34391269">34391269</option>
+                <option value="04014246">04014246</option>
+                <option value="43615126">43615126</option>
+                <option value="38606332">38606332</option>
+                <option value="44304224">44304224</option>
+                <option value="44535602">44535602</option>
+                <option value="01236963">01236963</option>
+                <option value="40250918">40250918</option>
+                <option value="45118093">45118093</option>
+                <option value="38445911">38445911</option>
+                <option value="43396681">43396681</option>
+                <option value="41187933">41187933</option>
+                <option value="36611683">36611683</option>
+                <option value="39471123">39471123</option>
+                <option value="41310760">41310760</option>
+                <option value="41024509">41024509</option>
+                <option value="34511098">34511098</option>
+            </select>
         </div>
     </div>
 

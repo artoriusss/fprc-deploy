@@ -205,7 +205,7 @@ let afterDrillUp = function(e) {
     data = Highcharts.geojson(topology);
     data = syncAggregate(data);
 
-    Highcharts.mapChart('container', {
+    Highcharts.mapChart('map-container', {
         custom: {
             customData: data
         },
