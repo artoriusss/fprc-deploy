@@ -25,6 +25,15 @@
             box-sizing: border-box;
         }
 
+        #line-chart-container {
+            position: relative;
+            top: 0;
+            left: 0;
+            width: calc(60% - 250px); 
+            height: 500px; 
+            z-index: 0;
+        }
+
         #treemap-container {
             position: relative;
             top: 0;
@@ -313,6 +322,10 @@
 
     <div id="treemap-container">
         <!-- Treemap will be inserted here -->
+    </div>
+
+    <div id="line-chart-container">
+        <!-- Line chart will be inserted here -->
     </div>
 
 <!-- Scripts for Highcharts map -->

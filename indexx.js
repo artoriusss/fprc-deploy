@@ -11,6 +11,35 @@ const topology = await response.json();
 const dataa = Highcharts.geojson(topology);
 const dataInit = dataa.map(item => ({ ...item }));
 
+// LINE CHART LOGIC
+
+const formatTsData = function (points) {
+    let formattedData = points.reduce((acc, item) => {
+        let timestamp = item.trans_date * 1000; 
+        let amount = item.amount // / 1e6; 
+      
+        let existingEntry = acc.find(entry => entry[0] === timestamp);
+        if (existingEntry) {
+          existingEntry[1] += amount;
+        } else {
+          acc.push([timestamp, amount]);
+        }
+        return acc;
+      }, []);
+
+      formattedData.sort((a, b) => a[0] - b[0]);
+      formattedData = formattedData.filter(([_, amount]) => amount !== 0);
+      return formattedData;
+}
+
+const updateLineChart = async function (pcode) {
+    const pts = pcode ? await filterPointsByPcode(pcode) : await filterByCategories();
+    const tsData = formatTsData(pts);
+    Highcharts.charts[2].series[0].setData(tsData);
+}
+
+// TREEMAP LOGIC
+
 const filterPointsByPcode = async function (pcode) {
     const points = await fetch('points.json').then(response => response.json());
     const objectCategory = document.getElementById('obj-category').value;
@@ -62,8 +91,7 @@ const updateTreeMap = async function (pcode) {
     Highcharts.charts[1].series[0].setData(valuesByCategory);
 }
 
-const valuesByCategory = getValuesByObjCategory(pointsFull);
-console.log(valuesByCategory);
+// MAP LOGIC
 
 const getFilteredMappoints = async function () {
     let points = await fetch('test_points.json').then(response => response.json());
@@ -138,6 +166,7 @@ const drilldown = async function (e) {
         pcode[`${level}`] =  e.point.properties[`ADM${drilldownLevel}_PCODE`];
         console.log('drilldownLevel', pcode);
         updateTreeMap(pcode[`${level}`]);
+        updateLineChart(pcode[`${level}`]);
 
         if (level === 4) {
             const seriesName = e.point.properties[`ADM${drilldownLevel}_UA`];
@@ -254,6 +283,7 @@ const syncAggregate = function (data) {
 let afterDrillUp = function(e) {console.log('drillup event: ', e)};
 
 (async () => {
+    // MAP INITIALIZATION
     const response = await fetch('adm-levels/adm1.json');
     const topology = await response.json();
     data = Highcharts.geojson(topology);
@@ -273,6 +303,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                     console.log(pcode);
                     drilldownLevel -= 1;
                     updateTreeMap(pcode[`${drilldownLevel}`]);
+                    updateLineChart(pcode[`${drilldownLevel}`]);
                     breadcrumbNames.pop(); 
 
                     if (drilldownLevel === 0) {
@@ -412,6 +443,10 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
         }
     });
 
+    // TREEMAP INITIALIZATION
+
+    const valuesByCategory = getValuesByObjCategory(pointsFull);
+
     Highcharts.chart('treemap-container', {
     chart: {
         events: {
@@ -441,6 +476,44 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
         }
     });
 
+    // LINE CHART INITIALIZATION
+    const tsData = formatTsData(pointsFull);
+
+    Highcharts.chart('line-chart-container', {
+        chart: {
+            zooming: {
+                type: 'x'
+            }
+        },
+        title: {
+            text: 'Розподіл видаків за періодом',
+            align: 'left'
+        },
+        xAxis: {
+            type: 'datetime'
+        },
+        yAxis: {
+            title: {
+                text: 'Сума'
+            }
+        },
+        legend: {
+            enabled: false
+        },
+        plotOptions: {
+            series: {
+                color: '#00457e'
+            }
+        },
+
+        series: [{
+            name: 'USD to EUR',
+            data: tsData
+        }]
+    });
+
+    // EVENT HANDLERS
+
     const onDropdownChange = async function() {
         if (drilldownLevel !== 4) {
             const chart = Highcharts.charts[0]; 
@@ -448,6 +521,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
             chart.series[0].setData(aggregatedData);
             console.log(pcode)
             updateTreeMap(pcode[`${drilldownLevel}`]);
+            updateLineChart(pcode[`${drilldownLevel}`]);
         }  else {
             const chart = Highcharts.charts[0]; 
             let points = await getFilteredMappoints();
