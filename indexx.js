@@ -3,6 +3,7 @@ let breadcrumbNames = ['Ukraine'];
 var data;
 var drilldownLevel = 0;
 var levelData = {};
+var pcode = {};
 
 const pointsFull = await fetch('points.json').then(response => response.json());
 const response = await fetch('adm-levels/adm1.json');
@@ -10,13 +11,31 @@ const topology = await response.json();
 const dataa = Highcharts.geojson(topology);
 const dataInit = dataa.map(item => ({ ...item }));
 
+const filterPointsByPcode = async function (pcode) {
+    const points = await fetch('points.json').then(response => response.json());
+    const objectCategory = document.getElementById('obj-category').value;
+    const programType = document.getElementById('program-type').value;
+    const payerEdrpou = document.getElementById('payer-edrpou').value;
+    const receiptEdrpou = document.getElementById('receipt-edrpou').value;
+    
+    const fPoints = points.filter(point => point[`adm${drilldownLevel}_pcode`] === pcode);
+    const filteredPoints = fPoints.filter(point => {
+        const matchesObjectCategory = objectCategory === 'all' || point.object_type === objectCategory;
+        const matchesProgramType = programType === 'all' || point.kpk == programType;
+        const matchesPayerEdrpou = payerEdrpou === 'all' || point.payer_edrpou == payerEdrpou; 
+        const matchesReceiptEdrpou = receiptEdrpou === 'all' || point.recipt_edrpou == receiptEdrpou;
+        return matchesObjectCategory &&  matchesProgramType && matchesPayerEdrpou && matchesReceiptEdrpou;
+    });
+    console.log(`Filtering by ${objectCategory}, ${payerEdrpou}, ${receiptEdrpou} ${programType}`)
+    return filteredPoints;
+}
+
 const calculateColorValue = (value) => {
     const scaleFactor = 0.1;
     return value * scaleFactor;
 };
 
-const getValuesByObjCategory = function () {
-    const points = pointsFull;
+const getValuesByObjCategory = function(points) {
     const aggregatedByCategory = points.reduce((acc, point) => {
         const { object_type, amount } = point;
         if (!acc[object_type]) {
@@ -35,7 +54,15 @@ const getValuesByObjCategory = function () {
     return categoryValuesArray;
 };
 
-const valuesByCategory = getValuesByObjCategory();
+const updateTreeMap = async function (pcode) {
+    console.log('pcode', pcode);
+    console.log('updating treemap');
+    const pts = pcode ? await filterPointsByPcode(pcode) : await filterByCategories();
+    const valuesByCategory = getValuesByObjCategory(pts);
+    Highcharts.charts[1].series[0].setData(valuesByCategory);
+}
+
+const valuesByCategory = getValuesByObjCategory(pointsFull);
 console.log(valuesByCategory);
 
 const getFilteredMappoints = async function () {
@@ -106,10 +133,11 @@ const aggregateByPcode = async function (data) {
 const drilldown = async function (e) {
     if (!e.seriesOptions) {
         const chart = this;
-
         const level = getDrilldownLevel(e.point.drilldown.length);
         drilldownLevel = level;
-        console.log('drilled to level: ', drilldownLevel);
+        pcode[`${level}`] =  e.point.properties[`ADM${drilldownLevel}_PCODE`];
+        console.log('drilldownLevel', pcode);
+        updateTreeMap(pcode[`${level}`]);
 
         if (level === 4) {
             const seriesName = e.point.properties[`ADM${drilldownLevel}_UA`];
@@ -177,7 +205,7 @@ const drilldown = async function (e) {
 
         const seriesName = e.point.properties[`ADM${drilldownLevel}_UA`];
         breadcrumbNames = [seriesName];
-        data = syncAggregate(topoData);
+        data = await aggregateByPcode(topoData);
 
         chart.addSeriesAsDrilldown(e.point, {
             name: seriesName,
@@ -223,15 +251,13 @@ const syncAggregate = function (data) {
     return data;
 }
 
-let afterDrillUp = function(e) {
-    console.log('drillup event: ', e);
-};
+let afterDrillUp = function(e) {console.log('drillup event: ', e)};
 
 (async () => {
     const response = await fetch('adm-levels/adm1.json');
     const topology = await response.json();
     data = Highcharts.geojson(topology);
-    data = syncAggregate(data);
+    data = await aggregateByPcode(data);
 
     Highcharts.mapChart('map-container', {
         custom: {
@@ -244,7 +270,9 @@ let afterDrillUp = function(e) {
                     //console.log('redraw')
             },
                 drillupall: function(e) {
+                    console.log(pcode);
                     drilldownLevel -= 1;
+                    updateTreeMap(pcode[`${drilldownLevel}`]);
                     breadcrumbNames.pop(); 
 
                     if (drilldownLevel === 0) {
@@ -385,7 +413,14 @@ let afterDrillUp = function(e) {
     });
 
     Highcharts.chart('treemap-container', {
-        colorAxis: {
+    chart: {
+        events: {
+            redraw: function() {
+                console.log('tmredraw')
+            }
+        },
+    },
+    colorAxis: {
         minColor: '#FFFFFF', 
         maxColor: '#00467E', 
     },
@@ -411,6 +446,8 @@ let afterDrillUp = function(e) {
             const chart = Highcharts.charts[0]; 
             let aggregatedData = await aggregateByPcode(data); 
             chart.series[0].setData(aggregatedData);
+            console.log(pcode)
+            updateTreeMap(pcode[`${drilldownLevel}`]);
         }  else {
             const chart = Highcharts.charts[0]; 
             let points = await getFilteredMappoints();
