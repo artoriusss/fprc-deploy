@@ -478,6 +478,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
 
     // LINE CHART INITIALIZATION
     const tsData = formatTsData(pointsFull);
+    console.log(tsData);
 
     Highcharts.chart('line-chart-container', {
         chart: {
@@ -507,7 +508,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
         },
 
         series: [{
-            name: 'USD to EUR',
+            name: 'Видатки: ',
             data: tsData
         }]
     });

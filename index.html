@@ -25,22 +25,21 @@
             box-sizing: border-box;
         }
 
-        #line-chart-container {
+        #charts-container {
+            display: flex; /* Use flexbox to align charts in a row */
+            justify-content: space-between;
             position: relative;
             top: 0;
             left: 0;
-            width: calc(60% - 250px); 
-            height: 500px; 
+            width: calc(100% - 250px); /* Full width minus sidebar */
+            height: 500px; /* Define a fixed height */
             z-index: 0;
         }
 
-        #treemap-container {
-            position: relative;
-            top: 0;
-            left: 0;
-            width: calc(60% - 250px); 
-            height: 500px; 
-            z-index: 0;
+        #treemap-container,
+        #line-chart-container {
+            flex: 1; /* Distribute space evenly */
+            margin: 0 10px; /* Add some space between the charts */
         }
     
         #map-container {
@@ -320,12 +319,14 @@
         </div>
     </div>
 
-    <div id="treemap-container">
-        <!-- Treemap will be inserted here -->
-    </div>
+    <div id="charts-container">
+        <div id="treemap-container">
+            <!-- Treemap will be inserted here -->
+        </div>
 
-    <div id="line-chart-container">
-        <!-- Line chart will be inserted here -->
+        <div id="line-chart-container">
+            <!-- Line chart will be inserted here -->
+        </div>
     </div>
 
 <!-- Scripts for Highcharts map -->
