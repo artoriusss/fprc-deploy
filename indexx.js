@@ -14,6 +14,7 @@ const dataInit = dataa.map(item => ({ ...item }));
 // BAR CHART LOGIC
 const formatBarData = function (points, aggregateBy) {
     const barColour = aggregateBy === 'payer_name' ? "#00457e" : '#ffbd01';
+    const barLabel = aggregateBy === 'payer_name' ? 'Замовник' : 'Отримувач';
     const aggregatedData = points.reduce((acc, point) => {
         const key = point[aggregateBy];
         if (acc[key]) {
@@ -33,7 +34,7 @@ const formatBarData = function (points, aggregateBy) {
     const categories = sortedData.map(item => item.name);
 
     const series = {
-        name: "Замовник",
+        name: barLabel,
         color: barColour,
         data: seriesData
     };
