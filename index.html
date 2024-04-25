@@ -26,20 +26,34 @@
         }
 
         #charts-container {
-            display: flex; /* Use flexbox to align charts in a row */
+            display: flex; 
             justify-content: space-between;
             position: relative;
             top: 0;
             left: 0;
-            width: calc(100% - 250px); /* Full width minus sidebar */
-            height: 500px; /* Define a fixed height */
+            width: calc(100% - 50px); 
+            height: 500px; 
             z-index: 0;
         }
 
         #treemap-container,
-        #line-chart-container {
-            flex: 1; /* Distribute space evenly */
-            margin: 0 10px; /* Add some space between the charts */
+        #line-chart-container{
+            flex: 1; 
+            margin: 0 10px; 
+        }
+
+        #bar-charts-container {
+            display: flex; 
+            justify-content: space-between; 
+            width: calc(100% - 50px); 
+            align-items: stretch; 
+            padding: 20px 0; 
+        }
+
+        #bar-payer,
+        #bar-reciept {
+            flex: 1; /* Each child will take an equal amount of space */
+            margin: 0 10px; /* Adds some space between the charts */
         }
     
         #map-container {

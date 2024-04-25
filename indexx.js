@@ -11,6 +11,46 @@ const topology = await response.json();
 const dataa = Highcharts.geojson(topology);
 const dataInit = dataa.map(item => ({ ...item }));
 
+// BAR CHART LOGIC
+const formatBarData = function (points, aggregateBy) {
+    const barColour = aggregateBy === 'payer_name' ? "#00457e" : '#ffbd01';
+    const aggregatedData = points.reduce((acc, point) => {
+        const key = point[aggregateBy];
+        if (acc[key]) {
+            acc[key] += point.amount;
+        } else {
+            acc[key] = point.amount;
+        }
+        return acc;
+    }, {});
+
+    const sortedData = Object.keys(aggregatedData)
+        .map(key => ({ name: key, amount: aggregatedData[key] }))
+        .sort((a, b) => b.amount - a.amount)
+        .slice(0, 10); 
+
+    const seriesData = sortedData.map(item => item.amount);
+    const categories = sortedData.map(item => item.name);
+
+    const series = {
+        name: "Замовник",
+        color: barColour,
+        data: seriesData
+    };
+
+    return { series, categories };
+};
+
+const updateBarChart = async function (pcode) {
+    const pts = pcode ? await filterPointsByPcode(pcode) : await filterByCategories();
+    const { series: recieptSeries, categories: recieptCategories } = formatBarData(pts, 'recipt_name');
+    const { series: payerSeries, categories: payerCategories } = formatBarData(pts, 'payer_name');
+    Highcharts.charts[3].series[0].setData(payerSeries.data);
+    Highcharts.charts[4].series[0].setData(recieptSeries.data);
+    Highcharts.charts[3].axes[0].setCategories(payerCategories);
+    Highcharts.charts[4].axes[0].setCategories(recieptCategories);
+}
+
 // LINE CHART LOGIC
 
 const formatTsData = function (points) {
@@ -84,8 +124,6 @@ const getValuesByObjCategory = function(points) {
 };
 
 const updateTreeMap = async function (pcode) {
-    console.log('pcode', pcode);
-    console.log('updating treemap');
     const pts = pcode ? await filterPointsByPcode(pcode) : await filterByCategories();
     const valuesByCategory = getValuesByObjCategory(pts);
     Highcharts.charts[1].series[0].setData(valuesByCategory);
@@ -164,9 +202,10 @@ const drilldown = async function (e) {
         const level = getDrilldownLevel(e.point.drilldown.length);
         drilldownLevel = level;
         pcode[`${level}`] =  e.point.properties[`ADM${drilldownLevel}_PCODE`];
-        console.log('drilldownLevel', pcode);
+        
         updateTreeMap(pcode[`${level}`]);
         updateLineChart(pcode[`${level}`]);
+        updateBarChart(pcode[`${level}`]);
 
         if (level === 4) {
             const seriesName = e.point.properties[`ADM${drilldownLevel}_UA`];
@@ -288,7 +327,6 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
     const topology = await response.json();
     data = Highcharts.geojson(topology);
     data = await aggregateByPcode(data);
-
     Highcharts.mapChart('map-container', {
         custom: {
             customData: data
@@ -300,10 +338,11 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                     //console.log('redraw')
             },
                 drillupall: function(e) {
-                    console.log(pcode);
+                    console.log(drilldownLevel);
+                    updateTreeMap(pcode[`${drilldownLevel === 4 ? 2 : drilldownLevel - 1}`]);
+                    updateLineChart(pcode[`${drilldownLevel === 4 ? 2 : drilldownLevel - 1}`]);
+                    updateBarChart(pcode[`${drilldownLevel === 4 ? 2 : drilldownLevel - 1}`]);
                     drilldownLevel -= 1;
-                    updateTreeMap(pcode[`${drilldownLevel}`]);
-                    updateLineChart(pcode[`${drilldownLevel}`]);
                     breadcrumbNames.pop(); 
 
                     if (drilldownLevel === 0) {
@@ -444,9 +483,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
     });
 
     // TREEMAP INITIALIZATION
-
     const valuesByCategory = getValuesByObjCategory(pointsFull);
-
     Highcharts.chart('treemap-container', {
     chart: {
         events: {
@@ -478,8 +515,6 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
 
     // LINE CHART INITIALIZATION
     const tsData = formatTsData(pointsFull);
-    console.log(tsData);
-
     Highcharts.chart('line-chart-container', {
         chart: {
             zooming: {
@@ -513,8 +548,91 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
         }]
     });
 
-    // EVENT HANDLERS
+    // BAR CHARTS INITIALIZATION
+    const { series: recieptSeries, categories: recieptCategories } = formatBarData(pointsFull, 'recipt_name');
+    const { series: payerSeries, categories: payerCategories } = formatBarData(pointsFull, 'payer_name');
+    Highcharts.chart('bar-payer', {
+        chart: {
+          type: "bar",
+          zoomType: "y"
+        },
+        title: {
+          text: "Найбільші замовники, грн"
+        },
+        xAxis: {
+          categories: payerCategories,
+          title: {
+            text: null
+          },
+          labels: {
+            style: {
+                width: '150px', // Adjust the width as needed
+                whiteSpace: 'nowrap',
+                overflow: 'hidden',
+                textOverflow: 'ellipsis'
+            }
+        }
+        },
+        yAxis: {
+          min: 0,
+          title: {
+            text: null
+          },
+          labels: {
+            overflow: "justify",
+          }
+        },
+        tooltip: {
+          valueSuffix: " грн"
+        },
+        legend: {
+          enabled: false
+        },
+        series: [payerSeries]
+      });
+    Highcharts.chart('bar-reciept', {
+        chart: {
+          type: "bar",
+          zoomType: "y"
+        },
+        title: {
+          text: "Найбільші отримувачі, грн"
+        },
+        xAxis: {
+          categories: recieptCategories,
+          title: {
+            text: null
+          },
+          labels: {
+            style: {
+                width: '150px', // Adjust the width as needed
+                whiteSpace: 'nowrap',
+                overflow: 'hidden',
+                textOverflow: 'ellipsis'
+            }
+        }
+        },
+        yAxis: {
+          min: 0,
+          title: {
+            text: null
+          },
+          labels: {
+            overflow: "justify",
+          }
+        },
+        tooltip: {
+          valueSuffix: " грн"
+        },
+        legend: {
+          enabled: false
+        },
+        series: [recieptSeries]
+      });
 
+    console.log(Highcharts.charts[4])
+
+    // EVENT HANDLERS
     const onDropdownChange = async function() {
         if (drilldownLevel !== 4) {
             const chart = Highcharts.charts[0]; 
@@ -523,6 +641,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
             console.log(pcode)
             updateTreeMap(pcode[`${drilldownLevel}`]);
             updateLineChart(pcode[`${drilldownLevel}`]);
+            updateBarChart(pcode[`${drilldownLevel}`]);
         }  else {
             const chart = Highcharts.charts[0]; 
             let points = await getFilteredMappoints();
