@@ -31,9 +31,21 @@
             position: relative;
             top: 0;
             left: 0;
-            width: calc(100% - 50px); 
+            width: calc(100% - 250px); 
             height: 500px; 
             z-index: 0;
+        }
+
+        #tables-container {
+            width: calc(100% - 285px); 
+            margin-left: 10px; 
+            padding: 20px 10px; 
+        }
+
+        #tables-container table {
+            width: 100%; 
+            box-sizing: border-box; 
+            margin: 0; 
         }
 
         #treemap-container,
@@ -45,15 +57,15 @@
         #bar-charts-container {
             display: flex; 
             justify-content: space-between; 
-            width: calc(100% - 50px); 
+            width: calc(100% - 250px); 
             align-items: stretch; 
             padding: 20px 0; 
         }
 
         #bar-payer,
         #bar-reciept {
-            flex: 1; /* Each child will take an equal amount of space */
-            margin: 0 10px; /* Adds some space between the charts */
+            flex: 1; 
+            margin: 0 10px; 
         }
     
         #map-container {
@@ -105,11 +117,10 @@
             <label for="program-type">Бюджетна програма:</label>
             <select name="program-type" id="program-type" class="form-select">
                 <option value="all">Всі</option>
-                <option value="7383">Фонд ліквідації наслідків збройної агресії</option>
+                <option value="7383">Реалізація проектів з фонду ліквідації наслідків збройної агресії</option>
                 <option value="3111370">Відновлення населених пунктів</option>
-                <option value="2201160">Підготовка кадрів ЗВО</option>
-                <option value="3111360">Відновлення житлових та громадських обʼєктів</option>
-                <option value="3111340">Будівництво магістральних водогонів</option>
+                <option value="3111360">Відновлення об'єктів житлового та громадського призначення</option>
+                <option value="3111340">Експериментальне будівництво магістральних водогонів</option>
                 <option value="1501040">Реконструкція Бородянського центру соціально-психологічної реабілітації</option>
             </select>
         </div>
@@ -350,6 +361,35 @@
         <div id="bar-reciept">
             <!-- Line chart will be inserted here -->
         </div>
+    </div>
+
+    <div id="tables-container">
+        <table id="programs-table" border="1">
+            <thead>
+                <tr>
+                    <th>Програма</th>
+                    <th>К-ть обʼєктів</th>
+                    <th>Профінансовано, грн</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Rows will be inserted here with JavaScript -->
+            </tbody>
+        </table>
+
+        <table id="objects-table" border="1" style="display: none;">
+            <thead>
+                <tr>
+                    <th>Адреса</th>
+                    <th>Тип обʼєкту</th>
+                    <th>Виділено коштів, грн</th>
+                    <th>Фактичні витрати, грн</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Rows will be inserted here with JavaScript -->
+            </tbody>
+        </table>
     </div>
 
 <!-- Scripts for Highcharts map -->

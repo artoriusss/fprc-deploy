@@ -11,6 +11,63 @@ const topology = await response.json();
 const dataa = Highcharts.geojson(topology);
 const dataInit = dataa.map(item => ({ ...item }));
 
+const updateTable = async function (pts){
+    const aggregateData = pts.reduce((acc, item) => {
+      if (!acc[item.programme_name]) {
+        acc[item.programme_name] = {
+          numberOfObjects: 0,
+          totalAmount: 0
+        };
+      }
+      acc[item.programme_name].numberOfObjects += 1;
+      acc[item.programme_name].totalAmount += item.amount;
+      return acc;
+    }, {});
+    const tableBody = document.getElementById('programs-table').getElementsByTagName('tbody')[0];
+  
+    tableBody.innerHTML = "";
+  
+    for (const [programme, data] of Object.entries(aggregateData)) {
+      const row = tableBody.insertRow();
+      const programCell = row.insertCell();
+      const numberCell = row.insertCell();
+      const amountCell = row.insertCell();
+  
+      programCell.textContent = programme;
+      numberCell.textContent = data.numberOfObjects;
+      amountCell.textContent = data.totalAmount.toLocaleString();
+    }
+};
+
+function hideObjectsTable() {
+    const table = document.getElementById('objects-table');
+    table.style.display = 'none';
+};
+
+function displayObjectsTable(pts) {
+    const table = document.getElementById('objects-table');
+    table.style.display = ''; 
+
+    const tableBody = table.getElementsByTagName('tbody')[0];
+    tableBody.innerHTML = '';
+    pts.forEach(item => {
+        const row = tableBody.insertRow();
+
+        
+        const addressCell = row.insertCell();
+        addressCell.textContent = item.address; 
+
+        const objectTypeCell = row.insertCell();
+        objectTypeCell.textContent = item.object_type;
+
+        const decisionCell = row.insertCell();
+        decisionCell.textContent = item.amount_decision.toLocaleString(); 
+
+        const amountCell = row.insertCell();
+        amountCell.textContent = item.amount.toLocaleString(); 
+    });
+};
+
 // BAR CHART LOGIC
 const formatBarData = function (points, aggregateBy) {
     const barColour = aggregateBy === 'payer_name' ? "#00457e" : '#ffbd01';
@@ -42,15 +99,14 @@ const formatBarData = function (points, aggregateBy) {
     return { series, categories };
 };
 
-const updateBarChart = async function (pcode) {
-    const pts = pcode ? await filterPointsByPcode(pcode) : await filterByCategories();
+const updateBarChart = async function (pts) {
     const { series: recieptSeries, categories: recieptCategories } = formatBarData(pts, 'recipt_name');
     const { series: payerSeries, categories: payerCategories } = formatBarData(pts, 'payer_name');
     Highcharts.charts[3].series[0].setData(payerSeries.data);
     Highcharts.charts[4].series[0].setData(recieptSeries.data);
     Highcharts.charts[3].axes[0].setCategories(payerCategories);
     Highcharts.charts[4].axes[0].setCategories(recieptCategories);
-}
+};
 
 // LINE CHART LOGIC
 
@@ -71,16 +127,14 @@ const formatTsData = function (points) {
       formattedData.sort((a, b) => a[0] - b[0]);
       formattedData = formattedData.filter(([_, amount]) => amount !== 0);
       return formattedData;
-}
+};
 
-const updateLineChart = async function (pcode) {
-    const pts = pcode ? await filterPointsByPcode(pcode) : await filterByCategories();
+const updateLineChart = async function (pts) {
     const tsData = formatTsData(pts);
     Highcharts.charts[2].series[0].setData(tsData);
-}
+};
 
 // TREEMAP LOGIC
-
 const filterPointsByPcode = async function (pcode) {
     const points = await fetch('points.json').then(response => response.json());
     const objectCategory = document.getElementById('obj-category').value;
@@ -98,7 +152,7 @@ const filterPointsByPcode = async function (pcode) {
     });
     console.log(`Filtering by ${objectCategory}, ${payerEdrpou}, ${receiptEdrpou} ${programType}`)
     return filteredPoints;
-}
+};
 
 const calculateColorValue = (value) => {
     const scaleFactor = 0.1;
@@ -124,11 +178,24 @@ const getValuesByObjCategory = function(points) {
     return categoryValuesArray;
 };
 
-const updateTreeMap = async function (pcode) {
-    const pts = pcode ? await filterPointsByPcode(pcode) : await filterByCategories();
+const updateTreeMap = async function (pts) {
     const valuesByCategory = getValuesByObjCategory(pts);
     Highcharts.charts[1].series[0].setData(valuesByCategory);
-}
+};
+
+// UPDATE CHARTS LOGIC
+const updateCharts = async function (pcode) {
+    const pts = pcode ? await filterPointsByPcode(pcode) : await filterByCategories();
+    updateTreeMap(pts);
+    updateLineChart(pts);
+    updateBarChart(pts);
+    updateTable(pts);
+    if (drilldownLevel === 4) {
+        displayObjectsTable(pts);
+    } else if (drilldownLevel === 2) {
+        hideObjectsTable();
+    }
+};
 
 // MAP LOGIC
 
@@ -157,7 +224,7 @@ const getFilteredMappoints = async function () {
         }
     }));
     return points;
-}
+};
 
 const filterByCategories = async function () {
     const points = await fetch('points.json').then(response => response.json());
@@ -176,11 +243,11 @@ const filterByCategories = async function () {
     });
     console.log(`Filtering by ${objectCategory}, ${payerEdrpou}, ${receiptEdrpou} ${programType}`)
     return filteredPoints;
-}
+};
 
 const getDrilldownLevel = function (length) {
     return length > 9 ? 4 : length > 6 ? 3 : length > 4 ? 2 : 1;
-}
+};
 
 const aggregateByPcode = async function (data) {
     const points = await filterByCategories(); 
@@ -195,7 +262,7 @@ const aggregateByPcode = async function (data) {
         d.value = d.value === 0 ? null : d.value;
     });
     return data;
-}
+};
 
 const drilldown = async function (e) {
     if (!e.seriesOptions) {
@@ -203,10 +270,7 @@ const drilldown = async function (e) {
         const level = getDrilldownLevel(e.point.drilldown.length);
         drilldownLevel = level;
         pcode[`${level}`] =  e.point.properties[`ADM${drilldownLevel}_PCODE`];
-        
-        updateTreeMap(pcode[`${level}`]);
-        updateLineChart(pcode[`${level}`]);
-        updateBarChart(pcode[`${level}`]);
+        updateCharts(pcode[`${level}`]);
 
         if (level === 4) {
             const seriesName = e.point.properties[`ADM${drilldownLevel}_UA`];
@@ -339,10 +403,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                     //console.log('redraw')
             },
                 drillupall: function(e) {
-                    console.log(drilldownLevel);
-                    updateTreeMap(pcode[`${drilldownLevel === 4 ? 2 : drilldownLevel - 1}`]);
-                    updateLineChart(pcode[`${drilldownLevel === 4 ? 2 : drilldownLevel - 1}`]);
-                    updateBarChart(pcode[`${drilldownLevel === 4 ? 2 : drilldownLevel - 1}`]);
+                    updateCharts(pcode[`${drilldownLevel === 4 ? 2 : drilldownLevel - 1}`]);
                     drilldownLevel -= 1;
                     breadcrumbNames.pop(); 
 
@@ -631,7 +692,8 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
         series: [recieptSeries]
       });
 
-    console.log(Highcharts.charts[4])
+    // PROGRAMS TABLE INITIALIZATION
+    await updateTable(pointsFull);
 
     // EVENT HANDLERS
     const onDropdownChange = async function() {
@@ -639,14 +701,11 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
             const chart = Highcharts.charts[0]; 
             let aggregatedData = await aggregateByPcode(data); 
             chart.series[0].setData(aggregatedData);
-            console.log(pcode)
-            updateTreeMap(pcode[`${drilldownLevel}`]);
-            updateLineChart(pcode[`${drilldownLevel}`]);
-            updateBarChart(pcode[`${drilldownLevel}`]);
+            updateCharts(pcode[`${drilldownLevel}`]);
         }  else {
             const chart = Highcharts.charts[0]; 
             let points = await getFilteredMappoints();
-
+            updateCharts(pcode[`${drilldownLevel}`]);
             chart.series[1].remove();
 
             chart.addSeries({
