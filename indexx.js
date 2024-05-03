@@ -11,6 +11,21 @@ const topology = await response.json();
 const dataa = Highcharts.geojson(topology);
 const dataInit = dataa.map(item => ({ ...item }));
 
+// METRICS LOGIC 
+const updateMetrics = async function (pts){
+    let plannedBudgetTotal = 0;
+    let totalSpent = 0;
+
+    pts.forEach(item => {
+        plannedBudgetTotal += item.amount_decision ? item.amount_decision : 0; 
+        totalSpent += item.amount ? item.amount : 0; 
+    });
+
+    document.getElementById('planned-budget').textContent = plannedBudgetTotal.toLocaleString('uk-UA', {style: 'currency', currency: 'UAH'});
+    document.getElementById('total-spent').textContent = totalSpent.toLocaleString('uk-UA', {style: 'currency', currency: 'UAH'});
+}
+
+// TABLES LOGIC 
 const updateTable = async function (pts){
     const aggregateData = pts.reduce((acc, item) => {
       if (!acc[item.programme_name]) {
@@ -190,6 +205,7 @@ const updateCharts = async function (pcode) {
     updateLineChart(pts);
     updateBarChart(pts);
     updateTable(pts);
+    updateMetrics(pts);
     if (drilldownLevel === 4) {
         displayObjectsTable(pts);
     } else if (drilldownLevel === 2) {
@@ -628,7 +644,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
           },
           labels: {
             style: {
-                width: '150px', // Adjust the width as needed
+                width: '150px', 
                 whiteSpace: 'nowrap',
                 overflow: 'hidden',
                 textOverflow: 'ellipsis'
@@ -694,6 +710,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
 
     // PROGRAMS TABLE INITIALIZATION
     await updateTable(pointsFull);
+    await updateMetrics(pointsFull);
 
     // EVENT HANDLERS
     const onDropdownChange = async function() {

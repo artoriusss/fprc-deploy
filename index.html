@@ -25,6 +25,12 @@
             box-sizing: border-box;
         }
 
+        #metrics-container {
+            width: calc(100% - 250px); 
+            display: flex; 
+            justify-content: space-between;
+        }
+
         #charts-container {
             display: flex; 
             justify-content: space-between;
@@ -95,6 +101,16 @@
     </style>
 </head>
 <body>
+    <div id="metrics-container">
+        <div id="planned-budget-container">
+            <h3>Заплановано використати</h3>
+            <p id="planned-budget"><!--metric inserted in JS --></p>
+        </div>
+        <div id="total-spent-container">
+            <h3>Всього використано коштів</h3>
+            <p id="total-spent"><!--metric inserted in JS --></p>
+        </div>
+    </div>
     <div id="map-container">
         <!-- Map will be inserted here -->
     </div>
@@ -109,6 +125,7 @@
                 <option value="Медицина">Медицина</option>
                 <option value="Житло">Житло</option>
                 <option value="Адміністративні">Адміністративні</option>
+                <option value="Водогони">Водогони</option>
                 <option value="Інше">Інше</option>
             </select>
         </div>
