@@ -11,6 +11,103 @@ const topology = await response.json();
 const dataa = Highcharts.geojson(topology);
 const dataInit = dataa.map(item => ({ ...item }));
 
+const initializeDropdownOptions = async function(selectElementId, pts, propertyValueKey, propertyLabelKey, update) {
+    const selectElement = document.getElementById(selectElementId);
+    const valueLabelMapper = pts.reduce((acc, item) => {
+        const value = item[propertyValueKey];
+        const label = item[propertyLabelKey];
+        if (value && label) {
+            acc[value] = label;
+        }
+        return acc;
+    }, {});
+
+    // Store the currently selected value (if any) before clearing the options.
+    const currentSelectedValue = selectElement.value;
+
+    // Clearing out existing options
+    while (selectElement.options.length > 0) {
+        selectElement.remove(0);
+    }
+
+    // Add the 'all' option by default
+    const allOptionsEl = document.createElement('option');
+    allOptionsEl.value = 'all';
+    allOptionsEl.textContent = 'Всі';
+    selectElement.appendChild(allOptionsEl);
+
+    // Populate dropdown with new options
+    Object.entries(valueLabelMapper).forEach(([value, label]) => {
+        const optionElement = document.createElement('option');
+        optionElement.value = value;
+        optionElement.textContent = label;
+        selectElement.appendChild(optionElement);
+    });
+
+    if (update) {
+        if (selectElement.querySelector(`option[value="${currentSelectedValue}"]`)) {
+            // If the previously selected value still exists in the options, select it
+            selectElement.value = currentSelectedValue;
+        } else {
+            // If the previously selected value no longer exists, revert to 'all'
+            selectElement.value = 'all';
+        }
+    } else {
+        // If not updating (initial population), default to 'all'
+        selectElement.value = 'all';
+    }
+
+    // After setting the new value, store it in a dataset for reference.
+    selectElement.dataset.selectedValue = selectElement.value;
+};
+
+function storeInitialSelectedValues() {
+    document.querySelectorAll('select').forEach(select => {
+      select.dataset.selectedValue = select.value;
+    });
+}
+  
+const initializeAllDropdowns = async function (pts, update = false) {
+    initializeDropdownOptions('program-type', pts, 'kpk', 'programme_name', update);
+    initializeDropdownOptions('obj-category', pts, 'object_type', 'object_type', update);
+    initializeDropdownOptions('payer-edrpou', pts, 'payer_edrpou', 'payer_edrpou', update);
+    initializeDropdownOptions('receipt-edrpou', pts, 'recipt_edrpou', 'recipt_edrpou', update); 
+};
+
+function getFilterKey(selectElementId) {
+    switch (selectElementId) {
+        case 'program-type':
+            return ['kpk', 'programme_name'];
+        case 'obj-category':
+            return ['object_type', 'object_type'];
+        case 'payer-edrpou':
+            return ['payer_edrpou', 'payer_edrpou'];
+        case 'receipt-edrpou':
+            return ['recipt_edrpou', 'recipt_edrpou'];
+        default:
+            return null;
+    }
+}
+  
+  // Reset filter function
+function resetFilter(selectElementId) {
+    const { 0: valueKey, 1: labelKey } = getFilterKey(selectElementId);
+    initializeDropdownOptions(selectElementId, pointsFull, valueKey, labelKey, false);
+    updateCharts(pcode[`${drilldownLevel}`]);
+}
+
+function resetAllFilters() {
+    const selectElementIds = [
+        'obj-category',
+        'program-type',
+        'payer-edrpou',
+        'receipt-edrpou'
+    ];
+    selectElementIds.forEach(selectElementId => resetFilter(selectElementId));
+}
+
+await initializeAllDropdowns(pointsFull, false);
+
 // METRICS LOGIC 
 const updateMetrics = async function (pts){
     let plannedBudgetTotal = 0;
@@ -124,7 +221,6 @@ const updateBarChart = async function (pts) {
 };
 
 // LINE CHART LOGIC
-
 const formatTsData = function (points) {
     let formattedData = points.reduce((acc, item) => {
         let timestamp = item.trans_date * 1000; 
@@ -206,6 +302,7 @@ const updateCharts = async function (pcode) {
     updateBarChart(pts);
     updateTable(pts);
     updateMetrics(pts);
+    initializeAllDropdowns(pts, true);
     if (drilldownLevel === 4) {
         displayObjectsTable(pts);
     } else if (drilldownLevel === 2) {
@@ -759,5 +856,91 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
         $('#receipt-edrpou').on('change', onDropdownChange);
         $('#obj-category').on('change', onDropdownChange);
         $('#program-type').on('change', onDropdownChange);
+
+        $('button[data-reset-target]').on('click', async function() {
+            const targetId = $(this).data('reset-target');
+            console.log('resetting filter for: ', targetId);
+            if (drilldownLevel !== 4) {
+                resetFilter(targetId);
+    
+                const chart = Highcharts.charts[0]; 
+                let aggregatedData = await aggregateByPcode(data); 
+                chart.series[0].setData(aggregatedData);
+                updateCharts(pcode[`${drilldownLevel}`]);
+            } else {
+                resetFilter(targetId);
+    
+                const chart = Highcharts.charts[0]; 
+                let points = await getFilteredMappoints();
+                updateCharts(pcode[`${drilldownLevel}`]);
+                chart.series[1].remove();
+    
+                chart.addSeries({
+                    type: 'mappoint',
+                    name: 'Mappoints',
+                    enableMouseTracking: false,
+                    states: {
+                        inactive: {
+                            enabled: false
+                        }
+                    },
+                    dataLabels: {
+                        enabled: true,
+                        format: '{point.options.name}'
+                    },
+                    data: points
+                }, false);
+    
+                chart.mapView.update({
+                    projection: {
+                        name: 'WebMercator'
+                    },
+                }, false);
+                chart.redraw(); 
+            }   
+        });
+        $('#reset-all-filters').on('click', async function() {
+            console.log('Resetting all filters');
+            if (drilldownLevel !== 4) {
+                resetAllFilters();
+    
+                // Update the chart for non-drilldown scenario
+                const chart = Highcharts.charts[0]; 
+                let aggregatedData = await aggregateByPcode(data); 
+                chart.series[0].setData(aggregatedData);
+                updateCharts(pcode[`${drilldownLevel}`]);
+            } else {
+                resetAllFilters();
+    
+                // Update the chart for drilldown scenario
+                const chart = Highcharts.charts[0]; 
+                let points = await getFilteredMappoints();
+                updateCharts(pcode[`${drilldownLevel}`]);
+                chart.series[1].remove();
+    
+                chart.addSeries({
+                    type: 'mappoint',
+                    name: 'Mappoints',
+                    enableMouseTracking: false,
+                    states: {
+                        inactive: {
+                            enabled: false
+                        }
+                    },
+                    dataLabels: {
+                        enabled: true,
+                        format: '{point.options.name}'
+                    },
+                    data: points
+                }, false);
+    
+                chart.mapView.update({
+                    projection: {
+                        name: 'WebMercator'
+                    },
+                }, false);
+                chart.redraw(); 
+            }
+        });
     });
 })();
