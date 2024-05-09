@@ -107,8 +107,6 @@ const initializeAllDropdowns = async function (pts, update = false) {
     initializeDropdownOptions('obj-category', pts, 'object_type', 'object_type', update);
     initializeNestedDropdownOptions('payer-edrpou', pts, 'payer_edrpou', update);
     initializeNestedDropdownOptions('receipt-edrpou', pts, 'receipt_edrpou', update);
-    // initializeDropdownOptions('payer-edrpou', pts, 'payer_edrpou', 'payer_edrpou', update);
-    // initializeDropdownOptions('receipt-edrpou', pts, 'recipt_edrpou', 'recipt_edrpou', update); 
 };
 
 function getFilterKey(selectElementId) {
@@ -145,27 +143,12 @@ function resetAllFilters() {
 await initializeAllDropdowns(pointsFull, false);
 
 // METRICS LOGIC 
-// const updateMetrics = async function (pts){
-//     let plannedBudgetTotal = 0;
-//     let totalSpent = 0;
-
-//     pts.forEach(item => {
-//         plannedBudgetTotal += item.amount_decision ? item.amount_decision : 0; 
-//         totalSpent += item.amount ? item.amount : 0; 
-//     });
-
-//     document.getElementById('planned-budget').textContent = plannedBudgetTotal.toLocaleString('uk-UA', {style: 'currency', currency: 'UAH'});
-//     document.getElementById('total-spent').textContent = totalSpent.toLocaleString('uk-UA', {style: 'currency', currency: 'UAH'});
-// }
-
 const updateMetrics = async function (pts){
     let plannedBudgetTotal = 0;
     let totalSpent = 0;
 
     pts.forEach(point => {
-        // Sum up the amount_decision for the plannedBudgetTotal
         plannedBudgetTotal += point.amount_decision ? point.amount_decision : 0;
-        // Sum up all the amounts from payments for the totalSpent
         point.payments.forEach(payment => {
             totalSpent += payment.amount ? payment.amount : 0;
         });
@@ -647,7 +630,6 @@ const drilldown = async function (e) {
         const topoData = Highcharts.geojson(topology);
 
         levelData[drilldownLevel] = topoData.map(item => ({ ...item }));
-        log(levelData)
 
         chart.hideLoading(); 
 
@@ -740,7 +722,7 @@ const syncAggregate = function (data) {
 //     return filteredPoints;
 // };
 
-const testFilterByCategories = async function (pcode) {
+const testFilterByCategories = async function (pcode=null) {
     let points = await fetch('test_points.json').then(response => response.json());
 
     const objectCategory = document.getElementById('obj-category').value;
@@ -749,8 +731,8 @@ const testFilterByCategories = async function (pcode) {
     const receiptEdrpou = document.getElementById('receipt-edrpou').value;
 
     if (pcode) {
-        console.log('Filtering by pcode: ', pcode);
-        points = points.filter(point => point[`adm${pcode.length}_pcode`] === pcode);
+        //log('Filtering by pcode: ', pcode);
+        points = points.filter(point => point[`adm${drilldownLevel}_pcode`] === pcode);
     }
 
     const filteredPoints = points.reduce((acc, point) => {
@@ -760,7 +742,6 @@ const testFilterByCategories = async function (pcode) {
         let filteredPayments = [];
         let amount = 0;
 
-        // Filter payments by payerEdrpou and receiptEdrpou, and calculate amount only for those payments
         filteredPayments = point.payments.filter(payment => {
             const matchesPayerEdrpou = payerEdrpou === 'all' || payment.payer_edrpou == payerEdrpou;
             const matchesReceiptEdrpou = receiptEdrpou === 'all' || payment.receipt_edrpou == receiptEdrpou;
@@ -780,6 +761,7 @@ const testFilterByCategories = async function (pcode) {
     }, []);
 
     console.log(`Filtering by ${objectCategory}, ${payerEdrpou}, ${receiptEdrpou}, ${programType}`);
+    //log(filteredPoints)
     return filteredPoints;
 };
 
@@ -953,7 +935,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
     chart: {
         events: {
             redraw: function() {
-                console.log('tmredraw')
+                //console.log('tmredraw')
             }
         },
     },
@@ -1094,7 +1076,6 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
         if (drilldownLevel !== 4) {
             const chart = Highcharts.charts[0]; 
             let aggregatedData = await aggregateByPcode(data); 
-            log(await testFilterByCategories());
             chart.series[0].setData(aggregatedData);
             updateCharts(pcode[`${drilldownLevel}`]);
         }  else {
