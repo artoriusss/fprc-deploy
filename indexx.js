@@ -1,3 +1,4 @@
+const {log} = console;
 let breadcrumbNames = ['Ukraine']; 
 
 var data;
@@ -5,7 +6,7 @@ var drilldownLevel = 0;
 var levelData = {};
 var pcode = {};
 
-const pointsFull = await fetch('points.json').then(response => response.json());
+const pointsFull = await fetch('test_points.json').then(response => response.json());
 const response = await fetch('adm-levels/adm1.json');
 const topology = await response.json();
 const dataa = Highcharts.geojson(topology);
@@ -22,21 +23,17 @@ const initializeDropdownOptions = async function(selectElementId, pts, propertyV
         return acc;
     }, {});
 
-    // Store the currently selected value (if any) before clearing the options.
     const currentSelectedValue = selectElement.value;
 
-    // Clearing out existing options
     while (selectElement.options.length > 0) {
         selectElement.remove(0);
     }
 
-    // Add the 'all' option by default
     const allOptionsEl = document.createElement('option');
     allOptionsEl.value = 'all';
     allOptionsEl.textContent = 'Всі';
     selectElement.appendChild(allOptionsEl);
 
-    // Populate dropdown with new options
     Object.entries(valueLabelMapper).forEach(([value, label]) => {
         const optionElement = document.createElement('option');
         optionElement.value = value;
@@ -46,32 +43,72 @@ const initializeDropdownOptions = async function(selectElementId, pts, propertyV
 
     if (update) {
         if (selectElement.querySelector(`option[value="${currentSelectedValue}"]`)) {
-            // If the previously selected value still exists in the options, select it
             selectElement.value = currentSelectedValue;
         } else {
-            // If the previously selected value no longer exists, revert to 'all'
             selectElement.value = 'all';
         }
     } else {
-        // If not updating (initial population), default to 'all'
         selectElement.value = 'all';
     }
-
-    // After setting the new value, store it in a dataset for reference.
     selectElement.dataset.selectedValue = selectElement.value;
 };
 
-function storeInitialSelectedValues() {
-    document.querySelectorAll('select').forEach(select => {
-      select.dataset.selectedValue = select.value;
+const initializeNestedDropdownOptions = async function(selectElementId, pts, propertyKey, update) {
+    const selectElement = document.getElementById(selectElementId);
+    const valueLabelMapper = pts.reduce((acc, point) => {
+        point.payments.forEach(payment => {
+            const value = payment[propertyKey];
+            const label = payment[propertyKey]; // Assuming the EDRPOU code is used as both the value and the label
+            if (value) {
+                acc[value] = label;
+            }
+        });
+        return acc;
+    }, {});
+
+    const currentSelectedValue = selectElement.value;
+
+    while (selectElement.options.length > 0) {
+        selectElement.remove(0);
+    }
+
+    const allOptionsEl = document.createElement('option');
+    allOptionsEl.value = 'all';
+    allOptionsEl.textContent = 'Всі';
+    selectElement.appendChild(allOptionsEl);
+
+    Object.entries(valueLabelMapper).forEach(([value, label]) => {
+        const optionElement = document.createElement('option');
+        optionElement.value = value;
+        optionElement.textContent = label;
+        selectElement.appendChild(optionElement);
     });
-}
+
+    if (update) {
+        if (selectElement.querySelector(`option[value="${currentSelectedValue}"]`)) {
+            selectElement.value = currentSelectedValue;
+        } else {
+            selectElement.value = 'all';
+        }
+    } else {
+        selectElement.value = 'all';
+    }
+    selectElement.dataset.selectedValue = selectElement.value;
+};
+
+// function storeInitialSelectedValues() {
+//     document.querySelectorAll('select').forEach(select => {
+//       select.dataset.selectedValue = select.value;
+//     });
+// }
   
 const initializeAllDropdowns = async function (pts, update = false) {
     initializeDropdownOptions('program-type', pts, 'kpk', 'programme_name', update);
     initializeDropdownOptions('obj-category', pts, 'object_type', 'object_type', update);
-    initializeDropdownOptions('payer-edrpou', pts, 'payer_edrpou', 'payer_edrpou', update);
-    initializeDropdownOptions('receipt-edrpou', pts, 'recipt_edrpou', 'recipt_edrpou', update); 
+    initializeNestedDropdownOptions('payer-edrpou', pts, 'payer_edrpou', update);
+    initializeNestedDropdownOptions('receipt-edrpou', pts, 'receipt_edrpou', update);
+    // initializeDropdownOptions('payer-edrpou', pts, 'payer_edrpou', 'payer_edrpou', update);
+    // initializeDropdownOptions('receipt-edrpou', pts, 'recipt_edrpou', 'recipt_edrpou', update); 
 };
 
 function getFilterKey(selectElementId) {
@@ -83,13 +120,12 @@ function getFilterKey(selectElementId) {
         case 'payer-edrpou':
             return ['payer_edrpou', 'payer_edrpou'];
         case 'receipt-edrpou':
-            return ['recipt_edrpou', 'recipt_edrpou'];
+            return ['receipt_edrpou', 'receipt_edrpou'];
         default:
             return null;
     }
 }
   
-  // Reset filter function
 function resetFilter(selectElementId) {
     const { 0: valueKey, 1: labelKey } = getFilterKey(selectElementId);
     initializeDropdownOptions(selectElementId, pointsFull, valueKey, labelKey, false);
@@ -123,31 +159,63 @@ const updateMetrics = async function (pts){
 }
 
 // TABLES LOGIC 
+// const updateTable = async function (pts){
+//     const aggregateData = pts.reduce((acc, item) => {
+//       if (!acc[item.programme_name]) {
+//         acc[item.programme_name] = {
+//           numberOfObjects: 0,
+//           totalAmount: 0
+//         };
+//       }
+//       acc[item.programme_name].numberOfObjects += 1;
+//       acc[item.programme_name].totalAmount += item.amount;
+//       return acc;
+//     }, {});
+//     const tableBody = document.getElementById('programs-table').getElementsByTagName('tbody')[0];
+  
+//     tableBody.innerHTML = "";
+  
+//     for (const [programme, data] of Object.entries(aggregateData)) {
+//       const row = tableBody.insertRow();
+//       const programCell = row.insertCell();
+//       const numberCell = row.insertCell();
+//       const amountCell = row.insertCell();
+  
+//       programCell.textContent = programme;
+//       numberCell.textContent = data.numberOfObjects;
+//       amountCell.textContent = data.totalAmount.toLocaleString();
+//     }
+// };
 const updateTable = async function (pts){
-    const aggregateData = pts.reduce((acc, item) => {
-      if (!acc[item.programme_name]) {
-        acc[item.programme_name] = {
-          numberOfObjects: 0,
-          totalAmount: 0
-        };
-      }
-      acc[item.programme_name].numberOfObjects += 1;
-      acc[item.programme_name].totalAmount += item.amount;
-      return acc;
+    // Calculate aggregate data using the payments within each point
+    const aggregateData = pts.reduce((acc, point) => {
+        if (!acc[point.programme_name]) {
+            acc[point.programme_name] = {
+                numberOfObjects: 0,
+                totalAmount: 0
+            };
+        }
+        acc[point.programme_name].numberOfObjects += 1;
+        // Sum the amounts in the payments array
+        const totalAmount = point.payments.reduce((sum, payment) => sum + payment.amount, 0);
+        acc[point.programme_name].totalAmount += totalAmount;
+        return acc;
     }, {});
+  
+    // Now update the table in the DOM
     const tableBody = document.getElementById('programs-table').getElementsByTagName('tbody')[0];
+    tableBody.innerHTML = ""; // Clear existing table body
   
-    tableBody.innerHTML = "";
-  
+    // Loop through the aggregated data and add rows to the table
     for (const [programme, data] of Object.entries(aggregateData)) {
-      const row = tableBody.insertRow();
-      const programCell = row.insertCell();
-      const numberCell = row.insertCell();
-      const amountCell = row.insertCell();
+        const row = tableBody.insertRow();
+        const programCell = row.insertCell();
+        const numberCell = row.insertCell();
+        const amountCell = row.insertCell();
   
-      programCell.textContent = programme;
-      numberCell.textContent = data.numberOfObjects;
-      amountCell.textContent = data.totalAmount.toLocaleString();
+        programCell.textContent = programme;
+        numberCell.textContent = data.numberOfObjects;
+        amountCell.textContent = data.totalAmount.toLocaleString(); // Format the amount as a string
     }
 };
 
@@ -181,23 +249,60 @@ function displayObjectsTable(pts) {
 };
 
 // BAR CHART LOGIC
+// const formatBarData = function (points, aggregateBy) {
+//     const barColour = aggregateBy === 'payer_name' ? "#00457e" : '#ffbd01';
+//     const barLabel = aggregateBy === 'payer_name' ? 'Замовник' : 'Отримувач';
+//     const aggregatedData = points.reduce((acc, point) => {
+//         const key = point[aggregateBy];
+//         if (acc[key]) {
+//             acc[key] += point.amount;
+//         } else {
+//             acc[key] = point.amount;
+//         }
+//         return acc;
+//     }, {});
+
+//     const sortedData = Object.keys(aggregatedData)
+//         .map(key => ({ name: key, amount: aggregatedData[key] }))
+//         .sort((a, b) => b.amount - a.amount)
+//         .slice(0, 10); 
+
+//     const seriesData = sortedData.map(item => item.amount);
+//     const categories = sortedData.map(item => item.name);
+
+//     const series = {
+//         name: barLabel,
+//         color: barColour,
+//         data: seriesData
+//     };
+//     return { series, categories };
+// };
 const formatBarData = function (points, aggregateBy) {
     const barColour = aggregateBy === 'payer_name' ? "#00457e" : '#ffbd01';
     const barLabel = aggregateBy === 'payer_name' ? 'Замовник' : 'Отримувач';
-    const aggregatedData = points.reduce((acc, point) => {
-        const key = point[aggregateBy];
-        if (acc[key]) {
-            acc[key] += point.amount;
-        } else {
-            acc[key] = point.amount;
-        }
-        return acc;
-    }, {});
 
+    // Initialize an empty object to hold our aggregate data
+    const aggregatedData = {};
+
+    // Iterate through all points and their payments
+    points.forEach(point => {
+        point.payments.forEach(payment => {
+            // Determine the key to aggregate by (payer_name or reciept_name)
+            const key = aggregateBy === 'payer_name' ? payment.payer_name : payment.receipt_name;
+            // Aggregate the amounts
+            if (aggregatedData[key]) {
+                aggregatedData[key] += payment.amount;
+            } else {
+                aggregatedData[key] = payment.amount;
+            }
+        });
+    });
+
+    // Convert the aggregated data into an array and sort it
     const sortedData = Object.keys(aggregatedData)
         .map(key => ({ name: key, amount: aggregatedData[key] }))
         .sort((a, b) => b.amount - a.amount)
-        .slice(0, 10); 
+        .slice(0, 10);
 
     const seriesData = sortedData.map(item => item.amount);
     const categories = sortedData.map(item => item.name);
@@ -207,42 +312,99 @@ const formatBarData = function (points, aggregateBy) {
         color: barColour,
         data: seriesData
     };
-
     return { series, categories };
 };
 
 const updateBarChart = async function (pts) {
-    const { series: recieptSeries, categories: recieptCategories } = formatBarData(pts, 'recipt_name');
+    const { series: receiptSeries, categories: receiptCategories } = formatBarData(pts, 'receipt_name');
     const { series: payerSeries, categories: payerCategories } = formatBarData(pts, 'payer_name');
     Highcharts.charts[3].series[0].setData(payerSeries.data);
-    Highcharts.charts[4].series[0].setData(recieptSeries.data);
+    Highcharts.charts[4].series[0].setData(receiptSeries.data);
     Highcharts.charts[3].axes[0].setCategories(payerCategories);
-    Highcharts.charts[4].axes[0].setCategories(recieptCategories);
+    Highcharts.charts[4].axes[0].setCategories(receiptCategories);
 };
 
 // LINE CHART LOGIC
-const formatTsData = function (points) {
-    let formattedData = points.reduce((acc, item) => {
-        let timestamp = item.trans_date * 1000; 
-        let amount = item.amount // / 1e6; 
-      
-        let existingEntry = acc.find(entry => entry[0] === timestamp);
-        if (existingEntry) {
-          existingEntry[1] += amount;
-        } else {
-          acc.push([timestamp, amount]);
-        }
-        return acc;
-      }, []);
+// const formatTsData = function (points) {
+//     let monthData = points.reduce((acc, item) => {
+//         let date = new Date(item.trans_date * 1000);
+//         let yearMonthKey = `${date.getUTCFullYear()}-${String(date.getUTCMonth() + 1).padStart(2, '0')}`;
+//         let amount = item.amount; 
 
-      formattedData.sort((a, b) => a[0] - b[0]);
-      formattedData = formattedData.filter(([_, amount]) => amount !== 0);
-      return formattedData;
+//         if (!acc[yearMonthKey]) {
+//             acc[yearMonthKey] = {
+//                 total: 0,
+//                 timestamp: Date.UTC(date.getUTCFullYear(), date.getUTCMonth())
+//             };
+//         }
+        
+//         acc[yearMonthKey].total += amount;
+//         return acc;
+//     }, {});
+
+//     let timestamps = Object.values(monthData).map(entry => entry.timestamp);
+//     let pointStart = Math.min(...timestamps);
+
+//     let aggregatedData = Object.keys(monthData)
+//         .sort((a, b) => monthData[a].timestamp - monthData[b].timestamp)
+//         .filter(yearMonth => monthData[yearMonth].total !== 0)
+//         .map(yearMonth => monthData[yearMonth].total);
+
+//     return {
+//         series: [{
+//             name: 'Усього за місяць', 
+//             pointStart: pointStart,
+//             pointInterval: 30 * 24 * 3600 * 1000, 
+//             data: aggregatedData
+//         }]
+//     };
+// };
+
+const formatTsData = function (points) {
+    let monthData = points.reduce((acc, point) => {
+        // Iterate over each payment inside the point
+        point.payments.forEach(payment => {
+            let date = new Date(payment.trans_date * 1000);
+            let yearMonthKey = `${date.getUTCFullYear()}-${String(date.getUTCMonth() + 1).padStart(2, '0')}`;
+            let amount = payment.amount; 
+
+            if (!acc[yearMonthKey]) {
+                acc[yearMonthKey] = {
+                    total: 0,
+                    timestamp: Date.UTC(date.getUTCFullYear(), date.getUTCMonth())
+                };
+            }
+            
+            acc[yearMonthKey].total += amount;
+        });
+        
+        return acc;
+    }, {});
+
+    let timestamps = Object.values(monthData).map(entry => entry.timestamp);
+    let pointStart = Math.min(...timestamps);
+
+    let aggregatedData = Object.keys(monthData)
+        .sort((a, b) => monthData[a].timestamp - monthData[b].timestamp)
+        .filter(yearMonth => monthData[yearMonth].total !== 0)
+        .map(yearMonth => ({
+            x: monthData[yearMonth].timestamp,
+            y: monthData[yearMonth].total
+        }));
+
+    return {
+        series: [{
+            name: 'Усього за місяць', 
+            pointStart: pointStart,
+            pointInterval: 30 * 24 * 3600 * 1000, 
+            data: aggregatedData
+        }]
+    };
 };
 
 const updateLineChart = async function (pts) {
     const tsData = formatTsData(pts);
-    Highcharts.charts[2].series[0].setData(tsData);
+    Highcharts.charts[2].series[0].setData(tsData.series[0].data);
 };
 
 // TREEMAP LOGIC
@@ -258,7 +420,7 @@ const filterPointsByPcode = async function (pcode) {
         const matchesObjectCategory = objectCategory === 'all' || point.object_type === objectCategory;
         const matchesProgramType = programType === 'all' || point.kpk == programType;
         const matchesPayerEdrpou = payerEdrpou === 'all' || point.payer_edrpou == payerEdrpou; 
-        const matchesReceiptEdrpou = receiptEdrpou === 'all' || point.recipt_edrpou == receiptEdrpou;
+        const matchesReceiptEdrpou = receiptEdrpou === 'all' || point.receipt_edrpou == receiptEdrpou;
         return matchesObjectCategory &&  matchesProgramType && matchesPayerEdrpou && matchesReceiptEdrpou;
     });
     console.log(`Filtering by ${objectCategory}, ${payerEdrpou}, ${receiptEdrpou} ${programType}`)
@@ -270,13 +432,36 @@ const calculateColorValue = (value) => {
     return value * scaleFactor;
 };
 
+// const getValuesByObjCategory = function(points) {
+//     const aggregatedByCategory = points.reduce((acc, point) => {
+//         const { object_type, amount } = point;
+//         if (!acc[object_type]) {
+//             acc[object_type] = 0;
+//         }
+//         acc[object_type] += amount;
+//         return acc;
+//     }, {});
+
+//     const categoryValuesArray = Object.keys(aggregatedByCategory).map((key) => ({
+//         name: key,
+//         value: aggregatedByCategory[key],
+//         colorValue: calculateColorValue(aggregatedByCategory[key]) 
+//     }));
+
+//     return categoryValuesArray;
+// };
+
 const getValuesByObjCategory = function(points) {
     const aggregatedByCategory = points.reduce((acc, point) => {
-        const { object_type, amount } = point;
+        const { object_type, payments } = point;
+
+        // Aggregate the amounts for each payment
+        const totalAmountByCategory = payments.reduce((sum, payment) => sum + payment.amount, 0);
+
         if (!acc[object_type]) {
             acc[object_type] = 0;
         }
-        acc[object_type] += amount;
+        acc[object_type] += totalAmountByCategory;
         return acc;
     }, {});
 
@@ -296,7 +481,7 @@ const updateTreeMap = async function (pts) {
 
 // UPDATE CHARTS LOGIC
 const updateCharts = async function (pcode) {
-    const pts = pcode ? await filterPointsByPcode(pcode) : await filterByCategories();
+    const pts = await testFilterByCategories(pcode)//pcode ? await filterPointsByPcode(pcode) : await testFilterByCategories();
     updateTreeMap(pts);
     updateLineChart(pts);
     updateBarChart(pts);
@@ -311,10 +496,9 @@ const updateCharts = async function (pcode) {
 };
 
 // MAP LOGIC
-
 const getFilteredMappoints = async function () {
     let points = await fetch('test_points.json').then(response => response.json());
-    points = await filterByCategories();
+    points = await testFilterByCategories();
 
     const maxAmount = Math.max(...points.map(p => p.amount)); 
     const minRadius = 10; 
@@ -351,7 +535,7 @@ const filterByCategories = async function () {
         const matchesObjectCategory = objectCategory === 'all' || point.object_type === objectCategory;
         const matchesProgramType = programType === 'all' || point.kpk == programType;
         const matchesPayerEdrpou = payerEdrpou === 'all' || point.payer_edrpou == payerEdrpou; 
-        const matchesReceiptEdrpou = receiptEdrpou === 'all' || point.recipt_edrpou == receiptEdrpou;
+        const matchesReceiptEdrpou = receiptEdrpou === 'all' || point.receipt_edrpou == receiptEdrpou;
         return matchesObjectCategory &&  matchesProgramType && matchesPayerEdrpou && matchesReceiptEdrpou;
     });
     console.log(`Filtering by ${objectCategory}, ${payerEdrpou}, ${receiptEdrpou} ${programType}`)
@@ -363,7 +547,7 @@ const getDrilldownLevel = function (length) {
 };
 
 const aggregateByPcode = async function (data) {
-    const points = await filterByCategories(); 
+    const points = await testFilterByCategories(); 
     data.forEach((d) => {
         d.value = 0; 
         d.drilldown = d.properties[`ADM${drilldownLevel+1}_PCODE`];
@@ -446,6 +630,7 @@ const drilldown = async function (e) {
         const topoData = Highcharts.geojson(topology);
 
         levelData[drilldownLevel] = topoData.map(item => ({ ...item }));
+        log(levelData)
 
         chart.hideLoading(); 
 
@@ -475,7 +660,7 @@ const syncFilter = function () {
         const matchesObjectCategory = objectCategory === 'all' || point.object_type === objectCategory;
         const matchesProgramType = programType === 'all' || point.kpk == programType;
         const matchesPayerEdrpou = payerEdrpou === 'all' || point.payer_edrpou == payerEdrpou; 
-        const matchesReceiptEdrpou = receiptEdrpou === 'all' || point.recipt_edrpou == receiptEdrpou;
+        const matchesReceiptEdrpou = receiptEdrpou === 'all' || point.receipt_edrpou == receiptEdrpou;
         return matchesObjectCategory &&  matchesProgramType && matchesPayerEdrpou && matchesReceiptEdrpou;
     });
     console.log(`Filtering by ${objectCategory}, ${payerEdrpou}, ${receiptEdrpou} ${programType}`)
@@ -497,6 +682,91 @@ const syncAggregate = function (data) {
     return data;
 }
 
+// const testFilterByCategories = async function (pcode) {
+//     let points = await fetch('test_points.json').then(response => response.json());
+
+//     const objectCategory = document.getElementById('obj-category').value;
+//     const programType = document.getElementById('program-type').value;
+//     const payerEdrpou = document.getElementById('payer-edrpou').value;
+//     const receiptEdrpou = document.getElementById('receipt-edrpou').value;
+
+//     if (pcode) {
+//         log('Filtering by pcode: ', pcode);
+//         points = points.filter(point => point[`adm${drilldownLevel}_pcode`] === pcode);
+//     }
+
+//     const filteredPoints = points.reduce((acc, point) => {
+//         const matchesObjectCategory = objectCategory === 'all' || point.object_type === objectCategory;
+//         const matchesProgramType = programType === 'all' || point.kpk == programType;
+
+//         let amount = 0;
+
+//         if (payerEdrpou !== 'all' || receiptEdrpou !== 'all') {
+//             amount = point.payments.reduce((sum, payment) => {
+//                 const matchesPayerEdrpou = payerEdrpou === 'all' || payment.payer_edrpou == payerEdrpou;
+//                 const matchesReceiptEdrpou = receiptEdrpou === 'all' || payment.receipt_edrpou == receiptEdrpou;
+//                 return matchesPayerEdrpou && matchesReceiptEdrpou ? sum + payment.amount : sum;
+//             }, 0);
+//         } else {
+//             amount = point.payments.reduce((sum, payment) => sum + payment.amount, 0);
+//         }
+
+//         if (matchesObjectCategory && matchesProgramType && amount > 0) {
+//             const filteredPoint = {...point, amount: amount};
+//             acc.push(filteredPoint);
+//         }
+
+//         return acc;
+//     }, []);
+
+//     console.log(`Filtering by ${objectCategory}, ${payerEdrpou}, ${receiptEdrpou}, ${programType}`);
+//     return filteredPoints;
+// };
+
+const testFilterByCategories = async function (pcode) {
+    let points = await fetch('test_points.json').then(response => response.json());
+
+    const objectCategory = document.getElementById('obj-category').value;
+    const programType = document.getElementById('program-type').value;
+    const payerEdrpou = document.getElementById('payer-edrpou').value;
+    const receiptEdrpou = document.getElementById('receipt-edrpou').value;
+
+    if (pcode) {
+        console.log('Filtering by pcode: ', pcode);
+        points = points.filter(point => point[`adm${pcode.length}_pcode`] === pcode);
+    }
+
+    const filteredPoints = points.reduce((acc, point) => {
+        const matchesObjectCategory = objectCategory === 'all' || point.object_type === objectCategory;
+        const matchesProgramType = programType === 'all' || point.kpk == programType;
+
+        let filteredPayments = [];
+        let amount = 0;
+
+        // Filter payments by payerEdrpou and receiptEdrpou, and calculate amount only for those payments
+        filteredPayments = point.payments.filter(payment => {
+            const matchesPayerEdrpou = payerEdrpou === 'all' || payment.payer_edrpou == payerEdrpou;
+            const matchesReceiptEdrpou = receiptEdrpou === 'all' || payment.receipt_edrpou == receiptEdrpou;
+            if (matchesPayerEdrpou && matchesReceiptEdrpou) {
+                amount += payment.amount;
+                return true;
+            }
+            return false;
+        });
+
+        if (matchesObjectCategory && matchesProgramType && amount > 0) {
+            const filteredPoint = {...point, payments: filteredPayments, amount: amount};
+            acc.push(filteredPoint);
+        }
+
+        return acc;
+    }, []);
+
+    console.log(`Filtering by ${objectCategory}, ${payerEdrpou}, ${receiptEdrpou}, ${programType}`);
+    return filteredPoints;
+};
+
+
 let afterDrillUp = function(e) {console.log('drillup event: ', e)};
 
 (async () => {
@@ -515,13 +785,14 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                 redraw: function() {
                     //console.log('redraw')
             },
-                drillupall: function(e) {
+                drillupall: async function(e) {
                     updateCharts(pcode[`${drilldownLevel === 4 ? 2 : drilldownLevel - 1}`]);
                     drilldownLevel -= 1;
                     breadcrumbNames.pop(); 
 
                     if (drilldownLevel === 0) {
-                        data = syncAggregate(dataInit);
+                        //data = syncAggregate(dataInit);
+                        data = await aggregateByPcode(dataInit);
                         this.series[0].remove();
                         this.addSeries(e.point, {
                             name: 'seriesName',
@@ -535,7 +806,8 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                     }
 
                     else if (drilldownLevel === 1 || drilldownLevel === 2) {
-                        data = syncAggregate(levelData[drilldownLevel]);
+                        //data = syncAggregate(levelData[drilldownLevel]);
+                        data = await aggregateByPcode(levelData[drilldownLevel]);
                         this.series[0].remove();
                         this.addSeries(e.point, {
                             name: 'seriesName',
@@ -559,7 +831,8 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                                 }
                             });
                         chart.redraw();
-                        data = syncAggregate(levelData[drilldownLevel]);
+                        //data = syncAggregate(levelData[drilldownLevel]);
+                        data = await aggregateByPcode(levelData[drilldownLevel]);
                         this.addSeries(e.point, {
                             name: 'seriesName',
                             data: data,
@@ -677,54 +950,44 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
         clip: false,
         data: valuesByCategory
     }],
-        title: {
-            text: 'Тип видатків',
-            align: 'left'
-        },
-        tooltip: {
-            useHTML: true,
-            pointFormat:
-                '{point.name}: <b>{point.value}</b> гривень'
-        }
+    title: {
+        text: 'Тип видатків',
+        align: 'left'
+    },
+    tooltip: {
+        useHTML: true,
+        pointFormat:
+            '{point.name}: <b>{point.value}</b> гривень'
+    }
     });
 
     // LINE CHART INITIALIZATION
-    const tsData = formatTsData(pointsFull);
-    Highcharts.chart('line-chart-container', {
+    const tsSeries = formatTsData(pointsFull);
+    Highcharts.chart('line-chart-container',{
         chart: {
-            zooming: {
-                type: 'x'
-            }
-        },
-        title: {
-            text: 'Розподіл видаків за періодом',
-            align: 'left'
+            renderTo: 'container',
+            type: 'column',
+            zoomType: 'xy'
         },
         xAxis: {
-            type: 'datetime'
-        },
-        yAxis: {
-            title: {
-                text: 'Сума'
+            type: 'datetime',
+            tickInterval: 2592000000,
+            dateTimeLabelFormats: {
+                month: '%b %Y'
             }
+        },
+        colors: ['#ffbd01'],
+        title: {
+            text: 'Видатки за період'
         },
         legend: {
             enabled: false
         },
-        plotOptions: {
-            series: {
-                color: '#00457e'
-            }
-        },
-
-        series: [{
-            name: 'Видатки: ',
-            data: tsData
-        }]
-    });
+        series: tsSeries.series,
+    })
 
     // BAR CHARTS INITIALIZATION
-    const { series: recieptSeries, categories: recieptCategories } = formatBarData(pointsFull, 'recipt_name');
+    const { series: receiptSeries, categories: receiptCategories } = formatBarData(pointsFull, 'receipt_name');
     const { series: payerSeries, categories: payerCategories } = formatBarData(pointsFull, 'payer_name');
     Highcharts.chart('bar-payer', {
         chart: {
@@ -774,7 +1037,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
           text: "Найбільші отримувачі, грн"
         },
         xAxis: {
-          categories: recieptCategories,
+          categories: receiptCategories,
           title: {
             text: null
           },
@@ -802,7 +1065,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
         legend: {
           enabled: false
         },
-        series: [recieptSeries]
+        series: [receiptSeries]
       });
 
     // PROGRAMS TABLE INITIALIZATION
@@ -814,6 +1077,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
         if (drilldownLevel !== 4) {
             const chart = Highcharts.charts[0]; 
             let aggregatedData = await aggregateByPcode(data); 
+            log(await testFilterByCategories());
             chart.series[0].setData(aggregatedData);
             updateCharts(pcode[`${drilldownLevel}`]);
         }  else {
