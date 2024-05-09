@@ -145,13 +145,30 @@ function resetAllFilters() {
 await initializeAllDropdowns(pointsFull, false);
 
 // METRICS LOGIC 
+// const updateMetrics = async function (pts){
+//     let plannedBudgetTotal = 0;
+//     let totalSpent = 0;
+
+//     pts.forEach(item => {
+//         plannedBudgetTotal += item.amount_decision ? item.amount_decision : 0; 
+//         totalSpent += item.amount ? item.amount : 0; 
+//     });
+
+//     document.getElementById('planned-budget').textContent = plannedBudgetTotal.toLocaleString('uk-UA', {style: 'currency', currency: 'UAH'});
+//     document.getElementById('total-spent').textContent = totalSpent.toLocaleString('uk-UA', {style: 'currency', currency: 'UAH'});
+// }
+
 const updateMetrics = async function (pts){
     let plannedBudgetTotal = 0;
     let totalSpent = 0;
 
-    pts.forEach(item => {
-        plannedBudgetTotal += item.amount_decision ? item.amount_decision : 0; 
-        totalSpent += item.amount ? item.amount : 0; 
+    pts.forEach(point => {
+        // Sum up the amount_decision for the plannedBudgetTotal
+        plannedBudgetTotal += point.amount_decision ? point.amount_decision : 0;
+        // Sum up all the amounts from payments for the totalSpent
+        point.payments.forEach(payment => {
+            totalSpent += payment.amount ? payment.amount : 0;
+        });
     });
 
     document.getElementById('planned-budget').textContent = plannedBudgetTotal.toLocaleString('uk-UA', {style: 'currency', currency: 'UAH'});
