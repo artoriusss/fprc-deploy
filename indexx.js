@@ -677,7 +677,7 @@ const syncAggregate = function (data) {
                 d.value += p.amount;
             }
         });
-        d.value = d.value === 0 ? null : d.value;
+        d.value = d.value === 0 ? 0 : d.value;
     });
     return data;
 }
