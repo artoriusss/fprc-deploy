@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.094887575542299998, "Shape_Area": 0.000223908079227, "ADM4_EN": "Dzelentsi", "ADM4_UA": "Дзеленці", "ADM4_PCODE": "UA6804031006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Narkevytska", "ADM3_UA": "Наркевицька", "ADM3_PCODE": "UA6804031", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.618976, 49.460293 ], [ 26.618955999000036, 49.46236 ], [ 26.613804, 49.463026 ], [ 26.612794999000073, 49.460741 ], [ 26.606576, 49.460516 ], [ 26.602633001000072, 49.455655 ], [ 26.602846, 49.452981 ], [ 26.606125, 49.450459 ], [ 26.621957, 49.451628 ], [ 26.626276999000027, 49.449417 ], [ 26.62859300100007, 49.45415 ], [ 26.624745999000027, 49.455276 ], [ 26.618976, 49.460293 ] ] ] } }
-]
-}

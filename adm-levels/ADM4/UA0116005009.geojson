@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.017750871602299999, "Shape_Area": 1.46113564033e-05, "ADM4_EN": "Petropavlivka", "ADM4_UA": "Петропавлівка", "ADM4_PCODE": "UA0116005009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dobrivska", "ADM3_UA": "Добрівська", "ADM3_PCODE": "UA0116005", "ADM2_EN": "Simferopolskyi", "ADM2_UA": "Сімферопольський", "ADM2_PCODE": "UA0116", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.150956, 44.894023 ], [ 34.148930999000072, 44.895942 ], [ 34.148543, 44.898753 ], [ 34.146096, 44.899354 ], [ 34.145892668000045, 44.896565637000037 ], [ 34.14797, 44.89456399900007 ], [ 34.150956, 44.894023 ] ] ] } }
-]
-}

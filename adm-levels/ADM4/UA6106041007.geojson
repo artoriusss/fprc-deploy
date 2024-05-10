@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.095431947721200006, "Shape_Area": 0.00024482659269899998, "ADM4_EN": "Peremyliv", "ADM4_UA": "Перемилів", "ADM4_PCODE": "UA6106041007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khorostkivska", "ADM3_UA": "Хоростківська", "ADM3_PCODE": "UA6106041", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.923675, 49.265454 ], [ 25.921236, 49.264157 ], [ 25.916922001000046, 49.265266 ], [ 25.912807, 49.262488 ], [ 25.923961, 49.258348 ], [ 25.925358999000025, 49.253548 ], [ 25.923676939000075, 49.249391029000037 ], [ 25.928564, 49.246641 ], [ 25.934481, 49.245606 ], [ 25.934556, 49.248957 ], [ 25.941344999000023, 49.258413 ], [ 25.939609, 49.259911 ], [ 25.930759001000069, 49.260072 ], [ 25.925807999000028, 49.262549 ], [ 25.923675, 49.265454 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.072434716909200003, "Shape_Area": 0.00022380026173300001, "ADM4_EN": "Khyshevychi", "ADM4_UA": "Хишевичі", "ADM4_PCODE": "UA4606003015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykoliubinska", "ADM3_UA": "Великолюбінська", "ADM3_PCODE": "UA4606003", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.607802319000029, 49.684320012000057 ], [ 23.599263320000034, 49.683609012000034 ], [ 23.593757322000044, 49.676810012000033 ], [ 23.598179320000042, 49.67097601200004 ], [ 23.606950318000031, 49.669979012000056 ], [ 23.61085631900005, 49.673856012000044 ], [ 23.608501318000037, 49.67587601200006 ], [ 23.615250316000072, 49.683099012000071 ], [ 23.613485317000027, 49.685025010000061 ], [ 23.607802319000029, 49.684320012000057 ] ] ] } }
-]
-}

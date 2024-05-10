@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.082093019395799993, "Shape_Area": 0.00019174189913599999, "ADM4_EN": "Berezhanka", "ADM4_UA": "Бережанка", "ADM4_PCODE": "UA6804049003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chornoostrivska", "ADM3_UA": "Чорноострівська", "ADM3_PCODE": "UA6804049", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.769456, 49.468652 ], [ 26.749545, 49.469634 ], [ 26.746439, 49.467564 ], [ 26.749642, 49.464385 ], [ 26.764499, 49.463807 ], [ 26.768512, 49.462018 ], [ 26.767501001000028, 49.458468 ], [ 26.771993, 49.455479 ], [ 26.77520000100003, 49.456456 ], [ 26.77592, 49.466713 ], [ 26.769456, 49.468652 ] ] ] } }
-]
-}

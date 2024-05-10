@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.114585619293, "Shape_Area": 0.0004017549149, "ADM4_EN": "Kalahliia", "ADM4_UA": "Калаглія", "ADM4_PCODE": "UA5110025002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ovidiopolska", "ADM3_UA": "Овідіопольська", "ADM3_PCODE": "UA5110025", "ADM2_EN": "Odeskyi", "ADM2_UA": "Одеський", "ADM2_PCODE": "UA5110", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.376656, 46.288239 ], [ 30.374216, 46.289098 ], [ 30.373117001000026, 46.295462 ], [ 30.360955, 46.294436 ], [ 30.36105400100007, 46.285181 ], [ 30.358527, 46.28618 ], [ 30.357750999000075, 46.292105 ], [ 30.352982001000044, 46.291905 ], [ 30.347157, 46.285552 ], [ 30.350049, 46.283111 ], [ 30.356982999000024, 46.279545 ], [ 30.366345, 46.27681 ], [ 30.371018, 46.277829 ], [ 30.374433, 46.27565 ], [ 30.37822918300003, 46.27595489600003 ], [ 30.38077, 46.286053 ], [ 30.376656, 46.288239 ] ] ] } }
-]
-}

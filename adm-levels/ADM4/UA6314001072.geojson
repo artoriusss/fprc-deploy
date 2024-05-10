@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.108168303393, "Shape_Area": 5.26598703167e-05, "ADM4_EN": "Shevchenkove", "ADM4_UA": "Шевченкове", "ADM4_PCODE": "UA6314001072", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vovchanska", "ADM3_UA": "Вовчанська", "ADM3_PCODE": "UA6314001", "ADM2_EN": "Chuhuivskyi", "ADM2_UA": "Чугуївський", "ADM2_PCODE": "UA6314", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 37.043067, 50.165787 ], [ 37.028115, 50.164571 ], [ 37.028222, 50.163493 ], [ 37.044486, 50.164091 ], [ 37.043067, 50.165787 ] ] ], [ [ [ 37.031096001000037, 50.160608 ], [ 37.02133840700003, 50.160266812000032 ], [ 37.021673001000067, 50.159285 ], [ 37.031096001000037, 50.160608 ] ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.059347306625799998, "Shape_Area": 7.1184805389500007e-05, "ADM4_EN": "Tykhe", "ADM4_UA": "Тихе", "ADM4_PCODE": "UA1202015033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novopokrovska", "ADM3_UA": "Новопокровська", "ADM3_PCODE": "UA1202015", "ADM2_EN": "Dniprovskyi", "ADM2_UA": "Дніпровський", "ADM2_PCODE": "UA1202", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.453328, 47.983199 ], [ 34.455484999000078, 47.979279 ], [ 34.461313, 47.980572 ], [ 34.472099999000079, 47.977319 ], [ 34.473512, 47.978684 ], [ 34.464555001000065, 47.984248 ], [ 34.462621, 47.981714 ], [ 34.454363, 47.986322 ], [ 34.453328, 47.983199 ] ] ] } }
-]
-}

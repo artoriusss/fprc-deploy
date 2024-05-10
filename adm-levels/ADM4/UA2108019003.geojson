@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.078934151243199996, "Shape_Area": 8.34991932154e-05, "ADM4_EN": "Nimetska Mokra", "ADM4_UA": "Німецька Мокра", "ADM4_PCODE": "UA2108019003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ust-Chornianska", "ADM3_UA": "Усть-Чорнянська", "ADM3_PCODE": "UA2108019", "ADM2_EN": "Tiachivskyi", "ADM2_UA": "Тячівський", "ADM2_PCODE": "UA2108", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.854482236000024, 48.370852009000032 ], [ 23.847468237000044, 48.374518009000042 ], [ 23.83855623900007, 48.383992010000043 ], [ 23.834276240000065, 48.389945010000076 ], [ 23.830976242000077, 48.389351009000052 ], [ 23.837830239000027, 48.380084009000029 ], [ 23.847581237000043, 48.371324009000034 ], [ 23.854584235000061, 48.369708009000078 ], [ 23.854482236000024, 48.370852009000032 ] ] ] } }
-]
-}

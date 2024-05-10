@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.054039722933099998, "Shape_Area": 4.2807927410300003e-05, "ADM4_EN": "Novyi Kryvyn", "ADM4_UA": "Новий Кривин", "ADM4_PCODE": "UA6806017002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Netishynska", "ADM3_UA": "Нетішинська", "ADM3_PCODE": "UA6806017", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.714111, 50.384049 ], [ 26.713671001000023, 50.385974 ], [ 26.689443718000064, 50.383919622000064 ], [ 26.691214001000048, 50.38244 ], [ 26.714111, 50.384049 ] ] ] } }
-]
-}

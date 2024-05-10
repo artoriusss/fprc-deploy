@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.056459733001699999, "Shape_Area": 8.5485825306e-05, "ADM4_EN": "Chemodanivka", "ADM4_UA": "Чемоданівка", "ADM4_PCODE": "UA5906009050", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nedryhailivska", "ADM3_UA": "Недригайлівська", "ADM3_PCODE": "UA5906009", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.921011999000029, 50.954614 ], [ 33.914794211000071, 50.954587506000053 ], [ 33.911492001000056, 50.952561 ], [ 33.904869, 50.952436 ], [ 33.906245999000078, 50.949837 ], [ 33.91141, 50.947889 ], [ 33.914011, 50.950072 ], [ 33.917829, 50.947205 ], [ 33.921297, 50.950766 ], [ 33.921011999000029, 50.954614 ] ] ] } }
-]
-}

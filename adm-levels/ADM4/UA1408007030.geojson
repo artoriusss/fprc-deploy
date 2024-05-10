@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.025723925523199999, "Shape_Area": 2.8897023616e-05, "ADM4_EN": "Novyi Svit", "ADM4_UA": "Новий Світ", "ADM4_PCODE": "UA1408007030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Makiivska", "ADM3_UA": "Макіївська", "ADM3_PCODE": "UA1408007", "ADM2_EN": "Donetskyi", "ADM2_UA": "Донецький", "ADM2_PCODE": "UA1408", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.105550295000057, 48.145628874000067 ], [ 38.107005758000071, 48.147789652000029 ], [ 38.100500550000049, 48.150337045000072 ], [ 38.09887296200003, 48.147476021000045 ], [ 38.101238574000035, 48.145033407000028 ], [ 38.105550295000057, 48.145628874000067 ] ] ] } }
-]
-}

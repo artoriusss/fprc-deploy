@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.056616473690800001, "Shape_Area": 8.87820577823e-05, "ADM4_EN": "Hladkivshchyna", "ADM4_UA": "Гладківщина", "ADM4_PCODE": "UA7104017008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pishchanska", "ADM3_UA": "Піщанська", "ADM3_PCODE": "UA7104017", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.690545599000075, 49.756860486000051 ], [ 31.693204940000044, 49.754441961000055 ], [ 31.711431, 49.755204 ], [ 31.70532182900007, 49.757994087000043 ], [ 31.703511358000071, 49.759994727000048 ], [ 31.696994585000027, 49.759739459000059 ], [ 31.693921166000052, 49.762008575000038 ], [ 31.690837725000051, 49.759938626000064 ], [ 31.690545599000075, 49.756860486000051 ] ] ] } }
-]
-}

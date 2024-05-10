@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.064838322154200004, "Shape_Area": 5.4525709673199997e-05, "ADM4_EN": "Chernyn", "ADM4_UA": "Чернин", "ADM4_PCODE": "UA5602007031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zarichnenska", "ADM3_UA": "Зарічненська", "ADM3_PCODE": "UA5602007", "ADM2_EN": "Varaskyi", "ADM2_UA": "Вараський", "ADM2_PCODE": "UA5602", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.052828840000075, 51.816266010000049 ], [ 26.055222839000066, 51.81687800900005 ], [ 26.047164960000032, 51.825181050000026 ], [ 26.044665120000047, 51.823302030000036 ], [ 26.051384879000068, 51.819626970000058 ], [ 26.052828840000075, 51.816266010000049 ] ] ] } }
-]
-}

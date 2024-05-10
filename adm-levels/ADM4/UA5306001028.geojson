@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0225113994289, "Shape_Area": 1.3966758630299999e-05, "ADM4_EN": "Shyposhi", "ADM4_UA": "Шипоші", "ADM4_PCODE": "UA5306001028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilotserkivska", "ADM3_UA": "Білоцерківська", "ADM3_PCODE": "UA5306001", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.726947, 49.644551 ], [ 33.726120001000027, 49.647704 ], [ 33.718916, 49.647478 ], [ 33.720499, 49.645571 ], [ 33.72479700100007, 49.644502 ], [ 33.726947, 49.644551 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.113581972846, "Shape_Area": 0.00019378280703500001, "ADM4_EN": "Kylykyiv", "ADM4_UA": "Киликиїв", "ADM4_PCODE": "UA6806005006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hannopilska", "ADM3_UA": "Ганнопільська", "ADM3_PCODE": "UA6806005", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.04864, 50.53831 ], [ 27.04125, 50.540264 ], [ 27.042918, 50.536873 ], [ 27.049937001000046, 50.533988 ], [ 27.040978, 50.531764 ], [ 27.040238001000034, 50.534988 ], [ 27.03652, 50.534361 ], [ 27.037794, 50.529932 ], [ 27.040545, 50.525873 ], [ 27.045959, 50.529426 ], [ 27.050538, 50.530632 ], [ 27.053564, 50.529751 ], [ 27.059335, 50.532547 ], [ 27.067049, 50.538062 ], [ 27.055296001000045, 50.536798 ], [ 27.04864, 50.53831 ] ] ] } }
-]
-}

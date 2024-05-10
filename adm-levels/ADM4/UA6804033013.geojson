@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13051207617400001, "Shape_Area": 0.000262651517643, "ADM4_EN": "Luhove", "ADM4_UA": "Лугове", "ADM4_PCODE": "UA6804033013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozsoshanska", "ADM3_UA": "Розсошанська", "ADM3_PCODE": "UA6804033", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.093051, 49.338831 ], [ 27.077367999000046, 49.342239 ], [ 27.075781999000071, 49.340435 ], [ 27.090743, 49.335328 ], [ 27.085428001000025, 49.329915 ], [ 27.091339, 49.328256 ], [ 27.095102, 49.328578 ], [ 27.10042, 49.326833 ], [ 27.106046, 49.329437 ], [ 27.110732, 49.325082 ], [ 27.113217, 49.32568 ], [ 27.110815, 49.331181 ], [ 27.112013999000055, 49.333141 ], [ 27.103492999000025, 49.337043 ], [ 27.093051, 49.338831 ] ] ] } }
-]
-}

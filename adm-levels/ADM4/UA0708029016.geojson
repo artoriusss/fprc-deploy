@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0457088757468, "Shape_Area": 6.0389268507399997e-05, "ADM4_EN": "Yakivtsi", "ADM4_UA": "Яківці", "ADM4_PCODE": "UA0708029016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tsumanska", "ADM3_UA": "Цуманська", "ADM3_PCODE": "UA0708029", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.954365194000047, 50.83000450000003 ], [ 25.957968027000049, 50.828145 ], [ 25.964619027000026, 50.828422001000035 ], [ 25.96917202700007, 50.829985001000068 ], [ 25.965644026000064, 50.833583001000079 ], [ 25.958848027000045, 50.832051001000082 ], [ 25.950484027000073, 50.832847 ], [ 25.954365194000047, 50.83000450000003 ] ] ] } }
-]
-}

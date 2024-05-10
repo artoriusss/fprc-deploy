@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060296260716900002, "Shape_Area": 0.000115107137624, "ADM4_EN": "Khmelove", "ADM4_UA": "Хмельове", "ADM4_PCODE": "UA1802007017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hryshkovetska", "ADM3_UA": "Гришковецька", "ADM3_PCODE": "UA1802007", "ADM2_EN": "Berdychivskyi", "ADM2_UA": "Бердичівський", "ADM2_PCODE": "UA1802", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.670575308000025, 49.951978343000064 ], [ 28.670063394000067, 49.952541213000075 ], [ 28.652407410000023, 49.952150526000025 ], [ 28.649508032000028, 49.954045317000066 ], [ 28.648684656000057, 49.94940586000007 ], [ 28.651835813000048, 49.948651209000047 ], [ 28.654540273000066, 49.944144642000026 ], [ 28.66321903100004, 49.947899469000049 ], [ 28.667857268000034, 49.946787444000051 ], [ 28.670703121000031, 49.95163296000004 ], [ 28.670575308000025, 49.951978343000064 ] ] ] } }
-]
-}

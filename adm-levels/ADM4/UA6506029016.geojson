@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0875951134272, "Shape_Area": 0.00027499905124700003, "ADM4_EN": "Chervona Poliana", "ADM4_UA": "Червона Поляна", "ADM4_PCODE": "UA6506029016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chaplynska", "ADM3_UA": "Чаплинська", "ADM3_PCODE": "UA6506029", "ADM2_EN": "Kakhovskyi", "ADM2_UA": "Каховський", "ADM2_PCODE": "UA6506", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.560104, 46.472376 ], [ 33.550101, 46.471311 ], [ 33.550463999000044, 46.469473 ], [ 33.544272999000043, 46.468663 ], [ 33.545114, 46.463064 ], [ 33.550601, 46.463142 ], [ 33.552463999000054, 46.453208 ], [ 33.563339, 46.4538 ], [ 33.561820001000058, 46.463869 ], [ 33.56683, 46.464298 ], [ 33.570566001000032, 46.466275 ], [ 33.570021, 46.46954 ], [ 33.560894, 46.468791 ], [ 33.560104, 46.472376 ] ] ] } }
-]
-}

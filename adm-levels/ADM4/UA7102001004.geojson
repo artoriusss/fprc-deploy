@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.049694232031199999, "Shape_Area": 0.00013680881465899999, "ADM4_EN": "Kuchkivka", "ADM4_UA": "Кучківка", "ADM4_PCODE": "UA7102001004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Buzhanska", "ADM3_UA": "Бужанська", "ADM3_PCODE": "UA7102001", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.632247862000042, 49.171679586000039 ], [ 30.634416001000034, 49.166415 ], [ 30.636776, 49.164964 ], [ 30.64444, 49.166511 ], [ 30.651807999000027, 49.172412 ], [ 30.65197, 49.175118 ], [ 30.64231200100005, 49.175503 ], [ 30.632247862000042, 49.171679586000039 ] ] ] } }
-]
-}

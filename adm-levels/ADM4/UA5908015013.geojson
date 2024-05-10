@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.093038755254100006, "Shape_Area": 8.0091641724900001e-05, "ADM4_EN": "Likarske", "ADM4_UA": "Лікарське", "ADM4_PCODE": "UA5908015013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykolaivska", "ADM3_UA": "Миколаївська", "ADM3_PCODE": "UA5908015", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.517488, 51.001439 ], [ 34.515824, 50.999983 ], [ 34.528528, 50.996049 ], [ 34.532056, 50.99568 ], [ 34.53205, 50.992589 ], [ 34.536155999000073, 50.991312 ], [ 34.540074, 50.991974 ], [ 34.540528, 50.99448 ], [ 34.535080999000058, 50.996903 ], [ 34.529742, 50.997387 ], [ 34.517488, 51.001439 ] ] ] } }
-]
-}

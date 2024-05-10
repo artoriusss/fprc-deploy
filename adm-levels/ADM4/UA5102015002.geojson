@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12248092699300001, "Shape_Area": 0.00028299720305500001, "ADM4_EN": "Ambariv", "ADM4_UA": "Амбарів", "ADM4_PCODE": "UA5102015002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykolaivska", "ADM3_UA": "Миколаївська", "ADM3_PCODE": "UA5102015", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 30.71278, 47.400462 ], [ 30.709135, 47.396476 ], [ 30.709266999000079, 47.387248 ], [ 30.715806, 47.386571 ], [ 30.715316999000038, 47.383383 ], [ 30.723239, 47.380072 ], [ 30.728989001000059, 47.380995 ], [ 30.725909, 47.391162 ], [ 30.72642, 47.394848 ], [ 30.718704, 47.394445 ], [ 30.714604999000073, 47.396393 ], [ 30.71278, 47.400462 ] ] ], [ [ [ 30.753623, 47.372622 ], [ 30.753245999000058, 47.379017 ], [ 30.748545999000044, 47.376732 ], [ 30.749425, 47.372289 ], [ 30.753623, 47.372622 ] ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.198992782264, "Shape_Area": 0.00010321714615, "ADM4_EN": "Bukove", "ADM4_UA": "Букове", "ADM4_PCODE": "UA2612009004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pasichnianska", "ADM3_UA": "Пасічнянська", "ADM3_PCODE": "UA2612009", "ADM2_EN": "Nadvirnianskyi", "ADM2_UA": "Надвірнянський", "ADM2_PCODE": "UA2612", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 24.392595064000034, 48.59525272500008 ], [ 24.394361331000027, 48.590033864000077 ], [ 24.399436252000044, 48.591094542000064 ], [ 24.397605622000071, 48.594783144000075 ], [ 24.392595064000034, 48.59525272500008 ] ] ], [ [ [ 24.368357275000051, 48.601814215000047 ], [ 24.368699918000061, 48.600943332000043 ], [ 24.373768170000062, 48.601514403000067 ], [ 24.372369047000063, 48.602727928000036 ], [ 24.368357275000051, 48.601814215000047 ] ] ] ] } }
-]
-}

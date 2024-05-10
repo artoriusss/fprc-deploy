@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0448236237712, "Shape_Area": 6.69292251239e-05, "ADM4_EN": "Sheremetiv", "ADM4_UA": "Шереметів", "ADM4_PCODE": "UA1804027026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kurnenska", "ADM3_UA": "Курненська", "ADM3_PCODE": "UA1804027", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.084461120000071, 50.350142970000036 ], [ 28.080486001000054, 50.34924 ], [ 28.079938296000023, 50.346684396000057 ], [ 28.082287080000071, 50.342947020000054 ], [ 28.087741080000058, 50.344135020000067 ], [ 28.089647999000078, 50.35017699000008 ], [ 28.084461120000071, 50.350142970000036 ] ] ] } }
-]
-}

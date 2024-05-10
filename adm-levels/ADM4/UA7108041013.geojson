@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.093023164090799998, "Shape_Area": 0.000140079195589, "ADM4_EN": "Novoukrainka", "ADM4_UA": "Новоукраїнка", "ADM4_PCODE": "UA7108041013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stepanetska", "ADM3_UA": "Степанецька", "ADM3_PCODE": "UA7108041", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.165944, 49.568298 ], [ 31.160419001000037, 49.568453 ], [ 31.160444, 49.564069 ], [ 31.170287, 49.56611 ], [ 31.173601001000065, 49.563448 ], [ 31.185406001000047, 49.56252 ], [ 31.192798, 49.563139 ], [ 31.188592001000075, 49.566079 ], [ 31.188605, 49.568172 ], [ 31.181184, 49.567121 ], [ 31.17277, 49.566982 ], [ 31.165944, 49.568298 ] ] ] } }
-]
-}

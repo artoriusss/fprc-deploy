@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.051452541265900001, "Shape_Area": 0.000112939789756, "ADM4_EN": "Hreblia", "ADM4_UA": "Гребля", "ADM4_PCODE": "UA3204011006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pereiaslavcska", "ADM3_UA": "Переяславська", "ADM3_PCODE": "UA3204011", "ADM2_EN": "Boryspilskyi", "ADM2_UA": "Бориспільський", "ADM2_PCODE": "UA3204", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.452130813000053, 50.110728909000045 ], [ 31.442010742000036, 50.11498793800007 ], [ 31.436989723000067, 50.109654908000039 ], [ 31.439588833000073, 50.102910938000036 ], [ 31.442017799000041, 50.10021991900004 ], [ 31.444730777000075, 50.104615910000064 ], [ 31.452544741000054, 50.110431911000035 ], [ 31.452130813000053, 50.110728909000045 ] ] ] } }
-]
-}

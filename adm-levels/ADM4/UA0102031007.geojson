@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.051014267628400001, "Shape_Area": 9.4127601984300002e-05, "ADM4_EN": "Peredove", "ADM4_UA": "Передове", "ADM4_PCODE": "UA0102031007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sevastopol", "ADM3_UA": "Севастополь", "ADM3_PCODE": "UA0102031", "ADM2_EN": "Bakhchysaraiskyi", "ADM2_UA": "Бахчисарайський", "ADM2_PCODE": "UA0102", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.825778, 44.516498 ], [ 33.822021192000079, 44.514771843000062 ], [ 33.823549943000046, 44.505059603000063 ], [ 33.825448, 44.503175 ], [ 33.831548, 44.508655 ], [ 33.829716, 44.512616 ], [ 33.825778, 44.516498 ] ] ] } }
-]
-}

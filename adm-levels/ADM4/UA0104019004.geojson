@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.014430188908800001, "Shape_Area": 7.8496526715600001e-06, "ADM4_EN": "Radisne", "ADM4_UA": "Радісне", "ADM4_PCODE": "UA0104019004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zemlianychnenska", "ADM3_UA": "Земляничненська", "ADM3_PCODE": "UA0104019", "ADM2_EN": "Bilohirskyi", "ADM2_UA": "Білогірський", "ADM2_PCODE": "UA0104", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.843532001000028, 44.997783 ], [ 34.843412001000047, 44.995012 ], [ 34.845903, 44.995868 ], [ 34.843532001000028, 44.997783 ] ] ] } }
-]
-}

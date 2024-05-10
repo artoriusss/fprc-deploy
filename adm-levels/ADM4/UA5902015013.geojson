@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.016934113787000001, "Shape_Area": 8.5593472769200001e-06, "ADM4_EN": "Ivanivske", "ADM4_UA": "Іванівське", "ADM4_PCODE": "UA5902015013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Putyvlska", "ADM3_UA": "Путивльська", "ADM3_PCODE": "UA5902015", "ADM2_EN": "Konotopskyi", "ADM2_UA": "Конотопський", "ADM2_PCODE": "UA5902", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.777541, 51.397026 ], [ 33.774031, 51.39872 ], [ 33.77546, 51.396381 ], [ 33.777541, 51.397026 ] ] ] } }
-]
-}

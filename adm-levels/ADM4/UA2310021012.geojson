@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.058239513459800003, "Shape_Area": 8.30287513638e-05, "ADM4_EN": "Tymoshivka", "ADM4_UA": "Тимошівка", "ADM4_PCODE": "UA2310021012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Preobrazhenska", "ADM3_UA": "Преображенська", "ADM3_PCODE": "UA2310021", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.923930873000074, 47.728294934000076 ], [ 35.923590415000035, 47.731088489000058 ], [ 35.914939729000025, 47.729759666000064 ], [ 35.915633446000072, 47.727141710000069 ], [ 35.919300015000033, 47.725958631000026 ], [ 35.916962477000027, 47.722579697000072 ], [ 35.918512536000037, 47.71614252300003 ], [ 35.923397300000033, 47.716380635000064 ], [ 35.921357552000075, 47.725452377000067 ], [ 35.923930873000074, 47.728294934000076 ] ] ] } }
-]
-}

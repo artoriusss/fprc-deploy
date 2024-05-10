@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.056102351545100002, "Shape_Area": 0.00010508097211800001, "ADM4_EN": "Tykhotyn", "ADM4_UA": "Тихотин", "ADM4_PCODE": "UA0708025035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozhyshchenska", "ADM3_UA": "Рожищенська", "ADM3_PCODE": "UA0708025", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.06663407800005, 50.980683002000035 ], [ 25.061513078000075, 50.978945003000035 ], [ 25.055516079000029, 50.979129002000036 ], [ 25.052705078000031, 50.973246003000042 ], [ 25.059693077000077, 50.971406002000037 ], [ 25.06598107700006, 50.972094003000052 ], [ 25.068815076000078, 50.979290003000074 ], [ 25.06663407800005, 50.980683002000035 ] ] ] } }
-]
-}

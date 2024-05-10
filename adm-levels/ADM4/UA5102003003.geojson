@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.070750789340200002, "Shape_Area": 0.00017269017850399999, "ADM4_EN": "Viktorivka", "ADM4_UA": "Вікторівка", "ADM4_PCODE": "UA5102003003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezivska", "ADM3_UA": "Березівська", "ADM3_PCODE": "UA5102003", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.968336001000068, 47.157096 ], [ 30.968876, 47.162838 ], [ 30.963526, 47.166503 ], [ 30.959689, 47.166818 ], [ 30.959816001000036, 47.169824 ], [ 30.953541, 47.174317 ], [ 30.946278001000053, 47.17102 ], [ 30.94579458100003, 47.167542241000035 ], [ 30.949328, 47.166503 ], [ 30.955462001000058, 47.162684999000078 ], [ 30.961341, 47.160946999000032 ], [ 30.968336001000068, 47.157096 ] ] ] } }
-]
-}

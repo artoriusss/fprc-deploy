@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.21863490003200001, "Shape_Area": 0.00020467260189499999, "ADM4_EN": "Khorol", "ADM4_UA": "Хорол", "ADM4_PCODE": "UA5906003021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vilshanska", "ADM3_UA": "Вільшанська", "ADM3_PCODE": "UA5906003", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.061344, 50.737459 ], [ 34.062740999000027, 50.741627 ], [ 34.058053, 50.742485 ], [ 34.056964, 50.7379 ], [ 34.043835, 50.737277 ], [ 34.044350001000055, 50.728139 ], [ 34.039495, 50.72378 ], [ 34.042438, 50.72122 ], [ 34.047323, 50.723837 ], [ 34.046928001000026, 50.729112 ], [ 34.052807, 50.736456 ], [ 34.061344, 50.737459 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.058865826157500002, "Shape_Area": 0.00014377397944, "ADM4_EN": "Zabuzhzhia", "ADM4_UA": "Забужжя", "ADM4_PCODE": "UA4612011015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sokalska", "ADM3_UA": "Сокальська", "ADM3_PCODE": "UA4612011", "ADM2_EN": "Chervonohradskyi", "ADM2_UA": "Червоноградський", "ADM2_PCODE": "UA4612", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.259616177000055, 50.474622006000061 ], [ 24.260595177000027, 50.478378006000071 ], [ 24.264558175000047, 50.480936006000036 ], [ 24.269382174000043, 50.486512006000055 ], [ 24.268748174000052, 50.491884006000078 ], [ 24.26718317600006, 50.49374500700003 ], [ 24.256119176000027, 50.489978006000058 ], [ 24.257388176000063, 50.488543006000043 ], [ 24.255947176000063, 50.483022006000056 ], [ 24.256989176000047, 50.478299006000043 ], [ 24.259616177000055, 50.474622006000061 ] ] ] } }
-]
-}

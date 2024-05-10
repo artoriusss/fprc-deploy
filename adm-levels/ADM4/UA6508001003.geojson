@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11367161269499999, "Shape_Area": 0.00041412684736100001, "ADM4_EN": "Zaliznyi Port", "ADM4_UA": "Залізний Порт", "ADM4_PCODE": "UA6508001003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bekhterska", "ADM3_UA": "Бехтерська", "ADM3_PCODE": "UA6508001", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Скадовський", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.309631, 46.131026 ], [ 32.301575999000079, 46.132393 ], [ 32.299928, 46.130447 ], [ 32.289515, 46.132165 ], [ 32.286102, 46.124175 ], [ 32.284551, 46.123129 ], [ 32.274930999000048, 46.125202 ], [ 32.273263468000039, 46.120943367000052 ], [ 32.280121797000049, 46.11983011600006 ], [ 32.311855039000079, 46.112772326000027 ], [ 32.313277999000036, 46.115867 ], [ 32.307141999000066, 46.117118 ], [ 32.310774999000046, 46.127693 ], [ 32.309631, 46.131026 ] ] ] } }
-]
-}

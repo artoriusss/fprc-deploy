@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.065337906062699999, "Shape_Area": 0.00018061102695100001, "ADM4_EN": "Shkrobotivka", "ADM4_UA": "Шкроботівка", "ADM4_PCODE": "UA6102003013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykodederkalska", "ADM3_UA": "Великодедеркальська", "ADM3_PCODE": "UA6102003", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.197897999000077, 50.002115 ], [ 26.185017, 50.009041 ], [ 26.179712, 50.011392 ], [ 26.176568, 50.009095 ], [ 26.175889, 50.00134 ], [ 26.181429, 49.998824 ], [ 26.185236001000078, 49.999106 ], [ 26.192373, 49.997167 ], [ 26.197897999000077, 50.002115 ] ] ] } }
-]
-}

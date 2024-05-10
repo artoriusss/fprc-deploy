@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.128057295973, "Shape_Area": 0.00023803611534799999, "ADM4_EN": "Pyshchalnyky", "ADM4_UA": "Пищальники", "ADM4_PCODE": "UA7108007014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bobrytska", "ADM3_UA": "Бобрицька", "ADM3_PCODE": "UA7108007", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.287071, 49.839971 ], [ 31.283196, 49.83921 ], [ 31.282398, 49.832307 ], [ 31.285854, 49.829616 ], [ 31.289404, 49.824435 ], [ 31.287085999000055, 49.819681 ], [ 31.286493999000072, 49.814003 ], [ 31.294361, 49.817676 ], [ 31.297225001000072, 49.822033 ], [ 31.295423001000074, 49.826817 ], [ 31.298564, 49.828698 ], [ 31.292644, 49.833201 ], [ 31.291272999000057, 49.839981 ], [ 31.287071, 49.839971 ] ] ] } }
-]
-}

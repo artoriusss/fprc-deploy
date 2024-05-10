@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.088142873602299998, "Shape_Area": 0.00017996844733300001, "ADM4_EN": "Hannivka", "ADM4_UA": "Ганнівка", "ADM4_PCODE": "UA1204005014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Verkhnodniprovska", "ADM3_UA": "Верхньодніпровська", "ADM3_PCODE": "UA1204005", "ADM2_EN": "Kamianskyi", "ADM2_UA": "Кам’янський", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.991766, 48.740838 ], [ 33.987157, 48.741055 ], [ 33.981945999000061, 48.734074 ], [ 33.973888, 48.729006 ], [ 33.968279, 48.724413 ], [ 33.968398153000066, 48.720702939000034 ], [ 33.971020981000038, 48.717361251000057 ], [ 33.976603001000058, 48.719339 ], [ 33.978138999000066, 48.72552 ], [ 33.988478, 48.734138 ], [ 33.992926, 48.736335 ], [ 33.991766, 48.740838 ] ] ] } }
-]
-}

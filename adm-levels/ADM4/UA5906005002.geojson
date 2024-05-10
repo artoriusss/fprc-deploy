@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.15800716966200001, "Shape_Area": 0.00027230160636699998, "ADM4_EN": "Besedivka", "ADM4_UA": "Беседівка", "ADM4_PCODE": "UA5906005002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Korovynska", "ADM3_UA": "Коровинська", "ADM3_PCODE": "UA5906005", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.736987, 50.897276 ], [ 33.736686, 50.902017 ], [ 33.731414, 50.899274 ], [ 33.724471, 50.903754 ], [ 33.716793, 50.897626 ], [ 33.730026999000074, 50.888935 ], [ 33.736439, 50.883297 ], [ 33.743054, 50.886356 ], [ 33.745328, 50.891525 ], [ 33.739309, 50.890254 ], [ 33.736987, 50.897276 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.052852259863699999, "Shape_Area": 7.4245987961199996e-05, "ADM4_EN": "Prokhorove", "ADM4_UA": "Прохорове", "ADM4_PCODE": "UA5102009014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivanivska", "ADM3_UA": "Іванівська", "ADM3_PCODE": "UA5102009", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.45862500100003, 47.009038 ], [ 30.45827, 47.00558 ], [ 30.462453001000029, 47.004746 ], [ 30.463707, 47.0 ], [ 30.470448, 47.000443 ], [ 30.469843999000034, 47.004317 ], [ 30.472056, 47.007945 ], [ 30.460088, 47.006922 ], [ 30.45862500100003, 47.009038 ] ] ] } }
-]
-}

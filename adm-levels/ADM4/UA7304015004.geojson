@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.085581850426, "Shape_Area": 0.00020060380208600001, "ADM4_EN": "Pryhorodok", "ADM4_UA": "Пригородок", "ADM4_PCODE": "UA7304015004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rukshynska", "ADM3_UA": "Рукшинська", "ADM3_PCODE": "UA7304015", "ADM2_EN": "Dnistrovskyi", "ADM2_UA": "Дністровський", "ADM2_PCODE": "UA7304", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.407443, 48.535692 ], [ 26.403164999000069, 48.536047 ], [ 26.395753, 48.533856 ], [ 26.391171, 48.529811 ], [ 26.396781001000079, 48.526311 ], [ 26.401422312000022, 48.527029713000047 ], [ 26.401604, 48.524581 ], [ 26.406901, 48.525389 ], [ 26.407067709000046, 48.527903910000077 ], [ 26.412629999000046, 48.529239 ], [ 26.414772001000074, 48.531557 ], [ 26.421623330000045, 48.534382905000029 ], [ 26.414627, 48.5359 ], [ 26.407443, 48.535692 ] ] ] } }
-]
-}

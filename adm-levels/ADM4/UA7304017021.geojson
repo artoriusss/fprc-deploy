@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.108194547618, "Shape_Area": 0.00012329723112800001, "ADM4_EN": "Rozkopyntsi", "ADM4_UA": "Розкопинці", "ADM4_PCODE": "UA7304017021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sokyrianska", "ADM3_UA": "Сокирянська", "ADM3_PCODE": "UA7304017", "ADM2_EN": "Dnistrovskyi", "ADM2_UA": "Дністровський", "ADM2_PCODE": "UA7304", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 27.458149, 48.512382 ], [ 27.456866999000056, 48.514631 ], [ 27.450108999000065, 48.510072 ], [ 27.449727, 48.503418 ], [ 27.447999, 48.501699 ], [ 27.441215, 48.500287 ], [ 27.442986, 48.496464 ], [ 27.451448, 48.50064 ], [ 27.454847, 48.510687 ], [ 27.458149, 48.512382 ] ] ], [ [ [ 27.436575, 48.496108 ], [ 27.431078, 48.495514 ], [ 27.430077999000048, 48.49339 ], [ 27.438246, 48.493544 ], [ 27.436575, 48.496108 ] ] ] ] } }
-]
-}

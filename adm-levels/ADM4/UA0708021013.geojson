@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.1027428, "Shape_Area": 0.00013842820682900001, "ADM4_EN": "Pokashchiv", "ADM4_UA": "Покащів", "ADM4_PCODE": "UA0708021013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Olytska", "ADM3_UA": "Олицька", "ADM3_PCODE": "UA0708021", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.718596036000065, 50.74528500100007 ], [ 25.710550036000029, 50.744746001000067 ], [ 25.707159037000054, 50.743536001000052 ], [ 25.69086403700004, 50.743377002000045 ], [ 25.69304803600005, 50.74051600100006 ], [ 25.728412036000066, 50.741064001000041 ], [ 25.731333036000024, 50.743824001000064 ], [ 25.718603036000047, 50.743707001000075 ], [ 25.718596036000065, 50.74528500100007 ] ] ] } }
-]
-}

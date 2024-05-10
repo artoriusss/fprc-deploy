@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.078058320131299999, "Shape_Area": 8.4279998420799999e-05, "ADM4_EN": "Volna", "ADM4_UA": "Волна", "ADM4_PCODE": "UA2308019003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Oleksandrivska", "ADM3_UA": "Олександрівська", "ADM3_PCODE": "UA2308019", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "Мелітопольський", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.491669401000024, 46.668382707000035 ], [ 35.502532880000047, 46.676134727000033 ], [ 35.500117653000075, 46.677693266000063 ], [ 35.472563710000031, 46.658121544000039 ], [ 35.47485694900007, 46.656487952000077 ], [ 35.491669401000024, 46.668382707000035 ] ] ] } }
-]
-}

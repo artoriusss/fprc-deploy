@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.064776851952299999, "Shape_Area": 6.6124659130899999e-05, "ADM4_EN": "Vyzhhiv", "ADM4_UA": "Вижгів", "ADM4_PCODE": "UA0706005004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vyshnivska", "ADM3_UA": "Вишнівська", "ADM3_PCODE": "UA0706005", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.102647211000033, 51.118242007000049 ], [ 24.099714213000027, 51.119136007000066 ], [ 24.085081215000059, 51.118183007000027 ], [ 24.08278421600005, 51.118752007000069 ], [ 24.081257217000029, 51.114779008000028 ], [ 24.08366221600005, 51.112154007000072 ], [ 24.087422215000061, 51.112131007000073 ], [ 24.089802215000077, 51.117005007000046 ], [ 24.102647211000033, 51.118242007000049 ] ] ] } }
-]
-}

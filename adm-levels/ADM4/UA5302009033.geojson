@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.042205627521699998, "Shape_Area": 8.5793359288900006e-05, "ADM4_EN": "Nyzhnia Zhuzhmanivka", "ADM4_UA": "Нижня Жужманівка", "ADM4_PCODE": "UA5302009033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozelshchynska", "ADM3_UA": "Козельщинська", "ADM3_PCODE": "UA5302009", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.760457, 49.145406 ], [ 33.753853001000039, 49.144374 ], [ 33.753890999000077, 49.141985 ], [ 33.758489, 49.140883 ], [ 33.765442, 49.13593 ], [ 33.769964, 49.138501 ], [ 33.769022, 49.140992 ], [ 33.760457, 49.145406 ] ] ] } }
-]
-}

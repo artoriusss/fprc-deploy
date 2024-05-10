@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.049019440725299998, "Shape_Area": 5.9719605126999997e-05, "ADM4_EN": "Demydiv", "ADM4_UA": "Демидів", "ADM4_PCODE": "UA4610027019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khodorivska", "ADM3_UA": "Ходорівська", "ADM3_PCODE": "UA4610027", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.249542167000072, 49.375839006000035 ], [ 24.24833116800005, 49.371025006000082 ], [ 24.253848167000058, 49.370558006000067 ], [ 24.258498166000038, 49.367493006000075 ], [ 24.262961166000025, 49.370744006000052 ], [ 24.262088166000069, 49.373035005000077 ], [ 24.254083167000033, 49.373673006000047 ], [ 24.249542167000072, 49.375839006000035 ] ] ] } }
-]
-}

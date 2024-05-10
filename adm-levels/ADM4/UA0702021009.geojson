@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.023999480671900001, "Shape_Area": 1.124613196e-05, "ADM4_EN": "Kladniv", "ADM4_UA": "Кладнів", "ADM4_PCODE": "UA0702021009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ustyluzka", "ADM3_UA": "Устилузька", "ADM3_PCODE": "UA0702021", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.953729244000044, 51.033936008000069 ], [ 23.95121324400003, 51.034156008000082 ], [ 23.950529245000041, 51.031626009000036 ], [ 23.953236244000038, 51.031518008000035 ], [ 23.953729244000044, 51.033936008000069 ] ] ] } }
-]
-}

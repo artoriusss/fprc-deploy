@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0594588855469, "Shape_Area": 0.000106137021003, "ADM4_EN": "Krasnodolne", "ADM4_UA": "Краснодольне", "ADM4_PCODE": "UA0106041003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Roshchynska", "ADM3_UA": "Рощинська", "ADM3_PCODE": "UA0106041", "ADM2_EN": "Dzhankoiskyi", "ADM2_UA": "Джанкойський", "ADM2_PCODE": "UA0106", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.368866, 45.584439 ], [ 34.360664999000051, 45.583896 ], [ 34.353359366000063, 45.572158692000073 ], [ 34.359729969000057, 45.572983150000027 ], [ 34.362264540000069, 45.57679982500008 ], [ 34.365705145000049, 45.57390704900007 ], [ 34.36794026900003, 45.574776787000076 ], [ 34.368752388000075, 45.57899463900003 ], [ 34.366011125000057, 45.579460889000075 ], [ 34.368866, 45.584439 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.090975223769300007, "Shape_Area": 8.1116896825900002e-05, "ADM4_EN": "Prykhid", "ADM4_UA": "Прихід", "ADM4_PCODE": "UA1808007012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodnytska", "ADM3_UA": "Городницька", "ADM3_PCODE": "UA1808007", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.375351840000064, 50.969763 ], [ 27.37206, 50.970293010000034 ], [ 27.364135769000029, 50.973647490000076 ], [ 27.355499999000074, 50.962885020000044 ], [ 27.36579707900006, 50.96954997000006 ], [ 27.375180120000039, 50.967659970000057 ], [ 27.375351840000064, 50.969763 ] ] ] } }
-]
-}

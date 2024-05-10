@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.106888297151, "Shape_Area": 0.000157610205264, "ADM4_EN": "Cherkaskyi Byshkyn", "ADM4_UA": "Черкаський Бишкин", "ADM4_PCODE": "UA6314011013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Slobozhanska", "ADM3_UA": "Слобожанська", "ADM3_PCODE": "UA6314011", "ADM2_EN": "Chuhuivskyi", "ADM2_UA": "Чугуївський", "ADM2_PCODE": "UA6314", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.424982, 49.548345 ], [ 36.421954999000036, 49.551062 ], [ 36.409175001000051, 49.548056 ], [ 36.405497999000033, 49.549259 ], [ 36.396382, 49.550249 ], [ 36.398038, 49.547407 ], [ 36.401802, 49.547754 ], [ 36.408223, 49.545 ], [ 36.433205999000052, 49.544653 ], [ 36.438014, 49.547692 ], [ 36.432243999000036, 49.549102 ], [ 36.424982, 49.548345 ] ] ] } }
-]
-}

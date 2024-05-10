@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.042263760135600001, "Shape_Area": 5.0021857315999998e-05, "ADM4_EN": "Tsyhanivtsi", "ADM4_UA": "Циганівці", "ADM4_PCODE": "UA2110001011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Baranynska", "ADM3_UA": "Баранинська", "ADM3_PCODE": "UA2110001", "ADM2_EN": "Uzhhorodskyi", "ADM2_UA": "Ужгородський", "ADM2_PCODE": "UA2110", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.390097893000075, 48.584473039000045 ], [ 22.389127894000069, 48.591186039000036 ], [ 22.392617892000032, 48.597083038000051 ], [ 22.38998289400007, 48.599341038000034 ], [ 22.386530896000068, 48.597033039000053 ], [ 22.386728897000069, 48.587710039000058 ], [ 22.390097893000075, 48.584473039000045 ] ] ] } }
-]
-}

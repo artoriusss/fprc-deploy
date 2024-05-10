@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.15334218711, "Shape_Area": 0.00027634720289300001, "ADM4_EN": "Fylenkove", "ADM4_UA": "Филенкове", "ADM4_PCODE": "UA5308041020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Skorokhodivska", "ADM3_UA": "Скороходівська", "ADM3_PCODE": "UA5308041", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.001267, 49.841925 ], [ 34.997070999000073, 49.841461 ], [ 34.994246, 49.842926 ], [ 34.985651, 49.836574 ], [ 34.988440999000034, 49.833947 ], [ 34.99155999900006, 49.833608 ], [ 34.996395, 49.829069 ], [ 34.995479, 49.825999 ], [ 35.000361, 49.823533 ], [ 35.003441999000074, 49.82649 ], [ 35.010189, 49.830289 ], [ 35.016371001000039, 49.830854 ], [ 35.013196, 49.834488 ], [ 35.005429, 49.838079 ], [ 35.007738999000026, 49.841425 ], [ 35.001267, 49.841925 ] ] ] } }
-]
-}

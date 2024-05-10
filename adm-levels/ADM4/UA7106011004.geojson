@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.079306870556699993, "Shape_Area": 0.00017703628112500001, "ADM4_EN": "Tymoshivka", "ADM4_UA": "Тимошівка", "ADM4_PCODE": "UA7106011004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivankivska", "ADM3_UA": "Іваньківська", "ADM3_PCODE": "UA7106011", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.401287, 48.998609 ], [ 30.398609, 48.999191 ], [ 30.393658, 48.997193 ], [ 30.384962, 48.997539 ], [ 30.388087, 48.993408 ], [ 30.39178, 48.993842 ], [ 30.398018999000044, 48.992742 ], [ 30.396040999000036, 48.988742 ], [ 30.402538, 48.987706 ], [ 30.409316001000036, 48.988992 ], [ 30.411327, 48.991094 ], [ 30.40946, 48.994068 ], [ 30.410656, 48.997528 ], [ 30.407642, 48.998477 ], [ 30.401353001000075, 48.996439 ], [ 30.401287, 48.998609 ] ] ] } }
-]
-}

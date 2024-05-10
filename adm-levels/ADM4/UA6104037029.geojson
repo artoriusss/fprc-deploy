@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.042871471294100003, "Shape_Area": 4.8001635810699998e-05, "ADM4_EN": "Soniachne", "ADM4_UA": "Сонячне", "ADM4_PCODE": "UA6104037029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pidhaietska", "ADM3_UA": "Підгаєцька", "ADM3_PCODE": "UA6104037", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.29125, 49.33032 ], [ 25.295525, 49.327966 ], [ 25.298553, 49.324727 ], [ 25.298328, 49.33153 ], [ 25.294869001000052, 49.330003 ], [ 25.29125, 49.33032 ] ] ] } }
-]
-}

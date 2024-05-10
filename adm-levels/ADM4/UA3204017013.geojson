@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.045592950860099998, "Shape_Area": 5.2236807172899997e-05, "ADM4_EN": "Travneve", "ADM4_UA": "Травневе", "ADM4_PCODE": "UA3204017013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tashanska", "ADM3_UA": "Ташанська", "ADM3_PCODE": "UA3204017", "ADM2_EN": "Boryspilskyi", "ADM2_UA": "Бориспільський", "ADM2_PCODE": "UA3204", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.616328582000051, 50.081883107000067 ], [ 31.604602634000059, 50.079839 ], [ 31.609586682000042, 50.077286964000052 ], [ 31.611434640000027, 50.079057074000048 ], [ 31.620589608000046, 50.075857104000079 ], [ 31.619373594000024, 50.080429098000081 ], [ 31.616328582000051, 50.081883107000067 ] ] ] } }
-]
-}

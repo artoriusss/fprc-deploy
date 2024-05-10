@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.15839660314699999, "Shape_Area": 0.00038231135718499998, "ADM4_EN": "Myroliubivka", "ADM4_UA": "Миролюбівка", "ADM4_PCODE": "UA1214027027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Raivska", "ADM3_UA": "Раївська", "ADM3_PCODE": "UA1214027", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.683617001000073, 48.219764 ], [ 35.679853, 48.219215 ], [ 35.675746, 48.220708 ], [ 35.674561, 48.218705 ], [ 35.665605999000036, 48.22002 ], [ 35.664666, 48.217718 ], [ 35.65506, 48.2169 ], [ 35.644272, 48.212311 ], [ 35.639733, 48.20582 ], [ 35.642072, 48.203294 ], [ 35.648927001000061, 48.206884 ], [ 35.656248001000051, 48.207668 ], [ 35.672087, 48.211519 ], [ 35.673467, 48.209638 ], [ 35.67735, 48.210582 ], [ 35.682808, 48.209619 ], [ 35.681728, 48.215423 ], [ 35.683617001000073, 48.219764 ] ] ] } }
-]
-}

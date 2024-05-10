@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.052772064794399998, "Shape_Area": 7.72291428879e-05, "ADM4_EN": "Mala Fosnia", "ADM4_UA": "Мала Фосня", "ADM4_PCODE": "UA1806017042", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ovrutska", "ADM3_UA": "Овруцька", "ADM3_PCODE": "UA1806017", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.851509880000037, 51.269776020000052 ], [ 28.85029884000005, 51.271288020000043 ], [ 28.841405040000041, 51.269417010000041 ], [ 28.832191920000071, 51.266213010000058 ], [ 28.835130960000072, 51.262372980000066 ], [ 28.837784880000072, 51.262074990000031 ], [ 28.845506881000063, 51.264107010000032 ], [ 28.844791920000034, 51.26772402000006 ], [ 28.851509880000037, 51.269776020000052 ] ] ] } }
-]
-}

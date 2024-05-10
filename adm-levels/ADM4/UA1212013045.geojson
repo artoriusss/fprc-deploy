@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.080743708275499995, "Shape_Area": 9.8607679962399997e-05, "ADM4_EN": "Yurivske", "ADM4_UA": "Юр'ївське", "ADM4_PCODE": "UA1212013045", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yurivska", "ADM3_UA": "Юр'ївська", "ADM3_PCODE": "UA1212013", "ADM2_EN": "Pavlohradskyi", "ADM2_UA": "Павлоградський", "ADM2_PCODE": "UA1212", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.032881001000078, 48.699425 ], [ 36.041122, 48.697299 ], [ 36.038253, 48.693479 ], [ 36.040068, 48.688197 ], [ 36.045799999000053, 48.691343 ], [ 36.053215229000045, 48.692616816000054 ], [ 36.04212362800007, 48.698909739000044 ], [ 36.033573935000049, 48.701466220000043 ], [ 36.032881001000078, 48.699425 ] ] ] } }
-]
-}

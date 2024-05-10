@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.095453622491899995, "Shape_Area": 0.00015456999565, "ADM4_EN": "Tymanivka", "ADM4_UA": "Тиманівка", "ADM4_PCODE": "UA5910017034", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shostkynska", "ADM3_UA": "Шосткинська", "ADM3_PCODE": "UA5910017", "ADM2_EN": "Shostkynskyi", "ADM2_UA": "Шосткинський", "ADM2_PCODE": "UA5910", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.129413, 51.774703 ], [ 33.130902999000057, 51.777241 ], [ 33.135109, 51.779874 ], [ 33.132784, 51.783418 ], [ 33.127406, 51.778074 ], [ 33.125166, 51.773516 ], [ 33.122645999000042, 51.773325 ], [ 33.12032, 51.770078 ], [ 33.120459, 51.766803 ], [ 33.128538, 51.763042 ], [ 33.131431, 51.767753 ], [ 33.131435, 51.773059 ], [ 33.129413, 51.774703 ] ] ] } }
-]
-}

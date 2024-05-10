@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.045066806304300003, "Shape_Area": 7.7302447488900006e-05, "ADM4_EN": "Chervonyi Yar", "ADM4_UA": "Червоний Яр", "ADM4_PCODE": "UA2310021014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Preobrazhenska", "ADM3_UA": "Преображенська", "ADM3_PCODE": "UA2310021", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.907013040000038, 47.711340435000068 ], [ 35.900072675000047, 47.710864424000079 ], [ 35.903292001000068, 47.699742726000068 ], [ 35.910378662000028, 47.700522395000064 ], [ 35.907013040000038, 47.711340435000068 ] ] ] } }
-]
-}

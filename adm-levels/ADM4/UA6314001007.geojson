@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.105130987456, "Shape_Area": 8.5087795120400002e-05, "ADM4_EN": "Blahodatne", "ADM4_UA": "Благодатне", "ADM4_PCODE": "UA6314001007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vovchanska", "ADM3_UA": "Вовчанська", "ADM3_PCODE": "UA6314001", "ADM2_EN": "Chuhuivskyi", "ADM2_UA": "Чугуївський", "ADM2_PCODE": "UA6314", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.33773, 50.229953 ], [ 37.340516, 50.228279 ], [ 37.353356, 50.225598 ], [ 37.354058001000055, 50.222003 ], [ 37.367049819000044, 50.220710398000051 ], [ 37.365983, 50.225139 ], [ 37.358978, 50.225127 ], [ 37.33773, 50.229953 ] ] ] } }
-]
-}

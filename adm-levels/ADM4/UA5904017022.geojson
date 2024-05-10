@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.027564494630800001, "Shape_Area": 3.59169466171e-05, "ADM4_EN": "Sofiivka", "ADM4_UA": "Софіївка", "ADM4_PCODE": "UA5904017022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chupakhivska", "ADM3_UA": "Чупахівська", "ADM3_PCODE": "UA5904017", "ADM2_EN": "Okhtyrskyi", "ADM2_UA": "Охтирський", "ADM2_PCODE": "UA5904", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.493308968000065, 50.348191870000051 ], [ 34.484263001000045, 50.352096 ], [ 34.481459, 50.34935 ], [ 34.490460952000035, 50.345428492000053 ], [ 34.493308968000065, 50.348191870000051 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.085773967703399998, "Shape_Area": 0.00013676763895399999, "ADM4_EN": "Shevchenkove", "ADM4_UA": "Шевченкове", "ADM4_PCODE": "UA5308003029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykorublivska", "ADM3_UA": "Великорублівська", "ADM3_PCODE": "UA5308003", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 34.69647800100006, 49.89199 ], [ 34.701667001000033, 49.895394 ], [ 34.69674400100007, 49.896678 ], [ 34.69647800100006, 49.89199 ] ] ], [ [ [ 34.702301001000023, 49.892129 ], [ 34.700135, 49.892969 ], [ 34.697239, 49.889415 ], [ 34.691113999000038, 49.886458 ], [ 34.694348, 49.883392 ], [ 34.699748, 49.880353 ], [ 34.705418, 49.882716 ], [ 34.703071, 49.886468 ], [ 34.70434, 49.890033 ], [ 34.702301001000023, 49.892129 ] ] ] ] } }
-]
-}

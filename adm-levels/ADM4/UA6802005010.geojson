@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11603425551300001, "Shape_Area": 0.00028026249386899998, "ADM4_EN": "Holozubyntsi", "ADM4_UA": "Голозубинці", "ADM4_PCODE": "UA6802005010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dunaievetska", "ADM3_UA": "Дунаєвецька", "ADM3_PCODE": "UA6802005", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.914182231000041, 48.845961206000027 ], [ 26.902162001000079, 48.842506 ], [ 26.903090001000066, 48.838641 ], [ 26.894181001000049, 48.834556 ], [ 26.894035, 48.833117 ], [ 26.903164, 48.828275 ], [ 26.911015001000067, 48.826784 ], [ 26.915131, 48.830884 ], [ 26.914449, 48.834773 ], [ 26.911671999000077, 48.839043 ], [ 26.916769, 48.838975 ], [ 26.914182231000041, 48.845961206000027 ] ] ] } }
-]
-}

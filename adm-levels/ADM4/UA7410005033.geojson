@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.061123876148200001, "Shape_Area": 7.0233239606499995e-05, "ADM4_EN": "Molozhava", "ADM4_UA": "Моложава", "ADM4_PCODE": "UA7410005033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodnianska", "ADM3_UA": "Городнянська", "ADM3_PCODE": "UA7410005", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.373397, 51.887093040000082 ], [ 31.366166040000053, 51.885118080000041 ], [ 31.369952881000074, 51.882916050000063 ], [ 31.381563960000051, 51.881058 ], [ 31.384371960000067, 51.88418001000008 ], [ 31.374164880000023, 51.884926920000055 ], [ 31.373397, 51.887093040000082 ] ] ] } }
-]
-}

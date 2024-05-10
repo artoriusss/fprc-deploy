@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12777935372400001, "Shape_Area": 0.000119595989975, "ADM4_EN": "Pryvillia", "ADM4_UA": "Привілля", "ADM4_PCODE": "UA5910003018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hlukhivska", "ADM3_UA": "Глухівська", "ADM3_PCODE": "UA5910003", "ADM2_EN": "Shostkynskyi", "ADM2_UA": "Шосткинський", "ADM2_PCODE": "UA5910", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.021521, 51.711312 ], [ 34.011924001000068, 51.710439 ], [ 34.013387, 51.707725 ], [ 34.018085, 51.7069 ], [ 34.017741, 51.695844 ], [ 34.025213, 51.694368 ], [ 34.028309001000025, 51.689884 ], [ 34.030095, 51.692769 ], [ 34.02548, 51.696171 ], [ 34.021129, 51.697137 ], [ 34.021797, 51.699943 ], [ 34.020071001000076, 51.703727 ], [ 34.022102, 51.708452 ], [ 34.021521, 51.711312 ] ] ] } }
-]
-}

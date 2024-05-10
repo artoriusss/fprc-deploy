@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.062547931904199994, "Shape_Area": 5.8072850698099999e-05, "ADM4_EN": "Trostianets", "ADM4_UA": "Тростянець", "ADM4_PCODE": "UA7408015027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sribnianska", "ADM3_UA": "Срібнянська", "ADM3_PCODE": "UA7408015", "ADM2_EN": "Prylutskyi", "ADM2_UA": "Прилуцький", "ADM2_PCODE": "UA7408", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.859777961000077, 50.660639010000068 ], [ 32.858219880000036, 50.662661040000046 ], [ 32.859870121000029, 50.666626980000046 ], [ 32.85558, 50.666917950000027 ], [ 32.854399920000048, 50.661667980000061 ], [ 32.856656581000038, 50.660999550000042 ], [ 32.864379840000026, 50.655740040000069 ], [ 32.867326080000055, 50.649598980000064 ], [ 32.869193040000027, 50.649744060000046 ], [ 32.862754080000059, 50.660577990000036 ], [ 32.859777961000077, 50.660639010000068 ] ] ] } }
-]
-}

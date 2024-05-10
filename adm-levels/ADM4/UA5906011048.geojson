@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.044891627494199997, "Shape_Area": 9.6238544397200004e-05, "ADM4_EN": "Nenadiivka", "ADM4_UA": "Ненадіївка", "ADM4_PCODE": "UA5906011048", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Romenska", "ADM3_UA": "Роменська", "ADM3_PCODE": "UA5906011", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.353694, 50.781903 ], [ 33.356491, 50.779012 ], [ 33.353372, 50.776474 ], [ 33.357981, 50.772523 ], [ 33.368422, 50.777948 ], [ 33.362051999000073, 50.783588 ], [ 33.354469999000059, 50.7831 ], [ 33.353694, 50.781903 ] ] ] } }
-]
-}

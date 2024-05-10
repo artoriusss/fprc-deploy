@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.075516949913099998, "Shape_Area": 6.2278640269500005e-05, "ADM4_EN": "Lemishchyne", "ADM4_UA": "Леміщине", "ADM4_PCODE": "UA6302005026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zolochivska", "ADM3_UA": "Золочівська", "ADM3_PCODE": "UA6302005", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "Богодухівський", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 35.720987, 50.329819 ], [ 35.720838, 50.336094 ], [ 35.717381001000035, 50.336024 ], [ 35.715743, 50.331137 ], [ 35.720987, 50.329819 ] ] ], [ [ [ 35.722770999000033, 50.327301 ], [ 35.716226, 50.327015 ], [ 35.716167, 50.324617 ], [ 35.722770999000033, 50.327301 ] ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.059037204064899998, "Shape_Area": 5.7281214794700001e-05, "ADM4_EN": "Bashova", "ADM4_UA": "Башова", "ADM4_PCODE": "UA0708015002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kopachivska", "ADM3_UA": "Копачівська", "ADM3_PCODE": "UA0708015", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.182186068000078, 50.892099002000066 ], [ 25.175286068000048, 50.892132002000039 ], [ 25.168239069000037, 50.893630002000066 ], [ 25.16911607000003, 50.889502002000029 ], [ 25.173581070000068, 50.890090003000068 ], [ 25.177037068000061, 50.889041002000056 ], [ 25.182186068000078, 50.892099002000066 ] ] ] } }
-]
-}

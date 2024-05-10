@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0569385286878, "Shape_Area": 1.8635334794900001e-05, "ADM4_EN": "Sokolovytsia", "ADM4_UA": "Соколовиця", "ADM4_PCODE": "UA2612009010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pasichnianska", "ADM3_UA": "Пасічнянська", "ADM3_PCODE": "UA2612009", "ADM2_EN": "Nadvirnianskyi", "ADM2_UA": "Надвірнянський", "ADM2_PCODE": "UA2612", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.409253900000067, 48.581472471000041 ], [ 24.406692860000078, 48.580008452000072 ], [ 24.41060748700005, 48.579618312000036 ], [ 24.409253900000067, 48.581472471000041 ] ] ] } }
-]
-}

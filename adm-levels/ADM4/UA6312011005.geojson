@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.078522187201500004, "Shape_Area": 9.5033020103799996e-05, "ADM4_EN": "Myshchenky", "ADM4_UA": "Мищенки", "ADM4_PCODE": "UA6312011005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Liubotynska", "ADM3_UA": "Люботинська", "ADM3_PCODE": "UA6312011", "ADM2_EN": "Kharkivskyi", "ADM2_UA": "Харківський", "ADM2_PCODE": "UA6312", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 35.871009721000064, 49.984378169000081 ], [ 35.871982001000049, 49.986048 ], [ 35.868759, 49.991495 ], [ 35.863724, 49.990383 ], [ 35.861338, 49.988507 ], [ 35.853793999000061, 49.989169 ], [ 35.854004, 49.986305 ], [ 35.861384757000053, 49.984477368000057 ], [ 35.871009721000064, 49.984378169000081 ] ] ], [ [ [ 35.850641, 49.988439 ], [ 35.844978, 49.990605 ], [ 35.845346, 49.986012 ], [ 35.850641, 49.988439 ] ] ] ] } }
-]
-}

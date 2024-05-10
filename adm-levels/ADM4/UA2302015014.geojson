@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.046881635681599997, "Shape_Area": 8.2679149647199999e-05, "ADM4_EN": "Kamianka", "ADM4_UA": "Кам'янка", "ADM4_PCODE": "UA2302015014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chernihivska", "ADM3_UA": "Чернігівська", "ADM3_PCODE": "UA2302015", "ADM2_EN": "Berdianskyi", "ADM2_UA": "Бердянський", "ADM2_PCODE": "UA2302", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.020626781000033, 47.230428773000028 ], [ 36.011174009000058, 47.234214804000032 ], [ 36.007977810000057, 47.230014248000032 ], [ 36.020923722000077, 47.224596743000063 ], [ 36.024824119000073, 47.229009149000035 ], [ 36.020626781000033, 47.230428773000028 ] ] ] } }
-]
-}

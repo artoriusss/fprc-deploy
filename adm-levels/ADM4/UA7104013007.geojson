@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.069085049406300003, "Shape_Area": 7.6198184977099994e-05, "ADM4_EN": "Zahorodyshche", "ADM4_UA": "Загородище", "ADM4_PCODE": "UA7104013007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Irkliivska", "ADM3_UA": "Іркліївська", "ADM3_PCODE": "UA7104013", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.345181177000029, 49.53844054800004 ], [ 32.343934, 49.535137 ], [ 32.347477, 49.530708 ], [ 32.350981881000052, 49.53085937600008 ], [ 32.353977, 49.533646 ], [ 32.352861671000028, 49.537080671000069 ], [ 32.345181177000029, 49.53844054800004 ] ] ] } }
-]
-}

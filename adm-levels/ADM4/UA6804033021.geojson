@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.096250378904600004, "Shape_Area": 0.00028376616530500001, "ADM4_EN": "Perehinka", "ADM4_UA": "Перегінка", "ADM4_PCODE": "UA6804033021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozsoshanska", "ADM3_UA": "Розсошанська", "ADM3_PCODE": "UA6804033", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.955820999000025, 49.298591 ], [ 26.953461, 49.299823 ], [ 26.954784, 49.303519 ], [ 26.958131001000027, 49.306349001000058 ], [ 26.954599001000076, 49.308077 ], [ 26.954172, 49.310962 ], [ 26.95675, 49.314582 ], [ 26.952708, 49.316402 ], [ 26.94282, 49.313639 ], [ 26.93752900100003, 49.307782 ], [ 26.939535999000043, 49.305601 ], [ 26.940961999000024, 49.300305 ], [ 26.953258, 49.296626 ], [ 26.955820999000025, 49.298591 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.049672648924200001, "Shape_Area": 7.5929687588799995e-05, "ADM4_EN": "Pryvillia", "ADM4_UA": "Привілля", "ADM4_PCODE": "UA4802007012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Volodymyrivska", "ADM3_UA": "Володимирівська", "ADM3_PCODE": "UA4802007", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.079981197000052, 47.557793439000079 ], [ 33.078506556000036, 47.56611876900007 ], [ 33.076987601000042, 47.566119799000035 ], [ 33.075078062000046, 47.576678740000034 ], [ 33.071006840000052, 47.576300576000051 ], [ 33.072968110000033, 47.565701214000057 ], [ 33.075801667000064, 47.562986480000063 ], [ 33.076342244000045, 47.557546046000027 ], [ 33.079981197000052, 47.557793439000079 ] ] ] } }
-]
-}

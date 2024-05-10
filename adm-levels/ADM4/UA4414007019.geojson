@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12979820448900001, "Shape_Area": 0.00018392500866699999, "ADM4_EN": "Novostriltsivka", "ADM4_UA": "Новострільцівка", "ADM4_PCODE": "UA4414007019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Milovska", "ADM3_UA": "Міловська", "ADM3_PCODE": "UA4414007", "ADM2_EN": "Starobilskyi", "ADM2_UA": "Старобільський", "ADM2_PCODE": "UA4414", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.929044001000079, 49.338793 ], [ 39.92634200100008, 49.336838 ], [ 39.92555, 49.33138 ], [ 39.910324, 49.321641 ], [ 39.899215, 49.317048 ], [ 39.898336999000037, 49.314396 ], [ 39.906692, 49.315619 ], [ 39.906897, 49.314068 ], [ 39.919297, 49.319649 ], [ 39.922688, 49.324211 ], [ 39.922794, 49.326863 ], [ 39.926388, 49.327626 ], [ 39.931087, 49.331624 ], [ 39.936347, 49.333327 ], [ 39.929044001000079, 49.338793 ] ] ] } }
-]
-}

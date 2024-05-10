@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.111363081012, "Shape_Area": 8.4796634607100003e-05, "ADM4_EN": "Bohushivka", "ADM4_UA": "Богушівка", "ADM4_PCODE": "UA0708017005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lutska", "ADM3_UA": "Луцька", "ADM3_PCODE": "UA0708017", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.196331068000063, 50.765178002000027 ], [ 25.194191068000066, 50.760819002000062 ], [ 25.186950066000065, 50.76071900200003 ], [ 25.184960068000066, 50.75859100200006 ], [ 25.195730066000067, 50.758794002000059 ], [ 25.201512066000078, 50.760014002000048 ], [ 25.200918066000042, 50.762259002000064 ], [ 25.196559066000077, 50.761884002000045 ], [ 25.196331068000063, 50.765178002000027 ] ] ] } }
-]
-}

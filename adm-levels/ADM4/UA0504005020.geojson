@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10169705789, "Shape_Area": 0.00017789404663599999, "ADM4_EN": "Shabelnia", "ADM4_UA": "Шабельня", "ADM4_PCODE": "UA0504005020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dashivska", "ADM3_UA": "Дашівська", "ADM3_PCODE": "UA0504005", "ADM2_EN": "Haisynskyi", "ADM2_UA": "Гайсинський", "ADM2_PCODE": "UA0504", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.33802, 49.001907 ], [ 29.333274, 49.000243 ], [ 29.326169999000058, 49.000105 ], [ 29.324495001000059, 49.001644 ], [ 29.319699, 48.999549 ], [ 29.308293, 48.998632 ], [ 29.307253001000049, 48.996744 ], [ 29.308509, 48.991347 ], [ 29.314357, 48.992937 ], [ 29.318853, 48.991537 ], [ 29.320917, 48.993695 ], [ 29.329418, 48.996002 ], [ 29.334388, 48.994655 ], [ 29.337694, 48.995993 ], [ 29.335119, 48.999861 ], [ 29.33802, 49.001907 ] ] ] } }
-]
-}

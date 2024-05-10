@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.078130273136000003, "Shape_Area": 0.000120886038457, "ADM4_EN": "Pochapyntsi", "ADM4_UA": "Почапинці", "ADM4_PCODE": "UA6104039007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pidhorodnianska", "ADM3_UA": "Підгороднянська", "ADM3_PCODE": "UA6104039", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.48985622500004, 49.516572759000042 ], [ 25.481308, 49.519342 ], [ 25.479979, 49.526083 ], [ 25.47538, 49.526489 ], [ 25.473697001000062, 49.524404 ], [ 25.467018, 49.523723 ], [ 25.462435001000074, 49.526818 ], [ 25.462056, 49.526512 ], [ 25.469507, 49.518822 ], [ 25.476985, 49.518678 ], [ 25.485023386000023, 49.514525347000074 ], [ 25.486876424000059, 49.51457190800005 ], [ 25.48985622500004, 49.516572759000042 ] ] ] } }
-]
-}

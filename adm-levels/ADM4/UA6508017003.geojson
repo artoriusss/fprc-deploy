@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.050135443968499997, "Shape_Area": 0.00011579306302599999, "ADM4_EN": "Vilna Ukraina", "ADM4_UA": "Вільна Україна", "ADM4_PCODE": "UA6508017003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chulakivska", "ADM3_UA": "Чулаківська", "ADM3_PCODE": "UA6508017", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Скадовський", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.062476, 46.290076 ], [ 32.053552, 46.288739 ], [ 32.054888, 46.282511 ], [ 32.058221, 46.282866 ], [ 32.059682, 46.276633 ], [ 32.065099, 46.277276 ], [ 32.064414249000038, 46.281483 ], [ 32.067492, 46.282869 ], [ 32.066179, 46.288932 ], [ 32.062476, 46.290076 ] ] ] } }
-]
-}

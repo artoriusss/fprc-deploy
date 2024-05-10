@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.048355700256799999, "Shape_Area": 6.4441568686400002e-05, "ADM4_EN": "Fedorivka", "ADM4_UA": "Федорівка", "ADM4_PCODE": "UA4806009012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Koblivska", "ADM3_UA": "Коблівська", "ADM3_PCODE": "UA4806009", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.313195024000038, 46.753289558000063 ], [ 31.31066368300003, 46.751181494000036 ], [ 31.315725436000037, 46.746543453000072 ], [ 31.316663272000028, 46.74422472100008 ], [ 31.323283971000023, 46.740632730000073 ], [ 31.326418382000043, 46.74227331600008 ], [ 31.319972947000053, 46.745796657000028 ], [ 31.320945460000075, 46.747929255000031 ], [ 31.313195024000038, 46.753289558000063 ] ] ] } }
-]
-}

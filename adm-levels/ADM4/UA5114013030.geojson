@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.032265407457299999, "Shape_Area": 2.9846440155099998e-05, "ADM4_EN": "Miliardivka", "ADM4_UA": "Міліардівка", "ADM4_PCODE": "UA5114013030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozdilnianska", "ADM3_UA": "Роздільнянська", "ADM3_PCODE": "UA5114013", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.206435001000045, 46.754358 ], [ 30.204327999000043, 46.756562999000039 ], [ 30.203157001000079, 46.747769 ], [ 30.205216999000072, 46.746383 ], [ 30.206435001000045, 46.754358 ] ] ] } }
-]
-}

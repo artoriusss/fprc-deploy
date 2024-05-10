@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.059329994747500003, "Shape_Area": 0.00015656493622600001, "ADM4_EN": "Zhadany", "ADM4_UA": "Жадани", "ADM4_PCODE": "UA5308005020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dykanska", "ADM3_UA": "Диканська", "ADM3_PCODE": "UA5308005", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.380024, 49.88047 ], [ 34.374282, 49.87989 ], [ 34.368485, 49.876324 ], [ 34.369273494000026, 49.873426136000035 ], [ 34.373851868000031, 49.869842016000064 ], [ 34.384323, 49.864801 ], [ 34.38792748700007, 49.86723889600006 ], [ 34.388480753000067, 49.869691425000042 ], [ 34.380388636000077, 49.872626853000043 ], [ 34.382862451000051, 49.875224307000053 ], [ 34.380024, 49.88047 ] ] ] } }
-]
-}

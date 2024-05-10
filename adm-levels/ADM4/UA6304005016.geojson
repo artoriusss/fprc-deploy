@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0549890010419, "Shape_Area": 9.0653999624099995e-05, "ADM4_EN": "Iziumske", "ADM4_UA": "Ізюмське", "ADM4_PCODE": "UA6304005016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Borivska", "ADM3_UA": "Борівська", "ADM3_PCODE": "UA6304005", "ADM2_EN": "Iziumskyi", "ADM2_UA": "Ізюмський", "ADM2_PCODE": "UA6304", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.818102, 49.269176 ], [ 37.821295, 49.270819 ], [ 37.823368, 49.275068 ], [ 37.814696, 49.273726 ], [ 37.81540300100005, 49.271568 ], [ 37.810478, 49.268307 ], [ 37.809488, 49.264103 ], [ 37.820188, 49.262591 ], [ 37.82063, 49.266334 ], [ 37.818102, 49.269176 ] ] ] } }
-]
-}

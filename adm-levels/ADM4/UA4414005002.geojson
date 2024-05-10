@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.24403476421600001, "Shape_Area": 0.00030943789183800001, "ADM4_EN": "Bondarivka", "ADM4_UA": "Бондарівка", "ADM4_PCODE": "UA4414005002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Markivska", "ADM3_UA": "Марківська", "ADM3_PCODE": "UA4414005", "ADM2_EN": "Starobilskyi", "ADM2_UA": "Старобільський", "ADM2_PCODE": "UA4414", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.660553, 49.410073 ], [ 39.66015800100007, 49.410973 ], [ 39.642519001000039, 49.409033 ], [ 39.632959, 49.410967 ], [ 39.628532, 49.399728 ], [ 39.625329, 49.396772 ], [ 39.621575, 49.395412 ], [ 39.621367999000029, 49.39312 ], [ 39.633334, 49.388444 ], [ 39.637398999000027, 49.396018 ], [ 39.636626, 49.399997 ], [ 39.649837001000037, 49.404367 ], [ 39.654485, 49.401556 ], [ 39.661241001000064, 49.407904 ], [ 39.645428, 49.405953 ], [ 39.650787, 49.4092 ], [ 39.660553, 49.410073 ] ] ] } }
-]
-}

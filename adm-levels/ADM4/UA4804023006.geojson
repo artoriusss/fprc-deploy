@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.037747750140499997, "Shape_Area": 6.3680837012699995e-05, "ADM4_EN": "Vynohradnyi Sad", "ADM4_UA": "Виноградний Сад", "ADM4_PCODE": "UA4804023006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Prybuzka", "ADM3_UA": "Прибузька", "ADM3_PCODE": "UA4804023", "ADM2_EN": "Voznesenskyi", "ADM2_UA": "Вознесенський", "ADM2_PCODE": "UA4804", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.174310196000079, 47.763542536000045 ], [ 31.16864772100007, 47.764980106000053 ], [ 31.171937744000047, 47.754494962000081 ], [ 31.177752786000042, 47.754715973000032 ], [ 31.175582225000028, 47.762291975000039 ], [ 31.174310196000079, 47.763542536000045 ] ] ] } }
-]
-}

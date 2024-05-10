@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0418658780492, "Shape_Area": 6.03284778797e-05, "ADM4_EN": "Zaporizke", "ADM4_UA": "Запорізьке", "ADM4_PCODE": "UA4414013008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chmyrivska", "ADM3_UA": "Чмирівська", "ADM3_PCODE": "UA4414013", "ADM2_EN": "Starobilskyi", "ADM2_UA": "Старобільський", "ADM2_PCODE": "UA4414", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.96847, 49.313894 ], [ 38.962476001000027, 49.317125 ], [ 38.957370999000034, 49.317971 ], [ 38.955504, 49.311341 ], [ 38.966736500000025, 49.310468 ], [ 38.96847, 49.313894 ] ] ] } }
-]
-}

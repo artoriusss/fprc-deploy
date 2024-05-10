@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10148091885, "Shape_Area": 7.9843008813299999e-05, "ADM4_EN": "Ratyshchi", "ADM4_UA": "Ратищі", "ADM4_PCODE": "UA6104013013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zalozetska", "ADM3_UA": "Залозецька", "ADM3_PCODE": "UA6104013", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.304786001000025, 49.841125 ], [ 25.306271, 49.839177 ], [ 25.306339, 49.83409 ], [ 25.303503, 49.830625 ], [ 25.305512, 49.828766 ], [ 25.309385001000066, 49.830317 ], [ 25.310122001000025, 49.835367 ], [ 25.308404, 49.840124 ], [ 25.304786001000025, 49.841125 ] ] ] } }
-]
-}

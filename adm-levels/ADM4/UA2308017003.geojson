@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.063288228225300003, "Shape_Area": 0.00011744384916, "ADM4_EN": "Bratoliubivka", "ADM4_UA": "Братолюбівка", "ADM4_PCODE": "UA2308017003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novouspenivska", "ADM3_UA": "Новоуспенівська", "ADM3_PCODE": "UA2308017", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "Мелітопольський", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.047048596000025, 46.982728246000079 ], [ 35.049838022000074, 46.983431156000051 ], [ 35.048704610000073, 46.997944398000072 ], [ 35.041926725000053, 46.996630352000068 ], [ 35.044506123000076, 46.977506423000079 ], [ 35.050557104000063, 46.978378724000038 ], [ 35.05009063600005, 46.982270069000037 ], [ 35.047048596000025, 46.982728246000079 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.062148088108600001, "Shape_Area": 7.8842514093699999e-05, "ADM4_EN": "Fersmanove", "ADM4_UA": "Ферсманове", "ADM4_PCODE": "UA0116005011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dobrivska", "ADM3_UA": "Добрівська", "ADM3_PCODE": "UA0116005", "ADM2_EN": "Simferopolskyi", "ADM2_UA": "Сімферопольський", "ADM2_PCODE": "UA0116", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.18910500100003, 44.897245 ], [ 34.187471, 44.894822 ], [ 34.19344, 44.888785 ], [ 34.199392, 44.889434 ], [ 34.208331, 44.891712 ], [ 34.206474, 44.894911 ], [ 34.192825999000036, 44.893175 ], [ 34.18910500100003, 44.897245 ] ] ] } }
-]
-}

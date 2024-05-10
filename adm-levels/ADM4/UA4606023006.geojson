@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0587926440036, "Shape_Area": 0.00015447712141299999, "ADM4_EN": "Zvertiv", "ADM4_UA": "Звертів", "ADM4_PCODE": "UA4606023006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kulykivska", "ADM3_UA": "Куликівська", "ADM3_PCODE": "UA4606023", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.167581188000042, 49.993392006000079 ], [ 24.164587189000031, 49.99452500700005 ], [ 24.162162189000071, 49.986752007000064 ], [ 24.162183189000075, 49.981385007000029 ], [ 24.164098189000072, 49.980992007000054 ], [ 24.168696188000069, 49.984806007000032 ], [ 24.180248186000028, 49.986456007000072 ], [ 24.182479185000034, 49.990731007000079 ], [ 24.169373188000066, 49.993527006000079 ], [ 24.167581188000042, 49.993392006000079 ] ] ] } }
-]
-}

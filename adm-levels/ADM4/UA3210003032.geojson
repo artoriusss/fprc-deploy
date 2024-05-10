@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057288415040700001, "Shape_Area": 0.000114138011233, "ADM4_EN": "Tolokun", "ADM4_UA": "Толокунь", "ADM4_PCODE": "UA3210003032", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dymerska", "ADM3_UA": "Димерська", "ADM3_PCODE": "UA3210003", "ADM2_EN": "Vyshhorodskyi", "ADM2_UA": "Вишгородський", "ADM2_PCODE": "UA3210", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.438804765000043, 50.897116198000049 ], [ 30.44003874200007, 50.892157225000062 ], [ 30.432949743000052, 50.890807215000052 ], [ 30.430514742000071, 50.89216215600004 ], [ 30.426617748000069, 50.889344340000036 ], [ 30.434497559000079, 50.883430671000042 ], [ 30.441715781000028, 50.884968411000045 ], [ 30.445490129000063, 50.887368768000044 ], [ 30.438804765000043, 50.897116198000049 ] ] ] } }
-]
-}

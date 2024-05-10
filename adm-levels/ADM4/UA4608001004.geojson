@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.144319451525, "Shape_Area": 0.00010975075265399999, "ADM4_EN": "Bylychi", "ADM4_UA": "Биличі", "ADM4_PCODE": "UA4608001004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Biskovytska", "ADM3_UA": "Бісковицька", "ADM3_PCODE": "UA4608001", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.040451535000045, 49.617793021000068 ], [ 23.038339535000034, 49.614807021000047 ], [ 23.023489544000029, 49.615819022000039 ], [ 23.005624551000039, 49.614392021000072 ], [ 23.005111551000027, 49.61297802200005 ], [ 23.023531543000047, 49.61362702100007 ], [ 23.027157541000065, 49.61410802100005 ], [ 23.036995536000063, 49.61345902100004 ], [ 23.041901534000033, 49.615730021000047 ], [ 23.040451535000045, 49.617793021000068 ] ] ] } }
-]
-}

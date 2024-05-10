@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.052127253880200002, "Shape_Area": 5.3004865059599998e-05, "ADM4_EN": "Verkhutka", "ADM4_UA": "Верхутка", "ADM4_PCODE": "UA4614001007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivano-Frankivska", "ADM3_UA": "Івано-Франківська", "ADM3_PCODE": "UA4614001", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.788060272000052, 49.956871010000043 ], [ 23.78260427400005, 49.958952010000075 ], [ 23.77846527500003, 49.957136010000056 ], [ 23.778335275000074, 49.954300010000054 ], [ 23.788319272000024, 49.954175010000029 ], [ 23.788060272000052, 49.956871010000043 ] ] ] } }
-]
-}

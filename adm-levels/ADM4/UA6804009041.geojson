@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.086247735467100003, "Shape_Area": 0.0002670357003, "ADM4_EN": "Riabiivka", "ADM4_UA": "Рябіївка", "ADM4_PCODE": "UA6804009041", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Volochyska", "ADM3_UA": "Волочиська", "ADM3_PCODE": "UA6804009", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.416663, 49.579535 ], [ 26.412482999000076, 49.581429 ], [ 26.411599, 49.577338 ], [ 26.407196, 49.578009 ], [ 26.402039, 49.573557 ], [ 26.403360750000047, 49.56722725000003 ], [ 26.402727001000073, 49.563456 ], [ 26.405011, 49.560525 ], [ 26.41219, 49.561069 ], [ 26.414112499000055, 49.564813500000071 ], [ 26.416704, 49.563582 ], [ 26.421696001000043, 49.567719 ], [ 26.416663, 49.579535 ] ] ] } }
-]
-}

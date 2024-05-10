@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.067233105839099999, "Shape_Area": 0.000215710453347, "ADM4_EN": "Uhornyky", "ADM4_UA": "Угорники", "ADM4_PCODE": "UA2604019015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivano-Frankivska", "ADM3_UA": "Івано-Франківська", "ADM3_PCODE": "UA2604019", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.769550983000045, 48.92550454600007 ], [ 24.764304216000028, 48.928972347000069 ], [ 24.761161302000062, 48.928847529000052 ], [ 24.752498600000024, 48.921715006000056 ], [ 24.752763119000065, 48.915229771000043 ], [ 24.75746, 48.912554 ], [ 24.763519724000048, 48.911766459000035 ], [ 24.767524595000054, 48.916574396000044 ], [ 24.769550983000045, 48.92550454600007 ] ] ] } }
-]
-}

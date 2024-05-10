@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.032931515869300002, "Shape_Area": 6.2144700355099998e-05, "ADM4_EN": "Ashanivka", "ADM4_UA": "Ашанівка", "ADM4_PCODE": "UA7104001004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykokhutirska", "ADM3_UA": "Великохутірська", "ADM3_PCODE": "UA7104001", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.069517284000028, 49.809534964000079 ], [ 32.071255, 49.817814 ], [ 32.064783, 49.819694 ], [ 32.061148133000074, 49.815787567000029 ], [ 32.067782998000041, 49.809749 ], [ 32.069517284000028, 49.809534964000079 ] ] ] } }
-]
-}

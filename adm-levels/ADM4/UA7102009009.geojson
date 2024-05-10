@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.107045431435, "Shape_Area": 0.00021378992837899999, "ADM4_EN": "Stara Buda", "ADM4_UA": "Стара Буда", "ADM4_PCODE": "UA7102009009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vodianytska", "ADM3_UA": "Водяницька", "ADM3_PCODE": "UA7102009", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.813663, 49.157419 ], [ 30.813018, 49.154129 ], [ 30.80758699900008, 49.152388 ], [ 30.80950400100005, 49.146499 ], [ 30.811779999000066, 49.144819 ], [ 30.82258, 49.142883 ], [ 30.829715, 49.137198 ], [ 30.831814, 49.140225 ], [ 30.830192, 49.143488 ], [ 30.827077, 49.144288 ], [ 30.826650999000037, 49.148767 ], [ 30.822026, 49.150272 ], [ 30.824298, 49.15648 ], [ 30.822395001000075, 49.156802 ], [ 30.814801, 49.154423 ], [ 30.813663, 49.157419 ] ] ] } }
-]
-}

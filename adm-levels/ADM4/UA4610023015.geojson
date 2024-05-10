@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.059975077243800003, "Shape_Area": 6.6840028517300003e-05, "ADM4_EN": "Zahirne", "ADM4_UA": "Загірне", "ADM4_PCODE": "UA4610023015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stryiska", "ADM3_UA": "Стрийська", "ADM3_PCODE": "UA4610023", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.968903221000062, 49.279813008000076 ], [ 23.967853222000031, 49.277441008000039 ], [ 23.97827421900007, 49.272856008000076 ], [ 23.986837217000073, 49.277494008000076 ], [ 23.981828218000032, 49.278706008000029 ], [ 23.976254220000044, 49.27622900800003 ], [ 23.968903221000062, 49.279813008000076 ] ] ] } }
-]
-}

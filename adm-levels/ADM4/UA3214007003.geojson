@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.058204743453400001, "Shape_Area": 0.000105940049757, "ADM4_EN": "Borysiv", "ADM4_UA": "Борисів", "ADM4_PCODE": "UA3214007003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hlevakhivska", "ADM3_UA": "Глевахівська", "ADM3_PCODE": "UA3214007", "ADM2_EN": "Fastivskyi", "ADM2_UA": "Фастівський", "ADM2_PCODE": "UA3214", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.350957895000079, 50.209280081000031 ], [ 30.35068988200004, 50.21360005400004 ], [ 30.344752891000041, 50.217564065000033 ], [ 30.342727889000059, 50.213019059000032 ], [ 30.339473866000048, 50.213091051000049 ], [ 30.33690886200003, 50.207207069000049 ], [ 30.34196492600006, 50.205819078000047 ], [ 30.351362922000078, 50.206429124000067 ], [ 30.350957895000079, 50.209280081000031 ] ] ] } }
-]
-}

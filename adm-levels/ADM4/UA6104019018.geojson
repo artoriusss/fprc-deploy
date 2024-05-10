@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.055974566333399998, "Shape_Area": 0.000107606610929, "ADM4_EN": "Semykivtsi", "ADM4_UA": "Семиківці", "ADM4_PCODE": "UA6104019018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zolotnykivska", "ADM3_UA": "Золотниківська", "ADM3_PCODE": "UA6104019", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.372118, 49.382425 ], [ 25.36795599900006, 49.377721 ], [ 25.364301, 49.37846 ], [ 25.358516077000047, 49.369281213000079 ], [ 25.364599, 49.367674 ], [ 25.369312, 49.372775 ], [ 25.373383500000045, 49.375349 ], [ 25.37434, 49.382343 ], [ 25.372118, 49.382425 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0899174908183, "Shape_Area": 0.00023949570543499999, "ADM4_EN": "Orestopil", "ADM4_UA": "Орестопіль", "ADM4_PCODE": "UA1214005011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykomykhailivska", "ADM3_UA": "Великомихайлівська", "ADM3_PCODE": "UA1214005", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.464956, 47.957585 ], [ 36.460038001000044, 47.962722 ], [ 36.447362, 47.959183 ], [ 36.436440999000069, 47.955398 ], [ 36.442627001000062, 47.947567 ], [ 36.454497, 47.948386 ], [ 36.453111999000043, 47.955849 ], [ 36.458196999000052, 47.957277 ], [ 36.463843, 47.953643 ], [ 36.464198999000075, 47.951519 ], [ 36.469468999000071, 47.952437 ], [ 36.468821, 47.955419 ], [ 36.464956, 47.957585 ] ] ] } }
-]
-}

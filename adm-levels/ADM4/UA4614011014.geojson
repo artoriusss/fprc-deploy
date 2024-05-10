@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.04554052273, "Shape_Area": 7.7825127938099996e-05, "ADM4_EN": "Vovcha Hora", "ADM4_UA": "Вовча Гора", "ADM4_PCODE": "UA4614011014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yavorivska", "ADM3_UA": "Яворівська", "ADM3_PCODE": "UA4614011", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.234809, 50.002713 ], [ 23.230615614000044, 50.005082167000069 ], [ 23.225281472000063, 50.005821514000047 ], [ 23.224670723000031, 50.002476954000031 ], [ 23.221897204000072, 50.000475369000071 ], [ 23.230815860000064, 49.999038914000039 ], [ 23.237476748000063, 49.996694196000078 ], [ 23.234809, 50.002713 ] ] ] } }
-]
-}

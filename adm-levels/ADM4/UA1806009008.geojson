@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.080917338688499998, "Shape_Area": 0.00014016335481199999, "ADM4_EN": "Velykyi Lis", "ADM4_UA": "Великий Ліс", "ADM4_PCODE": "UA1806009008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Korostenska", "ADM3_UA": "Коростенська", "ADM3_PCODE": "UA1806009", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.018242631000078, 50.970916048000049 ], [ 29.014685071000031, 50.97054696400005 ], [ 29.011488808000024, 50.968076263000057 ], [ 29.01746829800004, 50.964814638000064 ], [ 29.016752041000075, 50.96187 ], [ 29.027968047000059, 50.959459600000059 ], [ 29.036937265000063, 50.962198241000067 ], [ 29.032121514000039, 50.966266302000065 ], [ 29.02782565900003, 50.964145936000079 ], [ 29.018242631000078, 50.970916048000049 ] ] ] } }
-]
-}

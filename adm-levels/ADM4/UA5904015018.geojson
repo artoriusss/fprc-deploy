@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.084579652278599995, "Shape_Area": 0.000150589158294, "ADM4_EN": "Lutyshche", "ADM4_UA": "Лутище", "ADM4_PCODE": "UA5904015018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chernechchynska", "ADM3_UA": "Чернеччинська", "ADM3_PCODE": "UA5904015", "ADM2_EN": "Okhtyrskyi", "ADM2_UA": "Охтирський", "ADM2_PCODE": "UA5904", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.744922, 50.194702 ], [ 34.740248, 50.195554 ], [ 34.740316, 50.191075 ], [ 34.749612, 50.190151 ], [ 34.751599, 50.188326 ], [ 34.757991, 50.190018 ], [ 34.75938, 50.184116 ], [ 34.761319001000061, 50.18251 ], [ 34.767893, 50.187748 ], [ 34.765612, 50.190633 ], [ 34.762466999000026, 50.189623 ], [ 34.760217, 50.193377 ], [ 34.753196999000068, 50.194822001000034 ], [ 34.744922, 50.194702 ] ] ] } }
-]
-}

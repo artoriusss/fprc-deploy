@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0152284552396, "Shape_Area": 8.0465431335199999e-06, "ADM4_EN": "Enerhetykiv", "ADM4_UA": "Енергетиків", "ADM4_PCODE": "UA6310003034", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Blyzniukivska", "ADM3_UA": "Близнюківська", "ADM3_PCODE": "UA6310003", "ADM2_EN": "Lozivskyi", "ADM2_UA": "Лозівський", "ADM2_PCODE": "UA6310", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.687414758000045, 48.817679246000068 ], [ 36.687018807000072, 48.819809568000039 ], [ 36.683913001000064, 48.821409 ], [ 36.682578, 48.820349 ], [ 36.687414758000045, 48.817679246000068 ] ] ] } }
-]
-}

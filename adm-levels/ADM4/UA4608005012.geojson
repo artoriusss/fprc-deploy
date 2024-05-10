@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.079248126442899997, "Shape_Area": 9.3285090748000001e-05, "ADM4_EN": "Hubychi", "ADM4_UA": "Губичі", "ADM4_PCODE": "UA4608005012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dobromylska", "ADM3_UA": "Добромильська", "ADM3_PCODE": "UA4608005", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.767554680000046, 49.616904027000032 ], [ 22.772316677000049, 49.608658027000047 ], [ 22.779975673000024, 49.607582027000035 ], [ 22.784922669000025, 49.609128027000054 ], [ 22.783822671000053, 49.61273202700005 ], [ 22.779575673000068, 49.611975027000028 ], [ 22.773365676000026, 49.613824027000078 ], [ 22.773289676000047, 49.615997027000049 ], [ 22.767554680000046, 49.616904027000032 ] ] ] } }
-]
-}

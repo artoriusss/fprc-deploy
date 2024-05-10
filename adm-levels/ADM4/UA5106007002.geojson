@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.101382938095, "Shape_Area": 0.00028420544650599997, "ADM4_EN": "Bannivka", "ADM4_UA": "Баннівка", "ADM4_PCODE": "UA5106007002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vasylivska", "ADM3_UA": "Василівська", "ADM3_PCODE": "UA5106007", "ADM2_EN": "Bolhradskyi", "ADM2_UA": "Болградський", "ADM2_PCODE": "UA5106", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.917753, 45.695998 ], [ 28.91732, 45.699914 ], [ 28.912922, 45.699639 ], [ 28.915466, 45.689417 ], [ 28.909021999000061, 45.68866 ], [ 28.911416, 45.682385 ], [ 28.918895999000028, 45.684859 ], [ 28.922651, 45.679033 ], [ 28.925644999000042, 45.67811 ], [ 28.929048, 45.6735 ], [ 28.932724, 45.674529 ], [ 28.928408001000037, 45.681879 ], [ 28.929828, 45.686674 ], [ 28.925221, 45.694178 ], [ 28.922130001000028, 45.696001 ], [ 28.917753, 45.695998 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.092226475128299998, "Shape_Area": 7.2926231431499994e-05, "ADM4_EN": "Myslyni", "ADM4_UA": "Мислині", "ADM4_PCODE": "UA0708007022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horokhivska", "ADM3_UA": "Горохівська", "ADM3_PCODE": "UA0708007", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.962341084000059, 50.48859400300006 ], [ 24.957722085000057, 50.491717003000076 ], [ 24.953253085000028, 50.484314003000065 ], [ 24.952559085000075, 50.479550003000043 ], [ 24.959541084000023, 50.473268003000044 ], [ 24.960412084000041, 50.475155003000054 ], [ 24.954681086000051, 50.483991003000028 ], [ 24.962341084000059, 50.48859400300006 ] ] ] } }
-]
-}

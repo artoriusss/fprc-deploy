@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.058118552694700003, "Shape_Area": 7.75235062105e-05, "ADM4_EN": "Hryshky", "ADM4_UA": "Гришки", "ADM4_PCODE": "UA5308009015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zinkivska", "ADM3_UA": "Зіньківська", "ADM3_PCODE": "UA5308009", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.217712661000064, 50.065988398000059 ], [ 34.213373900000079, 50.06368731200007 ], [ 34.216607159000034, 50.058894627000029 ], [ 34.22008801000004, 50.061824257000069 ], [ 34.225366646000055, 50.062303926000027 ], [ 34.228060258000028, 50.060510054000076 ], [ 34.231522862000077, 50.064748188000067 ], [ 34.226966684000047, 50.066647576000037 ], [ 34.22429139500008, 50.064188294000076 ], [ 34.217712661000064, 50.065988398000059 ] ] ] } }
-]
-}

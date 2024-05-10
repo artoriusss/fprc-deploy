@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.075221549096500001, "Shape_Area": 3.2390822947200003e-05, "ADM4_EN": "Zahai", "ADM4_UA": "Загаї", "ADM4_PCODE": "UA0708005009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodyshchenska", "ADM3_UA": "Городищенська", "ADM3_PCODE": "UA0708005", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.064921075000029, 50.608343002000026 ], [ 25.059715077000078, 50.60742500200007 ], [ 25.052293077000058, 50.608779003000052 ], [ 25.05180907700003, 50.607884003000038 ], [ 25.057618077000029, 50.606585002000031 ], [ 25.060498075000055, 50.606827002000045 ], [ 25.064921075000029, 50.608343002000026 ] ] ] } }
-]
-}

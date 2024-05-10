@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.036769956748600001, "Shape_Area": 4.8115438965499999e-05, "ADM4_EN": "Kachmari", "ADM4_UA": "Качмарі", "ADM4_PCODE": "UA4614003018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mostyska", "ADM3_UA": "Мостиська", "ADM3_PCODE": "UA4614003", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.18524747500004, 49.868085019000034 ], [ 23.184727476000035, 49.864073019000045 ], [ 23.189137475000052, 49.863721018000035 ], [ 23.19550447000006, 49.866097018000062 ], [ 23.193908472000032, 49.868445018000045 ], [ 23.18524747500004, 49.868085019000034 ] ] ] } }
-]
-}

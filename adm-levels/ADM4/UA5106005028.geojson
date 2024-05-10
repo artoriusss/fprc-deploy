@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.031940628370299998, "Shape_Area": 5.1525984411700002e-05, "ADM4_EN": "Pidhirne", "ADM4_UA": "Підгірне", "ADM4_PCODE": "UA5106005028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Borodinska", "ADM3_UA": "Бородінська", "ADM3_PCODE": "UA5106005", "ADM2_EN": "Bolhradskyi", "ADM2_UA": "Болградський", "ADM2_PCODE": "UA5106", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.126375, 46.445977 ], [ 29.129299, 46.435913 ], [ 29.13438, 46.43661 ], [ 29.132301, 46.441587 ], [ 29.131736, 46.446164 ], [ 29.126375, 46.445977 ] ] ] } }
-]
-}

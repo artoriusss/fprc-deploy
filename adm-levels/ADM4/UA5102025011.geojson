@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.093820245964000001, "Shape_Area": 0.000105362905759, "ADM4_EN": "Novoandriivka", "ADM4_UA": "Новоандріївка", "ADM4_PCODE": "UA5102025011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Staromaiakivska", "ADM3_UA": "Старомаяківська", "ADM3_PCODE": "UA5102025", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.370245, 47.444973 ], [ 30.372716, 47.43951 ], [ 30.38355, 47.438213 ], [ 30.386547001000054, 47.435782 ], [ 30.383296999000038, 47.432049 ], [ 30.391791001000058, 47.43019 ], [ 30.396243, 47.432005 ], [ 30.391134001000069, 47.436482 ], [ 30.387908, 47.435979 ], [ 30.384217, 47.439366 ], [ 30.374473999000031, 47.443991 ], [ 30.370245, 47.444973 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.071995507872900003, "Shape_Area": 8.1932903994600003e-05, "ADM4_EN": "Sytne", "ADM4_UA": "Ситне", "ADM4_PCODE": "UA1808013062", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yemilchynska", "ADM3_UA": "Ємільчинська", "ADM3_PCODE": "UA1808013", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.446315039000069, 50.838855030000047 ], [ 27.456894001000023, 50.843698020000033 ], [ 27.439000920000069, 50.839504020000049 ], [ 27.429327001000047, 50.836447980000059 ], [ 27.430508881000037, 50.834595961000048 ], [ 27.43989011900004, 50.837055030000045 ], [ 27.441315, 50.83514703000003 ], [ 27.447453, 50.836980960000062 ], [ 27.446315039000069, 50.838855030000047 ] ] ] } }
-]
-}

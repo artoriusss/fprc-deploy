@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.029781950650299999, "Shape_Area": 4.9904637561300001e-05, "ADM4_EN": "Ivanivka", "ADM4_UA": "Іванівка", "ADM4_PCODE": "UA5306003012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykobahachanska", "ADM3_UA": "Великобагачанська", "ADM3_PCODE": "UA5306003", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.517873158000043, 49.608741495000061 ], [ 33.520612004000043, 49.60992316100004 ], [ 33.517375035000043, 49.615905510000061 ], [ 33.513312, 49.615238 ], [ 33.510800959000051, 49.612819842000079 ], [ 33.512002540000026, 49.608649134000075 ], [ 33.517873158000043, 49.608741495000061 ] ] ] } }
-]
-}

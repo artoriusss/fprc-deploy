@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.071977917215099996, "Shape_Area": 0.00017484889693599999, "ADM4_EN": "Maksyma Horkoho", "ADM4_UA": "Максима Горького", "ADM4_PCODE": "UA6508007006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kalanchatska", "ADM3_UA": "Каланчацька", "ADM3_PCODE": "UA6508007", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Скадовський", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.291131999000072, 46.141091 ], [ 33.279421, 46.139947 ], [ 33.277718103000041, 46.133176012000035 ], [ 33.28189360600004, 46.133641480000051 ], [ 33.299506, 46.126497001000075 ], [ 33.304808, 46.132987 ], [ 33.302986999000041, 46.133814 ], [ 33.295978999000056, 46.132859 ], [ 33.292491, 46.134955 ], [ 33.291131999000072, 46.141091 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.093793592497999997, "Shape_Area": 0.00016094641233099999, "ADM4_EN": "Yarove", "ADM4_UA": "Ярове", "ADM4_PCODE": "UA0510017024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shpykivska", "ADM3_UA": "Шпиківська", "ADM3_PCODE": "UA0510017", "ADM2_EN": "Tulchynskyi", "ADM2_UA": "Тульчинський", "ADM2_PCODE": "UA0510", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.504035999000052, 48.695272 ], [ 28.501118, 48.694415 ], [ 28.498387999000045, 48.691262 ], [ 28.493997, 48.689674 ], [ 28.489912, 48.68497 ], [ 28.492979, 48.682932 ], [ 28.495989999000074, 48.685716 ], [ 28.50465500100006, 48.684551 ], [ 28.508998999000028, 48.678015 ], [ 28.511473, 48.679905 ], [ 28.514091001000054, 48.685707 ], [ 28.51013, 48.687737 ], [ 28.502784, 48.693361 ], [ 28.504035999000052, 48.695272 ] ] ] } }
-]
-}

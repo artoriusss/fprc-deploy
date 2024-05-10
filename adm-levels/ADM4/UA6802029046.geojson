@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10355025330299999, "Shape_Area": 0.000168738865309, "ADM4_EN": "Yampilchyk", "ADM4_UA": "Ямпільчик", "ADM4_PCODE": "UA6802029046", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chemerovetska", "ADM3_UA": "Чемеровецька", "ADM3_PCODE": "UA6802029", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.385227001000032, 49.011045 ], [ 26.383665, 49.008233 ], [ 26.38655299900006, 49.003431 ], [ 26.395043, 49.002484 ], [ 26.397641, 48.999841 ], [ 26.402268001000039, 49.003997 ], [ 26.40958499900006, 49.001815 ], [ 26.414591, 48.998405 ], [ 26.420524686000078, 49.003227051000067 ], [ 26.413353001000075, 49.006796 ], [ 26.41018, 49.003901 ], [ 26.397027, 49.006852 ], [ 26.389794, 49.010504 ], [ 26.385227001000032, 49.011045 ] ] ] } }
-]
-}

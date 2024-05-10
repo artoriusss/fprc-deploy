@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.102851016437, "Shape_Area": 0.000295025897811, "ADM4_EN": "Nadiiv", "ADM4_UA": "Надіїв", "ADM4_PCODE": "UA2606013012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dolynska", "ADM3_UA": "Долинська", "ADM3_PCODE": "UA2606013", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.076192, 49.005987 ], [ 24.073971999000037, 49.007823 ], [ 24.069771, 49.007861 ], [ 24.066033, 49.005829 ], [ 24.071275999000022, 48.999869 ], [ 24.074133999000026, 48.99492 ], [ 24.066094, 48.992793 ], [ 24.067647, 48.990797 ], [ 24.072025, 48.991306 ], [ 24.076076, 48.989798 ], [ 24.079777001000025, 48.990276 ], [ 24.082703001000027, 48.994528 ], [ 24.091759, 48.995372 ], [ 24.087428, 49.007116 ], [ 24.081386999000074, 49.007499999000061 ], [ 24.076192, 49.005987 ] ] ] } }
-]
-}

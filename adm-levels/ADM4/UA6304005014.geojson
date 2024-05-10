@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.18246724969399999, "Shape_Area": 0.000249387637664, "ADM4_EN": "Zahryzove", "ADM4_UA": "Загризове", "ADM4_PCODE": "UA6304005014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Borivska", "ADM3_UA": "Борівська", "ADM3_PCODE": "UA6304005", "ADM2_EN": "Iziumskyi", "ADM2_UA": "Ізюмський", "ADM2_PCODE": "UA6304", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.712265001000048, 49.5131 ], [ 37.709634, 49.508674 ], [ 37.702893, 49.502476 ], [ 37.704927001000044, 49.499925 ], [ 37.712243, 49.500154 ], [ 37.72205, 49.503596 ], [ 37.726443, 49.508222 ], [ 37.723442, 49.509843 ], [ 37.722781, 49.515766 ], [ 37.718232393000051, 49.516115369000033 ], [ 37.712265001000048, 49.5131 ] ] ] } }
-]
-}

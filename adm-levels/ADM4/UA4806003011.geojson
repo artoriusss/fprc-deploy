@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.037382124236799999, "Shape_Area": 3.7515366563800001e-05, "ADM4_EN": "Podymove", "ADM4_UA": "Подимове", "ADM4_PCODE": "UA4806003011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vesnianska", "ADM3_UA": "Веснянська", "ADM3_PCODE": "UA4806003", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.797235641000043, 46.950904930000036 ], [ 31.798684855000033, 46.955104228000039 ], [ 31.791063802000053, 46.95456703900004 ], [ 31.791280163000067, 46.951441971000065 ], [ 31.797235641000043, 46.950904930000036 ] ] ] } }
-]
-}

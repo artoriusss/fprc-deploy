@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057398576593099999, "Shape_Area": 8.3942834603399998e-05, "ADM4_EN": "Buriany", "ADM4_UA": "Бур'яни", "ADM4_PCODE": "UA0504003008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Haisynska", "ADM3_UA": "Гайсинська", "ADM3_PCODE": "UA0504003", "ADM2_EN": "Haisynskyi", "ADM2_UA": "Гайсинський", "ADM2_PCODE": "UA0504", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.480868998000062, 48.665314999000032 ], [ 29.485537330000056, 48.668671667000069 ], [ 29.488226710000049, 48.671991958000035 ], [ 29.494460435000065, 48.67408912500008 ], [ 29.492357150000032, 48.676212805000034 ], [ 29.486848, 48.675105 ], [ 29.480018721000079, 48.671446947000049 ], [ 29.480868998000062, 48.665314999000032 ] ] ] } }
-]
-}

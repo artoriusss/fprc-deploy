@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.076411534338099996, "Shape_Area": 6.53356508122e-05, "ADM4_EN": "Tvorynychi", "ADM4_UA": "Твориничі", "ADM4_PCODE": "UA0702011026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lokachynska", "ADM3_UA": "Локачинська", "ADM3_PCODE": "UA0702011", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.693784114000039, 50.714084003000039 ], [ 24.681098115000054, 50.717354004000072 ], [ 24.680127115000062, 50.715454003000048 ], [ 24.69383711200004, 50.712038003000032 ], [ 24.692690114000072, 50.706880004000027 ], [ 24.695270115000028, 50.706556004000049 ], [ 24.696274113000072, 50.711402004000036 ], [ 24.693784114000039, 50.714084003000039 ] ] ] } }
-]
-}

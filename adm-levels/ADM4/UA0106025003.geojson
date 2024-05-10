@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0303464842127, "Shape_Area": 4.5215653092199997e-05, "ADM4_EN": "Komsomolske", "ADM4_UA": "Комсомольське", "ADM4_PCODE": "UA0106025003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Maslivska", "ADM3_UA": "Маслівська", "ADM3_PCODE": "UA0106025", "ADM2_EN": "Dzhankoiskyi", "ADM2_UA": "Джанкойський", "ADM2_PCODE": "UA0106", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.394066403000068, 45.779541908000056 ], [ 34.390545366000026, 45.778818486000034 ], [ 34.391061273000048, 45.773449406000054 ], [ 34.399217713000041, 45.773536654000054 ], [ 34.399130425000067, 45.777238976000035 ], [ 34.394066403000068, 45.779541908000056 ] ] ] } }
-]
-}

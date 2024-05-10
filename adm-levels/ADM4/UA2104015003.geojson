@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.053150700217699999, "Shape_Area": 8.2881761066599995e-05, "ADM4_EN": "Horbok", "ADM4_UA": "Горбок", "ADM4_PCODE": "UA2104015003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mukachivska", "ADM3_UA": "Мукачівська", "ADM3_PCODE": "UA2104015", "ADM2_EN": "Mukachivskyi", "ADM2_UA": "Мукачівський", "ADM2_PCODE": "UA2104", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.868941582000048, 48.306025025000054 ], [ 22.875367579000056, 48.307554024000069 ], [ 22.879599577000079, 48.315522024000074 ], [ 22.875343580000049, 48.321373024000081 ], [ 22.870748582000033, 48.320546025000056 ], [ 22.870558582000058, 48.318421025000077 ], [ 22.873424580000062, 48.311765024000067 ], [ 22.868941582000048, 48.306025025000054 ] ] ] } }
-]
-}

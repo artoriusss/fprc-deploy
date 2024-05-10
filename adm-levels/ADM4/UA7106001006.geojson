@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.125829206444, "Shape_Area": 0.00025906749784, "ADM4_EN": "Korzhova", "ADM4_UA": "Коржова", "ADM4_PCODE": "UA7106001006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Babanska", "ADM3_UA": "Бабанська", "ADM3_PCODE": "UA7106001", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 30.403726999000071, 48.655103 ], [ 30.38603, 48.654393 ], [ 30.396995, 48.651615 ], [ 30.407162001000074, 48.639643 ], [ 30.415802, 48.639725 ], [ 30.41831, 48.644084 ], [ 30.423321, 48.643084 ], [ 30.425103, 48.647164 ], [ 30.421598, 48.64738 ], [ 30.415895, 48.645257 ], [ 30.410482999000067, 48.652247 ], [ 30.403726999000071, 48.655103 ] ] ], [ [ [ 30.425255782000079, 48.653044506000072 ], [ 30.420626, 48.653576 ], [ 30.421793001000026, 48.649371 ], [ 30.425255782000079, 48.653044506000072 ] ] ] ] } }
-]
-}

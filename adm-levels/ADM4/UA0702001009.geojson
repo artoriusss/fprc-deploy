@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.080446495685099997, "Shape_Area": 7.6523772307099999e-05, "ADM4_EN": "Fedorivka", "ADM4_UA": "Федорівка", "ADM4_PCODE": "UA0702001009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Volodymyr-Volynska", "ADM3_UA": "Володимир-Волинська", "ADM3_PCODE": "UA0702001", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.287826438000025, 50.856003173000033 ], [ 24.287077173000057, 50.85367900600005 ], [ 24.275647176000064, 50.853181006000057 ], [ 24.265205178000031, 50.853314006000062 ], [ 24.265197178000051, 50.851309006000065 ], [ 24.28724117400003, 50.851895006000063 ], [ 24.293334316000028, 50.850899393000077 ], [ 24.293951623000055, 50.853156340000055 ], [ 24.287826438000025, 50.856003173000033 ] ] ] } }
-]
-}

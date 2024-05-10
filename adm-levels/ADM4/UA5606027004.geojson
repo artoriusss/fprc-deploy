@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.098523941364699996, "Shape_Area": 0.000259190260074, "ADM4_EN": "Hrabiv", "ADM4_UA": "Грабів", "ADM4_PCODE": "UA5606027004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zorianska", "ADM3_UA": "Зорянська", "ADM3_PCODE": "UA5606027", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.095108500000038, 50.731080975000054 ], [ 26.093312281000067, 50.725042290000033 ], [ 26.100412199000061, 50.723969580000073 ], [ 26.09637639500005, 50.717723137000064 ], [ 26.098415, 50.716634001000045 ], [ 26.111596293000048, 50.713747371000068 ], [ 26.115100400000074, 50.710993759000075 ], [ 26.11630512000005, 50.723956980000025 ], [ 26.115527160000056, 50.726067030000081 ], [ 26.097361921000072, 50.728743 ], [ 26.095108500000038, 50.731080975000054 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.087004879748400002, "Shape_Area": 0.00010157006799, "ADM4_EN": "Marianivka", "ADM4_UA": "Мар'янівка", "ADM4_PCODE": "UA1804045026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Radomyshlska", "ADM3_UA": "Радомишльська", "ADM3_PCODE": "UA1804045", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.238927840000031, 50.447382030000028 ], [ 29.236006079000049, 50.45070996000004 ], [ 29.233470960000034, 50.446299960000033 ], [ 29.233914839000079, 50.433506010000031 ], [ 29.239099919000068, 50.429768040000056 ], [ 29.23808796000003, 50.439419010000051 ], [ 29.238927840000031, 50.447382030000028 ] ] ] } }
-]
-}

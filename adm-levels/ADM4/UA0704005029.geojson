@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0534105967559, "Shape_Area": 4.0006633820900003e-05, "ADM4_EN": "Severynivka", "ADM4_UA": "Северинівка", "ADM4_PCODE": "UA0704005029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Manevytska", "ADM3_UA": "Маневицька", "ADM3_PCODE": "UA0704005", "ADM2_EN": "Kamin-Kashyrskyi", "ADM2_UA": "Камінь-Каширський", "ADM2_PCODE": "UA0704", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.62886104200004, 51.252536001000067 ], [ 25.615180043000066, 51.251443001000041 ], [ 25.616007041000046, 51.249625001000027 ], [ 25.630320041000061, 51.250398001000065 ], [ 25.62886104200004, 51.252536001000067 ] ] ] } }
-]
-}

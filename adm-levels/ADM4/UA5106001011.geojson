@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.071662350345799999, "Shape_Area": 0.00025498151096699998, "ADM4_EN": "Priamobalka", "ADM4_UA": "Прямобалка", "ADM4_PCODE": "UA5106001011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Artsyzka", "ADM3_UA": "Арцизька", "ADM3_PCODE": "UA5106001", "ADM2_EN": "Bolhradskyi", "ADM2_UA": "Болградський", "ADM2_PCODE": "UA5106", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.309256, 45.902165 ], [ 29.305816, 45.901874 ], [ 29.304963, 45.897971 ], [ 29.291836001000036, 45.898658 ], [ 29.290011, 45.887048 ], [ 29.292226001000074, 45.883731 ], [ 29.297928999000078, 45.882166 ], [ 29.304007, 45.88546 ], [ 29.305371, 45.889059 ], [ 29.307911999000055, 45.88962 ], [ 29.309446, 45.898022 ], [ 29.309256, 45.902165 ] ] ] } }
-]
-}

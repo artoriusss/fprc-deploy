@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.16337488096399999, "Shape_Area": 0.00080484573223199996, "ADM4_EN": "Marianivka", "ADM4_UA": "Мар'янівка", "ADM4_PCODE": "UA7102033013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shpolianska", "ADM3_UA": "Шполянська", "ADM3_PCODE": "UA7102033", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.503104794000024, 49.021728418000066 ], [ 31.49737409800008, 49.022147389000054 ], [ 31.495717647000049, 49.027912478000076 ], [ 31.478229999000064, 49.024771 ], [ 31.470088, 49.029192 ], [ 31.465366, 49.025528 ], [ 31.459873999000024, 49.02737 ], [ 31.444342, 49.017868 ], [ 31.446731001000046, 49.009629 ], [ 31.447087, 49.004917 ], [ 31.493815, 49.015499 ], [ 31.502974, 49.019195 ], [ 31.503104794000024, 49.021728418000066 ] ] ] } }
-]
-}

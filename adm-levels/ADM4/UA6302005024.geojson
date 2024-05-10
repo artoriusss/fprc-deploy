@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060684885866000002, "Shape_Area": 4.9694815681599998e-05, "ADM4_EN": "Kovali", "ADM4_UA": "Ковалі", "ADM4_PCODE": "UA6302005024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zolochivska", "ADM3_UA": "Золочівська", "ADM3_PCODE": "UA6302005", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "Богодухівський", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.923263, 50.343014 ], [ 35.920842999000058, 50.344947 ], [ 35.91791, 50.342904 ], [ 35.910328, 50.343434 ], [ 35.909869001000061, 50.339784 ], [ 35.914431, 50.338334 ], [ 35.919239, 50.338388 ], [ 35.919049001000076, 50.341241 ], [ 35.923263, 50.343014 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060289445888899999, "Shape_Area": 5.9785338423899999e-05, "ADM4_EN": "Matskove", "ADM4_UA": "Мацкове", "ADM4_PCODE": "UA5910003013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hlukhivska", "ADM3_UA": "Глухівська", "ADM3_PCODE": "UA5910003", "ADM2_EN": "Shostkynskyi", "ADM2_UA": "Шосткинський", "ADM2_PCODE": "UA5910", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.884084005000034, 51.477280588000042 ], [ 33.888874, 51.478912 ], [ 33.89439, 51.47933 ], [ 33.902848, 51.478572 ], [ 33.903726, 51.482807 ], [ 33.896335, 51.48333 ], [ 33.892776, 51.480705 ], [ 33.886335999000039, 51.480141 ], [ 33.884084005000034, 51.477280588000042 ] ] ] } }
-]
-}

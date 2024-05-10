@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.063598842778900003, "Shape_Area": 0.000154039230022, "ADM4_EN": "Lavrove", "ADM4_UA": "Лаврове", "ADM4_PCODE": "UA0120017005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Malomaiatska", "ADM3_UA": "Маломаяцька", "ADM3_PCODE": "UA0120017", "ADM2_EN": "Yaltynskyi", "ADM2_UA": "Ялтинський", "ADM2_PCODE": "UA0120", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.329287454000053, 44.572233646000029 ], [ 34.332441417000041, 44.574373603000026 ], [ 34.334010610000064, 44.577709042000038 ], [ 34.330444498000077, 44.579198996000059 ], [ 34.320968460000074, 44.580263683000055 ], [ 34.31096038000004, 44.572602352000047 ], [ 34.316043247000039, 44.569468088000065 ], [ 34.324411636000036, 44.570322451000038 ], [ 34.329287454000053, 44.572233646000029 ] ] ] } }
-]
-}

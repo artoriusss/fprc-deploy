@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.033113131751800001, "Shape_Area": 4.1548604718200003e-05, "ADM4_EN": "Bohdanivka", "ADM4_UA": "Богданівка", "ADM4_PCODE": "UA4402005018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kadiivska", "ADM3_UA": "Кадіївська", "ADM3_PCODE": "UA4402005", "ADM2_EN": "Alchevskyi", "ADM2_UA": "Алчевський", "ADM2_PCODE": "UA4402", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.727701692000039, 48.600308172000041 ], [ 38.730385602000069, 48.603094634000058 ], [ 38.73133411200007, 48.608314385000028 ], [ 38.726616500000034, 48.608456034000028 ], [ 38.722755163000045, 48.603291234000039 ], [ 38.727701692000039, 48.600308172000041 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.058376822166799999, "Shape_Area": 6.8676759118000005e-05, "ADM4_EN": "Zabolot", "ADM4_UA": "Заболоть", "ADM4_PCODE": "UA1806017025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ovrutska", "ADM3_UA": "Овруцька", "ADM3_PCODE": "UA1806017", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.616913, 51.517701990000035 ], [ 28.616685840000059, 51.520026960000052 ], [ 28.611050040000066, 51.52250403000005 ], [ 28.609327079000025, 51.519014010000035 ], [ 28.611595080000029, 51.513816960000042 ], [ 28.610876160000032, 51.510124980000057 ], [ 28.614485880000075, 51.510105 ], [ 28.614162960000044, 51.517373040000052 ], [ 28.616913, 51.517701990000035 ] ] ] } }
-]
-}

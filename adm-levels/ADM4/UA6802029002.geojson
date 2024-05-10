@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.084898368866200002, "Shape_Area": 0.00017350671797500001, "ADM4_EN": "Andriivka", "ADM4_UA": "Андріївка", "ADM4_PCODE": "UA6802029002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chemerovetska", "ADM3_UA": "Чемеровецька", "ADM3_PCODE": "UA6802029", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.298365999000055, 48.968192 ], [ 26.293442001000074, 48.965121 ], [ 26.289025, 48.967456 ], [ 26.288288001000069, 48.963307 ], [ 26.295271, 48.960923 ], [ 26.30245099900003, 48.957068 ], [ 26.309599001000038, 48.951676 ], [ 26.313152999000067, 48.952081 ], [ 26.314294, 48.9559 ], [ 26.305061, 48.963665 ], [ 26.298365999000055, 48.968192 ] ] ] } }
-]
-}

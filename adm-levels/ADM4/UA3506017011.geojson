@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.096258579712799996, "Shape_Area": 0.000208790818395, "ADM4_EN": "Mizhkolodiazhne", "ADM4_UA": "Міжколодяжне", "ADM4_PCODE": "UA3506017011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pishchanobridska", "ADM3_UA": "Піщанобрідська", "ADM3_PCODE": "UA3506017", "ADM2_EN": "Novoukrainskyi", "ADM2_UA": "Новоукраїнський", "ADM2_PCODE": "UA3506", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.233305162000079, 48.130216602000075 ], [ 31.23625112700006, 48.11985444100003 ], [ 31.23923, 48.121972 ], [ 31.239511, 48.127118 ], [ 31.245859, 48.127776 ], [ 31.248449, 48.12985 ], [ 31.250125, 48.137454 ], [ 31.248841, 48.143365 ], [ 31.255549, 48.145008 ], [ 31.25335, 48.150795 ], [ 31.246227, 48.149708 ], [ 31.246215, 48.137857 ], [ 31.238731, 48.135916 ], [ 31.238288999000076, 48.130965 ], [ 31.233305162000079, 48.130216602000075 ] ] ] } }
-]
-}

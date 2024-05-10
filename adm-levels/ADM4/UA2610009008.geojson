@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.117752536305, "Shape_Area": 0.00034131081162699998, "ADM4_EN": "Serednii Bereziv", "ADM4_UA": "Середній Березів", "ADM4_PCODE": "UA2610009008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yablunivska", "ADM3_UA": "Яблунівська", "ADM3_PCODE": "UA2610009", "ADM2_EN": "Kosivskyi", "ADM2_UA": "Косівський", "ADM2_PCODE": "UA2610", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.835268583000072, 48.416525210000032 ], [ 24.832787999000061, 48.419603 ], [ 24.839241001000062, 48.424445 ], [ 24.835755001000052, 48.425866 ], [ 24.830498, 48.42588 ], [ 24.825117001000024, 48.422714 ], [ 24.818452, 48.421763 ], [ 24.808121, 48.422312 ], [ 24.805289, 48.421227 ], [ 24.80764, 48.415328 ], [ 24.819761581000023, 48.409806649000075 ], [ 24.822255645000041, 48.404707246000044 ], [ 24.827183, 48.409267 ], [ 24.829422, 48.409554 ], [ 24.835268583000072, 48.416525210000032 ] ] ] } }
-]
-}

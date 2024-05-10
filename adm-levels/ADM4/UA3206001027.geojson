@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.046011016041600003, "Shape_Area": 6.7569254594099996e-05, "ADM4_EN": "Shvachykha", "ADM4_UA": "Швачиха", "ADM4_PCODE": "UA3206001027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Baryshivska", "ADM3_UA": "Баришівська", "ADM3_PCODE": "UA3206001", "ADM2_EN": "Brovarskyi", "ADM2_UA": "Броварський", "ADM2_PCODE": "UA3206", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.287954553000077, 50.375337442000045 ], [ 31.281506494000041, 50.376791470000057 ], [ 31.276621535000061, 50.374182475000055 ], [ 31.278936518000023, 50.369939559000045 ], [ 31.283852551000052, 50.368954422000058 ], [ 31.290097552000077, 50.371973983000032 ], [ 31.293655569000066, 50.368586145000052 ], [ 31.287954553000077, 50.375337442000045 ] ] ] } }
-]
-}

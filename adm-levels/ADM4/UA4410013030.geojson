@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.072891162722799996, "Shape_Area": 8.4503588225599998e-05, "ADM4_EN": "Novoznamianka", "ADM4_UA": "Новознам'янка", "ADM4_PCODE": "UA4410013030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Troitska", "ADM3_UA": "Троїцька", "ADM3_PCODE": "UA4410013", "ADM2_EN": "Svativskyi", "ADM2_UA": "Сватівський", "ADM2_PCODE": "UA4410", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.120394001000079, 49.886473500000079 ], [ 38.11495099900003, 49.885181 ], [ 38.113142, 49.881877 ], [ 38.120898999000076, 49.877911 ], [ 38.123594, 49.878405 ], [ 38.124725, 49.885631 ], [ 38.120394001000079, 49.886473500000079 ] ] ] } }
-]
-}

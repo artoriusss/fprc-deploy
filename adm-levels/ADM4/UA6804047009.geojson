@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.071398028845699998, "Shape_Area": 0.00011731551822700001, "ADM4_EN": "Ivankivtsi", "ADM4_UA": "Іванківці", "ADM4_PCODE": "UA6804047009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khmelnytska", "ADM3_UA": "Хмельницька", "ADM3_PCODE": "UA6804047", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.944633, 49.476607 ], [ 26.942261999000038, 49.480352 ], [ 26.950642, 49.482052 ], [ 26.947472, 49.485686 ], [ 26.938436, 49.485564 ], [ 26.935301, 49.483112 ], [ 26.930471, 49.481621 ], [ 26.933568, 49.47832 ], [ 26.934976, 49.478804 ], [ 26.944633, 49.476607 ] ] ] } }
-]
-}

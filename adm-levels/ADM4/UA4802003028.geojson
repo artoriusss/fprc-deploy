@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.048437987559900003, "Shape_Area": 8.7783287287500006e-05, "ADM4_EN": "Pryshyb", "ADM4_UA": "Пришиб", "ADM4_PCODE": "UA4802003028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bereznehuvatska", "ADM3_UA": "Березнегуватська", "ADM3_PCODE": "UA4802003", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.833482186000026, 47.228510908000032 ], [ 32.83223121900005, 47.231900403000054 ], [ 32.827811444000076, 47.231881947000034 ], [ 32.822620314000062, 47.222851823000042 ], [ 32.825716889000034, 47.21734120800005 ], [ 32.831896432000065, 47.218302393000045 ], [ 32.829381565000062, 47.223706948000029 ], [ 32.833482186000026, 47.228510908000032 ] ] ] } }
-]
-}

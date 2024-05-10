@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13633413739899999, "Shape_Area": 0.000142686938237, "ADM4_EN": "Sehedyntsi", "ADM4_UA": "Сегединці", "ADM4_PCODE": "UA7102007008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vilshanska", "ADM3_UA": "Вільшанська", "ADM3_PCODE": "UA7102007", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.139078, 49.280392 ], [ 31.143009, 49.276372 ], [ 31.140067, 49.274753 ], [ 31.137886, 49.270821 ], [ 31.14193, 49.266611 ], [ 31.142144001000077, 49.26258 ], [ 31.149886, 49.26423 ], [ 31.152497, 49.265686 ], [ 31.152269999000055, 49.268772 ], [ 31.147906999000043, 49.272499 ], [ 31.143792, 49.278444 ], [ 31.139078, 49.280392 ] ] ] } }
-]
-}

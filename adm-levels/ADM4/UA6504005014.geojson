@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.044466733485, "Shape_Area": 9.3768327575099994e-05, "ADM4_EN": "Zmahannia", "ADM4_UA": "Змагання", "ADM4_PCODE": "UA6504005014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nyzhnosirohozka", "ADM3_UA": "Нижньосірогозька", "ADM3_PCODE": "UA6504005", "ADM2_EN": "Henicheskyi", "ADM2_UA": "Генічеський", "ADM2_PCODE": "UA6504", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.672805, 46.847328 ], [ 34.667883, 46.847005 ], [ 34.661823, 46.844203 ], [ 34.664975, 46.83877 ], [ 34.672972, 46.841682 ], [ 34.678631999000061, 46.842197 ], [ 34.676012, 46.846021 ], [ 34.672805, 46.847328 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057186855339000003, "Shape_Area": 0.000118891367094, "ADM4_EN": "Zarichchia", "ADM4_UA": "Заріччя", "ADM4_PCODE": "UA2606001005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bolekhivska", "ADM3_UA": "Болехівська", "ADM3_PCODE": "UA2606001", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.956262, 49.092466 ], [ 23.960793, 49.094823 ], [ 23.963176, 49.099969 ], [ 23.966675001000056, 49.103627 ], [ 23.968065999000032, 49.108268 ], [ 23.966023, 49.110143 ], [ 23.960819, 49.104964 ], [ 23.959066, 49.101774 ], [ 23.949437, 49.093363 ], [ 23.953789, 49.09077 ], [ 23.956262, 49.092466 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.038393132980200001, "Shape_Area": 6.8246143183100003e-05, "ADM4_EN": "Roiove", "ADM4_UA": "Ройове", "ADM4_PCODE": "UA5302007007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kamianopotokivska", "ADM3_UA": "Кам'янопотоківська", "ADM3_PCODE": "UA5302007", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.595698, 48.928195 ], [ 33.603351, 48.935301 ], [ 33.598088, 48.93744 ], [ 33.588396, 48.927828 ], [ 33.593291001000068, 48.92587 ], [ 33.595698, 48.928195 ] ] ] } }
-]
-}

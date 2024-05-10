@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060641431895, "Shape_Area": 9.0889148842999995e-05, "ADM4_EN": "Vyshneve", "ADM4_UA": "Вишневе", "ADM4_PCODE": "UA1804035005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novohuivynska", "ADM3_UA": "Новогуйвинська", "ADM3_PCODE": "UA1804035", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.597828925000044, 50.151793866000048 ], [ 28.595006053000077, 50.151705677000052 ], [ 28.594284026000025, 50.141354733000071 ], [ 28.605139041000029, 50.139442927000061 ], [ 28.608285740000042, 50.14315270700007 ], [ 28.59697406600003, 50.145780629000058 ], [ 28.598695813000063, 50.148169755000026 ], [ 28.597828925000044, 50.151793866000048 ] ] ] } }
-]
-}

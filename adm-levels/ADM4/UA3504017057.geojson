@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.043295054189600002, "Shape_Area": 5.4559029168000003e-05, "ADM4_EN": "Stepanivka", "ADM4_UA": "Степанівка", "ADM4_PCODE": "UA3504017057", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ketrysanivska", "ADM3_UA": "Кетрисанівська", "ADM3_PCODE": "UA3504017", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.349810001000037, 48.062945 ], [ 32.343274999000073, 48.062909 ], [ 32.343882, 48.057827 ], [ 32.346563, 48.057376 ], [ 32.34442, 48.050204 ], [ 32.348128001000077, 48.049799 ], [ 32.350144999000065, 48.059271 ], [ 32.349810001000037, 48.062945 ] ] ] } }
-]
-}

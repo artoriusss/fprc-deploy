@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.051837649360499997, "Shape_Area": 8.456327413e-05, "ADM4_EN": "Poplavka", "ADM4_UA": "Поплавка", "ADM4_PCODE": "UA1804043024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pulynska", "ADM3_UA": "Пулинська", "ADM3_PCODE": "UA1804043", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.390127040000039, 50.395456980000063 ], [ 28.384014960000059, 50.394281040000067 ], [ 28.376875080000048, 50.396753970000077 ], [ 28.375782841000046, 50.392920960000026 ], [ 28.387190160000046, 50.390495010000052 ], [ 28.390562999000053, 50.388982020000071 ], [ 28.394786880000026, 50.391363960000035 ], [ 28.394502119000038, 50.393909970000038 ], [ 28.390127040000039, 50.395456980000063 ] ] ] } }
-]
-}

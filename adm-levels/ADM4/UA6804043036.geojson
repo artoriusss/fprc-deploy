@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10437003786100001, "Shape_Area": 0.000160930234144, "ADM4_EN": "Somaky", "ADM4_UA": "Сьомаки", "ADM4_PCODE": "UA6804043036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starosyniavska", "ADM3_UA": "Старосинявська", "ADM3_PCODE": "UA6804043", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.585137, 49.533745 ], [ 27.582829, 49.526616 ], [ 27.587656999000046, 49.527274 ], [ 27.591718001000061, 49.52525 ], [ 27.593964, 49.522115 ], [ 27.602532, 49.522504 ], [ 27.599376, 49.528519 ], [ 27.600684, 49.531768 ], [ 27.597674999000049, 49.533568 ], [ 27.595463001000041, 49.53202 ], [ 27.588573999000062, 49.534703 ], [ 27.585137, 49.533745 ] ] ] } }
-]
-}

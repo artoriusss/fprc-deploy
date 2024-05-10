@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.087394102442099997, "Shape_Area": 8.7257899426999996e-05, "ADM4_EN": "Prosykuriany", "ADM4_UA": "Просикуряни", "ADM4_PCODE": "UA7306051005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Suchevenska", "ADM3_UA": "Сучевенська", "ADM3_PCODE": "UA7306051", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.87383999900004, 48.092542 ], [ 25.871811, 48.088844 ], [ 25.877045001000056, 48.087113 ], [ 25.872566001000052, 48.083752 ], [ 25.872901001000059, 48.081403 ], [ 25.879091001000063, 48.081391 ], [ 25.881909001000054, 48.083077 ], [ 25.878018001000044, 48.086686 ], [ 25.879025, 48.090822 ], [ 25.87383999900004, 48.092542 ] ] ] } }
-]
-}

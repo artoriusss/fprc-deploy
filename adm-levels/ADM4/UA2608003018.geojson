@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.040003030544999998, "Shape_Area": 8.1421958919399999e-05, "ADM4_EN": "Peredivannia", "ADM4_UA": "Передівання", "ADM4_PCODE": "UA2608003018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodenkivska", "ADM3_UA": "Городенківська", "ADM3_PCODE": "UA2608003", "ADM2_EN": "Kolomyiskyi", "ADM2_UA": "Коломийський", "ADM2_PCODE": "UA2608", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.652953113000024, 48.705469074000064 ], [ 25.648581239000066, 48.710148006000054 ], [ 25.63929427100004, 48.713053947000049 ], [ 25.637832074000073, 48.709231345000035 ], [ 25.646293655000079, 48.703635467000026 ], [ 25.652953113000024, 48.705469074000064 ] ] ] } }
-]
-}

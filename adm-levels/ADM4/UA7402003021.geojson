@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.054857696053599997, "Shape_Area": 5.4809829531600003e-05, "ADM4_EN": "Luky", "ADM4_UA": "Луки", "ADM4_PCODE": "UA7402003021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Menska", "ADM3_UA": "Менська", "ADM3_PCODE": "UA7402003", "ADM2_EN": "Koriukivskyi", "ADM2_UA": "Корюківський", "ADM2_PCODE": "UA7402", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.197479119000036, 51.400856070000032 ], [ 32.193525960000045, 51.401462940000044 ], [ 32.187574081000037, 51.397911990000068 ], [ 32.175038161000032, 51.396282990000032 ], [ 32.176879920000033, 51.394744980000041 ], [ 32.190392160000044, 51.397273080000048 ], [ 32.195034, 51.396643980000078 ], [ 32.197479119000036, 51.400856070000032 ] ] ] } }
-]
-}

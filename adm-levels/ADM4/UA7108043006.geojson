@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10254698043, "Shape_Area": 0.000139526243441, "ADM4_EN": "Malyi Buzukiv", "ADM4_UA": "Малий Бузуків", "ADM4_PCODE": "UA7108043006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stepankivska", "ADM3_UA": "Степанківська", "ADM3_PCODE": "UA7108043", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.038496, 49.294075 ], [ 32.024497, 49.296269 ], [ 32.011341, 49.2936 ], [ 32.005780999000024, 49.286845 ], [ 32.011813, 49.285931 ], [ 32.016138, 49.289479 ], [ 32.022153001000049, 49.288864 ], [ 32.023677, 49.293249 ], [ 32.026527999000052, 49.2939 ], [ 32.031691, 49.292563 ], [ 32.037991, 49.29256 ], [ 32.038496, 49.294075 ] ] ] } }
-]
-}

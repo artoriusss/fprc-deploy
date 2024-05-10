@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.071059810914699997, "Shape_Area": 5.6315765187100001e-05, "ADM4_EN": "Zozulyne", "ADM4_UA": "Зозулине", "ADM4_PCODE": "UA5902015012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Putyvlska", "ADM3_UA": "Путивльська", "ADM3_PCODE": "UA5902015", "ADM2_EN": "Konotopskyi", "ADM2_UA": "Конотопський", "ADM2_PCODE": "UA5902", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.794396001000052, 51.373629 ], [ 33.786958001000073, 51.373036 ], [ 33.783642001000032, 51.370228 ], [ 33.790149, 51.368173 ], [ 33.794396001000052, 51.373629 ] ] ] } }
-]
-}

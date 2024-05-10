@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11969312954399999, "Shape_Area": 0.000367080559814, "ADM4_EN": "Kalanchak", "ADM4_UA": "Каланчак", "ADM4_PCODE": "UA5108009005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Safianivska", "ADM3_UA": "Саф'янівська", "ADM3_PCODE": "UA5108009", "ADM2_EN": "Izmailskyi", "ADM2_UA": "Ізмаїльський", "ADM2_PCODE": "UA5108", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.800070002000041, 45.550909 ], [ 28.798133999000072, 45.551892 ], [ 28.787911, 45.550345 ], [ 28.784817001000079, 45.548309 ], [ 28.783169, 45.543298 ], [ 28.792752, 45.530984 ], [ 28.795949, 45.521333 ], [ 28.799772, 45.521472 ], [ 28.800962, 45.524915 ], [ 28.799292, 45.531329 ], [ 28.803765, 45.53208 ], [ 28.800219, 45.546334 ], [ 28.800070002000041, 45.550909 ] ] ] } }
-]
-}

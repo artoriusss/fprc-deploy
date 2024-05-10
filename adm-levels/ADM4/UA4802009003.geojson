@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.034671072624899997, "Shape_Area": 5.5203949942700002e-05, "ADM4_EN": "Velykopillia", "ADM4_UA": "Великопілля", "ADM4_PCODE": "UA4802009003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horokhivska", "ADM3_UA": "Горохівська", "ADM3_PCODE": "UA4802009", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.657035153000038, 46.936120729000038 ], [ 32.656601315000046, 46.938761227000043 ], [ 32.650487759000043, 46.939499567000041 ], [ 32.65269197300006, 46.930724078000026 ], [ 32.659214160000033, 46.93112923800004 ], [ 32.657035153000038, 46.936120729000038 ] ] ] } }
-]
-}

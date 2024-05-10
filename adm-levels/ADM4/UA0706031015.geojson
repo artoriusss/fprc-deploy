@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10231895943, "Shape_Area": 0.00012685257438500001, "ADM4_EN": "Konyshche", "ADM4_UA": "Конище", "ADM4_PCODE": "UA0706031015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ratnivska", "ADM3_UA": "Ратнівська", "ADM3_PCODE": "UA0706031", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.542812139000034, 51.72078100400006 ], [ 24.539565139000047, 51.721169004000046 ], [ 24.533630140000071, 51.713900004000038 ], [ 24.535595140000055, 51.711643005000042 ], [ 24.530350142000032, 51.708755005000057 ], [ 24.537158140000031, 51.706464004000054 ], [ 24.541798139000036, 51.707244004000074 ], [ 24.541621140000075, 51.711674004000031 ], [ 24.543270140000061, 51.715959004000069 ], [ 24.542812139000034, 51.72078100400006 ] ] ] } }
-]
-}

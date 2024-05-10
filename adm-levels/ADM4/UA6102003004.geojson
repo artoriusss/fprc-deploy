@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0642314493613, "Shape_Area": 8.0483251009400001e-05, "ADM4_EN": "Hrynkivtsi", "ADM4_UA": "Гриньківці", "ADM4_PCODE": "UA6102003004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykodederkalska", "ADM3_UA": "Великодедеркальська", "ADM3_PCODE": "UA6102003", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.006159418000038, 49.94115252000006 ], [ 26.002080999000043, 49.943523 ], [ 26.000234999000043, 49.939608 ], [ 26.004970763000074, 49.936545195000065 ], [ 26.007805228000052, 49.936800543000061 ], [ 26.016258, 49.933023 ], [ 26.015272, 49.937376 ], [ 26.008886361000066, 49.941418159000079 ], [ 26.006159418000038, 49.94115252000006 ] ] ] } }
-]
-}

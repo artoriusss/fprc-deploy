@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.074337766921399998, "Shape_Area": 8.0424351222200006e-05, "ADM4_EN": "Stavrivka", "ADM4_UA": "Ставрівка", "ADM4_PCODE": "UA3210005063", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivankivska", "ADM3_UA": "Іванківська", "ADM3_PCODE": "UA3210005", "ADM2_EN": "Vyshhorodskyi", "ADM2_UA": "Вишгородський", "ADM2_PCODE": "UA3210", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.727888556000039, 50.92597969500008 ], [ 29.716603551000048, 50.924500661000081 ], [ 29.702033605000054, 50.924850695000032 ], [ 29.701785599000061, 50.920511644000044 ], [ 29.706288619000077, 50.922005701000046 ], [ 29.727744533000077, 50.922366662000059 ], [ 29.727888556000039, 50.92597969500008 ] ] ] } }
-]
-}

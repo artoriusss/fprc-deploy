@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.078393154400299994, "Shape_Area": 0.00024846800082500001, "ADM4_EN": "Halenkove", "ADM4_UA": "Галенкове", "ADM4_PCODE": "UA5906011015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Romenska", "ADM3_UA": "Роменська", "ADM3_PCODE": "UA5906011", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.623506, 50.723607 ], [ 33.623493, 50.72619 ], [ 33.618058, 50.726301 ], [ 33.60356, 50.71874 ], [ 33.613719, 50.709742 ], [ 33.613254, 50.704413 ], [ 33.621288999000058, 50.704271 ], [ 33.621222, 50.709033 ], [ 33.619187, 50.713853 ], [ 33.6236, 50.715912 ], [ 33.623506, 50.723607 ] ] ] } }
-]
-}

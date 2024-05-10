@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.044006835794, "Shape_Area": 7.8473542720299995e-05, "ADM4_EN": "Ravshchyna", "ADM4_UA": "Равщина", "ADM4_PCODE": "UA4612011037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sokalska", "ADM3_UA": "Сокальська", "ADM3_PCODE": "UA4612011", "ADM2_EN": "Chervonohradskyi", "ADM2_UA": "Червоноградський", "ADM2_PCODE": "UA4612", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.328444164000075, 50.482106005000048 ], [ 24.329081164000058, 50.487001006000071 ], [ 24.32426216500005, 50.499447006000025 ], [ 24.319630166000024, 50.498688007000055 ], [ 24.323610166000037, 50.489368006000063 ], [ 24.324774165000065, 50.482304006000049 ], [ 24.328444164000075, 50.482106005000048 ] ] ] } }
-]
-}

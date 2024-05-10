@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.039750205259700001, "Shape_Area": 4.4868211547899998e-05, "ADM4_EN": "Hryhorivska Sloboda", "ADM4_UA": "Григорівська Слобода", "ADM4_PCODE": "UA3202017012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stavyshchenska", "ADM3_UA": "Ставищенська", "ADM3_PCODE": "UA3202017", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.029553539000062, 49.356672973000059 ], [ 30.026329235000048, 49.353870609000069 ], [ 30.032458650000024, 49.352339654000048 ], [ 30.035290561000068, 49.350107068000057 ], [ 30.039083281000046, 49.352621940000063 ], [ 30.029553539000062, 49.356672973000059 ] ] ] } }
-]
-}

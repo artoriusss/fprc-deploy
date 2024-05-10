@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.053984559028999998, "Shape_Area": 0.00013297440352500001, "ADM4_EN": "Zalisky", "ADM4_UA": "Заліски", "ADM4_PCODE": "UA1806025008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chopovytska", "ADM3_UA": "Чоповицька", "ADM3_PCODE": "UA1806025", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.158270919000074, 50.918411970000079 ], [ 29.154259079000042, 50.917690980000032 ], [ 29.152397880000024, 50.91475698000005 ], [ 29.148072840000054, 50.913068040000041 ], [ 29.155737960000067, 50.910530040000026 ], [ 29.15399412000005, 50.908110030000046 ], [ 29.162319120000063, 50.907086010000057 ], [ 29.167169040000033, 50.915153970000063 ], [ 29.160549001000049, 50.918544 ], [ 29.158270919000074, 50.918411970000079 ] ] ] } }
-]
-}

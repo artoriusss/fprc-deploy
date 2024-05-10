@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.046035021470799999, "Shape_Area": 0.000111343866675, "ADM4_EN": "Orkhovychi", "ADM4_UA": "Орховичі", "ADM4_PCODE": "UA4608011023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rudkivska", "ADM3_UA": "Рудківська", "ADM3_PCODE": "UA4608011", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.409640383000067, 49.703647015000058 ], [ 23.408874384000057, 49.705068015000052 ], [ 23.417693382000039, 49.708055014000081 ], [ 23.419823380000025, 49.710453014000052 ], [ 23.417657381000026, 49.713020015000041 ], [ 23.408727385000077, 49.713604015000044 ], [ 23.403218386000049, 49.711574015000053 ], [ 23.401974387000053, 49.708416015000068 ], [ 23.409640383000067, 49.703647015000058 ] ] ] } }
-]
-}

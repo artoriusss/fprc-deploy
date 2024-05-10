@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.082166176182000006, "Shape_Area": 0.00011723723658500001, "ADM4_EN": "Yarovatka", "ADM4_UA": "Яроватка", "ADM4_PCODE": "UA7106019018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Palanska", "ADM3_UA": "Паланська", "ADM3_PCODE": "UA7106019", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.114325001000054, 48.911649 ], [ 30.110114, 48.912626 ], [ 30.111416, 48.907269 ], [ 30.109175, 48.90293 ], [ 30.120022999000071, 48.90344 ], [ 30.118368, 48.912856 ], [ 30.114325001000054, 48.911649 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.096832121845700003, "Shape_Area": 0.00021704914871, "ADM4_EN": "Dzhuhastrove", "ADM4_UA": "Джугастрове", "ADM4_PCODE": "UA5102011006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Konoplianska", "ADM3_UA": "Коноплянська", "ADM3_PCODE": "UA5102011", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.605824, 47.085853 ], [ 30.598895, 47.090371 ], [ 30.593293001000063, 47.091811 ], [ 30.586596, 47.089368 ], [ 30.586776001000032, 47.085008 ], [ 30.58401, 47.081972 ], [ 30.60375, 47.083571 ], [ 30.61335, 47.07844 ], [ 30.616839, 47.072918 ], [ 30.619607, 47.073812 ], [ 30.613297, 47.084921 ], [ 30.609693, 47.088053 ], [ 30.607421, 47.086039 ], [ 30.605824, 47.085853 ] ] ] } }
-]
-}

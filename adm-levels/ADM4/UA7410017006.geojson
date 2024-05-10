@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.055181123083400001, "Shape_Area": 6.9672517511499996e-05, "ADM4_EN": "Dymerka", "ADM4_UA": "Димерка", "ADM4_PCODE": "UA7410017006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kiptivska", "ADM3_UA": "Кіптівська", "ADM3_PCODE": "UA7410017", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.069563120000055, 51.068673 ], [ 31.068006840000066, 51.070302990000073 ], [ 31.067304120000074, 51.07786002000006 ], [ 31.060823040000059, 51.073862040000051 ], [ 31.061401921000027, 51.067082970000058 ], [ 31.069563120000055, 51.068673 ] ] ] } }
-]
-}

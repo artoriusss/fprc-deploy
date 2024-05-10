@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.034909010398100002, "Shape_Area": 4.8280641311300002e-05, "ADM4_EN": "Lisne", "ADM4_UA": "Лісне", "ADM4_PCODE": "UA3502015010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Perehonivska", "ADM3_UA": "Перегонівська", "ADM3_PCODE": "UA3502015", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "Голованівський", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.49094655500005, 48.515463921000048 ], [ 30.482282730000065, 48.515504831000044 ], [ 30.486630633000061, 48.509081947000027 ], [ 30.489477986000054, 48.511603496000077 ], [ 30.49094655500005, 48.515463921000048 ] ] ] } }
-]
-}

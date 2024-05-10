@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.042179014251799998, "Shape_Area": 6.6568586322199996e-05, "ADM4_EN": "Klenove", "ADM4_UA": "Кленове", "ADM4_PCODE": "UA7404021011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Makiivska", "ADM3_UA": "Макіївська", "ADM3_PCODE": "UA7404021", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.855421161000038, 50.721211980000078 ], [ 31.860235800000055, 50.720138010000028 ], [ 31.870752841000069, 50.719508010000027 ], [ 31.87220183900007, 50.722569 ], [ 31.865757121000058, 50.72608998000004 ], [ 31.861132920000045, 50.72366997000006 ], [ 31.855547880000074, 50.723969040000043 ], [ 31.855421161000038, 50.721211980000078 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.046886259119199997, "Shape_Area": 8.7941352806500002e-05, "ADM4_EN": "Darivka", "ADM4_UA": "Дар'ївка", "ADM4_PCODE": "UA3504029006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sokolivska", "ADM3_UA": "Соколівська", "ADM3_PCODE": "UA3504029", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.095432316000029, 48.404014681000035 ], [ 32.100131310000052, 48.403433087000053 ], [ 32.103438259000029, 48.406272509000075 ], [ 32.101753450000047, 48.408723836000036 ], [ 32.107345424000073, 48.412671283000066 ], [ 32.102361513000062, 48.41524615700007 ], [ 32.098687250000069, 48.411918237000066 ], [ 32.095276931000058, 48.411877189000052 ], [ 32.093217406000065, 48.406339537000065 ], [ 32.095432316000029, 48.404014681000035 ] ] ] } }
-]
-}

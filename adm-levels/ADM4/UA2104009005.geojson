@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073067893277699997, "Shape_Area": 6.6711730449699999e-05, "ADM4_EN": "Kichernyi", "ADM4_UA": "Кічерний", "ADM4_PCODE": "UA2104009005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhdeniivska", "ADM3_UA": "Жденіївська", "ADM3_PCODE": "UA2104009", "ADM2_EN": "Mukachivskyi", "ADM2_UA": "Мукачівський", "ADM2_PCODE": "UA2104", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.905030580000073, 48.865639024000075 ], [ 22.896896586000025, 48.870448024000041 ], [ 22.896941586000025, 48.874560024000061 ], [ 22.893557587000032, 48.875832024000033 ], [ 22.88953858900004, 48.873013024000045 ], [ 22.883400594000022, 48.876040024000076 ], [ 22.882221592000064, 48.87527702400007 ], [ 22.887740590000078, 48.870368024000072 ], [ 22.893304587000046, 48.869779024000081 ], [ 22.904708581000023, 48.864937024000028 ], [ 22.905030580000073, 48.865639024000075 ] ] ] } }
-]
-}

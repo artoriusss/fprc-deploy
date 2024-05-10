@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.079982449879399994, "Shape_Area": 0.000100733681659, "ADM4_EN": "Zarovenka", "ADM4_UA": "Заровенка", "ADM4_PCODE": "UA1808013019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yemilchynska", "ADM3_UA": "Ємільчинська", "ADM3_PCODE": "UA1808013", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.684313920000079, 50.866913970000041 ], [ 27.67915116000006, 50.870192040000063 ], [ 27.680662081000037, 50.86314198000008 ], [ 27.689549040000031, 50.864066010000045 ], [ 27.704943001000061, 50.861198970000032 ], [ 27.710103959000037, 50.86271196000007 ], [ 27.69599592000003, 50.865411960000074 ], [ 27.691301161000069, 50.865819030000068 ], [ 27.689217119000034, 50.867730990000041 ], [ 27.684313920000079, 50.866913970000041 ] ] ] } }
-]
-}

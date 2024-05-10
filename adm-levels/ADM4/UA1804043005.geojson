@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.048055534843599999, "Shape_Area": 5.3383752015300001e-05, "ADM4_EN": "Vesele", "ADM4_UA": "Веселе", "ADM4_PCODE": "UA1804043005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pulynska", "ADM3_UA": "Пулинська", "ADM3_PCODE": "UA1804043", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.173573150000038, 50.45398915700008 ], [ 28.186850159000073, 50.450679 ], [ 28.195124041000042, 50.451658020000082 ], [ 28.195660081000028, 50.453695980000077 ], [ 28.187573041000064, 50.453144010000074 ], [ 28.175302226000042, 50.456226924000077 ], [ 28.173573150000038, 50.45398915700008 ] ] ] } }
-]
-}

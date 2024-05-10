@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.035216358888099999, "Shape_Area": 5.1311231692000001e-05, "ADM4_EN": "Popiv Yar", "ADM4_UA": "Попів Яр", "ADM4_PCODE": "UA1412005014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Illinivska", "ADM3_UA": "Іллінівська", "ADM3_PCODE": "UA1412005", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "Краматорський", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.456805, 48.424753 ], [ 37.453277999000079, 48.42462 ], [ 37.454801, 48.419886 ], [ 37.457442001000061, 48.420262 ], [ 37.457997, 48.414387 ], [ 37.462343999000041, 48.414763 ], [ 37.460043, 48.42481 ], [ 37.456805, 48.424753 ] ] ] } }
-]
-}

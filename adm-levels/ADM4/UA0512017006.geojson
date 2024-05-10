@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.053310738817199999, "Shape_Area": 9.3558011536999994e-05, "ADM4_EN": "Verbivka", "ADM4_UA": "Вербівка", "ADM4_PCODE": "UA0512017006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khmilnytska", "ADM3_UA": "Хмільницька", "ADM3_PCODE": "UA0512017", "ADM2_EN": "Khmilnytskyi", "ADM2_UA": "Хмільницький", "ADM2_PCODE": "UA0512", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.921258073000047, 49.540643504000059 ], [ 27.915296291000061, 49.539271786000029 ], [ 27.912964737000038, 49.540706858000078 ], [ 27.907932415000062, 49.540508463000037 ], [ 27.905452182000033, 49.535975740000026 ], [ 27.906867605000059, 49.531782508000049 ], [ 27.914315181000063, 49.531152714000029 ], [ 27.915887633000068, 49.532139844000028 ], [ 27.914445338000064, 49.537149086000056 ], [ 27.921258073000047, 49.540643504000059 ] ] ] } }
-]
-}

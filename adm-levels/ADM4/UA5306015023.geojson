@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0680997487298, "Shape_Area": 0.00012968002194500001, "ADM4_EN": "Pysarivka", "ADM4_UA": "Писарівка", "ADM4_PCODE": "UA5306015023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Komyshnianska", "ADM3_UA": "Комишнянська", "ADM3_PCODE": "UA5306015", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.532601999000065, 50.161785 ], [ 33.528429001000063, 50.164384 ], [ 33.525535001000037, 50.15807 ], [ 33.540697, 50.155206 ], [ 33.552231867000046, 50.157128799000077 ], [ 33.551705, 50.159623 ], [ 33.542424999000048, 50.159755 ], [ 33.532601999000065, 50.161785 ] ] ] } }
-]
-}

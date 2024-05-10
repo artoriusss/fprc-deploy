@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0456670316512, "Shape_Area": 7.6305811903700001e-05, "ADM4_EN": "Khoriv", "ADM4_UA": "Хорів", "ADM4_PCODE": "UA0702011027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lokachynska", "ADM3_UA": "Локачинська", "ADM3_PCODE": "UA0702011", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.646537120000062, 50.689730004000069 ], [ 24.64279411900003, 50.691046004000043 ], [ 24.639541121000036, 50.689376004000053 ], [ 24.636078121000025, 50.68294600400003 ], [ 24.636385121000046, 50.680981004000046 ], [ 24.642491120000045, 50.681050004000042 ], [ 24.646537120000062, 50.689730004000069 ] ] ] } }
-]
-}

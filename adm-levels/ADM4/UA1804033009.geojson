@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.101280109443, "Shape_Area": 0.000121367866508, "ADM4_EN": "Nebizh", "ADM4_UA": "Небіж", "ADM4_PCODE": "UA1804033009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoborivska", "ADM3_UA": "Новоборівська", "ADM3_PCODE": "UA1804033", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.577076840000075, 50.637983040000051 ], [ 28.576684081000053, 50.64068799000006 ], [ 28.570444919000067, 50.6367 ], [ 28.568201040000076, 50.633273970000062 ], [ 28.563418080000076, 50.633577 ], [ 28.562839921000034, 50.631471 ], [ 28.570298040000068, 50.631075990000056 ], [ 28.570465080000076, 50.628356010000061 ], [ 28.576013040000078, 50.628447 ], [ 28.576103040000078, 50.633010990000059 ], [ 28.584915119000073, 50.631959970000025 ], [ 28.577076840000075, 50.637983040000051 ] ] ] } }
-]
-}

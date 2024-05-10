@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11811411955700001, "Shape_Area": 0.00031114221039500002, "ADM4_EN": "Ozeryshche", "ADM4_UA": "Озерище", "ADM4_PCODE": "UA7108021003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lipliavska", "ADM3_UA": "Ліплявська", "ADM3_PCODE": "UA7108021", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.652251001000025, 49.851356 ], [ 31.646158, 49.851175 ], [ 31.642219001000058, 49.849201 ], [ 31.641964, 49.840452 ], [ 31.637897, 49.843216 ], [ 31.628282999000078, 49.841475 ], [ 31.625888, 49.837904 ], [ 31.633715, 49.836923 ], [ 31.634931001000041, 49.832935 ], [ 31.639728, 49.833247 ], [ 31.639739999000028, 49.82847 ], [ 31.644112, 49.828197 ], [ 31.644412, 49.834802 ], [ 31.655688, 49.836485 ], [ 31.652251001000025, 49.851356 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.094933697733300001, "Shape_Area": 0.00010285192722299999, "ADM4_EN": "Fesivka", "ADM4_UA": "Фесівка", "ADM4_PCODE": "UA5902013036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Popivska", "ADM3_UA": "Попівська", "ADM3_PCODE": "UA5902013", "ADM2_EN": "Konotopskyi", "ADM2_UA": "Конотопський", "ADM2_PCODE": "UA5902", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.314967, 51.057572 ], [ 33.30968, 51.05942 ], [ 33.299682001000065, 51.057683 ], [ 33.300951, 51.053664 ], [ 33.304152999000053, 51.052595 ], [ 33.310065, 51.054378 ], [ 33.314967, 51.057572 ] ] ] } }
-]
-}

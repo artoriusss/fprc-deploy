@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0499446542324, "Shape_Area": 0.000109446989552, "ADM4_EN": "Chobotarivka", "ADM4_UA": "Чоботарівка", "ADM4_PCODE": "UA5110033013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Usativska", "ADM3_UA": "Усатівська", "ADM3_PCODE": "UA5110033", "ADM2_EN": "Odeskyi", "ADM2_UA": "Одеський", "ADM2_PCODE": "UA5110", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.568959001000053, 46.672197 ], [ 30.565194, 46.672253 ], [ 30.555946, 46.668399 ], [ 30.556153, 46.664567 ], [ 30.561897, 46.660086 ], [ 30.567968, 46.662261 ], [ 30.566426, 46.666539 ], [ 30.569231, 46.668387 ], [ 30.568959001000053, 46.672197 ] ] ] } }
-]
-}

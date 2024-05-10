@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.055088450415600003, "Shape_Area": 0.00015527083189100001, "ADM4_EN": "Sokolohirne", "ADM4_UA": "Сокологірне", "ADM4_PCODE": "UA6504001051", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Henicheska", "ADM3_UA": "Генічеська", "ADM3_PCODE": "UA6504001", "ADM2_EN": "Henicheskyi", "ADM2_UA": "Генічеський", "ADM2_PCODE": "UA6504", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.948105574000067, 46.504945865000082 ], [ 34.946454, 46.505757 ], [ 34.938272, 46.498945 ], [ 34.937831001000063, 46.494885 ], [ 34.940029, 46.492988 ], [ 34.948706, 46.494462 ], [ 34.953308, 46.493325 ], [ 34.956031257000063, 46.502340092000054 ], [ 34.948520559000031, 46.503673505000052 ], [ 34.948105574000067, 46.504945865000082 ] ] ] } }
-]
-}

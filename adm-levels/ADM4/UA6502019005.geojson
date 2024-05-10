@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.061634186696400001, "Shape_Area": 0.00021561027740699999, "ADM4_EN": "Maksyma Horkoho", "ADM4_UA": "Максима Горького", "ADM4_PCODE": "UA6502019005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoraiska", "ADM3_UA": "Новорайська", "ADM3_PCODE": "UA6502019", "ADM2_EN": "Beryslavskyi", "ADM2_UA": "Бериславський", "ADM2_PCODE": "UA6502", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.316176, 47.074107 ], [ 33.322022, 47.080673 ], [ 33.319735, 47.083525 ], [ 33.314651, 47.086544 ], [ 33.310865, 47.086914 ], [ 33.307586001000061, 47.081351 ], [ 33.30121, 47.076867 ], [ 33.298756, 47.073877 ], [ 33.312126, 47.069293 ], [ 33.316176, 47.074107 ] ] ] } }
-]
-}

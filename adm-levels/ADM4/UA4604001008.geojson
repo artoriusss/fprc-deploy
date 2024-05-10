@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.089134243486400005, "Shape_Area": 0.00015145164176300001, "ADM4_EN": "Buchyna", "ADM4_UA": "Бучина", "ADM4_PCODE": "UA4604001008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Brodivska", "ADM3_UA": "Бродівська", "ADM3_PCODE": "UA4604001", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.309176056000069, 50.024405002000037 ], [ 25.301002057000062, 50.026529002000075 ], [ 25.295068058000027, 50.031285002000061 ], [ 25.290239058000054, 50.023076002000039 ], [ 25.288457058000063, 50.021871002000069 ], [ 25.297919057000058, 50.016249002000052 ], [ 25.301886056000058, 50.020826002000035 ], [ 25.309176056000069, 50.024405002000037 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.043500548218399999, "Shape_Area": 6.3689018606500001e-05, "ADM4_EN": "Pankivka", "ADM4_UA": "Паньківка", "ADM4_PCODE": "UA4406001016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Luhanska", "ADM3_UA": "Луганська", "ADM3_PCODE": "UA4406001", "ADM2_EN": "Luhanskyi", "ADM2_UA": "Луганський", "ADM2_PCODE": "UA4406", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.351632, 48.706054 ], [ 39.351376, 48.707043 ], [ 39.338002, 48.703214 ], [ 39.340114, 48.701587 ], [ 39.345486999000059, 48.70273 ], [ 39.346307, 48.699748 ], [ 39.355167999000059, 48.69976 ], [ 39.351632, 48.706054 ] ] ] } }
-]
-}

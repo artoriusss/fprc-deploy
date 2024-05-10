@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.085058504232600002, "Shape_Area": 0.00028684390915700001, "ADM4_EN": "Pashkivka", "ADM4_UA": "Пашківка", "ADM4_PCODE": "UA5302009045", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozelshchynska", "ADM3_UA": "Козельщинська", "ADM3_PCODE": "UA5302009", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.853775, 49.153694 ], [ 33.846868, 49.154587 ], [ 33.844274, 49.152774 ], [ 33.842072999000038, 49.140678 ], [ 33.848794, 49.144119 ], [ 33.854299, 49.142857 ], [ 33.857808, 49.140039 ], [ 33.861687, 49.143063 ], [ 33.865301, 49.142907 ], [ 33.87004, 49.147682 ], [ 33.866398395000033, 49.15208077300008 ], [ 33.856632, 49.154356 ], [ 33.853775, 49.153694 ] ] ] } }
-]
-}

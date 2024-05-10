@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.067504786412699996, "Shape_Area": 0.000115520503835, "ADM4_EN": "Holihrady", "ADM4_UA": "Голігради", "ADM4_PCODE": "UA6106017009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zalishchytska", "ADM3_UA": "Заліщицька", "ADM3_PCODE": "UA6106017", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.857476452000071, 48.706259989000046 ], [ 25.852812508000056, 48.710534844000051 ], [ 25.849051005000035, 48.707159196000077 ], [ 25.849622999000076, 48.704648 ], [ 25.854441738000048, 48.703083605000074 ], [ 25.857482620000042, 48.69814722600006 ], [ 25.86475779400007, 48.696024511000076 ], [ 25.86654, 48.69873 ], [ 25.860717190000059, 48.702694184000052 ], [ 25.857476452000071, 48.706259989000046 ] ] ] } }
-]
-}

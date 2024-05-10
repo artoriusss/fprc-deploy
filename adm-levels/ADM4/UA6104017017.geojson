@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0501446425398, "Shape_Area": 7.6234529942099998e-05, "ADM4_EN": "Ivachiv", "ADM4_UA": "Івачів", "ADM4_PCODE": "UA6104017017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zborivska", "ADM3_UA": "Зборівська", "ADM3_PCODE": "UA6104017", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.084373001000074, 49.77233 ], [ 25.081065107000029, 49.770981669000037 ], [ 25.087845832000028, 49.766421303000072 ], [ 25.088564187000031, 49.763846214000068 ], [ 25.097982216000048, 49.764674627000034 ], [ 25.094429747000049, 49.768028665000031 ], [ 25.08629806700003, 49.772294032000048 ], [ 25.084373001000074, 49.77233 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.084634564318600003, "Shape_Area": 0.000268843778314, "ADM4_EN": "Didovychi", "ADM4_UA": "Дідовичі", "ADM4_PCODE": "UA0708011004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kivertsivska", "ADM3_UA": "Ківерцівська", "ADM3_PCODE": "UA0708011", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.455603048000057, 50.873541001000035 ], [ 25.448423049000041, 50.869761001000029 ], [ 25.474593048000031, 50.860910001000036 ], [ 25.476081049000072, 50.864735002000032 ], [ 25.481282048000025, 50.869770002000053 ], [ 25.472083549000047, 50.876141001000065 ], [ 25.470652049000023, 50.874092001000065 ], [ 25.463503049000053, 50.876555002000032 ], [ 25.45960275300007, 50.873899300000062 ], [ 25.455603048000057, 50.873541001000035 ] ] ] } }
-]
-}

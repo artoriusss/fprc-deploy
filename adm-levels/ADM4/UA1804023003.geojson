@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073733443678399999, "Shape_Area": 0.00015004274448, "ADM4_EN": "Korolivka", "ADM4_UA": "Королівка", "ADM4_PCODE": "UA1804023003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kornynska", "ADM3_UA": "Корнинська", "ADM3_PCODE": "UA1804023", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.496462120000047, 50.130375030000039 ], [ 29.492308081000033, 50.130160020000062 ], [ 29.487296879000041, 50.12677098000006 ], [ 29.484279, 50.128319970000064 ], [ 29.480622840000024, 50.12620596000005 ], [ 29.483134920000055, 50.123203020000062 ], [ 29.478765960000032, 50.120678970000029 ], [ 29.487318120000054, 50.118867 ], [ 29.494868039000039, 50.122486980000076 ], [ 29.502725041000076, 50.129110980000064 ], [ 29.496462120000047, 50.130375030000039 ] ] ] } }
-]
-}

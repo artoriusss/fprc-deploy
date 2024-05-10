@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.034744720844299998, "Shape_Area": 3.2994438748999998e-05, "ADM4_EN": "Novokasianivka", "ADM4_UA": "Новокасянівка", "ADM4_PCODE": "UA2306019035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novomykolaivska", "ADM3_UA": "Новомиколаївська", "ADM3_PCODE": "UA2306019", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.047480037000071, 47.955771968000079 ], [ 36.048589761000073, 47.951151634000041 ], [ 36.054059736000056, 47.950552801000072 ], [ 36.058672841000032, 47.953082345000041 ], [ 36.048862263000046, 47.954335861000061 ], [ 36.047480037000071, 47.955771968000079 ] ] ] } }
-]
-}

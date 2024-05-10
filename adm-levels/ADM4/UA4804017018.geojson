@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.069250916773899995, "Shape_Area": 0.000122806155022, "ADM4_EN": "Petrivka Druha", "ADM4_UA": "Петрівка Друга", "ADM4_PCODE": "UA4804017018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novomarivska", "ADM3_UA": "Новомар'ївська", "ADM3_PCODE": "UA4804017", "ADM2_EN": "Voznesenskyi", "ADM2_UA": "Вознесенський", "ADM2_PCODE": "UA4804", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.736635471000056, 48.05567738600007 ], [ 31.732797321000078, 48.055873073000043 ], [ 31.732852908000041, 48.052161524000041 ], [ 31.737514997000062, 48.048738649000029 ], [ 31.748776500000076, 48.048266960000035 ], [ 31.752939535000053, 48.049287860000049 ], [ 31.751589438000053, 48.055222170000036 ], [ 31.746589939000046, 48.05354961200004 ], [ 31.742943449000052, 48.054628176000051 ], [ 31.738095547000057, 48.054027721000068 ], [ 31.736635471000056, 48.05567738600007 ] ] ] } }
-]
-}

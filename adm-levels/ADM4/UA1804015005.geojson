@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0243091693899, "Shape_Area": 3.0677556512299999e-05, "ADM4_EN": "Horodenka", "ADM4_UA": "Городенка", "ADM4_PCODE": "UA1804015005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hlybochytska", "ADM3_UA": "Глибочицька", "ADM3_PCODE": "UA1804015", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.849869370000079, 50.370152241000028 ], [ 28.853710641000077, 50.36530212100007 ], [ 28.859113430000036, 50.366130191000082 ], [ 28.853379880000034, 50.371471550000081 ], [ 28.849869370000079, 50.370152241000028 ] ] ] } }
-]
-}

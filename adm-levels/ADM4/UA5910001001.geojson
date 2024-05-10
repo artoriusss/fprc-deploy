@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13246172838199999, "Shape_Area": 0.000383933044768, "ADM4_EN": "Bereza", "ADM4_UA": "Береза", "ADM4_PCODE": "UA5910001001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezivska", "ADM3_UA": "Березівська", "ADM3_PCODE": "UA5910001", "ADM2_EN": "Shostkynskyi", "ADM2_UA": "Шосткинський", "ADM2_PCODE": "UA5910", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.858838, 51.751042 ], [ 33.854242, 51.74896 ], [ 33.855772001000048, 51.746838 ], [ 33.856105, 51.741323 ], [ 33.85468699900008, 51.738223 ], [ 33.855057001000034, 51.730127 ], [ 33.857547, 51.728908 ], [ 33.866362999000046, 51.730048 ], [ 33.866627, 51.727512 ], [ 33.871564, 51.722523 ], [ 33.877741, 51.727888 ], [ 33.872180999000079, 51.740119 ], [ 33.861744, 51.747573 ], [ 33.858838, 51.751042 ] ] ] } }
-]
-}

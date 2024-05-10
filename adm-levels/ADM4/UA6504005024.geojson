@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.048682711130500003, "Shape_Area": 0.000112934833099, "ADM4_EN": "Dalnie", "ADM4_UA": "Дальнє", "ADM4_PCODE": "UA6504005024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nyzhnosirohozka", "ADM3_UA": "Нижньосірогозька", "ADM3_PCODE": "UA6504005", "ADM2_EN": "Henicheskyi", "ADM2_UA": "Генічеський", "ADM2_PCODE": "UA6504", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.056085, 46.713298 ], [ 34.069788001000063, 46.71455 ], [ 34.068830001000038, 46.721582 ], [ 34.052544001000058, 46.719409 ], [ 34.051132, 46.715044 ], [ 34.056085, 46.713298 ] ] ] } }
-]
-}

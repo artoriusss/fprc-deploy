@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0543863041489, "Shape_Area": 7.1027948126300001e-05, "ADM4_EN": "Stodilky", "ADM4_UA": "Стоділки", "ADM4_PCODE": "UA4606007034", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodotska", "ADM3_UA": "Городоцька", "ADM3_PCODE": "UA4606007", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.624697315000049, 49.758495012000026 ], [ 23.620914316000039, 49.757160011000053 ], [ 23.619074316000024, 49.751755012000046 ], [ 23.619667316000061, 49.746759012000041 ], [ 23.612197317000039, 49.747063012000069 ], [ 23.611713319000046, 49.74520201200005 ], [ 23.623737315000028, 49.745262011000079 ], [ 23.62309031500007, 49.748777012000062 ], [ 23.624697315000049, 49.758495012000026 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0822084006147, "Shape_Area": 0.00012546969025900001, "ADM4_EN": "Zalavia", "ADM4_UA": "Залав'я", "ADM4_PCODE": "UA5604021006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ostrozhetska", "ADM3_UA": "Острожецька", "ADM3_PCODE": "UA5604021", "ADM2_EN": "Dubenskyi", "ADM2_UA": "Дубенський", "ADM2_PCODE": "UA5604", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.510708080000029, 50.661289980000049 ], [ 25.511096880000025, 50.658986070000026 ], [ 25.516434959000037, 50.65120206000006 ], [ 25.526594159000069, 50.655220920000033 ], [ 25.526531881000039, 50.657140980000065 ], [ 25.517647079000028, 50.662097010000082 ], [ 25.512017040000046, 50.659480980000069 ], [ 25.510708080000029, 50.661289980000049 ] ] ] } }
-]
-}

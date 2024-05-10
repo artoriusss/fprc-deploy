@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.079908085438199994, "Shape_Area": 4.8421574713600002e-05, "ADM4_EN": "Prokhody", "ADM4_UA": "Проходи", "ADM4_PCODE": "UA5908009030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasnopilska", "ADM3_UA": "Краснопільська", "ADM3_PCODE": "UA5908009", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.36113799900005, 50.924978 ], [ 35.357467001000032, 50.923417 ], [ 35.351575, 50.923568 ], [ 35.34104, 50.922093 ], [ 35.341189, 50.919748 ], [ 35.356316, 50.921678 ], [ 35.36113799900005, 50.924978 ] ] ] } }
-]
-}

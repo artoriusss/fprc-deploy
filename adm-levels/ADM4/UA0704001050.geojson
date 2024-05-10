@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.097556332788799993, "Shape_Area": 0.000196479114984, "ADM4_EN": "Teklyne", "ADM4_UA": "Теклине", "ADM4_PCODE": "UA0704001050", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kamin-Kashyrska", "ADM3_UA": "Камінь-Каширська", "ADM3_PCODE": "UA0704001", "ADM2_EN": "Kamin-Kashyrskyi", "ADM2_UA": "Камінь-Каширський", "ADM2_PCODE": "UA0704", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.797137106000037, 51.634643003000065 ], [ 24.792104706000032, 51.633815803000061 ], [ 24.793133107000074, 51.630313003000026 ], [ 24.789609307000035, 51.628644903000065 ], [ 24.782828108000047, 51.630058003000045 ], [ 24.785717108000028, 51.619927003000043 ], [ 24.795631107000077, 51.619786004000048 ], [ 24.801304106000032, 51.621992003000059 ], [ 24.803666105000048, 51.62884000300005 ], [ 24.797689107000053, 51.630121004000046 ], [ 24.797137106000037, 51.634643003000065 ] ] ] } }
-]
-}

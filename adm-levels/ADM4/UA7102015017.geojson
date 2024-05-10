@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.094534363757600007, "Shape_Area": 0.000128010260054, "ADM4_EN": "Romeikovo", "ADM4_UA": "Ромейково", "ADM4_PCODE": "UA7102015017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Katerynopilska", "ADM3_UA": "Катеринопільська", "ADM3_PCODE": "UA7102015", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.075850999000068, 48.839154 ], [ 31.080344, 48.842278 ], [ 31.085959, 48.844493 ], [ 31.096538, 48.845046 ], [ 31.097212999000078, 48.840014 ], [ 31.103349, 48.841058 ], [ 31.099195, 48.847177 ], [ 31.082825, 48.8463 ], [ 31.077559, 48.844547 ], [ 31.072049, 48.84679 ], [ 31.070709, 48.845626 ], [ 31.070479, 48.842882 ], [ 31.075850999000068, 48.839154 ] ] ] } }
-]
-}

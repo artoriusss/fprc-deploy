@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.054932659826799998, "Shape_Area": 8.5136212536699997e-05, "ADM4_EN": "Medvedivka", "ADM4_UA": "Медведівка", "ADM4_PCODE": "UA7406007042", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Semenivska", "ADM3_UA": "Семенівська", "ADM3_PCODE": "UA7406007", "ADM2_EN": "Novhorod-Siverskyi", "ADM2_UA": "Новгород-Сіверський", "ADM2_PCODE": "UA7406", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.461272001000054, 52.297550010000066 ], [ 32.459433120000028, 52.292904030000045 ], [ 32.453642880000075, 52.291893960000039 ], [ 32.455491120000033, 52.289166960000045 ], [ 32.45963112000004, 52.289429040000073 ], [ 32.468193, 52.29331398000005 ], [ 32.466911039000024, 52.296782040000039 ], [ 32.461272001000054, 52.297550010000066 ] ] ] } }
-]
-}

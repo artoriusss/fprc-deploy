@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.17736652765800001, "Shape_Area": 0.000130821185021, "ADM4_EN": "Lysanivtsi", "ADM4_UA": "Лисанівці", "ADM4_PCODE": "UA6804043019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starosyniavska", "ADM3_UA": "Старосинявська", "ADM3_PCODE": "UA6804043", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.462360999000055, 49.535689 ], [ 27.458606, 49.535307 ], [ 27.455871001000048, 49.530524 ], [ 27.451293001000067, 49.531699 ], [ 27.450044001000037, 49.530064 ], [ 27.462077001000068, 49.527199 ], [ 27.461524, 49.522255 ], [ 27.466973001000042, 49.522108 ], [ 27.468297, 49.527408 ], [ 27.46341, 49.529951 ], [ 27.462360999000055, 49.535689 ] ] ] } }
-]
-}

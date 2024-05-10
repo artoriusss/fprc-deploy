@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0510271660308, "Shape_Area": 8.6490316382799998e-05, "ADM4_EN": "Step", "ADM4_UA": "Степ", "ADM4_PCODE": "UA7404031005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Plyskivska", "ADM3_UA": "Плисківська", "ADM3_PCODE": "UA7404031", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.54820084000005, 51.111418050000054 ], [ 32.529058200000065, 51.109457040000052 ], [ 32.530613039000059, 51.106398030000037 ], [ 32.540564880000034, 51.10776603000005 ], [ 32.541433920000031, 51.104080080000074 ], [ 32.550113159000034, 51.106194 ], [ 32.54820084000005, 51.111418050000054 ] ] ] } }
-]
-}

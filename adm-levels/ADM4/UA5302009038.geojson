@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13602633782699999, "Shape_Area": 0.000298667273085, "ADM4_EN": "Olenivka", "ADM4_UA": "Оленівка", "ADM4_PCODE": "UA5302009038", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozelshchynska", "ADM3_UA": "Козельщинська", "ADM3_PCODE": "UA5302009", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.981157001000042, 49.248039 ], [ 33.978934, 49.246162 ], [ 33.987992999000028, 49.240943 ], [ 33.996884999000031, 49.238014 ], [ 34.01001799900007, 49.230944 ], [ 34.003875, 49.226623 ], [ 34.006567, 49.225105 ], [ 34.013799, 49.228771 ], [ 34.018948, 49.225399 ], [ 34.020009, 49.227689 ], [ 34.014547001000039, 49.232673 ], [ 34.014794, 49.236947 ], [ 33.997382001000062, 49.244324 ], [ 33.996569, 49.247229 ], [ 33.98925, 49.247577 ], [ 33.988397, 49.246406 ], [ 33.981157001000042, 49.248039 ] ] ] } }
-]
-}

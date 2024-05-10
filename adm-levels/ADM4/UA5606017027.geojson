@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.082048128685399999, "Shape_Area": 0.00012123117321500001, "ADM4_EN": "Pashuky", "ADM4_UA": "Пашуки", "ADM4_PCODE": "UA5606017027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hoshchanska", "ADM3_UA": "Гощанська", "ADM3_PCODE": "UA5606017", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.847765, 50.546597940000026 ], [ 26.848029960000076, 50.548312980000048 ], [ 26.843348880000065, 50.550978060000034 ], [ 26.83878696000005, 50.544899010000051 ], [ 26.847020881000049, 50.544161010000039 ], [ 26.852168880000079, 50.541769980000026 ], [ 26.869169880000072, 50.536359 ], [ 26.869987080000044, 50.540751991000036 ], [ 26.857802161000052, 50.54273199000005 ], [ 26.853255, 50.545565010000075 ], [ 26.847765, 50.546597940000026 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.026167405821700001, "Shape_Area": 3.3067245402600002e-05, "ADM4_EN": "Siriakivshchyna", "ADM4_UA": "Сіряківщина", "ADM4_PCODE": "UA7408001025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Varvynska", "ADM3_UA": "Варвинська", "ADM3_PCODE": "UA7408001", "ADM2_EN": "Prylutskyi", "ADM2_UA": "Прилуцький", "ADM2_PCODE": "UA7408", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.817526920000034, 50.516667 ], [ 32.821032960000025, 50.518817010000078 ], [ 32.816725920000067, 50.52156696000003 ], [ 32.810857920000046, 50.521782060000078 ], [ 32.816126161000057, 50.516637030000027 ], [ 32.817526920000034, 50.516667 ] ] ] } }
-]
-}

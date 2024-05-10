@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.1123458736, "Shape_Area": 0.000136172610018, "ADM4_EN": "Nova Hreblia", "ADM4_UA": "Нова Гребля", "ADM4_PCODE": "UA6804009031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Volochyska", "ADM3_UA": "Волочиська", "ADM3_PCODE": "UA6804009", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.450795999000036, 49.693489 ], [ 26.446202, 49.693432 ], [ 26.446418, 49.689302 ], [ 26.441985, 49.688882 ], [ 26.439628999000035, 49.68643 ], [ 26.449077, 49.68584 ], [ 26.45368699900007, 49.680751 ], [ 26.459165, 49.681884 ], [ 26.45781, 49.68432 ], [ 26.452101, 49.687252 ], [ 26.453677, 49.690107 ], [ 26.450795999000036, 49.693489 ] ] ] } }
-]
-}

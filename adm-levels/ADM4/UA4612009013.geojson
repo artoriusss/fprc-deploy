@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0530257333494, "Shape_Area": 9.1852837714199997e-05, "ADM4_EN": "Yosypivka", "ADM4_UA": "Йосипівка", "ADM4_PCODE": "UA4612009013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Radekhivska", "ADM3_UA": "Радехівська", "ADM3_PCODE": "UA4612009", "ADM2_EN": "Chervonohradskyi", "ADM2_UA": "Червоноградський", "ADM2_PCODE": "UA4612", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.600840123000069, 50.308697004000066 ], [ 24.59598412400004, 50.308208004000051 ], [ 24.595536124000034, 50.302304004000064 ], [ 24.587340124000036, 50.303759005000074 ], [ 24.586730125000031, 50.301627004000068 ], [ 24.598386123000068, 50.297635005000075 ], [ 24.600585122000041, 50.301322004000042 ], [ 24.602963123000052, 50.301652005000051 ], [ 24.604782122000074, 50.306485004000081 ], [ 24.600840123000069, 50.308697004000066 ] ] ] } }
-]
-}

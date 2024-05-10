@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0759902808988, "Shape_Area": 8.7688913884700003e-05, "ADM4_EN": "Korolivka", "ADM4_UA": "Королівка", "ADM4_PCODE": "UA4604001025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Brodivska", "ADM3_UA": "Бродівська", "ADM3_PCODE": "UA4604001", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.097626071000036, 50.284764003000078 ], [ 25.093311073000052, 50.281115003000082 ], [ 25.092658072000063, 50.275946003000058 ], [ 25.106467071000054, 50.275218002000031 ], [ 25.107758071000035, 50.277908002000061 ], [ 25.095748072000049, 50.278818002000037 ], [ 25.097626071000036, 50.284764003000078 ] ] ] } }
-]
-}

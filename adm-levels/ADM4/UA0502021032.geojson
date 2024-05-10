@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.084298911103500004, "Shape_Area": 8.0963314635599994e-05, "ADM4_EN": "Ozerna", "ADM4_UA": "Озерна", "ADM4_PCODE": "UA0502021032", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pohrebyshchenska", "ADM3_UA": "Погребищенська", "ADM3_PCODE": "UA0502021", "ADM2_EN": "Vinnytskyi", "ADM2_UA": "Вінницький", "ADM2_PCODE": "UA0502", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.50514799900003, 49.645051 ], [ 29.501994999000033, 49.640308 ], [ 29.506648999000049, 49.637865 ], [ 29.5117, 49.639688 ], [ 29.517518001000042, 49.637188 ], [ 29.517078001000073, 49.640592 ], [ 29.511585999000033, 49.643518 ], [ 29.50514799900003, 49.645051 ] ] ] } }
-]
-}

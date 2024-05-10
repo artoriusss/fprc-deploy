@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.105462197972, "Shape_Area": 0.00023009678918500001, "ADM4_EN": "Yevhenivka", "ADM4_UA": "Євгенівка", "ADM4_PCODE": "UA5106005011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Borodinska", "ADM3_UA": "Бородінська", "ADM3_PCODE": "UA5106005", "ADM2_EN": "Bolhradskyi", "ADM2_UA": "Болградський", "ADM2_PCODE": "UA5106", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.216143, 46.365924 ], [ 29.217756, 46.369358 ], [ 29.216237, 46.373839 ], [ 29.209396844000025, 46.383257509000032 ], [ 29.206948341000043, 46.383805190000032 ], [ 29.207008897000037, 46.387731451000036 ], [ 29.204494, 46.392349 ], [ 29.197982, 46.399275 ], [ 29.194202, 46.396422 ], [ 29.197168, 46.389133 ], [ 29.203274001000068, 46.383503 ], [ 29.20398, 46.378426 ], [ 29.20989, 46.369007 ], [ 29.213247, 46.366231 ], [ 29.216143, 46.365924 ] ] ] } }
-]
-}

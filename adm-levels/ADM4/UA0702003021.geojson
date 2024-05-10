@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.043301511551600003, "Shape_Area": 2.9247912365600001e-05, "ADM4_EN": "Sirnychky", "ADM4_UA": "Сірнички", "ADM4_PCODE": "UA0702003021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zaturtsivska", "ADM3_UA": "Затурцівська", "ADM3_PCODE": "UA0702003", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.893095093000056, 50.804056003000028 ], [ 24.891891093000027, 50.803751003000059 ], [ 24.893669092000039, 50.793276003000074 ], [ 24.896302092000042, 50.792680003000044 ], [ 24.895298091000029, 50.798748003000071 ], [ 24.893095093000056, 50.804056003000028 ] ] ] } }
-]
-}

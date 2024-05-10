@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.049742438971400002, "Shape_Area": 8.7922186593000006e-05, "ADM4_EN": "Vorona", "ADM4_UA": "Ворона", "ADM4_PCODE": "UA0706021006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kolodiazhnenska", "ADM3_UA": "Колодяжненська", "ADM3_PCODE": "UA0706021", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.780893106000065, 51.130942004000076 ], [ 24.77653510600004, 51.126023004000047 ], [ 24.773459107000065, 51.127490004000038 ], [ 24.770818107000025, 51.126209003000042 ], [ 24.777999106000038, 51.122256003000075 ], [ 24.784391107000033, 51.120108003000041 ], [ 24.786188104000075, 51.121291003000067 ], [ 24.787030106000032, 51.12620600300005 ], [ 24.780279106000023, 51.129658003000031 ], [ 24.780893106000065, 51.130942004000076 ] ] ] } }
-]
-}

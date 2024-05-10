@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.062338653950699999, "Shape_Area": 8.5136956390899994e-05, "ADM4_EN": "Vysichka", "ADM4_UA": "Висічка", "ADM4_PCODE": "UA6106005004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Borshchivska", "ADM3_UA": "Борщівська", "ADM3_PCODE": "UA6106005", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.989512933000071, 48.785993529000052 ], [ 25.989598128000068, 48.789128668000046 ], [ 26.001398722000033, 48.789394690000051 ], [ 26.001657279000028, 48.791518058000065 ], [ 25.985528023000029, 48.794595690000051 ], [ 25.982430143000045, 48.790559982000048 ], [ 25.984132028000033, 48.788698959000044 ], [ 25.98937077000005, 48.785947578000048 ], [ 25.989512933000071, 48.785993529000052 ] ] ] } }
-]
-}

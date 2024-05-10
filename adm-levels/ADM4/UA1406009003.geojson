@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.063840350795600007, "Shape_Area": 0.00011167861884299999, "ADM4_EN": "Rozivka", "ADM4_UA": "Розівка", "ADM4_PCODE": "UA1406009003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhdanivska", "ADM3_UA": "Жданівська", "ADM3_PCODE": "UA1406009", "ADM2_EN": "Horlivskyi", "ADM2_UA": "Горлівський", "ADM2_PCODE": "UA1406", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.225987998000051, 48.170251 ], [ 38.226290999000071, 48.172007 ], [ 38.216675998000028, 48.171941 ], [ 38.212713998000027, 48.166342 ], [ 38.214985998000031, 48.161105 ], [ 38.22095999700008, 48.160903 ], [ 38.22088099900003, 48.166319 ], [ 38.22582699700007, 48.168339 ], [ 38.225987998000051, 48.170251 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.034947806052100003, "Shape_Area": 5.5427402305100003e-05, "ADM4_EN": "Litynski Khutory", "ADM4_UA": "Літинські Хутори", "ADM4_PCODE": "UA0502013024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Litynska", "ADM3_UA": "Літинська", "ADM3_PCODE": "UA0502013", "ADM2_EN": "Vinnytskyi", "ADM2_UA": "Вінницький", "ADM2_PCODE": "UA0502", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.053553068000042, 49.346822 ], [ 28.049318068000048, 49.349122 ], [ 28.045065568000041, 49.346045500000059 ], [ 28.046387068000058, 49.342265 ], [ 28.049107068000069, 49.340795 ], [ 28.054129068000066, 49.340697 ], [ 28.056775069000025, 49.342923 ], [ 28.053553068000042, 49.346822 ] ] ] } }
-]
-}

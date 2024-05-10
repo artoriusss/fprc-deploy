@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0483131234965, "Shape_Area": 8.7582524238300003e-05, "ADM4_EN": "Mala Tarasivka", "ADM4_UA": "Мала Тарасівка", "ADM4_PCODE": "UA3206001014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Baryshivska", "ADM3_UA": "Баришівська", "ADM3_PCODE": "UA3206001", "ADM2_EN": "Brovarskyi", "ADM2_UA": "Броварський", "ADM2_PCODE": "UA3206", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.284884840000075, 50.179089770000076 ], [ 31.284754323000072, 50.18108919000008 ], [ 31.272151820000033, 50.182699613000068 ], [ 31.272213762000035, 50.176863722000064 ], [ 31.282925856000077, 50.175691761000053 ], [ 31.288432792000037, 50.175716758000078 ], [ 31.289250874000061, 50.178996704000042 ], [ 31.284884840000075, 50.179089770000076 ] ] ] } }
-]
-}

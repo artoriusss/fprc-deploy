@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.23414551187, "Shape_Area": 0.000265556618337, "ADM4_EN": "Pysarivka", "ADM4_UA": "Писарівка", "ADM4_PCODE": "UA5908029013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khotinska", "ADM3_UA": "Хотінська", "ADM3_PCODE": "UA5908029", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 34.846542, 51.083336 ], [ 34.843675, 51.083181 ], [ 34.827305, 51.079897 ], [ 34.82201, 51.081632 ], [ 34.810718001000055, 51.082361 ], [ 34.814329, 51.078536 ], [ 34.826459, 51.077758999000082 ], [ 34.833641, 51.080021 ], [ 34.837861, 51.078566 ], [ 34.846542, 51.083336 ] ] ], [ [ [ 34.795279, 51.07762 ], [ 34.787954, 51.076435 ], [ 34.78673, 51.074045 ], [ 34.791044, 51.07173 ], [ 34.793713, 51.068722 ], [ 34.808248, 51.075201 ], [ 34.805418001000078, 51.077677 ], [ 34.795279, 51.07762 ] ] ] ] } }
-]
-}

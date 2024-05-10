@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.121610119635, "Shape_Area": 0.00019665440235, "ADM4_EN": "Kostiantynivka", "ADM4_UA": "Костянтинівка", "ADM4_PCODE": "UA3506013019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novomyrhorodska", "ADM3_UA": "Новомиргородська", "ADM3_PCODE": "UA3506013", "ADM2_EN": "Novoukrainskyi", "ADM2_UA": "Новоукраїнський", "ADM2_PCODE": "UA3506", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.690143897000041, 48.806165480000061 ], [ 31.680250631000035, 48.80504471100005 ], [ 31.680307391000042, 48.800684726000043 ], [ 31.67741600100004, 48.78959599500007 ], [ 31.686091, 48.787532 ], [ 31.682218, 48.783996 ], [ 31.686064, 48.781614 ], [ 31.687508, 48.786927 ], [ 31.693653, 48.787926 ], [ 31.689292001000069, 48.792382 ], [ 31.691644, 48.801395 ], [ 31.687425, 48.802132 ], [ 31.690143897000041, 48.806165480000061 ] ] ] } }
-]
-}

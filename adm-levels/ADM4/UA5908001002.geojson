@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.027407936276000001, "Shape_Area": 1.30974802661e-05, "ADM4_EN": "Zatsarne", "ADM4_UA": "Зацарне", "ADM4_PCODE": "UA5908001002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bezdrytska", "ADM3_UA": "Бездрицька", "ADM3_PCODE": "UA5908001", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.006843, 50.905508 ], [ 35.007731, 50.904115 ], [ 35.010126999000079, 50.903901 ], [ 35.011542001000066, 50.903019 ], [ 35.01414, 50.903805 ], [ 35.011869, 50.905023 ], [ 35.008320001000072, 50.9049 ], [ 35.006843, 50.905508 ] ] ] } }
-]
-}

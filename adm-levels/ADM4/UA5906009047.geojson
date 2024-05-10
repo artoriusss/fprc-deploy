@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.084854315674799993, "Shape_Area": 8.7089572782000004e-05, "ADM4_EN": "Kholodnyi Yar", "ADM4_UA": "Холодний Яр", "ADM4_PCODE": "UA5906009047", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nedryhailivska", "ADM3_UA": "Недригайлівська", "ADM3_PCODE": "UA5906009", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.983408001000043, 50.871188 ], [ 33.982463, 50.872554 ], [ 33.972830999000053, 50.871011 ], [ 33.976115999000058, 50.86517 ], [ 33.97846, 50.865198 ], [ 33.978256999000052, 50.859286 ], [ 33.983827, 50.868789 ], [ 33.983408001000043, 50.871188 ] ] ] } }
-]
-}

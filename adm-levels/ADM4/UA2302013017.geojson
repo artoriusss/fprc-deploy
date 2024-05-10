@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.090833060569700003, "Shape_Area": 0.00033985424103200003, "ADM4_EN": "Preslav", "ADM4_UA": "Преслав", "ADM4_PCODE": "UA2302013017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Prymorska", "ADM3_UA": "Приморська", "ADM3_PCODE": "UA2302013", "ADM2_EN": "Berdianskyi", "ADM2_UA": "Бердянський", "ADM2_PCODE": "UA2302", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.224233201000061, 46.694177061000062 ], [ 36.220082411000078, 46.696896829000082 ], [ 36.208302767000077, 46.691764797000076 ], [ 36.203623365000055, 46.688633461000052 ], [ 36.197937898000077, 46.686205640000026 ], [ 36.204392521000045, 46.676348662000066 ], [ 36.213127696000072, 46.679882389000056 ], [ 36.230332769000029, 46.687637626000026 ], [ 36.228191725000045, 46.691049025000041 ], [ 36.224233201000061, 46.694177061000062 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0456570156342, "Shape_Area": 7.2075636927299995e-05, "ADM4_EN": "Davydivka", "ADM4_UA": "Давидівка", "ADM4_PCODE": "UA5308011004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Karlivska", "ADM3_UA": "Карлівська", "ADM3_PCODE": "UA5308011", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.089164999000047, 49.599471 ], [ 35.087897999000063, 49.601655 ], [ 35.08031466500006, 49.598990765000053 ], [ 35.073099, 49.598849 ], [ 35.074923, 49.5949 ], [ 35.089089915000045, 49.596482733000073 ], [ 35.089164999000047, 49.599471 ] ] ] } }
-]
-}

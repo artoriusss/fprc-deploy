@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.078681846615399995, "Shape_Area": 0.000152795110889, "ADM4_EN": "Plodove", "ADM4_UA": "Плодове", "ADM4_PCODE": "UA0102035001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Plodivska", "ADM3_UA": "Плодівська", "ADM3_PCODE": "UA0102035", "ADM2_EN": "Bakhchysaraiskyi", "ADM2_UA": "Бахчисарайський", "ADM2_PCODE": "UA0102", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.86340044700006, 44.873240619000057 ], [ 33.862874999000041, 44.874949 ], [ 33.851422, 44.874885 ], [ 33.848723001000053, 44.873173 ], [ 33.84472, 44.873186 ], [ 33.848569, 44.866725 ], [ 33.84643, 44.863228 ], [ 33.850044, 44.862346 ], [ 33.852261, 44.865809 ], [ 33.851446, 44.868283 ], [ 33.86326226400007, 44.867582465000055 ], [ 33.86340044700006, 44.873240619000057 ] ] ] } }
-]
-}

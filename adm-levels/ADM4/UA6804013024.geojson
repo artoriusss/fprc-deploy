@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.077861560349800005, "Shape_Area": 8.7668992276199997e-05, "ADM4_EN": "Mala Yaromyrka", "ADM4_UA": "Мала Яромирка", "ADM4_PCODE": "UA6804013024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodotska", "ADM3_UA": "Городоцька", "ADM3_PCODE": "UA6804013", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 26.477061, 49.111515 ], [ 26.46955, 49.112686 ], [ 26.46861, 49.110198 ], [ 26.47619, 49.10889 ], [ 26.477061, 49.111515 ] ] ], [ [ [ 26.504259001000037, 49.105552 ], [ 26.502227001000051, 49.107531 ], [ 26.494435, 49.109969 ], [ 26.49192, 49.112373 ], [ 26.492367001000048, 49.106806 ], [ 26.498755, 49.102622 ], [ 26.502313999000023, 49.103557 ], [ 26.502815001000045, 49.099426 ], [ 26.503963, 49.099449 ], [ 26.504259001000037, 49.105552 ] ] ] ] } }
-]
-}

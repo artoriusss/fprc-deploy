@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.046395297988499999, "Shape_Area": 8.3988117686699995e-05, "ADM4_EN": "Vorobiivka", "ADM4_UA": "Воробіївка", "ADM4_PCODE": "UA6104045002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Skorykivska", "ADM3_UA": "Скориківська", "ADM3_PCODE": "UA6104045", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.185353143000043, 49.623401813000044 ], [ 26.18292599800003, 49.62036243700004 ], [ 26.186686718000033, 49.615916190000064 ], [ 26.194191208000063, 49.616644774000065 ], [ 26.197327855000026, 49.620157665000079 ], [ 26.190340663000029, 49.623151575000065 ], [ 26.185353143000043, 49.623401813000044 ] ] ] } }
-]
-}

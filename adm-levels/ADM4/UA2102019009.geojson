@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0346373253455, "Shape_Area": 4.3533139599599998e-05, "ADM4_EN": "Okli", "ADM4_UA": "Оклі", "ADM4_PCODE": "UA2102019009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pyiterfolvivska", "ADM3_UA": "Пийтерфолвівська", "ADM3_PCODE": "UA2102019", "ADM2_EN": "Berehivskyi", "ADM2_UA": "Берегівський", "ADM2_PCODE": "UA2102", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.016642502000025, 48.005090021000058 ], [ 23.012105505000022, 47.998372022000069 ], [ 23.016029504000073, 47.997413021000057 ], [ 23.020923500000038, 48.002745021000067 ], [ 23.016642502000025, 48.005090021000058 ] ] ] } }
-]
-}

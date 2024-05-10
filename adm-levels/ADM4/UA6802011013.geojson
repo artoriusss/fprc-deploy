@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.031053424570600001, "Shape_Area": 5.0934773708399998e-05, "ADM4_EN": "Chervona Chaharivka", "ADM4_UA": "Червона Чагарівка", "ADM4_PCODE": "UA6802011013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kamianets-Podilska", "ADM3_UA": "Кам'янець-Подільська", "ADM3_PCODE": "UA6802011", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.516407, 48.623501001000079 ], [ 26.510867, 48.631691 ], [ 26.505785999000068, 48.630313 ], [ 26.51238, 48.621783 ], [ 26.516407, 48.623501001000079 ] ] ] } }
-]
-}

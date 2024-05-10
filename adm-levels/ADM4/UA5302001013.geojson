@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.036563654333800003, "Shape_Area": 7.1430077409299997e-05, "ADM4_EN": "Demydivka", "ADM4_UA": "Демидівка", "ADM4_PCODE": "UA5302001013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hlobynska", "ADM3_UA": "Глобинська", "ADM3_PCODE": "UA5302001", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.609846615000038, 49.424522004000039 ], [ 33.604453069000044, 49.425516973000072 ], [ 33.604948992000061, 49.413370429000054 ], [ 33.608028205000039, 49.412919090000059 ], [ 33.611264787000039, 49.415023285000075 ], [ 33.610743754000055, 49.424686220000069 ], [ 33.609846615000038, 49.424522004000039 ] ] ] } }
-]
-}

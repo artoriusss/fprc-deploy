@@ -556,7 +556,7 @@ const aggregateByPcode = async function (data) {
                 d.value += p.amount;
             }
         });
-        d.value = d.value === 0 ? null : d.value;
+        d.value = d.value === 0 ? 0 : d.value;
     });
     return data;
 };
@@ -636,6 +636,7 @@ const drilldown = async function (e) {
         const seriesName = e.point.properties[`ADM${drilldownLevel}_UA`];
         breadcrumbNames = [seriesName];
         data = await aggregateByPcode(topoData);
+        log(data)
 
         chart.addSeriesAsDrilldown(e.point, {
             name: seriesName,

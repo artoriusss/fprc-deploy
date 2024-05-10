@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.084956207957399998, "Shape_Area": 0.000175273344141, "ADM4_EN": "Komarivka", "ADM4_UA": "Комарівка", "ADM4_PCODE": "UA7104009006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zolotoniska", "ADM3_UA": "Золотоніська", "ADM3_PCODE": "UA7104009", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.918058204000033, 49.636577188000047 ], [ 31.921046, 49.629294 ], [ 31.928314, 49.616838 ], [ 31.934606, 49.621673 ], [ 31.932053, 49.624825 ], [ 31.92235, 49.629766 ], [ 31.92746, 49.631788 ], [ 31.930352, 49.631616 ], [ 31.93520200100005, 49.634591 ], [ 31.934522001000062, 49.638676 ], [ 31.925587, 49.637061 ], [ 31.922136462000026, 49.637926586000049 ], [ 31.918058204000033, 49.636577188000047 ] ] ] } }
-]
-}

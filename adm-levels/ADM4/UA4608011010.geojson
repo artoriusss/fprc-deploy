@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.041221672595099998, "Shape_Area": 8.9390436883000001e-05, "ADM4_EN": "Kanafosty", "ADM4_UA": "Канафости", "ADM4_PCODE": "UA4608011010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rudkivska", "ADM3_UA": "Рудківська", "ADM3_PCODE": "UA4608011", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.397766386000058, 49.676505015000032 ], [ 23.384230393000053, 49.67774001500004 ], [ 23.380457394000075, 49.673408015000064 ], [ 23.383139393000079, 49.670649015000038 ], [ 23.387351391000038, 49.671580015000075 ], [ 23.391885390000027, 49.670543015000078 ], [ 23.395127389000038, 49.671826014000033 ], [ 23.397766386000058, 49.676505015000032 ] ] ] } }
-]
-}

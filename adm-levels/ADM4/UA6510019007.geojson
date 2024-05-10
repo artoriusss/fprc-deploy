@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11241455356000001, "Shape_Area": 0.00077188055377400003, "ADM4_EN": "Stara Maiachka", "ADM4_UA": "Стара Маячка", "ADM4_PCODE": "UA6510019007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yuvileina", "ADM3_UA": "Ювілейна", "ADM3_PCODE": "UA6510019", "ADM2_EN": "Khersonskyi", "ADM2_UA": "Херсонський", "ADM2_PCODE": "UA6510", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.182281999000054, 46.527944 ], [ 33.173196999000027, 46.532477 ], [ 33.170811001000061, 46.531845 ], [ 33.16482, 46.519878 ], [ 33.164744, 46.514905 ], [ 33.166462, 46.505386 ], [ 33.176483, 46.499919 ], [ 33.181908, 46.499658 ], [ 33.195358999000064, 46.503948 ], [ 33.195471999000063, 46.508151 ], [ 33.193537001000038, 46.510231 ], [ 33.198681001000068, 46.516162 ], [ 33.192231, 46.520818 ], [ 33.19123, 46.526808 ], [ 33.184999, 46.526187 ], [ 33.182281999000054, 46.527944 ] ] ] } }
-]
-}

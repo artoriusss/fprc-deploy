@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.056375829692200001, "Shape_Area": 0.000146537091802, "ADM4_EN": "Lotskyne", "ADM4_UA": "Лоцкине", "ADM4_PCODE": "UA4802011014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Inhulska", "ADM3_UA": "Інгульська", "ADM3_PCODE": "UA4802011", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.389528979000033, 47.199994537000066 ], [ 32.397623884000041, 47.20671298600007 ], [ 32.394806661000075, 47.210303675000034 ], [ 32.381693548000044, 47.208777987000076 ], [ 32.377893348000043, 47.202795887000036 ], [ 32.378037235000079, 47.198802276000038 ], [ 32.389528979000033, 47.199994537000066 ] ] ] } }
-]
-}

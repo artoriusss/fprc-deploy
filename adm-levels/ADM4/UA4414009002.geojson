@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.093078969461900002, "Shape_Area": 0.000205899392308, "ADM4_EN": "Bulavynivka", "ADM4_UA": "Булавинівка", "ADM4_PCODE": "UA4414009002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novopskovska", "ADM3_UA": "Новопсковська", "ADM3_PCODE": "UA4414009", "ADM2_EN": "Starobilskyi", "ADM2_UA": "Старобільський", "ADM2_PCODE": "UA4414", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.967548, 49.406384 ], [ 38.974123688000077, 49.403693712000063 ], [ 38.976528037000037, 49.415723761000038 ], [ 38.974855, 49.416752 ], [ 38.97618, 49.423956 ], [ 38.974112, 49.423958 ], [ 38.97264, 49.428511 ], [ 38.96954499900005, 49.43184 ], [ 38.969888999000034, 49.422837 ], [ 38.965784, 49.420581 ], [ 38.965463, 49.414939 ], [ 38.968145, 49.412026 ], [ 38.967548, 49.406384 ] ] ] } }
-]
-}

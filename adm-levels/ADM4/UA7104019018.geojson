@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.161696155526, "Shape_Area": 0.000288186918451, "ADM4_EN": "Novoukrainka", "ADM4_UA": "Новоукраїнка", "ADM4_PCODE": "UA7104019018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chornobaivska", "ADM3_UA": "Чорнобаївська", "ADM3_PCODE": "UA7104019", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 32.464148, 49.594383 ], [ 32.459388, 49.595428 ], [ 32.456863, 49.590191 ], [ 32.456945, 49.585826 ], [ 32.462437999000031, 49.589221 ], [ 32.479648999000062, 49.585786 ], [ 32.486776, 49.586845 ], [ 32.488576, 49.590987 ], [ 32.481538, 49.592953 ], [ 32.467323, 49.595499 ], [ 32.464148, 49.594383 ] ] ], [ [ [ 32.451321, 49.590392 ], [ 32.452204336000079, 49.584674004000078 ], [ 32.456056999000054, 49.588147 ], [ 32.454334, 49.592636 ], [ 32.451321, 49.590392 ] ] ] ] } }
-]
-}

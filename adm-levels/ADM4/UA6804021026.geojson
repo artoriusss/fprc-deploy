@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.086281290969400001, "Shape_Area": 0.000190000653668, "ADM4_EN": "Slobidka-Krasylivska", "ADM4_UA": "Слобідка-Красилівська", "ADM4_PCODE": "UA6804021026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasylivska", "ADM3_UA": "Красилівська", "ADM3_PCODE": "UA6804021", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.971886, 49.625995 ], [ 26.968027, 49.624613 ], [ 26.971526, 49.617001 ], [ 26.976052999000046, 49.614297 ], [ 26.990297, 49.613799 ], [ 26.989667001000043, 49.616422 ], [ 26.986186, 49.618994 ], [ 26.992345001000047, 49.62134 ], [ 26.971886, 49.625995 ] ] ] } }
-]
-}

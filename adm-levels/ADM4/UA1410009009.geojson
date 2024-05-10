@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.099042185010099995, "Shape_Area": 0.00019812496698, "ADM4_EN": "Novoselivka", "ADM4_UA": "Новоселівка", "ADM4_PCODE": "UA1410009009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starobeshivska", "ADM3_UA": "Старобешівська", "ADM3_PCODE": "UA1410009", "ADM2_EN": "Kalmiuskyi", "ADM2_UA": "Кальміуський", "ADM2_PCODE": "UA1410", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.837050998000052, 47.845188 ], [ 37.834523, 47.836812 ], [ 37.830719999000053, 47.838283 ], [ 37.825916998000025, 47.835743 ], [ 37.82942999800008, 47.833278 ], [ 37.833422999000049, 47.832841 ], [ 37.837025, 47.834804 ], [ 37.840955999000073, 47.833508 ], [ 37.852311999000051, 47.834418 ], [ 37.852654999000038, 47.837684 ], [ 37.848770999000067, 47.842299 ], [ 37.842999999000028, 47.842485 ], [ 37.837050998000052, 47.845188 ] ] ] } }
-]
-}

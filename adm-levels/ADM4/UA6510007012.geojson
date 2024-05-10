@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.047473320825399998, "Shape_Area": 9.8030684055400006e-05, "ADM4_EN": "Ulianovka", "ADM4_UA": "Ульяновка", "ADM4_PCODE": "UA6510007012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Darivska", "ADM3_UA": "Дар'ївська", "ADM3_PCODE": "UA6510007", "ADM2_EN": "Khersonskyi", "ADM2_UA": "Херсонський", "ADM2_PCODE": "UA6510", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.809177, 46.789125 ], [ 32.802034, 46.789309 ], [ 32.799987, 46.785947 ], [ 32.794448, 46.786954 ], [ 32.794261, 46.782793 ], [ 32.797284, 46.779779 ], [ 32.801288001000046, 46.779683 ], [ 32.805569001000038, 46.781758 ], [ 32.809177, 46.789125 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.056731795614999997, "Shape_Area": 8.4370232318800001e-05, "ADM4_EN": "Kobylets", "ADM4_UA": "Кобилець", "ADM4_PCODE": "UA2608019004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pidhaichykivska", "ADM3_UA": "Підгайчиківська", "ADM3_PCODE": "UA2608019", "ADM2_EN": "Kolomyiskyi", "ADM2_UA": "Коломийський", "ADM2_PCODE": "UA2608", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.24105296700003, 48.540500156000064 ], [ 25.239745225000036, 48.544267024000078 ], [ 25.233493229000032, 48.544796358000042 ], [ 25.23384939400006, 48.538168642000073 ], [ 25.23623576600005, 48.537548513000047 ], [ 25.239132466000058, 48.531872711000062 ], [ 25.244273885000041, 48.540460104000033 ], [ 25.24105296700003, 48.540500156000064 ] ] ] } }
-]
-}

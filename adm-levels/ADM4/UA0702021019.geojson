@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.048405135326300003, "Shape_Area": 4.07649632995e-05, "ADM4_EN": "Rusiv", "ADM4_UA": "Русів", "ADM4_PCODE": "UA0702021019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ustyluzka", "ADM3_UA": "Устилузька", "ADM3_PCODE": "UA0702021", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.144348201000071, 50.834248007000042 ], [ 24.140812200000028, 50.834181007000041 ], [ 24.139106200000072, 50.829776007000078 ], [ 24.142197202000034, 50.828649007000081 ], [ 24.151120200000037, 50.828930007000054 ], [ 24.144348201000071, 50.834248007000042 ] ] ] } }
-]
-}

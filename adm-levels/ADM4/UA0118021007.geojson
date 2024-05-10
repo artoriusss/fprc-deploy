@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0478786633765, "Shape_Area": 9.0076377307200006e-05, "ADM4_EN": "Shakhtyne", "ADM4_UA": "Шахтине", "ADM4_PCODE": "UA0118021007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Illichivska", "ADM3_UA": "Іллічівська", "ADM3_PCODE": "UA0118021", "ADM2_EN": "Feodosiiskyi", "ADM2_UA": "Феодосійський", "ADM2_PCODE": "UA0118", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.032601, 45.255241 ], [ 35.027401, 45.255674 ], [ 35.027201, 45.260647 ], [ 35.021962, 45.260645 ], [ 35.020204, 45.253711 ], [ 35.02005900100005, 45.248823 ], [ 35.026267, 45.248563 ], [ 35.026726999000061, 45.252935 ], [ 35.03050599900007, 45.252807 ], [ 35.032601, 45.255241 ] ] ] } }
-]
-}

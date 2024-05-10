@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.077637879973300003, "Shape_Area": 8.1174885065199995e-05, "ADM4_EN": "Yuvkivtsi", "ADM4_UA": "Ювківці", "ADM4_PCODE": "UA6806003060", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilohirska", "ADM3_UA": "Білогірська", "ADM3_PCODE": "UA6806003", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.538437001000034, 50.124263 ], [ 26.534672999000065, 50.122124 ], [ 26.529831, 50.123581 ], [ 26.527825, 50.121532 ], [ 26.532634001000076, 50.119089 ], [ 26.53225, 50.115205 ], [ 26.537547, 50.11553 ], [ 26.539518, 50.120106 ], [ 26.538437001000034, 50.124263 ] ] ] } }
-]
-}

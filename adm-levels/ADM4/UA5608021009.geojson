@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13347942752399999, "Shape_Area": 9.4522052433500007e-05, "ADM4_EN": "Trudy", "ADM4_UA": "Труди", "ADM4_PCODE": "UA5608021009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stepanska", "ADM3_UA": "Степанська", "ADM3_PCODE": "UA5608021", "ADM2_EN": "Sarnenskyi", "ADM2_UA": "Сарненський", "ADM2_PCODE": "UA5608", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 26.246598120000044, 51.168188970000074 ], [ 26.246907001000068, 51.165771930000062 ], [ 26.256620161000058, 51.164973990000078 ], [ 26.255143080000039, 51.16715406000003 ], [ 26.246598120000044, 51.168188970000074 ] ] ], [ [ [ 26.275345921000053, 51.158151 ], [ 26.260896961000071, 51.156571050000082 ], [ 26.266026960000033, 51.155176950000055 ], [ 26.275345921000053, 51.158151 ] ] ] ] } }
-]
-}

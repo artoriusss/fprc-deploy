@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.066765198487899996, "Shape_Area": 0.000188782293073, "ADM4_EN": "Rata", "ADM4_UA": "Рата", "ADM4_PCODE": "UA4606039040", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rava-Ruska", "ADM3_UA": "Рава-Руська", "ADM3_PCODE": "UA4606039", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.614884335000056, 50.241009827000028 ], [ 23.616276569000036, 50.245281783000053 ], [ 23.611200326000073, 50.250738012000056 ], [ 23.601860328000043, 50.247780012000078 ], [ 23.603694328000074, 50.242363012000055 ], [ 23.601635330000079, 50.23972301200007 ], [ 23.602668366000046, 50.231426729000077 ], [ 23.612306326000066, 50.235582012000066 ], [ 23.614884335000056, 50.241009827000028 ] ] ] } }
-]
-}

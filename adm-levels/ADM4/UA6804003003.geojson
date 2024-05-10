@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.099765140408600003, "Shape_Area": 0.000113447902972, "ADM4_EN": "Bronivka", "ADM4_UA": "Бронівка", "ADM4_PCODE": "UA6804003003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Viitovetska", "ADM3_UA": "Війтовецька", "ADM3_PCODE": "UA6804003", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 26.458677999000031, 49.444802 ], [ 26.453459, 49.446438 ], [ 26.449557, 49.443179 ], [ 26.449202, 49.438692 ], [ 26.456568999000069, 49.439278 ], [ 26.458677999000031, 49.444802 ] ] ], [ [ [ 26.449513999000033, 49.431348 ], [ 26.451382, 49.434402 ], [ 26.438018, 49.438602 ], [ 26.437383999000076, 49.437195999000039 ], [ 26.447102001000076, 49.434171 ], [ 26.449513999000033, 49.431348 ] ] ] ] } }
-]
-}

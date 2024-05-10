@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.048939072849899998, "Shape_Area": 6.1652219664400004e-05, "ADM4_EN": "Tustoholovy", "ADM4_UA": "Тустоголови", "ADM4_PCODE": "UA6104017045", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zborivska", "ADM3_UA": "Зборівська", "ADM3_PCODE": "UA6104017", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.161634, 49.67693 ], [ 25.159042, 49.680203 ], [ 25.157579, 49.671425 ], [ 25.162584, 49.670371999000054 ], [ 25.165575999000055, 49.672600999000053 ], [ 25.161634, 49.67693 ] ] ] } }
-]
-}

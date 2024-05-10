@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.058590467064, "Shape_Area": 6.8839993910999994e-05, "ADM4_EN": "Kamianske", "ADM4_UA": "Кам'янське", "ADM4_PCODE": "UA2308027005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Terpinnivska", "ADM3_UA": "Терпіннівська", "ADM3_PCODE": "UA2308027", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "Мелітопольський", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.501553669000032, 47.073654005000037 ], [ 35.498907387000031, 47.076320887000065 ], [ 35.497171594000065, 47.070456331000059 ], [ 35.492240712000068, 47.064369709000061 ], [ 35.487987353000051, 47.060769065000045 ], [ 35.491160053000044, 47.058376494000072 ], [ 35.494049705000066, 47.062629988000026 ], [ 35.501402835000079, 47.070318651000036 ], [ 35.501553669000032, 47.073654005000037 ] ] ] } }
-]
-}

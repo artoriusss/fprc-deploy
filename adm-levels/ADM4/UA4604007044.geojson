@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.075349608847399996, "Shape_Area": 0.00021397112175, "ADM4_EN": "Pidhorodne", "ADM4_UA": "Підгородне", "ADM4_PCODE": "UA4604007044", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zolochivska", "ADM3_UA": "Золочівська", "ADM3_PCODE": "UA4604007", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.930863543000044, 49.791174869000031 ], [ 24.93149380400007, 49.792890085000067 ], [ 24.923970085000065, 49.797264003000066 ], [ 24.913765463000061, 49.800326949000066 ], [ 24.908951455000079, 49.793686081000033 ], [ 24.915087086000028, 49.791584003000025 ], [ 24.918961084000046, 49.789191003000042 ], [ 24.917289086000039, 49.783984003000057 ], [ 24.925302910000028, 49.782956814000045 ], [ 24.925991, 49.786017 ], [ 24.930863543000044, 49.791174869000031 ] ] ] } }
-]
-}

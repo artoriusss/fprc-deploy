@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.049562371304, "Shape_Area": 3.3570390555500001e-05, "ADM4_EN": "Borysove", "ADM4_UA": "Борисове", "ADM4_PCODE": "UA7406001004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Koropska", "ADM3_UA": "Коропська", "ADM3_PCODE": "UA7406001", "ADM2_EN": "Novhorod-Siverskyi", "ADM2_UA": "Новгород-Сіверський", "ADM2_PCODE": "UA7406", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.069781800000044, 51.567549030000066 ], [ 33.061073040000053, 51.566571 ], [ 33.062874840000063, 51.561941040000079 ], [ 33.069042, 51.558354 ], [ 33.070975660000045, 51.559714754000026 ], [ 33.066012960000023, 51.561859050000066 ], [ 33.063455160000046, 51.564397950000057 ], [ 33.063501960000053, 51.566607 ], [ 33.06969612000006, 51.566477040000052 ], [ 33.069781800000044, 51.567549030000066 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0436149053052, "Shape_Area": 7.5110472346199999e-05, "ADM4_EN": "Nova Myronivka", "ADM4_UA": "Нова Миронівка", "ADM4_PCODE": "UA3212009023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myronivska", "ADM3_UA": "Миронівська", "ADM3_PCODE": "UA3212009", "ADM2_EN": "Obukhivskyi", "ADM2_UA": "Обухівський", "ADM2_PCODE": "UA3212", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.129476763000071, 49.639872747000027 ], [ 31.122373415000027, 49.639882592000049 ], [ 31.123901352000075, 49.635444521000068 ], [ 31.130628071000046, 49.636493827000038 ], [ 31.132104900000058, 49.631653224000047 ], [ 31.136279031000072, 49.631601381000053 ], [ 31.135621569000079, 49.640422326000078 ], [ 31.129476763000071, 49.639872747000027 ] ] ] } }
-]
-}

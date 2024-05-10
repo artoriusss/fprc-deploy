@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.102571151544, "Shape_Area": 0.000120041558408, "ADM4_EN": "Mala Rohozianka", "ADM4_UA": "Мала Рогозянка", "ADM4_PCODE": "UA6302005031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zolochivska", "ADM3_UA": "Золочівська", "ADM3_PCODE": "UA6302005", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "Богодухівський", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.889335001000063, 50.123603 ], [ 35.896374, 50.120254 ], [ 35.909315999000057, 50.11833 ], [ 35.914853999000059, 50.118328 ], [ 35.925740999000027, 50.114641 ], [ 35.926315, 50.11669 ], [ 35.922214, 50.119331 ], [ 35.923169001000076, 50.122615 ], [ 35.912971, 50.121754 ], [ 35.904575, 50.122313 ], [ 35.89571, 50.12149 ], [ 35.889335001000063, 50.123603 ] ] ] } }
-]
-}

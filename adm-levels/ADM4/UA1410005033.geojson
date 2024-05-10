@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.026786968461899999, "Shape_Area": 1.15147258545e-05, "ADM4_EN": "Burne", "ADM4_UA": "Бурне", "ADM4_PCODE": "UA1410005033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kalmiuska", "ADM3_UA": "Кальміуська", "ADM3_PCODE": "UA1410005", "ADM2_EN": "Kalmiuskyi", "ADM2_UA": "Кальміуський", "ADM2_PCODE": "UA1410", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.226632460000076, 47.698552409000058 ], [ 38.230327999000053, 47.6979 ], [ 38.232848998000065, 47.699914 ], [ 38.236705999000037, 47.701468 ], [ 38.236687931000063, 47.702670472000079 ], [ 38.228344192000066, 47.698555579000072 ], [ 38.226632460000076, 47.698552409000058 ] ] ] } }
-]
-}

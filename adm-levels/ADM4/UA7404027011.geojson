@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.040310402713699997, "Shape_Area": 5.0229034961799999e-05, "ADM4_EN": "Sokolivka", "ADM4_UA": "Соколівка", "ADM4_PCODE": "UA7404027011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novobasanska", "ADM3_UA": "Новобасанська", "ADM3_PCODE": "UA7404027", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.365049, 50.553161999000054 ], [ 31.358819400000073, 50.552359151000076 ], [ 31.361021188000052, 50.544869523000045 ], [ 31.364889057000028, 50.545769818000053 ], [ 31.365049, 50.553161999000054 ] ] ] } }
-]
-}

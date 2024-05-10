@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0303934806492, "Shape_Area": 1.6737724965400001e-05, "ADM4_EN": "Lobivski Kopalni", "ADM4_UA": "Лобівські Копальні", "ADM4_PCODE": "UA4408001017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Antratsytivska", "ADM3_UA": "Антрацитівська", "ADM3_PCODE": "UA4408001", "ADM2_EN": "Rovenkivskyi", "ADM2_UA": "Ровеньківський", "ADM2_PCODE": "UA4408", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.202521216000036, 48.146811208000031 ], [ 39.215535617000057, 48.143932894000045 ], [ 39.216584305000026, 48.144983272000047 ], [ 39.202634343000057, 48.147905243000025 ], [ 39.202521216000036, 48.146811208000031 ] ] ] } }
-]
-}

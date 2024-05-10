@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12564243095700001, "Shape_Area": 0.00017758493406899999, "ADM4_EN": "Holubeche", "ADM4_UA": "Голубече", "ADM4_PCODE": "UA0510007002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kryzhopilska", "ADM3_UA": "Крижопільська", "ADM3_PCODE": "UA0510007", "ADM2_EN": "Tulchynskyi", "ADM2_UA": "Тульчинський", "ADM2_PCODE": "UA0510", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.837887, 48.377594 ], [ 28.834327001000077, 48.377604 ], [ 28.835082, 48.370598 ], [ 28.83908, 48.368118 ], [ 28.840091, 48.363175 ], [ 28.843888, 48.359322 ], [ 28.848957, 48.358629 ], [ 28.850057, 48.365706 ], [ 28.85373, 48.365671 ], [ 28.854002, 48.369157 ], [ 28.850675, 48.369297 ], [ 28.846598, 48.372907 ], [ 28.842680999000038, 48.373751 ], [ 28.83887, 48.372435 ], [ 28.837887, 48.377594 ] ] ] } }
-]
-}

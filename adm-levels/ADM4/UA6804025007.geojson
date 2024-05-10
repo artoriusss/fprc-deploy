@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.079672083387599998, "Shape_Area": 0.000225294837242, "ADM4_EN": "Pechesky", "ADM4_UA": "Печеськи", "ADM4_PCODE": "UA6804025007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lisovohrynivetska", "ADM3_UA": "Лісовогринівецька", "ADM3_PCODE": "UA6804025", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.099539, 49.535368 ], [ 27.094772001000024, 49.535506 ], [ 27.095408001000067, 49.531793 ], [ 27.092443999000068, 49.529532 ], [ 27.085873, 49.528066 ], [ 27.086872, 49.524315 ], [ 27.090231, 49.522625 ], [ 27.096570001000032, 49.522553 ], [ 27.105034, 49.518806 ], [ 27.108693, 49.522695 ], [ 27.113669, 49.523046 ], [ 27.111719999000059, 49.526444 ], [ 27.107564, 49.528882 ], [ 27.101213, 49.53084 ], [ 27.099539, 49.535368 ] ] ] } }
-]
-}

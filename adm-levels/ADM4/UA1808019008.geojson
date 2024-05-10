@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.075773587020800004, "Shape_Area": 0.000227422912584, "ADM4_EN": "Susly", "ADM4_UA": "Сусли", "ADM4_PCODE": "UA1808019008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stryivska", "ADM3_UA": "Стриївська", "ADM3_PCODE": "UA1808019", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.61338384000004, 50.562916020000046 ], [ 27.609567839000078, 50.560475040000028 ], [ 27.59625, 50.555719980000049 ], [ 27.597359160000053, 50.550607980000052 ], [ 27.606376081000064, 50.549473980000073 ], [ 27.615277080000055, 50.549662980000051 ], [ 27.622105920000024, 50.552459010000064 ], [ 27.61872407900006, 50.557193010000049 ], [ 27.617806080000037, 50.562577980000071 ], [ 27.61338384000004, 50.562916020000046 ] ] ] } }
-]
-}

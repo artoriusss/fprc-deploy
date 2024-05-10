@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.110122687042, "Shape_Area": 0.00013179428697499999, "ADM4_EN": "Marianivka", "ADM4_UA": "Мар'янівка", "ADM4_PCODE": "UA0506007012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kopaihorodska", "ADM3_UA": "Копайгородська", "ADM3_PCODE": "UA0506007", "ADM2_EN": "Zhmerynskyi", "ADM2_UA": "Жмеринський", "ADM2_PCODE": "UA0506", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 27.688326, 48.884871 ], [ 27.693636999000034, 48.880552 ], [ 27.695039999000073, 48.884406 ], [ 27.688326, 48.884871 ] ] ], [ [ [ 27.686389, 48.876297 ], [ 27.678778, 48.882089 ], [ 27.676693, 48.878808 ], [ 27.681096, 48.875207 ], [ 27.687111, 48.867675 ], [ 27.69033, 48.867302 ], [ 27.69538, 48.871661 ], [ 27.687698, 48.874273 ], [ 27.692252, 48.877462 ], [ 27.690038999000024, 48.879071 ], [ 27.686389, 48.876297 ] ] ] ] } }
-]
-}

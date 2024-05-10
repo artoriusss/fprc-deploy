@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.043376310303499997, "Shape_Area": 6.1836741297099994e-05, "ADM4_EN": "Antono-Kovach", "ADM4_UA": "Антоно-Ковач", "ADM4_PCODE": "UA5114003002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykoploskivska", "ADM3_UA": "Великоплосківська", "ADM3_PCODE": "UA5114003", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.758406, 46.944801 ], [ 29.754803, 46.947515 ], [ 29.752381, 46.945579 ], [ 29.75916, 46.941434 ], [ 29.761067, 46.93706 ], [ 29.767757, 46.939469 ], [ 29.768646001000036, 46.941834 ], [ 29.758406, 46.944801 ] ] ] } }
-]
-}

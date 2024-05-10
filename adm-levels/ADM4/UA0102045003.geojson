@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.033850152254499999, "Shape_Area": 3.21527720799e-05, "ADM4_EN": "Krasna Zoria", "ADM4_UA": "Красна Зоря", "ADM4_PCODE": "UA0102045003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tinystivska", "ADM3_UA": "Тінистівська", "ADM3_PCODE": "UA0102045", "ADM2_EN": "Bakhchysaraiskyi", "ADM2_UA": "Бахчисарайський", "ADM2_PCODE": "UA0102", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.721611148000079, 44.754057211000031 ], [ 33.716647084000044, 44.75377637400004 ], [ 33.713936130000036, 44.749965631000066 ], [ 33.718566908000071, 44.749206837000031 ], [ 33.721611148000079, 44.754057211000031 ] ] ] } }
-]
-}

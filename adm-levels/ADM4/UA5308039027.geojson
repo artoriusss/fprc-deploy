@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.043316972949700001, "Shape_Area": 9.3513000188600001e-05, "ADM4_EN": "Korzhi", "ADM4_UA": "Коржі", "ADM4_PCODE": "UA5308039027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Reshetylivska", "ADM3_UA": "Решетилівська", "ADM3_PCODE": "UA5308039", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.05865, 49.61846 ], [ 34.05685, 49.625052 ], [ 34.045712001000027, 49.626431 ], [ 34.044375999000067, 49.619263 ], [ 34.058625, 49.617279 ], [ 34.05865, 49.61846 ] ] ] } }
-]
-}

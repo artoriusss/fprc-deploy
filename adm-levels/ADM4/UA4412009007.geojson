@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0116909418669, "Shape_Area": 4.4360646568400003e-06, "ADM4_EN": "Krutenke", "ADM4_UA": "Крутеньке", "ADM4_PCODE": "UA4412009007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rubizhanska", "ADM3_UA": "Рубіжанська", "ADM3_PCODE": "UA4412009", "ADM2_EN": "Sievierodonetskyi", "ADM2_UA": "Сєвєродонецький", "ADM2_PCODE": "UA4412", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.417279, 49.175571 ], [ 38.416782999000077, 49.176841 ], [ 38.414914, 49.176572 ], [ 38.414913, 49.175437 ], [ 38.417279, 49.175571 ] ] ] } }
-]
-}

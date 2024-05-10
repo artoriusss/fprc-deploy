@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14372911263099999, "Shape_Area": 0.00025387007626400001, "ADM4_EN": "Rudka", "ADM4_UA": "Рудка", "ADM4_PCODE": "UA5304001031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hrebinkivska", "ADM3_UA": "Гребінківська", "ADM3_PCODE": "UA5304001", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.513209, 50.017375 ], [ 32.510705, 50.016316 ], [ 32.515696, 50.011104 ], [ 32.516761, 50.007269 ], [ 32.521003999000072, 50.003897 ], [ 32.526158001000056, 50.005778 ], [ 32.534617, 50.006472 ], [ 32.539386, 50.005144 ], [ 32.546399001000054, 50.008424 ], [ 32.541747, 50.012438 ], [ 32.533968, 50.016477 ], [ 32.529207, 50.012017 ], [ 32.523954999000068, 50.012791 ], [ 32.518552001000046, 50.011999 ], [ 32.513209, 50.017375 ] ] ] } }
-]
-}

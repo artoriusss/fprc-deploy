@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.043162002836800002, "Shape_Area": 3.5158941417300003e-05, "ADM4_EN": "Hlybochok", "ADM4_UA": "Глибочок", "ADM4_PCODE": "UA7306005002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykokuchurivska", "ADM3_UA": "Великокучурівська", "ADM3_PCODE": "UA7306005", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.797617001000049, 48.17271 ], [ 25.792625999000052, 48.172628 ], [ 25.787926, 48.169364 ], [ 25.782816001000072, 48.170237 ], [ 25.782686001000059, 48.167832 ], [ 25.787743, 48.168251 ], [ 25.795469, 48.170899 ], [ 25.797617001000049, 48.17271 ] ] ] } }
-]
-}

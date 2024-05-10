@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.155853500979, "Shape_Area": 0.00018820825127, "ADM4_EN": "Starovarvarivka", "ADM4_UA": "Староварварівка", "ADM4_PCODE": "UA1412017040", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Oleksandrivska", "ADM3_UA": "Олександрівська", "ADM3_PCODE": "UA1412017", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "Краматорський", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 37.235008999000058, 48.68699 ], [ 37.230213999000057, 48.687242 ], [ 37.218279, 48.6777 ], [ 37.21562300100004, 48.679057 ], [ 37.213040999000043, 48.676953 ], [ 37.213806, 48.672138 ], [ 37.219964999000069, 48.671461 ], [ 37.223785, 48.674518 ], [ 37.235008999000058, 48.68699 ] ] ], [ [ [ 37.238049, 48.675891 ], [ 37.23303499900004, 48.6801 ], [ 37.225848, 48.672683 ], [ 37.229298999000036, 48.672138 ], [ 37.231469999000069, 48.675725 ], [ 37.235511999000039, 48.671626 ], [ 37.238049, 48.675891 ] ] ] ] } }
-]
-}

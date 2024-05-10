@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0302829838984, "Shape_Area": 3.9994513766000002e-05, "ADM4_EN": "Zhovtenke", "ADM4_UA": "Жовтеньке", "ADM4_PCODE": "UA2306009009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Komyshuvaska", "ADM3_UA": "Комишуваська", "ADM3_PCODE": "UA2306009", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.596124657000075, 47.703476807000072 ], [ 35.586584144000028, 47.702337908000061 ], [ 35.58638107400003, 47.699951567000028 ], [ 35.589979663000065, 47.69839541500005 ], [ 35.594602578000035, 47.699194912000053 ], [ 35.596124657000075, 47.703476807000072 ] ] ] } }
-]
-}

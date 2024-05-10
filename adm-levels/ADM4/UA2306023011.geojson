@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.043080196313899997, "Shape_Area": 8.4172802762100005e-05, "ADM4_EN": "Novovasylivka", "ADM4_UA": "Нововасилівка", "ADM4_PCODE": "UA2306023011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pavlivska", "ADM3_UA": "Павлівська", "ADM3_PCODE": "UA2306023", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.489005912000039, 47.932183519000034 ], [ 35.488433112000052, 47.933977209000034 ], [ 35.481398385000034, 47.933238131000053 ], [ 35.483613702000071, 47.924091798000063 ], [ 35.49141620100005, 47.923260731000028 ], [ 35.489005912000039, 47.932183519000034 ] ] ] } }
-]
-}

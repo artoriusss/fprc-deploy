@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057906060341200001, "Shape_Area": 0.00010220188309600001, "ADM4_EN": "Verkhivsk", "ADM4_UA": "Верхівськ", "ADM4_PCODE": "UA5606021003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Diadkovytska", "ADM3_UA": "Дядьковицька", "ADM3_PCODE": "UA5606021", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.069034961000057, 50.623216020000029 ], [ 26.062383960000034, 50.623182990000032 ], [ 26.06221116100005, 50.617921050000064 ], [ 26.067804120000062, 50.617286010000043 ], [ 26.067562561000045, 50.610202560000062 ], [ 26.073703800000033, 50.61222999000006 ], [ 26.073862920000067, 50.618344050000076 ], [ 26.069034961000057, 50.623216020000029 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.059374870240600001, "Shape_Area": 0.000153205869951, "ADM4_EN": "Liubotaivka", "ADM4_UA": "Люботаївка", "ADM4_PCODE": "UA5102011011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Konoplianska", "ADM3_UA": "Коноплянська", "ADM3_PCODE": "UA5102011", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.573978, 47.048781 ], [ 30.571003999000027, 47.055239 ], [ 30.566921999000044, 47.057561 ], [ 30.566276, 47.061576 ], [ 30.559274, 47.060403 ], [ 30.562218999000038, 47.053484 ], [ 30.561978, 47.0478 ], [ 30.565226, 47.048147 ], [ 30.565929999000048, 47.044887 ], [ 30.570187, 47.043854 ], [ 30.573978, 47.048781 ] ] ] } }
-]
-}

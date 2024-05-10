@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0322393901118, "Shape_Area": 1.71547113403e-05, "ADM4_EN": "Koshmaliv", "ADM4_UA": "Кошмалів", "ADM4_PCODE": "UA7404003018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bakhmatska", "ADM3_UA": "Бахмацька", "ADM3_PCODE": "UA7404003", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.692664081000032, 51.213733704000049 ], [ 32.687388421000037, 51.216628729000035 ], [ 32.679418395000027, 51.21829753600008 ], [ 32.678883433000067, 51.217205258000035 ], [ 32.685986476000039, 51.21555434000004 ], [ 32.689182080000023, 51.213550076000047 ], [ 32.692664081000032, 51.213733704000049 ] ] ] } }
-]
-}

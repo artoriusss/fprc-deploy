@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0309371651558, "Shape_Area": 5.4907859701e-05, "ADM4_EN": "Domakha", "ADM4_UA": "Домаха", "ADM4_PCODE": "UA1212005004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mezhyritska", "ADM3_UA": "Межиріцька", "ADM3_PCODE": "UA1212005", "ADM2_EN": "Pavlohradskyi", "ADM2_UA": "Павлоградський", "ADM2_PCODE": "UA1212", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.753754, 48.487098 ], [ 35.752424, 48.482442 ], [ 35.758455, 48.478135 ], [ 35.761411, 48.48119 ], [ 35.759297, 48.485796 ], [ 35.753754, 48.487098 ] ] ] } }
-]
-}

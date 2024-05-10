@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.054364950907799997, "Shape_Area": 0.00014376602822199999, "ADM4_EN": "Chervona Orilka", "ADM4_UA": "Червона Орілька", "ADM4_PCODE": "UA1202031022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tsarychanska", "ADM3_UA": "Царичанська", "ADM3_PCODE": "UA1202031", "ADM2_EN": "Dniprovskyi", "ADM2_UA": "Дніпровський", "ADM2_PCODE": "UA1202", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.606346001000077, 49.097233 ], [ 34.61131399900006, 49.100901 ], [ 34.607222999000044, 49.103081 ], [ 34.597154, 49.106213 ], [ 34.593218, 49.099248 ], [ 34.594576999000026, 49.094415 ], [ 34.597862, 49.09281 ], [ 34.606346001000077, 49.097233 ] ] ] } }
-]
-}

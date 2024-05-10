@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.044932045938900003, "Shape_Area": 6.2097063280800005e-05, "ADM4_EN": "Shchaslyve", "ADM4_UA": "Щасливе", "ADM4_PCODE": "UA0102019006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zelenivska", "ADM3_UA": "Зеленівська", "ADM3_PCODE": "UA0102019", "ADM2_EN": "Bakhchysaraiskyi", "ADM2_UA": "Бахчисарайський", "ADM2_PCODE": "UA0102", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.06566, 44.578553 ], [ 34.06441, 44.57809 ], [ 34.067158, 44.57049 ], [ 34.076161, 44.573578 ], [ 34.074103, 44.576394 ], [ 34.06566, 44.578553 ] ] ] } }
-]
-}

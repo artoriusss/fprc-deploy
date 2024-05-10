@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.029751281530299999, "Shape_Area": 3.9650565259300001e-05, "ADM4_EN": "Kravtsi", "ADM4_UA": "Кравці", "ADM4_PCODE": "UA1206007004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hrechanopodivska", "ADM3_UA": "Гречаноподівська", "ADM3_PCODE": "UA1206007", "ADM2_EN": "Kryvorizkyi", "ADM2_UA": "Криворізький", "ADM2_PCODE": "UA1206", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.419978, 47.659764 ], [ 33.426469, 47.661521 ], [ 33.423673, 47.664474 ], [ 33.415223001000072, 47.663331 ], [ 33.4174, 47.659356 ], [ 33.419978, 47.659764 ] ] ] } }
-]
-}

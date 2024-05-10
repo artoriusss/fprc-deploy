@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.095273343432599994, "Shape_Area": 0.000125939874202, "ADM4_EN": "Andriivka", "ADM4_UA": "Андріївка", "ADM4_PCODE": "UA5308005003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dykanska", "ADM3_UA": "Диканська", "ADM3_PCODE": "UA5308005", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.302666, 49.763969 ], [ 34.29596, 49.765375 ], [ 34.294304344000068, 49.760666269000069 ], [ 34.302863, 49.759898 ], [ 34.304148001000044, 49.758594 ], [ 34.31482199900006, 49.757288 ], [ 34.308473, 49.764281 ], [ 34.302666, 49.763969 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.084545508904599997, "Shape_Area": 0.00023806936741200001, "ADM4_EN": "Shyrokyne", "ADM4_UA": "Широкине", "ADM4_PCODE": "UA1414009016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sartanska", "ADM3_UA": "Сартанська", "ADM3_PCODE": "UA1414009", "ADM2_EN": "Mariupolskyi", "ADM2_UA": "Маріупольський", "ADM2_PCODE": "UA1414", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.815002813000035, 47.106259472000033 ], [ 37.814862323000057, 47.104690127000026 ], [ 37.805418485000075, 47.101622121000048 ], [ 37.80475, 47.096222 ], [ 37.807948999000075, 47.097364 ], [ 37.816064, 47.093345 ], [ 37.817185, 47.090827 ], [ 37.823234, 47.093199 ], [ 37.829404999000076, 47.096942 ], [ 37.830727, 47.101465 ], [ 37.82946799900003, 47.1038 ], [ 37.824719999000024, 47.10264 ], [ 37.821658636000052, 47.107134258000031 ], [ 37.815002813000035, 47.106259472000033 ] ] ] } }
-]
-}

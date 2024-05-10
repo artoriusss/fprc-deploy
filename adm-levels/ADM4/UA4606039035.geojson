@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.075715367411199996, "Shape_Area": 9.7761607065600007e-05, "ADM4_EN": "Oliiarnyky", "ADM4_UA": "Оліярники", "ADM4_PCODE": "UA4606039035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rava-Ruska", "ADM3_UA": "Рава-Руська", "ADM3_PCODE": "UA4606039", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.843281006000041, 50.214975365000043 ], [ 23.830249265000077, 50.215614009000035 ], [ 23.828733265000039, 50.211046010000075 ], [ 23.820456267000054, 50.211614010000062 ], [ 23.818402268000057, 50.207048010000051 ], [ 23.822454267000069, 50.205697010000051 ], [ 23.82961926400003, 50.207371009000042 ], [ 23.827960264000069, 50.209384010000065 ], [ 23.843281006000041, 50.214975365000043 ] ] ] } }
-]
-}

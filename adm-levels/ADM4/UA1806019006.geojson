@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.076701104474399998, "Shape_Area": 9.6233076055299996e-05, "ADM4_EN": "Artynsk", "ADM4_UA": "Артинськ", "ADM4_PCODE": "UA1806019006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Olevska", "ADM3_UA": "Олевська", "ADM3_PCODE": "UA1806019", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.753681615000062, 51.253934922000042 ], [ 27.745050959000025, 51.257793960000072 ], [ 27.736564917000067, 51.25826052900004 ], [ 27.734973841000055, 51.256107990000032 ], [ 27.737442, 51.252846030000057 ], [ 27.740351160000046, 51.25297302000007 ], [ 27.743842835000066, 51.250372781000067 ], [ 27.75010687300005, 51.250678471000072 ], [ 27.753681615000062, 51.253934922000042 ] ] ] } }
-]
-}

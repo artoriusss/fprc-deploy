@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.040399113402899998, "Shape_Area": 8.2323545742499997e-05, "ADM4_EN": "Lychky", "ADM4_UA": "Лички", "ADM4_PCODE": "UA0708011011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kivertsivska", "ADM3_UA": "Ківерцівська", "ADM3_PCODE": "UA0708011", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.569343042000071, 50.965001001000076 ], [ 25.574960044000079, 50.969192001000067 ], [ 25.566544044000068, 50.972124001000054 ], [ 25.558015043000069, 50.971967001000053 ], [ 25.558197045000043, 50.969247002000031 ], [ 25.564545045000045, 50.965219001000037 ], [ 25.569343042000071, 50.965001001000076 ] ] ] } }
-]
-}

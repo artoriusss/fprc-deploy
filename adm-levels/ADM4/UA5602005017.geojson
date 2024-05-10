@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.068778189803299999, "Shape_Area": 0.000111590901165, "ADM4_EN": "Ostrivtsi", "ADM4_UA": "Острівці", "ADM4_PCODE": "UA5602005017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Volodymyretska", "ADM3_UA": "Володимирецька", "ADM3_PCODE": "UA5602005", "ADM2_EN": "Varaskyi", "ADM2_UA": "Вараський", "ADM2_PCODE": "UA5602", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.056846080000071, 51.376682970000047 ], [ 26.050913999000045, 51.372108990000072 ], [ 26.049621960000025, 51.366937050000047 ], [ 26.055353160000038, 51.365231010000059 ], [ 26.058484080000028, 51.362205030000041 ], [ 26.05947408000003, 51.371812980000072 ], [ 26.056846080000071, 51.376682970000047 ] ] ] } }
-]
-}

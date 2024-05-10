@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.076954862207799998, "Shape_Area": 0.00016647690347, "ADM4_EN": "Vershnytsia", "ADM4_UA": "Вершниця", "ADM4_PCODE": "UA1808005007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bronykivska", "ADM3_UA": "Брониківська", "ADM3_PCODE": "UA1808005", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.713782266000067, 50.638458308000054 ], [ 27.704962935000026, 50.641486001000033 ], [ 27.705880090000051, 50.64291853800006 ], [ 27.70182502800003, 50.647171813000057 ], [ 27.690270281000039, 50.641063220000035 ], [ 27.690749297000025, 50.63788446600006 ], [ 27.70384511900005, 50.635986369000079 ], [ 27.712711756000033, 50.636523523000051 ], [ 27.713782266000067, 50.638458308000054 ] ] ] } }
-]
-}

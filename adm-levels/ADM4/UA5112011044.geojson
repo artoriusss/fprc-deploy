@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13611727424, "Shape_Area": 0.000188855863287, "ADM4_EN": "Pereshory", "ADM4_UA": "Перешори", "ADM4_PCODE": "UA5112011044", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kuialnytska", "ADM3_UA": "Куяльницька", "ADM3_PCODE": "UA5112011", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.697654999000065, 47.563504 ], [ 29.694683001000044, 47.563411 ], [ 29.693323, 47.550965 ], [ 29.697534, 47.550632 ], [ 29.69849, 47.542647 ], [ 29.704032, 47.543235 ], [ 29.70048299900003, 47.548457 ], [ 29.703568, 47.549104 ], [ 29.701587, 47.553582 ], [ 29.707043, 47.557649 ], [ 29.706781001000024, 47.560447 ], [ 29.697654999000065, 47.563504 ] ] ] } }
-]
-}

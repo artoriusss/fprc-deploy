@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.087453001353899995, "Shape_Area": 5.4954154960099998e-05, "ADM4_EN": "Bubnivka", "ADM4_UA": "Бубнівка", "ADM4_PCODE": "UA5606045008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ostrozka", "ADM3_UA": "Острозька", "ADM3_PCODE": "UA5606045", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.400526921000051, 50.43765798000004 ], [ 26.413358041000038, 50.432913090000056 ], [ 26.411175, 50.431591080000032 ], [ 26.403041160000043, 50.433086970000033 ], [ 26.392699080000057, 50.43353895000007 ], [ 26.39437920000006, 50.431580010000062 ], [ 26.410374, 50.430808080000077 ], [ 26.414052840000068, 50.433407010000053 ], [ 26.404574040000057, 50.437107990000072 ], [ 26.400526921000051, 50.43765798000004 ] ] ] } }
-]
-}

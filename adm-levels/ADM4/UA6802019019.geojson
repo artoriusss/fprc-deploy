@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11911669915799999, "Shape_Area": 0.00016737575867500001, "ADM4_EN": "Zahoriany", "ADM4_UA": "Загоряни", "ADM4_PCODE": "UA6802019019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoushytska", "ADM3_UA": "Новоушицька", "ADM3_PCODE": "UA6802019", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.092405, 48.749152 ], [ 27.091867, 48.745897 ], [ 27.085291, 48.747304 ], [ 27.087267, 48.742263 ], [ 27.09176, 48.739416 ], [ 27.096, 48.742333 ], [ 27.098432, 48.738745 ], [ 27.107521, 48.738366 ], [ 27.11468, 48.736598 ], [ 27.111405999000056, 48.74133 ], [ 27.106978, 48.741418 ], [ 27.100470999000038, 48.74361 ], [ 27.103102, 48.747215 ], [ 27.096739, 48.746832 ], [ 27.092405, 48.749152 ] ] ] } }
-]
-}

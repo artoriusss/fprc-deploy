@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.094868378026200004, "Shape_Area": 0.00029394644327399998, "ADM4_EN": "Zlatoustivka", "ADM4_UA": "Златоустівка", "ADM4_PCODE": "UA1404015009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khlibodarivska", "ADM3_UA": "Хлібодарівська", "ADM3_PCODE": "UA1404015", "ADM2_EN": "Volnovaskyi", "ADM2_UA": "Волноваський", "ADM2_PCODE": "UA1404", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.325088, 47.497763 ], [ 37.322931, 47.492936 ], [ 37.314114, 47.492995 ], [ 37.313037, 47.489872 ], [ 37.308754, 47.489895 ], [ 37.308717999000066, 47.485789 ], [ 37.321384, 47.484252 ], [ 37.337263001000053, 47.483902 ], [ 37.34053, 47.485985 ], [ 37.337259, 47.48903 ], [ 37.339157999000065, 47.492247 ], [ 37.333185001000061, 47.493962 ], [ 37.33417600100006, 47.495821 ], [ 37.325088, 47.497763 ] ] ] } }
-]
-}

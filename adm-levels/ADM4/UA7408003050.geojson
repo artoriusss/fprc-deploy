@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.028606038437600002, "Shape_Area": 1.7965632703e-05, "ADM4_EN": "Chervone", "ADM4_UA": "Червоне", "ADM4_PCODE": "UA7408003050", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ichnianska", "ADM3_UA": "Ічнянська", "ADM3_PCODE": "UA7408003", "ADM2_EN": "Prylutskyi", "ADM2_UA": "Прилуцький", "ADM2_PCODE": "UA7408", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.256028800000024, 50.796349020000036 ], [ 32.255862120000074, 50.797265940000045 ], [ 32.246101080000074, 50.796670050000046 ], [ 32.250915, 50.795143920000044 ], [ 32.256028800000024, 50.796349020000036 ] ] ] } }
-]
-}

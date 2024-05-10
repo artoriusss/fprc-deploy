@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.023774369052500001, "Shape_Area": 2.9604649713000001e-05, "ADM4_EN": "Chernetske", "ADM4_UA": "Чернецьке", "ADM4_PCODE": "UA5908025018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stepanivska", "ADM3_UA": "Степанівська", "ADM3_PCODE": "UA5908025", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.656206, 50.885647 ], [ 34.657398, 50.889148 ], [ 34.650690999000062, 50.890356 ], [ 34.648635, 50.886886 ], [ 34.656206, 50.885647 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.062363032700099998, "Shape_Area": 0.000100734173329, "ADM4_EN": "Horbanivka", "ADM4_UA": "Горбанівка", "ADM4_PCODE": "UA4604011005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pidkaminska", "ADM3_UA": "Підкамінська", "ADM3_PCODE": "UA4604011", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.380235051000057, 49.957174002000045 ], [ 25.375496052000074, 49.957699002000027 ], [ 25.375686052000049, 49.950184001000082 ], [ 25.378016052000078, 49.949201002000052 ], [ 25.383997052000041, 49.949593002000029 ], [ 25.38750205100007, 49.956895002000067 ], [ 25.380235051000057, 49.957174002000045 ] ] ] } }
-]
-}

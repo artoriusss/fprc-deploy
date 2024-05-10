@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.18168809394, "Shape_Area": 0.00029992229897800001, "ADM4_EN": "Runivshchyna", "ADM4_UA": "Рунівщина", "ADM4_PCODE": "UA6306001030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zachepylivska", "ADM3_UA": "Зачепилівська", "ADM3_PCODE": "UA6306001", "ADM2_EN": "Krasnohradskyi", "ADM2_UA": "Красноградський", "ADM2_PCODE": "UA6306", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.090122, 49.244475 ], [ 35.084065, 49.243103 ], [ 35.08299, 49.234945 ], [ 35.07876, 49.226438 ], [ 35.083121331000029, 49.222439695000048 ], [ 35.086363, 49.222822 ], [ 35.089598, 49.226733 ], [ 35.093892, 49.226195 ], [ 35.093237, 49.230858 ], [ 35.095088, 49.234948 ], [ 35.093096999000068, 49.236813 ], [ 35.096696, 49.243915 ], [ 35.090122, 49.244475 ] ] ] } }
-]
-}

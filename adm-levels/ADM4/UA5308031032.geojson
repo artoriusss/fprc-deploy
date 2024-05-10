@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10380637537200001, "Shape_Area": 0.00043056331145799998, "ADM4_EN": "Pasichne", "ADM4_UA": "Пасічне", "ADM4_PCODE": "UA5308031032", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novosanzharska", "ADM3_UA": "Новосанжарська", "ADM3_PCODE": "UA5308031", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.142926859000056, 49.435907618000044 ], [ 34.136238042000059, 49.435891446000028 ], [ 34.127998, 49.429229 ], [ 34.12393, 49.429633 ], [ 34.123606, 49.426738 ], [ 34.119825001000038, 49.420871 ], [ 34.12427400100006, 49.420987 ], [ 34.143543, 49.409481 ], [ 34.148431376000076, 49.412352141000042 ], [ 34.139772999000058, 49.419522 ], [ 34.152340389000074, 49.424305761000028 ], [ 34.142926859000056, 49.435907618000044 ] ] ] } }
-]
-}

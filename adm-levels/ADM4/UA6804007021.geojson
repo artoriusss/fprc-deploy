@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.079927679602099996, "Shape_Area": 0.00021445064108700001, "ADM4_EN": "Chernelivtsi", "ADM4_UA": "Чернелівці", "ADM4_PCODE": "UA6804007021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vovkovynetska", "ADM3_UA": "Вовковинецька", "ADM3_PCODE": "UA6804007", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.799608, 49.208372 ], [ 27.794172, 49.204475 ], [ 27.797117, 49.192746 ], [ 27.802337, 49.191412 ], [ 27.799377, 49.196775 ], [ 27.804616, 49.199878 ], [ 27.815405, 49.20208 ], [ 27.816475999000033, 49.20572 ], [ 27.813366, 49.209476 ], [ 27.799608, 49.208372 ] ] ] } }
-]
-}

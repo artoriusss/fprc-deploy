@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.065651945504100001, "Shape_Area": 3.7858838005500003e-05, "ADM4_EN": "Mizhhaitsi", "ADM4_UA": "Міжгайці", "ADM4_PCODE": "UA4608001023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Biskovytska", "ADM3_UA": "Бісковицька", "ADM3_PCODE": "UA4608001", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.174239473000057, 49.601661018000073 ], [ 23.177774472000067, 49.597927019000053 ], [ 23.181907471000045, 49.595655018000059 ], [ 23.186889467000071, 49.597267018000082 ], [ 23.178828471000031, 49.599340018000078 ], [ 23.174239473000057, 49.601661018000073 ] ] ] } }
-]
-}

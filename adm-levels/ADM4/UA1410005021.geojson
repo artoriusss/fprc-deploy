@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.076569306562499995, "Shape_Area": 0.000171638247683, "ADM4_EN": "Petrivske", "ADM4_UA": "Петрівське", "ADM4_PCODE": "UA1410005021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kalmiuska", "ADM3_UA": "Кальміуська", "ADM3_PCODE": "UA1410005", "ADM2_EN": "Kalmiuskyi", "ADM2_UA": "Кальміуський", "ADM2_PCODE": "UA1410", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.072478998000065, 47.685523 ], [ 38.07896968600005, 47.685923831000025 ], [ 38.084965853000028, 47.694563265000056 ], [ 38.077506804000052, 47.697011344000032 ], [ 38.072907999000051, 47.695014 ], [ 38.066506998000079, 47.697474 ], [ 38.063710998000033, 47.693611 ], [ 38.070742998000071, 47.692548 ], [ 38.069724, 47.68942 ], [ 38.063881998000056, 47.691365 ], [ 38.061353998000072, 47.688527 ], [ 38.067218999000033, 47.687671 ], [ 38.072478998000065, 47.685523 ] ] ] } }
-]
-}

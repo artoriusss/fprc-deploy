@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.22889383882799999, "Shape_Area": 0.00016776518015800001, "ADM4_EN": "Nyzhche Solone", "ADM4_UA": "Нижче Солоне", "ADM4_PCODE": "UA6304005023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Borivska", "ADM3_UA": "Борівська", "ADM3_PCODE": "UA6304005", "ADM2_EN": "Iziumskyi", "ADM2_UA": "Ізюмський", "ADM2_PCODE": "UA6304", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 37.642958001000068, 49.315474 ], [ 37.641169001000037, 49.31144 ], [ 37.655863, 49.305773 ], [ 37.662599, 49.303996 ], [ 37.671068001000037, 49.299543 ], [ 37.686099, 49.295109 ], [ 37.686683999000024, 49.295906 ], [ 37.672464, 49.300449 ], [ 37.652409999000042, 49.310067 ], [ 37.649763999000072, 49.313304 ], [ 37.644692999000029, 49.313912 ], [ 37.642958001000068, 49.315474 ] ] ], [ [ [ 37.642009, 49.305371 ], [ 37.633279, 49.306485 ], [ 37.632642, 49.303158 ], [ 37.642009, 49.305371 ] ] ] ] } }
-]
-}

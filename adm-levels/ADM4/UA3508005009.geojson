@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.111698861523, "Shape_Area": 0.00014569018545, "ADM4_EN": "Izmailivka", "ADM4_UA": "Ізмайлівка", "ADM4_PCODE": "UA3508005009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Oleksandriiska", "ADM3_UA": "Олександрійська", "ADM3_PCODE": "UA3508005", "ADM2_EN": "Oleksandriiskyi", "ADM2_UA": "Олександрійський", "ADM2_PCODE": "UA3508", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.209601, 48.569426 ], [ 33.20757, 48.565341 ], [ 33.208615200000054, 48.557437990000039 ], [ 33.208837999000025, 48.546799 ], [ 33.213161, 48.547204 ], [ 33.21196, 48.551988 ], [ 33.214734001000068, 48.555365 ], [ 33.212129999000069, 48.565192 ], [ 33.209601, 48.569426 ] ] ] } }
-]
-}

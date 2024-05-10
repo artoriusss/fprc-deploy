@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.086996991816, "Shape_Area": 9.6919791535199999e-05, "ADM4_EN": "Mokhnach", "ADM4_UA": "Мохнач", "ADM4_PCODE": "UA7104019015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chornobaivska", "ADM3_UA": "Чорнобаївська", "ADM3_PCODE": "UA7104019", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.67493199900008, 49.665618 ], [ 32.67028300100003, 49.666632 ], [ 32.665498, 49.665653 ], [ 32.665499, 49.655653 ], [ 32.666985, 49.655941 ], [ 32.670610999000075, 49.649892 ], [ 32.677261, 49.641626 ], [ 32.678679, 49.643882 ], [ 32.67421, 49.650262 ], [ 32.669575999000074, 49.654581 ], [ 32.669001999000045, 49.663298 ], [ 32.67493199900008, 49.665618 ] ] ] } }
-]
-}

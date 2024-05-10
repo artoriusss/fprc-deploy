@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.093956287259900004, "Shape_Area": 0.00028805070308700001, "ADM4_EN": "Maloiaroslavets Pershyi", "ADM4_UA": "Малоярославець Перший", "ADM4_PCODE": "UA5106017010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tarutynska", "ADM3_UA": "Тарутинська", "ADM3_PCODE": "UA5106017", "ADM2_EN": "Bolhradskyi", "ADM2_UA": "Болградський", "ADM2_PCODE": "UA5106", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.008158001000027, 46.098783 ], [ 29.007317001000047, 46.103264 ], [ 28.996042, 46.099638 ], [ 28.996014001000049, 46.095611 ], [ 28.992067, 46.097629 ], [ 28.989265, 46.096614 ], [ 28.998277, 46.085232 ], [ 29.000172999000029, 46.085169 ], [ 29.006881, 46.076423 ], [ 29.012196001000063, 46.077947 ], [ 29.005699999000058, 46.087223 ], [ 29.012067, 46.090815 ], [ 29.008158001000027, 46.098783 ] ] ] } }
-]
-}

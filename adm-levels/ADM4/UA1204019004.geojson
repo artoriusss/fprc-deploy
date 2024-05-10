@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.062394449339900002, "Shape_Area": 8.2279050331499998e-05, "ADM4_EN": "Bilenshchyna", "ADM4_UA": "Біленщина", "ADM4_PCODE": "UA1204019004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lykhivska", "ADM3_UA": "Лихівська", "ADM3_PCODE": "UA1204019", "ADM2_EN": "Kamianskyi", "ADM2_UA": "Кам’янський", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.834056, 48.758708 ], [ 33.833162999000024, 48.760289 ], [ 33.825080999000079, 48.75939 ], [ 33.818829, 48.757875 ], [ 33.825966999000059, 48.754738 ], [ 33.832224, 48.755344 ], [ 33.838351999000054, 48.752997 ], [ 33.836272999000073, 48.75829 ], [ 33.834056, 48.758708 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.055528735241500003, "Shape_Area": 7.9010176519500003e-05, "ADM4_EN": "Deshkovytsia", "ADM4_UA": "Дешковиця", "ADM4_PCODE": "UA2112013004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Irshavska", "ADM3_UA": "Іршавська", "ADM3_PCODE": "UA2112013", "ADM2_EN": "Khustskyi", "ADM2_UA": "Хустський", "ADM2_PCODE": "UA2112", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.98804352600007, 48.366214022000065 ], [ 22.987426526000036, 48.367696022000075 ], [ 22.979115530000058, 48.364620022000054 ], [ 22.984567528000071, 48.360449022000068 ], [ 22.986108527000056, 48.357381022000027 ], [ 22.989178526000046, 48.359133022000037 ], [ 22.987460526000064, 48.362621022000042 ], [ 22.994616522000058, 48.361804022000058 ], [ 22.989553525000076, 48.366496022000035 ], [ 22.98804352600007, 48.366214022000065 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.040931031487600002, "Shape_Area": 4.7046845712400003e-05, "ADM4_EN": "Syniavka", "ADM4_UA": "Синявка", "ADM4_PCODE": "UA1808003031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Barashivska", "ADM3_UA": "Барашівська", "ADM3_PCODE": "UA1808003", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.257558840000058, 50.678640990000076 ], [ 28.254283920000034, 50.680815030000076 ], [ 28.250016119000065, 50.680523970000081 ], [ 28.249994880000031, 50.673572010000044 ], [ 28.25205408000005, 50.670003960000031 ], [ 28.254449160000036, 50.676936030000036 ], [ 28.257558840000058, 50.678640990000076 ] ] ] } }
-]
-}

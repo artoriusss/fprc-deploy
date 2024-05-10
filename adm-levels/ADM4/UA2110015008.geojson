@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.044952436230400003, "Shape_Area": 6.1265712634600003e-05, "ADM4_EN": "Irliava", "ADM4_UA": "Ірлява", "ADM4_PCODE": "UA2110015008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Serednianska", "ADM3_UA": "Середнянська", "ADM3_PCODE": "UA2110015", "ADM2_EN": "Uzhhorodskyi", "ADM2_UA": "Ужгородський", "ADM2_PCODE": "UA2110", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.575116760000071, 48.50620603200008 ], [ 22.57786575800003, 48.509368031000065 ], [ 22.574484760000075, 48.511643033000041 ], [ 22.570954763000032, 48.510264032000066 ], [ 22.568004766000058, 48.506909033000056 ], [ 22.567726765000032, 48.50282853300007 ], [ 22.575116760000071, 48.50620603200008 ] ] ] } }
-]
-}

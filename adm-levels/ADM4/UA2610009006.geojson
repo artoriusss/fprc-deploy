@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.091293095848200001, "Shape_Area": 0.000187530136345, "ADM4_EN": "Liuchky", "ADM4_UA": "Лючки", "ADM4_PCODE": "UA2610009006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yablunivska", "ADM3_UA": "Яблунівська", "ADM3_PCODE": "UA2610009", "ADM2_EN": "Kosivskyi", "ADM2_UA": "Косівський", "ADM2_PCODE": "UA2610", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.764142, 48.438544 ], [ 24.754139, 48.437942999000029 ], [ 24.751082170000075, 48.43999724300005 ], [ 24.739484912000023, 48.435890634000032 ], [ 24.738394, 48.432477 ], [ 24.73238599900003, 48.432311 ], [ 24.732266, 48.426891 ], [ 24.736360999000055, 48.42393 ], [ 24.745889001000023, 48.432808 ], [ 24.754408, 48.434248 ], [ 24.755729999000039, 48.432931 ], [ 24.761128, 48.43521 ], [ 24.764142, 48.438544 ] ] ] } }
-]
-}

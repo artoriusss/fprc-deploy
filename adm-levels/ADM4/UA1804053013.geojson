@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.081612854153500003, "Shape_Area": 0.00018393572178800001, "ADM4_EN": "Staroshyika", "ADM4_UA": "Старошийка", "ADM4_PCODE": "UA1804053013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Teterivska", "ADM3_UA": "Тетерівська", "ADM3_PCODE": "UA1804053", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.271410920000051, 50.221110960000033 ], [ 28.267441920000067, 50.22282996000007 ], [ 28.264938120000068, 50.219994960000065 ], [ 28.265310001000046, 50.213402010000038 ], [ 28.264037041000051, 50.209995960000072 ], [ 28.269970920000048, 50.208731010000065 ], [ 28.271703960000025, 50.212068030000069 ], [ 28.280063160000054, 50.207492970000033 ], [ 28.284149880000029, 50.212611 ], [ 28.28321315900007, 50.216148 ], [ 28.271410920000051, 50.221110960000033 ] ] ] } }
-]
-}

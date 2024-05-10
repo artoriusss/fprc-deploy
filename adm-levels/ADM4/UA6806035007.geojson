@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.109925388831, "Shape_Area": 0.000299791748638, "ADM4_EN": "Myklashi", "ADM4_UA": "Миклаші", "ADM4_PCODE": "UA6806035007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yampilska", "ADM3_UA": "Ямпільська", "ADM3_PCODE": "UA6806035", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.367707, 49.958782 ], [ 26.373679999000046, 49.960689 ], [ 26.369783, 49.963722 ], [ 26.358762, 49.958282 ], [ 26.348562917000038, 49.960496029000069 ], [ 26.34609, 49.954217 ], [ 26.34904, 49.950938 ], [ 26.349904999000046, 49.941715 ], [ 26.362126, 49.94345 ], [ 26.361129001000052, 49.949083 ], [ 26.366442, 49.950267 ], [ 26.36463, 49.956127 ], [ 26.367707, 49.958782 ] ] ] } }
-]
-}

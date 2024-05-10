@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.086951435634399998, "Shape_Area": 0.000197696012019, "ADM4_EN": "Dovzhok", "ADM4_UA": "Довжок", "ADM4_PCODE": "UA7306041004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoselytska", "ADM3_UA": "Новоселицька", "ADM3_PCODE": "UA7306041", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.338423001000024, 48.346949 ], [ 26.337126, 48.348837 ], [ 26.332371999000031, 48.345860999000081 ], [ 26.329281, 48.348068 ], [ 26.324766, 48.347832 ], [ 26.320271999000056, 48.341538 ], [ 26.322735, 48.338197 ], [ 26.332195, 48.336178 ], [ 26.33957699900003, 48.340811 ], [ 26.34715155400005, 48.341783890000045 ], [ 26.343410999000071, 48.346154 ], [ 26.338423001000024, 48.346949 ] ] ] } }
-]
-}

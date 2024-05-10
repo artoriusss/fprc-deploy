@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.090104894158899995, "Shape_Area": 0.00016054681649400001, "ADM4_EN": "Tovste", "ADM4_UA": "Товсте", "ADM4_PCODE": "UA5306033061", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shyshatska", "ADM3_UA": "Шишацька", "ADM3_PCODE": "UA5306033", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.094434001000025, 49.845398 ], [ 34.092756, 49.848137 ], [ 34.087676001000034, 49.849645 ], [ 34.085711, 49.852108 ], [ 34.079424, 49.850892 ], [ 34.087215, 49.846894 ], [ 34.086635, 49.845346 ], [ 34.07526, 49.843132 ], [ 34.074602999000035, 49.84011 ], [ 34.082437, 49.842021 ], [ 34.086213999000051, 49.837933 ], [ 34.089038, 49.839973 ], [ 34.102014, 49.843432 ], [ 34.099082001000056, 49.845426 ], [ 34.094434001000025, 49.845398 ] ] ] } }
-]
-}

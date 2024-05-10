@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.032046365170099997, "Shape_Area": 2.7685486241700001e-05, "ADM4_EN": "Syrkivshchyna", "ADM4_UA": "Сирківщина", "ADM4_PCODE": "UA1806017078", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ovrutska", "ADM3_UA": "Овруцька", "ADM3_PCODE": "UA1806017", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.527921775000038, 51.349929983000038 ], [ 28.521322921000035, 51.348673980000058 ], [ 28.520016120000037, 51.345414990000052 ], [ 28.526383080000073, 51.347630970000068 ], [ 28.527921775000038, 51.349929983000038 ] ] ] } }
-]
-}

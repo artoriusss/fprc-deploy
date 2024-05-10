@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.090308176500900006, "Shape_Area": 0.000109375971165, "ADM4_EN": "Voronivka", "ADM4_UA": "Воронівка", "ADM4_PCODE": "UA5908003009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilopilska", "ADM3_UA": "Білопільська", "ADM3_PCODE": "UA5908003", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 34.289497, 51.105067 ], [ 34.288549001000035, 51.103855 ], [ 34.279998999000043, 51.102251 ], [ 34.277989999000056, 51.098677 ], [ 34.287533, 51.099234 ], [ 34.287714, 51.097468 ], [ 34.295521001000054, 51.098426 ], [ 34.289497, 51.105067 ] ] ], [ [ [ 34.313305, 51.100757 ], [ 34.308347001000072, 51.101293 ], [ 34.305044, 51.098795 ], [ 34.308781999000075, 51.095827 ], [ 34.313305, 51.100757 ] ] ] ] } }
-]
-}

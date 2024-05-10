@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0584106094619, "Shape_Area": 8.2130678053799998e-05, "ADM4_EN": "Slobidka", "ADM4_UA": "Слобідка", "ADM4_PCODE": "UA7404001019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Baturynska", "ADM3_UA": "Батуринська", "ADM3_PCODE": "UA7404001", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.850780465000071, 51.371324147000053 ], [ 32.848794584000075, 51.371849766000082 ], [ 32.845270064000033, 51.368733274000078 ], [ 32.837732021000079, 51.365782483000032 ], [ 32.838355705000026, 51.36351366100007 ], [ 32.84232875400005, 51.361934578000046 ], [ 32.848728145000052, 51.364326897000069 ], [ 32.851927867000029, 51.369127295000055 ], [ 32.850780465000071, 51.371324147000053 ] ] ] } }
-]
-}

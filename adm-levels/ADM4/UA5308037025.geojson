@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10279579515200001, "Shape_Area": 0.000352467404314, "ADM4_EN": "Ivashky", "ADM4_UA": "Івашки", "ADM4_PCODE": "UA5308037025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Poltavska", "ADM3_UA": "Полтавська", "ADM3_PCODE": "UA5308037", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.425001001000055, 49.585611 ], [ 34.423141, 49.589777 ], [ 34.419447999000056, 49.590927 ], [ 34.414449, 49.596352 ], [ 34.410571, 49.597012 ], [ 34.40646, 49.595503 ], [ 34.407009, 49.590765 ], [ 34.398998, 49.590815 ], [ 34.397864001000073, 49.587623 ], [ 34.39067299900006, 49.587002 ], [ 34.390576, 49.583504 ], [ 34.396497, 49.582487 ], [ 34.406340342000078, 49.579443279000031 ], [ 34.41876, 49.582606 ], [ 34.424908, 49.580155 ], [ 34.425001001000055, 49.585611 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.093006945593500007, "Shape_Area": 0.000176435119479, "ADM4_EN": "Poruchyn", "ADM4_UA": "Поручин", "ADM4_PCODE": "UA6104003015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezhanska", "ADM3_UA": "Бережанська", "ADM3_PCODE": "UA6104003", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.916481, 49.561147 ], [ 24.913784, 49.561897 ], [ 24.906932, 49.561173 ], [ 24.901767, 49.557211 ], [ 24.902178999000057, 49.5516 ], [ 24.904627001000051, 49.549573 ], [ 24.908577, 49.551726 ], [ 24.919885, 49.554204 ], [ 24.926773, 49.557758 ], [ 24.916713001000062, 49.55857 ], [ 24.916481, 49.561147 ] ] ] } }
-]
-}

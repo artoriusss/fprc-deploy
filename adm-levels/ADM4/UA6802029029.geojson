@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.061211438444899999, "Shape_Area": 0.00012257072834000001, "ADM4_EN": "Nova Huta", "ADM4_UA": "Нова Гута", "ADM4_PCODE": "UA6802029029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chemerovetska", "ADM3_UA": "Чемеровецька", "ADM3_PCODE": "UA6802029", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.524261, 48.964972 ], [ 26.519650999000078, 48.966773 ], [ 26.516440999000054, 48.964218 ], [ 26.518406, 48.961096 ], [ 26.519332599000052, 48.954679570000053 ], [ 26.527323, 48.958119 ], [ 26.535879506000072, 48.959248774000059 ], [ 26.532860880000044, 48.963585676000037 ], [ 26.524261, 48.964972 ] ] ] } }
-]
-}

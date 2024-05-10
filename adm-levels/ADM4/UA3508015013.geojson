@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.132460486839, "Shape_Area": 0.000231230115395, "ADM4_EN": "Likarivka", "ADM4_UA": "Лікарівка", "ADM4_PCODE": "UA3508015013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pryiutivska", "ADM3_UA": "Приютівська", "ADM3_PCODE": "UA3508015", "ADM2_EN": "Oleksandriiskyi", "ADM2_UA": "Олександрійський", "ADM2_PCODE": "UA3508", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.167918001000032, 48.824703 ], [ 33.167077001000052, 48.829614 ], [ 33.160343, 48.828603 ], [ 33.162239, 48.821285 ], [ 33.166507, 48.819421 ], [ 33.169946, 48.804481 ], [ 33.167568999000025, 48.804545 ], [ 33.164495, 48.799054 ], [ 33.157267, 48.794892 ], [ 33.156423, 48.79264 ], [ 33.166007001000025, 48.794528 ], [ 33.178735999000025, 48.795061 ], [ 33.175489001000074, 48.803071 ], [ 33.171559001000048, 48.804438 ], [ 33.170619, 48.81344 ], [ 33.167918001000032, 48.824703 ] ] ] } }
-]
-}

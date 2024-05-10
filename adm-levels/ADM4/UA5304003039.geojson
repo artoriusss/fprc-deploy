@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.097318216415599998, "Shape_Area": 8.51388931308e-05, "ADM4_EN": "Pyshne", "ADM4_UA": "Пишне", "ADM4_PCODE": "UA5304003039", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lubenska", "ADM3_UA": "Лубенська", "ADM3_PCODE": "UA5304003", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.823674463000032, 50.054258850000053 ], [ 32.84156, 50.048438 ], [ 32.851311, 50.04672 ], [ 32.866288, 50.046916 ], [ 32.866230001000076, 50.0479 ], [ 32.851551, 50.048151 ], [ 32.851557, 50.050735 ], [ 32.841317, 50.053236 ], [ 32.838425161000032, 50.050414364000062 ], [ 32.823639229000037, 50.055285425000079 ], [ 32.823674463000032, 50.054258850000053 ] ] ] } }
-]
-}

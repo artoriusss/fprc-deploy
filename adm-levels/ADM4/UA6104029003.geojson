@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.083839920827399994, "Shape_Area": 0.00011229139035600001, "ADM4_EN": "Bernadivka", "ADM4_UA": "Бернадівка", "ADM4_PCODE": "UA6104029003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykulynetska", "ADM3_UA": "Микулинецька", "ADM3_PCODE": "UA6104029", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.573653611000054, 49.331345523000039 ], [ 25.570332520000079, 49.332769406000068 ], [ 25.570665362000057, 49.327740438000035 ], [ 25.577294165000069, 49.327975043000038 ], [ 25.585133162000034, 49.325313903000051 ], [ 25.586009162000039, 49.328601759000037 ], [ 25.593089386000031, 49.32879273900005 ], [ 25.596576, 49.332237 ], [ 25.582343999000045, 49.332441 ], [ 25.578826, 49.331021 ], [ 25.573653611000054, 49.331345523000039 ] ] ] } }
-]
-}

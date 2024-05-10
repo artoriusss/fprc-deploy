@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.055131798793600001, "Shape_Area": 0.000110821512035, "ADM4_EN": "Mali Holoby", "ADM4_UA": "Малі Голоби", "ADM4_PCODE": "UA0704001030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kamin-Kashyrska", "ADM3_UA": "Камінь-Каширська", "ADM3_PCODE": "UA0704001", "ADM2_EN": "Kamin-Kashyrskyi", "ADM2_UA": "Камінь-Каширський", "ADM2_PCODE": "UA0704", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.195198069000071, 51.575988002000031 ], [ 25.198836070000027, 51.577650002000041 ], [ 25.197206068000071, 51.581530002000079 ], [ 25.18628065300004, 51.587314752000054 ], [ 25.180286070000022, 51.585958002000041 ], [ 25.188684069000033, 51.578246002000071 ], [ 25.195198069000071, 51.575988002000031 ] ] ] } }
-]
-}

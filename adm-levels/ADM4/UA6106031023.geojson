@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.053979570379400002, "Shape_Area": 0.000108298798354, "ADM4_EN": "Lazarivka", "ADM4_UA": "Лазарівка", "ADM4_PCODE": "UA6106031023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Monastyryska", "ADM3_UA": "Монастириська", "ADM3_PCODE": "UA6106031", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.055524098000035, 49.043461658000069 ], [ 25.052916941000035, 49.039614272000051 ], [ 25.058669818000055, 49.036509658000057 ], [ 25.063680765000072, 49.032005274000028 ], [ 25.066778707000026, 49.032621024000036 ], [ 25.073784229000069, 49.036113948000036 ], [ 25.070601036000028, 49.040149503000066 ], [ 25.065407208000067, 49.038720728000044 ], [ 25.060473558000069, 49.039537533000043 ], [ 25.055524098000035, 49.043461658000069 ] ] ] } }
-]
-}

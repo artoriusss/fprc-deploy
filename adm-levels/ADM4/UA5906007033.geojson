@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.067757461574199998, "Shape_Area": 7.8470838520100007e-05, "ADM4_EN": "Khomenkove", "ADM4_UA": "Хоменкове", "ADM4_PCODE": "UA5906007033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lypovodolynska", "ADM3_UA": "Липоводолинська", "ADM3_PCODE": "UA5906007", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.964957001000073, 50.572406 ], [ 33.964057001000072, 50.574052 ], [ 33.955663001000062, 50.571259 ], [ 33.95532600100006, 50.567902 ], [ 33.959686, 50.565115 ], [ 33.963072, 50.565813 ], [ 33.963068, 50.569732 ], [ 33.964957001000073, 50.572406 ] ] ] } }
-]
-}

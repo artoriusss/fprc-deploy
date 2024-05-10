@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.17826099704000001, "Shape_Area": 0.0002766360913, "ADM4_EN": "Balamutivka", "ADM4_UA": "Баламутівка", "ADM4_PCODE": "UA7306065002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yurkovetska", "ADM3_UA": "Юрковецька", "ADM3_PCODE": "UA7306065", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.036059, 48.544091 ], [ 26.042505, 48.536092 ], [ 26.046639, 48.533364 ], [ 26.053073, 48.530996 ], [ 26.060638, 48.531169 ], [ 26.06081, 48.529 ], [ 26.074161086000061, 48.52876569600005 ], [ 26.077782, 48.53111 ], [ 26.074411001000044, 48.534334 ], [ 26.075725999000042, 48.539596 ], [ 26.069511001000023, 48.542369 ], [ 26.067315, 48.538108 ], [ 26.057854, 48.537248 ], [ 26.048206, 48.538131 ], [ 26.039496, 48.543599 ], [ 26.036059, 48.544091 ] ] ] } }
-]
-}

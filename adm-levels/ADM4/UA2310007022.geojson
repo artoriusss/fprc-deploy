@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.048466321272199998, "Shape_Area": 6.2776928609300007e-05, "ADM4_EN": "Rybne", "ADM4_UA": "Рибне", "ADM4_PCODE": "UA2310007022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Huliaipilska", "ADM3_UA": "Гуляйпільська", "ADM3_PCODE": "UA2310007", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 36.344545492000066, 47.81214000600005 ], [ 36.344593906000057, 47.816813165000042 ], [ 36.336582827000029, 47.815842014000054 ], [ 36.337541868000073, 47.811156729000061 ], [ 36.344545492000066, 47.81214000600005 ] ] ], [ [ [ 36.357187445000079, 47.806057723000038 ], [ 36.355102259000034, 47.811106774000052 ], [ 36.352690154000072, 47.811127183000053 ], [ 36.351933967000036, 47.805996329000038 ], [ 36.357187445000079, 47.806057723000038 ] ] ] ] } }
-]
-}

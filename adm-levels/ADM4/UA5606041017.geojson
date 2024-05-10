@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.042276410830199999, "Shape_Area": 4.0367797966500001e-05, "ADM4_EN": "Ozerko", "ADM4_UA": "Озерко", "ADM4_PCODE": "UA5606041017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mizotska", "ADM3_UA": "Мізоцька", "ADM3_PCODE": "UA5606041", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.165540161000024, 50.372233020000067 ], [ 26.165111040000056, 50.366717010000059 ], [ 26.169572880000032, 50.366072970000062 ], [ 26.172358921000068, 50.371938990000046 ], [ 26.165540161000024, 50.372233020000067 ] ] ] } }
-]
-}

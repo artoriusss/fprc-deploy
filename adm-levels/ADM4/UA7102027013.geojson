@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.096546923353700007, "Shape_Area": 0.00027301667627899998, "ADM4_EN": "Khylky", "ADM4_UA": "Хильки", "ADM4_PCODE": "UA7102027013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Steblivska", "ADM3_UA": "Стеблівська", "ADM3_PCODE": "UA7102027", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.964867, 49.343452 ], [ 30.963504999000065, 49.34531 ], [ 30.955217, 49.349014 ], [ 30.951339, 49.345421 ], [ 30.952747001000034, 49.34087 ], [ 30.956321001000049, 49.334772 ], [ 30.962155, 49.332258 ], [ 30.966226001000052, 49.332859 ], [ 30.967199, 49.329481 ], [ 30.975748001000056, 49.330019 ], [ 30.981161, 49.329142 ], [ 30.978499999000064, 49.334311 ], [ 30.974076999000033, 49.336445 ], [ 30.972984, 49.340854 ], [ 30.968160999000077, 49.339742 ], [ 30.964867, 49.343452 ] ] ] } }
-]
-}

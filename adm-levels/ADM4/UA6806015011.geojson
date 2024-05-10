@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0945460116372, "Shape_Area": 0.00016063211209699999, "ADM4_EN": "Romaniv", "ADM4_UA": "Романів", "ADM4_PCODE": "UA6806015011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykhailiutska", "ADM3_UA": "Михайлюцька", "ADM3_PCODE": "UA6806015", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.139953, 50.316554 ], [ 27.137771, 50.315579 ], [ 27.137731, 50.30957 ], [ 27.13575, 50.309854 ], [ 27.134706564000055, 50.301413504000038 ], [ 27.141224001000069, 50.302917 ], [ 27.142254, 50.30912 ], [ 27.160408, 50.307379 ], [ 27.16542, 50.309905 ], [ 27.156878, 50.311406 ], [ 27.143009, 50.312678 ], [ 27.139953, 50.316554 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.075735173456499993, "Shape_Area": 0.00022681319454100001, "ADM4_EN": "Ostrovske", "ADM4_UA": "Островське", "ADM4_PCODE": "UA0112049001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ostrovska", "ADM3_UA": "Островська", "ADM3_PCODE": "UA0112049", "ADM2_EN": "Krasnohvardiiskyi", "ADM2_UA": "Красногвардійський", "ADM2_PCODE": "UA0112", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.072996999000054, 45.749169 ], [ 34.07302899900003, 45.751396 ], [ 34.064192, 45.751387 ], [ 34.056813, 45.745928 ], [ 34.05542, 45.740935 ], [ 34.056967, 45.736298 ], [ 34.060364, 45.737068 ], [ 34.065253, 45.733185 ], [ 34.073396, 45.734994 ], [ 34.070543, 45.739948 ], [ 34.072996999000054, 45.749169 ] ] ] } }
-]
-}

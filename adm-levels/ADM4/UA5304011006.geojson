@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.15199412581, "Shape_Area": 0.00025986054351800003, "ADM4_EN": "Bovbasivka", "ADM4_UA": "Бовбасівка", "ADM4_PCODE": "UA5304011006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khorolska", "ADM3_UA": "Хорольська", "ADM3_PCODE": "UA5304011", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.320608, 49.660457 ], [ 33.317794, 49.657369 ], [ 33.303844, 49.654753 ], [ 33.295597, 49.655906 ], [ 33.291045001000043, 49.659153 ], [ 33.286788, 49.656952 ], [ 33.27857, 49.658105 ], [ 33.276, 49.65596 ], [ 33.285872, 49.655191 ], [ 33.294885001000068, 49.650225 ], [ 33.300052, 49.652445 ], [ 33.306867, 49.647083 ], [ 33.31733, 49.65115 ], [ 33.317178, 49.652674 ], [ 33.326144999000064, 49.653523 ], [ 33.325301, 49.657658 ], [ 33.319543, 49.657416 ], [ 33.320608, 49.660457 ] ] ] } }
-]
-}

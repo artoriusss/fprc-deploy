@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.062104857844400001, "Shape_Area": 9.2256205242900006e-05, "ADM4_EN": "Tsarychanka", "ADM4_UA": "Царичанка", "ADM4_PCODE": "UA5104003011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dyviziiska", "ADM3_UA": "Дивізійська", "ADM3_PCODE": "UA5104003", "ADM2_EN": "Bilhorod-Dnistrovskyi", "ADM2_UA": "Білгород-Дністровський", "ADM2_PCODE": "UA5104", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.923814001000039, 45.856571 ], [ 29.923614999000051, 45.859985 ], [ 29.920426001000067, 45.867266 ], [ 29.915656, 45.869866 ], [ 29.913954, 45.868368 ], [ 29.919304, 45.862729 ], [ 29.919313001000035, 45.860325 ], [ 29.915061, 45.854142 ], [ 29.920306, 45.855118 ], [ 29.920734, 45.849761 ], [ 29.92417, 45.849818 ], [ 29.923814001000039, 45.856571 ] ] ] } }
-]
-}

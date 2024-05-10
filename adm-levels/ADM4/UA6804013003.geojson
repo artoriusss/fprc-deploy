@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.072834768437, "Shape_Area": 0.000101311695787, "ADM4_EN": "Basivka", "ADM4_UA": "Басівка", "ADM4_PCODE": "UA6804013003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodotska", "ADM3_UA": "Городоцька", "ADM3_PCODE": "UA6804013", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.623637375000044, 49.248798538000074 ], [ 26.63214, 49.248496 ], [ 26.631109, 49.256648 ], [ 26.631485999000063, 49.262109 ], [ 26.624562776000062, 49.262735648000046 ], [ 26.622065822000025, 49.26090047100007 ], [ 26.623578, 49.257878 ], [ 26.629047, 49.254611 ], [ 26.623661001000073, 49.249611 ], [ 26.623637375000044, 49.248798538000074 ] ] ] } }
-]
-}

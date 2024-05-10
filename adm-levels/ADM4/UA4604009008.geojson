@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.069963474077599994, "Shape_Area": 0.000145296596881, "ADM4_EN": "Mala Vilshanka", "ADM4_UA": "Мала Вільшанка", "ADM4_PCODE": "UA4604009008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasnenska", "ADM3_UA": "Красненська", "ADM3_PCODE": "UA4604009", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.634735744000068, 49.87555573700007 ], [ 24.64106911500005, 49.876207004000037 ], [ 24.644547003000071, 49.874279040000033 ], [ 24.646695116000046, 49.880039004000025 ], [ 24.656156112000076, 49.880827004000025 ], [ 24.657524113000022, 49.884263004000047 ], [ 24.652351113000066, 49.886627004000047 ], [ 24.64718728500003, 49.887126094000052 ], [ 24.634689, 49.879333001000077 ], [ 24.634735744000068, 49.87555573700007 ] ] ] } }
-]
-}

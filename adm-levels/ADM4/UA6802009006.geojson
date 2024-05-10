@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10512522593900001, "Shape_Area": 0.00024641102331000002, "ADM4_EN": "Husiatyn", "ADM4_UA": "Гусятин", "ADM4_PCODE": "UA6802009006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zakupnenska", "ADM3_UA": "Закупненська", "ADM3_PCODE": "UA6802009", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.211568, 49.074465 ], [ 26.214525, 49.075362 ], [ 26.217107999000064, 49.072892 ], [ 26.215713, 49.069983 ], [ 26.210013, 49.067299 ], [ 26.208698999000035, 49.064596 ], [ 26.21510100100005, 49.059434 ], [ 26.223453, 49.064067 ], [ 26.228336, 49.07058 ], [ 26.221192, 49.073416 ], [ 26.218264, 49.077011 ], [ 26.213002, 49.077868 ], [ 26.213173999000048, 49.080422 ], [ 26.204543, 49.081921 ], [ 26.200849, 49.075575 ], [ 26.203006530000039, 49.073490562000075 ], [ 26.211568, 49.074465 ] ] ] } }
-]
-}

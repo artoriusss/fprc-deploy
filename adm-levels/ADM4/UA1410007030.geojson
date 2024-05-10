@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.062406716479900003, "Shape_Area": 0.000139826554786, "ADM4_EN": "Sakhanka", "ADM4_UA": "Саханка", "ADM4_PCODE": "UA1410007030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoazovska", "ADM3_UA": "Новоазовська", "ADM3_PCODE": "UA1410007", "ADM2_EN": "Kalmiuskyi", "ADM2_UA": "Кальміуський", "ADM2_PCODE": "UA1410", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.868851999000071, 47.129692 ], [ 37.864343999000027, 47.130438 ], [ 37.862465998000062, 47.132741 ], [ 37.853619999000045, 47.132513 ], [ 37.853804999000033, 47.129546 ], [ 37.847280999000077, 47.128336 ], [ 37.847014999000066, 47.125224 ], [ 37.854681999000036, 47.124249 ], [ 37.867764, 47.124653 ], [ 37.868851999000071, 47.129692 ] ] ] } }
-]
-}

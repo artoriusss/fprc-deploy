@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.036863821773000002, "Shape_Area": 8.8443328608400006e-05, "ADM4_EN": "Bykiv", "ADM4_UA": "Биків", "ADM4_PCODE": "UA4602003003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Drohobytska", "ADM3_UA": "Дрогобицька", "ADM3_PCODE": "UA4602003", "ADM2_EN": "Drohobytskyi", "ADM2_UA": "Дрогобицький", "ADM2_PCODE": "UA4602", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.477600356000039, 49.461378013000058 ], [ 23.478523356000039, 49.46401501400004 ], [ 23.477717356000028, 49.471601013000054 ], [ 23.469727359000046, 49.471225014000026 ], [ 23.469304359000034, 49.467661013000054 ], [ 23.470406359000037, 49.460587014000055 ], [ 23.477600356000039, 49.461378013000058 ] ] ] } }
-]
-}

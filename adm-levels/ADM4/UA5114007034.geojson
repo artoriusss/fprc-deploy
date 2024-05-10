@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.106377551433, "Shape_Area": 0.00015879889364800001, "ADM4_EN": "Stoianove", "ADM4_UA": "Стоянове", "ADM4_PCODE": "UA5114007034", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zakharivska", "ADM3_UA": "Захарівська", "ADM3_PCODE": "UA5114007", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.764615670000069, 47.347618750000038 ], [ 29.763516, 47.355232 ], [ 29.761296999000024, 47.359536 ], [ 29.764668, 47.363477 ], [ 29.762994999000057, 47.365013 ], [ 29.757597001000079, 47.364558 ], [ 29.755376, 47.362421 ], [ 29.756624999000053, 47.35571 ], [ 29.752229, 47.352073 ], [ 29.752774, 47.348397 ], [ 29.756231, 47.349462 ], [ 29.76081885800005, 47.347494651000034 ], [ 29.764615670000069, 47.347618750000038 ] ] ] } }
-]
-}

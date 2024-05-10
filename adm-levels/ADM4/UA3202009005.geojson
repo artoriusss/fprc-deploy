@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.051581663567899998, "Shape_Area": 8.7948818348300005e-05, "ADM4_EN": "Klochky", "ADM4_UA": "Клочки", "ADM4_PCODE": "UA3202009005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Malovilshanska", "ADM3_UA": "Маловільшанська", "ADM3_PCODE": "UA3202009", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.268933767000078, 49.733463666000034 ], [ 30.267937665000034, 49.739174671000058 ], [ 30.262077715000032, 49.735976730000061 ], [ 30.256651730000044, 49.735335675000044 ], [ 30.262093720000053, 49.72947573700003 ], [ 30.265353685000036, 49.727732633000073 ], [ 30.269097764000037, 49.730843680000078 ], [ 30.268933767000078, 49.733463666000034 ] ] ] } }
-]
-}

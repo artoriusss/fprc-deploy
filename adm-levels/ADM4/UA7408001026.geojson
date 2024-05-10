@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.032532045368499997, "Shape_Area": 4.2161837359599999e-05, "ADM4_EN": "Tonka", "ADM4_UA": "Тонка", "ADM4_PCODE": "UA7408001026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Varvynska", "ADM3_UA": "Варвинська", "ADM3_PCODE": "UA7408001", "ADM2_EN": "Prylutskyi", "ADM2_UA": "Прилуцький", "ADM2_PCODE": "UA7408", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.963591879000035, 50.466177990000062 ], [ 32.961425040000051, 50.467326030000038 ], [ 32.96044296000008, 50.472873990000039 ], [ 32.956786081000075, 50.47320897000003 ], [ 32.958300960000031, 50.462569980000069 ], [ 32.961303001000033, 50.462906040000064 ], [ 32.963591879000035, 50.466177990000062 ] ] ] } }
-]
-}

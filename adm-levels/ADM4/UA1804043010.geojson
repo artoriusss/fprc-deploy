@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0537451317244, "Shape_Area": 9.8428487687999996e-05, "ADM4_EN": "Huta-Yustynivka", "ADM4_UA": "Гута-Юстинівка", "ADM4_PCODE": "UA1804043010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pulynska", "ADM3_UA": "Пулинська", "ADM3_PCODE": "UA1804043", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.298064577000048, 50.345600661000049 ], [ 28.294033060000061, 50.339532260000055 ], [ 28.296820511000078, 50.338621436000039 ], [ 28.308957840000062, 50.338067040000055 ], [ 28.310551920000023, 50.343524010000067 ], [ 28.298064577000048, 50.345600661000049 ] ] ] } }
-]
-}

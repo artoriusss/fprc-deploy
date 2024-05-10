@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.047359593744, "Shape_Area": 2.9296630007699999e-05, "ADM4_EN": "Poliukhne", "ADM4_UA": "Полюхне", "ADM4_PCODE": "UA0708007030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horokhivska", "ADM3_UA": "Горохівська", "ADM3_PCODE": "UA0708007", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.650512117000062, 50.503051004000042 ], [ 24.65031411700005, 50.501499004000038 ], [ 24.662151116000075, 50.501519004000045 ], [ 24.663412116000075, 50.502873004000037 ], [ 24.650512117000062, 50.503051004000042 ] ] ] } }
-]
-}

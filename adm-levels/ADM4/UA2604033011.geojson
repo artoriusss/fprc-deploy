@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0563792152017, "Shape_Area": 8.9286033868299995e-05, "ADM4_EN": "Pohonia", "ADM4_UA": "Погоня", "ADM4_PCODE": "UA2604033011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tysmenytska", "ADM3_UA": "Тисменицька", "ADM3_PCODE": "UA2604033", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.880569922000063, 48.88077220200006 ], [ 24.882775910000078, 48.881537343000048 ], [ 24.887683553000045, 48.879795272000081 ], [ 24.891316500000073, 48.882621859000039 ], [ 24.894167, 48.887765816000069 ], [ 24.890464824000048, 48.891892545000076 ], [ 24.887421556000049, 48.890235517000065 ], [ 24.886994423000033, 48.886501601000077 ], [ 24.879531406000069, 48.88432305200007 ], [ 24.880569922000063, 48.88077220200006 ] ] ] } }
-]
-}

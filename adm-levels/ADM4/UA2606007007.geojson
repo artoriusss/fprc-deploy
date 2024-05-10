@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.034681684260799997, "Shape_Area": 5.4986248852299998e-05, "ADM4_EN": "Maksymivka", "ADM4_UA": "Максимівка", "ADM4_PCODE": "UA2606007007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vyhodska", "ADM3_UA": "Вигодська", "ADM3_PCODE": "UA2606007", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.932783, 48.884437 ], [ 23.93971, 48.886930999000072 ], [ 23.939589, 48.889371 ], [ 23.931762493000065, 48.889026446000059 ], [ 23.926012870000022, 48.886977343000069 ], [ 23.926639, 48.883624 ], [ 23.932783, 48.884437 ] ] ] } }
-]
-}

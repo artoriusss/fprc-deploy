@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0601439816503, "Shape_Area": 8.9413504733099994e-05, "ADM4_EN": "Novosilky", "ADM4_UA": "Новосілки", "ADM4_PCODE": "UA0706023009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lukivska", "ADM3_UA": "Луківська", "ADM3_PCODE": "UA0706023", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.290086176000045, 51.189608006000071 ], [ 24.286819176000051, 51.190203006000047 ], [ 24.282636179000065, 51.188889006000068 ], [ 24.280392178000056, 51.186215006000054 ], [ 24.297757174000026, 51.183291006000047 ], [ 24.29925617400005, 51.188193005000073 ], [ 24.290086176000045, 51.189608006000071 ] ] ] } }
-]
-}

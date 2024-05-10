@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0998062325488, "Shape_Area": 7.1566305996099999e-05, "ADM4_EN": "Kubriaky", "ADM4_UA": "Кубряки", "ADM4_PCODE": "UA4806031008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stepivska", "ADM3_UA": "Степівська", "ADM3_PCODE": "UA4806031", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 31.326224190000062, 47.08145255200003 ], [ 31.325847868000039, 47.087235226000075 ], [ 31.322343603000036, 47.086974497000028 ], [ 31.323327860000063, 47.081372097000042 ], [ 31.326224190000062, 47.08145255200003 ] ] ], [ [ [ 31.334167626000067, 47.07789365900004 ], [ 31.33192378900003, 47.081916525000054 ], [ 31.32906421000007, 47.081551151000042 ], [ 31.331208102000062, 47.077165122000054 ], [ 31.334167626000067, 47.07789365900004 ] ] ] ] } }
-]
-}

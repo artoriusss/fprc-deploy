@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.038107848896699999, "Shape_Area": 3.4112820891599997e-05, "ADM4_EN": "Okhotnyky", "ADM4_UA": "Охотники", "ADM4_PCODE": "UA0706043031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Turiiska", "ADM3_UA": "Турійська", "ADM3_PCODE": "UA0706043", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.295962176000046, 51.132676005000064 ], [ 24.30231017400007, 51.129353006000031 ], [ 24.303077173000077, 51.125498005000054 ], [ 24.306764174000023, 51.129809005000027 ], [ 24.296807174000037, 51.133368006000069 ], [ 24.295962176000046, 51.132676005000064 ] ] ] } }
-]
-}

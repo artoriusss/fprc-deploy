@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.054788948445, "Shape_Area": 0.000103737100903, "ADM4_EN": "Dmytrivka", "ADM4_UA": "Дмитрівка", "ADM4_PCODE": "UA6504003006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivanivska", "ADM3_UA": "Іванівська", "ADM3_PCODE": "UA6504003", "ADM2_EN": "Henicheskyi", "ADM2_UA": "Генічеський", "ADM2_PCODE": "UA6504", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.297638, 46.572108 ], [ 34.298414, 46.575957 ], [ 34.28176, 46.574325 ], [ 34.279049, 46.570161 ], [ 34.284958, 46.570638 ], [ 34.285451, 46.567752 ], [ 34.292431, 46.568353 ], [ 34.297953, 46.570156 ], [ 34.297638, 46.572108 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.119167886887, "Shape_Area": 0.00017925512048199999, "ADM4_EN": "Pylypy-Borivski", "ADM4_UA": "Пилипи-Борівські", "ADM4_PCODE": "UA0510013020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tomashpilska", "ADM3_UA": "Томашпільська", "ADM3_PCODE": "UA0510013", "ADM2_EN": "Tulchynskyi", "ADM2_UA": "Тульчинський", "ADM2_PCODE": "UA0510", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.342707001000065, 48.507227 ], [ 28.341588, 48.511903 ], [ 28.336446, 48.510755 ], [ 28.337616001000072, 48.50663 ], [ 28.342117, 48.502612 ], [ 28.341480999000055, 48.494735 ], [ 28.334615, 48.495172 ], [ 28.332673001000046, 48.492069 ], [ 28.337087999000062, 48.490205 ], [ 28.346455, 48.491353 ], [ 28.34905800100006, 48.493242 ], [ 28.348972, 48.496547 ], [ 28.34655, 48.503306 ], [ 28.342707001000065, 48.507227 ] ] ] } }
-]
-}

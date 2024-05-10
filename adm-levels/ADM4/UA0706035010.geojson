@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0607294816876, "Shape_Area": 4.7120372248e-05, "ADM4_EN": "Kozovata", "ADM4_UA": "Козовата", "ADM4_PCODE": "UA0706035010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Samarivska", "ADM3_UA": "Самарівська", "ADM3_PCODE": "UA0706035", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.583935135000047, 51.883348004000027 ], [ 24.580749135000076, 51.880362004000062 ], [ 24.589064134000068, 51.879518004000033 ], [ 24.589163134000046, 51.882552005000036 ], [ 24.583935135000047, 51.883348004000027 ] ] ] } }
-]
-}

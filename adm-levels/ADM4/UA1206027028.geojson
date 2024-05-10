@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.093272798922099998, "Shape_Area": 0.00018313408818800001, "ADM4_EN": "Shyroke", "ADM4_UA": "Широке", "ADM4_PCODE": "UA1206027028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sofiivska", "ADM3_UA": "Софіївська", "ADM3_PCODE": "UA1206027", "ADM2_EN": "Kryvorizkyi", "ADM2_UA": "Криворізький", "ADM2_PCODE": "UA1206", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.056728, 48.070837 ], [ 34.04907, 48.072075 ], [ 34.049499, 48.073665 ], [ 34.037075, 48.07486 ], [ 34.031736, 48.074433 ], [ 34.030379999000047, 48.070462 ], [ 34.037623999000061, 48.070691 ], [ 34.039791, 48.065587 ], [ 34.040026, 48.059492 ], [ 34.045063, 48.060045 ], [ 34.043544, 48.065994 ], [ 34.048254001000032, 48.066051 ], [ 34.04839, 48.068392 ], [ 34.059399230000054, 48.06756702000007 ], [ 34.056728, 48.070837 ] ] ] } }
-]
-}

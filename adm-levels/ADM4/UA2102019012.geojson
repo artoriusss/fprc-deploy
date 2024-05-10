@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.062216906752999998, "Shape_Area": 0.000114734119291, "ADM4_EN": "Fertesholmash", "ADM4_UA": "Фертешолмаш", "ADM4_PCODE": "UA2102019012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pyiterfolvivska", "ADM3_UA": "Пийтерфолвівська", "ADM3_PCODE": "UA2102019", "ADM2_EN": "Berehivskyi", "ADM2_UA": "Берегівський", "ADM2_PCODE": "UA2102", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.927317544000061, 47.985634023000046 ], [ 22.922386546000041, 47.985758024000063 ], [ 22.922693547000051, 47.981615023000074 ], [ 22.924907546000043, 47.976931023000077 ], [ 22.928407543000048, 47.972452023000073 ], [ 22.931100542000024, 47.976339024000026 ], [ 22.932497543000068, 47.985527023000031 ], [ 22.927317544000061, 47.985634023000046 ] ] ] } }
-]
-}

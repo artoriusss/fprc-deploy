@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11179060903, "Shape_Area": 0.00036504631781600003, "ADM4_EN": "Bolhan", "ADM4_UA": "Болган", "ADM4_PCODE": "UA0510011002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Studenianska", "ADM3_UA": "Студенянська", "ADM3_PCODE": "UA0510011", "ADM2_EN": "Tulchynskyi", "ADM2_UA": "Тульчинський", "ADM2_PCODE": "UA0510", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.727279410000051, 48.130568993000054 ], [ 28.733463665000045, 48.134059191000063 ], [ 28.740829291000068, 48.135469614000044 ], [ 28.753040019000025, 48.14520264600003 ], [ 28.743367, 48.14594 ], [ 28.739950807000071, 48.14943665800007 ], [ 28.734486, 48.14768 ], [ 28.721934073000057, 48.154473947000042 ], [ 28.719955754000068, 48.148933056000033 ], [ 28.724254269000028, 48.14281247200006 ], [ 28.724969086000044, 48.133574655000075 ], [ 28.727279410000051, 48.130568993000054 ] ] ] } }
-]
-}

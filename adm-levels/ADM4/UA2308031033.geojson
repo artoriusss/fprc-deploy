@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.070107774691700001, "Shape_Area": 0.000120494597384, "ADM4_EN": "Maksyma Horkoho", "ADM4_UA": "Максима Горького", "ADM4_PCODE": "UA2308031033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yakymivska", "ADM3_UA": "Якимівська", "ADM3_PCODE": "UA2308031", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "Мелітопольський", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.808273993000057, 46.717474822000042 ], [ 34.807903672000066, 46.721901231000061 ], [ 34.804781840000032, 46.721936911000057 ], [ 34.803797477000046, 46.72685911800005 ], [ 34.799307853000073, 46.726420511000072 ], [ 34.798643789000039, 46.718248306000078 ], [ 34.795554385000059, 46.711841736000054 ], [ 34.811063665000063, 46.711807637000049 ], [ 34.808273993000057, 46.717474822000042 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13865268029799999, "Shape_Area": 0.00068310404754400001, "ADM4_EN": "Vashkivtsi", "ADM4_UA": "Вашківці", "ADM4_PCODE": "UA7304001001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vashkovetska", "ADM3_UA": "Вашковецька", "ADM3_PCODE": "UA7304001", "ADM2_EN": "Dnistrovskyi", "ADM2_UA": "Дністровський", "ADM2_PCODE": "UA7304", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.122358, 48.422235 ], [ 27.118237, 48.419807 ], [ 27.109323, 48.41069 ], [ 27.108428999000068, 48.406373 ], [ 27.116113, 48.402383 ], [ 27.124283999000056, 48.400855 ], [ 27.136792, 48.396189 ], [ 27.138423, 48.399832 ], [ 27.143616, 48.402451 ], [ 27.147431, 48.408552 ], [ 27.145229, 48.410094 ], [ 27.148363, 48.415735 ], [ 27.142014, 48.419164 ], [ 27.139785, 48.41695 ], [ 27.131392, 48.420436 ], [ 27.127626, 48.419851999000059 ], [ 27.122358, 48.422235 ] ] ] } }
-]
-}

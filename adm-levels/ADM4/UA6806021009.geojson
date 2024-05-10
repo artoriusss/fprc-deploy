@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.101362849383, "Shape_Area": 0.00039639920339899998, "ADM4_EN": "Vorobiivka", "ADM4_UA": "Воробіївка", "ADM4_PCODE": "UA6806021009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Polonska", "ADM3_UA": "Полонська", "ADM3_PCODE": "UA6806021", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.500721, 49.91212 ], [ 27.483629, 49.917373 ], [ 27.478289999000026, 49.909773 ], [ 27.486792, 49.907118 ], [ 27.48422, 49.898188 ], [ 27.490834001000053, 49.89816 ], [ 27.504531999000051, 49.896703 ], [ 27.506425, 49.903355 ], [ 27.505553999000028, 49.906677 ], [ 27.506901, 49.911795 ], [ 27.500721, 49.91212 ] ] ] } }
-]
-}

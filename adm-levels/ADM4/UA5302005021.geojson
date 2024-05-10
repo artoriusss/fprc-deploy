@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.115395288212, "Shape_Area": 0.00050385594915399996, "ADM4_EN": "Pronozivka", "ADM4_UA": "Пронозівка", "ADM4_PCODE": "UA5302005021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hradyzka", "ADM3_UA": "Градизька", "ADM3_PCODE": "UA5302005", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.023778, 49.299479 ], [ 33.006949, 49.306047 ], [ 32.998437, 49.297512 ], [ 32.990791, 49.300818 ], [ 32.983910001000027, 49.301375 ], [ 32.984023999000044, 49.294931 ], [ 32.989601, 49.292246 ], [ 32.995835, 49.284917 ], [ 32.99963, 49.28653 ], [ 33.012041, 49.282184 ], [ 33.010905, 49.285524 ], [ 33.023778, 49.299479 ] ] ] } }
-]
-}

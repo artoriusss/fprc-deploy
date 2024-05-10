@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.042558172235699999, "Shape_Area": 4.8818661314200001e-05, "ADM4_EN": "Nelhivka", "ADM4_UA": "Нельгівка", "ADM4_PCODE": "UA2302009011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kolarivska", "ADM3_UA": "Коларівська", "ADM3_PCODE": "UA2302009", "ADM2_EN": "Berdianskyi", "ADM2_UA": "Бердянський", "ADM2_PCODE": "UA2302", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.29690448100007, 47.051749794000045 ], [ 36.294764688000043, 47.05169666300003 ], [ 36.293723078000028, 47.046972700000026 ], [ 36.290289459000064, 47.046015559000068 ], [ 36.293975600000067, 47.039007566000066 ], [ 36.295462315000066, 47.039656942000079 ], [ 36.29690448100007, 47.051749794000045 ] ] ] } }
-]
-}

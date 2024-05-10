@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.085285715678999993, "Shape_Area": 0.00018165950770300001, "ADM4_EN": "Shcherbani", "ADM4_UA": "Щербані", "ADM4_PCODE": "UA5308047001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shcherbanivska", "ADM3_UA": "Щербанівська", "ADM3_PCODE": "UA5308047", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.551193, 49.528971 ], [ 34.544065999000054, 49.533057 ], [ 34.542286, 49.536247 ], [ 34.533271999000078, 49.540376 ], [ 34.521094001000051, 49.541902 ], [ 34.520952, 49.539759 ], [ 34.526347, 49.538321 ], [ 34.533612, 49.539145 ], [ 34.531158, 49.534492 ], [ 34.531482, 49.529689 ], [ 34.533997001000046, 49.528933 ], [ 34.55166, 49.527151 ], [ 34.551193, 49.528971 ] ] ] } }
-]
-}

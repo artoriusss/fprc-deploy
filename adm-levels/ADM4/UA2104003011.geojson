@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.071806221361700007, "Shape_Area": 0.00019739645975100001, "ADM4_EN": "Stanovo", "ADM4_UA": "Станово", "ADM4_PCODE": "UA2104003011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Verkhnokoropetska", "ADM3_UA": "Верхньокоропецька", "ADM3_PCODE": "UA2104003", "ADM2_EN": "Mukachivskyi", "ADM2_UA": "Мукачівський", "ADM2_PCODE": "UA2104", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.851244594000036, 48.42404302500006 ], [ 22.848284597000031, 48.418488025000045 ], [ 22.852136594000058, 48.411057025000048 ], [ 22.860300590000065, 48.412984025000071 ], [ 22.86531758700005, 48.419670024000027 ], [ 22.865774588000022, 48.425220025000044 ], [ 22.859885591000022, 48.426676025000063 ], [ 22.856253593000076, 48.424690025000075 ], [ 22.851244594000036, 48.42404302500006 ] ] ] } }
-]
-}

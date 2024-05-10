@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060959807333700003, "Shape_Area": 7.2629659962000006e-05, "ADM4_EN": "Kinne", "ADM4_UA": "Кінне", "ADM4_PCODE": "UA6310005086", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lozivska", "ADM3_UA": "Лозівська", "ADM3_PCODE": "UA6310005", "ADM2_EN": "Lozivskyi", "ADM2_UA": "Лозівський", "ADM2_PCODE": "UA6310", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.550419, 49.023591 ], [ 36.548260001000074, 49.016354 ], [ 36.553114, 49.014132 ], [ 36.556323, 49.015797 ], [ 36.558597, 49.014562 ], [ 36.563481, 49.019428 ], [ 36.559220001000028, 49.020291 ], [ 36.550419, 49.023591 ] ] ] } }
-]
-}

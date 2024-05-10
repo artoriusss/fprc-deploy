@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.092892736348300003, "Shape_Area": 0.00012710368239300001, "ADM4_EN": "Cherkasivka", "ADM4_UA": "Черкасівка", "ADM4_PCODE": "UA5308033033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoselivska", "ADM3_UA": "Новоселівська", "ADM3_PCODE": "UA5308033", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.826071, 49.64869 ], [ 34.817118, 49.648175 ], [ 34.814804, 49.643483 ], [ 34.808449, 49.639865 ], [ 34.81012000100003, 49.6374 ], [ 34.822437, 49.639066 ], [ 34.830714001000047, 49.636905 ], [ 34.833605001000024, 49.640685 ], [ 34.831188, 49.64426 ], [ 34.821336, 49.641267 ], [ 34.81649599900004, 49.641707 ], [ 34.818511, 49.647244 ], [ 34.826071, 49.64869 ] ] ] } }
-]
-}

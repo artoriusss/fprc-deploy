@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.032565051323300002, "Shape_Area": 3.1927967121900001e-05, "ADM4_EN": "Nove Zhyttia", "ADM4_UA": "Нове Життя", "ADM4_PCODE": "UA6802029030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chemerovetska", "ADM3_UA": "Чемеровецька", "ADM3_PCODE": "UA6802029", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.329606001000059, 48.924312 ], [ 26.327658, 48.922556 ], [ 26.335828001000039, 48.920429 ], [ 26.34169, 48.920183 ], [ 26.341825, 48.922708 ], [ 26.33385, 48.92298 ], [ 26.329606001000059, 48.924312 ] ] ] } }
-]
-}

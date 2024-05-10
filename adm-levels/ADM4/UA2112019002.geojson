@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.22202758684900001, "Shape_Area": 0.00024810744944200002, "ADM4_EN": "Verkhnii Bystryi", "ADM4_UA": "Верхній Бистрий", "ADM4_PCODE": "UA2112019002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mizhhirska", "ADM3_UA": "Міжгірська", "ADM3_PCODE": "UA2112019", "ADM2_EN": "Khustskyi", "ADM2_UA": "Хустський", "ADM2_PCODE": "UA2112", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.541083322000077, 48.636759013000074 ], [ 23.544084321000071, 48.643293013000061 ], [ 23.534291325000027, 48.638425013000074 ], [ 23.525526326000033, 48.63297801300007 ], [ 23.515503330000058, 48.629018013000064 ], [ 23.529319326000063, 48.622562013000049 ], [ 23.529593325000064, 48.629618012000037 ], [ 23.531508325000061, 48.633982013000036 ], [ 23.53708232300005, 48.633736013000032 ], [ 23.541083322000077, 48.636759013000074 ] ] ] } }
-]
-}

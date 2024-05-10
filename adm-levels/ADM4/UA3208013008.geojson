@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.082670358241799996, "Shape_Area": 0.000277402043958, "ADM4_EN": "Lisne", "ADM4_UA": "Лісне", "ADM4_PCODE": "UA3208013008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dmytrivska", "ADM3_UA": "Дмитрівська", "ADM3_PCODE": "UA3208013", "ADM2_EN": "Buchanskyi", "ADM2_UA": "Бучанський", "ADM2_PCODE": "UA3208", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.099834804000068, 50.436302648000037 ], [ 30.110623773000043, 50.437436651000041 ], [ 30.120143810000059, 50.445001623000053 ], [ 30.112532820000069, 50.450382558000058 ], [ 30.103688792000071, 50.451470577000066 ], [ 30.101927875000058, 50.448211590000028 ], [ 30.09262688900003, 50.448357593000026 ], [ 30.093830827000033, 50.43682954500008 ], [ 30.099834804000068, 50.436302648000037 ] ] ] } }
-]
-}

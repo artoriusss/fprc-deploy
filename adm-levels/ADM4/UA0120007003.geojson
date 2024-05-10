@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.04248075311, "Shape_Area": 6.4163524284799997e-05, "ADM4_EN": "Danylivka", "ADM4_UA": "Данилівка", "ADM4_PCODE": "UA0120007003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hurzufska", "ADM3_UA": "Гурзуфська", "ADM3_PCODE": "UA0120007", "ADM2_EN": "Yaltynskyi", "ADM2_UA": "Ялтинський", "ADM2_PCODE": "UA0120", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.261305, 44.524149 ], [ 34.25808594800003, 44.52264034500007 ], [ 34.254722922000042, 44.524373241000035 ], [ 34.254316, 44.519377 ], [ 34.258610163000071, 44.516899419000026 ], [ 34.26092109700005, 44.513356416000079 ], [ 34.26409814200008, 44.51679981400008 ], [ 34.26152600100005, 44.518689 ], [ 34.261305, 44.524149 ] ] ] } }
-]
-}

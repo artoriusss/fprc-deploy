@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.148409037893, "Shape_Area": 0.00016289542733099999, "ADM4_EN": "Mykulyntsi", "ADM4_UA": "Микулинці", "ADM4_PCODE": "UA0502031011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yakushynetska", "ADM3_UA": "Якушинецька", "ADM3_PCODE": "UA0502031", "ADM2_EN": "Vinnytskyi", "ADM2_UA": "Вінницький", "ADM2_PCODE": "UA0502", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.170193668000024, 49.27292632800004 ], [ 28.16735606900005, 49.271247 ], [ 28.153146069000059, 49.259676 ], [ 28.148046068000042, 49.259307 ], [ 28.143754068000078, 49.261206 ], [ 28.139822068000058, 49.26042 ], [ 28.143700068000044, 49.255305 ], [ 28.145922068000061, 49.250652 ], [ 28.170326068000065, 49.270695 ], [ 28.170193668000024, 49.27292632800004 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.042198221055199998, "Shape_Area": 2.7917025722600001e-05, "ADM4_EN": "Vilne", "ADM4_UA": "Вільне", "ADM4_PCODE": "UA3506021006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rivnianska", "ADM3_UA": "Рівнянська", "ADM3_PCODE": "UA3506021", "ADM2_EN": "Novoukrainskyi", "ADM2_UA": "Новоукраїнський", "ADM2_PCODE": "UA3506", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.775784174000023, 48.295633687000077 ], [ 31.769868029000065, 48.293759029000057 ], [ 31.783613745000025, 48.294021894000082 ], [ 31.783034091000047, 48.295596379000074 ], [ 31.775784174000023, 48.295633687000077 ] ] ] } }
-]
-}

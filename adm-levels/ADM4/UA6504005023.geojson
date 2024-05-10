@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.069736745667399999, "Shape_Area": 9.0014966775099994e-05, "ADM4_EN": "Chekhovka", "ADM4_UA": "Чеховка", "ADM4_PCODE": "UA6504005023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nyzhnosirohozka", "ADM3_UA": "Нижньосірогозька", "ADM3_PCODE": "UA6504005", "ADM2_EN": "Henicheskyi", "ADM2_UA": "Генічеський", "ADM2_PCODE": "UA6504", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.603938, 46.96783 ], [ 34.602712, 46.973412 ], [ 34.600228, 46.973234 ], [ 34.597793, 46.965686 ], [ 34.600495, 46.965894 ], [ 34.602191, 46.958369 ], [ 34.607135, 46.958081 ], [ 34.605476001000056, 46.96621 ], [ 34.603938, 46.96783 ] ] ] } }
-]
-}

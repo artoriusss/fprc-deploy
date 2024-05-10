@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.115589375493, "Shape_Area": 9.3613904372300002e-05, "ADM4_EN": "Kyivske", "ADM4_UA": "Київське", "ADM4_PCODE": "UA4802001007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bashtanska", "ADM3_UA": "Баштанська", "ADM3_PCODE": "UA4802001", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 32.629015094000067, 47.348959889000071 ], [ 32.627129271000058, 47.346250285000053 ], [ 32.628506936000065, 47.341533178000077 ], [ 32.630830203000073, 47.341750109000031 ], [ 32.629015094000067, 47.348959889000071 ] ] ], [ [ [ 32.634718157000066, 47.32729912800005 ], [ 32.628620753000064, 47.335787443000072 ], [ 32.625913163000064, 47.33500519200004 ], [ 32.632098411000072, 47.32651730300006 ], [ 32.634718157000066, 47.32729912800005 ] ] ] ] } }
-]
-}

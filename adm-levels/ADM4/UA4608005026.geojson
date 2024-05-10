@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.026737980425400001, "Shape_Area": 3.2051125468600003e-05, "ADM4_EN": "Pidmostychi", "ADM4_UA": "Підмостичі", "ADM4_PCODE": "UA4608005026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dobromylska", "ADM3_UA": "Добромильська", "ADM3_PCODE": "UA4608005", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.797755663000032, 49.656460026000047 ], [ 22.794913665000024, 49.653838027000063 ], [ 22.797507663000033, 49.650187026000026 ], [ 22.801137661000041, 49.65005302700007 ], [ 22.802098662000049, 49.65399702600007 ], [ 22.797755663000032, 49.656460026000047 ] ] ] } }
-]
-}

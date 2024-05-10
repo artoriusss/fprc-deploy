@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.071667153326400002, "Shape_Area": 9.2958308085300002e-05, "ADM4_EN": "Barburske", "ADM4_UA": "Барбурське", "ADM4_PCODE": "UA7408003006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ichnianska", "ADM3_UA": "Ічнянська", "ADM3_PCODE": "UA7408003", "ADM2_EN": "Prylutskyi", "ADM2_UA": "Прилуцький", "ADM2_PCODE": "UA7408", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.211104040000066, 50.998073040000065 ], [ 32.196112920000076, 51.001929 ], [ 32.202673920000052, 50.995327950000046 ], [ 32.207689801000072, 50.996420010000065 ], [ 32.216235121000068, 50.993811 ], [ 32.225012999000057, 50.995788030000028 ], [ 32.223953880000067, 50.998557960000028 ], [ 32.215744801000028, 50.996961 ], [ 32.211104040000066, 50.998073040000065 ] ] ] } }
-]
-}

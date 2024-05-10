@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.096896368689499995, "Shape_Area": 0.00010086152497900001, "ADM4_EN": "Novokamianka", "ADM4_UA": "Новокам'янка", "ADM4_PCODE": "UA2310009005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Komysh-Zorianska", "ADM3_UA": "Комиш-Зорянська", "ADM3_PCODE": "UA2310009", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.692499156000054, 47.315850960000034 ], [ 36.687256760000025, 47.312530449000064 ], [ 36.690347296000027, 47.309988704000034 ], [ 36.698600153000029, 47.314230542000075 ], [ 36.713156900000058, 47.309735663000026 ], [ 36.707840081000029, 47.313924113000041 ], [ 36.698956862000045, 47.316454607000026 ], [ 36.692499156000054, 47.315850960000034 ] ] ] } }
-]
-}

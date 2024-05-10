@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.047415394116499997, "Shape_Area": 0.000109201064342, "ADM4_EN": "Starostyne", "ADM4_UA": "Старостине", "ADM4_PCODE": "UA0706031023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ratnivska", "ADM3_UA": "Ратнівська", "ADM3_PCODE": "UA0706031", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.497509147000073, 51.699435005000055 ], [ 24.491280648000043, 51.705945505000045 ], [ 24.486584148000077, 51.704637004000062 ], [ 24.480839149000076, 51.701496004000035 ], [ 24.482089148000057, 51.699995004000073 ], [ 24.48047923300004, 51.695406364000064 ], [ 24.485436896000067, 51.697199561000048 ], [ 24.486970807000034, 51.695379518000038 ], [ 24.497509147000073, 51.699435005000055 ] ] ] } }
-]
-}

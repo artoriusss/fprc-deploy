@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060378373030400001, "Shape_Area": 0.000138005650932, "ADM4_EN": "Ripyntsi", "ADM4_UA": "Ріпинці", "ADM4_PCODE": "UA6106007033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Buchatska", "ADM3_UA": "Бучацька", "ADM3_PCODE": "UA6106007", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.443324999000026, 49.010316 ], [ 25.448424001000035, 49.013175 ], [ 25.451803, 49.017093 ], [ 25.43829899900004, 49.019856 ], [ 25.433883999000045, 49.018903 ], [ 25.431365, 49.01646 ], [ 25.433122, 49.010401 ], [ 25.4366, 49.011225 ], [ 25.443324999000026, 49.010316 ] ] ] } }
-]
-}

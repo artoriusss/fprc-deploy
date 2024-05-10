@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.043712770383199998, "Shape_Area": 8.7139161634899997e-05, "ADM4_EN": "Masalaivka", "ADM4_UA": "Масалаївка", "ADM4_PCODE": "UA7402007025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sosnytska", "ADM3_UA": "Сосницька", "ADM3_PCODE": "UA7402007", "ADM2_EN": "Koriukivskyi", "ADM2_UA": "Корюківський", "ADM2_PCODE": "UA7402", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.526086040000052, 51.567844950000051 ], [ 32.523157800000035, 51.564277980000043 ], [ 32.522610959000076, 51.561079020000079 ], [ 32.528625121000061, 51.558166980000067 ], [ 32.533523460000026, 51.558712515000082 ], [ 32.535897840000075, 51.562179990000061 ], [ 32.526086040000052, 51.567844950000051 ] ] ] } }
-]
-}

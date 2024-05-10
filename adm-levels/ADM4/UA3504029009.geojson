@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.093055225636200001, "Shape_Area": 0.00011906285816500001, "ADM4_EN": "Ivano-Blahodatne", "ADM4_UA": "Івано-Благодатне", "ADM4_PCODE": "UA3504029009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sokolivska", "ADM3_UA": "Соколівська", "ADM3_PCODE": "UA3504029", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.982467, 48.530409 ], [ 31.969823, 48.533473 ], [ 31.969706001000077, 48.530092 ], [ 31.97280100100005, 48.527784 ], [ 31.980508001000032, 48.527038 ], [ 31.980706, 48.524297 ], [ 31.986857, 48.527759 ], [ 31.997396, 48.530839 ], [ 31.994388, 48.532944 ], [ 31.982467, 48.530409 ] ] ] } }
-]
-}

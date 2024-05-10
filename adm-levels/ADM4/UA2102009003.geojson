@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.068357203943999995, "Shape_Area": 0.00012860855591, "ADM4_EN": "Verbovets", "ADM4_UA": "Вербовець", "ADM4_PCODE": "UA2102009003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vylotska", "ADM3_UA": "Вилоцька", "ADM3_PCODE": "UA2102009", "ADM2_EN": "Berehivskyi", "ADM2_UA": "Берегівський", "ADM2_PCODE": "UA2102", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.904166562000057, 48.176147024000045 ], [ 22.905602561000023, 48.17136402400007 ], [ 22.894172567000055, 48.171985024000037 ], [ 22.894310566000058, 48.168781024000054 ], [ 22.900754563000078, 48.167393024000035 ], [ 22.900269563000052, 48.161307024000052 ], [ 22.906121559000042, 48.161192023000069 ], [ 22.907314560000032, 48.167453023000064 ], [ 22.911514557000032, 48.16791702300003 ], [ 22.908190560000037, 48.177667023000026 ], [ 22.904166562000057, 48.176147024000045 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.085865926580500004, "Shape_Area": 0.00017170115858400001, "ADM4_EN": "Serbynivka", "ADM4_UA": "Сербинівка", "ADM4_PCODE": "UA6804041015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Staroostropilska", "ADM3_UA": "Староостропільська", "ADM3_PCODE": "UA6804041", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.585002, 49.794324 ], [ 27.576588, 49.797804 ], [ 27.574692001000074, 49.801734 ], [ 27.581833001000064, 49.806395 ], [ 27.578229, 49.808182 ], [ 27.57512, 49.811602 ], [ 27.572535001000062, 49.808525 ], [ 27.568669, 49.808842 ], [ 27.564843, 49.805931 ], [ 27.565050001000031, 49.797155 ], [ 27.572963, 49.796591 ], [ 27.585002, 49.794324 ] ] ] } }
-]
-}

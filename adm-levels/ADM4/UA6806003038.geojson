@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0597064513092, "Shape_Area": 8.6991941062099999e-05, "ADM4_EN": "Mali Kaletyntsi", "ADM4_UA": "Малі Калетинці", "ADM4_PCODE": "UA6806003038", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilohirska", "ADM3_UA": "Білогірська", "ADM3_PCODE": "UA6806003", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.284565, 50.104023 ], [ 26.279971001000035, 50.103509 ], [ 26.279731001000073, 50.101354 ], [ 26.299506001000054, 50.098793 ], [ 26.301701, 50.099419 ], [ 26.303159, 50.103733 ], [ 26.296675, 50.104005 ], [ 26.293080001000078, 50.102474 ], [ 26.284565, 50.104023 ] ] ] } }
-]
-}

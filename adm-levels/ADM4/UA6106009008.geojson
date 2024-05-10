@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.096874510728400004, "Shape_Area": 0.00029340256554799999, "ADM4_EN": "Chabarivka", "ADM4_UA": "Чабарівка", "ADM4_PCODE": "UA6106009008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vasylkovetska", "ADM3_UA": "Васильковецька", "ADM3_PCODE": "UA6106009", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.118375, 49.087775 ], [ 26.115877, 49.089168 ], [ 26.112462, 49.087591 ], [ 26.109515, 49.080529 ], [ 26.114957, 49.081199 ], [ 26.125337001000048, 49.075408 ], [ 26.131567001000064, 49.07053 ], [ 26.136514, 49.073883 ], [ 26.143050001000063, 49.080936 ], [ 26.132157, 49.084252 ], [ 26.118375, 49.087775 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.047663045347100003, "Shape_Area": 9.9661966042399999e-05, "ADM4_EN": "Musiivka", "ADM4_UA": "Мусіївка", "ADM4_PCODE": "UA2308029009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chkalovska", "ADM3_UA": "Чкаловська", "ADM3_PCODE": "UA2308029", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "Мелітопольський", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.686903057000052, 46.990738601000032 ], [ 34.679528736000066, 46.990188524000075 ], [ 34.68025607800007, 46.986517147000029 ], [ 34.675696913000024, 46.985452942000052 ], [ 34.673625094000045, 46.980634317000067 ], [ 34.688980903000072, 46.982367690000046 ], [ 34.686903057000052, 46.990738601000032 ] ] ] } }
-]
-}

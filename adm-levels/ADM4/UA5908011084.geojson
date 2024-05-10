@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0315522436841, "Shape_Area": 4.5253750485799999e-05, "ADM4_EN": "Pletnove", "ADM4_UA": "Плетньове", "ADM4_PCODE": "UA5908011084", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lebedynska", "ADM3_UA": "Лебединська", "ADM3_PCODE": "UA5908011", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.324746, 50.633468 ], [ 34.318183, 50.634014 ], [ 34.319902, 50.627806 ], [ 34.322729001000027, 50.629561 ], [ 34.328403999000045, 50.629605 ], [ 34.328597999000067, 50.632997 ], [ 34.324746, 50.633468 ] ] ] } }
-]
-}

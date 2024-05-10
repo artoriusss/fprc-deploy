@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.076755979346700004, "Shape_Area": 0.000120081823304, "ADM4_EN": "Tsyhanske", "ADM4_UA": "Циганське", "ADM4_PCODE": "UA5308037052", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Poltavska", "ADM3_UA": "Полтавська", "ADM3_PCODE": "UA5308037", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.285577001000036, 49.601931 ], [ 34.253996, 49.599597 ], [ 34.254101999000056, 49.598439 ], [ 34.26427699900006, 49.597257 ], [ 34.271766999000079, 49.59742 ], [ 34.279274, 49.596097 ], [ 34.288608001000057, 49.596566 ], [ 34.285577001000036, 49.601931 ] ] ] } }
-]
-}

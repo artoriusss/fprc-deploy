@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.063873690350600004, "Shape_Area": 0.00014486066536100001, "ADM4_EN": "Tretie", "ADM4_UA": "Третє", "ADM4_PCODE": "UA3504033036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ustynivska", "ADM3_UA": "Устинівська", "ADM3_PCODE": "UA3504033", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.569352, 48.096521 ], [ 32.561117999000032, 48.095616 ], [ 32.559636, 48.093888 ], [ 32.555144, 48.095163 ], [ 32.55364, 48.092511 ], [ 32.572788999000068, 48.087151 ], [ 32.579239, 48.088162 ], [ 32.580488, 48.091268 ], [ 32.574083, 48.09325 ], [ 32.569352, 48.096521 ] ] ] } }
-]
-}

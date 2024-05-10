@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.039071956843900003, "Shape_Area": 6.0871288885700003e-05, "ADM4_EN": "Kobylechchyna", "ADM4_UA": "Кобилеччина", "ADM4_PCODE": "UA4604007027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zolochivska", "ADM3_UA": "Золочівська", "ADM3_PCODE": "UA4604007", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.957907082000077, 49.76571300300003 ], [ 24.960213081000063, 49.768422003000069 ], [ 24.945843082000067, 49.773279003000027 ], [ 24.947293066000043, 49.768090853000047 ], [ 24.957211081000025, 49.764761003000046 ], [ 24.957907082000077, 49.76571300300003 ] ] ] } }
-]
-}

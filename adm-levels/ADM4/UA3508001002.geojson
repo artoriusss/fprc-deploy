@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.094091054085600007, "Shape_Area": 0.000160438743509, "ADM4_EN": "Arsenivka", "ADM4_UA": "Арсенівка", "ADM4_PCODE": "UA3508001002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykoandrusivska", "ADM3_UA": "Великоандрусівська", "ADM3_PCODE": "UA3508001", "ADM2_EN": "Oleksandriiskyi", "ADM2_UA": "Олександрійський", "ADM2_PCODE": "UA3508", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.856256993000045, 48.942517340000052 ], [ 32.849979852000047, 48.944792190000044 ], [ 32.846374403000027, 48.942207395000025 ], [ 32.853113712000038, 48.935813647000032 ], [ 32.855717546000051, 48.934888686000079 ], [ 32.854962, 48.927257 ], [ 32.857727, 48.926075 ], [ 32.862451796000073, 48.926656380000054 ], [ 32.862283, 48.935564 ], [ 32.858132538000064, 48.943260319000046 ], [ 32.856256993000045, 48.942517340000052 ] ] ] } }
-]
-}

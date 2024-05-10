@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.053091570951500001, "Shape_Area": 0.00016551857377399999, "ADM4_EN": "Krasnodarka", "ADM4_UA": "Краснодарка", "ADM4_PCODE": "UA0112045002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Oleksandrivska", "ADM3_UA": "Олександрівська", "ADM3_PCODE": "UA0112045", "ADM2_EN": "Krasnohvardiiskyi", "ADM2_UA": "Красногвардійський", "ADM2_PCODE": "UA0112", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.090353447000041, 45.612360005000028 ], [ 34.088195358000064, 45.613753188000032 ], [ 34.074671451000029, 45.611378448000039 ], [ 34.082475673000033, 45.60110301800006 ], [ 34.090470039000024, 45.60001449400005 ], [ 34.093139634000067, 45.611855048000052 ], [ 34.090353447000041, 45.612360005000028 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.039576758939700002, "Shape_Area": 7.9569431102100005e-05, "ADM4_EN": "Respublikanets", "ADM4_UA": "Республіканець", "ADM4_PCODE": "UA6502013007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mylivska", "ADM3_UA": "Милівська", "ADM3_PCODE": "UA6502013", "ADM2_EN": "Beryslavskyi", "ADM2_UA": "Бериславський", "ADM2_PCODE": "UA6502", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.645359, 47.007332 ], [ 33.643065, 47.001968 ], [ 33.646638, 47.001277 ], [ 33.652744, 46.997132 ], [ 33.655436, 47.007091 ], [ 33.645359, 47.007332 ] ] ] } }
-]
-}

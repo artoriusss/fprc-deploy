@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.065824560540700003, "Shape_Area": 7.0845660377099999e-05, "ADM4_EN": "Kokolove", "ADM4_UA": "Коколове", "ADM4_PCODE": "UA3506017006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pishchanobridska", "ADM3_UA": "Піщанобрідська", "ADM3_PCODE": "UA3506017", "ADM2_EN": "Novoukrainskyi", "ADM2_UA": "Новоукраїнський", "ADM2_PCODE": "UA3506", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.276838, 48.244364 ], [ 31.27302, 48.245475 ], [ 31.272938999000075, 48.237378 ], [ 31.2767, 48.238814 ], [ 31.281888, 48.242782 ], [ 31.276838, 48.244364 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.062983921618600003, "Shape_Area": 9.0531384310799998e-05, "ADM4_EN": "Syvukhy", "ADM4_UA": "Сивухи", "ADM4_PCODE": "UA7410019042", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozeletska", "ADM3_UA": "Козелецька", "ADM3_PCODE": "UA7410019", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.141752849000056, 50.914175620000037 ], [ 31.145256, 50.917116960000044 ], [ 31.146527160000062, 50.924354040000026 ], [ 31.140987119000044, 50.92664706000005 ], [ 31.139246160000027, 50.922235980000039 ], [ 31.130394839000076, 50.917644990000042 ], [ 31.132040760000052, 50.916181050000034 ], [ 31.134237893000034, 50.914421021000067 ], [ 31.13810092500006, 50.917223960000058 ], [ 31.141752849000056, 50.914175620000037 ] ] ] } }
-]
-}

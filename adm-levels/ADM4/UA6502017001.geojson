@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.088167494661099993, "Shape_Area": 0.00033730356468300002, "ADM4_EN": "Novooleksandrivka", "ADM4_UA": "Новоолександрівка", "ADM4_PCODE": "UA6502017001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novooleksandrivska", "ADM3_UA": "Новоолександрівська", "ADM3_PCODE": "UA6502017", "ADM2_EN": "Beryslavskyi", "ADM2_UA": "Бериславський", "ADM2_PCODE": "UA6502", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.889555999000038, 47.270291 ], [ 33.881188, 47.274892 ], [ 33.874957, 47.27515 ], [ 33.860084, 47.269166 ], [ 33.862636, 47.265531 ], [ 33.867078, 47.263391 ], [ 33.867292999000028, 47.25676 ], [ 33.872408001000053, 47.25727 ], [ 33.877331999000035, 47.256437 ], [ 33.889555999000038, 47.270291 ] ] ] } }
-]
-}

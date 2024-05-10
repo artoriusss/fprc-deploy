@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12968092701699999, "Shape_Area": 0.000390296970327, "ADM4_EN": "Suprotyvna Balka", "ADM4_UA": "Супротивна Балка", "ADM4_PCODE": "UA5308031045", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novosanzharska", "ADM3_UA": "Новосанжарська", "ADM3_PCODE": "UA5308031", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.066027618000078, 49.393773415000055 ], [ 34.085447, 49.392542 ], [ 34.083825, 49.388594 ], [ 34.090626, 49.387878 ], [ 34.097059, 49.390303 ], [ 34.099182, 49.39486 ], [ 34.113044, 49.407843 ], [ 34.104144, 49.411086 ], [ 34.093722, 49.402049 ], [ 34.085561001000031, 49.398699 ], [ 34.069566, 49.40025 ], [ 34.066027618000078, 49.393773415000055 ] ] ] } }
-]
-}

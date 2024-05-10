@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.069196539764699999, "Shape_Area": 0.000183601629935, "ADM4_EN": "Ozerne", "ADM4_UA": "Озерне", "ADM4_PCODE": "UA2308001008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Veselivska", "ADM3_UA": "Веселівська", "ADM3_PCODE": "UA2308001", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "Мелітопольський", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.888110864000055, 46.884010129000046 ], [ 34.881312088000072, 46.877003246000072 ], [ 34.884768625000049, 46.873238977000028 ], [ 34.885113519000072, 46.870631065000055 ], [ 34.897243126000035, 46.868110566000041 ], [ 34.89897632800006, 46.869383440000036 ], [ 34.896238155000049, 46.87812341700004 ], [ 34.897138229000063, 46.883395670000027 ], [ 34.890388751000046, 46.881792081000071 ], [ 34.888110864000055, 46.884010129000046 ] ] ] } }
-]
-}

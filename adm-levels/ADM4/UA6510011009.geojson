@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.123973413093, "Shape_Area": 0.000452925429591, "ADM4_EN": "Sahy", "ADM4_UA": "Саги", "ADM4_PCODE": "UA6510011009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Oleshkivska", "ADM3_UA": "Олешківська", "ADM3_PCODE": "UA6510011", "ADM2_EN": "Khersonskyi", "ADM2_UA": "Херсонський", "ADM2_PCODE": "UA6510", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.794756, 46.608093 ], [ 32.802513, 46.61209 ], [ 32.806095001000074, 46.617972 ], [ 32.812438, 46.621762 ], [ 32.810300999000049, 46.624981 ], [ 32.805753999000046, 46.627461 ], [ 32.796448, 46.621718 ], [ 32.793743, 46.618659 ], [ 32.778331999000045, 46.609746 ], [ 32.781166, 46.60559 ], [ 32.777025, 46.599265 ], [ 32.785056, 46.596025 ], [ 32.790686, 46.595745 ], [ 32.797389, 46.598902 ], [ 32.791650999000069, 46.602566 ], [ 32.794756, 46.608093 ] ] ] } }
-]
-}

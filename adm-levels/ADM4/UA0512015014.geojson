@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.140081983449, "Shape_Area": 9.9858323791299997e-05, "ADM4_EN": "Malyi Ostrozhok", "ADM4_UA": "Малий Острожок", "ADM4_PCODE": "UA0512015014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ulanivska", "ADM3_UA": "Уланівська", "ADM3_PCODE": "UA0512015", "ADM2_EN": "Khmilnytskyi", "ADM2_UA": "Хмільницький", "ADM2_PCODE": "UA0512", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.31226, 49.690562 ], [ 28.31469, 49.686866 ], [ 28.303771999000048, 49.690647 ], [ 28.303895999000076, 49.688771 ], [ 28.310672, 49.686426 ], [ 28.311045001000025, 49.679774 ], [ 28.315011001000073, 49.679618 ], [ 28.317443001000072, 49.687328 ], [ 28.327598, 49.683422 ], [ 28.34194, 49.680752 ], [ 28.342458, 49.682 ], [ 28.330247, 49.684142 ], [ 28.316574, 49.690036 ], [ 28.31226, 49.690562 ] ] ] } }
-]
-}

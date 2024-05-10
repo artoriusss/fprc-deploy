@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0586912487639, "Shape_Area": 9.1310291041900004e-05, "ADM4_EN": "Novozlatopil", "ADM4_UA": "Новозлатопіль", "ADM4_PCODE": "UA2310023021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozivska", "ADM3_UA": "Розівська", "ADM3_PCODE": "UA2310023", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.830644734000032, 47.519637648000071 ], [ 36.826011959000027, 47.520420857000033 ], [ 36.824884368000028, 47.517804180000041 ], [ 36.819302639000057, 47.513924274000033 ], [ 36.823450321000053, 47.509223576000068 ], [ 36.824906203000069, 47.512114240000074 ], [ 36.830076790000078, 47.513608053000041 ], [ 36.835047683000028, 47.516504384000029 ], [ 36.830644734000032, 47.519637648000071 ] ] ] } }
-]
-}

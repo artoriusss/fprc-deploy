@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.085678832152599999, "Shape_Area": 0.00012493437129, "ADM4_EN": "Ubyni", "ADM4_UA": "Убині", "ADM4_PCODE": "UA4606029016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoiarychivska", "ADM3_UA": "Новояричівська", "ADM3_PCODE": "UA4606029", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.437645143000054, 49.930012005000037 ], [ 24.436020142000075, 49.931939005000061 ], [ 24.429414144000077, 49.929941005000046 ], [ 24.422978144000069, 49.93152600500008 ], [ 24.416132146000052, 49.92954200500003 ], [ 24.416262146000065, 49.926289005000058 ], [ 24.431563143000062, 49.924173005000057 ], [ 24.436710143000028, 49.926593005000029 ], [ 24.437645143000054, 49.930012005000037 ] ] ] } }
-]
-}

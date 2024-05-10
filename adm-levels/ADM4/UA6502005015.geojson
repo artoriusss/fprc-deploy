@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.061887473234900001, "Shape_Area": 0.00021594893686, "ADM4_EN": "Ishchenka", "ADM4_UA": "Іщенка", "ADM4_PCODE": "UA6502005015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykooleksandrivska", "ADM3_UA": "Великоолександрівська", "ADM3_PCODE": "UA6502005", "ADM2_EN": "Beryslavskyi", "ADM2_UA": "Бериславський", "ADM2_PCODE": "UA6502", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.254802, 47.184681 ], [ 33.252508, 47.186345 ], [ 33.248717001000045, 47.183802 ], [ 33.241503, 47.184098 ], [ 33.236675, 47.18143 ], [ 33.236233, 47.178938 ], [ 33.239651, 47.172745 ], [ 33.247636, 47.169205 ], [ 33.255973, 47.179025 ], [ 33.258046001000025, 47.180458 ], [ 33.254802, 47.184681 ] ] ] } }
-]
-}

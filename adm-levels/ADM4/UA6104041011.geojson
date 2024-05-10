@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0961541092481, "Shape_Area": 0.000244050021649, "ADM4_EN": "Mechyshchiv", "ADM4_UA": "Мечищів", "ADM4_PCODE": "UA6104041011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Saranchukivska", "ADM3_UA": "Саранчуківська", "ADM3_PCODE": "UA6104041", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.891949001000057, 49.372965 ], [ 24.890681906000054, 49.37648893000005 ], [ 24.855660933000024, 49.370860193000055 ], [ 24.858355001000064, 49.364928 ], [ 24.865564, 49.365743 ], [ 24.871116235000045, 49.364535372000034 ], [ 24.874429, 49.366138 ], [ 24.880366407000054, 49.366224654000064 ], [ 24.882721149000076, 49.368565981000074 ], [ 24.887117, 49.368168 ], [ 24.886743, 49.371896 ], [ 24.891949001000057, 49.372965 ] ] ] } }
-]
-}

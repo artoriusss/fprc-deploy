@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.086017355493700001, "Shape_Area": 0.00017399178852900001, "ADM4_EN": "Malovanka", "ADM4_UA": "Мальованка", "ADM4_PCODE": "UA6806029013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sudylkivska", "ADM3_UA": "Судилківська", "ADM3_PCODE": "UA6806029", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.301395, 50.187603 ], [ 27.296326, 50.18445 ], [ 27.297799, 50.180954 ], [ 27.294181001000027, 50.177516 ], [ 27.29444200100005, 50.175604 ], [ 27.300544, 50.175092 ], [ 27.30183099900006, 50.176802 ], [ 27.310605, 50.175402 ], [ 27.317635, 50.170466 ], [ 27.320427, 50.174852 ], [ 27.311653, 50.177979 ], [ 27.310909, 50.182909 ], [ 27.301913, 50.185467 ], [ 27.301395, 50.187603 ] ] ] } }
-]
-}

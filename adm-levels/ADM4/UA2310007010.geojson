@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.077916635922299998, "Shape_Area": 4.6419620242399999e-05, "ADM4_EN": "Krasnohirske", "ADM4_UA": "Красногірське", "ADM4_PCODE": "UA2310007010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Huliaipilska", "ADM3_UA": "Гуляйпільська", "ADM3_PCODE": "UA2310007", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.335424218000071, 47.829635332000066 ], [ 36.332872335000047, 47.828806250000071 ], [ 36.334647198000027, 47.822445921000053 ], [ 36.341266548000078, 47.824557489000028 ], [ 36.348067449000041, 47.820088493000071 ], [ 36.351228309000078, 47.815865571000074 ], [ 36.354570373000058, 47.816824203000067 ], [ 36.341370174000076, 47.824790661000065 ], [ 36.33675863600007, 47.823793151000075 ], [ 36.335424218000071, 47.829635332000066 ] ] ] } }
-]
-}

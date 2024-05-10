@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14810254541099999, "Shape_Area": 0.000227607923703, "ADM4_EN": "Pohrebky", "ADM4_UA": "Погребки", "ADM4_PCODE": "UA5910017029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shostkynska", "ADM3_UA": "Шосткинська", "ADM3_PCODE": "UA5910017", "ADM2_EN": "Shostkynskyi", "ADM2_UA": "Шосткинський", "ADM2_PCODE": "UA5910", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.374439, 51.984194 ], [ 33.375683999000046, 51.980744 ], [ 33.391582, 51.96699 ], [ 33.398787999000035, 51.967977 ], [ 33.401445, 51.967031 ], [ 33.40949499900006, 51.966934 ], [ 33.41117, 51.970599 ], [ 33.404851, 51.972432 ], [ 33.395292, 51.96945 ], [ 33.388781001000041, 51.977173 ], [ 33.38541, 51.983169 ], [ 33.37884, 51.983149 ], [ 33.374439, 51.984194 ] ] ] } }
-]
-}

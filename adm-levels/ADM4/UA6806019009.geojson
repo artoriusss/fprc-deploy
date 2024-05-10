@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.050745935313900002, "Shape_Area": 6.0795934650499997e-05, "ADM4_EN": "Zakrynychne", "ADM4_UA": "Закриничне", "ADM4_PCODE": "UA6806019009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pluzhnenska", "ADM3_UA": "Плужненська", "ADM3_PCODE": "UA6806019", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.404086586000062, 50.213478240000029 ], [ 26.400742, 50.209847 ], [ 26.395774, 50.209538 ], [ 26.395987, 50.206831 ], [ 26.399353, 50.203092 ], [ 26.4065, 50.206686 ], [ 26.404086586000062, 50.213478240000029 ] ] ] } }
-]
-}

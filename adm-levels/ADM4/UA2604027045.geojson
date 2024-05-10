@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060260150284200002, "Shape_Area": 9.4480390363899994e-05, "ADM4_EN": "Perenivka", "ADM4_UA": "Перенівка", "ADM4_PCODE": "UA2604027045", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rohatynska", "ADM3_UA": "Рогатинська", "ADM3_PCODE": "UA2604027", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.615518684000051, 49.434404510000036 ], [ 24.614334057000065, 49.436863990000063 ], [ 24.609874542000057, 49.436438764000059 ], [ 24.611530178000066, 49.432999300000063 ], [ 24.605113381000024, 49.43273522700008 ], [ 24.605077827000059, 49.430353054000079 ], [ 24.611838621000061, 49.428487433000043 ], [ 24.615374519000056, 49.42542930500008 ], [ 24.617996418000075, 49.429949322000027 ], [ 24.622637401000077, 49.431439109000053 ], [ 24.615518684000051, 49.434404510000036 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073499104565500004, "Shape_Area": 0.000119094302355, "ADM4_EN": "Savchytsi", "ADM4_UA": "Савчиці", "ADM4_PCODE": "UA6102007039", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kremenetska", "ADM3_UA": "Кременецька", "ADM3_PCODE": "UA6102007", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.574872, 50.083807 ], [ 25.574980999000047, 50.081273 ], [ 25.578891, 50.077895 ], [ 25.577833, 50.075073 ], [ 25.580625, 50.069781 ], [ 25.587868, 50.070472 ], [ 25.589906, 50.078955 ], [ 25.58719, 50.080558 ], [ 25.58435, 50.079341 ], [ 25.574872, 50.083807 ] ] ] } }
-]
-}

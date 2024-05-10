@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.076613376331000002, "Shape_Area": 0.000217570764029, "ADM4_EN": "Chervone", "ADM4_UA": "Червоне", "ADM4_PCODE": "UA0504019018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Raihorodska", "ADM3_UA": "Райгородська", "ADM3_PCODE": "UA0504019", "ADM2_EN": "Haisynskyi", "ADM2_UA": "Гайсинський", "ADM2_PCODE": "UA0504", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.028086, 48.926222 ], [ 29.0259, 48.927602 ], [ 29.024442, 48.932107 ], [ 29.014624, 48.92671 ], [ 29.010816, 48.92771 ], [ 29.008905, 48.926052 ], [ 29.009305, 48.920968 ], [ 29.014152, 48.918995 ], [ 29.017560999000068, 48.919167 ], [ 29.018222, 48.913695 ], [ 29.023898, 48.913857 ], [ 29.024656001000039, 48.918712 ], [ 29.028656, 48.922222 ], [ 29.028086, 48.926222 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.044986888967899999, "Shape_Area": 6.4410692762700004e-05, "ADM4_EN": "Tsybulky", "ADM4_UA": "Цибульки", "ADM4_PCODE": "UA4804017024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novomarivska", "ADM3_UA": "Новомар'ївська", "ADM3_PCODE": "UA4804017", "ADM2_EN": "Voznesenskyi", "ADM2_UA": "Вознесенський", "ADM2_PCODE": "UA4804", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.618658486000072, 48.132771362000028 ], [ 31.610728306000055, 48.132110024000042 ], [ 31.614340362000064, 48.12679423700007 ], [ 31.618349814000055, 48.128377339000053 ], [ 31.628394800000024, 48.12756964600004 ], [ 31.626602655000056, 48.130796356000076 ], [ 31.618658486000072, 48.132771362000028 ] ] ] } }
-]
-}

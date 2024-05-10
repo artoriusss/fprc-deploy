@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.055494396114399998, "Shape_Area": 0.000127319022934, "ADM4_EN": "Rastiv", "ADM4_UA": "Растів", "ADM4_PCODE": "UA0706043036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Turiiska", "ADM3_UA": "Турійська", "ADM3_PCODE": "UA0706043", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.419991155000048, 51.124568005000071 ], [ 24.419587154000055, 51.122605005000025 ], [ 24.422703154000033, 51.117960005000043 ], [ 24.440539151000053, 51.117174005000038 ], [ 24.441754151000055, 51.121449005000045 ], [ 24.439307150000047, 51.123290005000058 ], [ 24.419991155000048, 51.124568005000071 ] ] ] } }
-]
-}

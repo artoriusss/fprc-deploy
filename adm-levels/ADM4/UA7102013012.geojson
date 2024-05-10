@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.099092400211899995, "Shape_Area": 0.00024425698424600001, "ADM4_EN": "Murzyntsi", "ADM4_UA": "Мурзинці", "ADM4_PCODE": "UA7102013012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zvenyhorodska", "ADM3_UA": "Звенигородська", "ADM3_PCODE": "UA7102013", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.931433, 49.166522 ], [ 30.925734999000042, 49.171914 ], [ 30.922414, 49.172903 ], [ 30.919458, 49.184091 ], [ 30.908439, 49.171935 ], [ 30.907103, 49.168975 ], [ 30.912418999000067, 49.168457 ], [ 30.914003001000026, 49.165998 ], [ 30.927136, 49.166375 ], [ 30.927307, 49.16138 ], [ 30.923733, 49.159639 ], [ 30.924451, 49.154178 ], [ 30.931101, 49.1625 ], [ 30.931433, 49.166522 ] ] ] } }
-]
-}

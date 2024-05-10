@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.047159254465400001, "Shape_Area": 3.7926334757399998e-05, "ADM4_EN": "Honchariv", "ADM4_UA": "Гончарів", "ADM4_PCODE": "UA4606001012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bibrska", "ADM3_UA": "Бібрська", "ADM3_PCODE": "UA4606001", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.313518138000063, 49.616084620000038 ], [ 24.309819161000064, 49.617808005000029 ], [ 24.306908161000024, 49.613773006000031 ], [ 24.311219161000054, 49.613939006000066 ], [ 24.313518138000063, 49.616084620000038 ] ] ] } }
-]
-}

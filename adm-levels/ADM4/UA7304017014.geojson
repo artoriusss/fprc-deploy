@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.091065835269199993, "Shape_Area": 7.9351542518199994e-05, "ADM4_EN": "Lopativ", "ADM4_UA": "Лопатів", "ADM4_PCODE": "UA7304017014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sokyrianska", "ADM3_UA": "Сокирянська", "ADM3_PCODE": "UA7304017", "ADM2_EN": "Dnistrovskyi", "ADM2_UA": "Дністровський", "ADM2_PCODE": "UA7304", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.103211, 48.540094 ], [ 27.104041, 48.538015 ], [ 27.121832, 48.533025 ], [ 27.123355, 48.534554 ], [ 27.114468001000034, 48.536993 ], [ 27.107579, 48.539994 ], [ 27.103211, 48.540094 ] ] ] } }
-]
-}

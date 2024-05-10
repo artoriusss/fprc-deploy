@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.046271699468500002, "Shape_Area": 6.0254880732099999e-05, "ADM4_EN": "Hryhorivka", "ADM4_UA": "Григорівка", "ADM4_PCODE": "UA6312025016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Solonytsivska", "ADM3_UA": "Солоницівська", "ADM3_PCODE": "UA6312025", "ADM2_EN": "Kharkivskyi", "ADM2_UA": "Харківський", "ADM2_PCODE": "UA6312", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.94047099900007, 50.07715 ], [ 35.935447, 50.079254 ], [ 35.932754, 50.07474 ], [ 35.931018, 50.068777 ], [ 35.932306, 50.066136 ], [ 35.936356, 50.066714 ], [ 35.936439001000053, 50.073314 ], [ 35.94047099900007, 50.07715 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.095771815386700002, "Shape_Area": 0.00029578832663400002, "ADM4_EN": "Inhulets", "ADM4_UA": "Інгулець", "ADM4_PCODE": "UA1206023003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novolativska", "ADM3_UA": "Новолатівська", "ADM3_PCODE": "UA1206023", "ADM2_EN": "Kryvorizkyi", "ADM2_UA": "Криворізький", "ADM2_PCODE": "UA1206", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.249228001000063, 47.738647 ], [ 33.244766, 47.739593 ], [ 33.244514001000027, 47.729897 ], [ 33.246655, 47.72903 ], [ 33.250377, 47.719733 ], [ 33.255348, 47.72091 ], [ 33.261858999000026, 47.724747 ], [ 33.263769, 47.731939 ], [ 33.269371, 47.731289 ], [ 33.277515999000059, 47.732135 ], [ 33.277342, 47.735797 ], [ 33.263211001000059, 47.734154 ], [ 33.258516001000032, 47.734159 ], [ 33.249228001000063, 47.738647 ] ] ] } }
-]
-}

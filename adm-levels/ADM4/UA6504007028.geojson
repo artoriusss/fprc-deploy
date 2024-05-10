@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.065269665045899997, "Shape_Area": 0.00018858396877700001, "ADM4_EN": "Novorepivka", "ADM4_UA": "Новорепівка", "ADM4_PCODE": "UA6504007028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novotroitska", "ADM3_UA": "Новотроїцька", "ADM3_PCODE": "UA6504007", "ADM2_EN": "Henicheskyi", "ADM2_UA": "Генічеський", "ADM2_PCODE": "UA6504", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.128998, 46.710767 ], [ 34.124688, 46.712562 ], [ 34.121952, 46.708814 ], [ 34.118022, 46.700434 ], [ 34.123406, 46.693373 ], [ 34.129865, 46.693015 ], [ 34.131151999000053, 46.698451 ], [ 34.130727, 46.710207 ], [ 34.128998, 46.710767 ] ] ] } }
-]
-}

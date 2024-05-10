@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10150671512700001, "Shape_Area": 8.6146375660400002e-05, "ADM4_EN": "Krasnokamianka", "ADM4_UA": "Краснокам'янка", "ADM4_PCODE": "UA0118077003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shchebetovska", "ADM3_UA": "Щебетовська", "ADM3_PCODE": "UA0118077", "ADM2_EN": "Feodosiiskyi", "ADM2_UA": "Феодосійський", "ADM2_PCODE": "UA0118", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.073317, 44.928542 ], [ 35.067491, 44.924094 ], [ 35.070143999000038, 44.920975 ], [ 35.075181, 44.922629 ], [ 35.079973, 44.919399 ], [ 35.081914, 44.920215 ], [ 35.092086001000041, 44.920382 ], [ 35.096497188000058, 44.919553979000057 ], [ 35.096974, 44.923212 ], [ 35.090866, 44.923153 ], [ 35.084983999000031, 44.920491 ], [ 35.079949, 44.921262 ], [ 35.076199, 44.924325 ], [ 35.073317, 44.928542 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.018597427596, "Shape_Area": 1.69136200475e-05, "ADM4_EN": "Semysotka", "ADM4_UA": "Семисотка", "ADM4_PCODE": "UA5104015005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Petropavlivska", "ADM3_UA": "Петропавлівська", "ADM3_PCODE": "UA5104015", "ADM2_EN": "Bilhorod-Dnistrovskyi", "ADM2_UA": "Білгород-Дністровський", "ADM2_PCODE": "UA5104", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.418103, 46.319811 ], [ 29.413267, 46.318408 ], [ 29.414868, 46.315622 ], [ 29.417899, 46.315552 ], [ 29.418103, 46.319811 ] ] ] } }
-]
-}

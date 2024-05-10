@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.076542516061000002, "Shape_Area": 0.00025637681419399998, "ADM4_EN": "Starodubivka", "ADM4_UA": "Стародубівка", "ADM4_PCODE": "UA1414003014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Manhushska", "ADM3_UA": "Мангушська", "ADM3_PCODE": "UA1414003", "ADM2_EN": "Mariupolskyi", "ADM2_UA": "Маріупольський", "ADM2_PCODE": "UA1414", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.042806, 47.110196 ], [ 37.037618, 47.109791999000038 ], [ 37.034151, 47.108232 ], [ 37.031639999000049, 47.109239 ], [ 37.026007999000058, 47.105362 ], [ 37.023492, 47.10167 ], [ 37.027460001000065, 47.098957 ], [ 37.032708999000079, 47.099322 ], [ 37.035006, 47.097745 ], [ 37.039507001000061, 47.097889 ], [ 37.053658, 47.103312 ], [ 37.053878, 47.107073 ], [ 37.04708000100004, 47.108346 ], [ 37.042806, 47.110196 ] ] ] } }
-]
-}

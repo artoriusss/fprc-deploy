@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.091001814392400002, "Shape_Area": 0.000110715428976, "ADM4_EN": "Rublyn", "ADM4_UA": "Рублин", "ADM4_PCODE": "UA6106019009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zolotopotitska", "ADM3_UA": "Золотопотіцька", "ADM3_PCODE": "UA6106019", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.291785001000051, 48.903754 ], [ 25.287458, 48.903747 ], [ 25.278640999000061, 48.907981 ], [ 25.272451001000036, 48.904031 ], [ 25.283024001000058, 48.898848 ], [ 25.291785001000051, 48.903754 ] ] ] } }
-]
-}

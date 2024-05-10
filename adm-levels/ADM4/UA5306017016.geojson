@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.082051432108599998, "Shape_Area": 0.000203535437923, "ADM4_EN": "Khyttsi", "ADM4_UA": "Хитці", "ADM4_PCODE": "UA5306017016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasnolutska", "ADM3_UA": "Краснолуцька", "ADM3_PCODE": "UA5306017", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.993466, 50.411871 ], [ 33.987293001000069, 50.41232 ], [ 33.985416999000051, 50.410055 ], [ 33.992286001000025, 50.405771 ], [ 33.994380001000025, 50.402844 ], [ 33.994788, 50.397842 ], [ 33.999179001000073, 50.395361 ], [ 34.003006, 50.396688 ], [ 34.007734999000036, 50.394999 ], [ 34.010169999000027, 50.397763 ], [ 34.009664, 50.400596 ], [ 34.003917001000048, 50.404917 ], [ 33.999706, 50.409654 ], [ 33.993466, 50.411871 ] ] ] } }
-]
-}

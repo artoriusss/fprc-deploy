@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.079142016912600005, "Shape_Area": 0.000101316731899, "ADM4_EN": "Busovysko", "ADM4_UA": "Бусовисько", "ADM4_PCODE": "UA4608017003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Strilkivska", "ADM3_UA": "Стрілківська", "ADM3_PCODE": "UA4608017", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.999587548000022, 49.378908021000029 ], [ 22.997082549000027, 49.379318021000074 ], [ 22.995234549000031, 49.382882022000047 ], [ 22.986536555000043, 49.391634022000062 ], [ 22.984199556000078, 49.388832022000031 ], [ 22.989491552000061, 49.383724022000081 ], [ 22.998151549000056, 49.373522022000031 ], [ 22.999587548000022, 49.378908021000029 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14568859537199999, "Shape_Area": 0.00013437147991100001, "ADM4_EN": "Kopytkove", "ADM4_UA": "Копиткове", "ADM4_PCODE": "UA5606025006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zdolbunivska", "ADM3_UA": "Здолбунівська", "ADM3_PCODE": "UA5606025", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 26.372923920000062, 50.47854102000008 ], [ 26.362608120000061, 50.477254020000032 ], [ 26.372787841000047, 50.472405990000027 ], [ 26.372923920000062, 50.47854102000008 ] ] ], [ [ [ 26.387912880000044, 50.472456030000046 ], [ 26.380575, 50.475120030000028 ], [ 26.37816588000004, 50.470794990000059 ], [ 26.391231, 50.470439040000031 ], [ 26.40480696000003, 50.468904 ], [ 26.405240039000034, 50.469786 ], [ 26.387912880000044, 50.472456030000046 ] ] ] ] } }
-]
-}

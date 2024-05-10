@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13959445549499999, "Shape_Area": 0.00015501623041299999, "ADM4_EN": "Mysliatyn", "ADM4_UA": "Мислятин", "ADM4_PCODE": "UA6806009024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Iziaslavska", "ADM3_UA": "Ізяславська", "ADM3_PCODE": "UA6806009", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 26.721177999000076, 50.093825 ], [ 26.715643, 50.094186 ], [ 26.711447999000029, 50.092362 ], [ 26.712953999000035, 50.089196 ], [ 26.712457, 50.085145 ], [ 26.718023, 50.086646 ], [ 26.722253, 50.093137 ], [ 26.721177999000076, 50.093825 ] ] ], [ [ [ 26.71863200100006, 50.083486 ], [ 26.708589001000064, 50.083777 ], [ 26.71579299900003, 50.079836 ], [ 26.723033, 50.079095 ], [ 26.725598001000037, 50.081401 ], [ 26.71863200100006, 50.083486 ] ] ] ] } }
-]
-}

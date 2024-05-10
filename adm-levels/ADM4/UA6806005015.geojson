@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.096445644015200005, "Shape_Area": 0.000226819231904, "ADM4_EN": "Khorostok", "ADM4_UA": "Хоросток", "ADM4_PCODE": "UA6806005015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hannopilska", "ADM3_UA": "Ганнопільська", "ADM3_PCODE": "UA6806005", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.859273999000038, 50.432982 ], [ 26.858669, 50.435671 ], [ 26.849203999000053, 50.43506 ], [ 26.84940799900005, 50.433249 ], [ 26.836882001000049, 50.432043 ], [ 26.838682001000052, 50.425842 ], [ 26.852543833000027, 50.427112167000075 ], [ 26.853456332000064, 50.423902500000054 ], [ 26.857860999000025, 50.426759 ], [ 26.872655, 50.428215 ], [ 26.872215, 50.430907 ], [ 26.867171, 50.432403 ], [ 26.859273999000038, 50.432982 ] ] ] } }
-]
-}

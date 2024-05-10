@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14905975708300001, "Shape_Area": 0.00018322516499800001, "ADM4_EN": "Velyka Shapkivka", "ADM4_UA": "Велика Шапківка", "ADM4_PCODE": "UA6308007005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kindrashivska", "ADM3_UA": "Кіндрашівська", "ADM3_PCODE": "UA6308007", "ADM2_EN": "Kupianskyi", "ADM2_UA": "Куп'янський", "ADM2_PCODE": "UA6308", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.530548, 49.785052 ], [ 37.529466, 49.788599 ], [ 37.524591, 49.79301 ], [ 37.52135, 49.79236 ], [ 37.523513999000045, 49.787501 ], [ 37.517104001000064, 49.785633 ], [ 37.517242001000056, 49.774841 ], [ 37.514189, 49.771386 ], [ 37.519209, 49.76983 ], [ 37.520265001000041, 49.765964 ], [ 37.525665, 49.761408 ], [ 37.527026, 49.764803 ], [ 37.522161999000048, 49.768204 ], [ 37.519864, 49.771314 ], [ 37.523587, 49.774408 ], [ 37.526455999000063, 49.780208 ], [ 37.530548, 49.785052 ] ] ] } }
-]
-}

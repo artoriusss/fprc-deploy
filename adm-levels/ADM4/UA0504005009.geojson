@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0891642381141, "Shape_Area": 0.00014776988246499999, "ADM4_EN": "Kytaihorod", "ADM4_UA": "Китайгород", "ADM4_PCODE": "UA0504005009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dashivska", "ADM3_UA": "Дашівська", "ADM3_PCODE": "UA0504005", "ADM2_EN": "Haisynskyi", "ADM2_UA": "Гайсинський", "ADM2_PCODE": "UA0504", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.493005, 48.968723 ], [ 29.489331, 48.971921 ], [ 29.484182, 48.967485 ], [ 29.486426, 48.964741 ], [ 29.49067, 48.962471 ], [ 29.498378999000067, 48.961073 ], [ 29.508407, 48.963084 ], [ 29.507448, 48.964633 ], [ 29.49837799900007, 48.968489 ], [ 29.493005, 48.968723 ] ] ] } }
-]
-}

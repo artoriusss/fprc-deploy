@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.064177209176899994, "Shape_Area": 0.00017205685237199999, "ADM4_EN": "Yelyzavetivka", "ADM4_UA": "Єлизаветівка", "ADM4_PCODE": "UA1416013005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Marinska", "ADM3_UA": "Мар'їнська", "ADM3_PCODE": "UA1416013", "ADM2_EN": "Pokrovskyi", "ADM2_UA": "Покровський", "ADM2_PCODE": "UA1416", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.291692, 47.892857 ], [ 37.289037, 47.886603 ], [ 37.290091999000026, 47.884964 ], [ 37.300513999000032, 47.8817 ], [ 37.303983001000063, 47.882412 ], [ 37.310355, 47.881323 ], [ 37.310661001000028, 47.886634 ], [ 37.305229999000062, 47.888267 ], [ 37.302028999000072, 47.891518 ], [ 37.296798, 47.89155 ], [ 37.291692, 47.892857 ] ] ] } }
-]
-}

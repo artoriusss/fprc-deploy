@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057578364608100001, "Shape_Area": 0.000122785964664, "ADM4_EN": "Pershotravneve", "ADM4_UA": "Першотравневе", "ADM4_PCODE": "UA6304005038", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Borivska", "ADM3_UA": "Борівська", "ADM3_PCODE": "UA6304005", "ADM2_EN": "Iziumskyi", "ADM2_UA": "Ізюмський", "ADM2_PCODE": "UA6304", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.857745001000069, 49.385767 ], [ 37.845849, 49.387181 ], [ 37.845651, 49.380822 ], [ 37.846646, 49.377977 ], [ 37.85147, 49.379178 ], [ 37.859859, 49.379084 ], [ 37.860808, 49.384667 ], [ 37.857745001000069, 49.385767 ] ] ] } }
-]
-}

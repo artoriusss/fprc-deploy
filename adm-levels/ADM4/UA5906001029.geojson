@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.214499896301, "Shape_Area": 0.00054068998167700001, "ADM4_EN": "Khomyntsi", "ADM4_UA": "Хоминці", "ADM4_PCODE": "UA5906001029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Andriiashivska", "ADM3_UA": "Андріяшівська", "ADM3_PCODE": "UA5906001", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.222099, 50.649664 ], [ 33.216044, 50.651011 ], [ 33.214987, 50.648397 ], [ 33.207361, 50.649282 ], [ 33.208619, 50.64108 ], [ 33.211442, 50.640653 ], [ 33.211531, 50.635238 ], [ 33.223653, 50.632497 ], [ 33.229389, 50.629875 ], [ 33.233346, 50.632476 ], [ 33.240204, 50.631746 ], [ 33.246443, 50.629615 ], [ 33.250764, 50.63236 ], [ 33.24406699900004, 50.639643 ], [ 33.233287, 50.645218 ], [ 33.230777, 50.644133 ], [ 33.225461999000061, 50.645122 ], [ 33.222099, 50.649664 ] ] ] } }
-]
-}

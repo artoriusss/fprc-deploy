@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.040789119835700001, "Shape_Area": 3.0357126098700001e-05, "ADM4_EN": "Ivano-Hannivka", "ADM4_UA": "Івано-Ганнівка", "ADM4_PCODE": "UA2306027007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stepnenska", "ADM3_UA": "Степненська", "ADM3_PCODE": "UA2306027", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.368991975000029, 47.848109454000053 ], [ 35.379453844000068, 47.849206709000043 ], [ 35.380151238000053, 47.852138307000075 ], [ 35.369195540000078, 47.85026143400006 ], [ 35.368991975000029, 47.848109454000053 ] ] ] } }
-]
-}

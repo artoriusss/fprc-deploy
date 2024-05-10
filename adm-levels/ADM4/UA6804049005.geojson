@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.089776007317299997, "Shape_Area": 0.000211998548504, "ADM4_EN": "Vovcha Hora", "ADM4_UA": "Вовча Гора", "ADM4_PCODE": "UA6804049005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chornoostrivska", "ADM3_UA": "Чорноострівська", "ADM3_PCODE": "UA6804049", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.762994733000028, 49.506649369000058 ], [ 26.77485, 49.502074 ], [ 26.769529, 49.5123 ], [ 26.7588, 49.515885 ], [ 26.756742, 49.51806 ], [ 26.749632999000028, 49.518253 ], [ 26.748415, 49.513492 ], [ 26.752024135000056, 49.508707833000074 ], [ 26.759308331000057, 49.508092074000047 ], [ 26.762994733000028, 49.506649369000058 ] ] ] } }
-]
-}

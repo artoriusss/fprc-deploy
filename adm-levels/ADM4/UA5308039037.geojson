@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.053553396469000002, "Shape_Area": 8.1065472606499993e-05, "ADM4_EN": "Liutivka", "ADM4_UA": "Лютівка", "ADM4_PCODE": "UA5308039037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Reshetylivska", "ADM3_UA": "Решетилівська", "ADM3_PCODE": "UA5308039", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.179245, 49.603551 ], [ 34.176433, 49.605094 ], [ 34.172777001000043, 49.602464 ], [ 34.176044, 49.599908 ], [ 34.170612, 49.598104 ], [ 34.17162600100005, 49.593939 ], [ 34.181286001000046, 49.594576 ], [ 34.179038, 49.59954 ], [ 34.179245, 49.603551 ] ] ] } }
-]
-}

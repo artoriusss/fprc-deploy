@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.078458723443000006, "Shape_Area": 0.000101074509451, "ADM4_EN": "Vyrishalnyi", "ADM4_UA": "Вирішальний", "ADM4_PCODE": "UA6314003058", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zmiivska", "ADM3_UA": "Зміївська", "ADM3_PCODE": "UA6314003", "ADM2_EN": "Chuhuivskyi", "ADM2_UA": "Чугуївський", "ADM2_PCODE": "UA6314", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.365155, 49.72246 ], [ 36.363545001000034, 49.719087 ], [ 36.357701, 49.722041 ], [ 36.355852, 49.718165 ], [ 36.363545, 49.715987 ], [ 36.363096, 49.713414 ], [ 36.366474999000047, 49.71164 ], [ 36.373629, 49.711842 ], [ 36.374773001000051, 49.71519 ], [ 36.369193, 49.716436 ], [ 36.371877999000048, 49.722178 ], [ 36.365155, 49.72246 ] ] ] } }
-]
-}

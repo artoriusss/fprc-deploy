@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073817175474599997, "Shape_Area": 0.00014683223056, "ADM4_EN": "Yamyshche", "ADM4_UA": "Ямище", "ADM4_PCODE": "UA7410033049", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ripkynska", "ADM3_UA": "Ріпкинська", "ADM3_PCODE": "UA7410033", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.069531080000047, 51.676378020000072 ], [ 31.061346840000056, 51.676724970000066 ], [ 31.063941, 51.668922060000057 ], [ 31.068888840000056, 51.666626970000038 ], [ 31.074703920000047, 51.662328030000026 ], [ 31.078528200000051, 51.663341970000033 ], [ 31.074550200000033, 51.667664940000066 ], [ 31.078352880000068, 51.670003050000048 ], [ 31.073920199000042, 51.672269970000059 ], [ 31.069531080000047, 51.676378020000072 ] ] ] } }
-]
-}

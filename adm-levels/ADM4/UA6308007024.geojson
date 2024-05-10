@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13568392103900001, "Shape_Area": 0.00017484559192300001, "ADM4_EN": "Prosianka", "ADM4_UA": "Просянка", "ADM4_PCODE": "UA6308007024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kindrashivska", "ADM3_UA": "Кіндрашівська", "ADM3_PCODE": "UA6308007", "ADM2_EN": "Kupianskyi", "ADM2_UA": "Куп'янський", "ADM2_PCODE": "UA6308", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.384179, 49.895748 ], [ 37.377447, 49.891119 ], [ 37.373477, 49.891943 ], [ 37.36505, 49.89197 ], [ 37.361567999000044, 49.889051 ], [ 37.363722001000042, 49.886951 ], [ 37.375203, 49.886952 ], [ 37.383252, 49.88449 ], [ 37.388578, 49.887309 ], [ 37.38637, 49.891253 ], [ 37.394051, 49.892082 ], [ 37.392946, 49.895523 ], [ 37.384179, 49.895748 ] ] ] } }
-]
-}

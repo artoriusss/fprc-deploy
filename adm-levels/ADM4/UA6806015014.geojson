@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.041859357216299999, "Shape_Area": 5.5522273337000001e-05, "ADM4_EN": "Khmelivka", "ADM4_UA": "Хмелівка", "ADM4_PCODE": "UA6806015014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykhailiutska", "ADM3_UA": "Михайлюцька", "ADM3_PCODE": "UA6806015", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.368386999000052, 50.26503 ], [ 27.364429, 50.262778 ], [ 27.370106999000029, 50.259094 ], [ 27.37501700100006, 50.258178 ], [ 27.378525, 50.262378 ], [ 27.368386999000052, 50.26503 ] ] ] } }
-]
-}

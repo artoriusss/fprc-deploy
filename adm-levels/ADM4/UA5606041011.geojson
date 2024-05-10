@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.084950816104000001, "Shape_Area": 3.1972100831399997e-05, "ADM4_EN": "Klopit", "ADM4_UA": "Клопіт", "ADM4_PCODE": "UA5606041011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mizotska", "ADM3_UA": "Мізоцька", "ADM3_PCODE": "UA5606041", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.201108160000047, 50.397128010000074 ], [ 26.193025080000041, 50.393538 ], [ 26.182707120000032, 50.392768050000029 ], [ 26.183217959000046, 50.39127 ], [ 26.195271121000076, 50.39334 ], [ 26.201108160000047, 50.397128010000074 ] ] ] } }
-]
-}

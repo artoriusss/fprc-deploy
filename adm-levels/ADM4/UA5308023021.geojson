@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.051580928763699997, "Shape_Area": 0.000104442477143, "ADM4_EN": "Serdiuky", "ADM4_UA": "Сердюки", "ADM4_PCODE": "UA5308023021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Machukhivska", "ADM3_UA": "Мачухівська", "ADM3_PCODE": "UA5308023", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.331510999000045, 49.506824 ], [ 34.334315, 49.50719 ], [ 34.335869, 49.501807 ], [ 34.340786999000045, 49.5015 ], [ 34.343465, 49.505782 ], [ 34.350482, 49.505981 ], [ 34.348913, 49.511996 ], [ 34.333668001000035, 49.508868 ], [ 34.331510999000045, 49.506824 ] ] ] } }
-]
-}

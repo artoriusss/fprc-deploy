@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.102031888477, "Shape_Area": 0.000198058486696, "ADM4_EN": "Dobrovillia", "ADM4_UA": "Добровілля", "ADM4_PCODE": "UA1214007007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dubovykivska", "ADM3_UA": "Дубовиківська", "ADM3_PCODE": "UA1214007", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 36.093654, 48.31462 ], [ 36.095801, 48.318778 ], [ 36.09058, 48.319776 ], [ 36.088314, 48.316402 ], [ 36.09124, 48.310875 ], [ 36.088247, 48.31001 ], [ 36.091345, 48.304443 ], [ 36.092481, 48.298856 ], [ 36.101252001000034, 48.300988 ], [ 36.098953001000041, 48.305979 ], [ 36.102180001000079, 48.306679 ], [ 36.099013, 48.312226 ], [ 36.093654, 48.31462 ] ] ], [ [ [ 36.115604, 48.315013 ], [ 36.11225, 48.314255 ], [ 36.115959, 48.309309 ], [ 36.119567, 48.310137 ], [ 36.115604, 48.315013 ] ] ] ] } }
-]
-}

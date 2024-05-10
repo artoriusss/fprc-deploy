@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.103509584515, "Shape_Area": 0.000320367107128, "ADM4_EN": "Mykhalkivtsi", "ADM4_UA": "Михалківці", "ADM4_PCODE": "UA6804033018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozsoshanska", "ADM3_UA": "Розсошанська", "ADM3_PCODE": "UA6804033", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.130289, 49.300271 ], [ 27.115154999000026, 49.296039 ], [ 27.11823, 49.292591 ], [ 27.117582001000073, 49.288624 ], [ 27.110243999000033, 49.288915 ], [ 27.110155, 49.286757 ], [ 27.119578, 49.28624 ], [ 27.120814001000042, 49.28245 ], [ 27.13337400100005, 49.285266 ], [ 27.136884001000055, 49.284206 ], [ 27.141094, 49.287686 ], [ 27.138749999000026, 49.2904 ], [ 27.137956999000039, 49.294814 ], [ 27.135136, 49.300017 ], [ 27.130289, 49.300271 ] ] ] } }
-]
-}

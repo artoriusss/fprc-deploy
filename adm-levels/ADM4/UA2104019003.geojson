@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.087744491220100002, "Shape_Area": 8.6934807969399995e-05, "ADM4_EN": "Bilasovytsia", "ADM4_UA": "Біласовиця", "ADM4_PCODE": "UA2104019003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nyzhnovoritska", "ADM3_UA": "Нижньоворітська", "ADM3_PCODE": "UA2104019", "ADM2_EN": "Mukachivskyi", "ADM2_UA": "Мукачівський", "ADM2_PCODE": "UA2104", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.04399451300003, 48.836731021000048 ], [ 23.039144514000043, 48.835939021000058 ], [ 23.050746509000078, 48.830669021000062 ], [ 23.060332505000076, 48.831578021000041 ], [ 23.064588503000039, 48.83489202100003 ], [ 23.052488509000057, 48.833006021000074 ], [ 23.049251511000023, 48.833329020000065 ], [ 23.04399451300003, 48.836731021000048 ] ] ] } }
-]
-}

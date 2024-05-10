@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11632346087000001, "Shape_Area": 0.000203972290518, "ADM4_EN": "Nyvochyn", "ADM4_UA": "Нивочин", "ADM4_PCODE": "UA2604031004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starobohorodchanska", "ADM3_UA": "Старобогородчанська", "ADM3_PCODE": "UA2604031", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.507551999000043, 48.870563 ], [ 24.498386, 48.875655 ], [ 24.497821001000034, 48.868961 ], [ 24.492088, 48.867933 ], [ 24.497693, 48.863621 ], [ 24.503174, 48.863569 ], [ 24.508766, 48.865195 ], [ 24.518885001000058, 48.866449 ], [ 24.523741, 48.865547 ], [ 24.527724, 48.866317 ], [ 24.524129, 48.870578 ], [ 24.513098, 48.869432 ], [ 24.507551999000043, 48.870563 ] ] ] } }
-]
-}

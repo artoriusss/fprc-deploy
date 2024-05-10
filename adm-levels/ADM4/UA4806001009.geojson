@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.113165801659, "Shape_Area": 8.4827524094400005e-05, "ADM4_EN": "Yelyzavetivka", "ADM4_UA": "Єлизаветівка", "ADM4_PCODE": "UA4806001009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezanska", "ADM3_UA": "Березанська", "ADM3_PCODE": "UA4806001", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.319894366000028, 46.992943117000038 ], [ 31.313760586000058, 46.992210320000027 ], [ 31.314214212000024, 46.98552907800007 ], [ 31.315622676000032, 46.982765157000074 ], [ 31.321347944000024, 46.983182463000048 ], [ 31.319894366000028, 46.992943117000038 ] ] ] } }
-]
-}

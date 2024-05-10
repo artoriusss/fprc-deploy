@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.084739342885500002, "Shape_Area": 8.1823152986199995e-05, "ADM4_EN": "Tereshkivtsi", "ADM4_UA": "Терешківці", "ADM4_PCODE": "UA0708007039", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horokhivska", "ADM3_UA": "Горохівська", "ADM3_PCODE": "UA0708007", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.857391095000025, 50.550092003000032 ], [ 24.856594095000048, 50.546372003000045 ], [ 24.851664096000036, 50.549236003000033 ], [ 24.851556095000035, 50.545217003000062 ], [ 24.85414309500004, 50.544383003000064 ], [ 24.860653095000032, 50.545658003000028 ], [ 24.865951094000025, 50.54375800300005 ], [ 24.869073094000044, 50.547257003000027 ], [ 24.862140095000029, 50.549963003000073 ], [ 24.857391095000025, 50.550092003000032 ] ] ] } }
-]
-}

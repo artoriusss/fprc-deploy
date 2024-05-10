@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060285284657399997, "Shape_Area": 0.000153628589951, "ADM4_EN": "Tavriiske", "ADM4_UA": "Таврійське", "ADM4_PCODE": "UA0114047003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sovkhoznenska", "ADM3_UA": "Совхозненська", "ADM3_PCODE": "UA0114047", "ADM2_EN": "Krasnoperekopskyi", "ADM2_UA": "Красноперекопський", "ADM2_PCODE": "UA0114", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.746714001000043, 45.983899 ], [ 33.734068, 45.981478 ], [ 33.737553001000038, 45.975369 ], [ 33.748344, 45.972447 ], [ 33.752917, 45.974709 ], [ 33.756189, 45.979472 ], [ 33.746855999000047, 45.97979 ], [ 33.746714001000043, 45.983899 ] ] ] } }
-]
-}

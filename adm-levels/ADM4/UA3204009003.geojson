@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.121845639294, "Shape_Area": 0.00045600898656000002, "ADM4_EN": "Petropavlivske", "ADM4_UA": "Петропавлівське", "ADM4_PCODE": "UA3204009003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zolochivska", "ADM3_UA": "Золочівська", "ADM3_PCODE": "UA3204009", "ADM2_EN": "Boryspilskyi", "ADM2_UA": "Бориспільський", "ADM2_PCODE": "UA3204", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.838774103000048, 50.326665216000038 ], [ 30.839063158000044, 50.332453089000069 ], [ 30.78691027900004, 50.329329108000081 ], [ 30.797579203000055, 50.32125218200008 ], [ 30.815598142000056, 50.324201225000081 ], [ 30.82036716600004, 50.32058418500003 ], [ 30.824630644000024, 50.319379724000044 ], [ 30.838077177000059, 50.319357199000081 ], [ 30.838774103000048, 50.326665216000038 ] ] ] } }
-]
-}

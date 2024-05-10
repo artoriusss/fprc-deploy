@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.064242680921899997, "Shape_Area": 0.00017613387767100001, "ADM4_EN": "Skalyvatka", "ADM4_UA": "Скаливатка", "ADM4_PCODE": "UA7102003002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vatutinska", "ADM3_UA": "Ватутінська", "ADM3_PCODE": "UA7102003", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.025005416000056, 49.007393516000036 ], [ 31.022949314000073, 49.001382326000055 ], [ 31.019170592000023, 48.997216656000035 ], [ 31.024633642000026, 48.994114535000051 ], [ 31.026148748000026, 48.996327320000034 ], [ 31.033465424000042, 48.995705724000061 ], [ 31.035175227000025, 48.997675487000038 ], [ 31.036804305000032, 49.008133647000079 ], [ 31.028826467000044, 49.010596856000063 ], [ 31.025005416000056, 49.007393516000036 ] ] ] } }
-]
-}

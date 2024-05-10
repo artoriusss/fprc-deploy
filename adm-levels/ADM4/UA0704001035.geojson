@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.071536535199700005, "Shape_Area": 0.00011434760973200001, "ADM4_EN": "Oleksiivka", "ADM4_UA": "Олексіївка", "ADM4_PCODE": "UA0704001035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kamin-Kashyrska", "ADM3_UA": "Камінь-Каширська", "ADM3_PCODE": "UA0704001", "ADM2_EN": "Kamin-Kashyrskyi", "ADM2_UA": "Камінь-Каширський", "ADM2_PCODE": "UA0704", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.964643948000059, 51.636555777000069 ], [ 24.964927089000071, 51.639209003000076 ], [ 24.984335087000034, 51.650035003000028 ], [ 24.981837087000031, 51.651794003000077 ], [ 24.968073089000029, 51.643914003000077 ], [ 24.965222089000065, 51.645867003000035 ], [ 24.957365376000041, 51.641702119000058 ], [ 24.957339615000024, 51.640230023000072 ], [ 24.957270634000054, 51.636288185000069 ], [ 24.964643948000059, 51.636555777000069 ] ] ] } }
-]
-}

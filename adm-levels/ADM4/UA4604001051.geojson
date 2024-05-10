@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.043764642212099997, "Shape_Area": 9.0746528562800002e-05, "ADM4_EN": "Yazlivchyk", "ADM4_UA": "Язлівчик", "ADM4_PCODE": "UA4604001051", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Brodivska", "ADM3_UA": "Бродівська", "ADM3_PCODE": "UA4604001", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.131756069000062, 50.118737002000046 ], [ 25.131365069000026, 50.121044003000065 ], [ 25.119979071000046, 50.118167002000064 ], [ 25.121820069000023, 50.113202002000037 ], [ 25.137103068000044, 50.114461002000041 ], [ 25.135920069000065, 50.118855002000032 ], [ 25.131756069000062, 50.118737002000046 ] ] ] } }
-]
-}

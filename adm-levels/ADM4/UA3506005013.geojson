@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.123401643016, "Shape_Area": 0.000358584105952, "ADM4_EN": "Karbivka", "ADM4_UA": "Карбівка", "ADM4_PCODE": "UA3506005013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dobrovelychkivska", "ADM3_UA": "Добровеличківська", "ADM3_PCODE": "UA3506005", "ADM2_EN": "Novoukrainskyi", "ADM2_UA": "Новоукраїнський", "ADM2_PCODE": "UA3506", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.137343999000052, 48.506246 ], [ 31.13610600100003, 48.507561 ], [ 31.130358, 48.506504 ], [ 31.126908999000079, 48.504197 ], [ 31.124922, 48.499749 ], [ 31.122898999000029, 48.49984 ], [ 31.121011001000056, 48.493301 ], [ 31.110317, 48.49334 ], [ 31.111052999000037, 48.489165 ], [ 31.115713, 48.482366 ], [ 31.123458, 48.483238 ], [ 31.126933, 48.486025 ], [ 31.131006, 48.491238 ], [ 31.134105999000042, 48.491872 ], [ 31.135474, 48.494962 ], [ 31.138965001000031, 48.495336 ], [ 31.137343999000052, 48.506246 ] ] ] } }
-]
-}

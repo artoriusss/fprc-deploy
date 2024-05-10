@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0734300055418, "Shape_Area": 8.4033129341299999e-05, "ADM4_EN": "Buzhkovychi", "ADM4_UA": "Бужковичі", "ADM4_PCODE": "UA0702017002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pavlivska", "ADM3_UA": "Павлівська", "ADM3_PCODE": "UA0702017", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.435216149000041, 50.726977005000037 ], [ 24.437574148000067, 50.724948005000044 ], [ 24.438201148000076, 50.720098005000068 ], [ 24.445822147000058, 50.719859005000046 ], [ 24.447609147000037, 50.724561005000055 ], [ 24.44434314800003, 50.724615005000032 ], [ 24.442161148000025, 50.726907005000044 ], [ 24.435216149000041, 50.726977005000037 ] ] ] } }
-]
-}

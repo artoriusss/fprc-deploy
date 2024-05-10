@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.078517639289199997, "Shape_Area": 0.00022126316637700001, "ADM4_EN": "Boleslavchyk", "ADM4_UA": "Болеславчик", "ADM4_PCODE": "UA4808015003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Syniukhynobridska", "ADM3_UA": "Синюхинобрідська", "ADM3_PCODE": "UA4808015", "ADM2_EN": "Pervomaiskyi", "ADM2_UA": "Первомайський", "ADM2_PCODE": "UA4808", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.798257355000032, 48.090746031000037 ], [ 30.790017215000034, 48.090320063000036 ], [ 30.787322126000049, 48.086906842000076 ], [ 30.779672155000071, 48.089287652000053 ], [ 30.774657994000052, 48.08922035900008 ], [ 30.772187178000024, 48.087833875000058 ], [ 30.772440256000039, 48.084031251000056 ], [ 30.781778592000023, 48.079541807000055 ], [ 30.787501218000045, 48.080663564000076 ], [ 30.799640530000033, 48.081223978000025 ], [ 30.798257355000032, 48.090746031000037 ] ] ] } }
-]
-}

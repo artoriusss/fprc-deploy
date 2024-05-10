@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.051004486133600001, "Shape_Area": 4.7030780079899997e-05, "ADM4_EN": "Maloroshove", "ADM4_UA": "Малорошове", "ADM4_PCODE": "UA5114005010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zatyshanska", "ADM3_UA": "Затишанська", "ADM3_PCODE": "UA5114005", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.918984, 47.239618 ], [ 29.922885, 47.236602 ], [ 29.923473, 47.23407 ], [ 29.927299, 47.230331 ], [ 29.929074, 47.233645 ], [ 29.925074, 47.238034 ], [ 29.918984, 47.239618 ] ] ] } }
-]
-}

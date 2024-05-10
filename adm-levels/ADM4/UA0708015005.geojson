@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.114488556935, "Shape_Area": 0.0001626719524, "ADM4_EN": "Kremenets", "ADM4_UA": "Кременець", "ADM4_PCODE": "UA0708015005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kopachivska", "ADM3_UA": "Копачівська", "ADM3_PCODE": "UA0708015", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.214941380000027, 50.925275161000059 ], [ 25.21058393900006, 50.927753816000063 ], [ 25.215283065000051, 50.917119002000049 ], [ 25.209491065000066, 50.915083002000074 ], [ 25.206352067000068, 50.922464002000027 ], [ 25.203408066000065, 50.920561002000056 ], [ 25.206534066000074, 50.913522002000036 ], [ 25.209353065000073, 50.910133002000066 ], [ 25.220633064000026, 50.912068002000069 ], [ 25.214941380000027, 50.925275161000059 ] ] ] } }
-]
-}

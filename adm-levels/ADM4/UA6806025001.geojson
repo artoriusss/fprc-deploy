@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.065286548800799996, "Shape_Area": 0.00012551686442200001, "ADM4_EN": "Sakhnivtsi", "ADM4_UA": "Сахнівці", "ADM4_PCODE": "UA6806025001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sakhnovetska", "ADM3_UA": "Сахновецька", "ADM3_PCODE": "UA6806025", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.852811, 49.976161 ], [ 26.844919, 49.97074 ], [ 26.850089, 49.965392 ], [ 26.856149750000043, 49.967949750000059 ], [ 26.859248001000026, 49.967785 ], [ 26.867092, 49.971676 ], [ 26.866382, 49.973493 ], [ 26.85787, 49.972024 ], [ 26.856216, 49.976097 ], [ 26.852811, 49.976161 ] ] ] } }
-]
-}

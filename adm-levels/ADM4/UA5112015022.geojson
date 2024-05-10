@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.077125761577800003, "Shape_Area": 0.00024895793069199998, "ADM4_EN": "Malaivtsi", "ADM4_UA": "Малаївці", "ADM4_PCODE": "UA5112015022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Oknianska", "ADM3_UA": "Окнянська", "ADM3_PCODE": "UA5112015", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.433268001000044, 47.482286 ], [ 29.433719, 47.485589 ], [ 29.428702, 47.486923 ], [ 29.427935, 47.492641 ], [ 29.425287082000068, 47.494965685000068 ], [ 29.413771001000043, 47.484294 ], [ 29.410157, 47.48259 ], [ 29.409796999000037, 47.474575 ], [ 29.414366, 47.47642 ], [ 29.426207001000023, 47.479333 ], [ 29.428948, 47.477351 ], [ 29.433268001000044, 47.482286 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.15889004492799999, "Shape_Area": 0.00026001948087499998, "ADM4_EN": "Kolomiitsi", "ADM4_UA": "Коломійці", "ADM4_PCODE": "UA1214025024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pokrovska", "ADM3_UA": "Покровська", "ADM3_PCODE": "UA1214025", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.353013, 47.980492 ], [ 36.345217, 47.974097 ], [ 36.340085, 47.967226 ], [ 36.332965, 47.964093 ], [ 36.339783, 47.961131 ], [ 36.337124, 47.958535 ], [ 36.333872001000032, 47.952538 ], [ 36.340257, 47.954883 ], [ 36.347133001000032, 47.960499 ], [ 36.349219, 47.96042 ], [ 36.350679, 47.952682 ], [ 36.357349001000046, 47.953139 ], [ 36.358138999000062, 47.954488 ], [ 36.347711, 47.963018 ], [ 36.34965, 47.96988 ], [ 36.353477, 47.974424 ], [ 36.353013, 47.980492 ] ] ] } }
-]
-}

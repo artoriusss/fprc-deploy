@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057105700430200003, "Shape_Area": 8.2467137036100005e-05, "ADM4_EN": "Shapky", "ADM4_UA": "Шапки", "ADM4_PCODE": "UA5308001027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilytska", "ADM3_UA": "Білицька", "ADM3_PCODE": "UA5308001", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.124619, 49.273236 ], [ 34.121643001000052, 49.274021 ], [ 34.116798104000054, 49.279166670000052 ], [ 34.106352, 49.275163 ], [ 34.107752, 49.273767 ], [ 34.11673599900007, 49.273415 ], [ 34.120228, 49.272433 ], [ 34.124619, 49.273236 ] ] ] } }
-]
-}

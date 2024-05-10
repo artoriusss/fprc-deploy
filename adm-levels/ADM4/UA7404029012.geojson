@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.030394162111799999, "Shape_Area": 3.8970539981e-05, "ADM4_EN": "Korobchyne", "ADM4_UA": "Коробчине", "ADM4_PCODE": "UA7404029012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nosivska", "ADM3_UA": "Носівська", "ADM3_PCODE": "UA7404029", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.710203999000043, 50.96805597000008 ], [ 31.70678003900008, 50.966789040000037 ], [ 31.707424081000056, 50.956106040000066 ], [ 31.710804120000034, 50.956092990000059 ], [ 31.710203999000043, 50.96805597000008 ] ] ] } }
-]
-}

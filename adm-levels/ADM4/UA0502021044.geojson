@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.075783678913500005, "Shape_Area": 0.00011431616663199999, "ADM4_EN": "Smarzhyntsi", "ADM4_UA": "Смаржинці", "ADM4_PCODE": "UA0502021044", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pohrebyshchenska", "ADM3_UA": "Погребищенська", "ADM3_PCODE": "UA0502021", "ADM2_EN": "Vinnytskyi", "ADM2_UA": "Вінницький", "ADM2_PCODE": "UA0502", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.150302, 49.540271 ], [ 29.146985999000037, 49.538789 ], [ 29.144846, 49.540238 ], [ 29.139511, 49.538723 ], [ 29.138494, 49.533171 ], [ 29.144133999000076, 49.531273 ], [ 29.151747, 49.531462 ], [ 29.157739, 49.530412 ], [ 29.158254, 49.532564 ], [ 29.150522, 49.533238 ], [ 29.14897, 49.536755 ], [ 29.150302, 49.540271 ] ] ] } }
-]
-}

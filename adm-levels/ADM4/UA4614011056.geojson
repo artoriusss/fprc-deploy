@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060562920235799997, "Shape_Area": 7.9047292815099998e-05, "ADM4_EN": "Porudenko", "ADM4_UA": "Поруденко", "ADM4_PCODE": "UA4614011056", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yavorivska", "ADM3_UA": "Яворівська", "ADM3_PCODE": "UA4614011", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.321952422000038, 49.926231016000031 ], [ 23.318218423000076, 49.928044016000058 ], [ 23.315878423000072, 49.926954016000082 ], [ 23.314931424000065, 49.923214016000031 ], [ 23.320660421000071, 49.921222016000058 ], [ 23.328665394000041, 49.922993434000034 ], [ 23.329153416000054, 49.926331016000063 ], [ 23.321952422000038, 49.926231016000031 ] ] ] } }
-]
-}

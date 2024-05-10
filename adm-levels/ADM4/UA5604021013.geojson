@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.067317539447100005, "Shape_Area": 9.2633940647200003e-05, "ADM4_EN": "Stavyshche", "ADM4_UA": "Ставище", "ADM4_PCODE": "UA5604021013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ostrozhetska", "ADM3_UA": "Острожецька", "ADM3_PCODE": "UA5604021", "ADM2_EN": "Dubenskyi", "ADM2_UA": "Дубенський", "ADM2_PCODE": "UA5604", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.651830960000041, 50.672829060000026 ], [ 25.651451160000079, 50.668416990000026 ], [ 25.641276120000043, 50.669173980000039 ], [ 25.641003960000035, 50.667183990000069 ], [ 25.652625121000028, 50.666356980000046 ], [ 25.657782840000039, 50.664452040000072 ], [ 25.659662040000057, 50.666602950000026 ], [ 25.665680159000033, 50.66856198000005 ], [ 25.663422959000059, 50.67107406000008 ], [ 25.656427080000071, 50.668980030000057 ], [ 25.651830960000041, 50.672829060000026 ] ] ] } }
-]
-}

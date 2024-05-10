@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0361268944015, "Shape_Area": 3.6978423447899999e-05, "ADM4_EN": "Kozylivshchyna", "ADM4_UA": "Козилівщина", "ADM4_PCODE": "UA7406007026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Semenivska", "ADM3_UA": "Семенівська", "ADM3_PCODE": "UA7406007", "ADM2_EN": "Novhorod-Siverskyi", "ADM2_UA": "Новгород-Сіверський", "ADM2_PCODE": "UA7406", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.713563001000068, 51.948502 ], [ 32.704635961000065, 51.951177 ], [ 32.704549920000034, 51.947378010000079 ], [ 32.710086, 51.947009010000045 ], [ 32.713563001000068, 51.948502 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.087961681444999995, "Shape_Area": 0.000114521832609, "ADM4_EN": "Novyi Stav", "ADM4_UA": "Новий Став", "ADM4_PCODE": "UA4606015009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhovtanetska", "ADM3_UA": "Жовтанецька", "ADM3_PCODE": "UA4606015", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.334160160000067, 50.044504005000078 ], [ 24.333888160000072, 50.037181006000026 ], [ 24.338868159000072, 50.032704005000028 ], [ 24.340055158000041, 50.037972006000075 ], [ 24.350470157000075, 50.040276006000056 ], [ 24.347302158000048, 50.042332005000048 ], [ 24.335455159000048, 50.042265006000036 ], [ 24.334160160000067, 50.044504005000078 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.069619246339800003, "Shape_Area": 0.000138814449439, "ADM4_EN": "Chervona Hirka", "ADM4_UA": "Червона Гірка", "ADM4_PCODE": "UA3208019046", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Makarivska", "ADM3_UA": "Макарівська", "ADM3_PCODE": "UA3208019", "ADM2_EN": "Buchanskyi", "ADM2_UA": "Бучанський", "ADM2_PCODE": "UA3208", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.88098194500003, 50.551281311000082 ], [ 29.871866956000076, 50.551274309000064 ], [ 29.872452935000069, 50.544892305000076 ], [ 29.87546788800006, 50.546274310000058 ], [ 29.887579919000075, 50.542333358000064 ], [ 29.893015441000045, 50.542490341000075 ], [ 29.891763946000026, 50.549825284000065 ], [ 29.88098194500003, 50.551281311000082 ] ] ] } }
-]
-}

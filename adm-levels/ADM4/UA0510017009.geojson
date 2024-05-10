@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.094268920362499994, "Shape_Area": 0.00022076972255099999, "ADM4_EN": "Lopatyntsi", "ADM4_UA": "Лопатинці", "ADM4_PCODE": "UA0510017009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shpykivska", "ADM3_UA": "Шпиківська", "ADM3_PCODE": "UA0510017", "ADM2_EN": "Tulchynskyi", "ADM2_UA": "Тульчинський", "ADM2_PCODE": "UA0510", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.367246, 48.820175999000071 ], [ 28.363417001000073, 48.816973 ], [ 28.356066, 48.816268 ], [ 28.354824001000054, 48.81087 ], [ 28.359452999000041, 48.80996 ], [ 28.360475, 48.807341 ], [ 28.367808001000071, 48.805206 ], [ 28.369578001000036, 48.807274 ], [ 28.374117, 48.807898 ], [ 28.381276, 48.805543 ], [ 28.383753, 48.807719 ], [ 28.382393, 48.810605 ], [ 28.371824, 48.816209 ], [ 28.367246, 48.820175999000071 ] ] ] } }
-]
-}

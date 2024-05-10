@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.080312549398000005, "Shape_Area": 8.6586733552599998e-05, "ADM4_EN": "Babychivka", "ADM4_UA": "Бабичівка", "ADM4_PCODE": "UA3508001004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykoandrusivska", "ADM3_UA": "Великоандрусівська", "ADM3_PCODE": "UA3508001", "ADM2_EN": "Oleksandriiskyi", "ADM2_UA": "Олександрійський", "ADM2_PCODE": "UA3508", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.045058754000024, 49.061194535000027 ], [ 33.041722575000051, 49.058623518000047 ], [ 33.03224, 49.054555 ], [ 33.022553308000056, 49.054025039000066 ], [ 33.02343485800003, 49.04994470400004 ], [ 33.027204678000032, 49.050601664000055 ], [ 33.043044757000075, 49.056687450000027 ], [ 33.043690494000032, 49.053826361000063 ], [ 33.047224318000076, 49.053253751000057 ], [ 33.047041, 49.060001 ], [ 33.045058754000024, 49.061194535000027 ] ] ] } }
-]
-}

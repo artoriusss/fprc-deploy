@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.050324902489199998, "Shape_Area": 7.8525985144200006e-05, "ADM4_EN": "Sakalivka", "ADM4_UA": "Сакалівка", "ADM4_PCODE": "UA5306007017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykosorochynska", "ADM3_UA": "Великосорочинська", "ADM3_PCODE": "UA5306007", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.98085, 50.126247 ], [ 33.977987, 50.128207 ], [ 33.974712, 50.125004 ], [ 33.977408001000072, 50.121504 ], [ 33.976927001000035, 50.117565 ], [ 33.984817, 50.114429 ], [ 33.986112, 50.117485 ], [ 33.984204999000042, 50.122038 ], [ 33.981197001000055, 50.122166 ], [ 33.98085, 50.126247 ] ] ] } }
-]
-}

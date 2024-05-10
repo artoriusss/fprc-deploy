@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13934602080700001, "Shape_Area": 0.000338013218976, "ADM4_EN": "Rozsokhuvatets", "ADM4_UA": "Розсохуватець", "ADM4_PCODE": "UA3502017012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pidvysotska", "ADM3_UA": "Підвисоцька", "ADM3_PCODE": "UA3502017", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "Голованівський", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.685507, 48.537164 ], [ 30.683757, 48.533721 ], [ 30.677472, 48.533924 ], [ 30.675265, 48.530593 ], [ 30.689174, 48.524195 ], [ 30.693747, 48.52524 ], [ 30.696684001000051, 48.521713 ], [ 30.702657, 48.520423 ], [ 30.705288999000061, 48.516066 ], [ 30.717277999000032, 48.515324 ], [ 30.718352, 48.518354 ], [ 30.710665, 48.522573 ], [ 30.702321, 48.525106 ], [ 30.697771, 48.527372 ], [ 30.697455999000056, 48.530563 ], [ 30.694373, 48.53693 ], [ 30.690340999000057, 48.538589 ], [ 30.685507, 48.537164 ] ] ] } }
-]
-}

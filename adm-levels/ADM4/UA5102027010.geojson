@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.100424115536, "Shape_Area": 0.00012923120670100001, "ADM4_EN": "Shabelnyky", "ADM4_UA": "Шабельники", "ADM4_PCODE": "UA5102027010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Striukivska", "ADM3_UA": "Стрюківська", "ADM3_PCODE": "UA5102027", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.462262001000056, 47.345323 ], [ 30.456800001000033, 47.343719 ], [ 30.463704, 47.339974 ], [ 30.469607, 47.334474 ], [ 30.469766, 47.331715 ], [ 30.474251, 47.321971 ], [ 30.480168, 47.32133 ], [ 30.47951, 47.324962 ], [ 30.476234, 47.330469 ], [ 30.470256001000052, 47.333203 ], [ 30.471744, 47.337824 ], [ 30.470399999000051, 47.342631 ], [ 30.463217001000032, 47.342059 ], [ 30.462262001000056, 47.345323 ] ] ] } }
-]
-}

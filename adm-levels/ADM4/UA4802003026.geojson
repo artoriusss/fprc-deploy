@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.086815871803699998, "Shape_Area": 0.000133539817096, "ADM4_EN": "Ozerivka", "ADM4_UA": "Озерівка", "ADM4_PCODE": "UA4802003026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bereznehuvatska", "ADM3_UA": "Березнегуватська", "ADM3_PCODE": "UA4802003", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.110574494000048, 47.484030679000057 ], [ 33.108449212000039, 47.485931366000045 ], [ 33.098204103000057, 47.47894328700005 ], [ 33.091720660000078, 47.472923077000075 ], [ 33.096492382000065, 47.456641498000067 ], [ 33.100674850000075, 47.456628383000066 ], [ 33.09669411200008, 47.47193614400004 ], [ 33.104342215000031, 47.479134197000064 ], [ 33.110574494000048, 47.484030679000057 ] ] ] } }
-]
-}

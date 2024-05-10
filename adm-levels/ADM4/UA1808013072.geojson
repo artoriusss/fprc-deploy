@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.051668187102600002, "Shape_Area": 7.9435227557700006e-05, "ADM4_EN": "Yamenets", "ADM4_UA": "Яменець", "ADM4_PCODE": "UA1808013072", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yemilchynska", "ADM3_UA": "Ємільчинська", "ADM3_PCODE": "UA1808013", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.141130881000038, 50.930521020000072 ], [ 28.134114120000049, 50.926229010000043 ], [ 28.134390960000076, 50.924046960000055 ], [ 28.14592392000003, 50.923473030000082 ], [ 28.148023081000076, 50.924703960000045 ], [ 28.146602880000046, 50.928866010000036 ], [ 28.141130881000038, 50.930521020000072 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.082219815041899999, "Shape_Area": 0.000180410871818, "ADM4_EN": "Litky", "ADM4_UA": "Літки", "ADM4_PCODE": "UA6804015018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Derazhnianska", "ADM3_UA": "Деражнянська", "ADM3_PCODE": "UA6804015", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.369656001000067, 49.266836 ], [ 27.370375, 49.269533 ], [ 27.362894, 49.271196 ], [ 27.358898001000057, 49.266818 ], [ 27.353733001000023, 49.268661 ], [ 27.352244, 49.26697 ], [ 27.343048, 49.269347 ], [ 27.342938, 49.264095 ], [ 27.340317, 49.261272 ], [ 27.34781, 49.260579 ], [ 27.351557, 49.258611 ], [ 27.356302, 49.262048 ], [ 27.369656001000067, 49.266836 ] ] ] } }
-]
-}

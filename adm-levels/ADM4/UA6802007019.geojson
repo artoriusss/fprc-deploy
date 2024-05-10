@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.032043076822599999, "Shape_Area": 4.17446905075e-05, "ADM4_EN": "Slobidka-Malynovetska", "ADM4_UA": "Слобідка-Малиновецька", "ADM4_PCODE": "UA6802007019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhvanetska", "ADM3_UA": "Жванецька", "ADM3_PCODE": "UA6802007", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.617958, 48.51236 ], [ 26.617433001000052, 48.513787 ], [ 26.611152, 48.515886 ], [ 26.607918, 48.512361 ], [ 26.613517, 48.511529 ], [ 26.617958, 48.51236 ] ] ] } }
-]
-}

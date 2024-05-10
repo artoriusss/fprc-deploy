@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.079056490833600002, "Shape_Area": 0.00017111498869299999, "ADM4_EN": "Sosnivka", "ADM4_UA": "Соснівка", "ADM4_PCODE": "UA0502021047", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pohrebyshchenska", "ADM3_UA": "Погребищенська", "ADM3_PCODE": "UA0502021", "ADM2_EN": "Vinnytskyi", "ADM2_UA": "Вінницький", "ADM2_PCODE": "UA0502", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.015646120000042, 49.570665030000043 ], [ 29.007348614000023, 49.576242395000065 ], [ 29.006562961000043, 49.580397990000051 ], [ 29.003262119000055, 49.585312980000026 ], [ 28.997178840000061, 49.580845020000027 ], [ 28.992727080000066, 49.576280040000029 ], [ 29.008420920000049, 49.569595020000065 ], [ 29.009025, 49.567722 ], [ 29.015363880000052, 49.568931 ], [ 29.015646120000042, 49.570665030000043 ] ] ] } }
-]
-}

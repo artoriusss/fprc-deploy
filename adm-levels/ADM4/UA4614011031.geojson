@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.065520062295699996, "Shape_Area": 8.5096001357400005e-05, "ADM4_EN": "Kalytiaky", "ADM4_UA": "Калитяки", "ADM4_PCODE": "UA4614011031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yavorivska", "ADM3_UA": "Яворівська", "ADM3_PCODE": "UA4614011", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.417872387000045, 50.041821015000039 ], [ 23.40929839000006, 50.046327015000031 ], [ 23.410876389000066, 50.041971015000058 ], [ 23.410885391000022, 50.037328014000082 ], [ 23.420100387000048, 50.037921015000052 ], [ 23.421913386000028, 50.034778015000029 ], [ 23.426487383000051, 50.032732015000079 ], [ 23.423545385000068, 50.039193014000034 ], [ 23.417872387000045, 50.041821015000039 ] ] ] } }
-]
-}

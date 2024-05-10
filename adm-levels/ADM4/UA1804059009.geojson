@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.080195541115300001, "Shape_Area": 0.000102573225502, "ADM4_EN": "Hannopil", "ADM4_UA": "Ганнопіль", "ADM4_PCODE": "UA1804059009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Cherniakhivska", "ADM3_UA": "Черняхівська", "ADM3_PCODE": "UA1804059", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.867690080000045, 50.580876960000069 ], [ 28.865318040000034, 50.581259010000053 ], [ 28.864840139000023, 50.573796719000029 ], [ 28.869089941000027, 50.573400647000028 ], [ 28.87265562500005, 50.575803571000051 ], [ 28.871993880000048, 50.578436970000041 ], [ 28.884938332000047, 50.577665469000067 ], [ 28.885421062000034, 50.57932635700007 ], [ 28.867690080000045, 50.580876960000069 ] ] ] } }
-]
-}

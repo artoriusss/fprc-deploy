@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.075546172326500002, "Shape_Area": 0.00015592114908100001, "ADM4_EN": "Zaberezhzhia", "ADM4_UA": "Забережжя", "ADM4_PCODE": "UA2604003009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bohorodchanska", "ADM3_UA": "Богородчанська", "ADM3_PCODE": "UA2604003", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.656829, 48.80753 ], [ 24.659032001000071, 48.809105 ], [ 24.653834001000064, 48.813022 ], [ 24.651245001000063, 48.808199 ], [ 24.64163166700007, 48.806612176000044 ], [ 24.647125999000025, 48.796395 ], [ 24.65079399900003, 48.797977 ], [ 24.657914001000051, 48.79808 ], [ 24.656418, 48.801619 ], [ 24.652719, 48.802759 ], [ 24.656829, 48.80753 ] ] ] } }
-]
-}

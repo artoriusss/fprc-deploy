@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.036410110761699997, "Shape_Area": 4.0354351095800003e-05, "ADM4_EN": "Sarnivka", "ADM4_UA": "Сарнівка", "ADM4_PCODE": "UA1804047036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Romanivska", "ADM3_UA": "Романівська", "ADM3_PCODE": "UA1804047", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.985286880000046, 50.274191970000061 ], [ 27.970346880000079, 50.275799010000071 ], [ 27.97238126700006, 50.272872363000033 ], [ 27.984294, 50.271238980000078 ], [ 27.985286880000046, 50.274191970000061 ] ] ] } }
-]
-}

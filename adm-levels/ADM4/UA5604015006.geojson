@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.098011315522600007, "Shape_Area": 0.00013213587406, "ADM4_EN": "Haiky-Sytenski", "ADM4_UA": "Гайки-Ситенські", "ADM4_PCODE": "UA5604015006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krupetska", "ADM3_UA": "Крупецька", "ADM3_PCODE": "UA5604015", "ADM2_EN": "Dubenskyi", "ADM2_UA": "Дубенський", "ADM2_PCODE": "UA5604", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.430613840000035, 50.175076051000076 ], [ 25.432310880000045, 50.171706 ], [ 25.430943960000036, 50.167683990000057 ], [ 25.435287, 50.158584 ], [ 25.444803960000058, 50.153949990000058 ], [ 25.447528079000051, 50.156217990000073 ], [ 25.436432160000038, 50.162410980000061 ], [ 25.439979960000073, 50.169069 ], [ 25.434263881000049, 50.169165030000045 ], [ 25.435727999000051, 50.173400070000071 ], [ 25.430613840000035, 50.175076051000076 ] ] ] } }
-]
-}

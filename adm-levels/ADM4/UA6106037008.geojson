@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.077102206651300007, "Shape_Area": 0.00016200676755800001, "ADM4_EN": "Dorohychivka", "ADM4_UA": "Дорогичівка", "ADM4_PCODE": "UA6106037008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tovstenska", "ADM3_UA": "Товстенська", "ADM3_PCODE": "UA6106037", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.513272606000044, 48.856971436000038 ], [ 25.505355673000054, 48.854536220000057 ], [ 25.507278334000034, 48.851323974000081 ], [ 25.514618194000036, 48.848958219000053 ], [ 25.514718, 48.846195 ], [ 25.522979921000058, 48.844362044000036 ], [ 25.526590025000075, 48.846971558000064 ], [ 25.524254572000075, 48.85154019600003 ], [ 25.519274211000038, 48.85457488600008 ], [ 25.515374999000073, 48.854937 ], [ 25.513272606000044, 48.856971436000038 ] ] ] } }
-]
-}

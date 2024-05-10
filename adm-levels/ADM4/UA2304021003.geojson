@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.049171146896800001, "Shape_Area": 5.7351613495799999e-05, "ADM4_EN": "Lobkove", "ADM4_UA": "Лобкове", "ADM4_PCODE": "UA2304021003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stepnohirska", "ADM3_UA": "Степногірська", "ADM3_PCODE": "UA2304021", "ADM2_EN": "Vasylivskyi", "ADM2_UA": "Василівський", "ADM2_PCODE": "UA2304", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.43163869600005, 47.530102873000033 ], [ 35.433041484000057, 47.526017694000075 ], [ 35.437637672000051, 47.523749533000057 ], [ 35.440930440000045, 47.526335465000045 ], [ 35.43889729700004, 47.528863401000081 ], [ 35.43163869600005, 47.530102873000033 ] ] ] } }
-]
-}

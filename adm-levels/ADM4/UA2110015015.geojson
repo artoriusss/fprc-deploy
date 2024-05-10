@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.046173783940100001, "Shape_Area": 5.80111644688e-05, "ADM4_EN": "Chertezh", "ADM4_UA": "Чертеж", "ADM4_PCODE": "UA2110015015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Serednianska", "ADM3_UA": "Середнянська", "ADM3_PCODE": "UA2110015", "ADM2_EN": "Uzhhorodskyi", "ADM2_UA": "Ужгородський", "ADM2_PCODE": "UA2110", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.483983823000074, 48.556924035000065 ], [ 22.48405282300007, 48.555064035000044 ], [ 22.491285819000041, 48.555126035000058 ], [ 22.49110981900003, 48.558073035000064 ], [ 22.488201820000029, 48.564932035000027 ], [ 22.485305823000033, 48.56397703500005 ], [ 22.485226822000072, 48.559081035000077 ], [ 22.483983823000074, 48.556924035000065 ] ] ] } }
-]
-}

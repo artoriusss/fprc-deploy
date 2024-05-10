@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.033340442306099997, "Shape_Area": 5.9170225569799999e-05, "ADM4_EN": "Ivanivka", "ADM4_UA": "Іванівка", "ADM4_PCODE": "UA5114005008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zatyshanska", "ADM3_UA": "Затишанська", "ADM3_PCODE": "UA5114005", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.957517571000039, 47.186501983000028 ], [ 29.961372297000025, 47.188643498000033 ], [ 29.960265849000052, 47.193104987000027 ], [ 29.94934412300006, 47.191605927000069 ], [ 29.951803, 47.186666 ], [ 29.953948381000032, 47.185288458000059 ], [ 29.957517571000039, 47.186501983000028 ] ] ] } }
-]
-}

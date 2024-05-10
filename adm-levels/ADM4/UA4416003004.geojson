@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.100211279492, "Shape_Area": 9.4117167135300005e-05, "ADM4_EN": "Bezghynove", "ADM4_UA": "Безгинове", "ADM4_PCODE": "UA4416003004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoaidarska", "ADM3_UA": "Новоайдарська", "ADM3_PCODE": "UA4416003", "ADM2_EN": "Shchastynskyi", "ADM2_UA": "Щастинський", "ADM2_PCODE": "UA4416", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.007028, 48.929449 ], [ 39.009496999000078, 48.923505 ], [ 39.018302001000052, 48.913486 ], [ 39.020378999000059, 48.90725 ], [ 39.022625, 48.90959 ], [ 39.020380999000054, 48.91441 ], [ 39.015355, 48.920161 ], [ 39.017346, 48.922332 ], [ 39.015154, 48.926534 ], [ 39.0113, 48.926137 ], [ 39.007028, 48.929449 ] ] ] } }
-]
-}

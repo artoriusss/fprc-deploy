@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13551097551899999, "Shape_Area": 9.8197559450099997e-05, "ADM4_EN": "Vesela Hora", "ADM4_UA": "Весела Гора", "ADM4_PCODE": "UA1412015002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novodonetska", "ADM3_UA": "Новодонецька", "ADM3_PCODE": "UA1412015", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "Краматорський", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.128024001000028, 48.616988 ], [ 37.122094, 48.619765 ], [ 37.117087, 48.623361 ], [ 37.106873001000054, 48.629192 ], [ 37.105854, 48.627588 ], [ 37.113174998000034, 48.623358 ], [ 37.116797, 48.619888 ], [ 37.128777999000079, 48.614107 ], [ 37.128024001000028, 48.616988 ] ] ] } }
-]
-}

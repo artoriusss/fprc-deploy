@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.030391868940799999, "Shape_Area": 4.1336844584299997e-05, "ADM4_EN": "Pryvitne", "ADM4_UA": "Привітне", "ADM4_PCODE": "UA7410019038", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozeletska", "ADM3_UA": "Козелецька", "ADM3_PCODE": "UA7410019", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.956398442000079, 50.773671242000034 ], [ 30.949673193000024, 50.773466838000047 ], [ 30.948945141000024, 50.768506820000027 ], [ 30.955223912000065, 50.768130177000046 ], [ 30.956398442000079, 50.773671242000034 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060809490009000003, "Shape_Area": 0.000112821870361, "ADM4_EN": "Novooleksiivka", "ADM4_UA": "Новоолексіївка", "ADM4_PCODE": "UA1206003010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vakulivska", "ADM3_UA": "Вакулівська", "ADM3_PCODE": "UA1206003", "ADM2_EN": "Kryvorizkyi", "ADM2_UA": "Криворізький", "ADM2_PCODE": "UA1206", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.845953377000058, 47.842906628000037 ], [ 33.842644, 47.841792 ], [ 33.846298, 47.829789 ], [ 33.845990718000053, 47.822412819000078 ], [ 33.850023540000052, 47.822156637000035 ], [ 33.850498, 47.828294 ], [ 33.852789241000039, 47.834371148000059 ], [ 33.850819814000033, 47.840684392000071 ], [ 33.846732, 47.837785 ], [ 33.845953377000058, 47.842906628000037 ] ] ] } }
-]
-}

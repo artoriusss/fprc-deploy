@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.118572774975, "Shape_Area": 0.00010885659220899999, "ADM4_EN": "Babychi", "ADM4_UA": "Бабичі", "ADM4_PCODE": "UA7108015002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kanivska", "ADM3_UA": "Канівська", "ADM3_PCODE": "UA7108015", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.378355001000045, 49.643847 ], [ 31.375371332000043, 49.641808917000048 ], [ 31.386427, 49.636943 ], [ 31.39082537400003, 49.636947078000048 ], [ 31.389957772000059, 49.631678239000053 ], [ 31.403033809000078, 49.634164988000066 ], [ 31.401119824000034, 49.637994680000077 ], [ 31.396896574000039, 49.635125357000049 ], [ 31.379808812000078, 49.640773431000071 ], [ 31.378355001000045, 49.643847 ] ] ] } }
-]
-}

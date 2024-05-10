@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073251333483100006, "Shape_Area": 0.000137879659744, "ADM4_EN": "Tymofiivka", "ADM4_UA": "Тимофіївка", "ADM4_PCODE": "UA5306005018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykobudyshchanska", "ADM3_UA": "Великобудищанська", "ADM3_PCODE": "UA5306005", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.220054, 50.484318 ], [ 34.217413, 50.484246 ], [ 34.213613, 50.481079 ], [ 34.206626001000075, 50.481054 ], [ 34.207317001000035, 50.474669 ], [ 34.212831, 50.474497 ], [ 34.219009, 50.472421 ], [ 34.219874001000051, 50.474119 ], [ 34.227272001000074, 50.472689 ], [ 34.227487, 50.476385 ], [ 34.217063999000061, 50.479157 ], [ 34.220054, 50.484318 ] ] ] } }
-]
-}

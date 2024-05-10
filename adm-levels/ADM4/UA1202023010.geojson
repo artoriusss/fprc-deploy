@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.065567358096599998, "Shape_Area": 6.2877496953000006e-05, "ADM4_EN": "Mezhove", "ADM4_UA": "Межове", "ADM4_PCODE": "UA1202023010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sviatovasylivska", "ADM3_UA": "Святовасилівська", "ADM3_PCODE": "UA1202023", "ADM2_EN": "Dniprovskyi", "ADM2_UA": "Дніпровський", "ADM2_PCODE": "UA1202", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.534068, 48.2539 ], [ 34.533777, 48.258447 ], [ 34.540823, 48.259842 ], [ 34.539396, 48.263007 ], [ 34.530358, 48.260418 ], [ 34.531845, 48.24953 ], [ 34.534852, 48.24974 ], [ 34.534068, 48.2539 ] ] ] } }
-]
-}

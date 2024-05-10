@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.058295236065700001, "Shape_Area": 4.3301893005699997e-05, "ADM4_EN": "Dihtiarivka", "ADM4_UA": "Дігтярівка", "ADM4_PCODE": "UA5906005005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Korovynska", "ADM3_UA": "Коровинська", "ADM3_PCODE": "UA5906005", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 33.71963, 50.814397 ], [ 33.710907999000028, 50.815461 ], [ 33.711945, 50.812855 ], [ 33.71963, 50.814397 ] ] ], [ [ [ 33.719219, 50.811626 ], [ 33.712214, 50.812104 ], [ 33.708189, 50.809071 ], [ 33.71916, 50.810575 ], [ 33.719219, 50.811626 ] ] ] ] } }
-]
-}

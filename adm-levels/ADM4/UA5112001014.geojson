@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.072480389810900006, "Shape_Area": 0.000117804781565, "ADM4_EN": "Kozache", "ADM4_UA": "Козаче", "ADM4_PCODE": "UA5112001014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ananivska", "ADM3_UA": "Ананьївська", "ADM3_PCODE": "UA5112001", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.011676, 47.597348 ], [ 30.006903, 47.595416 ], [ 30.008671, 47.588815 ], [ 30.012409, 47.589193 ], [ 30.014205999000069, 47.582756 ], [ 30.016583001000072, 47.579015 ], [ 30.020603, 47.576976 ], [ 30.024669, 47.577214 ], [ 30.023258, 47.583917 ], [ 30.019891, 47.583488 ], [ 30.01641, 47.58512 ], [ 30.013771, 47.589704 ], [ 30.011676, 47.597348 ] ] ] } }
-]
-}

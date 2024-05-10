@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11219009580100001, "Shape_Area": 0.00024777064750200001, "ADM4_EN": "Popivka", "ADM4_UA": "Попівка", "ADM4_PCODE": "UA7106015012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mankivska", "ADM3_UA": "Маньківська", "ADM3_PCODE": "UA7106015", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.373435, 49.068995 ], [ 30.369031, 49.068468 ], [ 30.372653, 49.064218 ], [ 30.370304001000079, 49.058557 ], [ 30.355920999000034, 49.054691 ], [ 30.351446999000075, 49.052755 ], [ 30.367812001000061, 49.048682 ], [ 30.373806, 49.055282 ], [ 30.380065, 49.05524 ], [ 30.387461001000077, 49.051671 ], [ 30.387575, 49.05469 ], [ 30.379942, 49.058656 ], [ 30.373435, 49.068995 ] ] ] } }
-]
-}

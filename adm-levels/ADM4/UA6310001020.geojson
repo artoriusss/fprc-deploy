@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14769489150699999, "Shape_Area": 0.00019738160916299999, "ADM4_EN": "Rozdollia", "ADM4_UA": "Роздолля", "ADM4_PCODE": "UA6310001020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Biliaivska", "ADM3_UA": "Біляївська", "ADM3_PCODE": "UA6310001", "ADM2_EN": "Lozivskyi", "ADM2_UA": "Лозівський", "ADM2_PCODE": "UA6310", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.33039, 49.207537 ], [ 36.333697001000075, 49.210189999000079 ], [ 36.331568999000069, 49.212357 ], [ 36.325348, 49.208523 ], [ 36.335798, 49.19945 ], [ 36.340896, 49.19052 ], [ 36.338278001000049, 49.184644 ], [ 36.341706, 49.183611 ], [ 36.344977, 49.188106 ], [ 36.343276, 49.194924 ], [ 36.346173, 49.194678 ], [ 36.346582, 49.198937 ], [ 36.340802001000043, 49.202193 ], [ 36.329944999000077, 49.205918 ], [ 36.33039, 49.207537 ] ] ] } }
-]
-}

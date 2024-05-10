@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.17042525103, "Shape_Area": 0.00016048242517300001, "ADM4_EN": "Verkhnia Krasnianka", "ADM4_UA": "Верхня Краснянка", "ADM4_PCODE": "UA4406005026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Molodohvardiiska", "ADM3_UA": "Молодогвардійська", "ADM3_PCODE": "UA4406005", "ADM2_EN": "Luhanskyi", "ADM2_UA": "Луганський", "ADM2_PCODE": "UA4406", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.507679, 48.272124 ], [ 39.499504, 48.275128 ], [ 39.498512401000028, 48.267104286000063 ], [ 39.494064, 48.258574 ], [ 39.496200001000034, 48.257695 ], [ 39.49932700100004, 48.26482 ], [ 39.503764001000036, 48.268084999000052 ], [ 39.510553001000062, 48.266889 ], [ 39.516008, 48.266895 ], [ 39.519919001000062, 48.264639 ], [ 39.524026, 48.264823 ], [ 39.524745, 48.267679 ], [ 39.508525, 48.270045 ], [ 39.507679, 48.272124 ] ] ] } }
-]
-}

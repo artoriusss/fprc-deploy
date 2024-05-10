@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.082828338950200003, "Shape_Area": 0.000127371419737, "ADM4_EN": "Tendrivske", "ADM4_UA": "Тендрівське", "ADM4_PCODE": "UA6508001013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bekhterska", "ADM3_UA": "Бехтерська", "ADM3_PCODE": "UA6508001", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Скадовський", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.17405, 46.236323 ], [ 32.174198999000055, 46.241894 ], [ 32.170313001000068, 46.240995 ], [ 32.159112, 46.240468 ], [ 32.157699, 46.238224 ], [ 32.157643, 46.232459 ], [ 32.152861999000038, 46.231703 ], [ 32.153903, 46.228307 ], [ 32.158606, 46.229112 ], [ 32.158758001000024, 46.235283 ], [ 32.170287, 46.235419 ], [ 32.17405, 46.236323 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.053264162758100003, "Shape_Area": 8.9038031135899994e-05, "ADM4_EN": "Zaichyky", "ADM4_UA": "Зайчики", "ADM4_PCODE": "UA6804009013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Volochyska", "ADM3_UA": "Волочиська", "ADM3_PCODE": "UA6804009", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.243529, 49.364263 ], [ 26.239369447000058, 49.363799803000063 ], [ 26.236137468000038, 49.360438676000058 ], [ 26.236065, 49.356641 ], [ 26.241384, 49.356128 ], [ 26.245225, 49.353984 ], [ 26.245055999000044, 49.35974 ], [ 26.252439999000046, 49.361627 ], [ 26.243529, 49.364263 ] ] ] } }
-]
-}

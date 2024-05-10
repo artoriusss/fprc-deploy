@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.124985759877, "Shape_Area": 0.0002931328122, "ADM4_EN": "Smolianka", "ADM4_UA": "Смолянка", "ADM4_PCODE": "UA5112009018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kodymska", "ADM3_UA": "Кодимська", "ADM3_PCODE": "UA5112009", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.343849, 48.075647 ], [ 29.340773001000059, 48.076393 ], [ 29.337323, 48.073631 ], [ 29.340130999000053, 48.070794 ], [ 29.336688, 48.064745 ], [ 29.340317, 48.06429 ], [ 29.344098999000039, 48.065694 ], [ 29.34770499900003, 48.061013 ], [ 29.354198, 48.060398 ], [ 29.359955, 48.065916 ], [ 29.365438, 48.064826 ], [ 29.368227, 48.068894 ], [ 29.355772, 48.068921 ], [ 29.349133, 48.07494 ], [ 29.343849, 48.075647 ] ] ] } }
-]
-}

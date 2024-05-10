@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.081364099107400001, "Shape_Area": 0.00013717306308899999, "ADM4_EN": "Staromishchyna", "ADM4_UA": "Староміщина", "ADM4_PCODE": "UA6104035016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pidvolochyska", "ADM3_UA": "Підволочиська", "ADM3_PCODE": "UA6104035", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.159293259000037, 49.536907444000065 ], [ 26.16333, 49.543668 ], [ 26.166517999000064, 49.546758 ], [ 26.16623, 49.549663 ], [ 26.157992001000025, 49.555298 ], [ 26.152144, 49.551042 ], [ 26.15727, 49.54884 ], [ 26.157392, 49.545116 ], [ 26.152353, 49.544999 ], [ 26.152887, 49.541636 ], [ 26.155981752000059, 49.538828914000078 ], [ 26.159293259000037, 49.536907444000065 ] ] ] } }
-]
-}

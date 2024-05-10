@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.112351145178, "Shape_Area": 0.000298050937789, "ADM4_EN": "Bohdanivka", "ADM4_UA": "Богданівка", "ADM4_PCODE": "UA3504011005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dolynska", "ADM3_UA": "Долинська", "ADM3_PCODE": "UA3504011", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.829633725000065, 48.06386098400003 ], [ 32.825946939000062, 48.061912982000081 ], [ 32.828199, 48.050097 ], [ 32.831004980000046, 48.044190646000061 ], [ 32.83695877100007, 48.047398631000078 ], [ 32.853118101000064, 48.047763216000078 ], [ 32.859817253000074, 48.049095138000041 ], [ 32.864553328000056, 48.051805055000045 ], [ 32.863949879000074, 48.05445144600003 ], [ 32.852838481000049, 48.056189792000055 ], [ 32.831528, 48.053527 ], [ 32.829633725000065, 48.06386098400003 ] ] ] } }
-]
-}

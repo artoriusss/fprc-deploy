@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10170682695699999, "Shape_Area": 0.000118109330366, "ADM4_EN": "Basivka", "ADM4_UA": "Басівка", "ADM4_PCODE": "UA5906015002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khmelivska", "ADM3_UA": "Хмелівська", "ADM3_PCODE": "UA5906015", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.587259388000064, 50.842917305000071 ], [ 33.580308, 50.845165 ], [ 33.574804999000037, 50.849259 ], [ 33.575019, 50.844547 ], [ 33.569683, 50.84657 ], [ 33.560859, 50.848499 ], [ 33.56136, 50.847106 ], [ 33.562994, 50.845416 ], [ 33.569421001000023, 50.844499 ], [ 33.580196, 50.841337 ], [ 33.577054, 50.837654 ], [ 33.582901, 50.833592 ], [ 33.586528001000033, 50.833321 ], [ 33.587788, 50.835957 ], [ 33.585627, 50.839986 ], [ 33.587259388000064, 50.842917305000071 ] ] ] } }
-]
-}

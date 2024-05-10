@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.070523652781400006, "Shape_Area": 5.7590913910200002e-05, "ADM4_EN": "Dibrova", "ADM4_UA": "Діброва", "ADM4_PCODE": "UA6104015011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zbarazka", "ADM3_UA": "Збаразька", "ADM3_PCODE": "UA6104015", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.940763529000037, 49.675257576000035 ], [ 25.944158, 49.679516 ], [ 25.943557, 49.686989 ], [ 25.93951, 49.685244 ], [ 25.939090001000068, 49.682926 ], [ 25.929344, 49.681585 ], [ 25.930089, 49.679631 ], [ 25.937960001000079, 49.679946 ], [ 25.939006192000079, 49.675345872000037 ], [ 25.940763529000037, 49.675257576000035 ] ] ] } }
-]
-}

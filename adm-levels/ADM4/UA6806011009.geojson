@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.045910063870899999, "Shape_Area": 7.6147520221100004e-05, "ADM4_EN": "Potereba", "ADM4_UA": "Потереба", "ADM4_PCODE": "UA6806011009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krupetska", "ADM3_UA": "Крупецька", "ADM3_PCODE": "UA6806011", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.737998, 50.428391 ], [ 26.731747001000031, 50.428079 ], [ 26.732669, 50.421155 ], [ 26.73504900100005, 50.417902 ], [ 26.739426001000027, 50.417895 ], [ 26.740062, 50.420805 ], [ 26.737998, 50.428391 ] ] ] } }
-]
-}

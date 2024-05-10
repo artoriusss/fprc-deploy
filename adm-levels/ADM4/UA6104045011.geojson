@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073271149515399994, "Shape_Area": 0.00018897461137900001, "ADM4_EN": "Lysychyntsi", "ADM4_UA": "Лисичинці", "ADM4_PCODE": "UA6104045011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Skorykivska", "ADM3_UA": "Скориківська", "ADM3_PCODE": "UA6104045", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.014066, 49.677591 ], [ 26.017144866000024, 49.682420145000037 ], [ 26.016968117000033, 49.686228578000055 ], [ 26.012378001000059, 49.688958 ], [ 26.006001, 49.690493 ], [ 26.004814236000072, 49.686894579000068 ], [ 26.000593, 49.684013 ], [ 25.998398999000074, 49.676141 ], [ 26.002277, 49.675226 ], [ 26.004007716000046, 49.678201950000073 ], [ 26.013407, 49.675701 ], [ 26.014066, 49.677591 ] ] ] } }
-]
-}

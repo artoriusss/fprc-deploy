@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.053255179750500002, "Shape_Area": 4.9488131305e-05, "ADM4_EN": "Obozne", "ADM4_UA": "Обозне", "ADM4_PCODE": "UA4406001015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Luhanska", "ADM3_UA": "Луганська", "ADM3_PCODE": "UA4406001", "ADM2_EN": "Luhanskyi", "ADM2_UA": "Луганський", "ADM2_PCODE": "UA4406", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.314708, 48.736963 ], [ 39.30791, 48.737206 ], [ 39.310237, 48.733634 ], [ 39.30804, 48.728439 ], [ 39.311473, 48.727688 ], [ 39.314510999000049, 48.73105 ], [ 39.316239001000042, 48.735547 ], [ 39.314708, 48.736963 ] ] ] } }
-]
-}

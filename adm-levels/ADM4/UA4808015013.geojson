@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.049315932693300001, "Shape_Area": 0.000101476212651, "ADM4_EN": "Tarasivka", "ADM4_UA": "Тарасівка", "ADM4_PCODE": "UA4808015013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Syniukhynobridska", "ADM3_UA": "Синюхинобрідська", "ADM3_PCODE": "UA4808015", "ADM2_EN": "Pervomaiskyi", "ADM2_UA": "Первомайський", "ADM2_PCODE": "UA4808", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.00018570800006, 48.181268178000039 ], [ 31.000107658000047, 48.18382254800008 ], [ 31.002932215000044, 48.18805506700005 ], [ 31.000449901000025, 48.194779574000052 ], [ 30.996940940000059, 48.192762407000032 ], [ 30.994024816000035, 48.187600086000032 ], [ 30.992834543000072, 48.180354727000065 ], [ 30.998425158000032, 48.178781740000034 ], [ 31.00018570800006, 48.181268178000039 ] ] ] } }
-]
-}

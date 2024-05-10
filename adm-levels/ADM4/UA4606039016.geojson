@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.040862595641300001, "Shape_Area": 4.0488971811899998e-05, "ADM4_EN": "Dumy", "ADM4_UA": "Думи", "ADM4_PCODE": "UA4606039016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rava-Ruska", "ADM3_UA": "Рава-Руська", "ADM3_PCODE": "UA4606039", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.770092280000028, 50.19918301000007 ], [ 23.76126028300007, 50.198969011000031 ], [ 23.764253282000027, 50.194710010000051 ], [ 23.771141280000052, 50.196707011000058 ], [ 23.770092280000028, 50.19918301000007 ] ] ] } }
-]
-}

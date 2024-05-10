@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.087751125005799999, "Shape_Area": 8.8877275265e-05, "ADM4_EN": "Hodyn", "ADM4_UA": "Годинь", "ADM4_PCODE": "UA0706031008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ratnivska", "ADM3_UA": "Ратнівська", "ADM3_PCODE": "UA0706031", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.386296165000033, 51.878203005000046 ], [ 24.383129432000032, 51.880045342000074 ], [ 24.381083166000053, 51.878080005000072 ], [ 24.382064166000077, 51.866309006000051 ], [ 24.385532165000029, 51.867723005000073 ], [ 24.387551166000037, 51.871416005000071 ], [ 24.386296165000033, 51.878203005000046 ] ] ] } }
-]
-}

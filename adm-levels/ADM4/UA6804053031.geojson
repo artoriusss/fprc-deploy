@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12036113780300001, "Shape_Area": 0.00027460769588999998, "ADM4_EN": "Tomashivka", "ADM4_UA": "Томашівка", "ADM4_PCODE": "UA6804053031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yarmolynetska", "ADM3_UA": "Ярмолинецька", "ADM3_PCODE": "UA6804053", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.810018, 49.163749 ], [ 26.819295, 49.159648 ], [ 26.820989, 49.16116 ], [ 26.829002001000049, 49.156927 ], [ 26.833878999000035, 49.159139 ], [ 26.83561, 49.155055 ], [ 26.842128, 49.151744 ], [ 26.848669999000037, 49.15067 ], [ 26.851114928000072, 49.158562438000047 ], [ 26.850927470000045, 49.161526775000027 ], [ 26.84705199900003, 49.161031 ], [ 26.833013, 49.163143 ], [ 26.827956, 49.162642 ], [ 26.824123, 49.164765 ], [ 26.817235, 49.166312 ], [ 26.811363, 49.165044 ], [ 26.810018, 49.163749 ] ] ] } }
-]
-}

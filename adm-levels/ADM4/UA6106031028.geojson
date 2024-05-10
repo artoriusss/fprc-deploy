@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060600129592099997, "Shape_Area": 0.000118281573081, "ADM4_EN": "Nyzkolyzy", "ADM4_UA": "Низьколизи", "ADM4_PCODE": "UA6106031028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Monastyryska", "ADM3_UA": "Монастириська", "ADM3_PCODE": "UA6106031", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.051815999000041, 49.028915 ], [ 25.041102246000037, 49.028016216000026 ], [ 25.038835, 49.026327 ], [ 25.034935408000024, 49.027730678000069 ], [ 25.032267001000037, 49.02556300100008 ], [ 25.036123501000077, 49.020113799000057 ], [ 25.040080387000046, 49.01846137900003 ], [ 25.047375411000075, 49.021243016000028 ], [ 25.046227247000047, 49.025729196000043 ], [ 25.052809, 49.025188 ], [ 25.051815999000041, 49.028915 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.058545658359199997, "Shape_Area": 9.0923149360099995e-05, "ADM4_EN": "Hetmantsi", "ADM4_UA": "Гетьманці", "ADM4_PCODE": "UA5114015006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stepanivska", "ADM3_UA": "Степанівська", "ADM3_PCODE": "UA5114015", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.010126, 46.913963 ], [ 29.999594, 46.914583 ], [ 29.999626, 46.912288 ], [ 30.005469, 46.911158 ], [ 30.0048, 46.907504 ], [ 29.999747, 46.907557 ], [ 29.999653999000031, 46.905411 ], [ 30.013053, 46.905205 ], [ 30.012352001000068, 46.913482 ], [ 30.010126, 46.913963 ] ] ] } }
-]
-}

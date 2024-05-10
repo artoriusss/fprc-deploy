@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.062924347568399999, "Shape_Area": 0.00016717740638200001, "ADM4_EN": "Luchky", "ADM4_UA": "Лучки", "ADM4_PCODE": "UA5308013034", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kobeliatska", "ADM3_UA": "Кобеляцька", "ADM3_PCODE": "UA5308013", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.112539, 48.993297 ], [ 34.112103, 48.999098 ], [ 34.09879, 48.999058 ], [ 34.100647, 48.985787 ], [ 34.10387, 48.987275 ], [ 34.110455001000048, 48.987992 ], [ 34.115624, 48.989705 ], [ 34.112539, 48.993297 ] ] ] } }
-]
-}

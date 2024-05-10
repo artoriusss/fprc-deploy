@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.032670366647699997, "Shape_Area": 2.4452752659500001e-05, "ADM4_EN": "Zernove", "ADM4_UA": "Зернове", "ADM4_PCODE": "UA2308031014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yakymivska", "ADM3_UA": "Якимівська", "ADM3_PCODE": "UA2308031", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "Мелітопольський", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.855076451000059, 46.57035337800005 ], [ 34.844077245000051, 46.570417493000036 ], [ 34.843799471000068, 46.568026639000038 ], [ 34.855360592000068, 46.56926685500008 ], [ 34.855076451000059, 46.57035337800005 ] ] ] } }
-]
-}

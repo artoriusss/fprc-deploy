@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.069968543999100005, "Shape_Area": 0.000239526123161, "ADM4_EN": "Melentsi", "ADM4_UA": "Меленці", "ADM4_PCODE": "UA1804029030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Liubarska", "ADM3_UA": "Любарська", "ADM3_PCODE": "UA1804029", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.909023040000079, 50.019995970000082 ], [ 27.907234920000064, 50.022024030000068 ], [ 27.898768079000035, 50.025412980000056 ], [ 27.8928, 50.02108596000005 ], [ 27.892871999000079, 50.013036990000046 ], [ 27.898338959000057, 50.010094980000076 ], [ 27.903543121000041, 50.012224020000076 ], [ 27.911531160000038, 50.010964020000074 ], [ 27.913758120000068, 50.016965040000059 ], [ 27.909023040000079, 50.019995970000082 ] ] ] } }
-]
-}

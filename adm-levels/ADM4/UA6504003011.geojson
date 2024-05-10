@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.087620119038400002, "Shape_Area": 0.00018020839381100001, "ADM4_EN": "Liubymivka", "ADM4_UA": "Любимівка", "ADM4_PCODE": "UA6504003011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivanivska", "ADM3_UA": "Іванівська", "ADM3_PCODE": "UA6504003", "ADM2_EN": "Henicheskyi", "ADM2_UA": "Генічеський", "ADM2_PCODE": "UA6504", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.539376, 46.561163 ], [ 34.533966, 46.559796 ], [ 34.516775001000042, 46.558171 ], [ 34.516256, 46.551897 ], [ 34.527047, 46.552872 ], [ 34.529175, 46.552121 ], [ 34.540455, 46.554928 ], [ 34.546271, 46.555186 ], [ 34.545001, 46.558464 ], [ 34.541488001000062, 46.558632 ], [ 34.539376, 46.561163 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.056138416070099999, "Shape_Area": 8.4909002402399998e-05, "ADM4_EN": "Vazluivka", "ADM4_UA": "Вазлуївка", "ADM4_PCODE": "UA0508001004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Babchynetska", "ADM3_UA": "Бабчинецька", "ADM3_PCODE": "UA0508001", "ADM2_EN": "Mohyliv-Podilskyi", "ADM2_UA": "Могилів-Подільський", "ADM2_PCODE": "UA0508", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.15382489700005, 48.464544098000033 ], [ 28.151074962000052, 48.472043098000029 ], [ 28.146461502000079, 48.472051500000077 ], [ 28.148372514000073, 48.467442231000064 ], [ 28.146947333000071, 48.461381729000038 ], [ 28.147330252000074, 48.458045385000048 ], [ 28.151602360000027, 48.458382144000041 ], [ 28.15382489700005, 48.464544098000033 ] ] ] } }
-]
-}

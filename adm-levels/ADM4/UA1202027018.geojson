@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10044650995399999, "Shape_Area": 0.00022848019068200001, "ADM4_EN": "Kalynivka", "ADM4_UA": "Калинівка", "ADM4_PCODE": "UA1202027018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Solonianska", "ADM3_UA": "Солонянська", "ADM3_PCODE": "UA1202027", "ADM2_EN": "Dniprovskyi", "ADM2_UA": "Дніпровський", "ADM2_PCODE": "UA1202", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.070189, 48.175363 ], [ 35.060252, 48.178262 ], [ 35.059636999000077, 48.176879 ], [ 35.062064, 48.167733 ], [ 35.057861, 48.165821 ], [ 35.08416, 48.168408 ], [ 35.091748, 48.163805 ], [ 35.088847, 48.169404 ], [ 35.083645, 48.174372 ], [ 35.080934, 48.172499 ], [ 35.070189, 48.175363 ] ] ] } }
-]
-}

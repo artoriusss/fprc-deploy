@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.083774395016700004, "Shape_Area": 0.000100409862485, "ADM4_EN": "Kyrylivka", "ADM4_UA": "Кирилівка", "ADM4_PCODE": "UA3506017005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pishchanobridska", "ADM3_UA": "Піщанобрідська", "ADM3_PCODE": "UA3506017", "ADM2_EN": "Novoukrainskyi", "ADM2_UA": "Новоукраїнський", "ADM2_PCODE": "UA3506", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 31.326607, 48.214511 ], [ 31.326823001000037, 48.22327 ], [ 31.322900999000069, 48.219487 ], [ 31.323437001000059, 48.208965001000081 ], [ 31.325398, 48.206532 ], [ 31.329082001000074, 48.207207 ], [ 31.32686, 48.210812 ], [ 31.326607, 48.214511 ] ] ], [ [ [ 31.330903, 48.201193 ], [ 31.328289, 48.202776500000027 ], [ 31.324425, 48.19993 ], [ 31.32581299900005, 48.196775 ], [ 31.328519, 48.196833 ], [ 31.330903, 48.201193 ] ] ] ] } }
-]
-}

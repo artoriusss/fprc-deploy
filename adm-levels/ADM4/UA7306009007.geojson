@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.080989960707600006, "Shape_Area": 0.000102890710533, "ADM4_EN": "Samushyn", "ADM4_UA": "Самушин", "ADM4_PCODE": "UA7306009007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Viknianska", "ADM3_UA": "Вікнянська", "ADM3_PCODE": "UA7306009", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.064623, 48.608316 ], [ 26.060794, 48.608106 ], [ 26.050972, 48.60058 ], [ 26.042733, 48.596801 ], [ 26.046369, 48.594383 ], [ 26.050086001000068, 48.597775 ], [ 26.054494, 48.599117 ], [ 26.062359999000023, 48.603912 ], [ 26.064623, 48.608316 ] ] ] } }
-]
-}

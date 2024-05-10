@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.063805209511200001, "Shape_Area": 0.00010717491450100001, "ADM4_EN": "Stasivshchyna", "ADM4_UA": "Стасівщина", "ADM4_PCODE": "UA7408007013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lynovytska", "ADM3_UA": "Линовицька", "ADM3_PCODE": "UA7408007", "ADM2_EN": "Prylutskyi", "ADM2_UA": "Прилуцький", "ADM2_PCODE": "UA7408", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.369690160000061, 50.488649010000074 ], [ 32.371143121000046, 50.495536080000079 ], [ 32.365806119000069, 50.492663010000058 ], [ 32.362920001000077, 50.48862795000008 ], [ 32.359484160000079, 50.49074808000006 ], [ 32.355466919000037, 50.486519970000074 ], [ 32.359425840000029, 50.485669020000046 ], [ 32.370055201000071, 50.480859960000032 ], [ 32.372917920000077, 50.482915020000064 ], [ 32.367196080000042, 50.48708004000008 ], [ 32.369690160000061, 50.488649010000074 ] ] ] } }
-]
-}

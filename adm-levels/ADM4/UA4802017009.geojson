@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10686507986300001, "Shape_Area": 0.00013253535956900001, "ADM4_EN": "Lukianivka", "ADM4_UA": "Лук'янівка", "ADM4_PCODE": "UA4802017009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pryvilnenska", "ADM3_UA": "Привільненська", "ADM3_PCODE": "UA4802017", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.139373952000028, 47.484425194000039 ], [ 32.13755057000003, 47.484292505000042 ], [ 32.131695121000064, 47.479583921000028 ], [ 32.13304983900008, 47.475120163000042 ], [ 32.135690275000059, 47.472498525000049 ], [ 32.138862309000046, 47.473843177000049 ], [ 32.141971051000041, 47.472617092000064 ], [ 32.143801540000027, 47.467966377000039 ], [ 32.146222886000032, 47.470150047000061 ], [ 32.141504305000069, 47.47864637400005 ], [ 32.139373952000028, 47.484425194000039 ] ] ] } }
-]
-}

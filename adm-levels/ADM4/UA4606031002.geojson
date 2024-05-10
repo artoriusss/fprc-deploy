@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.062736387255100001, "Shape_Area": 0.000104726143162, "ADM4_EN": "Dibrivky", "ADM4_UA": "Дібрівки", "ADM4_PCODE": "UA4606031002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Obroshynska", "ADM3_UA": "Оброшинська", "ADM3_PCODE": "UA4606031", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.825577261000035, 49.781718010000077 ], [ 23.818169264000062, 49.77693301000005 ], [ 23.818497262000051, 49.77347001000004 ], [ 23.816041262000056, 49.768756009000072 ], [ 23.820020262000071, 49.768150009000067 ], [ 23.823013261000028, 49.774359010000069 ], [ 23.830345259000069, 49.775295010000036 ], [ 23.825577261000035, 49.781718010000077 ] ] ] } }
-]
-}

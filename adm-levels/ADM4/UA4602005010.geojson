@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.034869183079500002, "Shape_Area": 4.0851063031599999e-05, "ADM4_EN": "Korosnytsia", "ADM4_UA": "Коросниця", "ADM4_PCODE": "UA4602005010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Medenytska", "ADM3_UA": "Меденицька", "ADM3_PCODE": "UA4602005", "ADM2_EN": "Drohobytskyi", "ADM2_UA": "Дрогобицький", "ADM2_PCODE": "UA4602", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.782201267000062, 49.407962010000062 ], [ 23.774692268000024, 49.407701010000039 ], [ 23.773242269000036, 49.404392010000038 ], [ 23.780824267000071, 49.403069010000081 ], [ 23.782201267000062, 49.407962010000062 ] ] ] } }
-]
-}

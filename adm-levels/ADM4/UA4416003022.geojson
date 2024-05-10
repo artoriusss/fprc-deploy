@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.047977846653199999, "Shape_Area": 5.4087917842599998e-05, "ADM4_EN": "Petrenkove", "ADM4_UA": "Петренкове", "ADM4_PCODE": "UA4416003022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoaidarska", "ADM3_UA": "Новоайдарська", "ADM3_PCODE": "UA4416003", "ADM2_EN": "Shchastynskyi", "ADM2_UA": "Щастинський", "ADM2_PCODE": "UA4416", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.880794999000045, 49.102739 ], [ 38.880282, 49.104492 ], [ 38.874616001000049, 49.106313 ], [ 38.878056001000061, 49.099715 ], [ 38.880794999000045, 49.102739 ] ] ] } }
-]
-}

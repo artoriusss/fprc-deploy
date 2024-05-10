@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10490122599600001, "Shape_Area": 9.3732276676400001e-05, "ADM4_EN": "Koriakivka", "ADM4_UA": "Коряківка", "ADM4_PCODE": "UA3202011007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Medvynska", "ADM3_UA": "Медвинська", "ADM3_PCODE": "UA3202011", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.91146432000005, 49.412093990000074 ], [ 30.905115056000056, 49.412036737000051 ], [ 30.901345417000073, 49.410666981000077 ], [ 30.905889769000055, 49.406261125000071 ], [ 30.910660335000046, 49.406764427000041 ], [ 30.911318888000039, 49.408805949000055 ], [ 30.924197120000031, 49.407631274000039 ], [ 30.921887426000069, 49.409942513000033 ], [ 30.91736749100005, 49.409228598000027 ], [ 30.91146432000005, 49.412093990000074 ] ] ] } }
-]
-}

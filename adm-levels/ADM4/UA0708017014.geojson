@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.066555438969699995, "Shape_Area": 6.7516192027699997e-05, "ADM4_EN": "Zabolottsi", "ADM4_UA": "Заболотці", "ADM4_PCODE": "UA0708017014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lutska", "ADM3_UA": "Луцька", "ADM3_PCODE": "UA0708017", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.11622107200003, 50.803130002000046 ], [ 25.11450207300004, 50.806412003000048 ], [ 25.103081072000066, 50.799060003000079 ], [ 25.102150073000075, 50.796515002000035 ], [ 25.096086074000027, 50.793250002000036 ], [ 25.097399075000055, 50.791758002000051 ], [ 25.104745073000061, 50.79529300300004 ], [ 25.105965074000039, 50.798225002000038 ], [ 25.111382072000026, 50.799915003000081 ], [ 25.11622107200003, 50.803130002000046 ] ] ] } }
-]
-}

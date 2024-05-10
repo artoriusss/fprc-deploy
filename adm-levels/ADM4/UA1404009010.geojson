@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.062263999908499998, "Shape_Area": 9.5324568882600001e-05, "ADM4_EN": "Staromarivka", "ADM4_UA": "Старомар'ївка", "ADM4_PCODE": "UA1404009010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myrnenska", "ADM3_UA": "Мирненська", "ADM3_PCODE": "UA1404009", "ADM2_EN": "Volnovaskyi", "ADM2_UA": "Волноваський", "ADM2_PCODE": "UA1404", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.870325999000045, 47.443451 ], [ 37.871839999000031, 47.447352 ], [ 37.86739299900006, 47.448224 ], [ 37.867666999000051, 47.442032 ], [ 37.870469999000079, 47.437148 ], [ 37.868637, 47.433367 ], [ 37.874881999000024, 47.432467 ], [ 37.878794999000036, 47.433231 ], [ 37.88074799900005, 47.43625 ], [ 37.878666999000075, 47.438313 ], [ 37.873433999000042, 47.438155 ], [ 37.871177999000054, 47.439536 ], [ 37.870325999000045, 47.443451 ] ] ] } }
-]
-}

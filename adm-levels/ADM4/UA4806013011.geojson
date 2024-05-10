@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.039111966643700001, "Shape_Area": 4.3100847547899997e-05, "ADM4_EN": "Chervone Parutyne", "ADM4_UA": "Червоне Парутине", "ADM4_PCODE": "UA4806013011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kutsurubska", "ADM3_UA": "Куцурубська", "ADM3_PCODE": "UA4806013", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.828959033000046, 46.741017691000081 ], [ 31.824481965000075, 46.741519209000046 ], [ 31.825747328000034, 46.736658931000079 ], [ 31.825347863000047, 46.730466853000053 ], [ 31.830207580000035, 46.730960108000033 ], [ 31.828712362000033, 46.736421559000064 ], [ 31.828959033000046, 46.741017691000081 ] ] ] } }
-]
-}

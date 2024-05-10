@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.121113250613, "Shape_Area": 0.000190649740767, "ADM4_EN": "Chyzhykiv", "ADM4_UA": "Чижиків", "ADM4_PCODE": "UA4606035010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pidberiztsivska", "ADM3_UA": "Підберізцівська", "ADM3_PCODE": "UA4606035", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.26785916800003, 49.792779006000046 ], [ 24.253780171000074, 49.791772006000031 ], [ 24.248242172000062, 49.791993006000041 ], [ 24.248232173000076, 49.789790006000032 ], [ 24.237057174000029, 49.790044006000073 ], [ 24.239840173000061, 49.786769006000043 ], [ 24.244782172000043, 49.784688007000057 ], [ 24.257019169000046, 49.78267900600008 ], [ 24.258435170000041, 49.785895006000032 ], [ 24.257191170000056, 49.78922000600005 ], [ 24.26785916800003, 49.792779006000046 ] ] ] } }
-]
-}

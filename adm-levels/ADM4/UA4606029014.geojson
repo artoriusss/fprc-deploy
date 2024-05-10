@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.046439276882800001, "Shape_Area": 5.8940914483000001e-05, "ADM4_EN": "Sokoliv", "ADM4_UA": "Соколів", "ADM4_PCODE": "UA4606029014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoiarychivska", "ADM3_UA": "Новояричівська", "ADM3_PCODE": "UA4606029", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.380334151000056, 49.981277005000038 ], [ 24.373230153000065, 49.981404005000059 ], [ 24.374300153000036, 49.97770700500007 ], [ 24.379899152000064, 49.978489005000029 ], [ 24.382410150000055, 49.975264005000042 ], [ 24.387236151000025, 49.980582006000077 ], [ 24.380334151000056, 49.981277005000038 ] ] ] } }
-]
-}

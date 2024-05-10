@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060291850592700001, "Shape_Area": 0.00011516342345099999, "ADM4_EN": "Rozdol", "ADM4_UA": "Роздол", "ADM4_PCODE": "UA5102003019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezivska", "ADM3_UA": "Березівська", "ADM3_PCODE": "UA5102003", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.915246061000062, 47.216155725000078 ], [ 30.917547001000059, 47.219482 ], [ 30.917925001000071, 47.227228 ], [ 30.920777001000033, 47.228613 ], [ 30.921569, 47.237277 ], [ 30.916455, 47.234914 ], [ 30.914478, 47.22965600100008 ], [ 30.912048, 47.227672 ], [ 30.910682, 47.217788 ], [ 30.914547321000043, 47.216093077000039 ], [ 30.915246061000062, 47.216155725000078 ] ] ] } }
-]
-}

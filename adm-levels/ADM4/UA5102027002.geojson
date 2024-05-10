@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.056667386195299999, "Shape_Area": 9.5246525885000005e-05, "ADM4_EN": "Biriukove", "ADM4_UA": "Бірюкове", "ADM4_PCODE": "UA5102027002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Striukivska", "ADM3_UA": "Стрюківська", "ADM3_PCODE": "UA5102027", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.426305, 47.316442 ], [ 30.423662, 47.319453 ], [ 30.420188001000042, 47.316334 ], [ 30.422442, 47.313147 ], [ 30.422607999000036, 47.307233 ], [ 30.42816300100003, 47.308256 ], [ 30.429391, 47.306733 ], [ 30.434511999000051, 47.309149 ], [ 30.435677001000045, 47.311368 ], [ 30.428008, 47.311988 ], [ 30.426305, 47.316442 ] ] ] } }
-]
-}

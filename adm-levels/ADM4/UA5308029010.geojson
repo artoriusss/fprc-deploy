@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.112646945112, "Shape_Area": 0.000336507605585, "ADM4_EN": "Shediieve", "ADM4_UA": "Шедієве", "ADM4_PCODE": "UA5308029010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nekhvoroshchanska", "ADM3_UA": "Нехворощанська", "ADM3_PCODE": "UA5308029", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.623693999000068, 49.140995 ], [ 34.621331, 49.145789 ], [ 34.596946, 49.13494 ], [ 34.589708, 49.132999 ], [ 34.592928, 49.126836 ], [ 34.588189125000042, 49.122158070000069 ], [ 34.590086451000047, 49.117270303000055 ], [ 34.604829, 49.124448 ], [ 34.612281, 49.131626 ], [ 34.608136, 49.133265 ], [ 34.618238, 49.140279 ], [ 34.623693999000068, 49.140995 ] ] ] } }
-]
-}

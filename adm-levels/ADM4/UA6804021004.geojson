@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0820611421092, "Shape_Area": 0.00011829586348800001, "ADM4_EN": "Veremiivka", "ADM4_UA": "Вереміївка", "ADM4_PCODE": "UA6804021004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasylivska", "ADM3_UA": "Красилівська", "ADM3_PCODE": "UA6804021", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.006953, 49.571843 ], [ 27.000467, 49.573525 ], [ 26.993607, 49.57053 ], [ 26.992181001000063, 49.571416 ], [ 26.983699, 49.571453 ], [ 26.984562, 49.568434 ], [ 26.997160999000073, 49.568531 ], [ 26.998692, 49.569409 ], [ 27.006058, 49.564059 ], [ 27.011487001000035, 49.564312 ], [ 27.011431, 49.568152 ], [ 27.006908999000075, 49.568326 ], [ 27.006953, 49.571843 ] ] ] } }
-]
-}

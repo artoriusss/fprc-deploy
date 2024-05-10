@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11059304180600001, "Shape_Area": 0.00021525384957400001, "ADM4_EN": "Martynivka", "ADM4_UA": "Мартинівка", "ADM4_PCODE": "UA6804041011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Staroostropilska", "ADM3_UA": "Староостропільська", "ADM3_PCODE": "UA6804041", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.509992, 49.877509 ], [ 27.508464999000068, 49.873848 ], [ 27.505067, 49.873866 ], [ 27.497758999000041, 49.869909 ], [ 27.50244, 49.86893 ], [ 27.501941, 49.866521 ], [ 27.507931, 49.865961 ], [ 27.508036999000069, 49.863068 ], [ 27.514432999000064, 49.863079 ], [ 27.517061, 49.865234 ], [ 27.521874001000072, 49.863907 ], [ 27.530113, 49.863465 ], [ 27.530788, 49.866011 ], [ 27.522866, 49.86693 ], [ 27.520410001000073, 49.871562 ], [ 27.51611, 49.873459 ], [ 27.51525, 49.876445 ], [ 27.509992, 49.877509 ] ] ] } }
-]
-}

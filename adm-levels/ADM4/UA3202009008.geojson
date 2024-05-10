@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.082134657596200006, "Shape_Area": 0.00015605774239600001, "ADM4_EN": "Mezhove", "ADM4_UA": "Межове", "ADM4_PCODE": "UA3202009008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Malovilshanska", "ADM3_UA": "Маловільшанська", "ADM3_PCODE": "UA3202009", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.095102005000058, 49.598196628000039 ], [ 30.100491147000071, 49.598891757000047 ], [ 30.10852012600003, 49.610638757000061 ], [ 30.113555099000052, 49.614723748000074 ], [ 30.112528092000048, 49.61774977400006 ], [ 30.106489101000079, 49.611404783000069 ], [ 30.099931109000067, 49.614359758000035 ], [ 30.090922633000048, 49.599700146000032 ], [ 30.092397024000036, 49.599134706000029 ], [ 30.095102005000058, 49.598196628000039 ] ] ] } }
-]
-}

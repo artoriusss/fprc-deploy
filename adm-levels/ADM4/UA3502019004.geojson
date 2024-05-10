@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.044397921292099997, "Shape_Area": 5.6547700823399997e-05, "ADM4_EN": "Lypniahy", "ADM4_UA": "Липняги", "ADM4_PCODE": "UA3502019004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pobuzka", "ADM3_UA": "Побузька", "ADM3_PCODE": "UA3502019", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "Голованівський", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.548115, 48.220738 ], [ 30.54575, 48.228012 ], [ 30.548333, 48.233248 ], [ 30.548035, 48.236192 ], [ 30.54221, 48.237235 ], [ 30.543094999000061, 48.233573 ], [ 30.541802001000065, 48.230386 ], [ 30.545144999000058, 48.221071 ], [ 30.548115, 48.220738 ] ] ] } }
-]
-}

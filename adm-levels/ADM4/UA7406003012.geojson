@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.035693342595600003, "Shape_Area": 4.4430370796499997e-05, "ADM4_EN": "Velykyi Hai", "ADM4_UA": "Великий Гай", "ADM4_PCODE": "UA7406003012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novhorod-Siverska", "ADM3_UA": "Новгород-Сіверська", "ADM3_PCODE": "UA7406003", "ADM2_EN": "Novhorod-Siverskyi", "ADM2_UA": "Новгород-Сіверський", "ADM2_PCODE": "UA7406", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.123556800000074, 52.257238020000045 ], [ 33.122642039000027, 52.25991201000005 ], [ 33.112127160000057, 52.25914602000006 ], [ 33.111556919000066, 52.256316960000049 ], [ 33.120118079000065, 52.255013040000051 ], [ 33.123556800000074, 52.257238020000045 ] ] ] } }
-]
-}

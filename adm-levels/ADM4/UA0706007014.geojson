@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.046279724792000002, "Shape_Area": 5.9187658758500001e-05, "ADM4_EN": "Marianivka", "ADM4_UA": "Мар'янівка", "ADM4_PCODE": "UA0706007014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Holobska", "ADM3_UA": "Голобська", "ADM3_PCODE": "UA0706007", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.976040086000069, 51.204646002000061 ], [ 24.973590087000048, 51.201909003000026 ], [ 24.976814086000047, 51.198895002000029 ], [ 24.981694084000026, 51.198965003000069 ], [ 24.98715108500005, 51.200975003000053 ], [ 24.982943085000045, 51.203287003000071 ], [ 24.976040086000069, 51.204646002000061 ] ] ] } }
-]
-}

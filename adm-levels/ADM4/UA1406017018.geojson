@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0114429016724, "Shape_Area": 6.4991586982100001e-06, "ADM4_EN": "Kyshchenko", "ADM4_UA": "Кищенко", "ADM4_PCODE": "UA1406017018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shakhtarska", "ADM3_UA": "Шахтарська", "ADM3_PCODE": "UA1406017", "ADM2_EN": "Horlivskyi", "ADM2_UA": "Горлівський", "ADM2_PCODE": "UA1406", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.470290747000035, 48.092839914000081 ], [ 38.466863998000065, 48.093852 ], [ 38.466085157000066, 48.091806250000047 ], [ 38.469019393000053, 48.091553776000069 ], [ 38.470290747000035, 48.092839914000081 ] ] ] } }
-]
-}

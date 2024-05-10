@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.044448140470499997, "Shape_Area": 4.6640638032899999e-05, "ADM4_EN": "Kryvytsia", "ADM4_UA": "Кривиця", "ADM4_PCODE": "UA5608007018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dubrovytska", "ADM3_UA": "Дубровицька", "ADM3_PCODE": "UA5608007", "ADM2_EN": "Sarnenskyi", "ADM2_UA": "Сарненський", "ADM2_PCODE": "UA5608", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.378953920000072, 51.562200060000066 ], [ 26.37621, 51.561126 ], [ 26.385999119000076, 51.554531070000053 ], [ 26.39022587900007, 51.55280397000007 ], [ 26.391852, 51.554070990000071 ], [ 26.386382160000039, 51.558599970000046 ], [ 26.384689080000044, 51.55815294000007 ], [ 26.378953920000072, 51.562200060000066 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0820632284405, "Shape_Area": 0.00027308705116699998, "ADM4_EN": "Klymkivka", "ADM4_UA": "Климківка", "ADM4_PCODE": "UA5308005023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dykanska", "ADM3_UA": "Диканська", "ADM3_PCODE": "UA5308005", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.218434, 49.749786 ], [ 34.216293, 49.755052 ], [ 34.213373, 49.75375 ], [ 34.210804999000061, 49.758811 ], [ 34.213520001000063, 49.762109 ], [ 34.213214999000058, 49.76597 ], [ 34.207023, 49.765979 ], [ 34.206561, 49.764247 ], [ 34.200269, 49.762765 ], [ 34.197691, 49.7603 ], [ 34.196532001000037, 49.752382 ], [ 34.200992001000031, 49.751718 ], [ 34.204317, 49.749544 ], [ 34.206063, 49.746037 ], [ 34.209888, 49.747118 ], [ 34.213384, 49.745736 ], [ 34.218434, 49.749786 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.042738210729399997, "Shape_Area": 5.6399674490100003e-05, "ADM4_EN": "Divotske", "ADM4_UA": "Дівоцьке", "ADM4_PCODE": "UA5114001012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykomykhailivska", "ADM3_UA": "Великомихайлівська", "ADM3_PCODE": "UA5114001", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.700411999000039, 47.086994 ], [ 29.695121001000075, 47.092833 ], [ 29.692353999000034, 47.091607 ], [ 29.70252, 47.080409 ], [ 29.705352, 47.081804 ], [ 29.700411999000039, 47.086994 ] ] ] } }
-]
-}

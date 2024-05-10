@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.180846566402, "Shape_Area": 0.00035149902768499998, "ADM4_EN": "Babyn", "ADM4_UA": "Бабин", "ADM4_PCODE": "UA2610001002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kosivska", "ADM3_UA": "Косівська", "ADM3_PCODE": "UA2610001", "ADM2_EN": "Kosivskyi", "ADM2_UA": "Косівський", "ADM2_PCODE": "UA2610", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.038222, 48.285846 ], [ 25.033436001000041, 48.284161 ], [ 25.029124, 48.286081 ], [ 25.022487, 48.284726 ], [ 25.022283001000062, 48.28031 ], [ 25.030036, 48.276898 ], [ 25.022873, 48.273368 ], [ 25.024757, 48.271103 ], [ 25.034428260000027, 48.263451068000052 ], [ 25.038956001000031, 48.266058 ], [ 25.041957001000071, 48.269886 ], [ 25.040149, 48.27157 ], [ 25.040315001000067, 48.27684 ], [ 25.043298, 48.282061 ], [ 25.038222, 48.285846 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.093062715305299998, "Shape_Area": 0.00014207407993100001, "ADM4_EN": "Kanuny", "ADM4_UA": "Кануни", "ADM4_PCODE": "UA1808019004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stryivska", "ADM3_UA": "Стриївська", "ADM3_PCODE": "UA1808019", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.647484840000061, 50.518146960000081 ], [ 27.643002120000062, 50.516337960000044 ], [ 27.638511840000035, 50.518143 ], [ 27.632971080000061, 50.514618960000064 ], [ 27.639810001000058, 50.509883970000033 ], [ 27.63924516000003, 50.505721020000067 ], [ 27.645900119000032, 50.506340040000055 ], [ 27.645985081000049, 50.510080980000055 ], [ 27.651894120000065, 50.515417980000052 ], [ 27.647484840000061, 50.518146960000081 ] ] ] } }
-]
-}

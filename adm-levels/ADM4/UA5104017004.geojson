@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060243249013099999, "Shape_Area": 0.000153919639127, "ADM4_EN": "Moldove", "ADM4_UA": "Молдове", "ADM4_PCODE": "UA5104017004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Plakhtiivska", "ADM3_UA": "Плахтіївська", "ADM3_PCODE": "UA5104017", "ADM2_EN": "Bilhorod-Dnistrovskyi", "ADM2_UA": "Білгород-Дністровський", "ADM2_PCODE": "UA5104", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.647492, 46.219612 ], [ 29.646973, 46.21804 ], [ 29.648645, 46.20927 ], [ 29.661426, 46.211132 ], [ 29.663055, 46.217512 ], [ 29.660133, 46.221052 ], [ 29.647492, 46.219612 ] ] ] } }
-]
-}

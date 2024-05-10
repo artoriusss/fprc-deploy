@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.064605662633899996, "Shape_Area": 0.000108328330261, "ADM4_EN": "Sarnivka", "ADM4_UA": "Сарнівка", "ADM4_PCODE": "UA0708027017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Torchynska", "ADM3_UA": "Торчинська", "ADM3_PCODE": "UA0708027", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.958758087000035, 50.75297000200004 ], [ 24.952166086000034, 50.752017002000059 ], [ 24.955739086000051, 50.746714003000079 ], [ 24.970538085000044, 50.746438002000048 ], [ 24.972123085000078, 50.750424003000035 ], [ 24.963763087000075, 50.751081002000035 ], [ 24.958758087000035, 50.75297000200004 ] ] ] } }
-]
-}

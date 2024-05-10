@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.15950731210300001, "Shape_Area": 0.00021000292058500001, "ADM4_EN": "Kalynivka", "ADM4_UA": "Калинівка", "ADM4_PCODE": "UA5308025009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mashivska", "ADM3_UA": "Машівська", "ADM3_PCODE": "UA5308025", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.962341754000079, 49.433663250000052 ], [ 34.953745, 49.434253 ], [ 34.952, 49.432119 ], [ 34.941729, 49.434524 ], [ 34.942184001000044, 49.432492 ], [ 34.947157, 49.429881 ], [ 34.955289, 49.42764 ], [ 34.96094, 49.427873 ], [ 34.975127999000051, 49.425607 ], [ 34.981847999000024, 49.423244 ], [ 34.98523, 49.42909 ], [ 34.9772, 49.431078 ], [ 34.96209500100008, 49.432872 ], [ 34.962341754000079, 49.433663250000052 ] ] ] } }
-]
-}

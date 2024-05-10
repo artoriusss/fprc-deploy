@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13913690408900001, "Shape_Area": 0.000133778178338, "ADM4_EN": "Hrabovets", "ADM4_UA": "Грабовець", "ADM4_PCODE": "UA0510001008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bratslavska", "ADM3_UA": "Брацлавська", "ADM3_PCODE": "UA0510001", "ADM2_EN": "Tulchynskyi", "ADM2_UA": "Тульчинський", "ADM2_PCODE": "UA0510", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.994364999000027, 48.823905 ], [ 28.998353, 48.826338999000029 ], [ 28.981021, 48.823693 ], [ 28.985154, 48.822576 ], [ 28.990330001000075, 48.823347 ], [ 29.007595999000046, 48.817875 ], [ 29.013535999000055, 48.817329 ], [ 29.014944, 48.819522 ], [ 29.008029, 48.821774 ], [ 29.007965, 48.819841 ], [ 28.994364999000027, 48.823905 ] ] ] } }
-]
-}

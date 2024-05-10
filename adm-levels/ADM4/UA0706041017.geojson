@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.069518184670300007, "Shape_Area": 6.1100029285999997e-05, "ADM4_EN": "Cheremshanka", "ADM4_UA": "Черемшанка", "ADM4_PCODE": "UA0706041017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starovyzhivska", "ADM3_UA": "Старовижівська", "ADM3_PCODE": "UA0706041", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 24.497416145000045, 51.439257004000069 ], [ 24.495227146000047, 51.434958005000055 ], [ 24.506127144000061, 51.435335004000081 ], [ 24.497416145000045, 51.439257004000069 ] ] ], [ [ [ 24.508364143000051, 51.434683005000068 ], [ 24.506381144000045, 51.437628005000079 ], [ 24.506337143000053, 51.441772004000029 ], [ 24.500758143000041, 51.439252004000082 ], [ 24.508364143000051, 51.434683005000068 ] ] ] ] } }
-]
-}

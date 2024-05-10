@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.061769227297400003, "Shape_Area": 6.0406570236900001e-05, "ADM4_EN": "Sytnyky", "ADM4_UA": "Ситники", "ADM4_PCODE": "UA5908011095", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lebedynska", "ADM3_UA": "Лебединська", "ADM3_PCODE": "UA5908011", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.739131593000025, 50.620169387000033 ], [ 34.733167, 50.618232 ], [ 34.735787, 50.613915 ], [ 34.735335, 50.61038 ], [ 34.740622001000077, 50.608054 ], [ 34.746548, 50.612461 ], [ 34.735977999000056, 50.614656 ], [ 34.739308, 50.617739 ], [ 34.739131593000025, 50.620169387000033 ] ] ] } }
-]
-}

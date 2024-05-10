@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.052084682897899998, "Shape_Area": 0.000116061258212, "ADM4_EN": "Iordanivka", "ADM4_UA": "Іорданівка", "ADM4_PCODE": "UA4614009014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shehynivska", "ADM3_UA": "Шегинівська", "ADM3_PCODE": "UA4614009", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.031641541000056, 49.681945021000047 ], [ 23.029489542000078, 49.679602021000051 ], [ 23.027278542000033, 49.673189021000042 ], [ 23.032060540000032, 49.670864021000057 ], [ 23.045198534000065, 49.678339021000056 ], [ 23.044669535000025, 49.681048021000038 ], [ 23.032267540000078, 49.680684021000047 ], [ 23.031641541000056, 49.681945021000047 ] ] ] } }
-]
-}

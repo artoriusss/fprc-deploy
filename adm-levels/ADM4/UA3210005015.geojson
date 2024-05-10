@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.173869893483, "Shape_Area": 0.000183654648497, "ADM4_EN": "Zherevpillia", "ADM4_UA": "Жеревпілля", "ADM4_PCODE": "UA3210005015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivankivska", "ADM3_UA": "Іванківська", "ADM3_PCODE": "UA3210005", "ADM2_EN": "Vyshhorodskyi", "ADM2_UA": "Вишгородський", "ADM2_PCODE": "UA3210", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.639856709000071, 50.919812688000036 ], [ 29.637334594000038, 50.922075679000045 ], [ 29.633133711000028, 50.919697599000074 ], [ 29.632805659000041, 50.91642065800005 ], [ 29.644806689000063, 50.914544612000043 ], [ 29.671865608000076, 50.908131662000073 ], [ 29.673213626000063, 50.909136713000066 ], [ 29.656075631000078, 50.915497651000067 ], [ 29.654180592000046, 50.91752066500004 ], [ 29.643020627000055, 50.918407627000079 ], [ 29.639856709000071, 50.919812688000036 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.066930603246100007, "Shape_Area": 7.8713104842099998e-05, "ADM4_EN": "Holovanivka", "ADM4_UA": "Голованівка", "ADM4_PCODE": "UA0104035003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krynychnenska", "ADM3_UA": "Криничненська", "ADM3_PCODE": "UA0104035", "ADM2_EN": "Bilohirskyi", "ADM2_UA": "Білогірський", "ADM2_PCODE": "UA0104", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.624762999000041, 44.980748 ], [ 34.623843, 44.973257 ], [ 34.627565, 44.976026 ], [ 34.630715, 44.97546 ], [ 34.628972001000079, 44.971249 ], [ 34.633649001000038, 44.970973 ], [ 34.637542, 44.973485 ], [ 34.633678, 44.979517 ], [ 34.63205692300005, 44.97808430200007 ], [ 34.624762999000041, 44.980748 ] ] ] } }
-]
-}

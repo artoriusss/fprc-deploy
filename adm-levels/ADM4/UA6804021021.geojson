@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.101733783284, "Shape_Area": 0.000190412170651, "ADM4_EN": "Monky", "ADM4_UA": "Моньки", "ADM4_PCODE": "UA6804021021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasylivska", "ADM3_UA": "Красилівська", "ADM3_PCODE": "UA6804021", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.799096, 49.694631 ], [ 26.798907, 49.691139 ], [ 26.793455001000041, 49.686798 ], [ 26.798750999000049, 49.684673 ], [ 26.804104, 49.680018 ], [ 26.803425, 49.678033 ], [ 26.81284, 49.675434 ], [ 26.823429, 49.674187 ], [ 26.824406999000075, 49.676022 ], [ 26.813843, 49.678467 ], [ 26.80603, 49.686823 ], [ 26.803902999000059, 49.690982 ], [ 26.799096, 49.694631 ] ] ] } }
-]
-}

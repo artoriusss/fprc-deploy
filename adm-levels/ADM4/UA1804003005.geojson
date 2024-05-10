@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.042735432927600001, "Shape_Area": 3.4176642640600002e-05, "ADM4_EN": "Bondartsi", "ADM4_UA": "Бондарці", "ADM4_PCODE": "UA1804003005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezivska", "ADM3_UA": "Березівська", "ADM3_PCODE": "UA1804003", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.485655920000056, 50.286869010000032 ], [ 28.476942865000069, 50.287311675000069 ], [ 28.473214604000077, 50.285284140000044 ], [ 28.472440084000027, 50.282086742000047 ], [ 28.476191952000079, 50.280456685000047 ], [ 28.478947335000043, 50.286900775000049 ], [ 28.485655920000056, 50.286869010000032 ] ] ] } }
-]
-}

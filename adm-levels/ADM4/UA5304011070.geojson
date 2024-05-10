@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.048061533064299999, "Shape_Area": 8.3851343149599997e-05, "ADM4_EN": "Prystan", "ADM4_UA": "Пристань", "ADM4_PCODE": "UA5304011070", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khorolska", "ADM3_UA": "Хорольська", "ADM3_PCODE": "UA5304011", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.336323999000058, 49.792998 ], [ 33.338597001000039, 49.79953 ], [ 33.334125, 49.800656 ], [ 33.336918, 49.804907 ], [ 33.334547001000033, 49.805913 ], [ 33.331651, 49.799768 ], [ 33.327457, 49.79386 ], [ 33.332229, 49.791632 ], [ 33.336323999000058, 49.792998 ] ] ] } }
-]
-}

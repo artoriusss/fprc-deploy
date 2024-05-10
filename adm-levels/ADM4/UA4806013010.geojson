@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.061790311490300003, "Shape_Area": 9.6923998706299999e-05, "ADM4_EN": "Solonchaky", "ADM4_UA": "Солончаки", "ADM4_PCODE": "UA4806013010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kutsurubska", "ADM3_UA": "Куцурубська", "ADM3_PCODE": "UA4806013", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.820643094000047, 46.649923536000074 ], [ 31.813815034000072, 46.648267765000071 ], [ 31.810374100000047, 46.640634609000074 ], [ 31.821665879000079, 46.641979630000037 ], [ 31.825405107000051, 46.643574698000066 ], [ 31.820643094000047, 46.649923536000074 ] ] ] } }
-]
-}

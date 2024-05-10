@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.035909153418200002, "Shape_Area": 5.3961908200099998e-05, "ADM4_EN": "Velyke Peredmistia", "ADM4_UA": "Велике Передмістя", "ADM4_PCODE": "UA4606011009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dobrosynsko-Maherivska", "ADM3_UA": "Добросинсько-Магерівська", "ADM3_PCODE": "UA4606011", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.736421288000031, 50.097900011000036 ], [ 23.731158289000064, 50.098306011000034 ], [ 23.727792290000025, 50.100096011000062 ], [ 23.723022291000063, 50.097660011000073 ], [ 23.722881291000078, 50.093431011000064 ], [ 23.730892290000043, 50.093788010000026 ], [ 23.732437289000075, 50.097483011000065 ], [ 23.736421288000031, 50.097900011000036 ] ] ] } }
-]
-}

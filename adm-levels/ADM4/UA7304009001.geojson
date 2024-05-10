@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.120009998109, "Shape_Area": 0.00026002397027200002, "ADM4_EN": "Mamalyha", "ADM4_UA": "Мамалига", "ADM4_PCODE": "UA7304009001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mamalyhivska", "ADM3_UA": "Мамалигівська", "ADM3_PCODE": "UA7304009", "ADM2_EN": "Dnistrovskyi", "ADM2_UA": "Дністровський", "ADM2_PCODE": "UA7304", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.588796, 48.255703 ], [ 26.602427, 48.258749 ], [ 26.600035999000056, 48.261513 ], [ 26.594361999000057, 48.260871 ], [ 26.59037, 48.265422 ], [ 26.576655, 48.260867 ], [ 26.573641001000055, 48.256227 ], [ 26.564221, 48.252539 ], [ 26.558867001000067, 48.253267 ], [ 26.553614, 48.255584 ], [ 26.553676, 48.252185 ], [ 26.556850601000065, 48.248570270000073 ], [ 26.588796, 48.255703 ] ] ] } }
-]
-}

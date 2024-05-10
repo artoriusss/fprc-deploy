@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.082011431456600004, "Shape_Area": 0.00032529764189399997, "ADM4_EN": "Novovolodymyrivka", "ADM4_UA": "Нововолодимирівка", "ADM4_PCODE": "UA6508005005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dolmativska", "ADM3_UA": "Долматівська", "ADM3_PCODE": "UA6508005", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Скадовський", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.407284, 46.245246 ], [ 32.40475, 46.247328 ], [ 32.407431999000039, 46.251998 ], [ 32.405117, 46.256213 ], [ 32.383057, 46.250849 ], [ 32.382137001000046, 46.247962 ], [ 32.385032, 46.237553 ], [ 32.404909, 46.24266 ], [ 32.407284, 46.245246 ] ] ] } }
-]
-}

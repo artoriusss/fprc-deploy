@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.051478806118500003, "Shape_Area": 0.000134931130272, "ADM4_EN": "Velyka Shkarivka", "ADM4_UA": "Велика Шкарівка", "ADM4_PCODE": "UA6806007002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hrytsivska", "ADM3_UA": "Грицівська", "ADM3_PCODE": "UA6806007", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.233713001000069, 49.932149 ], [ 27.227626, 49.932272 ], [ 27.217707, 49.926645 ], [ 27.220292999000037, 49.923169 ], [ 27.226942, 49.920298 ], [ 27.236246, 49.927407 ], [ 27.233713001000069, 49.932149 ] ] ] } }
-]
-}

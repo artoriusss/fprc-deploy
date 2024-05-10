@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10742729456900001, "Shape_Area": 0.00019198767776, "ADM4_EN": "Kamianka", "ADM4_UA": "Кам'янка", "ADM4_PCODE": "UA1406001012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vuhlehirska", "ADM3_UA": "Вуглегірська", "ADM3_PCODE": "UA1406001", "ADM2_EN": "Horlivskyi", "ADM2_UA": "Горлівський", "ADM2_PCODE": "UA1406", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.491082997000035, 48.257141 ], [ 38.485320997000031, 48.256655 ], [ 38.480120997000029, 48.254258 ], [ 38.479273997000064, 48.244552 ], [ 38.479143997000051, 48.234578 ], [ 38.481695997000031, 48.23247 ], [ 38.486411997000062, 48.232603 ], [ 38.486850998000079, 48.241182 ], [ 38.482628998000052, 48.240167 ], [ 38.48333199700005, 48.245472 ], [ 38.486060997000038, 48.244147 ], [ 38.487755997000079, 48.247374 ], [ 38.486815997000065, 48.253744 ], [ 38.491082997000035, 48.257141 ] ] ] } }
-]
-}

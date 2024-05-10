@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11142488841500001, "Shape_Area": 0.00016765327556600001, "ADM4_EN": "Mala Kindrativka", "ADM4_UA": "Мала Кіндратівка", "ADM4_PCODE": "UA5112011028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kuialnytska", "ADM3_UA": "Куяльницька", "ADM3_PCODE": "UA5112011", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.718536, 47.595713 ], [ 29.717288, 47.590917 ], [ 29.722070001000077, 47.592273 ], [ 29.732174001000033, 47.584286 ], [ 29.739033, 47.585514 ], [ 29.734539, 47.588413 ], [ 29.7326, 47.592555 ], [ 29.730258001000038, 47.592831 ], [ 29.728499001000046, 47.59663 ], [ 29.724849, 47.599286 ], [ 29.721202, 47.598428 ], [ 29.718536, 47.595713 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060927593877699998, "Shape_Area": 5.3414311424400001e-05, "ADM4_EN": "Makhovyk", "ADM4_UA": "Маховик", "ADM4_PCODE": "UA6306007017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Natalynska", "ADM3_UA": "Наталинська", "ADM3_PCODE": "UA6306007", "ADM2_EN": "Krasnohradskyi", "ADM2_UA": "Красноградський", "ADM2_PCODE": "UA6306", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.550503001000038, 49.391617 ], [ 35.545530001000031, 49.39149 ], [ 35.541792, 49.38268 ], [ 35.544702, 49.381637 ], [ 35.548164, 49.390514 ], [ 35.550503001000038, 49.391617 ] ] ] } }
-]
-}

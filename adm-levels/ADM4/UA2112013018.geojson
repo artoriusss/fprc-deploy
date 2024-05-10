@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.039738963338300001, "Shape_Area": 5.3303141247999998e-05, "ADM4_EN": "Smolohovytsia", "ADM4_UA": "Смологовиця", "ADM4_PCODE": "UA2112013018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Irshavska", "ADM3_UA": "Іршавська", "ADM3_PCODE": "UA2112013", "ADM2_EN": "Khustskyi", "ADM2_UA": "Хустський", "ADM2_PCODE": "UA2112", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.011140518000047, 48.437081022000029 ], [ 22.997739523000064, 48.428475021000054 ], [ 23.000283522000075, 48.426600022000059 ], [ 23.011606517000075, 48.433769022000035 ], [ 23.011140518000047, 48.437081022000029 ] ] ] } }
-]
-}

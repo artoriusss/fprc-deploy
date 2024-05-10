@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060349756620099997, "Shape_Area": 6.4024016969800005e-05, "ADM4_EN": "Chekhivtsi", "ADM4_UA": "Чехівці", "ADM4_PCODE": "UA1804043034", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pulynska", "ADM3_UA": "Пулинська", "ADM3_PCODE": "UA1804043", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.248615, 50.355141031000073 ], [ 28.245718080000074, 50.351180040000031 ], [ 28.236165839000023, 50.351389019000067 ], [ 28.235098080000057, 50.349831030000075 ], [ 28.245733920000077, 50.346888030000059 ], [ 28.246820041000035, 50.349276 ], [ 28.256046120000065, 50.348007 ], [ 28.257573960000059, 50.349899970000081 ], [ 28.248330961000079, 50.351118030000066 ], [ 28.248615, 50.355141031000073 ] ] ] } }
-]
-}

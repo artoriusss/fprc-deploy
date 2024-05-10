@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.098943603865700003, "Shape_Area": 0.00032741496634300002, "ADM4_EN": "Shuliaky", "ADM4_UA": "Шуляки", "ADM4_PCODE": "UA7106009027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhashkivska", "ADM3_UA": "Жашківська", "ADM3_PCODE": "UA7106009", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.896884273000069, 49.148973242000068 ], [ 29.906851999000025, 49.147275 ], [ 29.913502, 49.152417 ], [ 29.91359, 49.15457 ], [ 29.908574999000052, 49.155541 ], [ 29.902714, 49.158382 ], [ 29.902493, 49.163013 ], [ 29.895401999000057, 49.164007999000034 ], [ 29.89501, 49.160085 ], [ 29.885409001000028, 49.161905 ], [ 29.881981001000042, 49.159576 ], [ 29.882735999000033, 49.154334 ], [ 29.884696897000026, 49.150103433000027 ], [ 29.896884273000069, 49.148973242000068 ] ] ] } }
-]
-}

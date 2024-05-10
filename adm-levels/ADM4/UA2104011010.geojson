@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.037422714886100002, "Shape_Area": 3.1465096064299999e-05, "ADM4_EN": "Rostoviatytsia", "ADM4_UA": "Ростов'ятиця", "ADM4_PCODE": "UA2104011010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivanovetska", "ADM3_UA": "Івановецька", "ADM3_PCODE": "UA2104011", "ADM2_EN": "Mukachivskyi", "ADM2_UA": "Мукачівський", "ADM2_PCODE": "UA2104", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.642596720000029, 48.585853030000067 ], [ 22.638727723000045, 48.584837030000074 ], [ 22.637978722000071, 48.581559030000051 ], [ 22.642121720000034, 48.581430030000035 ], [ 22.642596720000029, 48.585853030000067 ] ] ] } }
-]
-}

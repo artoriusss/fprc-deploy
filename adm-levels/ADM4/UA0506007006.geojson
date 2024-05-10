@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.107014683013, "Shape_Area": 0.00019332417705, "ADM4_EN": "Hrabivtsi", "ADM4_UA": "Грабівці", "ADM4_PCODE": "UA0506007006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kopaihorodska", "ADM3_UA": "Копайгородська", "ADM3_PCODE": "UA0506007", "ADM2_EN": "Zhmerynskyi", "ADM2_UA": "Жмеринський", "ADM2_PCODE": "UA0506", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.897597999000027, 48.862106999000048 ], [ 27.885367, 48.860996 ], [ 27.881568, 48.864919 ], [ 27.870903, 48.864256 ], [ 27.871448999000052, 48.860885 ], [ 27.88288, 48.860749 ], [ 27.884344, 48.857501 ], [ 27.891823, 48.855572 ], [ 27.899315999000066, 48.856554 ], [ 27.903233, 48.85435 ], [ 27.905976, 48.855395 ], [ 27.907767, 48.859834 ], [ 27.905757999000059, 48.861262 ], [ 27.900834001000078, 48.8606 ], [ 27.897597999000027, 48.862106999000048 ] ] ] } }
-]
-}

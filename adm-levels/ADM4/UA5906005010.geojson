@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.127591354947, "Shape_Area": 0.000209512059658, "ADM4_EN": "Mali Budky", "ADM4_UA": "Малі Будки", "ADM4_PCODE": "UA5906005010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Korovynska", "ADM3_UA": "Коровинська", "ADM3_PCODE": "UA5906005", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.73366, 50.860561 ], [ 33.726659, 50.862283 ], [ 33.729010001000063, 50.865502 ], [ 33.723132, 50.867374 ], [ 33.718625999000039, 50.864366 ], [ 33.718923, 50.862588 ], [ 33.71345, 50.861148 ], [ 33.71342, 50.859208 ], [ 33.723114, 50.856305 ], [ 33.721114, 50.848961 ], [ 33.727796, 50.849069 ], [ 33.731006, 50.847132 ], [ 33.731442, 50.854017 ], [ 33.728111, 50.857183 ], [ 33.73366, 50.860561 ] ] ] } }
-]
-}

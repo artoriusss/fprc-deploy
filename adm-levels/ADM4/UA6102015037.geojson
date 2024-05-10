@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.177720353528, "Shape_Area": 0.00018835581083499999, "ADM4_EN": "Stizhok", "ADM4_UA": "Стіжок", "ADM4_PCODE": "UA6102015037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shumska", "ADM3_UA": "Шумська", "ADM3_PCODE": "UA6102015", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.893334, 50.19144 ], [ 25.889945, 50.19133 ], [ 25.884574, 50.186736 ], [ 25.878877, 50.186071 ], [ 25.875003001000039, 50.183831 ], [ 25.872294, 50.185123 ], [ 25.861566, 50.184162 ], [ 25.860521, 50.180362 ], [ 25.8667, 50.17743 ], [ 25.86705500100004, 50.179946 ], [ 25.878216999000074, 50.180977 ], [ 25.880884, 50.183004 ], [ 25.887990001000048, 50.181882 ], [ 25.884890001000031, 50.18649 ], [ 25.889181001000054, 50.188861 ], [ 25.893597001000046, 50.188623 ], [ 25.893334, 50.19144 ] ] ] } }
-]
-}

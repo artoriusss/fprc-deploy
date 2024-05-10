@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.090540883573799996, "Shape_Area": 9.8323641834200006e-05, "ADM4_EN": "Zalavia", "ADM4_UA": "Залав'я", "ADM4_PCODE": "UA5608015011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rokytnivska", "ADM3_UA": "Рокитнівська", "ADM3_PCODE": "UA5608015", "ADM2_EN": "Sarnenskyi", "ADM2_UA": "Сарненський", "ADM2_PCODE": "UA5608", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.329384160000075, 51.398486010000056 ], [ 27.327143160000048, 51.394203 ], [ 27.329766120000045, 51.387115050000034 ], [ 27.341034840000077, 51.384676050000053 ], [ 27.343963080000037, 51.391194030000065 ], [ 27.339678, 51.391176030000054 ], [ 27.337730040000054, 51.388052040000048 ], [ 27.331446960000051, 51.390886050000063 ], [ 27.329307120000067, 51.394835070000056 ], [ 27.329384160000075, 51.398486010000056 ] ] ] } }
-]
-}

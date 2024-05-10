@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.078998262655699994, "Shape_Area": 0.00028614726582000001, "ADM4_EN": "Shevchenkove", "ADM4_UA": "Шевченкове", "ADM4_PCODE": "UA1208007044", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pershotravnevska", "ADM3_UA": "Першотравневська", "ADM3_PCODE": "UA1208007", "ADM2_EN": "Nikopolskyi", "ADM2_UA": "Нікопольський", "ADM2_PCODE": "UA1208", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.148540001000072, 47.890178 ], [ 34.150644999000065, 47.893338 ], [ 34.146296001000053, 47.89448 ], [ 34.142981, 47.890131 ], [ 34.140898999000058, 47.890542 ], [ 34.138299, 47.881938 ], [ 34.142139001000032, 47.874716 ], [ 34.146601, 47.875412 ], [ 34.154377, 47.875131 ], [ 34.156863001000033, 47.87702 ], [ 34.158296, 47.889415 ], [ 34.153875, 47.888999 ], [ 34.148540001000072, 47.890178 ] ] ] } }
-]
-}

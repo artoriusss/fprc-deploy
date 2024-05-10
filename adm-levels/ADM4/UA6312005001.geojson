@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11768102264700001, "Shape_Area": 0.000233817455716, "ADM4_EN": "Vilkhivka", "ADM4_UA": "Вільхівка", "ADM4_PCODE": "UA6312005001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vilkhivska", "ADM3_UA": "Вільхівська", "ADM3_PCODE": "UA6312005", "ADM2_EN": "Kharkivskyi", "ADM2_UA": "Харківський", "ADM2_PCODE": "UA6312", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.506332, 49.9982 ], [ 36.499416521000057, 49.999655456000028 ], [ 36.498587, 49.996013 ], [ 36.50638, 49.993162 ], [ 36.50343, 49.991385 ], [ 36.502071999000066, 49.985513 ], [ 36.504067999000029, 49.981556 ], [ 36.507482, 49.981264 ], [ 36.510402, 49.984298 ], [ 36.519906001000038, 49.989658 ], [ 36.523200001000077, 49.9956 ], [ 36.514933, 49.992788 ], [ 36.513118001000066, 49.995725 ], [ 36.508302, 49.996014 ], [ 36.506332, 49.9982 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.053098653843300002, "Shape_Area": 7.5219817011399994e-05, "ADM4_EN": "Sadky", "ADM4_UA": "Садки", "ADM4_PCODE": "UA4414013017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chmyrivska", "ADM3_UA": "Чмирівська", "ADM3_PCODE": "UA4414013", "ADM2_EN": "Starobilskyi", "ADM2_UA": "Старобільський", "ADM2_PCODE": "UA4414", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.254145, 49.312009 ], [ 39.249821999000062, 49.308015 ], [ 39.249744, 49.305182 ], [ 39.246386, 49.304115 ], [ 39.245260001000076, 49.300632 ], [ 39.252093, 49.300633 ], [ 39.254563, 49.302546 ], [ 39.254091, 49.306108 ], [ 39.25735, 49.308933 ], [ 39.254145, 49.312009 ] ] ] } }
-]
-}

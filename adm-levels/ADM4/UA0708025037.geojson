@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.029422463038300001, "Shape_Area": 5.2147135410299998e-05, "ADM4_EN": "Trylistsi", "ADM4_UA": "Трилісці", "ADM4_PCODE": "UA0708025037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozhyshchenska", "ADM3_UA": "Рожищенська", "ADM3_PCODE": "UA0708025", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.145700071000078, 51.007508002000066 ], [ 25.145504072000051, 51.01072200200008 ], [ 25.141518070000075, 51.014623002000064 ], [ 25.135181071000034, 51.01158500300005 ], [ 25.141800071000034, 51.005634002000079 ], [ 25.145700071000078, 51.007508002000066 ] ] ] } }
-]
-}

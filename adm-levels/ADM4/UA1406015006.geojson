@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0125308103758, "Shape_Area": 8.91764560355e-06, "ADM4_EN": "Balochne", "ADM4_UA": "Балочне", "ADM4_PCODE": "UA1406015006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chystiakivska", "ADM3_UA": "Чистяківська", "ADM3_PCODE": "UA1406015", "ADM2_EN": "Horlivskyi", "ADM2_UA": "Горлівський", "ADM2_PCODE": "UA1406", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.55056399700004, 48.115785 ], [ 38.548493998000026, 48.116339 ], [ 38.546964997000032, 48.114404001000025 ], [ 38.550630997000042, 48.113425 ], [ 38.55056399700004, 48.115785 ] ] ] } }
-]
-}

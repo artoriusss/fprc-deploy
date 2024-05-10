@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.084272347438200002, "Shape_Area": 0.00012718551204400001, "ADM4_EN": "Revova", "ADM4_UA": "Ревова", "ADM4_PCODE": "UA5102019009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Petrovirivska", "ADM3_UA": "Петровірівська", "ADM3_PCODE": "UA5102019", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.302067, 47.286814 ], [ 30.297483, 47.285956 ], [ 30.29996, 47.282254 ], [ 30.311208, 47.274872 ], [ 30.318587, 47.265217 ], [ 30.322566, 47.266365 ], [ 30.318073, 47.271744 ], [ 30.320734, 47.274035 ], [ 30.316255, 47.277901 ], [ 30.311941, 47.275949 ], [ 30.308893001000058, 47.280187 ], [ 30.309204, 47.282291 ], [ 30.302067, 47.286814 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12986939797499999, "Shape_Area": 0.00029947589033299998, "ADM4_EN": "Babyne", "ADM4_UA": "Бабине", "ADM4_PCODE": "UA6804043003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starosyniavska", "ADM3_UA": "Старосинявська", "ADM3_PCODE": "UA6804043", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.520912, 49.651279 ], [ 27.519735, 49.650771 ], [ 27.506148001000042, 49.651164 ], [ 27.505758, 49.647067 ], [ 27.5011, 49.646355 ], [ 27.498269, 49.643334 ], [ 27.498163, 49.640213 ], [ 27.510632999000052, 49.636375 ], [ 27.516999, 49.637123 ], [ 27.525732, 49.63477 ], [ 27.527337, 49.637747 ], [ 27.525981999000066, 49.640644 ], [ 27.517044, 49.643083 ], [ 27.520912, 49.651279 ] ] ] } }
-]
-}

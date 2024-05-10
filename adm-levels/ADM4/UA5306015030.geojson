@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.088700310567899995, "Shape_Area": 6.9028184015699993e-05, "ADM4_EN": "Sokhatske", "ADM4_UA": "Сохацьке", "ADM4_PCODE": "UA5306015030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Komyshnianska", "ADM3_UA": "Комишнянська", "ADM3_PCODE": "UA5306015", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.455471001000035, 50.140333 ], [ 33.444676001000062, 50.142616 ], [ 33.448581001000036, 50.140076 ], [ 33.465415001000054, 50.135698 ], [ 33.476616, 50.133309 ], [ 33.476545500000043, 50.135917 ], [ 33.467734, 50.136165 ], [ 33.459737, 50.139679 ], [ 33.455471001000035, 50.140333 ] ] ] } }
-]
-}

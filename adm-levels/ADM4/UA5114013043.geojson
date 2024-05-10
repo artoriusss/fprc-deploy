@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.080112192058300002, "Shape_Area": 0.000160653565624, "ADM4_EN": "Pokrovka", "ADM4_UA": "Покровка", "ADM4_PCODE": "UA5114013043", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozdilnianska", "ADM3_UA": "Роздільнянська", "ADM3_PCODE": "UA5114013", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.141752, 46.776462 ], [ 30.138734001000046, 46.781979 ], [ 30.136941, 46.788728 ], [ 30.134067, 46.788371 ], [ 30.135645, 46.781404 ], [ 30.130395001000068, 46.778757 ], [ 30.119448, 46.777515 ], [ 30.120948999000063, 46.770872 ], [ 30.130881, 46.772476 ], [ 30.136559, 46.776234 ], [ 30.141752, 46.776462 ] ] ] } }
-]
-}

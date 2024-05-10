@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057144368930899997, "Shape_Area": 7.3786520404000005e-05, "ADM4_EN": "Demianka-Naddnistrianska", "ADM4_UA": "Дем'янка-Наддністрянська", "ADM4_PCODE": "UA4610005006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhydachivska", "ADM3_UA": "Жидачівська", "ADM3_PCODE": "UA4610005", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.081457199000056, 49.433229007000079 ], [ 24.077707201000067, 49.435426007000046 ], [ 24.068404202000067, 49.435111007000046 ], [ 24.070858202000068, 49.432698007000056 ], [ 24.077137200000038, 49.432948006000061 ], [ 24.086252198000068, 49.425924007000049 ], [ 24.089785198000072, 49.425632007000047 ], [ 24.092784197000071, 49.428086008000037 ], [ 24.081457199000056, 49.433229007000079 ] ] ] } }
-]
-}

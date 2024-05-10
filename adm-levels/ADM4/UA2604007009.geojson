@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.067463599644300001, "Shape_Area": 0.00018036101619699999, "ADM4_EN": "Kunychi", "ADM4_UA": "Куничі", "ADM4_PCODE": "UA2604007009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Burshtynska", "ADM3_UA": "Бурштинська", "ADM3_PCODE": "UA2604007", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.624074978000067, 49.310043626000038 ], [ 24.619819249000045, 49.31015586500007 ], [ 24.626111789000049, 49.301586718000067 ], [ 24.630849546000036, 49.297477428000036 ], [ 24.636867811000059, 49.296966509000072 ], [ 24.637358741000071, 49.301036930000066 ], [ 24.641672909000079, 49.308476967000047 ], [ 24.635457618000032, 49.307916964000071 ], [ 24.632463, 49.310642838000035 ], [ 24.624074978000067, 49.310043626000038 ] ] ] } }
-]
-}

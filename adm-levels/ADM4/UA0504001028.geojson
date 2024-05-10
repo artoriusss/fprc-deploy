@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0115136627358, "Shape_Area": 6.9621381133300001e-06, "ADM4_EN": "Ustia", "ADM4_UA": "Устя", "ADM4_PCODE": "UA0504001028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bershadska", "ADM3_UA": "Бершадська", "ADM3_PCODE": "UA0504001", "ADM2_EN": "Haisynskyi", "ADM2_UA": "Гайсинський", "ADM2_PCODE": "UA0504", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.683578318000059, 48.351410370000053 ], [ 29.679592758000069, 48.351619064000033 ], [ 29.679274986000053, 48.349914731000069 ], [ 29.683291405000034, 48.349668846000043 ], [ 29.683578318000059, 48.351410370000053 ] ] ] } }
-]
-}

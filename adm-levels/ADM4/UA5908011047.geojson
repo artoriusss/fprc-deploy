@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.095992553563800001, "Shape_Area": 0.000146949891137, "ADM4_EN": "Korchany", "ADM4_UA": "Корчани", "ADM4_PCODE": "UA5908011047", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lebedynska", "ADM3_UA": "Лебединська", "ADM3_PCODE": "UA5908011", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.603699, 50.525852 ], [ 34.600780999000051, 50.528039 ], [ 34.594725, 50.524416 ], [ 34.584275, 50.524441 ], [ 34.583032, 50.521317 ], [ 34.583250999000029, 50.516484 ], [ 34.58861, 50.516481 ], [ 34.588734, 50.519023 ], [ 34.592265999000062, 50.522731 ], [ 34.598396001000026, 50.525580999000056 ], [ 34.60125, 50.521623 ], [ 34.605322, 50.518248 ], [ 34.609959, 50.516732 ], [ 34.610407, 50.52116 ], [ 34.603699, 50.525852 ] ] ] } }
-]
-}

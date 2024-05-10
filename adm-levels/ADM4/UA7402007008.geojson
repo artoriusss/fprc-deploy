@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.038249210549199997, "Shape_Area": 5.4598875294599999e-05, "ADM4_EN": "Hannivka", "ADM4_UA": "Ганнівка", "ADM4_PCODE": "UA7402007008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sosnytska", "ADM3_UA": "Сосницька", "ADM3_PCODE": "UA7402007", "ADM2_EN": "Koriukivskyi", "ADM2_UA": "Корюківський", "ADM2_PCODE": "UA7402", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.442495121000036, 51.516553050000027 ], [ 32.437963801000024, 51.51532104000006 ], [ 32.435210881000046, 51.511936950000063 ], [ 32.439368161000061, 51.509783970000058 ], [ 32.44549715900007, 51.509981970000069 ], [ 32.445527039000069, 51.513325020000082 ], [ 32.442495121000036, 51.516553050000027 ] ] ] } }
-]
-}

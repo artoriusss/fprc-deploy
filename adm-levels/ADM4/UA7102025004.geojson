@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.117609616249, "Shape_Area": 0.000181390134992, "ADM4_EN": "Huta-Selytska", "ADM4_UA": "Гута-Селицька", "ADM4_PCODE": "UA7102025004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Selyshchenska", "ADM3_UA": "Селищенська", "ADM3_PCODE": "UA7102025", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.119145, 49.326453 ], [ 31.112824, 49.32659 ], [ 31.11210574200004, 49.324126134000039 ], [ 31.107795754000051, 49.321436642000037 ], [ 31.108213999000043, 49.318162 ], [ 31.112446930000033, 49.317875847000039 ], [ 31.114410431000067, 49.319850117000044 ], [ 31.118517770000039, 49.319079264000038 ], [ 31.119389999000077, 49.316838 ], [ 31.125596100000053, 49.317537732000062 ], [ 31.130703455000059, 49.321885712000039 ], [ 31.125186285000041, 49.325261816000079 ], [ 31.119145, 49.326453 ] ] ] } }
-]
-}

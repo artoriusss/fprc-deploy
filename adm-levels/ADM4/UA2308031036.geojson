@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.045652585419699999, "Shape_Area": 5.8547021042100002e-05, "ADM4_EN": "Yakymivske", "ADM4_UA": "Якимівське", "ADM4_PCODE": "UA2308031036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yakymivska", "ADM3_UA": "Якимівська", "ADM3_PCODE": "UA2308031", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "Мелітопольський", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.87257326100007, 46.650387636000062 ], [ 34.862697686000047, 46.649756444000047 ], [ 34.864747954000052, 46.64585309000006 ], [ 34.877627695000058, 46.64724048000005 ], [ 34.875462238000068, 46.650491196000075 ], [ 34.87257326100007, 46.650387636000062 ] ] ] } }
-]
-}

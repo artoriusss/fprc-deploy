@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.056561519326200002, "Shape_Area": 5.74918887961e-05, "ADM4_EN": "Maklaivka", "ADM4_UA": "Маклаївка", "ADM4_PCODE": "UA1806025017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chopovytska", "ADM3_UA": "Чоповицька", "ADM3_PCODE": "UA1806025", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.107777484000053, 50.860645731000034 ], [ 29.100260160000062, 50.859820980000052 ], [ 29.100139920000061, 50.857430040000054 ], [ 29.122251968000057, 50.855195481000067 ], [ 29.124167561000036, 50.857315788000051 ], [ 29.109833766000065, 50.858706698000049 ], [ 29.107777484000053, 50.860645731000034 ] ] ] } }
-]
-}

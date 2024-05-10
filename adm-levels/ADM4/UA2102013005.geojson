@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.068021170554999996, "Shape_Area": 6.5325970525999995e-05, "ADM4_EN": "Dunkovytsia", "ADM4_UA": "Дунковиця", "ADM4_PCODE": "UA2102013005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kamianska", "ADM3_UA": "Кам'янська", "ADM3_PCODE": "UA2102013", "ADM2_EN": "Berehivskyi", "ADM2_UA": "Берегівський", "ADM2_PCODE": "UA2102", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.914624561000039, 48.322368023000081 ], [ 22.911807562000035, 48.320405023000035 ], [ 22.914761560000045, 48.317303023000079 ], [ 22.915498559000071, 48.313925023000081 ], [ 22.920350556000074, 48.31519402300006 ], [ 22.916720558000065, 48.318351023000048 ], [ 22.914624561000039, 48.322368023000081 ] ] ] } }
-]
-}

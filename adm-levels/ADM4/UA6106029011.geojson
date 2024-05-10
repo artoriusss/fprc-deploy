@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.085184767587699994, "Shape_Area": 0.00014042860664600001, "ADM4_EN": "Zbruchanske", "ADM4_UA": "Збручанське", "ADM4_PCODE": "UA6106029011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Melnytse-Podilska", "ADM3_UA": "Мельнице-Подільська", "ADM3_PCODE": "UA6106029", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.271831, 48.670307 ], [ 26.268888999000069, 48.671723 ], [ 26.26097, 48.668288 ], [ 26.263077, 48.666317 ], [ 26.269195001000071, 48.666377 ], [ 26.270770001000074, 48.663208 ], [ 26.270927, 48.658194 ], [ 26.26631, 48.656303 ], [ 26.266315001000066, 48.65315 ], [ 26.269774, 48.652746 ], [ 26.272216, 48.654534 ], [ 26.27462, 48.66098 ], [ 26.27782, 48.664665 ], [ 26.275657, 48.669996 ], [ 26.271831, 48.670307 ] ] ] } }
-]
-}

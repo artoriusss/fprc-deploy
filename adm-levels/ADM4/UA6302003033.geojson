@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.084859253891599998, "Shape_Area": 5.4524933212500001e-05, "ADM4_EN": "Kantakuzivka", "ADM4_UA": "Кантакузівка", "ADM4_PCODE": "UA6302003033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Valkivska", "ADM3_UA": "Валківська", "ADM3_PCODE": "UA6302003", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "Богодухівський", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.519654, 49.826744 ], [ 35.508521999000038, 49.827217 ], [ 35.500449, 49.826344 ], [ 35.499829, 49.82235 ], [ 35.506241, 49.822452 ], [ 35.50606, 49.825372 ], [ 35.519654, 49.826744 ] ] ] } }
-]
-}

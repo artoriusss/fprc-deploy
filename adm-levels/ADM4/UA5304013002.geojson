@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.119731217185, "Shape_Area": 0.00039044140008200002, "ADM4_EN": "Bilousivka", "ADM4_UA": "Білоусівка", "ADM4_PCODE": "UA5304013002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chornukhynska", "ADM3_UA": "Чорнухинська", "ADM3_PCODE": "UA5304013", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.910181, 50.372985 ], [ 32.909394001000067, 50.373797 ], [ 32.901682, 50.36897 ], [ 32.894055001000027, 50.370335 ], [ 32.887016687000028, 50.370656964000034 ], [ 32.885228, 50.364852 ], [ 32.888618, 50.358924 ], [ 32.8917, 50.358537 ], [ 32.899166577000074, 50.35385425100003 ], [ 32.905160999000032, 50.359458 ], [ 32.917024999000034, 50.359805 ], [ 32.913894088000063, 50.363268385000026 ], [ 32.91678003100003, 50.365221550000058 ], [ 32.916258, 50.369838 ], [ 32.910181, 50.372985 ] ] ] } }
-]
-}

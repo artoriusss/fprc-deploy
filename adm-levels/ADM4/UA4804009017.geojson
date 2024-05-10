@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.063263989250100003, "Shape_Area": 8.1805040846800003e-05, "ADM4_EN": "Koshtove", "ADM4_UA": "Коштове", "ADM4_PCODE": "UA4804009017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Domanivska", "ADM3_UA": "Доманівська", "ADM3_PCODE": "UA4804009", "ADM2_EN": "Voznesenskyi", "ADM2_UA": "Вознесенський", "ADM2_PCODE": "UA4804", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.081844111000066, 47.678767715000049 ], [ 31.082296853000059, 47.676414515000033 ], [ 31.088415117000068, 47.676383376000047 ], [ 31.098972017000051, 47.677548831000081 ], [ 31.096969318000049, 47.681456581000077 ], [ 31.087734842000032, 47.681112615000075 ], [ 31.085201640000037, 47.678690545000052 ], [ 31.081844111000066, 47.678767715000049 ] ] ] } }
-]
-}

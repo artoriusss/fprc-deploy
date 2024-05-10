@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.068939003398599999, "Shape_Area": 0.000112606679928, "ADM4_EN": "Verkhnia Lukavytsia", "ADM4_UA": "Верхня Лукавиця", "ADM4_PCODE": "UA4610013003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Morshynska", "ADM3_UA": "Моршинська", "ADM3_PCODE": "UA4610013", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.774868518000062, 49.155763906000061 ], [ 23.776688264000029, 49.149812010000062 ], [ 23.775608266000063, 49.146613010000067 ], [ 23.770573266000042, 49.143194010000059 ], [ 23.77586926400005, 49.138196010000058 ], [ 23.779759264000063, 49.140810010000052 ], [ 23.782187262000036, 49.14636401000007 ], [ 23.787543260000064, 49.15074001000005 ], [ 23.785683263000067, 49.151915010000039 ], [ 23.777576264000061, 49.149249010000062 ], [ 23.774868518000062, 49.155763906000061 ] ] ] } }
-]
-}

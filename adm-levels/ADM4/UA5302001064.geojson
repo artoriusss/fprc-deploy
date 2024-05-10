@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.148705178321, "Shape_Area": 0.00028113942257800001, "ADM4_EN": "Shepelivka", "ADM4_UA": "Шепелівка", "ADM4_PCODE": "UA5302001064", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hlobynska", "ADM3_UA": "Глобинська", "ADM3_PCODE": "UA5302001", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.273383, 49.341184 ], [ 33.264335999000025, 49.343208 ], [ 33.257942, 49.34018 ], [ 33.260032, 49.338578 ], [ 33.264274, 49.340813 ], [ 33.26817, 49.339972 ], [ 33.270918001000041, 49.33556 ], [ 33.272205494000048, 49.326765636000061 ], [ 33.274414, 49.320983 ], [ 33.272757, 49.316714 ], [ 33.27524, 49.315144 ], [ 33.281985, 49.315957 ], [ 33.28089, 49.319055 ], [ 33.289767, 49.319647 ], [ 33.28336100100006, 49.328421 ], [ 33.280305, 49.327648 ], [ 33.276127, 49.33406 ], [ 33.273383, 49.341184 ] ] ] } }
-]
-}

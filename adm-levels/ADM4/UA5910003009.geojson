@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.051070136402399997, "Shape_Area": 2.8908993431699999e-05, "ADM4_EN": "Zarutske", "ADM4_UA": "Заруцьке", "ADM4_PCODE": "UA5910003009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hlukhivska", "ADM3_UA": "Глухівська", "ADM3_PCODE": "UA5910003", "ADM2_EN": "Shostkynskyi", "ADM2_UA": "Шосткинський", "ADM2_PCODE": "UA5910", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.029494, 51.659511 ], [ 34.027506, 51.657283 ], [ 34.023733, 51.657333 ], [ 34.020923001000028, 51.658898 ], [ 34.019361, 51.657622 ], [ 34.025506, 51.654984 ], [ 34.027306, 51.655443 ], [ 34.029494, 51.659511 ] ] ] } }
-]
-}

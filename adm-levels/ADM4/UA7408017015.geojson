@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.065277612866400006, "Shape_Area": 9.1276615684299995e-05, "ADM4_EN": "Zarudka", "ADM4_UA": "Зарудка", "ADM4_PCODE": "UA7408017015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sukhopolovianska", "ADM3_UA": "Сухополов'янська", "ADM3_PCODE": "UA7408017", "ADM2_EN": "Prylutskyi", "ADM2_UA": "Прилуцький", "ADM2_PCODE": "UA7408", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.00107210300007, 50.594815788000062 ], [ 31.997588051000037, 50.590708837000079 ], [ 31.999312088000067, 50.586553842000058 ], [ 32.004575031000059, 50.583902769000076 ], [ 32.005643122000038, 50.58680776500006 ], [ 32.010319097000036, 50.582363777000069 ], [ 32.012907033000033, 50.583624795000048 ], [ 32.00107210300007, 50.594815788000062 ] ] ] } }
-]
-}

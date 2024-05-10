@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10747919058200001, "Shape_Area": 0.00031628391405099998, "ADM4_EN": "Bazaliivka", "ADM4_UA": "Базаліївка", "ADM4_PCODE": "UA6314015002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chkalovska", "ADM3_UA": "Чкаловська", "ADM3_PCODE": "UA6314015", "ADM2_EN": "Chuhuivskyi", "ADM2_UA": "Чугуївський", "ADM2_PCODE": "UA6314", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.986120001000074, 49.839181 ], [ 36.983012, 49.84033 ], [ 36.975342, 49.838221 ], [ 36.975469001000079, 49.832973 ], [ 36.972466, 49.831713 ], [ 36.981767, 49.826702 ], [ 36.98395, 49.824487 ], [ 36.989711, 49.82201 ], [ 36.997234, 49.82344 ], [ 37.000618, 49.825945 ], [ 37.002853999000024, 49.832039 ], [ 36.997637, 49.83208 ], [ 36.989596001000052, 49.836346 ], [ 36.986120001000074, 49.839181 ] ] ] } }
-]
-}

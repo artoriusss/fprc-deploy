@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.048871541265399998, "Shape_Area": 4.1462350431499998e-05, "ADM4_EN": "Novooleksiivka", "ADM4_UA": "Новоолексіївка", "ADM4_PCODE": "UA2304013003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kamiansko-Dniprovska", "ADM3_UA": "Кам'янсько-Дніпровська", "ADM3_PCODE": "UA2304013", "ADM2_EN": "Vasylivskyi", "ADM2_UA": "Василівський", "ADM2_PCODE": "UA2304", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.301665390000039, 47.27592891900008 ], [ 34.303099445000043, 47.27125781400008 ], [ 34.306011426000055, 47.269711588000064 ], [ 34.308898837000072, 47.272253406000061 ], [ 34.301665390000039, 47.27592891900008 ] ] ] } }
-]
-}

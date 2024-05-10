@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.102314157578, "Shape_Area": 0.000194312149187, "ADM4_EN": "Kapustyn", "ADM4_UA": "Капустин", "ADM4_PCODE": "UA6804039028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starokostiantynivska", "ADM3_UA": "Старокостянтинівська", "ADM3_PCODE": "UA6804039", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 27.167804999000055, 49.84167 ], [ 27.160692, 49.839743 ], [ 27.163134, 49.836799 ], [ 27.170874, 49.83953 ], [ 27.167804999000055, 49.84167 ] ] ], [ [ [ 27.172112001000073, 49.834618 ], [ 27.16826099900004, 49.834528 ], [ 27.166739999000072, 49.830178 ], [ 27.163724, 49.830252 ], [ 27.16049, 49.8274 ], [ 27.166778, 49.826176 ], [ 27.167033, 49.82466 ], [ 27.173233637000067, 49.820875350000051 ], [ 27.180297001000042, 49.825269 ], [ 27.18033100100007, 49.833221 ], [ 27.172205, 49.833167 ], [ 27.172112001000073, 49.834618 ] ] ] ] } }
-]
-}

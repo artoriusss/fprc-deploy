@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.070560267113499997, "Shape_Area": 8.3043143570199997e-05, "ADM4_EN": "Sychivka", "ADM4_UA": "Сичівка", "ADM4_PCODE": "UA4414005030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Markivska", "ADM3_UA": "Марківська", "ADM3_PCODE": "UA4414005", "ADM2_EN": "Starobilskyi", "ADM2_UA": "Старобільський", "ADM2_PCODE": "UA4414", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.59272, 49.444791 ], [ 39.588599, 49.447071 ], [ 39.585448, 49.442237 ], [ 39.590793999000027, 49.437036 ], [ 39.59102, 49.434124 ], [ 39.594417001000068, 49.430731 ], [ 39.597173, 49.431451 ], [ 39.593225001000064, 49.436115 ], [ 39.59212, 49.439284 ], [ 39.594825, 49.44142 ], [ 39.59272, 49.444791 ] ] ] } }
-]
-}

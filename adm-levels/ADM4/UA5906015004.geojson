@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.052002194003300001, "Shape_Area": 6.64489516312e-05, "ADM4_EN": "Velyka Butivka", "ADM4_UA": "Велика Бутівка", "ADM4_PCODE": "UA5906015004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khmelivska", "ADM3_UA": "Хмелівська", "ADM3_PCODE": "UA5906015", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.554372, 50.855771 ], [ 33.549505, 50.855807 ], [ 33.544282, 50.852299 ], [ 33.557610001000057, 50.848444 ], [ 33.559409, 50.850482 ], [ 33.553607, 50.853414 ], [ 33.554372, 50.855771 ] ] ] } }
-]
-}

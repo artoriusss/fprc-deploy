@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.056619954038399999, "Shape_Area": 8.5856550167999997e-05, "ADM4_EN": "Stare Misto", "ADM4_UA": "Старе Місто", "ADM4_PCODE": "UA6104037030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pidhaietska", "ADM3_UA": "Підгаєцька", "ADM3_PCODE": "UA6104037", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.119041681000056, 49.285292118000029 ], [ 25.115497336000033, 49.284562878000031 ], [ 25.11269627300004, 49.286053895000066 ], [ 25.109522169000059, 49.284791631000076 ], [ 25.118869652000058, 49.277342085000043 ], [ 25.123627534000036, 49.276151512000069 ], [ 25.126078139000072, 49.273935308000034 ], [ 25.131717541000057, 49.273003545000051 ], [ 25.127573136000024, 49.275759914000048 ], [ 25.119041681000056, 49.285292118000029 ] ] ] } }
-]
-}

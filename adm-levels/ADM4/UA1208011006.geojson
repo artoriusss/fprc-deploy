@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11259766243700001, "Shape_Area": 0.00022963206604800001, "ADM4_EN": "Novosofiivka", "ADM4_UA": "Новософіївка", "ADM4_PCODE": "UA1208011006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pokrovska", "ADM3_UA": "Покровська", "ADM3_PCODE": "UA1208011", "ADM2_EN": "Nikopolskyi", "ADM2_UA": "Нікопольський", "ADM2_PCODE": "UA1208", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.183082001000059, 47.805768 ], [ 34.182105, 47.812678 ], [ 34.177322, 47.812756 ], [ 34.175636001000044, 47.801467 ], [ 34.180033001000027, 47.800476 ], [ 34.184521, 47.80098 ], [ 34.185575, 47.796603 ], [ 34.184234, 47.78845 ], [ 34.185691001000066, 47.782517 ], [ 34.190757999000027, 47.782119 ], [ 34.189097, 47.787515 ], [ 34.190344, 47.794879 ], [ 34.19380699900006, 47.794611 ], [ 34.195712, 47.804389 ], [ 34.186952, 47.803659 ], [ 34.183082001000059, 47.805768 ] ] ] } }
-]
-}

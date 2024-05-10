@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.066760720979100005, "Shape_Area": 0.000225882423452, "ADM4_EN": "Novoselytsia", "ADM4_UA": "Новоселиця", "ADM4_PCODE": "UA5302023029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Semenivska", "ADM3_UA": "Семенівська", "ADM3_PCODE": "UA5302023", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.967706001000067, 49.587233 ], [ 32.968286, 49.58853 ], [ 32.976329, 49.589359 ], [ 32.980338, 49.592429 ], [ 32.973748, 49.597373 ], [ 32.958606, 49.601622 ], [ 32.956677, 49.59905 ], [ 32.956449, 49.591664 ], [ 32.960541, 49.586583 ], [ 32.967706001000067, 49.587233 ] ] ] } }
-]
-}

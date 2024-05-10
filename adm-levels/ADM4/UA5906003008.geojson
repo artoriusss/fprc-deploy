@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.153968337752, "Shape_Area": 0.000213985316198, "ADM4_EN": "Kozelne", "ADM4_UA": "Козельне", "ADM4_PCODE": "UA5906003008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vilshanska", "ADM3_UA": "Вільшанська", "ADM3_PCODE": "UA5906003", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.083251, 50.748613 ], [ 34.084638999000049, 50.752778 ], [ 34.078829, 50.753176 ], [ 34.076001, 50.751081 ], [ 34.076145, 50.746721 ], [ 34.08760200100005, 50.74064 ], [ 34.096483001000024, 50.740308 ], [ 34.101425, 50.738993 ], [ 34.101715, 50.741862 ], [ 34.093883, 50.743657 ], [ 34.097211, 50.747284 ], [ 34.101377, 50.748158 ], [ 34.105307, 50.747243 ], [ 34.106676, 50.749526 ], [ 34.103974, 50.752043 ], [ 34.100756, 50.749592 ], [ 34.083251, 50.748613 ] ] ] } }
-]
-}

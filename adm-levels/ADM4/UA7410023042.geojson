@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0414341496223, "Shape_Area": 5.8971431232500001e-05, "ADM4_EN": "Uhlova Rudnia", "ADM4_UA": "Углова Рудня", "ADM4_PCODE": "UA7410023042", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Liubetska", "ADM3_UA": "Любецька", "ADM3_PCODE": "UA7410023", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.729593733000058, 51.763944911000067 ], [ 30.725328959000024, 51.762864960000059 ], [ 30.727446120000025, 51.756390990000057 ], [ 30.730659839000054, 51.759071010000071 ], [ 30.735636119000048, 51.759430020000082 ], [ 30.735695880000037, 51.76489698000006 ], [ 30.733177415000057, 51.765849249000041 ], [ 30.729593733000058, 51.763944911000067 ] ] ] } }
-]
-}

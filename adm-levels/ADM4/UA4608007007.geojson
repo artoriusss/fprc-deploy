@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.050120130432399997, "Shape_Area": 8.7816802111300002e-05, "ADM4_EN": "Velyka Ozymyna", "ADM4_UA": "Велика Озимина", "ADM4_PCODE": "UA4608007007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novokalynivska", "ADM3_UA": "Новокалинівська", "ADM3_PCODE": "UA4608007", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.392798386000038, 49.473958015000051 ], [ 23.382548390000068, 49.477210015000026 ], [ 23.37590539200005, 49.474475016000042 ], [ 23.383278389000054, 49.469386015000055 ], [ 23.387687388000074, 49.468039015000045 ], [ 23.393448385000056, 49.469761015000074 ], [ 23.392798386000038, 49.473958015000051 ] ] ] } }
-]
-}

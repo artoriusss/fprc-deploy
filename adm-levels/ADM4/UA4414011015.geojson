@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.202178644746, "Shape_Area": 0.000186373663514, "ADM4_EN": "Nyzhnopokrovka", "ADM4_UA": "Нижньопокровка", "ADM4_PCODE": "UA4414011015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starobilska", "ADM3_UA": "Старобільська", "ADM3_PCODE": "UA4414011", "ADM2_EN": "Starobilskyi", "ADM2_UA": "Старобільський", "ADM2_PCODE": "UA4414", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.633711, 49.220057 ], [ 38.63652600100005, 49.223968 ], [ 38.626761, 49.221619 ], [ 38.625474, 49.220518 ], [ 38.633658, 49.214718 ], [ 38.635099, 49.212571 ], [ 38.630121999000039, 49.205659 ], [ 38.634684, 49.203389 ], [ 38.636419, 49.209548 ], [ 38.650568, 49.204128 ], [ 38.650895001000038, 49.206353 ], [ 38.639575, 49.210402 ], [ 38.637518001000046, 49.21392 ], [ 38.631034, 49.218461 ], [ 38.633711, 49.220057 ] ] ] } }
-]
-}

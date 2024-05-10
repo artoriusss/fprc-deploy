@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0864518975582, "Shape_Area": 0.00012241863256100001, "ADM4_EN": "Zinkivtsi", "ADM4_UA": "Зіньківці", "ADM4_PCODE": "UA6802011004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kamianets-Podilska", "ADM3_UA": "Кам'янець-Подільська", "ADM3_PCODE": "UA6802011", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.554178939000053, 48.690365490000033 ], [ 26.554447, 48.695036 ], [ 26.549401, 48.698487 ], [ 26.545793, 48.69741 ], [ 26.550552, 48.692436 ], [ 26.55088382100007, 48.686645698000063 ], [ 26.553913312000077, 48.684065758000031 ], [ 26.560240873000055, 48.681189991000053 ], [ 26.563523451000037, 48.686540530000059 ], [ 26.557813237000062, 48.687537497000051 ], [ 26.554178939000053, 48.690365490000033 ] ] ] } }
-]
-}

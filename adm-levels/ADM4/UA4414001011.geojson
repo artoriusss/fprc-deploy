@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.20449453084899999, "Shape_Area": 0.00026938074040699998, "ADM4_EN": "Zelekivka", "ADM4_UA": "Зелеківка", "ADM4_PCODE": "UA4414001011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilovodska", "ADM3_UA": "Біловодська", "ADM3_PCODE": "UA4414001", "ADM2_EN": "Starobilskyi", "ADM2_UA": "Старобільський", "ADM2_PCODE": "UA4414", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.847184001000073, 49.209435 ], [ 39.844938, 49.206658 ], [ 39.839656, 49.205556 ], [ 39.841601, 49.195317 ], [ 39.839733999000032, 49.193484 ], [ 39.836295, 49.183526 ], [ 39.837413999000034, 49.177176 ], [ 39.84484000100008, 49.17538 ], [ 39.84307, 49.17938 ], [ 39.844726, 49.19071 ], [ 39.849010999000029, 49.193488 ], [ 39.848888, 49.198354 ], [ 39.843467, 49.201646 ], [ 39.843808, 49.204658 ], [ 39.846876999000074, 49.206502 ], [ 39.847184001000073, 49.209435 ] ] ] } }
-]
-}

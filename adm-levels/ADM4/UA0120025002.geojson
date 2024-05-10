@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.052746566619500002, "Shape_Area": 9.5739547109199998e-05, "ADM4_EN": "Zelenohiria", "ADM4_UA": "Зеленогір'я", "ADM4_PCODE": "UA0120025002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pryvitnenska", "ADM3_UA": "Привітненська", "ADM3_PCODE": "UA0120025", "ADM2_EN": "Yaltynskyi", "ADM2_UA": "Ялтинський", "ADM2_PCODE": "UA0120", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.718298325000035, 44.875115636000032 ], [ 34.714238974000068, 44.876741901000059 ], [ 34.715927128000033, 44.867555980000077 ], [ 34.72217837900007, 44.86393199500003 ], [ 34.725688667000043, 44.864486935000059 ], [ 34.726703934000057, 44.869269039000073 ], [ 34.721436873000073, 44.875400692000028 ], [ 34.718298325000035, 44.875115636000032 ] ] ] } }
-]
-}

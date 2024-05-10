@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0824609086725, "Shape_Area": 0.000129992283371, "ADM4_EN": "Topylo", "ADM4_UA": "Топило", "ADM4_PCODE": "UA3504031022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Subottsivska", "ADM3_UA": "Суботцівська", "ADM3_PCODE": "UA3504031", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.374631, 48.735515 ], [ 32.359405, 48.736766 ], [ 32.358724, 48.732392 ], [ 32.387039, 48.730711 ], [ 32.388934, 48.734919 ], [ 32.37704, 48.736115 ], [ 32.374631, 48.735515 ] ] ] } }
-]
-}

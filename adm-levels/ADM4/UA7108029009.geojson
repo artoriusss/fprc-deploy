@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.075308097831499998, "Shape_Area": 7.4309857629500006e-05, "ADM4_EN": "Stanislavchyk", "ADM4_UA": "Станіславчик", "ADM4_PCODE": "UA7108029009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Moshnivska", "ADM3_UA": "Мошнівська", "ADM3_PCODE": "UA7108029", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.579308, 49.594729 ], [ 31.568806, 49.601359 ], [ 31.577567001000034, 49.602458 ], [ 31.568658001000074, 49.605934 ], [ 31.565781, 49.604243 ], [ 31.560616, 49.604641 ], [ 31.559904, 49.603009 ], [ 31.56511, 49.603002 ], [ 31.566644999000061, 49.598224500000072 ], [ 31.573775, 49.597376 ], [ 31.578883, 49.594212 ], [ 31.579308, 49.594729 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.080326472949100003, "Shape_Area": 0.000164492471122, "ADM4_EN": "Patlaivka", "ADM4_UA": "Патлаївка", "ADM4_PCODE": "UA5308037041", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Poltavska", "ADM3_UA": "Полтавська", "ADM3_PCODE": "UA5308037", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.592367, 49.657422333000056 ], [ 34.589048, 49.659107 ], [ 34.58336, 49.659219 ], [ 34.580275, 49.656215 ], [ 34.578883001000065, 49.649574 ], [ 34.573575001000052, 49.64712 ], [ 34.576353, 49.643098 ], [ 34.57572, 49.637972 ], [ 34.576348, 49.640381 ], [ 34.583581001000027, 49.640477 ], [ 34.585578, 49.645895 ], [ 34.586615, 49.652129 ], [ 34.588687999000058, 49.652124 ], [ 34.592367, 49.657422333000056 ] ] ] } }
-]
-}

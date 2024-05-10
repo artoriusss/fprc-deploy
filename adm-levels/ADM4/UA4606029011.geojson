@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.039661688652899998, "Shape_Area": 5.8858757369900002e-05, "ADM4_EN": "Nova Lodyna", "ADM4_UA": "Нова Лодина", "ADM4_PCODE": "UA4606029011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoiarychivska", "ADM3_UA": "Новояричівська", "ADM3_PCODE": "UA4606029", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.389794150000057, 50.022850005000066 ], [ 24.39303515000006, 50.025542005000034 ], [ 24.390540151000039, 50.029360005000058 ], [ 24.389457150000055, 50.033792005000066 ], [ 24.385094152000079, 50.024705005000044 ], [ 24.389794150000057, 50.022850005000066 ] ] ] } }
-]
-}

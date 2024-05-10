@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.062741587173000005, "Shape_Area": 0.000168056399185, "ADM4_EN": "Samotuhy", "ADM4_UA": "Самотуги", "ADM4_PCODE": "UA7402001050", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Koriukivska", "ADM3_UA": "Корюківська", "ADM3_PCODE": "UA7402001", "ADM2_EN": "Koriukivskyi", "ADM2_UA": "Корюківський", "ADM2_PCODE": "UA7402", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.445087840000042, 51.788234970000076 ], [ 32.452201080000066, 51.788925990000052 ], [ 32.453826119000041, 51.793416 ], [ 32.44860108000006, 51.798649950000026 ], [ 32.44818815900004, 51.801191010000082 ], [ 32.444740080000031, 51.804810990000078 ], [ 32.439948840000056, 51.807371040000078 ], [ 32.437887121000074, 51.80240493000008 ], [ 32.439866041000073, 51.799831020000056 ], [ 32.442545161000055, 51.788173050000069 ], [ 32.445087840000042, 51.788234970000076 ] ] ] } }
-]
-}

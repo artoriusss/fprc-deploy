@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0615209161448, "Shape_Area": 6.8383952223399996e-05, "ADM4_EN": "Tavezhnia", "ADM4_UA": "Тавежня", "ADM4_PCODE": "UA6306009055", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sakhnovshchynska", "ADM3_UA": "Сахновщинська", "ADM3_PCODE": "UA6306009", "ADM2_EN": "Krasnohradskyi", "ADM2_UA": "Красноградський", "ADM2_PCODE": "UA6306", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.718069, 48.99915 ], [ 35.718658, 48.996377 ], [ 35.725611, 48.991429 ], [ 35.73067499900003, 48.993613 ], [ 35.728046, 48.995705 ], [ 35.725537, 48.994504 ], [ 35.718069, 48.99915 ] ] ] } }
-]
-}

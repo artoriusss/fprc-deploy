@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0715758357235, "Shape_Area": 0.00018700074703899999, "ADM4_EN": "Olenivka", "ADM4_UA": "Оленівка", "ADM4_PCODE": "UA1212003010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Verbkivska", "ADM3_UA": "Вербківська", "ADM3_PCODE": "UA1212003", "ADM2_EN": "Pavlohradskyi", "ADM2_UA": "Павлоградський", "ADM2_PCODE": "UA1212", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.777875, 48.807386 ], [ 35.773676, 48.809295 ], [ 35.773402999000041, 48.801029 ], [ 35.771742, 48.795628 ], [ 35.777580999000065, 48.78848 ], [ 35.781519501000048, 48.785484713000073 ], [ 35.788883188000057, 48.78711806900003 ], [ 35.784865, 48.794924 ], [ 35.780552, 48.798911 ], [ 35.777625, 48.799105 ], [ 35.777875, 48.807386 ] ] ] } }
-]
-}

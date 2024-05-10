@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.053501308283000003, "Shape_Area": 0.00014058937848700001, "ADM4_EN": "Pasika", "ADM4_UA": "Пасіка", "ADM4_PCODE": "UA2104021005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Polianska", "ADM3_UA": "Полянська", "ADM3_PCODE": "UA2104021", "ADM2_EN": "Mukachivskyi", "ADM2_UA": "Мукачівський", "ADM2_PCODE": "UA2104", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.914234567000051, 48.534320024000067 ], [ 22.900615574000028, 48.534432024000068 ], [ 22.896746575000066, 48.532137024000065 ], [ 22.894635576000042, 48.528496024000049 ], [ 22.898432575000072, 48.526151024000058 ], [ 22.90220957300005, 48.526474024000038 ], [ 22.906276569000056, 48.525007024000047 ], [ 22.91211456700006, 48.528069024000047 ], [ 22.916208565000034, 48.533518023000056 ], [ 22.914234567000051, 48.534320024000067 ] ] ] } }
-]
-}

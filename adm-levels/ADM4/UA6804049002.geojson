@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.075930588530799994, "Shape_Area": 0.00033487872006999998, "ADM4_EN": "Antonivka", "ADM4_UA": "Антонівка", "ADM4_PCODE": "UA6804049002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chornoostrivska", "ADM3_UA": "Чорноострівська", "ADM3_PCODE": "UA6804049", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.784126, 49.520966 ], [ 26.788148, 49.522742 ], [ 26.794068999000046, 49.52743 ], [ 26.796793, 49.532639 ], [ 26.796098, 49.536107 ], [ 26.797748, 49.539389 ], [ 26.791063, 49.540662 ], [ 26.787242001000038, 49.540401 ], [ 26.778212, 49.534351 ], [ 26.771905, 49.53141 ], [ 26.772325, 49.527072 ], [ 26.775483, 49.523513 ], [ 26.784126, 49.520966 ] ] ] } }
-]
-}

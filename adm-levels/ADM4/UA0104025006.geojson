@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073100241321600007, "Shape_Area": 0.00019365216827200001, "ADM4_EN": "Lytvynenkove", "ADM4_UA": "Литвиненкове", "ADM4_PCODE": "UA0104025006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zuiska", "ADM3_UA": "Зуйська", "ADM3_PCODE": "UA0104025", "ADM2_EN": "Bilohirskyi", "ADM2_UA": "Білогірський", "ADM2_PCODE": "UA0104", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.304475836000051, 45.098079262000056 ], [ 34.304600803000028, 45.089565376000053 ], [ 34.307082798000067, 45.077266308000048 ], [ 34.309261384000024, 45.072097095000061 ], [ 34.317796445000056, 45.072390952000035 ], [ 34.315246690000038, 45.075944531000061 ], [ 34.314458613000056, 45.082857323000042 ], [ 34.310177, 45.096412 ], [ 34.304475836000051, 45.098079262000056 ] ] ] } }
-]
-}

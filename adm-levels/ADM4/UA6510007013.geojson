@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.071426466780400003, "Shape_Area": 0.000258120016444, "ADM4_EN": "Fedorivka", "ADM4_UA": "Федорівка", "ADM4_PCODE": "UA6510007013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Darivska", "ADM3_UA": "Дар'ївська", "ADM3_PCODE": "UA6510007", "ADM2_EN": "Khersonskyi", "ADM2_UA": "Херсонський", "ADM2_PCODE": "UA6510", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.809177, 46.789125 ], [ 32.811283, 46.792811 ], [ 32.823671001000037, 46.805525 ], [ 32.8207, 46.808519 ], [ 32.814886999000066, 46.807971 ], [ 32.801326, 46.80522 ], [ 32.802355, 46.800461 ], [ 32.802034, 46.789309 ], [ 32.809177, 46.789125 ] ] ] } }
-]
-}

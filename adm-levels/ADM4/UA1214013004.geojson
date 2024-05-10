@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.114700777965, "Shape_Area": 0.000364919131897, "ADM4_EN": "Pidhavrylivka", "ADM4_UA": "Підгаврилівка", "ADM4_PCODE": "UA1214013004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Malomykhailivska", "ADM3_UA": "Маломихайлівська", "ADM3_PCODE": "UA1214013", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.527196, 48.061187 ], [ 36.52817200100003, 48.050633 ], [ 36.514203, 48.051255 ], [ 36.511991999000031, 48.048104 ], [ 36.513082, 48.045552 ], [ 36.525707, 48.045721 ], [ 36.526948270000048, 48.042723935000026 ], [ 36.53194643300003, 48.043092612000066 ], [ 36.532575001000055, 48.041045 ], [ 36.541250001000037, 48.047647 ], [ 36.543131999000025, 48.051032 ], [ 36.542487, 48.062825 ], [ 36.527196, 48.061187 ] ] ] } }
-]
-}

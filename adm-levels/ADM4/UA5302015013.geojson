@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.120663280665, "Shape_Area": 0.000220638686368, "ADM4_EN": "Narizhzhia", "ADM4_UA": "Наріжжя", "ADM4_PCODE": "UA5302015013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Obolonska", "ADM3_UA": "Оболонська", "ADM3_PCODE": "UA5302015", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.80427, 49.735051 ], [ 32.803175, 49.737946 ], [ 32.79691, 49.734723 ], [ 32.797127001000035, 49.724691 ], [ 32.795557001000077, 49.719685 ], [ 32.801020999000059, 49.719351 ], [ 32.810527, 49.721207 ], [ 32.813427, 49.726684 ], [ 32.811519999000041, 49.728329 ], [ 32.800359, 49.728912 ], [ 32.799552001000052, 49.732068 ], [ 32.80427, 49.735051 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.16873741925800001, "Shape_Area": 0.0004047899101, "ADM4_EN": "Nyzhni Torhai", "ADM4_UA": "Нижні Торгаї", "ADM4_PCODE": "UA6504005016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nyzhnosirohozka", "ADM3_UA": "Нижньосірогозька", "ADM3_PCODE": "UA6504005", "ADM2_EN": "Henicheskyi", "ADM2_UA": "Генічеський", "ADM2_PCODE": "UA6504", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.279167, 46.792937 ], [ 34.274719, 46.793976 ], [ 34.269949, 46.791677 ], [ 34.258334999000056, 46.788907 ], [ 34.256382, 46.791341 ], [ 34.248543999000049, 46.789972 ], [ 34.245731001000024, 46.791876 ], [ 34.246695, 46.78384 ], [ 34.244352, 46.775947 ], [ 34.248432001000026, 46.774991 ], [ 34.248424, 46.771587 ], [ 34.252457, 46.772723 ], [ 34.250729, 46.778684 ], [ 34.263437, 46.778498 ], [ 34.26459999900004, 46.779976 ], [ 34.278598, 46.785299 ], [ 34.28192, 46.789434 ], [ 34.279167, 46.792937 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057335180700600001, "Shape_Area": 5.8368499294299998e-05, "ADM4_EN": "Klopochyn", "ADM4_UA": "Клопочин", "ADM4_PCODE": "UA0702017007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pavlivska", "ADM3_UA": "Павлівська", "ADM3_PCODE": "UA0702017", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.460933143000034, 50.641973004000079 ], [ 24.455255145000024, 50.640015005000066 ], [ 24.45530814500006, 50.636121005000064 ], [ 24.460780144000069, 50.637133005000067 ], [ 24.466343144000064, 50.635734005000074 ], [ 24.464941145000068, 50.639773005000052 ], [ 24.460933143000034, 50.641973004000079 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.094776203702900005, "Shape_Area": 0.000185514515581, "ADM4_EN": "Syrvatyntsi", "ADM4_UA": "Сирватинці", "ADM4_PCODE": "UA6804013037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodotska", "ADM3_UA": "Городоцька", "ADM3_PCODE": "UA6804013", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.507357957000067, 49.083719946000031 ], [ 26.502125, 49.081737 ], [ 26.501242, 49.077745 ], [ 26.503571001000068, 49.075213 ], [ 26.503353, 49.072008 ], [ 26.514528, 49.071357 ], [ 26.516391, 49.073535 ], [ 26.515724, 49.080417 ], [ 26.512955, 49.082974 ], [ 26.508849919000056, 49.083262912000066 ], [ 26.507357957000067, 49.083719946000031 ] ] ] } }
-]
-}

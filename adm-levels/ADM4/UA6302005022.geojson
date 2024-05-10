@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.15007580119200001, "Shape_Area": 0.000145378575741, "ADM4_EN": "Ivashky", "ADM4_UA": "Івашки", "ADM4_PCODE": "UA6302005022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zolochivska", "ADM3_UA": "Золочівська", "ADM3_PCODE": "UA6302005", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "Богодухівський", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.815944001000048, 50.408356 ], [ 35.806913001000055, 50.406879 ], [ 35.807337, 50.405172 ], [ 35.815806, 50.406368 ], [ 35.820169, 50.401844 ], [ 35.823675, 50.392107 ], [ 35.827562, 50.38717 ], [ 35.830635, 50.38654 ], [ 35.825816, 50.394501 ], [ 35.825550001000067, 50.396792 ], [ 35.829114, 50.399994 ], [ 35.819356999000036, 50.404786 ], [ 35.815944001000048, 50.408356 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.16483965792700001, "Shape_Area": 0.000288657794377, "ADM4_EN": "Bystryk", "ADM4_UA": "Бистрик", "ADM4_PCODE": "UA5902009006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krolevetska", "ADM3_UA": "Кролевецька", "ADM3_PCODE": "UA5902009", "ADM2_EN": "Konotopskyi", "ADM2_UA": "Конотопський", "ADM2_PCODE": "UA5902", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.53817500100007, 51.573918 ], [ 33.531313999000076, 51.576865 ], [ 33.52855, 51.573797 ], [ 33.517173999000079, 51.574301 ], [ 33.517061999000077, 51.572614 ], [ 33.52772599900004, 51.572069 ], [ 33.53116299900006, 51.571157 ], [ 33.533961, 51.567763 ], [ 33.531903001000046, 51.561826 ], [ 33.53637, 51.558237 ], [ 33.540710001000036, 51.564136 ], [ 33.546019, 51.566539 ], [ 33.551183, 51.566994 ], [ 33.552581, 51.570768 ], [ 33.5492, 51.576749 ], [ 33.53817500100007, 51.573918 ] ] ] } }
-]
-}

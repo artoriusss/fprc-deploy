@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.081568185836400006, "Shape_Area": 0.00010962984259, "ADM4_EN": "Hrabshchyna", "ADM4_UA": "Грабщина", "ADM4_PCODE": "UA5906007012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lypovodolynska", "ADM3_UA": "Липоводолинська", "ADM3_PCODE": "UA5906007", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.604612001000078, 50.513491 ], [ 33.597703999000032, 50.511678 ], [ 33.594118001000027, 50.506027 ], [ 33.59735, 50.505195 ], [ 33.600202, 50.50096 ], [ 33.603819999000052, 50.501292 ], [ 33.604012, 50.504608 ], [ 33.609427, 50.506338 ], [ 33.609573, 50.50968 ], [ 33.601463, 50.510872 ], [ 33.604612001000078, 50.513491 ] ] ] } }
-]
-}

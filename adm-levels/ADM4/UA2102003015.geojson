@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.051493388143400001, "Shape_Area": 0.00015834194613500001, "ADM4_EN": "Chetfalva", "ADM4_UA": "Четфалва", "ADM4_PCODE": "UA2102003015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berehivska", "ADM3_UA": "Берегівська", "ADM3_PCODE": "UA2102003", "ADM2_EN": "Berehivskyi", "ADM2_UA": "Берегівський", "ADM2_PCODE": "UA2102", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.798694614000055, 48.123368527000025 ], [ 22.803743611000073, 48.124964026000043 ], [ 22.801772613000026, 48.128499026000043 ], [ 22.796352615000046, 48.132931026000051 ], [ 22.785037622000061, 48.130852026000071 ], [ 22.782882624000024, 48.125277026000049 ], [ 22.788036619000025, 48.121913027000062 ], [ 22.793059618000029, 48.121594027000071 ], [ 22.798694614000055, 48.123368527000025 ] ] ] } }
-]
-}

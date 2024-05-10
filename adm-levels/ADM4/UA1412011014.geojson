@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.042463349846499999, "Shape_Area": 2.18875273522e-05, "ADM4_EN": "Kalenyky", "ADM4_UA": "Каленики", "ADM4_PCODE": "UA1412011014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lymanska", "ADM3_UA": "Лиманська", "ADM3_PCODE": "UA1412011", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "Краматорський", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.926796999000032, 48.845444 ], [ 37.917288, 48.845419 ], [ 37.912574999000071, 48.842986 ], [ 37.908808, 48.842212 ], [ 37.909160998000061, 48.840363 ], [ 37.917898, 48.844387 ], [ 37.926850999000067, 48.844448 ], [ 37.926796999000032, 48.845444 ] ] ] } }
-]
-}

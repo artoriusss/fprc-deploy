@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10944054881900001, "Shape_Area": 0.000469588907855, "ADM4_EN": "Krutoiarivka", "ADM4_UA": "Крутоярівка", "ADM4_PCODE": "UA5104023010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starokozatska", "ADM3_UA": "Старокозацька", "ADM3_PCODE": "UA5104023", "ADM2_EN": "Bilhorod-Dnistrovskyi", "ADM2_UA": "Білгород-Дністровський", "ADM2_PCODE": "UA5104", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.811688, 46.368981 ], [ 29.806545, 46.366983 ], [ 29.803720001000045, 46.360773 ], [ 29.810295, 46.356487 ], [ 29.816051, 46.351186 ], [ 29.822832, 46.342533 ], [ 29.830603, 46.34421 ], [ 29.830817, 46.348197 ], [ 29.838668, 46.352377 ], [ 29.824429, 46.360988 ], [ 29.827444, 46.362543 ], [ 29.821905001000061, 46.368271 ], [ 29.814895, 46.369626 ], [ 29.811688, 46.368981 ] ] ] } }
-]
-}

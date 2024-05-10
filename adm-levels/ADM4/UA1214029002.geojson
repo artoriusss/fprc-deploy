@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.16403981800199999, "Shape_Area": 0.00012639837028100001, "ADM4_EN": "Vodiane", "ADM4_UA": "Водяне", "ADM4_PCODE": "UA1214029002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozdorska", "ADM3_UA": "Роздорська", "ADM3_PCODE": "UA1214029", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.653358999000034, 48.391227 ], [ 35.651132321000034, 48.393798040000036 ], [ 35.644902, 48.391705 ], [ 35.645448, 48.388259 ], [ 35.651016999000035, 48.385588 ], [ 35.66188, 48.384758 ], [ 35.669621, 48.38547 ], [ 35.668671, 48.389023 ], [ 35.660761, 48.388027 ], [ 35.653358999000034, 48.391227 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.17377261498900001, "Shape_Area": 0.0001819345795, "ADM4_EN": "Katanske", "ADM4_UA": "Катанське", "ADM4_PCODE": "UA5904007007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kyrykivska", "ADM3_UA": "Кириківська", "ADM3_PCODE": "UA5904007", "ADM2_EN": "Okhtyrskyi", "ADM2_UA": "Охтирський", "ADM2_PCODE": "UA5904", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.168365001000041, 50.399574 ], [ 35.161042001000055, 50.398791 ], [ 35.156408, 50.396237 ], [ 35.150492, 50.3966 ], [ 35.147535, 50.394945 ], [ 35.141403, 50.39469 ], [ 35.142637, 50.391113 ], [ 35.147121, 50.391741 ], [ 35.150198999000054, 50.389068 ], [ 35.138831001000028, 50.388863 ], [ 35.138143, 50.386413 ], [ 35.14752, 50.384193 ], [ 35.150353, 50.384541 ], [ 35.156276, 50.394835 ], [ 35.169332001000043, 50.397503 ], [ 35.168365001000041, 50.399574 ] ] ] } }
-]
-}

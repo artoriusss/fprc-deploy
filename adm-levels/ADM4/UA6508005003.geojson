@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.091585045022999995, "Shape_Area": 0.00020985214615199999, "ADM4_EN": "Zelenotropynske", "ADM4_UA": "Зеленотропинське", "ADM4_PCODE": "UA6508005003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dolmativska", "ADM3_UA": "Долматівська", "ADM3_PCODE": "UA6508005", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Скадовський", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.437106, 46.27809 ], [ 32.437163, 46.267136 ], [ 32.445115, 46.267121 ], [ 32.445398001000058, 46.265514 ], [ 32.453732, 46.265712 ], [ 32.453831, 46.273181 ], [ 32.46464, 46.274376 ], [ 32.464192, 46.276173 ], [ 32.453878, 46.27551 ], [ 32.453106999000056, 46.276975 ], [ 32.437087, 46.277005 ], [ 32.437106, 46.27809 ] ] ] } }
-]
-}

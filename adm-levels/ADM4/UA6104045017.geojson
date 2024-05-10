@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0549089195079, "Shape_Area": 5.6878790281000003e-05, "ADM4_EN": "Penkivtsi", "ADM4_UA": "Пеньківці", "ADM4_PCODE": "UA6104045017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Skorykivska", "ADM3_UA": "Скориківська", "ADM3_PCODE": "UA6104045", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.16277, 49.593892 ], [ 26.157198, 49.59766 ], [ 26.155633001000069, 49.596737 ], [ 26.164568, 49.590619 ], [ 26.168352, 49.590337 ], [ 26.177936, 49.59316 ], [ 26.16856, 49.594109 ], [ 26.16277, 49.593892 ] ] ] } }
-]
-}

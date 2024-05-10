@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.062642064276500001, "Shape_Area": 0.00012586045601, "ADM4_EN": "Okunivka", "ADM4_UA": "Окунівка", "ADM4_PCODE": "UA0108055001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Okunivska", "ADM3_UA": "Окунівська", "ADM3_PCODE": "UA0108055", "ADM2_EN": "Yevpatoriiskyi", "ADM2_UA": "Євпаторійський", "ADM2_PCODE": "UA0108", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.772686, 45.371444 ], [ 32.767954, 45.369843 ], [ 32.765346, 45.372433 ], [ 32.755349, 45.372305 ], [ 32.755375343000026, 45.365294998000081 ], [ 32.774610206000034, 45.366208277000055 ], [ 32.778408641000055, 45.367544885000029 ], [ 32.77762, 45.370908 ], [ 32.772686, 45.371444 ] ] ] } }
-]
-}

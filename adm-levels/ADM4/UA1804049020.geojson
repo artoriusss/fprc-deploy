@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.064682607973000003, "Shape_Area": 0.00019959863493600001, "ADM4_EN": "Turovets", "ADM4_UA": "Туровець", "ADM4_PCODE": "UA1804049020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stanyshivska", "ADM3_UA": "Станишівська", "ADM3_PCODE": "UA1804049", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.944142920000047, 50.178643020000038 ], [ 28.945847880000031, 50.181147 ], [ 28.937602080000033, 50.185591020000061 ], [ 28.932123959000023, 50.186359980000077 ], [ 28.921980809000047, 50.178338565000047 ], [ 28.930694, 50.174163 ], [ 28.930999002000078, 50.172544 ], [ 28.938368160000039, 50.171931 ], [ 28.941116040000054, 50.174271 ], [ 28.940789880000068, 50.178400020000026 ], [ 28.944142920000047, 50.178643020000038 ] ] ] } }
-]
-}

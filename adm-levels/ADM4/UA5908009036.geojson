@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14409915747300001, "Shape_Area": 0.00015828552931100001, "ADM4_EN": "Turia", "ADM4_UA": "Тур'я", "ADM4_PCODE": "UA5908009036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasnopilska", "ADM3_UA": "Краснопільська", "ADM3_PCODE": "UA5908009", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.354122001000064, 50.899457 ], [ 35.353771, 50.902512 ], [ 35.351016999000024, 50.90425 ], [ 35.34689, 50.902725 ], [ 35.351553, 50.899724 ], [ 35.350456999000073, 50.89687 ], [ 35.346721, 50.896879 ], [ 35.343475, 50.893937 ], [ 35.347720371000037, 50.886767108000072 ], [ 35.351662, 50.890591 ], [ 35.357485, 50.888014 ], [ 35.359143999000025, 50.891722 ], [ 35.354806, 50.895331 ], [ 35.354122001000064, 50.899457 ] ] ] } }
-]
-}

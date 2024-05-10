@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.018042281601699999, "Shape_Area": 1.49922733542e-05, "ADM4_EN": "Kinchesh", "ADM4_UA": "Кінчеш", "ADM4_PCODE": "UA2110025003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kholmkivska", "ADM3_UA": "Холмківська", "ADM3_PCODE": "UA2110025", "ADM2_EN": "Uzhhorodskyi", "ADM2_UA": "Ужгородський", "ADM2_PCODE": "UA2110", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.307997958000044, 48.577489041000035 ], [ 22.305593958000031, 48.577187042000048 ], [ 22.304653959000063, 48.571222042000045 ], [ 22.306818957000075, 48.570760041000028 ], [ 22.307997958000044, 48.577489041000035 ] ] ] } }
-]
-}

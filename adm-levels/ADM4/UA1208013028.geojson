@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0735674264217, "Shape_Area": 0.00012833547144200001, "ADM4_EN": "Semenivka", "ADM4_UA": "Семенівка", "ADM4_PCODE": "UA1208013028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tomakivska", "ADM3_UA": "Томаківська", "ADM3_PCODE": "UA1208013", "ADM2_EN": "Nikopolskyi", "ADM2_UA": "Нікопольський", "ADM2_PCODE": "UA1208", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.67869, 47.811375 ], [ 34.675038, 47.813044 ], [ 34.671175, 47.812209 ], [ 34.676009001000068, 47.808247 ], [ 34.679153001000032, 47.807446 ], [ 34.681868999000073, 47.803263 ], [ 34.686072, 47.802076 ], [ 34.686621001000049, 47.799186 ], [ 34.693269001000033, 47.797164 ], [ 34.691263728000024, 47.80634034600007 ], [ 34.685152, 47.808786 ], [ 34.6826, 47.812542 ], [ 34.67869, 47.811375 ] ] ] } }
-]
-}

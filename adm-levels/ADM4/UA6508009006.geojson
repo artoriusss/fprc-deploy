@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10089254443700001, "Shape_Area": 0.00041363788105599998, "ADM4_EN": "Novosofiivka", "ADM4_UA": "Новософіївка", "ADM4_PCODE": "UA6508009006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lazurnenska", "ADM3_UA": "Лазурненська", "ADM3_PCODE": "UA6508009", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Скадовський", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.510308, 46.175554 ], [ 32.497763, 46.173436 ], [ 32.497794, 46.170005 ], [ 32.490988, 46.168729 ], [ 32.492951, 46.159638 ], [ 32.498055001000068, 46.160626 ], [ 32.49998, 46.156234 ], [ 32.50633, 46.154321 ], [ 32.50563, 46.151689 ], [ 32.517867, 46.153107 ], [ 32.514141, 46.16399 ], [ 32.516252001000055, 46.165788 ], [ 32.514041001000066, 46.172556 ], [ 32.510308, 46.175554 ] ] ] } }
-]
-}

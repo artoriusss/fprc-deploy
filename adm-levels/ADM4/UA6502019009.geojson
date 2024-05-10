@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11784827954, "Shape_Area": 0.00032751306000199998, "ADM4_EN": "Chervonyi Maiak", "ADM4_UA": "Червоний Маяк", "ADM4_PCODE": "UA6502019009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoraiska", "ADM3_UA": "Новорайська", "ADM3_PCODE": "UA6502019", "ADM2_EN": "Beryslavskyi", "ADM2_UA": "Бериславський", "ADM2_PCODE": "UA6502", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.609705001000066, 46.961093 ], [ 33.609244999000055, 46.963366 ], [ 33.603535, 46.966797 ], [ 33.591288, 46.95653 ], [ 33.595928, 46.954442 ], [ 33.593431, 46.950448 ], [ 33.59763, 46.948528 ], [ 33.597857999000041, 46.945333 ], [ 33.590864, 46.936835 ], [ 33.592042, 46.935131 ], [ 33.588661, 46.929927 ], [ 33.595616, 46.927602 ], [ 33.59727, 46.935883 ], [ 33.603082999000037, 46.947008 ], [ 33.609763, 46.953459 ], [ 33.610302, 46.95632 ], [ 33.605814999000074, 46.958125 ], [ 33.609705001000066, 46.961093 ] ] ] } }
-]
-}

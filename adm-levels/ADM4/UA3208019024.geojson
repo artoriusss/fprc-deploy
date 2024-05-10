@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.123387329905, "Shape_Area": 0.000126248535582, "ADM4_EN": "Makarivska Buda", "ADM4_UA": "Макарівська Буда", "ADM4_PCODE": "UA3208019024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Makarivska", "ADM3_UA": "Макарівська", "ADM3_PCODE": "UA3208019", "ADM2_EN": "Buchanskyi", "ADM2_UA": "Бучанський", "ADM2_PCODE": "UA3208", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.640046097000038, 50.612328073000072 ], [ 29.630790153000078, 50.611001030000068 ], [ 29.632834135000053, 50.604238545000044 ], [ 29.638988098000027, 50.600437136000039 ], [ 29.642433158000074, 50.60431307500005 ], [ 29.647529122000037, 50.605436067000028 ], [ 29.645750072000055, 50.60825802100004 ], [ 29.639027180000028, 50.60748809200004 ], [ 29.640046097000038, 50.612328073000072 ] ] ] } }
-]
-}

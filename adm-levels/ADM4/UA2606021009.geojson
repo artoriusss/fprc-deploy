@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057018935835700002, "Shape_Area": 0.000105276462682, "ADM4_EN": "Slyvky", "ADM4_UA": "Сливки", "ADM4_PCODE": "UA2606021009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Perehinska", "ADM3_UA": "Перегінська", "ADM3_PCODE": "UA2606021", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.204220999000029, 48.784543 ], [ 24.200946, 48.777741 ], [ 24.197784, 48.775748001000068 ], [ 24.197985, 48.769956 ], [ 24.199267001000067, 48.767202 ], [ 24.204178, 48.77296 ], [ 24.209673, 48.780928 ], [ 24.210307, 48.784264 ], [ 24.204220999000029, 48.784543 ] ] ] } }
-]
-}

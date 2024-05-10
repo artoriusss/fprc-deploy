@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073077625838600002, "Shape_Area": 0.00010277805048199999, "ADM4_EN": "Pervomaiske", "ADM4_UA": "Первомайське", "ADM4_PCODE": "UA6502005025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykooleksandrivska", "ADM3_UA": "Великоолександрівська", "ADM3_PCODE": "UA6502005", "ADM2_EN": "Beryslavskyi", "ADM2_UA": "Бериславський", "ADM2_PCODE": "UA6502", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.208438428000079, 47.355700554000066 ], [ 33.205750229000046, 47.360725596000066 ], [ 33.216630269000063, 47.362076947000048 ], [ 33.216389261000074, 47.364834342000051 ], [ 33.204376781000065, 47.363792662000037 ], [ 33.201684795000062, 47.355792535000035 ], [ 33.190554915000064, 47.353098083000077 ], [ 33.191480840000054, 47.349727163000068 ], [ 33.208438428000079, 47.355700554000066 ] ] ] } }
-]
-}

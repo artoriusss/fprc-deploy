@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.074844241377999998, "Shape_Area": 0.000175478230739, "ADM4_EN": "Kvitneve", "ADM4_UA": "Квітневе", "ADM4_PCODE": "UA5604005005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Varkovytska", "ADM3_UA": "Варковицька", "ADM3_PCODE": "UA5604005", "ADM2_EN": "Dubenskyi", "ADM2_UA": "Дубенський", "ADM2_PCODE": "UA5604", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.066027879000046, 50.489185950000035 ], [ 26.063060040000039, 50.491216980000047 ], [ 26.061000840000077, 50.488731 ], [ 26.056725120000067, 50.490183060000049 ], [ 26.053853040000035, 50.483978010000044 ], [ 26.048993040000028, 50.484478050000064 ], [ 26.047329840000032, 50.479523010000037 ], [ 26.060365080000054, 50.476593060000027 ], [ 26.06577696100004, 50.484692970000026 ], [ 26.070824160000029, 50.485086 ], [ 26.066027879000046, 50.489185950000035 ] ] ] } }
-]
-}

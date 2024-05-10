@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.051981740293300001, "Shape_Area": 3.4830385146500003e-05, "ADM4_EN": "Pidsukhe", "ADM4_UA": "Підсухе", "ADM4_PCODE": "UA4602007017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Skhidnytska", "ADM3_UA": "Східницька", "ADM3_PCODE": "UA4602007", "ADM2_EN": "Drohobytskyi", "ADM2_UA": "Дрогобицький", "ADM2_PCODE": "UA4602", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.270869425000058, 49.202320017000034 ], [ 23.268565427000055, 49.204070017000049 ], [ 23.265061428000024, 49.202374017000068 ], [ 23.268804426000031, 49.200331017000053 ], [ 23.270869425000058, 49.202320017000034 ] ] ] } }
-]
-}

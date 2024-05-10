@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057500910877899998, "Shape_Area": 0.00016132185503, "ADM4_EN": "Blyzhnohorodske", "ADM4_UA": "Ближньогородське", "ADM4_PCODE": "UA0106041002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Roshchynska", "ADM3_UA": "Рощинська", "ADM3_PCODE": "UA0106041", "ADM2_EN": "Dzhankoiskyi", "ADM2_UA": "Джанкойський", "ADM2_PCODE": "UA0106", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.385530008000046, 45.644996458000037 ], [ 34.381843321000076, 45.646186144000069 ], [ 34.376945495000029, 45.645407374000058 ], [ 34.374871048000045, 45.642630403000055 ], [ 34.373026994000043, 45.635676124000042 ], [ 34.378834, 45.633632 ], [ 34.388485853000077, 45.633558790000052 ], [ 34.389334458000064, 45.639785882000069 ], [ 34.384748994000063, 45.640548609000064 ], [ 34.385530008000046, 45.644996458000037 ] ] ] } }
-]
-}

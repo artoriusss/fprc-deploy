@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.119821063166, "Shape_Area": 0.00045802922896600001, "ADM4_EN": "Syrotenky", "ADM4_UA": "Сиротенки", "ADM4_PCODE": "UA5302001054", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hlobynska", "ADM3_UA": "Глобинська", "ADM3_PCODE": "UA5302001", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.583660001000055, 49.347041 ], [ 33.578148, 49.34911 ], [ 33.574997, 49.346248 ], [ 33.567787, 49.349004 ], [ 33.555754001000025, 49.339842 ], [ 33.559352, 49.338492 ], [ 33.568772, 49.332451 ], [ 33.570695999000066, 49.333302 ], [ 33.577881, 49.325821 ], [ 33.5812, 49.324175 ], [ 33.584264, 49.327573 ], [ 33.585323001000063, 49.331434 ], [ 33.590308, 49.336563 ], [ 33.581115, 49.341518 ], [ 33.586950345000048, 49.345741428000053 ], [ 33.583660001000055, 49.347041 ] ] ] } }
-]
-}

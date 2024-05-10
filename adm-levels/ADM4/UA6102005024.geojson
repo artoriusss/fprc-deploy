@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14467835047499999, "Shape_Area": 0.000273867507649, "ADM4_EN": "Rakovets", "ADM4_UA": "Раковець", "ADM4_PCODE": "UA6102005024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vyshnivetska", "ADM3_UA": "Вишнівецька", "ADM3_PCODE": "UA6102005", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.700717, 49.835393 ], [ 25.700409001000025, 49.839699 ], [ 25.689556999000047, 49.840244 ], [ 25.691933, 49.837549 ], [ 25.692035, 49.834359 ], [ 25.69881299900004, 49.832249 ], [ 25.701319, 49.832826 ], [ 25.708308, 49.831053 ], [ 25.713124, 49.828196 ], [ 25.712306, 49.826402 ], [ 25.716190999000048, 49.821443 ], [ 25.719799, 49.819613 ], [ 25.726029, 49.8205 ], [ 25.728476999000065, 49.83025 ], [ 25.722013, 49.829011 ], [ 25.716906, 49.832668 ], [ 25.709402, 49.833327 ], [ 25.700717, 49.835393 ] ] ] } }
-]
-}

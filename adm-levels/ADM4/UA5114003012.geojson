@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.058274714864400001, "Shape_Area": 0.000114989917201, "ADM4_EN": "Trostianets", "ADM4_UA": "Тростянець", "ADM4_PCODE": "UA5114003012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykoploskivska", "ADM3_UA": "Великоплосківська", "ADM3_PCODE": "UA5114003", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.791481, 47.032623 ], [ 29.784593, 47.03926 ], [ 29.778714999000044, 47.037917 ], [ 29.778883, 47.032922 ], [ 29.782914, 47.027722 ], [ 29.78758, 47.030655 ], [ 29.798568001000035, 47.028598 ], [ 29.797024001000068, 47.032952 ], [ 29.791481, 47.032623 ] ] ] } }
-]
-}

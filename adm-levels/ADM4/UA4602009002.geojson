@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.076034154962799999, "Shape_Area": 7.0161755876900007e-05, "ADM4_EN": "Bystryi", "ADM4_UA": "Бистрий", "ADM4_PCODE": "UA4602009002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Truskavetska", "ADM3_UA": "Трускавецька", "ADM3_PCODE": "UA4602009", "ADM2_EN": "Drohobytskyi", "ADM2_UA": "Дрогобицький", "ADM2_PCODE": "UA4602", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.591772316000061, 49.247675012000059 ], [ 23.589276316000053, 49.243510012000058 ], [ 23.593959316000053, 49.240382012000055 ], [ 23.598742315000038, 49.242195012000082 ], [ 23.59968731500004, 49.245455012000036 ], [ 23.595554316000062, 49.245537012000057 ], [ 23.591772316000061, 49.247675012000059 ] ] ] } }
-]
-}

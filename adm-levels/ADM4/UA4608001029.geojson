@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.082114197083399995, "Shape_Area": 6.6901848392000006e-05, "ADM4_EN": "Sadkovychi", "ADM4_UA": "Садковичі", "ADM4_PCODE": "UA4608001029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Biskovytska", "ADM3_UA": "Бісковицька", "ADM3_PCODE": "UA4608001", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.148342486000047, 49.632056019000061 ], [ 23.136086490000025, 49.628997019000053 ], [ 23.140101489000074, 49.627365019000081 ], [ 23.159278481000058, 49.629758019000064 ], [ 23.158049481000035, 49.63128301900008 ], [ 23.148223485000074, 49.630270019000079 ], [ 23.148342486000047, 49.632056019000061 ] ] ] } }
-]
-}

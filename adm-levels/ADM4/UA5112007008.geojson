@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.056882971496200002, "Shape_Area": 0.000143254162141, "ADM4_EN": "Soltanivka", "ADM4_UA": "Солтанівка", "ADM4_PCODE": "UA5112007008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zelenohirska", "ADM3_UA": "Зеленогірська", "ADM3_PCODE": "UA5112007", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.116463843000076, 47.865356173000066 ], [ 30.108357001000059, 47.863955 ], [ 30.110492, 47.859401 ], [ 30.111480999000037, 47.853662 ], [ 30.123056, 47.852012 ], [ 30.124775756000076, 47.853126158000066 ], [ 30.119192213000076, 47.863272387000052 ], [ 30.116463843000076, 47.865356173000066 ] ] ] } }
-]
-}

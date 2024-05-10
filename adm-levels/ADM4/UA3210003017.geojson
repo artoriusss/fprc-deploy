@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0510060406641, "Shape_Area": 0.000120533482124, "ADM4_EN": "Lisovychi", "ADM4_UA": "Лісовичі", "ADM4_PCODE": "UA3210003017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dymerska", "ADM3_UA": "Димерська", "ADM3_PCODE": "UA3210003", "ADM2_EN": "Vyshhorodskyi", "ADM2_UA": "Вишгородський", "ADM2_PCODE": "UA3210", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.19530323500004, 50.753386247000037 ], [ 30.188322190000065, 50.75747321800003 ], [ 30.185665233000066, 50.749958188000051 ], [ 30.198160247000033, 50.744550229000026 ], [ 30.202558212000042, 50.749041218000059 ], [ 30.20202822300007, 50.751203259000079 ], [ 30.19530323500004, 50.753386247000037 ] ] ] } }
-]
-}

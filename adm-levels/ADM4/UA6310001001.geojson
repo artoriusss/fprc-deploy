@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.036386337714299999, "Shape_Area": 7.9277588273200003e-05, "ADM4_EN": "Biliaivka", "ADM4_UA": "Біляївка", "ADM4_PCODE": "UA6310001001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Biliaivska", "ADM3_UA": "Біляївська", "ADM3_PCODE": "UA6310001", "ADM2_EN": "Lozivskyi", "ADM2_UA": "Лозівський", "ADM2_PCODE": "UA6310", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.316076, 49.261365 ], [ 36.311606, 49.271139 ], [ 36.303882550000026, 49.268463556000029 ], [ 36.309761225000045, 49.259360351000055 ], [ 36.316076, 49.261365 ] ] ] } }
-]
-}

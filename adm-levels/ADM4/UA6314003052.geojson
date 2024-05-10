@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.106966054623, "Shape_Area": 0.000169151965375, "ADM4_EN": "Tymchenky", "ADM4_UA": "Тимченки", "ADM4_PCODE": "UA6314003052", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zmiivska", "ADM3_UA": "Зміївська", "ADM3_PCODE": "UA6314003", "ADM2_EN": "Chuhuivskyi", "ADM2_UA": "Чугуївський", "ADM2_PCODE": "UA6314", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.14989132900007, 49.760443759000054 ], [ 36.142442999000025, 49.759024 ], [ 36.14388, 49.752049 ], [ 36.151264, 49.751216 ], [ 36.15232, 49.747666 ], [ 36.156342, 49.748867 ], [ 36.163208, 49.749 ], [ 36.163435001000039, 49.750505 ], [ 36.154456999000047, 49.755439 ], [ 36.153887, 49.759528 ], [ 36.156732, 49.762785 ], [ 36.156952510000053, 49.766868831000068 ], [ 36.15107834500003, 49.763883434000036 ], [ 36.14989132900007, 49.760443759000054 ] ] ] } }
-]
-}

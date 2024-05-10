@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10385528064500001, "Shape_Area": 7.5898048814899996e-05, "ADM4_EN": "Richechyna", "ADM4_UA": "Річечина", "ADM4_PCODE": "UA5606031025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Koretska", "ADM3_UA": "Корецька", "ADM3_PCODE": "UA5606031", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 27.073917, 50.699073060000046 ], [ 27.075269880000064, 50.701770990000057 ], [ 27.071078040000032, 50.705035020000082 ], [ 27.064783800000043, 50.705336970000076 ], [ 27.064847160000056, 50.703078060000053 ], [ 27.071111880000046, 50.702960970000049 ], [ 27.070044841000026, 50.699606940000081 ], [ 27.073917, 50.699073060000046 ] ] ], [ [ [ 27.080395920000058, 50.69709 ], [ 27.07583579900006, 50.701896 ], [ 27.07369415900007, 50.69855799000004 ], [ 27.080395920000058, 50.69709 ] ] ] ] } }
-]
-}

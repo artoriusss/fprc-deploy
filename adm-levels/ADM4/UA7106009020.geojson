@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.115461123436, "Shape_Area": 0.00028888241168199998, "ADM4_EN": "Sabadash", "ADM4_UA": "Сабадаш", "ADM4_PCODE": "UA7106009020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhashkivska", "ADM3_UA": "Жашківська", "ADM3_PCODE": "UA7106009", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.158131999000034, 49.142673 ], [ 30.155809, 49.142811 ], [ 30.146729, 49.135339 ], [ 30.152642001000061, 49.133166 ], [ 30.141914, 49.13009 ], [ 30.133125, 49.126926 ], [ 30.135267, 49.124155 ], [ 30.141693, 49.127494 ], [ 30.151404999000079, 49.130344 ], [ 30.158087, 49.129124 ], [ 30.167983, 49.128835 ], [ 30.178047, 49.132881 ], [ 30.160444, 49.140738 ], [ 30.158131999000034, 49.142673 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060018862654999998, "Shape_Area": 9.5601714836e-05, "ADM4_EN": "Revukha", "ADM4_UA": "Ревуха", "ADM4_PCODE": "UA6804023033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Letychivska", "ADM3_UA": "Летичівська", "ADM3_PCODE": "UA6804023", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.550706999000056, 49.344109 ], [ 27.555792999000062, 49.337158 ], [ 27.563212, 49.335288 ], [ 27.567513, 49.336668 ], [ 27.569201001000067, 49.339027 ], [ 27.558741, 49.342444 ], [ 27.55520800100004, 49.342332 ], [ 27.550706999000056, 49.344109 ] ] ] } }
-]
-}

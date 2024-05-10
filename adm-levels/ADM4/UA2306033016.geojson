@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073728359310300001, "Shape_Area": 9.7610360891299994e-05, "ADM4_EN": "Malyshivka", "ADM4_UA": "Малишівка", "ADM4_PCODE": "UA2306033016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shyrokivska", "ADM3_UA": "Широківська", "ADM3_PCODE": "UA2306033", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.004419974000029, 47.942582200000061 ], [ 35.000572326000054, 47.943144412000038 ], [ 34.985200379000048, 47.941315412000051 ], [ 34.986976746000039, 47.937437655000053 ], [ 34.990811477000079, 47.93844950600004 ], [ 34.996576670000024, 47.937908636000031 ], [ 35.003810018000024, 47.938604391000069 ], [ 35.004419974000029, 47.942582200000061 ] ] ] } }
-]
-}

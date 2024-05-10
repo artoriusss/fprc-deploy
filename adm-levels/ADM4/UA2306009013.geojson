@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.033391725437800002, "Shape_Area": 4.14994865958e-05, "ADM4_EN": "Novoboikivske", "ADM4_UA": "Новобойківське", "ADM4_PCODE": "UA2306009013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Komyshuvaska", "ADM3_UA": "Комишуваська", "ADM3_PCODE": "UA2306009", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.472521244000063, 47.628759648000027 ], [ 35.481136323000044, 47.631067682000037 ], [ 35.482005670000035, 47.634361221000063 ], [ 35.469319188000043, 47.632336163000048 ], [ 35.472521244000063, 47.628759648000027 ] ] ] } }
-]
-}

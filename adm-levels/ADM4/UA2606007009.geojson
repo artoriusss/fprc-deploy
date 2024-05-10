@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.065738476705800006, "Shape_Area": 0.00011430075052, "ADM4_EN": "Novyi Mizun", "ADM4_UA": "Новий Мізунь", "ADM4_PCODE": "UA2606007009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vyhodska", "ADM3_UA": "Вигодська", "ADM3_PCODE": "UA2606007", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.842766, 48.892597 ], [ 23.843957001000035, 48.894427 ], [ 23.841791999000066, 48.899297 ], [ 23.834887, 48.897242 ], [ 23.829528001000028, 48.892853 ], [ 23.831078, 48.890929 ], [ 23.821498, 48.886495 ], [ 23.823640001000058, 48.885196 ], [ 23.841466999000033, 48.891101 ], [ 23.842766, 48.892597 ] ] ] } }
-]
-}

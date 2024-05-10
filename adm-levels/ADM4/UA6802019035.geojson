@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.055804759711199997, "Shape_Area": 6.0821516648699997e-05, "ADM4_EN": "Myrzhiivka", "ADM4_UA": "Миржіївка", "ADM4_PCODE": "UA6802019035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoushytska", "ADM3_UA": "Новоушицька", "ADM3_PCODE": "UA6802019", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.142892, 48.927188 ], [ 27.142095, 48.933331 ], [ 27.139234001000034, 48.933678 ], [ 27.137454, 48.929437001000053 ], [ 27.133715, 48.927692 ], [ 27.131575001000044, 48.924124 ], [ 27.136635, 48.923205 ], [ 27.137841, 48.926773 ], [ 27.141208001000052, 48.926603 ], [ 27.142892, 48.927188 ] ] ] } }
-]
-}

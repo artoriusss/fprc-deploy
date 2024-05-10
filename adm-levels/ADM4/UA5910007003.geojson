@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11564528962, "Shape_Area": 0.000118724464285, "ADM4_EN": "Bachivsk", "ADM4_UA": "Бачівськ", "ADM4_PCODE": "UA5910007003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Esmanska", "ADM3_UA": "Есманьська", "ADM3_PCODE": "UA5910007", "ADM2_EN": "Shostkynskyi", "ADM2_UA": "Шосткинський", "ADM2_PCODE": "UA5910", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.282988, 51.855091 ], [ 34.280834, 51.850853 ], [ 34.276344, 51.85009 ], [ 34.275591999000028, 51.846556 ], [ 34.272009001000072, 51.844462 ], [ 34.264247, 51.842895 ], [ 34.266237999000055, 51.840583 ], [ 34.272211, 51.841928 ], [ 34.274356999000076, 51.83979 ], [ 34.277865001000066, 51.841386 ], [ 34.282781, 51.848138 ], [ 34.282988, 51.855091 ] ] ] } }
-]
-}

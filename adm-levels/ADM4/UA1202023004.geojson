@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.124658519967, "Shape_Area": 0.00024865813741800001, "ADM4_EN": "Holubynivka", "ADM4_UA": "Голубинівка", "ADM4_PCODE": "UA1202023004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sviatovasylivska", "ADM3_UA": "Святовасилівська", "ADM3_PCODE": "UA1202023", "ADM2_EN": "Dniprovskyi", "ADM2_UA": "Дніпровський", "ADM2_PCODE": "UA1202", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.435609, 48.179369 ], [ 34.443793999000036, 48.181446 ], [ 34.453091, 48.18097 ], [ 34.462708, 48.170717 ], [ 34.464712, 48.175924 ], [ 34.467929, 48.177627 ], [ 34.472628, 48.183369 ], [ 34.472925, 48.185307 ], [ 34.466269001000057, 48.187214 ], [ 34.453436999000076, 48.183664 ], [ 34.439354, 48.184247 ], [ 34.434456, 48.182994 ], [ 34.435609, 48.179369 ] ] ] } }
-]
-}

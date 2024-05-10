@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.070333876885400007, "Shape_Area": 9.5424840527699999e-05, "ADM4_EN": "Zelenyi Hai", "ADM4_UA": "Зелений Гай", "ADM4_PCODE": "UA3504001004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Adzhamska", "ADM3_UA": "Аджамська", "ADM3_PCODE": "UA3504001", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.464365, 48.579794 ], [ 32.453119999000023, 48.580876 ], [ 32.450226, 48.585613 ], [ 32.444474, 48.585215 ], [ 32.44237, 48.578813 ], [ 32.456588001000057, 48.577116 ], [ 32.457265, 48.578939 ], [ 32.464365, 48.579794 ] ] ] } }
-]
-}

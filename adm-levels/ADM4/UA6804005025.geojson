@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.112133922898, "Shape_Area": 0.00031315025258799999, "ADM4_EN": "Pyrohivka", "ADM4_UA": "Пирогівка", "ADM4_PCODE": "UA6804005025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vinkovetska", "ADM3_UA": "Віньковецька", "ADM3_PCODE": "UA6804005", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.141956, 49.10326 ], [ 27.135703999000043, 49.100356 ], [ 27.138802, 49.096652 ], [ 27.135706, 49.094669 ], [ 27.133764, 49.091182 ], [ 27.124557, 49.092158 ], [ 27.123626999000066, 49.088791 ], [ 27.128294, 49.086475 ], [ 27.132037, 49.086085 ], [ 27.142246999000065, 49.087207 ], [ 27.152003, 49.091564 ], [ 27.152048999000044, 49.093127 ], [ 27.161699, 49.093685 ], [ 27.161573, 49.098267 ], [ 27.156059999000036, 49.097962 ], [ 27.151406, 49.101158 ], [ 27.145944, 49.101146 ], [ 27.141956, 49.10326 ] ] ] } }
-]
-}

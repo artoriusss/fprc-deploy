@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.054554697564700001, "Shape_Area": 0.00013077648081200001, "ADM4_EN": "Velyke Burylove", "ADM4_UA": "Велике Бурилове", "ADM4_PCODE": "UA5112011006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kuialnytska", "ADM3_UA": "Куяльницька", "ADM3_PCODE": "UA5112011", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.288093, 47.783384 ], [ 29.286886, 47.785685 ], [ 29.282723, 47.786775 ], [ 29.279090999000061, 47.780699 ], [ 29.275789, 47.781532 ], [ 29.270553, 47.773266 ], [ 29.278176, 47.770949 ], [ 29.280146001000048, 47.774347 ], [ 29.28266, 47.773685 ], [ 29.288093, 47.783384 ] ] ] } }
-]
-}

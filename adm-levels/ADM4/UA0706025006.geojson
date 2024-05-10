@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073624833614900007, "Shape_Area": 7.4874884956300001e-05, "ADM4_EN": "Moshchena", "ADM4_UA": "Мощена", "ADM4_PCODE": "UA0706025006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Liublynetska", "ADM3_UA": "Люблинецька", "ADM3_PCODE": "UA0706025", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.596791129000053, 51.263995004000037 ], [ 24.602196129000049, 51.258675005000043 ], [ 24.616095127000051, 51.254937004000055 ], [ 24.617520127000034, 51.257893004000039 ], [ 24.596791129000053, 51.263995004000037 ] ] ] } }
-]
-}

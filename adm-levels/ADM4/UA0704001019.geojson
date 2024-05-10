@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.071565672277800002, "Shape_Area": 0.000113900707842, "ADM4_EN": "Dubrovytsia", "ADM4_UA": "Дубровиця", "ADM4_PCODE": "UA0704001019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kamin-Kashyrska", "ADM3_UA": "Камінь-Каширська", "ADM3_PCODE": "UA0704001", "ADM2_EN": "Kamin-Kashyrskyi", "ADM2_UA": "Камінь-Каширський", "ADM2_PCODE": "UA0704", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.778306109000027, 51.669468003000077 ], [ 24.770600111000078, 51.668943004000027 ], [ 24.76487011100005, 51.666776003000052 ], [ 24.766392109000037, 51.661421004000033 ], [ 24.782323108000071, 51.66212300400008 ], [ 24.778306109000027, 51.669468003000077 ] ] ] } }
-]
-}

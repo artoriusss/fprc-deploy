@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.074466066254100002, "Shape_Area": 0.000100749996051, "ADM4_EN": "Honchari", "ADM4_UA": "Гончарі", "ADM4_PCODE": "UA5306033015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shyshatska", "ADM3_UA": "Шишацька", "ADM3_PCODE": "UA5306033", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.96234058400006, 49.759676457000069 ], [ 33.954227206000041, 49.760989419000055 ], [ 33.949804849000031, 49.758272050000073 ], [ 33.952320001000032, 49.755568 ], [ 33.957141999000044, 49.758142 ], [ 33.960041698000055, 49.757956930000034 ], [ 33.965605855000035, 49.755199190000042 ], [ 33.969301938000058, 49.755502843000045 ], [ 33.972632589000057, 49.757767145000059 ], [ 33.96234058400006, 49.759676457000069 ] ] ] } }
-]
-}

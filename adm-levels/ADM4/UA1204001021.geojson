@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.094437009694, "Shape_Area": 0.00019355300249, "ADM4_EN": "Kruta Balka", "ADM4_UA": "Крута Балка", "ADM4_PCODE": "UA1204001021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bozhedarivska", "ADM3_UA": "Божедарівська", "ADM3_PCODE": "UA1204001", "ADM2_EN": "Kamianskyi", "ADM2_UA": "Кам’янський", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.032732, 48.179805 ], [ 34.026405, 48.179381 ], [ 34.025914001000046, 48.1734 ], [ 34.027957, 48.16158 ], [ 34.029657999000051, 48.163647 ], [ 34.034486, 48.164117 ], [ 34.037773, 48.161883 ], [ 34.036789, 48.169123 ], [ 34.042182999000033, 48.169674 ], [ 34.039824001000056, 48.174381 ], [ 34.033992, 48.17404 ], [ 34.032732, 48.179805 ] ] ] } }
-]
-}

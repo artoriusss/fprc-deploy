@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.088687169822400005, "Shape_Area": 0.00032420875362299998, "ADM4_EN": "Horinchovo", "ADM4_UA": "Горінчово", "ADM4_PCODE": "UA2112005001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horinchivska", "ADM3_UA": "Горінчівська", "ADM3_PCODE": "UA2112005", "ADM2_EN": "Khustskyi", "ADM2_UA": "Хустський", "ADM2_PCODE": "UA2112", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.426396350000061, 48.262586015000068 ], [ 23.43246135000004, 48.26325401400004 ], [ 23.444475346000047, 48.269540014000029 ], [ 23.450747344000035, 48.273545014000035 ], [ 23.442868346000068, 48.28030401400008 ], [ 23.428925351000032, 48.276912014000061 ], [ 23.42244835300005, 48.269303014000059 ], [ 23.420290353000041, 48.264319015000069 ], [ 23.420544353000025, 48.261199015000045 ], [ 23.426396350000061, 48.262586015000068 ] ] ] } }
-]
-}

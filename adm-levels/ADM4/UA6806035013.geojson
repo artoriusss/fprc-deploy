@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0503811939845, "Shape_Area": 9.4266248789700004e-05, "ADM4_EN": "Tykhomel", "ADM4_UA": "Тихомель", "ADM4_PCODE": "UA6806035013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yampilska", "ADM3_UA": "Ямпільська", "ADM3_PCODE": "UA6806035", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.253168008000046, 49.960983187000068 ], [ 26.258808, 49.962518 ], [ 26.266235, 49.961188 ], [ 26.268432, 49.962955 ], [ 26.265733, 49.967049 ], [ 26.249337, 49.966161 ], [ 26.24644330600006, 49.965039801000046 ], [ 26.248429749000024, 49.962728482000045 ], [ 26.253168008000046, 49.960983187000068 ] ] ] } }
-]
-}

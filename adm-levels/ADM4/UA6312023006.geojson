@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0424564694999, "Shape_Area": 4.8322310345299998e-05, "ADM4_EN": "Khroly", "ADM4_UA": "Хроли", "ADM4_PCODE": "UA6312023006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rohanska", "ADM3_UA": "Роганська", "ADM3_PCODE": "UA6312023", "ADM2_EN": "Kharkivskyi", "ADM2_UA": "Харківський", "ADM2_PCODE": "UA6312", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.375883, 49.904754 ], [ 36.360840001000042, 49.902257 ], [ 36.360638, 49.899187 ], [ 36.367536, 49.90008 ], [ 36.371593, 49.899675 ], [ 36.372944, 49.903069 ], [ 36.375883, 49.904754 ] ] ] } }
-]
-}

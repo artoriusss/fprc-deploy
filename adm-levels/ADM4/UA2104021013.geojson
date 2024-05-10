@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0453957458013, "Shape_Area": 5.90967654191e-05, "ADM4_EN": "Yakivske", "ADM4_UA": "Яківське", "ADM4_PCODE": "UA2104021013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Polianska", "ADM3_UA": "Полянська", "ADM3_PCODE": "UA2104021", "ADM2_EN": "Mukachivskyi", "ADM2_UA": "Мукачівський", "ADM2_PCODE": "UA2104", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.94198155600003, 48.647501023000075 ], [ 22.94149655700005, 48.642561023000042 ], [ 22.937586558000078, 48.635964023000042 ], [ 22.93975255600003, 48.633723023000073 ], [ 22.947755553000036, 48.646592023000039 ], [ 22.94198155600003, 48.647501023000075 ] ] ] } }
-]
-}

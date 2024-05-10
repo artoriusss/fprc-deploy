@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0668635489694, "Shape_Area": 0.000236899921021, "ADM4_EN": "Krylovka", "ADM4_UA": "Криловка", "ADM4_PCODE": "UA0112067002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stepnivska", "ADM3_UA": "Степнівська", "ADM3_PCODE": "UA0112067", "ADM2_EN": "Krasnohvardiiskyi", "ADM2_UA": "Красногвардійський", "ADM2_PCODE": "UA0112", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.658657094000034, 45.701806250000061 ], [ 33.659842826000045, 45.706973987000026 ], [ 33.654203206000034, 45.707548941000027 ], [ 33.654836519000071, 45.711550292000027 ], [ 33.63576295200005, 45.711916052000049 ], [ 33.639115878000041, 45.701979511000047 ], [ 33.642401706000044, 45.699578496000072 ], [ 33.657595651000065, 45.699268034000056 ], [ 33.658657094000034, 45.701806250000061 ] ] ] } }
-]
-}

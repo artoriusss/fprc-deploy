@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.075339657027199997, "Shape_Area": 0.00015578778798900001, "ADM4_EN": "Verkhiv", "ADM4_UA": "Верхів", "ADM4_PCODE": "UA5606045011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ostrozka", "ADM3_UA": "Острозька", "ADM3_PCODE": "UA5606045", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.322957, 50.386346010000068 ], [ 26.312574960000063, 50.388958980000041 ], [ 26.309802961000059, 50.385909960000049 ], [ 26.306115119000026, 50.385635010000044 ], [ 26.302347, 50.383284030000027 ], [ 26.306344799000044, 50.37942699000007 ], [ 26.312424121000049, 50.380721010000059 ], [ 26.325027, 50.381134020000047 ], [ 26.328535200000033, 50.385275010000043 ], [ 26.325799199000073, 50.38765101000007 ], [ 26.322957, 50.386346010000068 ] ] ] } }
-]
-}

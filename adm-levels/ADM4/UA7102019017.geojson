@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.107598550653, "Shape_Area": 0.000458784107429, "ADM4_EN": "Chaplynka", "ADM4_UA": "Чаплинка", "ADM4_PCODE": "UA7102019017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lysianska", "ADM3_UA": "Лисянська", "ADM3_PCODE": "UA7102019", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.631088, 49.347689 ], [ 30.628593, 49.345673 ], [ 30.616081, 49.34746 ], [ 30.614651, 49.344797 ], [ 30.619240999000056, 49.343114 ], [ 30.623671, 49.334592 ], [ 30.633006, 49.326154 ], [ 30.639944999000079, 49.328029 ], [ 30.648015, 49.327301500000033 ], [ 30.657093407000048, 49.329169797000077 ], [ 30.652120934000038, 49.333605391000049 ], [ 30.640612633000046, 49.339615778000052 ], [ 30.640853881000055, 49.344369786000073 ], [ 30.631088, 49.347689 ] ] ] } }
-]
-}

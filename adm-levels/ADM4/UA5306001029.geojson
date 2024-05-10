@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.078755092383800004, "Shape_Area": 0.00010487637250299999, "ADM4_EN": "Shpyrny", "ADM4_UA": "Шпирни", "ADM4_PCODE": "UA5306001029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilotserkivska", "ADM3_UA": "Білоцерківська", "ADM3_PCODE": "UA5306001", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.676359, 49.610185 ], [ 33.666419, 49.610644 ], [ 33.652565999000046, 49.606473 ], [ 33.652267833000053, 49.603620080000042 ], [ 33.657841082000061, 49.602691463000042 ], [ 33.659703, 49.604629 ], [ 33.666342, 49.606138 ], [ 33.679768, 49.606771 ], [ 33.676359, 49.610185 ] ] ] } }
-]
-}

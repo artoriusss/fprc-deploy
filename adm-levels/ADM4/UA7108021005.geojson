@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11783552098900001, "Shape_Area": 0.00067299770696699996, "ADM4_EN": "Sushky", "ADM4_UA": "Сушки", "ADM4_PCODE": "UA7108021005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lipliavska", "ADM3_UA": "Ліплявська", "ADM3_PCODE": "UA7108021", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.668391, 49.710842 ], [ 31.651147, 49.713442 ], [ 31.649741, 49.715179 ], [ 31.643315, 49.71551 ], [ 31.633869001000051, 49.709314 ], [ 31.631815, 49.702357 ], [ 31.631401001000029, 49.695707 ], [ 31.635596001000067, 49.691278 ], [ 31.642129, 49.690939 ], [ 31.652241, 49.696516 ], [ 31.662174999000058, 49.700953 ], [ 31.677262226000039, 49.702546731000041 ], [ 31.674823465000031, 49.709540441000058 ], [ 31.668391, 49.710842 ] ] ] } }
-]
-}

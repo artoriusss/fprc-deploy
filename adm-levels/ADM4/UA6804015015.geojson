@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.118786840413, "Shape_Area": 0.00024376190300700001, "ADM4_EN": "Kopachivka", "ADM4_UA": "Копачівка", "ADM4_PCODE": "UA6804015015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Derazhnianska", "ADM3_UA": "Деражнянська", "ADM3_PCODE": "UA6804015", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.35087, 49.356378 ], [ 27.34503, 49.357576 ], [ 27.339688, 49.352246 ], [ 27.332954, 49.354792 ], [ 27.331219999000041, 49.35255 ], [ 27.341159, 49.348839 ], [ 27.343548999000063, 49.344526 ], [ 27.348726, 49.342843 ], [ 27.348963, 49.345884 ], [ 27.352375001000041, 49.350096 ], [ 27.362861, 49.347152 ], [ 27.36506, 49.344908 ], [ 27.368118, 49.346588 ], [ 27.366569, 49.349806 ], [ 27.359981001000051, 49.352489 ], [ 27.359958, 49.354221 ], [ 27.353981001000079, 49.354559 ], [ 27.35087, 49.356378 ] ] ] } }
-]
-}

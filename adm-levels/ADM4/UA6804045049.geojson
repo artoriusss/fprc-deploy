@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.050273006161300003, "Shape_Area": 9.4246205943300003e-05, "ADM4_EN": "Troianivka", "ADM4_UA": "Троянівка", "ADM4_PCODE": "UA6804045049", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Teofipolska", "ADM3_UA": "Теофіпольська", "ADM3_PCODE": "UA6804045", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.493234001000076, 49.833936 ], [ 26.487663999000063, 49.834594 ], [ 26.480468, 49.828144 ], [ 26.488081, 49.826789 ], [ 26.491811, 49.823445 ], [ 26.494979, 49.824755 ], [ 26.494422, 49.832797 ], [ 26.493234001000076, 49.833936 ] ] ] } }
-]
-}

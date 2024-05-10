@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.115977154276, "Shape_Area": 0.00019473491459399999, "ADM4_EN": "Semky", "ADM4_UA": "Семки", "ADM4_PCODE": "UA0512003010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhdanivska", "ADM3_UA": "Жданівська", "ADM3_PCODE": "UA0512003", "ADM2_EN": "Khmilnytskyi", "ADM2_UA": "Хмільницький", "ADM2_PCODE": "UA0512", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.914581001000045, 49.663127 ], [ 27.907741999000052, 49.663343 ], [ 27.908068999000079, 49.660027 ], [ 27.905501, 49.652735 ], [ 27.903561, 49.650566 ], [ 27.896257001000038, 49.651108 ], [ 27.897259001000066, 49.648455 ], [ 27.901372001000027, 49.648906 ], [ 27.912926, 49.652339 ], [ 27.931022, 49.658624 ], [ 27.928860001000032, 49.660164 ], [ 27.920394, 49.659674 ], [ 27.915375, 49.660587 ], [ 27.914581001000045, 49.663127 ] ] ] } }
-]
-}

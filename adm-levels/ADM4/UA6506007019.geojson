@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057122366889599999, "Shape_Area": 8.6268492598999997e-05, "ADM4_EN": "Chervonoblahodatne", "ADM4_UA": "Червоноблагодатне", "ADM4_PCODE": "UA6506007019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hornostaivska", "ADM3_UA": "Горностаївська", "ADM3_PCODE": "UA6506007", "ADM2_EN": "Kakhovskyi", "ADM2_UA": "Каховський", "ADM2_PCODE": "UA6506", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.037556, 47.008427 ], [ 34.032609, 47.006906 ], [ 34.030693, 47.000564 ], [ 34.035196001000031, 46.999089 ], [ 34.038951, 46.999402 ], [ 34.038858, 47.00288 ], [ 34.041317, 47.006418 ], [ 34.037556, 47.008427 ] ] ] } }
-]
-}

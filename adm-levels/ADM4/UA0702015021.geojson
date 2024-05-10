@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.066484300580699998, "Shape_Area": 0.000158503551466, "ADM4_EN": "Yahidne", "ADM4_UA": "Ягідне", "ADM4_PCODE": "UA0702015021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ovadnivska", "ADM3_UA": "Оваднівська", "ADM3_PCODE": "UA0702015", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.328314168000077, 51.032759006000049 ], [ 24.320429171000058, 51.031243005000078 ], [ 24.323631169000066, 51.025589005000029 ], [ 24.332969168000034, 51.023481005000065 ], [ 24.347524165000038, 51.026292005000073 ], [ 24.342660165000041, 51.027528006000068 ], [ 24.339296166000054, 51.031509006000078 ], [ 24.328314168000077, 51.032759006000049 ] ] ] } }
-]
-}

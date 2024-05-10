@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0573875654586, "Shape_Area": 0.000114372722252, "ADM4_EN": "Vuhly", "ADM4_UA": "Вугли", "ADM4_PCODE": "UA0512017007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khmilnytska", "ADM3_UA": "Хмільницька", "ADM3_PCODE": "UA0512017", "ADM2_EN": "Khmilnytskyi", "ADM2_UA": "Хмільницький", "ADM2_PCODE": "UA0512", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.88955, 49.529804 ], [ 27.880795999000043, 49.525838 ], [ 27.883669500000053, 49.518763 ], [ 27.890274315000056, 49.515690509000081 ], [ 27.894244, 49.520869 ], [ 27.890981999000076, 49.525488 ], [ 27.88955, 49.529804 ] ] ] } }
-]
-}

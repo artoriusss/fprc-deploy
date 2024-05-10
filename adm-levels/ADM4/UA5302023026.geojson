@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0716924626659, "Shape_Area": 0.000226785371877, "ADM4_EN": "Mali Lypniahy", "ADM4_UA": "Малі Липняги", "ADM4_PCODE": "UA5302023026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Semenivska", "ADM3_UA": "Семенівська", "ADM3_PCODE": "UA5302023", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.144364, 49.62159 ], [ 33.142174, 49.626687 ], [ 33.144259999000042, 49.629363 ], [ 33.12817300100005, 49.632588 ], [ 33.123249999000052, 49.627033 ], [ 33.135209, 49.62143 ], [ 33.135525, 49.614978 ], [ 33.141345999000066, 49.613044 ], [ 33.147157, 49.62035 ], [ 33.144364, 49.62159 ] ] ] } }
-]
-}

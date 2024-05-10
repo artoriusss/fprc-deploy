@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.085303191697, "Shape_Area": 0.00015420650248200001, "ADM4_EN": "Samchyntsi", "ADM4_UA": "Самчинці", "ADM4_PCODE": "UA0504019015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Raihorodska", "ADM3_UA": "Райгородська", "ADM3_PCODE": "UA0504019", "ADM2_EN": "Haisynskyi", "ADM2_UA": "Гайсинський", "ADM2_PCODE": "UA0504", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.028394, 48.864807 ], [ 29.040964, 48.862282 ], [ 29.042443, 48.863654 ], [ 29.037478, 48.868875 ], [ 29.034431, 48.867907 ], [ 29.032269, 48.876647 ], [ 29.029113, 48.87887 ], [ 29.022971999000049, 48.874179 ], [ 29.024372001000074, 48.871235 ], [ 29.028394, 48.864807 ] ] ] } }
-]
-}

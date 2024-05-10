@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10918482551, "Shape_Area": 0.000231883608103, "ADM4_EN": "Mostovivshchyna", "ADM4_UA": "Мостовівщина", "ADM4_PCODE": "UA5306001018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilotserkivska", "ADM3_UA": "Білоцерківська", "ADM3_PCODE": "UA5306001", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.647781, 49.655319 ], [ 33.644762, 49.657344 ], [ 33.639212999000051, 49.64816 ], [ 33.642485, 49.645111 ], [ 33.649178, 49.644158 ], [ 33.66113000100006, 49.645265 ], [ 33.65996, 49.648579 ], [ 33.669081001000052, 49.649872 ], [ 33.668629, 49.6531 ], [ 33.65564, 49.654644 ], [ 33.650404, 49.653367 ], [ 33.647781, 49.655319 ] ] ] } }
-]
-}

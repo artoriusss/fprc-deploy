@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060530915165199997, "Shape_Area": 9.9243067583500006e-05, "ADM4_EN": "Kaitanivka", "ADM4_UA": "Кайтанівка", "ADM4_PCODE": "UA1804045017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Radomyshlska", "ADM3_UA": "Радомишльська", "ADM3_PCODE": "UA1804045", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.007848160000037, 50.489847990000044 ], [ 29.003234040000052, 50.489946990000078 ], [ 28.997717041000044, 50.486327010000082 ], [ 29.006814959000053, 50.486838030000058 ], [ 29.007465839000076, 50.48418096000006 ], [ 29.023884, 50.484888990000059 ], [ 29.023338960000046, 50.487788970000054 ], [ 29.007848160000037, 50.489847990000044 ] ] ] } }
-]
-}

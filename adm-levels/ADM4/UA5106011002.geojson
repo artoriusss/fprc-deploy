@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.055069563515699999, "Shape_Area": 0.000132659112618, "ADM4_EN": "Kosa", "ADM4_UA": "Коса", "ADM4_PCODE": "UA5106011002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krynychnenska", "ADM3_UA": "Криничненська", "ADM3_PCODE": "UA5106011", "ADM2_EN": "Bolhradskyi", "ADM2_UA": "Болградський", "ADM2_PCODE": "UA5106", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.648546, 45.484189 ], [ 28.646299001000045, 45.483849 ], [ 28.644651, 45.474693 ], [ 28.644711, 45.470778 ], [ 28.655142, 45.471231 ], [ 28.653668, 45.47514 ], [ 28.659033001000068, 45.476097 ], [ 28.65738, 45.48172 ], [ 28.649565, 45.480546 ], [ 28.648546, 45.484189 ] ] ] } }
-]
-}

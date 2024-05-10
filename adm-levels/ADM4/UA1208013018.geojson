@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.107994952817, "Shape_Area": 0.000218082746994, "ADM4_EN": "Mykhailivka", "ADM4_UA": "Михайлівка", "ADM4_PCODE": "UA1208013018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tomakivska", "ADM3_UA": "Томаківська", "ADM3_PCODE": "UA1208013", "ADM2_EN": "Nikopolskyi", "ADM2_UA": "Нікопольський", "ADM2_PCODE": "UA1208", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.826262, 47.865751 ], [ 34.821947700000067, 47.866125211000053 ], [ 34.811994359000039, 47.861963994000064 ], [ 34.805131433000042, 47.857639086000063 ], [ 34.799757821000071, 47.848788963000061 ], [ 34.797013372000038, 47.847153580000054 ], [ 34.794358067000076, 47.841433854000059 ], [ 34.796675, 47.839203 ], [ 34.801576999000076, 47.841969 ], [ 34.805869001000076, 47.846174 ], [ 34.811619, 47.855508 ], [ 34.817356, 47.861715 ], [ 34.823468999000056, 47.86259 ], [ 34.826262, 47.865751 ] ] ] } }
-]
-}

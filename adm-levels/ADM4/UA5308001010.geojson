@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.069662448148199996, "Shape_Area": 0.00015509645664499999, "ADM4_EN": "Zhuky", "ADM4_UA": "Жуки", "ADM4_PCODE": "UA5308001010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilytska", "ADM3_UA": "Білицька", "ADM3_PCODE": "UA5308001", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.258118, 49.293056 ], [ 34.255207924000047, 49.295407952000062 ], [ 34.2518, 49.292812 ], [ 34.243658, 49.293568 ], [ 34.240652589000035, 49.291620958000067 ], [ 34.248283151000066, 49.285762144000046 ], [ 34.246585475000074, 49.28464546400005 ], [ 34.254251626000041, 49.279799942000068 ], [ 34.25937299900005, 49.283219 ], [ 34.255649001000052, 49.285573 ], [ 34.258262999000067, 49.290319 ], [ 34.258118, 49.293056 ] ] ] } }
-]
-}

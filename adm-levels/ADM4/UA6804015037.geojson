@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.085297680966900005, "Shape_Area": 0.00024570552028999997, "ADM4_EN": "Yablunivka", "ADM4_UA": "Яблунівка", "ADM4_PCODE": "UA6804015037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Derazhnianska", "ADM3_UA": "Деражнянська", "ADM3_PCODE": "UA6804015", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.396898, 49.224705 ], [ 27.398279001000049, 49.226918 ], [ 27.390533, 49.23203 ], [ 27.389533, 49.228233 ], [ 27.386327, 49.224347 ], [ 27.382536001000062, 49.222919 ], [ 27.376698, 49.223895001000074 ], [ 27.374199, 49.220867 ], [ 27.375967, 49.217217 ], [ 27.380954999000039, 49.213759 ], [ 27.389842, 49.209765 ], [ 27.392989001000046, 49.211531 ], [ 27.393716999000048, 49.215895 ], [ 27.391449999000031, 49.218895 ], [ 27.392976, 49.223129 ], [ 27.396898, 49.224705 ] ] ] } }
-]
-}

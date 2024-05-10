@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057832255205099999, "Shape_Area": 7.2499409985099999e-05, "ADM4_EN": "Hankovytsia", "ADM4_UA": "Ганьковиця", "ADM4_PCODE": "UA2104017003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nelipynska", "ADM3_UA": "Неліпинська", "ADM3_PCODE": "UA2104017", "ADM2_EN": "Mukachivskyi", "ADM2_UA": "Мукачівський", "ADM2_PCODE": "UA2104", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.05561550300007, 48.639128020000044 ], [ 23.053471504000072, 48.636983020000059 ], [ 23.048658504000059, 48.635306021000076 ], [ 23.048432504000061, 48.631269021000037 ], [ 23.057809500000076, 48.632415021000043 ], [ 23.06099449900006, 48.633802020000076 ], [ 23.059685500000057, 48.637073021000049 ], [ 23.05561550300007, 48.639128020000044 ] ] ] } }
-]
-}

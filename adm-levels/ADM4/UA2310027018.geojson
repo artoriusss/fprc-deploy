@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.064337792619099998, "Shape_Area": 8.9272240649199998e-05, "ADM4_EN": "Snihurivka", "ADM4_UA": "Снігурівка", "ADM4_PCODE": "UA2310027018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tokmatska", "ADM3_UA": "Токмацька", "ADM3_PCODE": "UA2310027", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.835549796000066, 47.249026163000053 ], [ 35.824622055000077, 47.248939260000043 ], [ 35.824150026000041, 47.244994004000034 ], [ 35.837942622000071, 47.244403170000055 ], [ 35.850196468000036, 47.245788527000059 ], [ 35.850089325000056, 47.247861876000059 ], [ 35.835549796000066, 47.249026163000053 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0905990886444, "Shape_Area": 6.2469747128100002e-05, "ADM4_EN": "Holykove", "ADM4_UA": "Голикове", "ADM4_PCODE": "UA4412003002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kreminska", "ADM3_UA": "Кремінська", "ADM3_PCODE": "UA4412003", "ADM2_EN": "Sievierodonetskyi", "ADM2_UA": "Сєвєродонецький", "ADM2_PCODE": "UA4412", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.155120001000057, 49.174392 ], [ 38.157672, 49.171053 ], [ 38.165278001000047, 49.164925 ], [ 38.171585, 49.164687 ], [ 38.155120001000057, 49.174392 ] ] ] } }
-]
-}

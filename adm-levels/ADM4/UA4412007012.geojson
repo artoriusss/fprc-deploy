@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.034340050908500001, "Shape_Area": 3.2729652093499998e-05, "ADM4_EN": "Druzhba", "ADM4_UA": "Дружба", "ADM4_PCODE": "UA4412007012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Popasnianska", "ADM3_UA": "Попаснянська", "ADM3_PCODE": "UA4412007", "ADM2_EN": "Sievierodonetskyi", "ADM2_UA": "Сєвєродонецький", "ADM2_PCODE": "UA4412", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 38.304232001000059, 48.643417 ], [ 38.306042, 48.647037 ], [ 38.302750999000068, 48.647822 ], [ 38.300958, 48.644044 ], [ 38.304232001000059, 48.643417 ] ] ], [ [ [ 38.337886741000034, 48.630045086000052 ], [ 38.33396, 48.629135 ], [ 38.336997001000043, 48.626292 ], [ 38.337886741000034, 48.630045086000052 ] ] ] ] } }
-]
-}

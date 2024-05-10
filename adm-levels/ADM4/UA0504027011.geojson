@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.113193211209, "Shape_Area": 0.00019635338073799999, "ADM4_EN": "Kurenivka", "ADM4_UA": "Куренівка", "ADM4_PCODE": "UA0504027011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chechelnytska", "ADM3_UA": "Чечельницька", "ADM3_PCODE": "UA0504027", "ADM2_EN": "Haisynskyi", "ADM2_UA": "Гайсинський", "ADM2_PCODE": "UA0504", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.201566, 48.262819 ], [ 29.19302, 48.259618 ], [ 29.18688, 48.261016 ], [ 29.189682, 48.255294 ], [ 29.197079, 48.250412 ], [ 29.198964, 48.25104 ], [ 29.205672001000039, 48.247574 ], [ 29.208853999000041, 48.250655 ], [ 29.217225, 48.244665 ], [ 29.21935650000006, 48.246119 ], [ 29.204697, 48.256753 ], [ 29.201234, 48.26013 ], [ 29.201566, 48.262819 ] ] ] } }
-]
-}

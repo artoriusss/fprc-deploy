@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0669249062891, "Shape_Area": 5.26559108789e-05, "ADM4_EN": "Temnivka", "ADM4_UA": "Темнівка", "ADM4_PCODE": "UA6312001008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bezliudivska", "ADM3_UA": "Безлюдівська", "ADM3_PCODE": "UA6312001", "ADM2_EN": "Kharkivskyi", "ADM2_UA": "Харківський", "ADM2_PCODE": "UA6312", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.357847999000057, 49.798038001000066 ], [ 36.352497001000074, 49.797236 ], [ 36.336138, 49.797638 ], [ 36.335916, 49.795031 ], [ 36.354049001000078, 49.79606 ], [ 36.357847999000057, 49.798038001000066 ] ] ] } }
-]
-}

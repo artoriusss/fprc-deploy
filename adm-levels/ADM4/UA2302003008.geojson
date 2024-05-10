@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.039442878036099999, "Shape_Area": 3.5526196111699998e-05, "ADM4_EN": "Novosilske", "ADM4_UA": "Новосільське", "ADM4_PCODE": "UA2302003008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Andriivska", "ADM3_UA": "Андріївська", "ADM3_PCODE": "UA2302003", "ADM2_EN": "Berdianskyi", "ADM2_UA": "Бердянський", "ADM2_PCODE": "UA2302", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.470348143000024, 47.06438354900007 ], [ 36.47437119500006, 47.073320675000048 ], [ 36.472014298000033, 47.073508868000033 ], [ 36.470144571000048, 47.070042828000055 ], [ 36.470348143000024, 47.06438354900007 ] ] ] } }
-]
-}

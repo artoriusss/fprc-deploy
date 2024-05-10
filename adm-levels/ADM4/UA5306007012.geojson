@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.069690098598500005, "Shape_Area": 0.00013553611239599999, "ADM4_EN": "Olefirivka", "ADM4_UA": "Олефірівка", "ADM4_PCODE": "UA5306007012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykosorochynska", "ADM3_UA": "Великосорочинська", "ADM3_PCODE": "UA5306007", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.973525, 50.080818 ], [ 33.966383001000054, 50.080504 ], [ 33.962755, 50.076189 ], [ 33.953411, 50.073036 ], [ 33.955556999000066, 50.070779 ], [ 33.963980999000057, 50.073065 ], [ 33.969801, 50.073083 ], [ 33.972581, 50.070737 ], [ 33.979374, 50.075969 ], [ 33.973525, 50.080818 ] ] ] } }
-]
-}

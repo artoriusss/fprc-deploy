@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.049500014742199998, "Shape_Area": 0.000112345140332, "ADM4_EN": "Koltsove", "ADM4_UA": "Кольцове", "ADM4_PCODE": "UA0108025001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Koltsovska", "ADM3_UA": "Кольцовська", "ADM3_PCODE": "UA0108025", "ADM2_EN": "Yevpatoriiskyi", "ADM2_UA": "Євпаторійський", "ADM2_PCODE": "UA0108", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.453232650000075, 45.331527032000054 ], [ 33.444624591000036, 45.331500348000077 ], [ 33.441849226000045, 45.327780344000075 ], [ 33.44422152900006, 45.322870605000048 ], [ 33.45043796300007, 45.322483057000056 ], [ 33.451773634000062, 45.324358291000067 ], [ 33.456848359000048, 45.322149573000047 ], [ 33.456852975000061, 45.331453256000032 ], [ 33.453232650000075, 45.331527032000054 ] ] ] } }
-]
-}

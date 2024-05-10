@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.059170037400799999, "Shape_Area": 9.2010940819299997e-05, "ADM4_EN": "Vovcha Balka", "ADM4_UA": "Вовча Балка", "ADM4_PCODE": "UA5308025006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mashivska", "ADM3_UA": "Машівська", "ADM3_PCODE": "UA5308025", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.042108, 49.476598 ], [ 35.039537001000042, 49.477978 ], [ 35.03075275100008, 49.477889755000035 ], [ 35.030436, 49.475711 ], [ 35.040862, 49.473267 ], [ 35.049500500000079, 49.468695 ], [ 35.050749001000042, 49.472195 ], [ 35.042108, 49.476598 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.101302785359, "Shape_Area": 0.00012758565488900001, "ADM4_EN": "Chesnivskyi Rakovets", "ADM4_UA": "Чеснівський Раковець", "ADM4_PCODE": "UA6104015049", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zbarazka", "ADM3_UA": "Збаразька", "ADM3_PCODE": "UA6104015", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.666214999000033, 49.847012 ], [ 25.667581, 49.844459 ], [ 25.665745, 49.83492 ], [ 25.665922, 49.827427 ], [ 25.669944, 49.82173 ], [ 25.678572999000039, 49.818233 ], [ 25.680002, 49.82007 ], [ 25.671212, 49.823587 ], [ 25.672262, 49.829984 ], [ 25.669058999000072, 49.83424 ], [ 25.672649, 49.838073 ], [ 25.66956299900005, 49.839347 ], [ 25.668824001000075, 49.846793 ], [ 25.666214999000033, 49.847012 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12518107228799999, "Shape_Area": 0.00049648703810999996, "ADM4_EN": "Krasnosilka", "ADM4_UA": "Красносілка", "ADM4_PCODE": "UA5110019001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasnosilska", "ADM3_UA": "Красносільська", "ADM3_PCODE": "UA5110019", "ADM2_EN": "Odeskyi", "ADM2_UA": "Одеський", "ADM2_PCODE": "UA5110", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.777431, 46.631762 ], [ 30.771641, 46.634211 ], [ 30.769802, 46.638044 ], [ 30.764148001000024, 46.639476 ], [ 30.765388, 46.635488 ], [ 30.762842, 46.63058 ], [ 30.765163, 46.629843 ], [ 30.756166001000054, 46.617859 ], [ 30.762374, 46.61336 ], [ 30.762942001000056, 46.609957 ], [ 30.768829, 46.608424 ], [ 30.77982, 46.613499 ], [ 30.778369, 46.619929 ], [ 30.786707, 46.62810999900006 ], [ 30.787703, 46.631367 ], [ 30.780729, 46.633092 ], [ 30.777431, 46.631762 ] ] ] } }
-]
-}

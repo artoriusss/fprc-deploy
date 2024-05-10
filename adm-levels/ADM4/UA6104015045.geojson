@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.054294059247899998, "Shape_Area": 9.38526684006e-05, "ADM4_EN": "Travneve", "ADM4_UA": "Травневе", "ADM4_PCODE": "UA6104015045", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zbarazka", "ADM3_UA": "Збаразька", "ADM3_PCODE": "UA6104015", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.787262, 49.602254 ], [ 25.784234, 49.597453 ], [ 25.778701, 49.597998 ], [ 25.782950001000074, 49.58995 ], [ 25.787422001000039, 49.596096 ], [ 25.793031, 49.597188 ], [ 25.79394, 49.602251 ], [ 25.787262, 49.602254 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.025351690137100001, "Shape_Area": 2.0100201628e-05, "ADM4_EN": "Dachne", "ADM4_UA": "Дачне", "ADM4_PCODE": "UA0102017003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zaliznychnenska", "ADM3_UA": "Залізничненська", "ADM3_PCODE": "UA0102017", "ADM2_EN": "Bakhchysaraiskyi", "ADM2_UA": "Бахчисарайський", "ADM2_PCODE": "UA0102", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.820325014000048, 44.717269656000042 ], [ 33.820870892000073, 44.712623220000069 ], [ 33.82416177500005, 44.712322841000059 ], [ 33.826180609000062, 44.716487814000061 ], [ 33.820325014000048, 44.717269656000042 ] ] ] } }
-]
-}

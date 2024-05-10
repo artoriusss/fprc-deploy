@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.050194218743900003, "Shape_Area": 9.9973137080999993e-05, "ADM4_EN": "Nyzhnii Tokmak", "ADM4_UA": "Нижній Токмак", "ADM4_PCODE": "UA2302015021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chernihivska", "ADM3_UA": "Чернігівська", "ADM3_PCODE": "UA2302015", "ADM2_EN": "Berdianskyi", "ADM2_UA": "Бердянський", "ADM2_PCODE": "UA2302", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.322192964000067, 47.192284492000056 ], [ 36.319820831000072, 47.197250203000067 ], [ 36.301714724000078, 47.19431443600007 ], [ 36.30529744100005, 47.189651376000029 ], [ 36.308692837000024, 47.189559177000035 ], [ 36.322192964000067, 47.192284492000056 ] ] ] } }
-]
-}

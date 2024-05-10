@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.040875544361299997, "Shape_Area": 7.3683682585799995e-05, "ADM4_EN": "Torchynovychi", "ADM4_UA": "Торчиновичі", "ADM4_PCODE": "UA4608015026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starosambirska", "ADM3_UA": "Старосамбірська", "ADM3_PCODE": "UA4608015", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.086736510000037, 49.477816020000034 ], [ 23.084142510000049, 49.480394020000062 ], [ 23.079827513000055, 49.479780020000078 ], [ 23.077264513000046, 49.482087020000051 ], [ 23.07010851800004, 49.477801021000062 ], [ 23.075781198000072, 49.473737027000027 ], [ 23.086736510000037, 49.477816020000034 ] ] ] } }
-]
-}

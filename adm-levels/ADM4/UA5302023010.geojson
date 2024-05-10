@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10466976057500001, "Shape_Area": 0.000401571805827, "ADM4_EN": "Vasylivka", "ADM4_UA": "Василівка", "ADM4_PCODE": "UA5302023010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Semenivska", "ADM3_UA": "Семенівська", "ADM3_PCODE": "UA5302023", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.326025001000062, 49.56852 ], [ 33.326143, 49.57102 ], [ 33.316675, 49.571469 ], [ 33.310027856000033, 49.550787988000081 ], [ 33.305809602000068, 49.551388279000037 ], [ 33.303912822000029, 49.54850362600007 ], [ 33.312547, 49.545658 ], [ 33.314542001000063, 49.549107 ], [ 33.322526, 49.54818 ], [ 33.323952999000028, 49.543328 ], [ 33.331831, 49.544198 ], [ 33.332754, 49.545759 ], [ 33.327087999000071, 49.557422 ], [ 33.327172, 49.56283 ], [ 33.326025001000062, 49.56852 ] ] ] } }
-]
-}

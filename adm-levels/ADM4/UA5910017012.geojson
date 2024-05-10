@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13470441982600001, "Shape_Area": 0.00015981308693099999, "ADM4_EN": "Dibrivka", "ADM4_UA": "Дібрівка", "ADM4_PCODE": "UA5910017012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shostkynska", "ADM3_UA": "Шосткинська", "ADM3_PCODE": "UA5910017", "ADM2_EN": "Shostkynskyi", "ADM2_UA": "Шосткинський", "ADM2_PCODE": "UA5910", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.585756999000068, 52.121065 ], [ 33.580561, 52.122203 ], [ 33.581772, 52.117866 ], [ 33.585470001000033, 52.114886 ], [ 33.588864001000047, 52.11606 ], [ 33.595396, 52.113526 ], [ 33.596601001000067, 52.110044 ], [ 33.593026, 52.107181 ], [ 33.602076999000076, 52.106849 ], [ 33.602358001000027, 52.110459 ], [ 33.606891, 52.115522 ], [ 33.601612999000054, 52.116962 ], [ 33.597479, 52.115078 ], [ 33.588418, 52.118491 ], [ 33.585756999000068, 52.121065 ] ] ] } }
-]
-}

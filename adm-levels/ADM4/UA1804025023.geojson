@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.070914625672199999, "Shape_Area": 9.7124029707799995e-05, "ADM4_EN": "Radivka", "ADM4_UA": "Радівка", "ADM4_PCODE": "UA1804025023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Korostyshivska", "ADM3_UA": "Коростишівська", "ADM3_PCODE": "UA1804025", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.198565, 50.30117604000003 ], [ 29.18117483900005, 50.301223020000066 ], [ 29.182264920000023, 50.298607980000043 ], [ 29.194007041000077, 50.298204960000078 ], [ 29.202045120000037, 50.296258980000061 ], [ 29.211933960000067, 50.296707990000073 ], [ 29.210364, 50.299011990000054 ], [ 29.202481080000041, 50.299795980000056 ], [ 29.198565, 50.30117604000003 ] ] ] } }
-]
-}

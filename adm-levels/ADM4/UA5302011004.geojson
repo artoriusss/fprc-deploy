@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.082129670790100001, "Shape_Area": 0.000175168794847, "ADM4_EN": "Prydniprianske", "ADM4_UA": "Придніпрянське", "ADM4_PCODE": "UA5302011004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kremenchutska", "ADM3_UA": "Кременчуцька", "ADM3_PCODE": "UA5302011", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.547212, 49.074064 ], [ 33.543304, 49.074619 ], [ 33.540572, 49.072885 ], [ 33.532026, 49.072677 ], [ 33.524818999000047, 49.074046 ], [ 33.524444606000031, 49.070748623000043 ], [ 33.54159, 49.064049 ], [ 33.544611, 49.064447 ], [ 33.544696001000034, 49.067855 ], [ 33.54922, 49.068036 ], [ 33.547212, 49.074064 ] ] ] } }
-]
-}

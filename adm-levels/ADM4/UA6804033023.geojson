@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.110766257906, "Shape_Area": 0.00031273192655699997, "ADM4_EN": "Ruzhychanka", "ADM4_UA": "Ружичанка", "ADM4_PCODE": "UA6804033023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozsoshanska", "ADM3_UA": "Розсошанська", "ADM3_PCODE": "UA6804033", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.991966, 49.352622 ], [ 26.980745999000078, 49.352225 ], [ 26.977091, 49.351275 ], [ 26.979364, 49.344731 ], [ 26.975323, 49.344182 ], [ 26.97459, 49.340076 ], [ 26.981292, 49.338707 ], [ 26.988909, 49.341994 ], [ 26.999486, 49.341161 ], [ 27.007526, 49.343896 ], [ 27.01422, 49.343171 ], [ 27.015316747000043, 49.348090855000066 ], [ 27.008869, 49.346009 ], [ 27.001658, 49.345303 ], [ 26.998241999000072, 49.347911 ], [ 26.996358999000051, 49.351938 ], [ 26.991966, 49.352622 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.014874286536599999, "Shape_Area": 6.3718150679300001e-06, "ADM4_EN": "Holovnivka", "ADM4_UA": "Головнівка", "ADM4_PCODE": "UA6312017009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novovodolazka", "ADM3_UA": "Нововодолазька", "ADM3_PCODE": "UA6312017", "ADM2_EN": "Kharkivskyi", "ADM2_UA": "Харківський", "ADM2_PCODE": "UA6312", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.861252, 49.634331 ], [ 35.858381999000073, 49.63411700100005 ], [ 35.856616999000039, 49.635251 ], [ 35.855805, 49.634701 ], [ 35.857655, 49.633376 ], [ 35.86018, 49.633118 ], [ 35.861252, 49.634331 ] ] ] } }
-]
-}

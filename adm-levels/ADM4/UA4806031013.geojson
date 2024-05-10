@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.078569365893499998, "Shape_Area": 0.000267201919577, "ADM4_EN": "Pishchanyi Brid", "ADM4_UA": "Піщаний Брід", "ADM4_PCODE": "UA4806031013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stepivska", "ADM3_UA": "Степівська", "ADM3_PCODE": "UA4806031", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.406606656000065, 47.223018272000047 ], [ 31.403296801000067, 47.226791997000078 ], [ 31.398676868000052, 47.223585980000053 ], [ 31.397288328000059, 47.217497694000031 ], [ 31.399594869000055, 47.21049718900008 ], [ 31.403076975000033, 47.207939740000029 ], [ 31.405398308000031, 47.202153093000049 ], [ 31.414367263000031, 47.198243579000064 ], [ 31.415917294000053, 47.202477544000033 ], [ 31.413305244000071, 47.207510690000049 ], [ 31.406606656000065, 47.223018272000047 ] ] ] } }
-]
-}

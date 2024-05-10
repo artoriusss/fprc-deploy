@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.043239896751500001, "Shape_Area": 8.6216962365799995e-05, "ADM4_EN": "Chornyi Potik", "ADM4_UA": "Чорний Потік", "ADM4_PCODE": "UA2102009010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vylotska", "ADM3_UA": "Вилоцька", "ADM3_PCODE": "UA2102009", "ADM2_EN": "Berehivskyi", "ADM2_UA": "Берегівський", "ADM2_PCODE": "UA2102", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.908190560000037, 48.177667023000026 ], [ 22.906010561000073, 48.188140024000063 ], [ 22.904374562000044, 48.190015023000058 ], [ 22.900528563000023, 48.188440024000045 ], [ 22.899366565000037, 48.181536024000081 ], [ 22.904166562000057, 48.176147024000045 ], [ 22.908190560000037, 48.177667023000026 ] ] ] } }
-]
-}

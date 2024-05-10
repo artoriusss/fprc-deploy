@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.079145394970199998, "Shape_Area": 0.000237415180615, "ADM4_EN": "Blahodatne", "ADM4_UA": "Благодатне", "ADM4_PCODE": "UA5110017002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dobroslavska", "ADM3_UA": "Доброславська", "ADM3_PCODE": "UA5110017", "ADM2_EN": "Odeskyi", "ADM2_UA": "Одеський", "ADM2_PCODE": "UA5110", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.846016, 46.753456 ], [ 30.836315999000078, 46.756072 ], [ 30.829915001000074, 46.759271 ], [ 30.820256, 46.75756 ], [ 30.817566, 46.754881 ], [ 30.820255, 46.747942 ], [ 30.828441, 46.752937 ], [ 30.832803, 46.748513 ], [ 30.833798, 46.743876 ], [ 30.840484999000068, 46.745252 ], [ 30.848270999000079, 46.75246 ], [ 30.846016, 46.753456 ] ] ] } }
-]
-}

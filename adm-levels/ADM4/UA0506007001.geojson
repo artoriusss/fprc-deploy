@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13052966472300001, "Shape_Area": 0.00031483867138900002, "ADM4_EN": "Kopaihorod", "ADM4_UA": "Копайгород", "ADM4_PCODE": "UA0506007001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kopaihorodska", "ADM3_UA": "Копайгородська", "ADM3_PCODE": "UA0506007", "ADM2_EN": "Zhmerynskyi", "ADM2_UA": "Жмеринський", "ADM2_PCODE": "UA0506", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.797635654000032, 48.866605199000048 ], [ 27.784679965000066, 48.860637347000079 ], [ 27.789437840000062, 48.855601876000037 ], [ 27.792211285000064, 48.84809010400005 ], [ 27.796944888000041, 48.849136541000064 ], [ 27.799336923000055, 48.845254090000026 ], [ 27.804953994000073, 48.844215577000057 ], [ 27.808645, 48.845344 ], [ 27.803710829000067, 48.853705557000069 ], [ 27.803077969000071, 48.861651796000046 ], [ 27.797635654000032, 48.866605199000048 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057920587623200001, "Shape_Area": 0.000111466905916, "ADM4_EN": "Krasne", "ADM4_UA": "Красне", "ADM4_PCODE": "UA0116025002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pervomaiska", "ADM3_UA": "Первомайська", "ADM3_PCODE": "UA0116025", "ADM2_EN": "Simferopolskyi", "ADM2_UA": "Сімферопольський", "ADM2_PCODE": "UA0116", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.098336575000076, 45.145961826000075 ], [ 34.094607023000037, 45.146956132000071 ], [ 34.088563239000052, 45.146600478000039 ], [ 34.084967445000075, 45.145059374000027 ], [ 34.091216287000066, 45.139047489000063 ], [ 34.099031511000078, 45.132591196000078 ], [ 34.103803430000028, 45.135801188000073 ], [ 34.096323031000054, 45.141275697000026 ], [ 34.094819503000053, 45.144046208000077 ], [ 34.098336575000076, 45.145961826000075 ] ] ] } }
-]
-}

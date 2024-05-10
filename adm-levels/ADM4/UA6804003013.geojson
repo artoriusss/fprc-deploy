@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.085113754821800003, "Shape_Area": 0.000102517010404, "ADM4_EN": "Medvedivka", "ADM4_UA": "Медведівка", "ADM4_PCODE": "UA6804003013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Viitovetska", "ADM3_UA": "Війтовецька", "ADM3_PCODE": "UA6804003", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 26.53118, 49.443232 ], [ 26.528844999000057, 49.440467 ], [ 26.532309001000044, 49.436374 ], [ 26.538329999000041, 49.435897 ], [ 26.53834, 49.438164 ], [ 26.542027001000065, 49.439853 ], [ 26.537188, 49.442718 ], [ 26.534502, 49.441328 ], [ 26.53118, 49.443232 ] ] ], [ [ [ 26.53965, 49.434359 ], [ 26.538476, 49.430771 ], [ 26.549199, 49.429966 ], [ 26.549221001000035, 49.433382 ], [ 26.53965, 49.434359 ] ] ] ] } }
-]
-}

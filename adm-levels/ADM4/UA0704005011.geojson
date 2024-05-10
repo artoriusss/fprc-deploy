@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.034109265285400002, "Shape_Area": 4.9668935335000003e-05, "ADM4_EN": "Zahorivka", "ADM4_UA": "Загорівка", "ADM4_PCODE": "UA0704005011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Manevytska", "ADM3_UA": "Маневицька", "ADM3_PCODE": "UA0704005", "ADM2_EN": "Kamin-Kashyrskyi", "ADM2_UA": "Камінь-Каширський", "ADM2_PCODE": "UA0704", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.526918048000027, 51.196726001000059 ], [ 25.536041047000026, 51.19868800100005 ], [ 25.533784046000051, 51.202494001000048 ], [ 25.526379048000024, 51.200747001000082 ], [ 25.526918048000027, 51.196726001000059 ] ] ] } }
-]
-}

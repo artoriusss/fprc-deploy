@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.109640255782, "Shape_Area": 0.00023277978728900001, "ADM4_EN": "Kalynivka", "ADM4_UA": "Калинівка", "ADM4_PCODE": "UA3504027007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pervozvanivska", "ADM3_UA": "Первозванівська", "ADM3_PCODE": "UA3504027", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.361699, 48.40993 ], [ 32.364072001000068, 48.405808 ], [ 32.361575, 48.403257 ], [ 32.363412001000029, 48.394628 ], [ 32.361688999000023, 48.392704 ], [ 32.363702, 48.383036 ], [ 32.365654, 48.383791 ], [ 32.374664, 48.37656 ], [ 32.379618, 48.378499 ], [ 32.372226, 48.384897 ], [ 32.371178, 48.389022 ], [ 32.372423001000072, 48.392682 ], [ 32.368969001000039, 48.39661 ], [ 32.366298, 48.406042 ], [ 32.361699, 48.40993 ] ] ] } }
-]
-}

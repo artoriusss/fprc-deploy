@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.074315082622799997, "Shape_Area": 0.00017482651898699999, "ADM4_EN": "Hnylychky", "ADM4_UA": "Гнилички", "ADM4_PCODE": "UA6104045004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Skorykivska", "ADM3_UA": "Скориківська", "ADM3_PCODE": "UA6104045", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.089656999000056, 49.66333 ], [ 26.096016943000052, 49.663010813000028 ], [ 26.096260961000041, 49.659827154000027 ], [ 26.109638, 49.656798 ], [ 26.112404644000037, 49.664050133000046 ], [ 26.109669, 49.664549 ], [ 26.104810632000067, 49.673763633000078 ], [ 26.100519684000062, 49.67132009900007 ], [ 26.102071177000028, 49.667472771000064 ], [ 26.097650541000064, 49.665520379000043 ], [ 26.089059, 49.665278 ], [ 26.089656999000056, 49.66333 ] ] ] } }
-]
-}

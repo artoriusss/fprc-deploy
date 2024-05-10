@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.037871808531299997, "Shape_Area": 4.2961879780399998e-05, "ADM4_EN": "Verkhnia Orikhivka", "ADM4_UA": "Верхня Оріхівка", "ADM4_PCODE": "UA4406003010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lutuhynska", "ADM3_UA": "Лутугинська", "ADM3_PCODE": "UA4406003", "ADM2_EN": "Luhanskyi", "ADM2_UA": "Луганський", "ADM2_PCODE": "UA4406", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.341696001000059, 48.359867 ], [ 39.337310999000067, 48.358584 ], [ 39.334547, 48.3562 ], [ 39.339305999000032, 48.35194 ], [ 39.339759, 48.355483 ], [ 39.343334, 48.356506 ], [ 39.341696001000059, 48.359867 ] ] ] } }
-]
-}

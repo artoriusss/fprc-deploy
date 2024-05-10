@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0589315794182, "Shape_Area": 0.000137215516966, "ADM4_EN": "Novoozerianka", "ADM4_UA": "Новоозерянка", "ADM4_PCODE": "UA1806019004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Olevska", "ADM3_UA": "Олевська", "ADM3_PCODE": "UA1806019", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.003159999000047, 51.219447421000041 ], [ 27.999896999000043, 51.219227903000046 ], [ 27.993016957000066, 51.214104608000071 ], [ 27.995023973000059, 51.211808082000061 ], [ 27.998997650000035, 51.211942529000055 ], [ 28.003451949000066, 51.206387531000075 ], [ 28.006993402000035, 51.208291357000064 ], [ 28.013202828000033, 51.215007767000031 ], [ 28.009724810000023, 51.215437258000065 ], [ 28.003159999000047, 51.219447421000041 ] ] ] } }
-]
-}

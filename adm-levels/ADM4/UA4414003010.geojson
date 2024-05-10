@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.20798461741400001, "Shape_Area": 0.00016117103745399999, "ADM4_EN": "Pavlenkove", "ADM4_UA": "Павленкове", "ADM4_PCODE": "UA4414003010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilolutska", "ADM3_UA": "Білолуцька", "ADM3_PCODE": "UA4414003", "ADM2_EN": "Starobilskyi", "ADM2_UA": "Старобільський", "ADM2_PCODE": "UA4414", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 39.0682, 49.712558 ], [ 39.064996, 49.710613 ], [ 39.064723, 49.707241 ], [ 39.068501, 49.70731 ], [ 39.076421999000047, 49.705628 ], [ 39.075116999000045, 49.710797 ], [ 39.069017, 49.710671 ], [ 39.0682, 49.712558 ] ] ], [ [ [ 39.084528, 49.710621 ], [ 39.078203, 49.709416 ], [ 39.077736999000081, 49.70737 ], [ 39.081847, 49.704765 ], [ 39.094289, 49.705814 ], [ 39.089798, 49.708172 ], [ 39.089797, 49.710342 ], [ 39.084528, 49.710621 ] ] ] ] } }
-]
-}

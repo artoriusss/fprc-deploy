@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073133806232600004, "Shape_Area": 0.00015078539490800001, "ADM4_EN": "Stavok", "ADM4_UA": "Ставок", "ADM4_PCODE": "UA7404029017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nosivska", "ADM3_UA": "Носівська", "ADM3_PCODE": "UA7404029", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.675749120000035, 50.93392005000004 ], [ 31.675732921000076, 50.936078070000065 ], [ 31.667374080000059, 50.935878 ], [ 31.654758961000027, 50.931210960000044 ], [ 31.653874080000037, 50.928937020000035 ], [ 31.668985081000073, 50.929319970000051 ], [ 31.673459880000053, 50.928656040000078 ], [ 31.685536800000079, 50.929861050000056 ], [ 31.682625120000068, 50.933847060000062 ], [ 31.677117840000051, 50.932344060000048 ], [ 31.675749120000035, 50.93392005000004 ] ] ] } }
-]
-}

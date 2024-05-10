@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.083674166783499995, "Shape_Area": 0.000172805616244, "ADM4_EN": "Supyna", "ADM4_UA": "Супина", "ADM4_PCODE": "UA1202011010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mohylivska", "ADM3_UA": "Могилівська", "ADM3_PCODE": "UA1202011", "ADM2_EN": "Dniprovskyi", "ADM2_UA": "Дніпровський", "ADM2_PCODE": "UA1202", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.57372, 48.800726 ], [ 34.569023, 48.798056 ], [ 34.565811118000056, 48.798851179000053 ], [ 34.562968917000035, 48.796594349000031 ], [ 34.542121699000063, 48.790370129000053 ], [ 34.547743036000043, 48.783454019000033 ], [ 34.55858, 48.789185 ], [ 34.575501999000039, 48.799541 ], [ 34.57372, 48.800726 ] ] ] } }
-]
-}

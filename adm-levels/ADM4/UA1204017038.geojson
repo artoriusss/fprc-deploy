@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.132520246407, "Shape_Area": 0.00044819456762400001, "ADM4_EN": "Sukhyi Khutir", "ADM4_UA": "Сухий Хутір", "ADM4_PCODE": "UA1204017038", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krynychanska", "ADM3_UA": "Криничанська", "ADM3_PCODE": "UA1204017", "ADM2_EN": "Kamianskyi", "ADM2_UA": "Кам’янський", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.326026001000059, 48.297258 ], [ 34.323966, 48.301516 ], [ 34.312073, 48.299112 ], [ 34.311904, 48.297276 ], [ 34.283274, 48.296051 ], [ 34.283928, 48.287435 ], [ 34.301015, 48.28948 ], [ 34.302449999000032, 48.284068 ], [ 34.30645000100003, 48.283855 ], [ 34.30894900100003, 48.286655 ], [ 34.320351, 48.289314 ], [ 34.320381, 48.292374 ], [ 34.331154, 48.29345 ], [ 34.335507001000053, 48.295582 ], [ 34.334279, 48.299213 ], [ 34.326026001000059, 48.297258 ] ] ] } }
-]
-}

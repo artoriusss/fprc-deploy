@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.075801652145399995, "Shape_Area": 9.2493394825300001e-05, "ADM4_EN": "Mochulianka", "ADM4_UA": "Мочулянка", "ADM4_PCODE": "UA5606049010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sosnivska", "ADM3_UA": "Соснівська", "ADM3_PCODE": "UA5606049", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.114085081000042, 50.892653970000026 ], [ 27.111759119000055, 50.891123970000081 ], [ 27.104402879000077, 50.892262020000032 ], [ 27.102890879000029, 50.887399950000031 ], [ 27.097994880000044, 50.885733060000064 ], [ 27.099299161000033, 50.883201 ], [ 27.106721999000058, 50.880935970000053 ], [ 27.105883920000053, 50.884471980000058 ], [ 27.112174921000076, 50.884787070000073 ], [ 27.111872881000068, 50.887792980000029 ], [ 27.114085081000042, 50.892653970000026 ] ] ] } }
-]
-}

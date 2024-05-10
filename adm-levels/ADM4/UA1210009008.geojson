@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.122582216567, "Shape_Area": 0.00058562035022100001, "ADM4_EN": "Leventsivka", "ADM4_UA": "Левенцівка", "ADM4_PCODE": "UA1210009008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pereshchepynska", "ADM3_UA": "Перещепинська", "ADM3_PCODE": "UA1210009", "ADM2_EN": "Novomoskovskyi", "ADM2_UA": "Новомосковський", "ADM2_PCODE": "UA1210", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.622979001000033, 48.927925 ], [ 35.61717999900003, 48.927912 ], [ 35.611973, 48.925211 ], [ 35.606878, 48.920713 ], [ 35.605667, 48.916917 ], [ 35.601160001000039, 48.912685 ], [ 35.597828001000039, 48.912533 ], [ 35.596339, 48.906789 ], [ 35.593883, 48.903192 ], [ 35.600951, 48.902923 ], [ 35.599536, 48.896062 ], [ 35.600462, 48.889726 ], [ 35.603672, 48.890986 ], [ 35.616513, 48.89078 ], [ 35.617976001000045, 48.921486500000071 ], [ 35.620622, 48.923213 ], [ 35.622979001000033, 48.927925 ] ] ] } }
-]
-}

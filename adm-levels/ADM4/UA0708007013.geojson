@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.079745548898499996, "Shape_Area": 4.9504665111799999e-05, "ADM4_EN": "Kovban", "ADM4_UA": "Ковбань", "ADM4_PCODE": "UA0708007013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horokhivska", "ADM3_UA": "Горохівська", "ADM3_PCODE": "UA0708007", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.98149008300004, 50.511406002000058 ], [ 24.982398083000078, 50.509467003000054 ], [ 25.001745080000035, 50.50765700200003 ], [ 25.010014081000065, 50.508395003000032 ], [ 25.010470080000061, 50.510285003000035 ], [ 24.998418081000068, 50.509554003000062 ], [ 24.98836508100004, 50.510545002000072 ], [ 24.983324082000024, 50.510029003000056 ], [ 24.98149008300004, 50.511406002000058 ] ] ] } }
-]
-}

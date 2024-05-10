@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.084640398954499999, "Shape_Area": 7.4083510716800002e-05, "ADM4_EN": "Hlyboke", "ADM4_UA": "Глибоке", "ADM4_PCODE": "UA7404003010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bakhmatska", "ADM3_UA": "Бахмацька", "ADM3_PCODE": "UA7404003", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.943751199000076, 51.189893010000048 ], [ 32.936499785000024, 51.185995891000061 ], [ 32.935791722000033, 51.180632797000044 ], [ 32.943762242000048, 51.181807465000077 ], [ 32.943751199000076, 51.189893010000048 ] ] ] } }
-]
-}

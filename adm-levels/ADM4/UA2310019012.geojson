@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.093183966278199998, "Shape_Area": 0.00014325105707000001, "ADM4_EN": "Novokarlivka", "ADM4_UA": "Новокарлівка", "ADM4_PCODE": "UA2310019012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Polohivska", "ADM3_UA": "Пологівська", "ADM3_PCODE": "UA2310019", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.060990340000046, 47.51086153600005 ], [ 36.057935213000064, 47.509923197000035 ], [ 36.052804744000071, 47.510855885000069 ], [ 36.051766820000068, 47.50841900100005 ], [ 36.069076156000051, 47.505606795000062 ], [ 36.088359603000072, 47.503188066000064 ], [ 36.093861917000027, 47.503651133000062 ], [ 36.094609305000063, 47.506104932000028 ], [ 36.078411477000031, 47.508073531000036 ], [ 36.060990340000046, 47.51086153600005 ] ] ] } }
-]
-}

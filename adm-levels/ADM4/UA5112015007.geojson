@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.143991928228, "Shape_Area": 0.000226580885037, "ADM4_EN": "Volodymyrivka", "ADM4_UA": "Володимирівка", "ADM4_PCODE": "UA5112015007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Oknianska", "ADM3_UA": "Окнянська", "ADM3_PCODE": "UA5112015", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.64868, 47.547089 ], [ 29.644682, 47.549492 ], [ 29.642603, 47.545488 ], [ 29.647872, 47.540738 ], [ 29.650996, 47.539396 ], [ 29.653874, 47.540528 ], [ 29.655387, 47.536009 ], [ 29.650107001000038, 47.53754 ], [ 29.648126, 47.534102 ], [ 29.66130399900004, 47.531583 ], [ 29.665525, 47.527008 ], [ 29.668345, 47.527784 ], [ 29.672745, 47.523198 ], [ 29.678321, 47.524515 ], [ 29.675094, 47.528737 ], [ 29.659385, 47.538 ], [ 29.650937, 47.54588 ], [ 29.64868, 47.547089 ] ] ] } }
-]
-}

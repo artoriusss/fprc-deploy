@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.055723145921700003, "Shape_Area": 0.000116251124804, "ADM4_EN": "Ivanomysl", "ADM4_UA": "Іваномисль", "ADM4_PCODE": "UA0704001022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kamin-Kashyrska", "ADM3_UA": "Камінь-Каширська", "ADM3_PCODE": "UA0704001", "ADM2_EN": "Kamin-Kashyrskyi", "ADM2_UA": "Камінь-Каширський", "ADM2_PCODE": "UA0704", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.114230076000069, 51.584118002000082 ], [ 25.119724074000032, 51.587918003000027 ], [ 25.116551076000064, 51.591309003000049 ], [ 25.103556076000075, 51.588539002000061 ], [ 25.10523207500006, 51.58374000200007 ], [ 25.103293077000046, 51.579318003000026 ], [ 25.10718707500007, 51.578785002000075 ], [ 25.108637076000036, 51.582127003000039 ], [ 25.112831077000067, 51.580489003000082 ], [ 25.114230076000069, 51.584118002000082 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.114772243496, "Shape_Area": 0.00016697349822000001, "ADM4_EN": "Kotiv", "ADM4_UA": "Котів", "ADM4_PCODE": "UA6104041008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Saranchukivska", "ADM3_UA": "Саранчуківська", "ADM3_PCODE": "UA6104041", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.972125, 49.360454 ], [ 24.967975671000033, 49.362015449000069 ], [ 24.967794, 49.355755 ], [ 24.961660490000043, 49.355516307000073 ], [ 24.960006073000045, 49.350623132000067 ], [ 24.96451765200004, 49.348072842000079 ], [ 24.969544574000054, 49.350178613000026 ], [ 24.973210061000032, 49.344485519000045 ], [ 24.974782321000077, 49.346258841000065 ], [ 24.973255001000041, 49.350386 ], [ 24.972125, 49.360454 ] ] ] } }
-]
-}

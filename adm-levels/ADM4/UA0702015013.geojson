@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.040274955324299998, "Shape_Area": 1.8623882121e-05, "ADM4_EN": "Markelivka", "ADM4_UA": "Маркелівка", "ADM4_PCODE": "UA0702015013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ovadnivska", "ADM3_UA": "Оваднівська", "ADM3_PCODE": "UA0702015", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.404349155000034, 50.886613005000072 ], [ 24.409516154000073, 50.888574005000066 ], [ 24.408902154000032, 50.889748005000058 ], [ 24.405501154000035, 50.888450005000038 ], [ 24.404349155000034, 50.886613005000072 ] ] ] } }
-]
-}

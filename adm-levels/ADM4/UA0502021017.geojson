@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13190708896299999, "Shape_Area": 0.00026606700838099998, "ADM4_EN": "Dovzhok", "ADM4_UA": "Довжок", "ADM4_PCODE": "UA0502021017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pohrebyshchenska", "ADM3_UA": "Погребищенська", "ADM3_PCODE": "UA0502021", "ADM2_EN": "Vinnytskyi", "ADM2_UA": "Вінницький", "ADM2_PCODE": "UA0502", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.143964, 49.380202 ], [ 29.141504999000063, 49.385573 ], [ 29.137374999000031, 49.384843 ], [ 29.136580999000046, 49.379383 ], [ 29.126583, 49.376743 ], [ 29.127013, 49.372047 ], [ 29.119872, 49.366518 ], [ 29.123469001000046, 49.365054 ], [ 29.129697001000068, 49.371204 ], [ 29.137559001000056, 49.363933 ], [ 29.146042001000069, 49.370134 ], [ 29.143841, 49.37391 ], [ 29.146303, 49.377246 ], [ 29.143964, 49.380202 ] ] ] } }
-]
-}

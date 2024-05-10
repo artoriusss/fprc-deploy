@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12652805825499999, "Shape_Area": 0.00021226605868699999, "ADM4_EN": "Voshchylykha", "ADM4_UA": "Вощилиха", "ADM4_PCODE": "UA5906015007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khmelivska", "ADM3_UA": "Хмелівська", "ADM3_PCODE": "UA5906015", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.6548, 50.827833 ], [ 33.649333999000078, 50.831178 ], [ 33.645547, 50.82704 ], [ 33.63577900100006, 50.830069 ], [ 33.634975999000062, 50.827429 ], [ 33.630476, 50.82792 ], [ 33.628302, 50.823385 ], [ 33.631016, 50.821505 ], [ 33.629238, 50.817538 ], [ 33.629931999000064, 50.814969 ], [ 33.638204, 50.8148 ], [ 33.638354999000057, 50.816797 ], [ 33.643035, 50.823817 ], [ 33.645638999000028, 50.822927 ], [ 33.648503001000051, 50.828962 ], [ 33.6548, 50.827833 ] ] ] } }
-]
-}

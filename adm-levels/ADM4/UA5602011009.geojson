@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.064167669249200004, "Shape_Area": 5.8068392736e-05, "ADM4_EN": "Kutynok", "ADM4_UA": "Кутинок", "ADM4_PCODE": "UA5602011009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Loknytska", "ADM3_UA": "Локницька", "ADM3_PCODE": "UA5602011", "ADM2_EN": "Varaskyi", "ADM2_UA": "Вараський", "ADM2_PCODE": "UA5602", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.728233041000067, 51.790359960000046 ], [ 25.720306921000031, 51.789503970000055 ], [ 25.71321204000003, 51.790299030000028 ], [ 25.716066840000053, 51.785970030000044 ], [ 25.719611040000075, 51.78551796000005 ], [ 25.728233041000067, 51.790359960000046 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.110985602689, "Shape_Area": 0.000228946027832, "ADM4_EN": "Novosemenivka", "ADM4_UA": "Новосеменівка", "ADM4_PCODE": "UA6504003018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivanivska", "ADM3_UA": "Іванівська", "ADM3_PCODE": "UA6504003", "ADM2_EN": "Henicheskyi", "ADM2_UA": "Генічеський", "ADM2_PCODE": "UA6504", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.631028, 46.637938 ], [ 34.629865, 46.635748 ], [ 34.623622, 46.63773 ], [ 34.620071, 46.637392 ], [ 34.62244, 46.626412 ], [ 34.624070999000025, 46.623251 ], [ 34.618824, 46.622491 ], [ 34.617439, 46.620481 ], [ 34.630603999000073, 46.621563 ], [ 34.634436, 46.624294 ], [ 34.633410001000072, 46.630864 ], [ 34.635351, 46.63563 ], [ 34.6385, 46.634614 ], [ 34.642055, 46.638132 ], [ 34.631028, 46.637938 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.045709450277599997, "Shape_Area": 9.0952376903e-05, "ADM4_EN": "Slobidka", "ADM4_UA": "Слобідка", "ADM4_PCODE": "UA6104047026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Terebovlianska", "ADM3_UA": "Теребовлянська", "ADM3_PCODE": "UA6104047", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.699924999000075, 49.191727 ], [ 25.704342, 49.200091 ], [ 25.703837999000029, 49.207831 ], [ 25.698685001000058, 49.204911 ], [ 25.696412, 49.194832 ], [ 25.699924999000075, 49.191727 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.107203348827, "Shape_Area": 0.00030053844802100001, "ADM4_EN": "Avhustivka", "ADM4_UA": "Августівка", "ADM4_PCODE": "UA5110033002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Usativska", "ADM3_UA": "Усатівська", "ADM3_PCODE": "UA5110033", "ADM2_EN": "Odeskyi", "ADM2_UA": "Одеський", "ADM2_PCODE": "UA5110", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.658769, 46.642561 ], [ 30.653433001000053, 46.644758 ], [ 30.648186999000075, 46.649854 ], [ 30.638903, 46.645517 ], [ 30.644421001000069, 46.633965 ], [ 30.647058, 46.633217 ], [ 30.653579, 46.634573 ], [ 30.656764, 46.628875 ], [ 30.652625, 46.628092 ], [ 30.655501, 46.621146 ], [ 30.659442, 46.621108 ], [ 30.657257, 46.628549 ], [ 30.660710999000059, 46.63004 ], [ 30.664795999000034, 46.634819 ], [ 30.65994100100005, 46.638284 ], [ 30.658769, 46.642561 ] ] ] } }
-]
-}

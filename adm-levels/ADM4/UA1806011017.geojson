@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.045147039923899998, "Shape_Area": 7.0101016481500001e-05, "ADM4_EN": "Ivanivka", "ADM4_UA": "Іванівка", "ADM4_PCODE": "UA1806011017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Luhynska", "ADM3_UA": "Лугинська", "ADM3_PCODE": "UA1806011", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.158467040000062, 51.089065020000078 ], [ 28.151672040000051, 51.088989960000049 ], [ 28.150754040000038, 51.079858020000074 ], [ 28.155183120000061, 51.081004980000046 ], [ 28.157114879000062, 51.083344980000049 ], [ 28.158467040000062, 51.089065020000078 ] ] ] } }
-]
-}

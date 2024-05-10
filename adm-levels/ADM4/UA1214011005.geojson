@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073794470572099993, "Shape_Area": 7.3888111016300002e-05, "ADM4_EN": "Znamenivske", "ADM4_UA": "Знаменівське", "ADM4_PCODE": "UA1214011005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ilarionivska", "ADM3_UA": "Іларіонівська", "ADM3_PCODE": "UA1214011", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.394923, 48.422733 ], [ 35.39315300100003, 48.420255 ], [ 35.39423, 48.414773 ], [ 35.398504999000068, 48.414884 ], [ 35.402584999000055, 48.417168 ], [ 35.398281001000043, 48.421804 ], [ 35.394923, 48.422733 ] ] ] } }
-]
-}

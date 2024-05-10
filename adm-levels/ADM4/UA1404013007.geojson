@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.089803284082599993, "Shape_Area": 0.000129983430619, "ADM4_EN": "Malyi Kermenchyk", "ADM4_UA": "Малий Керменчик", "ADM4_PCODE": "UA1404013007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Staromlynivska", "ADM3_UA": "Старомлинівська", "ADM3_PCODE": "UA1404013", "ADM2_EN": "Volnovaskyi", "ADM2_UA": "Волноваський", "ADM2_PCODE": "UA1404", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 36.965802001000043, 47.626908 ], [ 36.964772001000028, 47.629111 ], [ 36.958655, 47.634496 ], [ 36.956232999000065, 47.633731 ], [ 36.964285, 47.626338 ], [ 36.965802001000043, 47.626908 ] ] ], [ [ [ 36.980301999000062, 47.633059 ], [ 36.977325, 47.629742 ], [ 36.981592001000024, 47.624666 ], [ 37.000138, 47.627273 ], [ 37.000734, 47.63112 ], [ 36.991037, 47.630908 ], [ 36.980040999000039, 47.629977 ], [ 36.980301999000062, 47.633059 ] ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11823983644199999, "Shape_Area": 0.00024050000553099999, "ADM4_EN": "Chepelivka", "ADM4_UA": "Чепелівка", "ADM4_PCODE": "UA6804021029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasylivska", "ADM3_UA": "Красилівська", "ADM3_PCODE": "UA6804021", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.877618, 49.658822 ], [ 26.874530001000039, 49.658856 ], [ 26.872693999000035, 49.655957 ], [ 26.867226, 49.652316 ], [ 26.859225, 49.652957 ], [ 26.856871, 49.649795 ], [ 26.858847, 49.64752 ], [ 26.865130001000068, 49.645431 ], [ 26.867391, 49.647582 ], [ 26.870341, 49.646757 ], [ 26.87188, 49.642021 ], [ 26.877267001000064, 49.642101 ], [ 26.880323, 49.645848 ], [ 26.885234001000072, 49.645093 ], [ 26.88676, 49.650641 ], [ 26.8773, 49.651466 ], [ 26.874801, 49.652671 ], [ 26.877618, 49.658822 ] ] ] } }
-]
-}

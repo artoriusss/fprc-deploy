@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.078224593858699995, "Shape_Area": 0.00010933330635200001, "ADM4_EN": "Dubiivka", "ADM4_UA": "Дубіївка", "ADM4_PCODE": "UA6806015004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykhailiutska", "ADM3_UA": "Михайлюцька", "ADM3_PCODE": "UA6806015", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.317047, 50.325896 ], [ 27.312599, 50.322899 ], [ 27.333999001000052, 50.318787 ], [ 27.338431, 50.320795 ], [ 27.335454, 50.323953 ], [ 27.325061, 50.324691 ], [ 27.317047, 50.325896 ] ] ] } }
-]
-}

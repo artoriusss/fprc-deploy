@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.021680615209000002, "Shape_Area": 2.2101917877700001e-05, "ADM4_EN": "Mnohorichchia", "ADM4_UA": "Многоріччя", "ADM4_PCODE": "UA0102019003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zelenivska", "ADM3_UA": "Зеленівська", "ADM3_PCODE": "UA0102019", "ADM2_EN": "Bakhchysaraiskyi", "ADM2_UA": "Бахчисарайський", "ADM2_PCODE": "UA0102", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.074150178000025, 44.555435939000063 ], [ 34.076540211000065, 44.556954046000044 ], [ 34.073500717000059, 44.562091549000058 ], [ 34.070976815000051, 44.558688493000034 ], [ 34.074150178000025, 44.555435939000063 ] ] ] } }
-]
-}

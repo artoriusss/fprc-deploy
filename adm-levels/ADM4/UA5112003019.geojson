@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10979082684, "Shape_Area": 0.00020813570037600001, "ADM4_EN": "Moshniahy", "ADM4_UA": "Мошняги", "ADM4_PCODE": "UA5112003019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Baltska", "ADM3_UA": "Балтська", "ADM3_PCODE": "UA5112003", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.486516, 47.949643 ], [ 29.491013, 47.940641 ], [ 29.502486, 47.945296 ], [ 29.510013, 47.945138 ], [ 29.511383999000032, 47.946082 ], [ 29.523031999000068, 47.944688 ], [ 29.522005001000025, 47.949402 ], [ 29.513661, 47.951877 ], [ 29.499270333000027, 47.949118334000048 ], [ 29.496116, 47.946867 ], [ 29.486516, 47.949643 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.069496183104599998, "Shape_Area": 0.000149138430388, "ADM4_EN": "Zvirivka", "ADM4_UA": "Звірівка", "ADM4_PCODE": "UA3506015007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoukrainska", "ADM3_UA": "Новоукраїнська", "ADM3_PCODE": "UA3506015", "ADM2_EN": "Novoukrainskyi", "ADM2_UA": "Новоукраїнський", "ADM2_PCODE": "UA3506", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.476498, 48.353472 ], [ 31.454016, 48.359757 ], [ 31.455906, 48.354123 ], [ 31.463598001000037, 48.34958 ], [ 31.474137, 48.348119 ], [ 31.476337, 48.34899 ], [ 31.476498, 48.353472 ] ] ] } }
-]
-}

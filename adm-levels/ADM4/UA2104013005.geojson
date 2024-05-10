@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060272376636199998, "Shape_Area": 0.000105876645327, "ADM4_EN": "Zhborivtsi", "ADM4_UA": "Жборівці", "ADM4_PCODE": "UA2104013005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kolchynska", "ADM3_UA": "Кольчинська", "ADM3_PCODE": "UA2104013", "ADM2_EN": "Mukachivskyi", "ADM2_UA": "Мукачівський", "ADM2_PCODE": "UA2104", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.75249565200005, 48.510717028000045 ], [ 22.744713657000034, 48.510769027000038 ], [ 22.741897658000028, 48.508502028000066 ], [ 22.743054658000062, 48.502721028000053 ], [ 22.746832655000048, 48.503820027000074 ], [ 22.752936652000074, 48.501683028000059 ], [ 22.756246650000037, 48.504950027000064 ], [ 22.755871649000028, 48.510440028000062 ], [ 22.75249565200005, 48.510717028000045 ] ] ] } }
-]
-}

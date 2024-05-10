@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.041419497818900003, "Shape_Area": 8.6268241938299996e-05, "ADM4_EN": "Hryhorivka", "ADM4_UA": "Григорівка", "ADM4_PCODE": "UA3202021007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tetiivska", "ADM3_UA": "Тетіївська", "ADM3_PCODE": "UA3202021", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.783482752000054, 49.406070880000073 ], [ 29.788244793000047, 49.411392857000067 ], [ 29.779293710000047, 49.417701847000046 ], [ 29.772415712000054, 49.413774783000065 ], [ 29.776942777000045, 49.411586838000062 ], [ 29.778466816000048, 49.408730838000054 ], [ 29.783482752000054, 49.406070880000073 ] ] ] } }
-]
-}

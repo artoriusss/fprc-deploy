@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13929586543700001, "Shape_Area": 0.00030604175076000002, "ADM4_EN": "Ivanivka", "ADM4_UA": "Іванівка", "ADM4_PCODE": "UA1404003010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Volnovaska", "ADM3_UA": "Волноваська", "ADM3_PCODE": "UA1404003", "ADM2_EN": "Volnovaskyi", "ADM2_UA": "Волноваський", "ADM2_PCODE": "UA1404", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.327180001000045, 47.58259 ], [ 37.31033499800003, 47.583004 ], [ 37.301088, 47.579612 ], [ 37.304717999000047, 47.574431 ], [ 37.308063, 47.574383 ], [ 37.306954, 47.570023 ], [ 37.317322, 47.569849 ], [ 37.32030499800004, 47.570689 ], [ 37.321377999000049, 47.575429 ], [ 37.333983, 47.575161 ], [ 37.339192, 47.577 ], [ 37.338875, 47.580542 ], [ 37.327180001000045, 47.58259 ] ] ] } }
-]
-}

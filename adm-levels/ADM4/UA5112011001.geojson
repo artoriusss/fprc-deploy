@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.043493436813600003, "Shape_Area": 8.5942429332300002e-05, "ADM4_EN": "Kuialnyk", "ADM4_UA": "Куяльник", "ADM4_PCODE": "UA5112011001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kuialnytska", "ADM3_UA": "Куяльницька", "ADM3_PCODE": "UA5112011", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": "UA5112011001", "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 492165.53, "Транспорт": 0.0, "Total": 492165.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.566507, 47.729134 ], [ 29.563379056000031, 47.732156821000046 ], [ 29.55100819200004, 47.729418033000059 ], [ 29.554059146000043, 47.724168791000068 ], [ 29.558115032000046, 47.722992981000061 ], [ 29.560824999000033, 47.726714 ], [ 29.567062999000029, 47.72625 ], [ 29.566507, 47.729134 ] ] ] } }
-]
-}

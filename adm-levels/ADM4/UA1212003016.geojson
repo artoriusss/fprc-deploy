@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.100353699415, "Shape_Area": 0.000396393263944, "ADM4_EN": "Step", "ADM4_UA": "Степ", "ADM4_PCODE": "UA1212003016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Verbkivska", "ADM3_UA": "Вербківська", "ADM3_PCODE": "UA1212003", "ADM2_EN": "Pavlohradskyi", "ADM2_UA": "Павлоградський", "ADM2_PCODE": "UA1212", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.071436743000049, 48.618139833000043 ], [ 36.066400731000044, 48.613843704000033 ], [ 36.062850439000044, 48.613319290000049 ], [ 36.059150744000078, 48.61032283000003 ], [ 36.075784744000032, 48.601954054000032 ], [ 36.086077001000035, 48.600314 ], [ 36.088477948000047, 48.600945836000051 ], [ 36.101625, 48.612029 ], [ 36.09773, 48.614564 ], [ 36.084144710000032, 48.611907705000078 ], [ 36.071436743000049, 48.618139833000043 ] ] ] } }
-]
-}

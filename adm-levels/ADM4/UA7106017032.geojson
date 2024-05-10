@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.149492778775, "Shape_Area": 0.00016497806539000001, "ADM4_EN": "Terlytsia", "ADM4_UA": "Терлиця", "ADM4_PCODE": "UA7106017032", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Monastyryshchenska", "ADM3_UA": "Монастирищенська", "ADM3_PCODE": "UA7106017", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.67616, 48.933726 ], [ 29.675341, 48.945981 ], [ 29.673295255000028, 48.948249862000068 ], [ 29.672244999000043, 48.938095 ], [ 29.674066, 48.934918 ], [ 29.669994, 48.932676 ], [ 29.670293, 48.928718 ], [ 29.674173999000061, 48.929186 ], [ 29.679551, 48.927639 ], [ 29.684196, 48.923818 ], [ 29.687468, 48.925526 ], [ 29.68824, 48.930015 ], [ 29.67616, 48.933726 ] ] ] } }
-]
-}

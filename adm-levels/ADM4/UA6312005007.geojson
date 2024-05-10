@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0346254375997, "Shape_Area": 3.2141475664e-05, "ADM4_EN": "Brazhnyky", "ADM4_UA": "Бражники", "ADM4_PCODE": "UA6312005007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vilkhivska", "ADM3_UA": "Вільхівська", "ADM3_PCODE": "UA6312005", "ADM2_EN": "Kharkivskyi", "ADM2_UA": "Харківський", "ADM2_PCODE": "UA6312", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.41459799900008, 49.995121 ], [ 36.409404, 49.993044 ], [ 36.404439, 49.994954 ], [ 36.401335999000025, 49.992101 ], [ 36.411181001000045, 49.991123 ], [ 36.41459799900008, 49.995121 ] ] ] } }
-]
-}

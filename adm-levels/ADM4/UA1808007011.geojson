@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0556812429165, "Shape_Area": 8.1777781747699994e-05, "ADM4_EN": "Perelisianka", "ADM4_UA": "Перелісянка", "ADM4_PCODE": "UA1808007011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodnytska", "ADM3_UA": "Городницька", "ADM3_PCODE": "UA1808007", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.287718840000025, 50.965876980000075 ], [ 27.284302080000032, 50.966954010000052 ], [ 27.281612880000068, 50.962596030000043 ], [ 27.297072, 50.958675 ], [ 27.299499119000075, 50.96175597000007 ], [ 27.29244312000003, 50.963420970000072 ], [ 27.287718840000025, 50.965876980000075 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.063859267220800001, "Shape_Area": 9.6659884497299998e-05, "ADM4_EN": "Mykhailivka", "ADM4_UA": "Михайлівка", "ADM4_PCODE": "UA4612001014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Belzka", "ADM3_UA": "Белзька", "ADM3_PCODE": "UA4612001", "ADM2_EN": "Chervonohradskyi", "ADM2_UA": "Червоноградський", "ADM2_PCODE": "UA4612", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.714738296000064, 50.332714011000064 ], [ 23.715984297000034, 50.328812011000082 ], [ 23.724129295000068, 50.326091011000074 ], [ 23.727106294000066, 50.326781010000047 ], [ 23.741478290000032, 50.327682011000036 ], [ 23.741417290000072, 50.329984011000079 ], [ 23.729856293000068, 50.330204011000035 ], [ 23.724181294000061, 50.332010011000079 ], [ 23.722014296000054, 50.33034801000008 ], [ 23.714738296000064, 50.332714011000064 ] ] ] } }
-]
-}

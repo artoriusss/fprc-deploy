@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.022322604019, "Shape_Area": 2.6854588387099999e-05, "ADM4_EN": "Saikiv", "ADM4_UA": "Сайків", "ADM4_PCODE": "UA4610011022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykolaivska", "ADM3_UA": "Миколаївська", "ADM3_PCODE": "UA4610011", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.889636242000051, 49.523313009000049 ], [ 23.887368242000036, 49.522287009000081 ], [ 23.890187241000035, 49.517578009000033 ], [ 23.894073240000068, 49.517394009000043 ], [ 23.889636242000051, 49.523313009000049 ] ] ] } }
-]
-}

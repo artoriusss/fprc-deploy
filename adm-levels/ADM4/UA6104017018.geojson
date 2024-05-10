@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.051988350422500003, "Shape_Area": 0.00010760916519400001, "ADM4_EN": "Yosypivka", "ADM4_UA": "Йосипівка", "ADM4_PCODE": "UA6104017018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zborivska", "ADM3_UA": "Зборівська", "ADM3_PCODE": "UA6104017", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.084351491000064, 49.610927831000026 ], [ 25.082489980000048, 49.610143072000028 ], [ 25.080150485000047, 49.605226397000081 ], [ 25.086201957000071, 49.600426372000072 ], [ 25.088185477000025, 49.601025714000059 ], [ 25.095130457000039, 49.597901522000029 ], [ 25.095820098000047, 49.602636836000045 ], [ 25.090836334000073, 49.604400029000033 ], [ 25.09264, 49.607803 ], [ 25.084351491000064, 49.610927831000026 ] ] ] } }
-]
-}

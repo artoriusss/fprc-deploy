@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.065065167305599997, "Shape_Area": 0.000111166892034, "ADM4_EN": "Koliady", "ADM4_UA": "Коляди", "ADM4_PCODE": "UA5306033028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shyshatska", "ADM3_UA": "Шишацька", "ADM3_PCODE": "UA5306033", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.191095999000026, 49.862633 ], [ 34.183141, 49.864163 ], [ 34.183680999000046, 49.860366 ], [ 34.187128, 49.857131 ], [ 34.189204, 49.858056 ], [ 34.202198, 49.858246 ], [ 34.202431, 49.862126 ], [ 34.192597, 49.863443 ], [ 34.191095999000026, 49.862633 ] ] ] } }
-]
-}

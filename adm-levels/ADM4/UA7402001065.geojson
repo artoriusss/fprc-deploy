@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.027319295945099999, "Shape_Area": 2.8695488409799999e-05, "ADM4_EN": "Holubivshchyna", "ADM4_UA": "Голубівщина", "ADM4_PCODE": "UA7402001065", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Koriukivska", "ADM3_UA": "Корюківська", "ADM3_PCODE": "UA7402001", "ADM2_EN": "Koriukivskyi", "ADM2_UA": "Корюківський", "ADM2_PCODE": "UA7402", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.467618800000025, 51.89453001000004 ], [ 32.460770160000038, 51.895469970000079 ], [ 32.457659040000067, 51.892536060000054 ], [ 32.465040120000026, 51.89112 ], [ 32.467618800000025, 51.89453001000004 ] ] ] } }
-]
-}

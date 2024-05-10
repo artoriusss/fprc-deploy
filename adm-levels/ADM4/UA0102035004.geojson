@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.046136662578400003, "Shape_Area": 6.7757484796100002e-05, "ADM4_EN": "Dibrivka", "ADM4_UA": "Дібрівка", "ADM4_PCODE": "UA0102035004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Plodivska", "ADM3_UA": "Плодівська", "ADM3_PCODE": "UA0102035", "ADM2_EN": "Bakhchysaraiskyi", "ADM2_UA": "Бахчисарайський", "ADM2_PCODE": "UA0102", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.845848162000038, 44.91226903900008 ], [ 33.840621705000046, 44.915125811000053 ], [ 33.840113663000068, 44.920804888000077 ], [ 33.834830326000031, 44.920887060000041 ], [ 33.834094487000073, 44.913078003000066 ], [ 33.839760009000031, 44.911096397000051 ], [ 33.845848162000038, 44.91226903900008 ] ] ] } }
-]
-}

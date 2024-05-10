@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0530492347795, "Shape_Area": 6.3492911685600001e-05, "ADM4_EN": "Krasne", "ADM4_UA": "Красне", "ADM4_PCODE": "UA7404027006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novobasanska", "ADM3_UA": "Новобасанська", "ADM3_PCODE": "UA7404027", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.409125046000042, 50.522609802000034 ], [ 31.406166082000027, 50.519902774000059 ], [ 31.41370007300003, 50.517388768000046 ], [ 31.416403124000055, 50.521820785000045 ], [ 31.417038029000025, 50.525430799000048 ], [ 31.411841125000024, 50.524923806000061 ], [ 31.409125046000042, 50.522609802000034 ] ] ] } }
-]
-}

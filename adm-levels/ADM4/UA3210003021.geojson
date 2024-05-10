@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.049827626857700001, "Shape_Area": 0.00010188532105, "ADM4_EN": "Ovdiieva Nyva", "ADM4_UA": "Овдієва Нива", "ADM4_PCODE": "UA3210003021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dymerska", "ADM3_UA": "Димерська", "ADM3_PCODE": "UA3210003", "ADM2_EN": "Vyshhorodskyi", "ADM2_UA": "Вишгородський", "ADM2_PCODE": "UA3210", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.237458824000043, 50.975946897000028 ], [ 30.233234891000052, 50.977040946000045 ], [ 30.228359793000038, 50.975126959000079 ], [ 30.227281898000058, 50.971631943000034 ], [ 30.233665362000067, 50.96820247800008 ], [ 30.240094901000077, 50.96745799100006 ], [ 30.24127687500004, 50.973927978000063 ], [ 30.237458824000043, 50.975946897000028 ] ] ] } }
-]
-}

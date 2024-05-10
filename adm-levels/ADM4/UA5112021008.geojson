@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.114799732507, "Shape_Area": 0.00036677936819900001, "ADM4_EN": "Dubynove", "ADM4_UA": "Дубинове", "ADM4_PCODE": "UA5112021008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Savranska", "ADM3_UA": "Савранська", "ADM3_PCODE": "UA5112021", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.274884, 48.140829 ], [ 30.266964999000038, 48.142904 ], [ 30.265771, 48.140792 ], [ 30.272454, 48.126948 ], [ 30.276481999000055, 48.126677 ], [ 30.277641, 48.124453 ], [ 30.282146999000076, 48.122775 ], [ 30.282402, 48.128571 ], [ 30.299382, 48.132067 ], [ 30.296282, 48.139403 ], [ 30.289552001000061, 48.137875 ], [ 30.27877600100004, 48.140858 ], [ 30.274884, 48.140829 ] ] ] } }
-]
-}

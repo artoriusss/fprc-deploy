@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.20448930127600001, "Shape_Area": 0.00033495324740399999, "ADM4_EN": "Dmytrashkivka", "ADM4_UA": "Дмитрашківка", "ADM4_PCODE": "UA0510009004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pishchanska", "ADM3_UA": "Піщанська", "ADM3_PCODE": "UA0510009", "ADM2_EN": "Tulchynskyi", "ADM2_UA": "Тульчинський", "ADM2_PCODE": "UA0510", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.777911, 48.206735 ], [ 28.766512, 48.205937 ], [ 28.767550668000069, 48.199097333000054 ], [ 28.760977, 48.194389 ], [ 28.762968, 48.190828 ], [ 28.768766, 48.191553 ], [ 28.771458, 48.190218 ], [ 28.773082, 48.193558 ], [ 28.775887999000076, 48.194009 ], [ 28.772425, 48.185948 ], [ 28.777285001000052, 48.184828 ], [ 28.784058999000024, 48.193308 ], [ 28.779403, 48.192967 ], [ 28.779981, 48.198677 ], [ 28.784584, 48.200726 ], [ 28.785169, 48.202885 ], [ 28.780589, 48.206354 ], [ 28.777911, 48.206735 ] ] ] } }
-]
-}

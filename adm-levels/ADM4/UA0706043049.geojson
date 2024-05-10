@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.050053359584500003, "Shape_Area": 9.1482011897499996e-05, "ADM4_EN": "Turychany", "ADM4_UA": "Туричани", "ADM4_PCODE": "UA0706043049", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Turiiska", "ADM3_UA": "Турійська", "ADM3_PCODE": "UA0706043", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.329528168000024, 51.078049005000082 ], [ 24.325231168000073, 51.077893005000078 ], [ 24.312563171000079, 51.067967005000071 ], [ 24.315714171000025, 51.066472006000026 ], [ 24.324455168000043, 51.071358005000036 ], [ 24.326927169000044, 51.071359005000033 ], [ 24.33307116800006, 51.076444006000031 ], [ 24.329528168000024, 51.078049005000082 ] ] ] } }
-]
-}

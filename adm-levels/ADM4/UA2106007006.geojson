@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.059486334766200001, "Shape_Area": 9.2073552219700005e-05, "ADM4_EN": "Trostianets", "ADM4_UA": "Тростянець", "ADM4_PCODE": "UA2106007006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yasinianska", "ADM3_UA": "Ясінянська", "ADM3_PCODE": "UA2106007", "ADM2_EN": "Rakhivskyi", "ADM2_UA": "Рахівський", "ADM2_PCODE": "UA2106", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.272566153000071, 48.158866006000039 ], [ 24.276561153000046, 48.162439006000056 ], [ 24.273949154000036, 48.164842006000072 ], [ 24.270106154000075, 48.163078006000035 ], [ 24.26378515600004, 48.16585200600008 ], [ 24.261310156000036, 48.161483006000026 ], [ 24.264626156000077, 48.155657006000069 ], [ 24.269355154000039, 48.155842006000057 ], [ 24.271755154000061, 48.158192006000036 ], [ 24.272566153000071, 48.158866006000039 ] ] ] } }
-]
-}

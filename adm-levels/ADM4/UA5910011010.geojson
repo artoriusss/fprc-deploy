@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.094019776610099998, "Shape_Area": 0.00010767823095700001, "ADM4_EN": "Mykytivka", "ADM4_UA": "Микитівка", "ADM4_PCODE": "UA5910011010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sveska", "ADM3_UA": "Свеська", "ADM3_PCODE": "UA5910011", "ADM2_EN": "Shostkynskyi", "ADM2_UA": "Шосткинський", "ADM2_PCODE": "UA5910", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.97931199900006, 51.913629 ], [ 33.976611999000056, 51.910811 ], [ 33.967785, 51.909354 ], [ 33.962683999000035, 51.911491 ], [ 33.963798, 51.906336 ], [ 33.967364, 51.906335 ], [ 33.975611, 51.903668 ], [ 33.977508, 51.904035 ], [ 33.981375, 51.909643 ], [ 33.97931199900006, 51.913629 ] ] ] } }
-]
-}

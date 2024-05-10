@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.17194507897200001, "Shape_Area": 0.00029202978370799999, "ADM4_EN": "Khonkivtsi", "ADM4_UA": "Хоньківці", "ADM4_PCODE": "UA0508013011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yaryshivska", "ADM3_UA": "Яришівська", "ADM3_PCODE": "UA0508013", "ADM2_EN": "Mohyliv-Podilskyi", "ADM2_UA": "Могилів-Подільський", "ADM2_PCODE": "UA0508", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 27.531147, 48.563771999000039 ], [ 27.533324, 48.558704 ], [ 27.538644, 48.557156999000028 ], [ 27.538128, 48.561709 ], [ 27.531147, 48.563771999000039 ] ] ], [ [ [ 27.559337, 48.556956 ], [ 27.55925, 48.558215 ], [ 27.551219, 48.561639 ], [ 27.54889, 48.555804 ], [ 27.544149, 48.555756 ], [ 27.539112999000054, 48.549491 ], [ 27.546666, 48.548338 ], [ 27.544267, 48.545032 ], [ 27.546948, 48.540897 ], [ 27.554804, 48.541112 ], [ 27.556176, 48.552065 ], [ 27.559337, 48.556956 ] ] ] ] } }
-]
-}

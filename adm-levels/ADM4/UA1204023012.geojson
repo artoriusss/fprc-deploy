@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12611818859000001, "Shape_Area": 0.000330638242213, "ADM4_EN": "Savro", "ADM4_UA": "Савро", "ADM4_PCODE": "UA1204023012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Saksahanska", "ADM3_UA": "Саксаганська", "ADM3_PCODE": "UA1204023", "ADM2_EN": "Kamianskyi", "ADM2_UA": "Кам’янський", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.619275, 48.327004 ], [ 33.618621, 48.329724 ], [ 33.597131, 48.326627 ], [ 33.600270976000047, 48.318063022000047 ], [ 33.614051549000067, 48.319955457000049 ], [ 33.615591, 48.315568 ], [ 33.619285999000056, 48.316212 ], [ 33.620770999000058, 48.310469 ], [ 33.622531, 48.310735 ], [ 33.626698, 48.300467 ], [ 33.630538, 48.300693 ], [ 33.623013999000079, 48.321703 ], [ 33.621316, 48.321461 ], [ 33.619275, 48.327004 ] ] ] } }
-]
-}

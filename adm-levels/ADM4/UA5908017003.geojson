@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12183565900399999, "Shape_Area": 0.00032297049731399999, "ADM4_EN": "Velyka Rybytsia", "ADM4_UA": "Велика Рибиця", "ADM4_PCODE": "UA5908017003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myropilska", "ADM3_UA": "Миропільська", "ADM3_PCODE": "UA5908017", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.166741, 51.021528 ], [ 35.159864001000074, 51.015892 ], [ 35.167849999000055, 51.013281 ], [ 35.166657999000051, 51.007466 ], [ 35.163997, 51.006053 ], [ 35.169307, 51.002492 ], [ 35.178759, 51.0033 ], [ 35.193942999000058, 51.001821 ], [ 35.196876, 51.005053 ], [ 35.192408001000047, 51.007441 ], [ 35.182044, 51.010865 ], [ 35.176833, 51.015054 ], [ 35.167571999000074, 51.019133 ], [ 35.166741, 51.021528 ] ] ] } }
-]
-}

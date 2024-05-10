@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13688840457500001, "Shape_Area": 0.00033199844443399998, "ADM4_EN": "Oleksiivka", "ADM4_UA": "Олексіївка", "ADM4_PCODE": "UA1404001014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykonovosilkivska", "ADM3_UA": "Великоновосілківська", "ADM3_PCODE": "UA1404001", "ADM2_EN": "Volnovaskyi", "ADM2_UA": "Волноваський", "ADM2_PCODE": "UA1404", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.925088, 48.023295 ], [ 36.919096001000071, 48.023183 ], [ 36.920316, 48.018674 ], [ 36.93225699900006, 48.017435 ], [ 36.95036, 48.013948 ], [ 36.957437999000035, 48.011532 ], [ 36.971691, 48.012555 ], [ 36.971823, 48.016258 ], [ 36.968254, 48.016312 ], [ 36.962877999000057, 48.019796 ], [ 36.956318, 48.021255 ], [ 36.953718001000027, 48.020461 ], [ 36.938828999000066, 48.022004 ], [ 36.938416, 48.020944 ], [ 36.925088, 48.023295 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.112089201958, "Shape_Area": 9.9348385667700004e-05, "ADM4_EN": "Korytne", "ADM4_UA": "Коритне", "ADM4_PCODE": "UA5604015013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krupetska", "ADM3_UA": "Крупецька", "ADM3_PCODE": "UA5604015", "ADM2_EN": "Dubenskyi", "ADM2_UA": "Дубенський", "ADM2_PCODE": "UA5604", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 25.257745079000074, 50.315247990000046 ], [ 25.253093160000049, 50.312961090000044 ], [ 25.255721880000067, 50.307661080000059 ], [ 25.259794920000047, 50.307662070000049 ], [ 25.261372080000058, 50.311489050000034 ], [ 25.257745079000074, 50.315247990000046 ] ] ], [ [ [ 25.256639881000069, 50.297930010000073 ], [ 25.253880840000079, 50.298499980000031 ], [ 25.252786079000032, 50.293559070000072 ], [ 25.255539001000045, 50.293138950000071 ], [ 25.256639881000069, 50.297930010000073 ] ] ] ] } }
-]
-}

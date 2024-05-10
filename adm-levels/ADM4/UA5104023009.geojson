@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.083981431122199995, "Shape_Area": 0.00019067374757300001, "ADM4_EN": "Krasna Kosa", "ADM4_UA": "Красна Коса", "ADM4_PCODE": "UA5104023009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starokozatska", "ADM3_UA": "Старокозацька", "ADM3_PCODE": "UA5104023", "ADM2_EN": "Bilhorod-Dnistrovskyi", "ADM2_UA": "Білгород-Дністровський", "ADM2_PCODE": "UA5104", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.097354, 46.341185 ], [ 30.09543300100006, 46.342473 ], [ 30.086653, 46.341129 ], [ 30.089158, 46.338397 ], [ 30.081863117000069, 46.330141464000064 ], [ 30.084645797000064, 46.328692353000065 ], [ 30.092380321000064, 46.330610537000041 ], [ 30.097112511000034, 46.329647782000052 ], [ 30.097747874000049, 46.326814611000032 ], [ 30.101446, 46.327553 ], [ 30.100819031000071, 46.33768008800007 ], [ 30.097775001000059, 46.338142 ], [ 30.097354, 46.341185 ] ] ] } }
-]
-}

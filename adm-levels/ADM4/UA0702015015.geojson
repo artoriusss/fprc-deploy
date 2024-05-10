@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.079591501038000001, "Shape_Area": 8.8888303727699993e-05, "ADM4_EN": "Okhnivka", "ADM4_UA": "Охнівка", "ADM4_PCODE": "UA0702015015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ovadnivska", "ADM3_UA": "Оваднівська", "ADM3_PCODE": "UA0702015", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.306779172000063, 50.945357006000052 ], [ 24.314063170000054, 50.940216006000071 ], [ 24.316993169000057, 50.937036006000028 ], [ 24.315012170000045, 50.927948005000076 ], [ 24.326540167000076, 50.929010006000055 ], [ 24.324172168000075, 50.933872005000069 ], [ 24.317989170000033, 50.935870006000073 ], [ 24.319522169000038, 50.937935006000032 ], [ 24.308310171000073, 50.94542900600004 ], [ 24.306779172000063, 50.945357006000052 ] ] ] } }
-]
-}

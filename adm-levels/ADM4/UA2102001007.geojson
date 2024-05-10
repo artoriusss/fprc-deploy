@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.061999413863299997, "Shape_Area": 5.9241100175e-05, "ADM4_EN": "Danylivka", "ADM4_UA": "Данилівка", "ADM4_PCODE": "UA2102001007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bativska", "ADM3_UA": "Батівська", "ADM3_PCODE": "UA2102001", "ADM2_EN": "Berehivskyi", "ADM2_UA": "Берегівський", "ADM2_PCODE": "UA2102", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.359989905000077, 48.342280039000059 ], [ 22.344749917000058, 48.339778040000056 ], [ 22.345564915000068, 48.337948040000072 ], [ 22.360758904000022, 48.340326039000047 ], [ 22.36435490100007, 48.338311039000075 ], [ 22.367319898000062, 48.332396040000049 ], [ 22.370041897000078, 48.33289903900004 ], [ 22.366946900000073, 48.339614039000026 ], [ 22.359989905000077, 48.342280039000059 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.040392940033000001, "Shape_Area": 5.10089404719e-05, "ADM4_EN": "Mokhnivka", "ADM4_UA": "Мохнівка", "ADM4_PCODE": "UA7408007008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lynovytska", "ADM3_UA": "Линовицька", "ADM3_PCODE": "UA7408007", "ADM2_EN": "Prylutskyi", "ADM2_UA": "Прилуцький", "ADM2_PCODE": "UA7408", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.446940040000072, 50.426919090000069 ], [ 32.440506119000077, 50.422987980000073 ], [ 32.441416921000041, 50.421417030000043 ], [ 32.447908080000047, 50.423191020000047 ], [ 32.452308, 50.42157399000007 ], [ 32.454758881000032, 50.423927040000081 ], [ 32.450333039000043, 50.426640990000067 ], [ 32.446940040000072, 50.426919090000069 ] ] ] } }
-]
-}

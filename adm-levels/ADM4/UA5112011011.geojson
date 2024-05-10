@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12660382998399999, "Shape_Area": 0.00043876362534, "ADM4_EN": "Hyderym", "ADM4_UA": "Гидерим", "ADM4_PCODE": "UA5112011011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kuialnytska", "ADM3_UA": "Куяльницька", "ADM3_PCODE": "UA5112011", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.561851999000055, 47.834333 ], [ 29.56132, 47.835405 ], [ 29.55179, 47.832607 ], [ 29.556398999000066, 47.81405 ], [ 29.56228, 47.814477 ], [ 29.566167, 47.812083 ], [ 29.573447, 47.813123 ], [ 29.57069, 47.817904 ], [ 29.563643, 47.817812 ], [ 29.572531, 47.823026 ], [ 29.578046, 47.82367 ], [ 29.583436, 47.827724 ], [ 29.57204499900007, 47.834164 ], [ 29.561851999000055, 47.834333 ] ] ] } }
-]
-}

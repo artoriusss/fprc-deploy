@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0966118038156, "Shape_Area": 0.00028353581887300002, "ADM4_EN": "Chervonyi Tik", "ADM4_UA": "Червоний Тік", "ADM4_PCODE": "UA1206009003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hrushivska", "ADM3_UA": "Грушівська", "ADM3_PCODE": "UA1206009", "ADM2_EN": "Kryvorizkyi", "ADM2_UA": "Криворізький", "ADM2_PCODE": "UA1206", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.925598, 47.672494 ], [ 33.907786001000034, 47.669679 ], [ 33.89937, 47.666722 ], [ 33.893091, 47.662858 ], [ 33.892013, 47.655004 ], [ 33.88974199900008, 47.65207 ], [ 33.894062, 47.64996 ], [ 33.899465, 47.655063 ], [ 33.90017799900005, 47.657499 ], [ 33.906934, 47.660202500000025 ], [ 33.91402400100003, 47.660938 ], [ 33.925598, 47.672494 ] ] ] } }
-]
-}

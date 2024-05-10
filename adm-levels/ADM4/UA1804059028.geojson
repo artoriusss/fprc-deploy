@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.084271929487999997, "Shape_Area": 9.7990489744399998e-05, "ADM4_EN": "Rosivka", "ADM4_UA": "Росівка", "ADM4_PCODE": "UA1804059028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Cherniakhivska", "ADM3_UA": "Черняхівська", "ADM3_PCODE": "UA1804059", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.81321416000003, 50.662122030000035 ], [ 28.810382039000046, 50.663035980000075 ], [ 28.806278040000052, 50.659895970000036 ], [ 28.79960292100003, 50.660956980000037 ], [ 28.795957920000035, 50.660406 ], [ 28.791092160000062, 50.65718301000004 ], [ 28.792716840000026, 50.653783980000071 ], [ 28.79638704100006, 50.653753020000067 ], [ 28.801330920000055, 50.657042970000077 ], [ 28.807133040000053, 50.657862960000045 ], [ 28.81321416000003, 50.662122030000035 ] ] ] } }
-]
-}

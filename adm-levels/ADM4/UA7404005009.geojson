@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.063453838490100001, "Shape_Area": 0.00014110772044300001, "ADM4_EN": "Zaporizhzhia", "ADM4_UA": "Запоріжжя", "ADM4_PCODE": "UA7404005009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bobrovytska", "ADM3_UA": "Бобровицька", "ADM3_PCODE": "UA7404005", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.792163772000038, 50.612405125000066 ], [ 31.785786004000045, 50.614832481000064 ], [ 31.784267258000057, 50.61658484000003 ], [ 31.77844241300005, 50.615878674000044 ], [ 31.780593774000067, 50.607853095000053 ], [ 31.781924063000076, 50.606311321000078 ], [ 31.791094070000042, 50.608470987000032 ], [ 31.804088593000074, 50.606303021000031 ], [ 31.802465687000051, 50.610644128000047 ], [ 31.792163772000038, 50.612405125000066 ] ] ] } }
-]
-}

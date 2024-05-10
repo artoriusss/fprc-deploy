@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.047878301434299997, "Shape_Area": 6.6153730448999994e-05, "ADM4_EN": "Hladkove", "ADM4_UA": "Гладкове", "ADM4_PCODE": "UA4410007005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lozno-Oleksandrivska", "ADM3_UA": "Лозно-Олександрівська", "ADM3_PCODE": "UA4410007", "ADM2_EN": "Svativskyi", "ADM2_UA": "Сватівський", "ADM2_PCODE": "UA4410", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.606761, 49.740896 ], [ 38.60296100100004, 49.743761 ], [ 38.596773, 49.738883 ], [ 38.59948, 49.735849 ], [ 38.601872, 49.737524 ], [ 38.607906, 49.737727 ], [ 38.606761, 49.740896 ] ] ] } }
-]
-}

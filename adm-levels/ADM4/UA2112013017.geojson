@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0602468933769, "Shape_Area": 0.000115981095095, "ADM4_EN": "Pidhirne", "ADM4_UA": "Підгірне", "ADM4_PCODE": "UA2112013017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Irshavska", "ADM3_UA": "Іршавська", "ADM3_PCODE": "UA2112013", "ADM2_EN": "Khustskyi", "ADM2_UA": "Хустський", "ADM2_PCODE": "UA2112", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.035962505000043, 48.401504021000051 ], [ 23.030074507000052, 48.399995021000052 ], [ 23.024684510000043, 48.400043021000045 ], [ 23.018046512000069, 48.398384021000027 ], [ 23.016049513000041, 48.395398021000062 ], [ 23.021466511000028, 48.390659021000033 ], [ 23.023818510000069, 48.39277502200008 ], [ 23.031715507000058, 48.396338021000076 ], [ 23.036908504000053, 48.397605021000061 ], [ 23.035962505000043, 48.401504021000051 ] ] ] } }
-]
-}

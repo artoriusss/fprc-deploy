@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.15200470854799999, "Shape_Area": 0.000197757560336, "ADM4_EN": "Shaitanka", "ADM4_UA": "Шайтанка", "ADM4_PCODE": "UA5112013040", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Liubashivska", "ADM3_UA": "Любашівська", "ADM3_PCODE": "UA5112013", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.193468, 47.65846 ], [ 30.181002, 47.662568 ], [ 30.181375, 47.660076 ], [ 30.198914, 47.654259 ], [ 30.211062, 47.650961 ], [ 30.226997001000029, 47.649153 ], [ 30.224574, 47.655333 ], [ 30.218547001000047, 47.655169 ], [ 30.208167, 47.653306 ], [ 30.203572, 47.658992 ], [ 30.193468, 47.65846 ] ] ] } }
-]
-}

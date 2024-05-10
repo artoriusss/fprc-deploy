@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.100325461103, "Shape_Area": 0.00017709661151000001, "ADM4_EN": "Lystvyn", "ADM4_UA": "Листвин", "ADM4_PCODE": "UA5604017008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myrohoshchanska", "ADM3_UA": "Мирогощанська", "ADM3_PCODE": "UA5604017", "ADM2_EN": "Dubenskyi", "ADM2_UA": "Дубенський", "ADM2_PCODE": "UA5604", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.982868960000076, 50.409205920000034 ], [ 25.969476960000065, 50.403911040000025 ], [ 25.970758920000037, 50.400918 ], [ 25.974718919000054, 50.39798004000005 ], [ 25.987551840000037, 50.399765010000067 ], [ 25.994241, 50.395750920000069 ], [ 25.997576041000059, 50.400909990000059 ], [ 25.996644, 50.402334960000076 ], [ 25.985108161000028, 50.403192030000071 ], [ 25.982376120000026, 50.406693030000042 ], [ 25.982868960000076, 50.409205920000034 ] ] ] } }
-]
-}

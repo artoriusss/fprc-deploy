@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.040415751014400002, "Shape_Area": 5.66773011094e-05, "ADM4_EN": "Novopetrivka", "ADM4_UA": "Новопетрівка", "ADM4_PCODE": "UA4804001023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bratska", "ADM3_UA": "Братська", "ADM3_PCODE": "UA4804001", "ADM2_EN": "Voznesenskyi", "ADM2_UA": "Вознесенський", "ADM2_PCODE": "UA4804", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.732647495000037, 47.838309748000029 ], [ 31.727401749000023, 47.836595456000055 ], [ 31.727530079000076, 47.832503832000043 ], [ 31.725135957000077, 47.828669780000041 ], [ 31.733347671000047, 47.830455022000081 ], [ 31.735297098000046, 47.832837158000075 ], [ 31.732647495000037, 47.838309748000029 ] ] ] } }
-]
-}

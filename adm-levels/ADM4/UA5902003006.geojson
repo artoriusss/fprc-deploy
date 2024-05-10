@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.20430717386899999, "Shape_Area": 0.00018697312072300001, "ADM4_EN": "Boshivka", "ADM4_UA": "Бошівка", "ADM4_PCODE": "UA5902003006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Burynska", "ADM3_UA": "Буринська", "ADM3_PCODE": "UA5902003", "ADM2_EN": "Konotopskyi", "ADM2_UA": "Конотопський", "ADM2_PCODE": "UA5902", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.940170970000054, 51.069405711000059 ], [ 33.947548999000048, 51.071382 ], [ 33.958039, 51.072427 ], [ 33.95707, 51.075816 ], [ 33.942527, 51.07377 ], [ 33.935894, 51.077207 ], [ 33.931869651000056, 51.074314050000055 ], [ 33.940170970000054, 51.069405711000059 ] ] ] } }
-]
-}

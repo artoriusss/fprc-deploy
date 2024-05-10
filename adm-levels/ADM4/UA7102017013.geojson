@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.17600369203300001, "Shape_Area": 0.000195683112777, "ADM4_EN": "Yaroslavka", "ADM4_UA": "Ярославка", "ADM4_PCODE": "UA7102017013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lypianska", "ADM3_UA": "Лип'янська", "ADM3_PCODE": "UA7102017", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.365325, 48.797014 ], [ 31.364396001000046, 48.794885 ], [ 31.369379, 48.787768 ], [ 31.359979999000075, 48.788432 ], [ 31.356875, 48.784251 ], [ 31.360111, 48.783362 ], [ 31.369383, 48.783631 ], [ 31.374296001000062, 48.779315 ], [ 31.374722, 48.777445 ], [ 31.382080001000077, 48.77942 ], [ 31.377109, 48.782959 ], [ 31.374722, 48.781885 ], [ 31.368125001000067, 48.786546 ], [ 31.37235, 48.787792 ], [ 31.37344, 48.793147 ], [ 31.368028001000027, 48.79685 ], [ 31.365325, 48.797014 ] ] ] } }
-]
-}

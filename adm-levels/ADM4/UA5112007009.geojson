@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.03397583509, "Shape_Area": 5.3231686147300001e-05, "ADM4_EN": "Chabanivka", "ADM4_UA": "Чабанівка", "ADM4_PCODE": "UA5112007009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zelenohirska", "ADM3_UA": "Зеленогірська", "ADM3_PCODE": "UA5112007", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.057411, 47.80197 ], [ 30.057505, 47.804446 ], [ 30.055014622000044, 47.813485430000071 ], [ 30.050404999000079, 47.811491 ], [ 30.053858999000056, 47.801365 ], [ 30.057411, 47.80197 ] ] ] } }
-]
-}

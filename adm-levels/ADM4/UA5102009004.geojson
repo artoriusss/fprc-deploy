@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10237717393699999, "Shape_Area": 0.000238142005308, "ADM4_EN": "Baranove", "ADM4_UA": "Баранове", "ADM4_PCODE": "UA5102009004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivanivska", "ADM3_UA": "Іванівська", "ADM3_PCODE": "UA5102009", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.392637, 46.948512 ], [ 30.393618, 46.945893 ], [ 30.412841, 46.928592 ], [ 30.418066, 46.925276 ], [ 30.420929, 46.926692 ], [ 30.41682399900003, 46.933285 ], [ 30.424472, 46.934984 ], [ 30.425143, 46.937872 ], [ 30.415752, 46.936962 ], [ 30.410559, 46.941217 ], [ 30.405517, 46.944045 ], [ 30.401425, 46.948045 ], [ 30.397185, 46.946053 ], [ 30.392637, 46.948512 ] ] ] } }
-]
-}

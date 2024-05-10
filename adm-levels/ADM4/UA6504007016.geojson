@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.055619241915500002, "Shape_Area": 0.000110075546309, "ADM4_EN": "Zelene", "ADM4_UA": "Зелене", "ADM4_PCODE": "UA6504007016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novotroitska", "ADM3_UA": "Новотроїцька", "ADM3_PCODE": "UA6504007", "ADM2_EN": "Henicheskyi", "ADM2_UA": "Генічеський", "ADM2_PCODE": "UA6504", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.468246, 46.49119 ], [ 34.460579, 46.48958 ], [ 34.455814, 46.490189 ], [ 34.457088001000045, 46.48399 ], [ 34.477531001000045, 46.486554 ], [ 34.476603001000058, 46.490915 ], [ 34.468246, 46.49119 ] ] ] } }
-]
-}

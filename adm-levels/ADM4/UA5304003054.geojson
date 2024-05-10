@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.167973483348, "Shape_Area": 0.000190933684075, "ADM4_EN": "Tyshky", "ADM4_UA": "Тишки", "ADM4_PCODE": "UA5304003054", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lubenska", "ADM3_UA": "Лубенська", "ADM3_PCODE": "UA5304003", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 33.121625, 50.122796 ], [ 33.118932, 50.123537 ], [ 33.116148, 50.12044 ], [ 33.111597, 50.119576 ], [ 33.110043999000027, 50.116044 ], [ 33.116605, 50.112754 ], [ 33.120852999000078, 50.111905 ], [ 33.125572, 50.113998 ], [ 33.124631, 50.119585 ], [ 33.121625, 50.122796 ] ] ], [ [ [ 33.105316, 50.109043 ], [ 33.100960001000033, 50.109572 ], [ 33.099116, 50.106882 ], [ 33.11004900100005, 50.105812 ], [ 33.105316, 50.109043 ] ] ] ] } }
-]
-}

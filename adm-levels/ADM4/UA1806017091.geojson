@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.040295433869000002, "Shape_Area": 5.3417333412200003e-05, "ADM4_EN": "Yatskovychi", "ADM4_UA": "Яцковичі", "ADM4_PCODE": "UA1806017091", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ovrutska", "ADM3_UA": "Овруцька", "ADM3_PCODE": "UA1806017", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.833463079000069, 51.29423496000004 ], [ 28.831548960000077, 51.294992040000068 ], [ 28.827812880000067, 51.291703980000079 ], [ 28.834980121000058, 51.289675020000061 ], [ 28.84320684000005, 51.289427970000077 ], [ 28.844777879000048, 51.291884970000069 ], [ 28.833463079000069, 51.29423496000004 ] ] ] } }
-]
-}

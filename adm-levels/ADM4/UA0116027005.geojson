@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.058986566086600002, "Shape_Area": 7.3016048400500005e-05, "ADM4_EN": "Kashtanove", "ADM4_UA": "Каштанове", "ADM4_PCODE": "UA0116027005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Perovska", "ADM3_UA": "Перовська", "ADM3_PCODE": "UA0116027", "ADM2_EN": "Simferopolskyi", "ADM2_UA": "Сімферопольський", "ADM2_PCODE": "UA0116", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.065229911000074, 44.832812483000055 ], [ 34.057270298000049, 44.832420973000069 ], [ 34.050422338000033, 44.827383901000076 ], [ 34.052905226000064, 44.825976934000039 ], [ 34.057135156000072, 44.827232346000073 ], [ 34.060365577000027, 44.830687907000026 ], [ 34.064909400000033, 44.83062760200005 ], [ 34.067993005000062, 44.827774383000076 ], [ 34.072393757000043, 44.830726497000057 ], [ 34.065229911000074, 44.832812483000055 ] ] ] } }
-]
-}

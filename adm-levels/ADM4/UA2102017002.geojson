@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.069688839327, "Shape_Area": 0.000134782419968, "ADM4_EN": "Heten", "ADM4_UA": "Гетен", "ADM4_PCODE": "UA2102017002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kosonska", "ADM3_UA": "Косоньська", "ADM3_PCODE": "UA2102017", "ADM2_EN": "Berehivskyi", "ADM2_UA": "Берегівський", "ADM2_PCODE": "UA2102", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.38259088500007, 48.280533038000044 ], [ 22.369965894000075, 48.279773039000077 ], [ 22.367106896000053, 48.277601039000047 ], [ 22.374230890000035, 48.273303039000041 ], [ 22.388059880000071, 48.273768038000071 ], [ 22.395486875000074, 48.27282303800007 ], [ 22.394031876000042, 48.276551038000036 ], [ 22.385471883000037, 48.276649038000073 ], [ 22.38259088500007, 48.280533038000044 ] ] ] } }
-]
-}

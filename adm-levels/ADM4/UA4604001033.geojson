@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.031484991163999998, "Shape_Area": 3.4615063692999998e-05, "ADM4_EN": "Mytnytsia", "ADM4_UA": "Митниця", "ADM4_PCODE": "UA4604001033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Brodivska", "ADM3_UA": "Бродівська", "ADM3_PCODE": "UA4604001", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.127687399000024, 50.282156267000062 ], [ 25.127188070000045, 50.279641002000062 ], [ 25.133763069000054, 50.279918002000045 ], [ 25.134393461000059, 50.283717556000056 ], [ 25.127687399000024, 50.282156267000062 ] ] ] } }
-]
-}

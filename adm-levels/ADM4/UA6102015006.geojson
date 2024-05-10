@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0421566272485, "Shape_Area": 6.2264748239899997e-05, "ADM4_EN": "Birky", "ADM4_UA": "Бірки", "ADM4_PCODE": "UA6102015006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shumska", "ADM3_UA": "Шумська", "ADM3_PCODE": "UA6102015", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.030188, 50.075744 ], [ 26.030366473000072, 50.078240436000044 ], [ 26.023710220000055, 50.079205298000034 ], [ 26.020368110000049, 50.082172894000053 ], [ 26.017744, 50.078759 ], [ 26.016958170000066, 50.075252137000064 ], [ 26.030188, 50.075744 ] ] ] } }
-]
-}

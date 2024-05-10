@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.053097455646100002, "Shape_Area": 0.000112671389771, "ADM4_EN": "Tarasivka", "ADM4_UA": "Тарасівка", "ADM4_PCODE": "UA5302023038", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Semenivska", "ADM3_UA": "Семенівська", "ADM3_PCODE": "UA5302023", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.22586393000006, 49.59977942300003 ], [ 33.222047643000053, 49.60159709900006 ], [ 33.212051667000026, 49.602986861000034 ], [ 33.208502440000075, 49.602727703000028 ], [ 33.210373480000044, 49.597805845000039 ], [ 33.214382250000028, 49.596865588000071 ], [ 33.214309904000061, 49.593724319000046 ], [ 33.220191576000047, 49.592532873000039 ], [ 33.221787706000043, 49.595747385000038 ], [ 33.22586393000006, 49.59977942300003 ] ] ] } }
-]
-}

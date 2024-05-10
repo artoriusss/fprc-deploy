@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.068736353612499995, "Shape_Area": 0.00012594058632599999, "ADM4_EN": "Voronovytsia", "ADM4_UA": "Вороновиця", "ADM4_PCODE": "UA7304003009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kelmenetska", "ADM3_UA": "Кельменецька", "ADM3_PCODE": "UA7304003", "ADM2_EN": "Dnistrovskyi", "ADM2_UA": "Дністровський", "ADM2_PCODE": "UA7304", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.665981999000053, 48.554116 ], [ 26.663547, 48.55503 ], [ 26.656355, 48.551826 ], [ 26.677306, 48.543157 ], [ 26.681110001000036, 48.544609 ], [ 26.674460001000057, 48.550241 ], [ 26.665981999000053, 48.554116 ] ] ] } }
-]
-}

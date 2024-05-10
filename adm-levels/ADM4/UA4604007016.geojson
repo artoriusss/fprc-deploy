@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.080758038362599996, "Shape_Area": 0.00017501257901399999, "ADM4_EN": "Derevianky", "ADM4_UA": "Дерев'янки", "ADM4_PCODE": "UA4604007016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zolochivska", "ADM3_UA": "Золочівська", "ADM3_PCODE": "UA4604007", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.083137997000051, 49.825967533000039 ], [ 25.076157073000047, 49.822541002000037 ], [ 25.078230072000053, 49.81598400300004 ], [ 25.072048074000065, 49.81523700200006 ], [ 25.070217073000038, 49.810867002000066 ], [ 25.073735072000034, 49.808661002000065 ], [ 25.076022071000068, 49.804660002000048 ], [ 25.083486073000074, 49.803545002000078 ], [ 25.082414903000029, 49.820296213000063 ], [ 25.083137997000051, 49.825967533000039 ] ] ] } }
-]
-}

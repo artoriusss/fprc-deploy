@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.186221073604, "Shape_Area": 0.000153865410746, "ADM4_EN": "Klymivka", "ADM4_UA": "Климівка", "ADM4_PCODE": "UA4412009006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rubizhanska", "ADM3_UA": "Рубіжанська", "ADM3_PCODE": "UA4412009", "ADM2_EN": "Sievierodonetskyi", "ADM2_UA": "Сєвєродонецький", "ADM2_PCODE": "UA4412", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.427264, 49.26854 ], [ 38.430624, 49.262469 ], [ 38.441209, 49.254079 ], [ 38.437531001000025, 49.251226 ], [ 38.435201, 49.254835 ], [ 38.430119001000037, 49.255355 ], [ 38.431608999000048, 49.251892 ], [ 38.436482, 49.249575 ], [ 38.441413, 49.252056 ], [ 38.443606, 49.249065 ], [ 38.44402799900007, 49.243805 ], [ 38.44710199900004, 49.244264 ], [ 38.446285, 49.249468 ], [ 38.442138, 49.254933 ], [ 38.437504999000055, 49.258082 ], [ 38.431297, 49.265829 ], [ 38.427264, 49.26854 ] ] ] } }
-]
-}

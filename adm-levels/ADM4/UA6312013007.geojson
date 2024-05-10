@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.072555307819099996, "Shape_Area": 0.000118232584972, "ADM4_EN": "Lisne", "ADM4_UA": "Лісне", "ADM4_PCODE": "UA6312013007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Malodanylivska", "ADM3_UA": "Малоданилівська", "ADM3_PCODE": "UA6312013", "ADM2_EN": "Kharkivskyi", "ADM2_UA": "Харківський", "ADM2_PCODE": "UA6312", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": "UA6312013007", "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 8045636.51, "Освіта": 0.0, "Транспорт": 0.0, "Total": 8045636.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.281674, 50.107504 ], [ 36.278695, 50.111631 ], [ 36.274567999000055, 50.114867 ], [ 36.269116, 50.115491 ], [ 36.268146, 50.112992 ], [ 36.26864, 50.105838 ], [ 36.276419001000079, 50.10632 ], [ 36.279870999000025, 50.100988 ], [ 36.282152, 50.104168 ], [ 36.281674, 50.107504 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0308197939371, "Shape_Area": 4.8791007552500001e-05, "ADM4_EN": "Staryi Maidan", "ADM4_UA": "Старий Майдан", "ADM4_PCODE": "UA6804007018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vovkovynetska", "ADM3_UA": "Вовковинецька", "ADM3_PCODE": "UA6804007", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.594238, 49.269825 ], [ 27.595104, 49.272151 ], [ 27.587567, 49.274135 ], [ 27.583201, 49.27297 ], [ 27.583080001000042, 49.270116 ], [ 27.591856, 49.268666 ], [ 27.594238, 49.269825 ] ] ] } }
-]
-}

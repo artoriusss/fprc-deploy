@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14792936156399999, "Shape_Area": 0.00014933016529000001, "ADM4_EN": "Komarivka", "ADM4_UA": "Комарівка", "ADM4_PCODE": "UA6806011005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krupetska", "ADM3_UA": "Крупецька", "ADM3_PCODE": "UA6806011", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.741682001000072, 50.322391 ], [ 26.738135, 50.322536 ], [ 26.734072999000034, 50.320247 ], [ 26.72425, 50.312352 ], [ 26.715369, 50.310727 ], [ 26.706721, 50.308289 ], [ 26.709298001000036, 50.305262 ], [ 26.718142, 50.307237 ], [ 26.721224999000071, 50.304851 ], [ 26.725254001000053, 50.310856 ], [ 26.741682001000072, 50.322391 ] ] ] } }
-]
-}

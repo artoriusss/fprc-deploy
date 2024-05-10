@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.071203495434099998, "Shape_Area": 7.3744207020599994e-05, "ADM4_EN": "Zabara", "ADM4_UA": "Забара", "ADM4_PCODE": "UA1808011004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dubrivska", "ADM3_UA": "Дубрівська", "ADM3_PCODE": "UA1808011", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.281378880000034, 50.446386 ], [ 27.281729881000047, 50.445513990000052 ], [ 27.301975921000064, 50.44210299000008 ], [ 27.303987960000029, 50.444046 ], [ 27.286619040000062, 50.446701990000065 ], [ 27.281378880000034, 50.446386 ] ] ] } }
-]
-}

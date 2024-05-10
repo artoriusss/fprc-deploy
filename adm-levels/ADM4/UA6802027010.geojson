@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.096529608456900007, "Shape_Area": 0.000261597944106, "ADM4_EN": "Nefedivtsi", "ADM4_UA": "Нефедівці", "ADM4_PCODE": "UA6802027010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Staroushytska", "ADM3_UA": "Староушицька", "ADM3_PCODE": "UA6802027", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.920246, 48.705711 ], [ 26.911385999000061, 48.698439 ], [ 26.922128, 48.689107 ], [ 26.929004, 48.685262 ], [ 26.929946999000038, 48.691707 ], [ 26.932168, 48.692609 ], [ 26.931032001000062, 48.700204 ], [ 26.924145, 48.705689 ], [ 26.920246, 48.705711 ] ] ] } }
-]
-}

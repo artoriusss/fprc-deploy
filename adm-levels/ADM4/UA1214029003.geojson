@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.045031045595599999, "Shape_Area": 2.98857344749e-05, "ADM4_EN": "Hostryi Kamin", "ADM4_UA": "Гострий Камінь", "ADM4_PCODE": "UA1214029003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozdorska", "ADM3_UA": "Роздорська", "ADM3_PCODE": "UA1214029", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.654138, 48.30694 ], [ 35.651398999000037, 48.304055 ], [ 35.637625, 48.299288 ], [ 35.63830899900006, 48.298559 ], [ 35.647806, 48.302147 ], [ 35.649919999000076, 48.301123 ], [ 35.656451, 48.305288 ], [ 35.654138, 48.30694 ] ] ] } }
-]
-}

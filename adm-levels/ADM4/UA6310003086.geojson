@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0822179504614, "Shape_Area": 0.000100744573681, "ADM4_EN": "Sofiivka Persha", "ADM4_UA": "Софіївка Перша", "ADM4_PCODE": "UA6310003086", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Blyzniukivska", "ADM3_UA": "Близнюківська", "ADM3_PCODE": "UA6310003", "ADM2_EN": "Lozivskyi", "ADM2_UA": "Лозівський", "ADM2_PCODE": "UA6310", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.428477999000052, 48.831568 ], [ 36.419763001000035, 48.829672 ], [ 36.414726, 48.830348 ], [ 36.406166, 48.828957 ], [ 36.400302, 48.824161 ], [ 36.40213, 48.822722 ], [ 36.408666, 48.826911 ], [ 36.415953999000067, 48.826097 ], [ 36.426892001000056, 48.82859 ], [ 36.428477999000052, 48.831568 ] ] ] } }
-]
-}

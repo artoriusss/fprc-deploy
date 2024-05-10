@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.038431414491200001, "Shape_Area": 6.6683170985499995e-05, "ADM4_EN": "Berezyna", "ADM4_UA": "Березина", "ADM4_PCODE": "UA4606039002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rava-Ruska", "ADM3_UA": "Рава-Руська", "ADM3_PCODE": "UA4606039", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.774162280000041, 50.190057010000032 ], [ 23.77829127800004, 50.192157010000074 ], [ 23.778397278000057, 50.195586010000056 ], [ 23.768515280000031, 50.195849011000064 ], [ 23.763067283000055, 50.193852010000057 ], [ 23.762807283000029, 50.19166701000006 ], [ 23.774162280000041, 50.190057010000032 ] ] ] } }
-]
-}

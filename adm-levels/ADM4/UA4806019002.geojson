@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.063891620435300001, "Shape_Area": 0.000131647163103, "ADM4_EN": "Danylivka", "ADM4_UA": "Данилівка", "ADM4_PCODE": "UA4806019002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nechaianska", "ADM3_UA": "Нечаянська", "ADM3_PCODE": "UA4806019", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.522017690000041, 47.00252699400005 ], [ 31.515477134000037, 47.001785658000074 ], [ 31.513469696000072, 46.998903583000072 ], [ 31.51633029900006, 46.99296087700003 ], [ 31.516166661000057, 46.989448216000028 ], [ 31.52002230800008, 46.989944497000067 ], [ 31.520912843000076, 46.987443852000069 ], [ 31.526068167000062, 46.987935549000042 ], [ 31.524497284000063, 46.995899371000064 ], [ 31.522017690000041, 47.00252699400005 ] ] ] } }
-]
-}

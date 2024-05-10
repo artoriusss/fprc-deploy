@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.177143701027, "Shape_Area": 0.00029353035174699998, "ADM4_EN": "Kimlychka", "ADM4_UA": "Кімличка", "ADM4_PCODE": "UA5906007015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lypovodolynska", "ADM3_UA": "Липоводолинська", "ADM3_PCODE": "UA5906007", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.862877, 50.708152 ], [ 33.859302, 50.707346 ], [ 33.858956999000043, 50.702729 ], [ 33.854142, 50.703652 ], [ 33.858662, 50.693463 ], [ 33.857331, 50.687485 ], [ 33.863334999000074, 50.686051 ], [ 33.86667, 50.682152 ], [ 33.870413, 50.681208 ], [ 33.87096, 50.685715 ], [ 33.868929, 50.691371 ], [ 33.872842, 50.690057 ], [ 33.87288, 50.69698 ], [ 33.869158999000035, 50.701139 ], [ 33.866681, 50.702048 ], [ 33.862877, 50.708152 ] ] ] } }
-]
-}

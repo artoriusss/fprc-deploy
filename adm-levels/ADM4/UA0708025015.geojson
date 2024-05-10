@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0486508007768, "Shape_Area": 9.0904445439500005e-05, "ADM4_EN": "Korsyni", "ADM4_UA": "Корсині", "ADM4_PCODE": "UA0708025015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozhyshchenska", "ADM3_UA": "Рожищенська", "ADM3_PCODE": "UA0708025", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.298812060000046, 51.107062002000077 ], [ 25.311275058000035, 51.111671002000037 ], [ 25.314315059000023, 51.11407500200005 ], [ 25.31246205900004, 51.116706002000058 ], [ 25.292463061000035, 51.110851002000061 ], [ 25.298812060000046, 51.107062002000077 ] ] ] } }
-]
-}

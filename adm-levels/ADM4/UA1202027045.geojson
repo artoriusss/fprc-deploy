@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11539064180899999, "Shape_Area": 0.00027084616653000001, "ADM4_EN": "Trytuzne", "ADM4_UA": "Тритузне", "ADM4_PCODE": "UA1202027045", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Solonianska", "ADM3_UA": "Солонянська", "ADM3_PCODE": "UA1202027", "ADM2_EN": "Dniprovskyi", "ADM2_UA": "Дніпровський", "ADM2_PCODE": "UA1202", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.730289001000074, 48.148026 ], [ 34.731945999000061, 48.144643 ], [ 34.731626, 48.140743 ], [ 34.728103001000079, 48.133053 ], [ 34.728685, 48.129177 ], [ 34.724675001000037, 48.128938 ], [ 34.72406200100005, 48.124374 ], [ 34.721598, 48.117803999000046 ], [ 34.735719, 48.115704 ], [ 34.738312, 48.122681 ], [ 34.736065, 48.124349 ], [ 34.736594, 48.133399 ], [ 34.734426, 48.138222 ], [ 34.734648, 48.143923 ], [ 34.730289001000074, 48.148026 ] ] ] } }
-]
-}

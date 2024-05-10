@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.036699406889000002, "Shape_Area": 4.4649817112399999e-05, "ADM4_EN": "Skytok", "ADM4_UA": "Скиток", "ADM4_PCODE": "UA7410009018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dobrianska", "ADM3_UA": "Добрянська", "ADM3_PCODE": "UA7410009", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.969001801000047, 52.074504990000037 ], [ 30.964997880000055, 52.080050070000027 ], [ 30.96390708000007, 52.075903950000054 ], [ 30.967746840000075, 52.069608990000063 ], [ 30.972423960000071, 52.069716990000074 ], [ 30.969001801000047, 52.074504990000037 ] ] ] } }
-]
-}

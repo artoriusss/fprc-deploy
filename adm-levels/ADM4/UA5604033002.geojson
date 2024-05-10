@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.136440909645, "Shape_Area": 0.00015758692717, "ADM4_EN": "Bereh", "ADM4_UA": "Берег", "ADM4_PCODE": "UA5604033002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Smyzka", "ADM3_UA": "Смизька", "ADM3_PCODE": "UA5604033", "ADM2_EN": "Dubenskyi", "ADM2_UA": "Дубенський", "ADM2_PCODE": "UA5604", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.665914881000049, 50.21434701000004 ], [ 25.655751, 50.214085020000027 ], [ 25.658066160000033, 50.210608050000076 ], [ 25.657458839000071, 50.207369940000035 ], [ 25.666940880000027, 50.205037050000044 ], [ 25.671291119000045, 50.205132 ], [ 25.677402121000057, 50.199637050000035 ], [ 25.677488160000053, 50.203357020000055 ], [ 25.670463120000079, 50.208187050000049 ], [ 25.665734880000059, 50.208635070000071 ], [ 25.665914881000049, 50.21434701000004 ] ] ] } }
-]
-}

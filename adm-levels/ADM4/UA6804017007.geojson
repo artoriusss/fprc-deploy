@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0467926039827, "Shape_Area": 8.8194899711299999e-05, "ADM4_EN": "Hovory", "ADM4_UA": "Говори", "ADM4_PCODE": "UA6804017007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zasluchnenska", "ADM3_UA": "Заслучненська", "ADM3_PCODE": "UA6804017", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.693, 49.603043 ], [ 26.688263999000071, 49.602828 ], [ 26.693121, 49.595896 ], [ 26.70405, 49.598358 ], [ 26.703601651000042, 49.602127038000049 ], [ 26.69882, 49.603262 ], [ 26.693, 49.603043 ] ] ] } }
-]
-}

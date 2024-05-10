@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057631850172499999, "Shape_Area": 6.45953518038e-05, "ADM4_EN": "Trubky", "ADM4_UA": "Трубки", "ADM4_PCODE": "UA0702017019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pavlivska", "ADM3_UA": "Павлівська", "ADM3_PCODE": "UA0702017", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.49634413900003, 50.576063005000037 ], [ 24.495761139000024, 50.581375005000041 ], [ 24.489801141000044, 50.588176005000037 ], [ 24.487223140000026, 50.586980005000044 ], [ 24.491507140000067, 50.579983005000031 ], [ 24.492601139000044, 50.575856005000048 ], [ 24.49634413900003, 50.576063005000037 ] ] ] } }
-]
-}

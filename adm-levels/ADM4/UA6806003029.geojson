@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.053343690179200001, "Shape_Area": 5.8830564291499999e-05, "ADM4_EN": "Karpylivka", "ADM4_UA": "Карпилівка", "ADM4_PCODE": "UA6806003029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilohirska", "ADM3_UA": "Білогірська", "ADM3_PCODE": "UA6806003", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.31099400100004, 50.184677 ], [ 26.312563, 50.190636 ], [ 26.305712999000036, 50.184484 ], [ 26.306671, 50.182786 ], [ 26.312117, 50.181464 ], [ 26.318594001000065, 50.177881 ], [ 26.318377292000037, 50.180807628000082 ], [ 26.31099400100004, 50.184677 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.059303384499299998, "Shape_Area": 6.7657791590899999e-05, "ADM4_EN": "Novodarivka", "ADM4_UA": "Новодар'ївка", "ADM4_PCODE": "UA4408003018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rovenkivska", "ADM3_UA": "Ровеньківська", "ADM3_PCODE": "UA4408003", "ADM2_EN": "Rovenkivskyi", "ADM2_UA": "Ровеньківський", "ADM2_PCODE": "UA4408", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.376717, 47.967632 ], [ 39.374156, 47.971881 ], [ 39.371444, 47.971241 ], [ 39.372733, 47.965237 ], [ 39.375913, 47.965057 ], [ 39.376901, 47.961584 ], [ 39.381286, 47.963101 ], [ 39.382459, 47.967665 ], [ 39.376717, 47.967632 ] ] ] } }
-]
-}

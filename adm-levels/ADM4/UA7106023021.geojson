@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073394542518399997, "Shape_Area": 0.000257161488996, "ADM4_EN": "Penizhkove", "ADM4_UA": "Пеніжкове", "ADM4_PCODE": "UA7106023021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khrystynivska", "ADM3_UA": "Христинівська", "ADM3_PCODE": "UA7106023", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.023709999000062, 48.881745 ], [ 30.019880999000065, 48.88425 ], [ 30.021163001000048, 48.876372 ], [ 30.019517999000072, 48.870145 ], [ 30.025569999000027, 48.864627 ], [ 30.027925, 48.864198 ], [ 30.039612001000023, 48.869593 ], [ 30.035575, 48.878066 ], [ 30.032193, 48.87753 ], [ 30.030471999000042, 48.881683 ], [ 30.023709999000062, 48.881745 ] ] ] } }
-]
-}

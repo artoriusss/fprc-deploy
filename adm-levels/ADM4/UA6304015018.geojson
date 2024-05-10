@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073702375809199999, "Shape_Area": 6.4245232213400004e-05, "ADM4_EN": "Teplianka", "ADM4_UA": "Теплянка", "ADM4_PCODE": "UA6304015018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Savynska", "ADM3_UA": "Савинська", "ADM3_PCODE": "UA6304015", "ADM2_EN": "Iziumskyi", "ADM2_UA": "Ізюмський", "ADM2_PCODE": "UA6304", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.196055, 49.473772 ], [ 37.185931, 49.471699 ], [ 37.17266999900005, 49.470278 ], [ 37.174116999000034, 49.468491 ], [ 37.187790999000072, 49.469956 ], [ 37.197173, 49.471996 ], [ 37.196055, 49.473772 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.068945393255299997, "Shape_Area": 0.000130611852549, "ADM4_EN": "Lisky", "ADM4_UA": "Ліски", "ADM4_PCODE": "UA3506003005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hlodoska", "ADM3_UA": "Глодоська", "ADM3_PCODE": "UA3506003", "ADM2_EN": "Novoukrainskyi", "ADM2_UA": "Новоукраїнський", "ADM2_PCODE": "UA3506", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.226193, 48.543997 ], [ 31.219485583000051, 48.543229739000026 ], [ 31.223273253000059, 48.529122390000055 ], [ 31.232352, 48.529416 ], [ 31.229220999000063, 48.533285 ], [ 31.229632, 48.535711 ], [ 31.226193, 48.543997 ] ] ] } }
-]
-}

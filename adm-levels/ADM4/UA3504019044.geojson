@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.17209831771100001, "Shape_Area": 0.000121512629607, "ADM4_EN": "Sasivka", "ADM4_UA": "Сасівка", "ADM4_PCODE": "UA3504019044", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kompaniivska", "ADM3_UA": "Компаніївська", "ADM3_PCODE": "UA3504019", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 32.312424, 48.294888 ], [ 32.308901001000038, 48.301498 ], [ 32.306792999000038, 48.300532 ], [ 32.312424, 48.294888 ] ] ], [ [ [ 32.333697999000037, 48.286798 ], [ 32.333446999000046, 48.280477 ], [ 32.336125, 48.280843 ], [ 32.336438, 48.288065 ], [ 32.333697999000037, 48.286798 ] ] ] ] } }
-]
-}

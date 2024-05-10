@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.053079162302299997, "Shape_Area": 7.8841798606599998e-05, "ADM4_EN": "Vershynne", "ADM4_UA": "Вершинне", "ADM4_PCODE": "UA1204021028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Piatykhatska", "ADM3_UA": "П'ятихатська", "ADM3_PCODE": "UA1204021", "ADM2_EN": "Kamianskyi", "ADM2_UA": "Кам’янський", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.640943, 48.401403 ], [ 33.628961172000061, 48.39662029200008 ], [ 33.632468, 48.39451 ], [ 33.641506001000039, 48.398341 ], [ 33.647172, 48.39642 ], [ 33.650039, 48.396819 ], [ 33.648790001000066, 48.401884 ], [ 33.640943, 48.401403 ] ] ] } }
-]
-}

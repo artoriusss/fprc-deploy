@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.080196761031100003, "Shape_Area": 0.00011745012047100001, "ADM4_EN": "Balivka", "ADM4_UA": "Балівка", "ADM4_PCODE": "UA5308031002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novosanzharska", "ADM3_UA": "Новосанжарська", "ADM3_PCODE": "UA5308031", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.425774, 49.387049 ], [ 34.420943, 49.385708 ], [ 34.417774365000071, 49.38701883300007 ], [ 34.414804875000073, 49.385702280000032 ], [ 34.418846861000077, 49.381730927000035 ], [ 34.41507560000008, 49.380400221000059 ], [ 34.414409, 49.373199 ], [ 34.418954, 49.374302 ], [ 34.421991, 49.378348 ], [ 34.429751, 49.380195 ], [ 34.430216001000076, 49.383655 ], [ 34.424064193000049, 49.382253398000046 ], [ 34.425774, 49.387049 ] ] ] } }
-]
-}

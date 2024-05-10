@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.083203875086300005, "Shape_Area": 9.3949084537199999e-05, "ADM4_EN": "Karpivka", "ADM4_UA": "Карпівка", "ADM4_PCODE": "UA5114013023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozdilnianska", "ADM3_UA": "Роздільнянська", "ADM3_PCODE": "UA5114013", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.242358, 46.792063 ], [ 30.248446, 46.787587 ], [ 30.262178999000071, 46.784154 ], [ 30.263916, 46.780943 ], [ 30.266800001000036, 46.779924 ], [ 30.269319, 46.784532 ], [ 30.25019, 46.789622 ], [ 30.242358, 46.792063 ] ] ] } }
-]
-}

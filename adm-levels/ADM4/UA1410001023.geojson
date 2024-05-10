@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.044934912464599998, "Shape_Area": 5.7302147429299998e-05, "ADM4_EN": "Mykhailivka", "ADM4_UA": "Михайлівка", "ADM4_PCODE": "UA1410001023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Boikivska", "ADM3_UA": "Бойківська", "ADM3_PCODE": "UA1410001", "ADM2_EN": "Kalmiuskyi", "ADM2_UA": "Кальміуський", "ADM2_PCODE": "UA1410", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.194206998000027, 47.398323 ], [ 38.189751998000077, 47.393057 ], [ 38.189987999000039, 47.388843 ], [ 38.192229998000073, 47.387603 ], [ 38.195820998000045, 47.390725 ], [ 38.200529999000025, 47.39258 ], [ 38.199072998000076, 47.395394 ], [ 38.194494998000039, 47.394481 ], [ 38.194206998000027, 47.398323 ] ] ] } }
-]
-}

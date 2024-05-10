@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060626540133999998, "Shape_Area": 0.000195734854136, "ADM4_EN": "Mylove", "ADM4_UA": "Милове", "ADM4_PCODE": "UA6502013001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mylivska", "ADM3_UA": "Милівська", "ADM3_PCODE": "UA6502013", "ADM2_EN": "Beryslavskyi", "ADM2_UA": "Бериславський", "ADM2_PCODE": "UA6502", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.633448, 47.071482 ], [ 33.630958999000029, 47.069615 ], [ 33.623222999000063, 47.071224 ], [ 33.621889, 47.065903 ], [ 33.62584, 47.060647 ], [ 33.635218, 47.058396 ], [ 33.641319, 47.061556 ], [ 33.640663, 47.064682 ], [ 33.642211001000078, 47.068434 ], [ 33.633448, 47.071482 ] ] ] } }
-]
-}

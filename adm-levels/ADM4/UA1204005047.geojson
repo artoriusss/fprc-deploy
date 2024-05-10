@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13563815314300001, "Shape_Area": 0.00029447495207499997, "ADM4_EN": "Yakymivka", "ADM4_UA": "Якимівка", "ADM4_PCODE": "UA1204005047", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Verkhnodniprovska", "ADM3_UA": "Верхньодніпровська", "ADM3_PCODE": "UA1204005", "ADM2_EN": "Kamianskyi", "ADM2_UA": "Кам’янський", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.13848, 48.659079 ], [ 34.140102, 48.664934 ], [ 34.14487, 48.667823 ], [ 34.143248001000075, 48.669524 ], [ 34.133823, 48.659586 ], [ 34.126694999000051, 48.66156 ], [ 34.116485999000076, 48.662838 ], [ 34.116051001000073, 48.660356 ], [ 34.107235, 48.66213 ], [ 34.10568, 48.658283 ], [ 34.113151, 48.655562 ], [ 34.112792, 48.652663 ], [ 34.121966, 48.650094 ], [ 34.129427, 48.653007 ], [ 34.133149, 48.652185 ], [ 34.13848, 48.659079 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0102404862446, "Shape_Area": 3.7101133217299999e-06, "ADM4_EN": "Novyi Shliakh", "ADM4_UA": "Новий Шлях", "ADM4_PCODE": "UA3202015025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Skvyrska", "ADM3_UA": "Сквирська", "ADM3_PCODE": "UA3202015", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.52097959200006, 49.706966295000029 ], [ 29.519489603000068, 49.706127262000052 ], [ 29.517948641000032, 49.706431266000038 ], [ 29.517415587000073, 49.70548922100005 ], [ 29.519850593000058, 49.70478924300005 ], [ 29.52097959200006, 49.706966295000029 ] ] ] } }
-]
-}

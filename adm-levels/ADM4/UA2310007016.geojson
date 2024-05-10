@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.055727839113100003, "Shape_Area": 9.0887091339499995e-05, "ADM4_EN": "Novoivanivka", "ADM4_UA": "Новоіванівка", "ADM4_PCODE": "UA2310007016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Huliaipilska", "ADM3_UA": "Гуляйпільська", "ADM3_PCODE": "UA2310007", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.491089230000057, 47.806794925000077 ], [ 36.482437277000031, 47.805909266000072 ], [ 36.483765840000046, 47.79742482000006 ], [ 36.491711757000076, 47.798118999000053 ], [ 36.493925500000046, 47.80182873900003 ], [ 36.491089230000057, 47.806794925000077 ] ] ] } }
-]
-}

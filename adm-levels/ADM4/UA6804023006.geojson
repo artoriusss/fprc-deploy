@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.109394797572, "Shape_Area": 0.00030142559920700001, "ADM4_EN": "Butsni", "ADM4_UA": "Буцні", "ADM4_PCODE": "UA6804023006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Letychivska", "ADM3_UA": "Летичівська", "ADM3_PCODE": "UA6804023", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.768389999000078, 49.303535 ], [ 27.768322, 49.304534 ], [ 27.757094001000041, 49.304937 ], [ 27.757814, 49.300783 ], [ 27.751282, 49.300961 ], [ 27.740946, 49.303806 ], [ 27.738678, 49.300928 ], [ 27.738213001000076, 49.295911 ], [ 27.744642, 49.294932 ], [ 27.744275, 49.292089 ], [ 27.760537, 49.290872 ], [ 27.760311, 49.295912 ], [ 27.76469, 49.298798 ], [ 27.777476, 49.296101 ], [ 27.779500001000031, 49.298588 ], [ 27.768881, 49.301887 ], [ 27.768389999000078, 49.303535 ] ] ] } }
-]
-}

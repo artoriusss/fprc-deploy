@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.071294182701700001, "Shape_Area": 0.00016118265132300001, "ADM4_EN": "Tsukury", "ADM4_UA": "Цукури", "ADM4_PCODE": "UA6506025005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tavriiska", "ADM3_UA": "Таврійська", "ADM3_PCODE": "UA6506025", "ADM2_EN": "Kakhovskyi", "ADM2_UA": "Каховський", "ADM2_PCODE": "UA6506", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.421854, 46.709246 ], [ 33.409725, 46.707932 ], [ 33.410407, 46.701223 ], [ 33.417058, 46.699437 ], [ 33.433064, 46.701348 ], [ 33.431259, 46.705821 ], [ 33.423069, 46.705288 ], [ 33.421854, 46.709246 ] ] ] } }
-]
-}

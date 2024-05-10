@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14482707568100001, "Shape_Area": 0.000127586119557, "ADM4_EN": "Krupets", "ADM4_UA": "Крупець", "ADM4_PCODE": "UA5910017018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shostkynska", "ADM3_UA": "Шосткинська", "ADM3_PCODE": "UA5910017", "ADM2_EN": "Shostkynskyi", "ADM2_UA": "Шосткинський", "ADM2_PCODE": "UA5910", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.565527, 51.914776 ], [ 33.563984001000051, 51.915076 ], [ 33.556879, 51.920849 ], [ 33.544812, 51.920971 ], [ 33.543885, 51.924515 ], [ 33.533555, 51.92327 ], [ 33.534881, 51.914471 ], [ 33.537348, 51.919244 ], [ 33.555167, 51.919672 ], [ 33.558773, 51.917963 ], [ 33.564473, 51.912831 ], [ 33.565509001000066, 51.914248 ], [ 33.565527, 51.914776 ] ] ] } }
-]
-}

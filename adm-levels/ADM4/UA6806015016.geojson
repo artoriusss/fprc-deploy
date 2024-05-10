@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.029126092999699999, "Shape_Area": 2.0550931203700001e-05, "ADM4_EN": "Tsvit", "ADM4_UA": "Цвіт", "ADM4_PCODE": "UA6806015016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykhailiutska", "ADM3_UA": "Михайлюцька", "ADM3_PCODE": "UA6806015", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.317401103000066, 50.359640739000042 ], [ 27.313310931000046, 50.36545798700007 ], [ 27.311695920000034, 50.364800010000067 ], [ 27.314381001000072, 50.361126994000074 ], [ 27.317401103000066, 50.359640739000042 ] ] ] } }
-]
-}

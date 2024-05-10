@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.23636149537500001, "Shape_Area": 0.00017480441560899999, "ADM4_EN": "Mykolaivka", "ADM4_UA": "Миколаївка", "ADM4_PCODE": "UA6308005028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dvorichanska", "ADM3_UA": "Дворічанська", "ADM3_PCODE": "UA6308005", "ADM2_EN": "Kupianskyi", "ADM2_UA": "Куп'янський", "ADM2_PCODE": "UA6308", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 37.875235, 49.930274 ], [ 37.874769, 49.923167 ], [ 37.877463, 49.922037 ], [ 37.883379999000056, 49.916958 ], [ 37.884598999000048, 49.921239 ], [ 37.879203, 49.925172 ], [ 37.879047, 49.92869 ], [ 37.875235, 49.930274 ] ] ], [ [ [ 37.87698, 49.934454 ], [ 37.880301001000078, 49.931207 ], [ 37.885678, 49.923913 ], [ 37.888828, 49.921385 ], [ 37.890639, 49.924081 ], [ 37.878902, 49.934301001000051 ], [ 37.87698, 49.934454 ] ] ] ] } }
-]
-}

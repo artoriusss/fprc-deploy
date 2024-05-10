@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.089011364011800001, "Shape_Area": 0.00026675662046299998, "ADM4_EN": "Zherdia", "ADM4_UA": "Жердя", "ADM4_PCODE": "UA6802029015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chemerovetska", "ADM3_UA": "Чемеровецька", "ADM3_PCODE": "UA6802029", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.425197, 48.819075 ], [ 26.425167999000053, 48.81316 ], [ 26.423448, 48.808259 ], [ 26.427334, 48.804862 ], [ 26.430228, 48.800246 ], [ 26.432333, 48.799478 ], [ 26.441798001000052, 48.808755 ], [ 26.444460999000057, 48.812221 ], [ 26.450206, 48.812285 ], [ 26.430804, 48.818665 ], [ 26.428667, 48.816966 ], [ 26.425197, 48.819075 ] ] ] } }
-]
-}

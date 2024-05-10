@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.110600652493, "Shape_Area": 0.000481459799062, "ADM4_EN": "Burylove", "ADM4_UA": "Бурилове", "ADM4_PCODE": "UA4808009004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kryvoozerska", "ADM3_UA": "Кривоозерська", "ADM3_PCODE": "UA4808009", "ADM2_EN": "Pervomaiskyi", "ADM2_UA": "Первомайський", "ADM2_PCODE": "UA4808", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.355124679000028, 48.037006796000071 ], [ 30.357646931000033, 48.030580701000076 ], [ 30.355862692000073, 48.027176799000074 ], [ 30.380498544000034, 48.008084366000048 ], [ 30.393486560000042, 48.015519403000042 ], [ 30.393384792000063, 48.016411898000058 ], [ 30.369388619000063, 48.034930908000035 ], [ 30.364951313000063, 48.032187570000076 ], [ 30.36023466100005, 48.033530898000038 ], [ 30.357692348000057, 48.03675654400007 ], [ 30.355124679000028, 48.037006796000071 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.069421949172099998, "Shape_Area": 4.4329855960499998e-05, "ADM4_EN": "Novi Tereshky", "ADM4_UA": "Нові Терешки", "ADM4_PCODE": "UA6804001025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Antoninska", "ADM3_UA": "Антонінська", "ADM3_PCODE": "UA6804001", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.768521, 49.75976 ], [ 26.755883999000048, 49.760001 ], [ 26.755737, 49.758944 ], [ 26.778242, 49.757117 ], [ 26.779621001000066, 49.758965 ], [ 26.768521, 49.75976 ] ] ] } }
-]
-}

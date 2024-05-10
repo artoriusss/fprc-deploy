@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0614920527403, "Shape_Area": 6.0422237862900002e-05, "ADM4_EN": "Nemyryntsi", "ADM4_UA": "Немиринці", "ADM4_PCODE": "UA6804045038", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Teofipolska", "ADM3_UA": "Теофіпольська", "ADM3_PCODE": "UA6804045", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 26.23990210900007, 49.803811539000037 ], [ 26.235546, 49.803408001000037 ], [ 26.226501001000031, 49.804205 ], [ 26.226289, 49.802585 ], [ 26.239216999000064, 49.801208 ], [ 26.242787, 49.797219 ], [ 26.245209001000035, 49.799627 ], [ 26.23990210900007, 49.803811539000037 ] ] ], [ [ [ 26.252341999000066, 49.799556 ], [ 26.248244, 49.799995 ], [ 26.248619001000066, 49.796267 ], [ 26.251573001000054, 49.795981 ], [ 26.252341999000066, 49.799556 ] ] ] ] } }
-]
-}

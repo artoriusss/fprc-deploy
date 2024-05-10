@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.091208132376899995, "Shape_Area": 0.00025340954816600002, "ADM4_EN": "Riasne", "ADM4_UA": "Рясне", "ADM4_PCODE": "UA1808003030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Barashivska", "ADM3_UA": "Барашівська", "ADM3_PCODE": "UA1808003", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.111532039000053, 50.785671960000059 ], [ 28.106934121000052, 50.785262010000054 ], [ 28.10153592000006, 50.780886030000033 ], [ 28.104408, 50.775824970000031 ], [ 28.11234096000004, 50.772464010000078 ], [ 28.120327920000079, 50.769893970000055 ], [ 28.127035080000041, 50.776574040000071 ], [ 28.121234040000047, 50.778819990000045 ], [ 28.120995, 50.780388960000039 ], [ 28.114845839000054, 50.782588020000048 ], [ 28.111532039000053, 50.785671960000059 ] ] ] } }
-]
-}

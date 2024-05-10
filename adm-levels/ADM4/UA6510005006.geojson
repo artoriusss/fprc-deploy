@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0378649086774, "Shape_Area": 4.3313516234899999e-05, "ADM4_EN": "Ridne", "ADM4_UA": "Рідне", "ADM4_PCODE": "UA6510005006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vynohradivska", "ADM3_UA": "Виноградівська", "ADM3_PCODE": "UA6510005", "ADM2_EN": "Khersonskyi", "ADM2_UA": "Херсонський", "ADM2_PCODE": "UA6510", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.105065, 46.389582 ], [ 33.10237599900006, 46.388712 ], [ 33.11100900100007, 46.3778 ], [ 33.113113, 46.378588 ], [ 33.113637, 46.383217 ], [ 33.109832, 46.382663 ], [ 33.105065, 46.389582 ] ] ] } }
-]
-}

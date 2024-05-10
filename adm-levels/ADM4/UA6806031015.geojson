@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.105950443288, "Shape_Area": 0.00029289004816799999, "ADM4_EN": "Peremyshel", "ADM4_UA": "Перемишель", "ADM4_PCODE": "UA6806031015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ulashanivska", "ADM3_UA": "Улашанівська", "ADM3_PCODE": "UA6806031", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.91843, 50.354092 ], [ 26.913932, 50.353555 ], [ 26.914615999000034, 50.350613 ], [ 26.903842, 50.349571 ], [ 26.905869001000042, 50.343969 ], [ 26.918884999000056, 50.345918 ], [ 26.945039, 50.346902 ], [ 26.947888, 50.351094 ], [ 26.943736999000066, 50.353082 ], [ 26.924111, 50.353414 ], [ 26.91843, 50.354092 ] ] ] } }
-]
-}

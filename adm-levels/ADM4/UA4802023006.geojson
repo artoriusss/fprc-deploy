@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0370264138861, "Shape_Area": 6.5049628244000002e-05, "ADM4_EN": "Poliana", "ADM4_UA": "Поляна", "ADM4_PCODE": "UA4802023006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shyrokivska", "ADM3_UA": "Широківська", "ADM3_PCODE": "UA4802023", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.677016210000033, 47.164664153000047 ], [ 32.686494841000069, 47.171601718000034 ], [ 32.684690191000072, 47.174604958000032 ], [ 32.68184429400003, 47.174254384000051 ], [ 32.672758395000074, 47.167031972000075 ], [ 32.677016210000033, 47.164664153000047 ] ] ] } }
-]
-}

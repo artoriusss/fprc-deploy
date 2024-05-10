@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.110604403335, "Shape_Area": 0.00016864186992100001, "ADM4_EN": "Shpotyne", "ADM4_UA": "Шпотине", "ADM4_PCODE": "UA4414013021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chmyrivska", "ADM3_UA": "Чмирівська", "ADM3_PCODE": "UA4414013", "ADM2_EN": "Starobilskyi", "ADM2_UA": "Старобільський", "ADM2_PCODE": "UA4414", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.190749001000029, 49.192474 ], [ 39.190962, 49.18482 ], [ 39.189126, 49.184113 ], [ 39.189718999000036, 49.178864 ], [ 39.191276, 49.176581 ], [ 39.191797001000054, 49.168893 ], [ 39.195408, 49.165272 ], [ 39.198788999000044, 49.168237 ], [ 39.198768, 49.177195 ], [ 39.19466, 49.181727 ], [ 39.193252, 49.191438 ], [ 39.190749001000029, 49.192474 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13033961602399999, "Shape_Area": 0.00034463890988600002, "ADM4_EN": "Kopiiuvata", "ADM4_UA": "Копіювата", "ADM4_PCODE": "UA7106017015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Monastyryshchenska", "ADM3_UA": "Монастирищенська", "ADM3_PCODE": "UA7106017", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.965887, 49.004001 ], [ 29.958845, 49.0066 ], [ 29.954204999000069, 49.010612 ], [ 29.951873, 49.009279 ], [ 29.958435, 49.000465 ], [ 29.967345, 48.997955 ], [ 29.965478, 48.995009 ], [ 29.969671, 48.993669 ], [ 29.978893, 48.992309 ], [ 29.983476, 48.990145 ], [ 29.99035, 48.989723 ], [ 29.993858001000035, 48.990847 ], [ 29.990703, 48.996287 ], [ 29.986897, 48.999623 ], [ 29.983614, 48.999731 ], [ 29.981774, 49.003577 ], [ 29.975527, 49.005965 ], [ 29.971781, 49.00188 ], [ 29.965887, 49.004001 ] ] ] } }
-]
-}

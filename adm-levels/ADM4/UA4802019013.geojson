@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.054671060094000003, "Shape_Area": 0.000106399561504, "ADM4_EN": "Novovasylivka", "ADM4_UA": "Нововасилівка", "ADM4_PCODE": "UA4802019013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Snihurivska", "ADM3_UA": "Снігурівська", "ADM3_PCODE": "UA4802019", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.814212522000048, 47.002202368000042 ], [ 32.810264009000036, 47.004176865000034 ], [ 32.796176673000048, 47.006612028000063 ], [ 32.800146161000043, 47.001097497000046 ], [ 32.810215025000048, 46.996878280000033 ], [ 32.814842678000048, 46.996552661000067 ], [ 32.81615624300008, 46.998970447000033 ], [ 32.814212522000048, 47.002202368000042 ] ] ] } }
-]
-}

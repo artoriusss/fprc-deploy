@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.044341049559, "Shape_Area": 3.8628296342599999e-05, "ADM4_EN": "Lopushne", "ADM4_UA": "Лопушне", "ADM4_PCODE": "UA6806009022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Iziaslavska", "ADM3_UA": "Ізяславська", "ADM3_PCODE": "UA6806009", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.722253, 50.093137 ], [ 26.728064, 50.093437 ], [ 26.730341, 50.095483 ], [ 26.739268, 50.095507 ], [ 26.738260001000071, 50.097999 ], [ 26.728368, 50.097749 ], [ 26.727716999000052, 50.095723 ], [ 26.721177999000076, 50.093825 ], [ 26.722253, 50.093137 ] ] ] } }
-]
-}

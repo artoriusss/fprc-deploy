@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.179969255188, "Shape_Area": 0.00023259232788600001, "ADM4_EN": "Chervonopopivka", "ADM4_UA": "Червонопопівка", "ADM4_PCODE": "UA4412003007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kreminska", "ADM3_UA": "Кремінська", "ADM3_PCODE": "UA4412003", "ADM2_EN": "Sievierodonetskyi", "ADM2_UA": "Сєвєродонецький", "ADM2_PCODE": "UA4412", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.172655, 49.134823 ], [ 38.165922, 49.133073 ], [ 38.160955, 49.132882 ], [ 38.156757, 49.129489 ], [ 38.152886, 49.129356 ], [ 38.140076, 49.132606 ], [ 38.133773, 49.137013 ], [ 38.131855001000076, 49.1359 ], [ 38.138464999000064, 49.131494 ], [ 38.14672, 49.128986 ], [ 38.146581, 49.125356 ], [ 38.148739, 49.123928 ], [ 38.161718001000054, 49.122295 ], [ 38.162217, 49.124947 ], [ 38.16590099900003, 49.128048 ], [ 38.167377, 49.131229 ], [ 38.172655, 49.134823 ] ] ] } }
-]
-}

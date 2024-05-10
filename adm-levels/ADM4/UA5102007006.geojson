@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.084063615023, "Shape_Area": 0.00013411345331399999, "ADM4_EN": "Malozymenove", "ADM4_UA": "Малозименове", "ADM4_PCODE": "UA5102007006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Znamianska", "ADM3_UA": "Знам'янська", "ADM3_PCODE": "UA5102007", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.18964, 47.05885 ], [ 30.187876999000025, 47.056071 ], [ 30.195762, 47.052144 ], [ 30.205353, 47.041727 ], [ 30.211207, 47.042231 ], [ 30.215502, 47.045552 ], [ 30.213845, 47.050746 ], [ 30.206627, 47.04773 ], [ 30.203279999000074, 47.048998 ], [ 30.190482, 47.058962 ], [ 30.18964, 47.05885 ] ] ] } }
-]
-}

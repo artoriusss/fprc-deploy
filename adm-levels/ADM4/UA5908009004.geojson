@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.091767452174399994, "Shape_Area": 0.000173245230128, "ADM4_EN": "Verkhnia Pozhnia", "ADM4_UA": "Верхня Пожня", "ADM4_PCODE": "UA5908009004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasnopilska", "ADM3_UA": "Краснопільська", "ADM3_PCODE": "UA5908009", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.34475, 50.573528 ], [ 35.348333, 50.564329 ], [ 35.347261, 50.561605 ], [ 35.348143, 50.557183 ], [ 35.35092, 50.55568 ], [ 35.358418, 50.558937 ], [ 35.36086, 50.562569 ], [ 35.359223, 50.566653 ], [ 35.356149, 50.565798 ], [ 35.352576, 50.567319 ], [ 35.348992001000056, 50.574177 ], [ 35.34475, 50.573528 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14390302820799999, "Shape_Area": 0.00060833934655800002, "ADM4_EN": "Adamiv", "ADM4_UA": "Адамів", "ADM4_PCODE": "UA6806021002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Polonska", "ADM3_UA": "Полонська", "ADM3_PCODE": "UA6806021", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.413375889000065, 50.085358810000059 ], [ 27.413281546000064, 50.089969939000071 ], [ 27.388804, 50.086067 ], [ 27.388762, 50.081112 ], [ 27.386956999000063, 50.077034 ], [ 27.405623999000056, 50.076699 ], [ 27.417878, 50.075281 ], [ 27.434149999000056, 50.071334 ], [ 27.439971, 50.069231 ], [ 27.441214, 50.07333 ], [ 27.43611, 50.077374 ], [ 27.435373782000056, 50.08754474300008 ], [ 27.413375889000065, 50.085358810000059 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.072817222795100001, "Shape_Area": 0.000166729723536, "ADM4_EN": "Myshliatychi", "ADM4_UA": "Мишлятичі", "ADM4_PCODE": "UA4614009018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shehynivska", "ADM3_UA": "Шегинівська", "ADM3_PCODE": "UA4614009", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.068847525000024, 49.743932020000045 ], [ 23.065538525000022, 49.742832021000027 ], [ 23.066429526000036, 49.737347020000072 ], [ 23.059854529000063, 49.731432020000057 ], [ 23.056311530000073, 49.724310021000065 ], [ 23.06515952500007, 49.723004020000076 ], [ 23.065190526000038, 49.72830102100005 ], [ 23.068174524000028, 49.730659020000076 ], [ 23.07404252200007, 49.738501021000047 ], [ 23.073308522000048, 49.74365602000006 ], [ 23.068847525000024, 49.743932020000045 ] ] ] } }
-]
-}

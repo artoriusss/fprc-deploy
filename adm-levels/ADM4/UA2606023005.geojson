@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.122954914534, "Shape_Area": 0.00027447748563100001, "ADM4_EN": "Nyzhnii Strutyn", "ADM4_UA": "Нижній Струтинь", "ADM4_PCODE": "UA2606023005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozhniativska", "ADM3_UA": "Рожнятівська", "ADM3_PCODE": "UA2606023", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.120762, 48.948221 ], [ 24.106492, 48.937651 ], [ 24.104542, 48.933184 ], [ 24.110126, 48.934144 ], [ 24.112936, 48.930704 ], [ 24.114906, 48.933362 ], [ 24.122851999000034, 48.934902 ], [ 24.125978, 48.934572 ], [ 24.127135, 48.938533 ], [ 24.133289, 48.941916 ], [ 24.127594, 48.945755 ], [ 24.120762, 48.948221 ] ] ] } }
-]
-}

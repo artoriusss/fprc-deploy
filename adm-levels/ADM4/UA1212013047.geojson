@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10021581521300001, "Shape_Area": 0.00028030045278999998, "ADM4_EN": "Zhemchuzhne", "ADM4_UA": "Жемчужне", "ADM4_PCODE": "UA1212013047", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yurivska", "ADM3_UA": "Юр'ївська", "ADM3_PCODE": "UA1212013", "ADM2_EN": "Pavlohradskyi", "ADM2_UA": "Павлоградський", "ADM2_PCODE": "UA1212", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.046455999000045, 48.797343 ], [ 36.045607, 48.798117 ], [ 36.040156, 48.795645 ], [ 36.037308, 48.796487 ], [ 36.028346, 48.792257 ], [ 36.024101, 48.788605 ], [ 36.025515, 48.786368 ], [ 36.021464, 48.784199 ], [ 36.024456001000033, 48.781052 ], [ 36.030704, 48.778762 ], [ 36.032278, 48.782337 ], [ 36.036375, 48.780449 ], [ 36.042218, 48.784537 ], [ 36.044936, 48.789695 ], [ 36.050018999000031, 48.788439 ], [ 36.048586, 48.792716 ], [ 36.045179, 48.791399 ], [ 36.046455999000045, 48.797343 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.050778979160400001, "Shape_Area": 5.5551277730400002e-05, "ADM4_EN": "Sukha Balka", "ADM4_UA": "Суха Балка", "ADM4_PCODE": "UA1204011004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhovtovodska", "ADM3_UA": "Жовтоводська", "ADM3_PCODE": "UA1204011", "ADM2_EN": "Kamianskyi", "ADM2_UA": "Кам’янський", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.55669531500007, 48.374716246000048 ], [ 33.557122200000038, 48.377820558000053 ], [ 33.549412517000064, 48.371942422000075 ], [ 33.550016549000077, 48.36927249300004 ], [ 33.554526043000067, 48.369823031000067 ], [ 33.55669531500007, 48.374716246000048 ] ] ] } }
-]
-}

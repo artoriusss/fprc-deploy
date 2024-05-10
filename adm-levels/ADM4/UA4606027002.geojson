@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.065370101616599993, "Shape_Area": 8.3375302273700001e-05, "ADM4_EN": "Hamaliivka", "ADM4_UA": "Гамаліївка", "ADM4_PCODE": "UA4606027002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Murovanska", "ADM3_UA": "Мурованська", "ADM3_PCODE": "UA4606027", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.160851189000027, 49.90067300700008 ], [ 24.160457189000056, 49.901596006000034 ], [ 24.150299190000055, 49.903453007000053 ], [ 24.147094191000065, 49.901918007000063 ], [ 24.157763189000036, 49.898728006000056 ], [ 24.173111187000075, 49.896086007000065 ], [ 24.174479186000042, 49.898797007000042 ], [ 24.165495188000023, 49.900539007000077 ], [ 24.160851189000027, 49.90067300700008 ] ] ] } }
-]
-}

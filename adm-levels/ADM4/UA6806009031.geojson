@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.063221355578100005, "Shape_Area": 0.00015605506378700001, "ADM4_EN": "Pidlistsi", "ADM4_UA": "Підлісці", "ADM4_PCODE": "UA6806009031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Iziaslavska", "ADM3_UA": "Ізяславська", "ADM3_PCODE": "UA6806009", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.822247, 50.000373 ], [ 26.816998001000059, 50.004487 ], [ 26.813108, 50.000167 ], [ 26.809129001000031, 49.999986 ], [ 26.804784, 49.995538 ], [ 26.807301, 49.990574 ], [ 26.811244001000034, 49.991107 ], [ 26.815764999000066, 49.989715 ], [ 26.820826001000057, 49.994921 ], [ 26.819783, 49.997589 ], [ 26.822247, 50.000373 ] ] ] } }
-]
-}

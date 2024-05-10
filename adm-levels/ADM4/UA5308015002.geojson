@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.107105020863, "Shape_Area": 0.0004200813414, "ADM4_EN": "Vasylivka", "ADM4_UA": "Василівка", "ADM4_PCODE": "UA5308015002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kolomatska", "ADM3_UA": "Коломацька", "ADM3_PCODE": "UA5308015", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.904477, 49.645338 ], [ 34.897929483000041, 49.647469816000068 ], [ 34.881498, 49.637035 ], [ 34.889552, 49.633595 ], [ 34.8919, 49.629015 ], [ 34.903736570000035, 49.630910830000062 ], [ 34.902862131000063, 49.633145751000029 ], [ 34.912213024000039, 49.634319896000079 ], [ 34.920397, 49.633577 ], [ 34.916684, 49.640179 ], [ 34.916185, 49.644247 ], [ 34.909752, 49.643961 ], [ 34.904477, 49.645338 ] ] ] } }
-]
-}

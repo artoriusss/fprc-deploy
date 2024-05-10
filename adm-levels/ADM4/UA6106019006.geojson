@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.055255125087399999, "Shape_Area": 0.000112473550907, "ADM4_EN": "Mykolaivka", "ADM4_UA": "Миколаївка", "ADM4_PCODE": "UA6106019006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zolotopotitska", "ADM3_UA": "Золотопотіцька", "ADM3_PCODE": "UA6106019", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.394689, 48.864808 ], [ 25.390748011000028, 48.86373952100007 ], [ 25.387952001000031, 48.864961 ], [ 25.386170482000068, 48.860290834000068 ], [ 25.395006, 48.856848 ], [ 25.403230999000073, 48.856456 ], [ 25.406783434000033, 48.861535402000072 ], [ 25.399072454000077, 48.862558355000033 ], [ 25.394689, 48.864808 ] ] ] } }
-]
-}

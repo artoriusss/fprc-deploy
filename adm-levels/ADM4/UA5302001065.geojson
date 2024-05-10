@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10408700869, "Shape_Area": 0.00025144569832000001, "ADM4_EN": "Yaroshi", "ADM4_UA": "Яроші", "ADM4_PCODE": "UA5302001065", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hlobynska", "ADM3_UA": "Глобинська", "ADM3_PCODE": "UA5302001", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.173360999000067, 49.337026 ], [ 33.173096001000033, 49.326626 ], [ 33.169388001000073, 49.325495 ], [ 33.166486001000067, 49.315849 ], [ 33.171618, 49.315582 ], [ 33.174610001000076, 49.321283 ], [ 33.178547, 49.317899 ], [ 33.178708, 49.315829 ], [ 33.182587, 49.310149 ], [ 33.188351999000076, 49.31146 ], [ 33.19115, 49.314278 ], [ 33.184829, 49.317923 ], [ 33.179479, 49.32648 ], [ 33.181215, 49.333543 ], [ 33.176658, 49.337788 ], [ 33.173360999000067, 49.337026 ] ] ] } }
-]
-}

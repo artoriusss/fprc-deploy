@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.091975357595100005, "Shape_Area": 0.00030079788540800001, "ADM4_EN": "Kubanka", "ADM4_UA": "Кубанка", "ADM4_PCODE": "UA5110019007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasnosilska", "ADM3_UA": "Красносільська", "ADM3_PCODE": "UA5110019", "ADM2_EN": "Odeskyi", "ADM2_UA": "Одеський", "ADM2_PCODE": "UA5110", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.731022, 46.716683 ], [ 30.727573001000053, 46.716393 ], [ 30.727374, 46.712844 ], [ 30.716058, 46.712074 ], [ 30.72141, 46.694993 ], [ 30.727355, 46.694568 ], [ 30.72955, 46.687718 ], [ 30.736531, 46.689358 ], [ 30.733447, 46.697943 ], [ 30.730147999000053, 46.704927 ], [ 30.733548, 46.704838 ], [ 30.731022, 46.716683 ] ] ] } }
-]
-}

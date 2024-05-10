@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.077588551972299996, "Shape_Area": 8.0494421574100003e-05, "ADM4_EN": "Vydava", "ADM4_UA": "Видава", "ADM4_PCODE": "UA6804003004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Viitovetska", "ADM3_UA": "Війтовецька", "ADM3_PCODE": "UA6804003", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 26.490911999000048, 49.425337 ], [ 26.485125001000029, 49.424998001000063 ], [ 26.483512, 49.419847999000069 ], [ 26.490187999000057, 49.419117 ], [ 26.490911999000048, 49.425337 ] ] ], [ [ [ 26.500208, 49.421991 ], [ 26.496463, 49.419703 ], [ 26.501103, 49.417653 ], [ 26.500208, 49.421991 ] ] ] ] } }
-]
-}

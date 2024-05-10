@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.25161699042199998, "Shape_Area": 0.00020217304134799999, "ADM4_EN": "Zanky", "ADM4_UA": "Заньки", "ADM4_PCODE": "UA7404009006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vertiivska", "ADM3_UA": "Вертіївська", "ADM3_PCODE": "UA7404009", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.972258799000031, 51.20060103000003 ], [ 31.968002880000029, 51.201536040000065 ], [ 31.964801040000054, 51.19799598000003 ], [ 31.970813041000042, 51.197236020000048 ], [ 31.966494839000063, 51.191738010000051 ], [ 31.970841840000048, 51.19224003000005 ], [ 31.976376120000054, 51.194844 ], [ 31.98482892100003, 51.193889011000067 ], [ 31.987599121000073, 51.197083020000036 ], [ 31.975635960000034, 51.197170950000043 ], [ 31.972258799000031, 51.20060103000003 ] ] ] } }
-]
-}

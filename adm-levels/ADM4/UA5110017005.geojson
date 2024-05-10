@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.082079649164600005, "Shape_Area": 0.000150925794024, "ADM4_EN": "Zorynove", "ADM4_UA": "Зоринове", "ADM4_PCODE": "UA5110017005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dobroslavska", "ADM3_UA": "Доброславська", "ADM3_PCODE": "UA5110017", "ADM2_EN": "Odeskyi", "ADM2_UA": "Одеський", "ADM2_PCODE": "UA5110", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.965328, 46.860472 ], [ 30.956750999000064, 46.857752 ], [ 30.945475, 46.856361 ], [ 30.943768999000042, 46.853978 ], [ 30.944799, 46.847914 ], [ 30.943725, 46.846346 ], [ 30.943604, 46.839119 ], [ 30.948858001000076, 46.842575 ], [ 30.950044, 46.852095 ], [ 30.950945999000055, 46.85362 ], [ 30.963431999000079, 46.855719 ], [ 30.967783, 46.854894 ], [ 30.965328, 46.860472 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0879308425093, "Shape_Area": 0.00020390186057799999, "ADM4_EN": "Romanove Selo", "ADM4_UA": "Романове Село", "ADM4_PCODE": "UA6104001010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Baikovetska", "ADM3_UA": "Байковецька", "ADM3_PCODE": "UA6104001", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.891634001000057, 49.555711 ], [ 25.886563002000059, 49.554433 ], [ 25.873314, 49.555278 ], [ 25.872968, 49.553446 ], [ 25.88137, 49.552328 ], [ 25.879651, 49.54722 ], [ 25.875213, 49.544682 ], [ 25.885968999000056, 49.543908 ], [ 25.886858, 49.545579 ], [ 25.896076999000059, 49.544718 ], [ 25.897908001000076, 49.553539001000047 ], [ 25.897147001000064, 49.555575 ], [ 25.891634001000057, 49.555711 ] ] ] } }
-]
-}

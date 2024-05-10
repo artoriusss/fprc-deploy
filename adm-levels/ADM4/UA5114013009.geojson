@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.054138837140500003, "Shape_Area": 5.8417686120700003e-05, "ADM4_EN": "Brynivka", "ADM4_UA": "Бринівка", "ADM4_PCODE": "UA5114013009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozdilnianska", "ADM3_UA": "Роздільнянська", "ADM3_PCODE": "UA5114013", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 30.380164, 46.763143 ], [ 30.376146001000052, 46.761012 ], [ 30.384752999000057, 46.75582 ], [ 30.381784001000028, 46.762383 ], [ 30.380164, 46.763143 ] ] ], [ [ [ 30.399541328000055, 46.744663021000065 ], [ 30.393035001000044, 46.751822 ], [ 30.394043999000075, 46.74733 ], [ 30.399541328000055, 46.744663021000065 ] ] ] ] } }
-]
-}

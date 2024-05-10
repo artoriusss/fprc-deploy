@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073944947238899994, "Shape_Area": 8.6516935238999996e-05, "ADM4_EN": "Khmelnytske", "ADM4_UA": "Хмельницьке", "ADM4_PCODE": "UA2302015035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chernihivska", "ADM3_UA": "Чернігівська", "ADM3_PCODE": "UA2302015", "ADM2_EN": "Berdianskyi", "ADM2_UA": "Бердянський", "ADM2_PCODE": "UA2302", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.896532365000041, 47.167740980000076 ], [ 35.890762087000041, 47.164041589000078 ], [ 35.89112689600006, 47.16247147100006 ], [ 35.899344531000054, 47.164716167000051 ], [ 35.903878152000061, 47.163636834000044 ], [ 35.914221245000078, 47.163931262000062 ], [ 35.913142980000032, 47.166342247000046 ], [ 35.905652887000031, 47.167546012000059 ], [ 35.899061614000061, 47.166522519000068 ], [ 35.896532365000041, 47.167740980000076 ] ] ] } }
-]
-}

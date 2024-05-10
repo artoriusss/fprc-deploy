@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.032993316373000001, "Shape_Area": 3.3997736565799997e-05, "ADM4_EN": "Hirne", "ADM4_UA": "Гірне", "ADM4_PCODE": "UA0120013006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Livadiiska", "ADM3_UA": "Лівадійська", "ADM3_PCODE": "UA0120013", "ADM2_EN": "Yaltynskyi", "ADM2_UA": "Ялтинський", "ADM2_PCODE": "UA0120", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.133249241000044, 44.466516723000041 ], [ 34.136548, 44.46828 ], [ 34.137116556000024, 44.47108570000006 ], [ 34.133145485000057, 44.472993245000055 ], [ 34.132097, 44.468558 ], [ 34.133249241000044, 44.466516723000041 ] ] ] } }
-]
-}

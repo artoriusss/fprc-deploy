@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.077863884556199997, "Shape_Area": 0.000121228187693, "ADM4_EN": "Hrabove", "ADM4_UA": "Грабове", "ADM4_PCODE": "UA0706045007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shatska", "ADM3_UA": "Шацька", "ADM3_PCODE": "UA0706045", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.711143314000026, 51.444200011000078 ], [ 23.69717231900006, 51.443527011000072 ], [ 23.688452320000067, 51.433542011000043 ], [ 23.693894319000037, 51.431470010000055 ], [ 23.700483317000078, 51.431577011000059 ], [ 23.70087331700006, 51.434896011000035 ], [ 23.697887318000028, 51.438133011000048 ], [ 23.703711317000057, 51.441522011000075 ], [ 23.711143314000026, 51.444200011000078 ] ] ] } }
-]
-}

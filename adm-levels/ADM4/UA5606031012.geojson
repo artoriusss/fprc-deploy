@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.074203425507900003, "Shape_Area": 0.000129928817509, "ADM4_EN": "Zhadkivka", "ADM4_UA": "Жадківка", "ADM4_PCODE": "UA5606031012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Koretska", "ADM3_UA": "Корецька", "ADM3_PCODE": "UA5606031", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.17340236800004, 50.607081048000055 ], [ 27.166800953000063, 50.610795463000045 ], [ 27.161325791000024, 50.612044203000039 ], [ 27.155204, 50.611097 ], [ 27.150257999000075, 50.609174 ], [ 27.148005, 50.606698 ], [ 27.152015041000027, 50.602104990000043 ], [ 27.156130921000056, 50.607514080000044 ], [ 27.166246920000049, 50.604903990000082 ], [ 27.17340236800004, 50.607081048000055 ] ] ] } }
-]
-}

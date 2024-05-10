@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.029840056511599999, "Shape_Area": 2.6745555819899999e-05, "ADM4_EN": "Pidhattia", "ADM4_UA": "Підгаття", "ADM4_PCODE": "UA0704005027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Manevytska", "ADM3_UA": "Маневицька", "ADM3_PCODE": "UA0704005", "ADM2_EN": "Kamin-Kashyrskyi", "ADM2_UA": "Камінь-Каширський", "ADM2_PCODE": "UA0704", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.795007034000037, 51.27037000100006 ], [ 25.78706203400003, 51.27255000100007 ], [ 25.78609203600007, 51.270189001000062 ], [ 25.793833035000034, 51.268640001000051 ], [ 25.795007034000037, 51.27037000100006 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.115142198071, "Shape_Area": 0.000535851341852, "ADM4_EN": "Vynohradne", "ADM4_UA": "Виноградне", "ADM4_PCODE": "UA5102017002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novokalchevska", "ADM3_UA": "Новокальчевська", "ADM3_PCODE": "UA5102017", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.094137, 47.239673 ], [ 31.081922999000028, 47.24005 ], [ 31.078567, 47.234523 ], [ 31.082448, 47.232215 ], [ 31.090359, 47.2225 ], [ 31.091419, 47.222817 ], [ 31.100491, 47.213208 ], [ 31.113969, 47.21258 ], [ 31.118623999000079, 47.217558 ], [ 31.112545001000058, 47.220429 ], [ 31.107013, 47.228695 ], [ 31.097753, 47.234808 ], [ 31.09656300100005, 47.239349 ], [ 31.094137, 47.239673 ] ] ] } }
-]
-}

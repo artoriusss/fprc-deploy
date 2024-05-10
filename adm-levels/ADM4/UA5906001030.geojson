@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.140521907423, "Shape_Area": 0.00015357786736, "ADM4_EN": "Cheberiaky", "ADM4_UA": "Чеберяки", "ADM4_PCODE": "UA5906001030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Andriiashivska", "ADM3_UA": "Андріяшівська", "ADM3_PCODE": "UA5906001", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.27755200100006, 50.591006 ], [ 33.278159999000025, 50.588 ], [ 33.266156, 50.587573 ], [ 33.269934, 50.584624 ], [ 33.275612, 50.586888 ], [ 33.276712, 50.581674 ], [ 33.270438, 50.579799 ], [ 33.273166, 50.576793 ], [ 33.286159999000063, 50.580109 ], [ 33.288217, 50.582537 ], [ 33.288239999000041, 50.587063 ], [ 33.284269001000041, 50.584622 ], [ 33.281396001000076, 50.585742 ], [ 33.279950001000032, 50.589702 ], [ 33.27755200100006, 50.591006 ] ] ] } }
-]
-}

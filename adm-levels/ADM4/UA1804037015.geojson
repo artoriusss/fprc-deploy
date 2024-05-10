@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.045087708472199998, "Shape_Area": 6.7041230945600003e-05, "ADM4_EN": "Peremoha", "ADM4_UA": "Перемога", "ADM4_PCODE": "UA1804037015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Oliivska", "ADM3_UA": "Оліївська", "ADM3_PCODE": "UA1804037", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.471443119000071, 50.395066020000058 ], [ 28.467563039000026, 50.39050302000004 ], [ 28.473302880000062, 50.390598960000034 ], [ 28.481303160000039, 50.388667020000071 ], [ 28.482959160000064, 50.392230030000064 ], [ 28.471443119000071, 50.395066020000058 ] ] ] } }
-]
-}

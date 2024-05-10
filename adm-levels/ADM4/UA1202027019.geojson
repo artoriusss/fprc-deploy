@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.091208186826199994, "Shape_Area": 0.00022300446529099999, "ADM4_EN": "Kamiane", "ADM4_UA": "Кам'яне", "ADM4_PCODE": "UA1202027019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Solonianska", "ADM3_UA": "Солонянська", "ADM3_PCODE": "UA1202027", "ADM2_EN": "Dniprovskyi", "ADM2_UA": "Дніпровський", "ADM2_PCODE": "UA1202", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.950208, 48.198739 ], [ 34.938832999000056, 48.199437 ], [ 34.94120699900003, 48.190108 ], [ 34.948151001000042, 48.188101 ], [ 34.951241, 48.189612 ], [ 34.957563, 48.189379 ], [ 34.966394999000045, 48.187875 ], [ 34.972537001000035, 48.188499 ], [ 34.972059, 48.190758 ], [ 34.965572001000055, 48.190244 ], [ 34.964141, 48.194425 ], [ 34.952526, 48.195893 ], [ 34.950208, 48.198739 ] ] ] } }
-]
-}

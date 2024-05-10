@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.101967572072, "Shape_Area": 0.000119858099207, "ADM4_EN": "Stare Mazharove", "ADM4_UA": "Старе Мажарове", "ADM4_PCODE": "UA6306001034", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zachepylivska", "ADM3_UA": "Зачепилівська", "ADM3_PCODE": "UA6306001", "ADM2_EN": "Krasnohradskyi", "ADM2_UA": "Красноградський", "ADM2_PCODE": "UA6306", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.453377999000054, 49.031471 ], [ 35.445744, 49.034779 ], [ 35.441572001000054, 49.032726 ], [ 35.446773001000054, 49.025228 ], [ 35.446644001000038, 49.018588 ], [ 35.451817, 49.016596 ], [ 35.453789999000037, 49.021898 ], [ 35.450248, 49.029159 ], [ 35.453377999000054, 49.031471 ] ] ] } }
-]
-}

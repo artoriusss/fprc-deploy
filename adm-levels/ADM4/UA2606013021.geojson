@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.072388657129299996, "Shape_Area": 0.000211691536821, "ADM4_EN": "Yavoriv", "ADM4_UA": "Яворів", "ADM4_PCODE": "UA2606013021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dolynska", "ADM3_UA": "Долинська", "ADM3_PCODE": "UA2606013", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.952304, 49.015827 ], [ 23.952951999000049, 49.022156 ], [ 23.950061, 49.023674 ], [ 23.941683, 49.023836 ], [ 23.941872999000054, 49.009721999000078 ], [ 23.94426499900004, 49.003983 ], [ 23.947064, 49.003797 ], [ 23.950959999000077, 49.006804 ], [ 23.954743001000054, 49.013651 ], [ 23.959868396000047, 49.016640044000042 ], [ 23.959100232000026, 49.018306746000064 ], [ 23.952304, 49.015827 ] ] ] } }
-]
-}

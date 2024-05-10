@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.050191238018499999, "Shape_Area": 6.2262408806600003e-05, "ADM4_EN": "Bazaluky", "ADM4_UA": "Базалуки", "ADM4_PCODE": "UA5302003002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horishnoplavnivska", "ADM3_UA": "Горішньоплавнівська", "ADM3_PCODE": "UA5302003", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.687549367000031, 49.124494810000044 ], [ 33.692437, 49.127629 ], [ 33.693089292000025, 49.137944798000035 ], [ 33.694020212000055, 49.140457369000046 ], [ 33.691704209000079, 49.14378 ], [ 33.687954, 49.142288 ], [ 33.690148001000068, 49.138886 ], [ 33.690467, 49.132609 ], [ 33.687549367000031, 49.124494810000044 ] ] ] } }
-]
-}

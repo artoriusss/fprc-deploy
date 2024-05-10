@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12896609458200001, "Shape_Area": 0.000195249929407, "ADM4_EN": "Shepiivka", "ADM4_UA": "Шепіївка", "ADM4_PCODE": "UA0512005013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivanivska", "ADM3_UA": "Іванівська", "ADM3_PCODE": "UA0512005", "ADM2_EN": "Khmilnytskyi", "ADM2_UA": "Хмільницький", "ADM2_PCODE": "UA0512", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.265804001000049, 49.594568 ], [ 28.268734001000041, 49.598605 ], [ 28.264684001000035, 49.600804 ], [ 28.26206, 49.599004 ], [ 28.262225, 49.594396 ], [ 28.255122, 49.593569 ], [ 28.245575, 49.594621 ], [ 28.241126, 49.592131 ], [ 28.253821999000024, 49.587881 ], [ 28.257123001000025, 49.587784 ], [ 28.260382, 49.584033 ], [ 28.26401499900004, 49.582171 ], [ 28.266578, 49.588276 ], [ 28.262958999000034, 49.591082 ], [ 28.265804001000049, 49.594568 ] ] ] } }
-]
-}

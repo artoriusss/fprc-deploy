@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0411651469593, "Shape_Area": 5.0479110125000003e-05, "ADM4_EN": "Hruzke", "ADM4_UA": "Грузьке", "ADM4_PCODE": "UA2310001008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilmatska", "ADM3_UA": "Більмацька", "ADM3_PCODE": "UA2310001", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.721567419000053, 47.312394362000077 ], [ 36.718139733000044, 47.310488594000049 ], [ 36.72838858700004, 47.304325048000067 ], [ 36.733659852000073, 47.306297020000045 ], [ 36.729859167000029, 47.309210596000071 ], [ 36.727703766000047, 47.308809150000059 ], [ 36.721567419000053, 47.312394362000077 ] ] ] } }
-]
-}

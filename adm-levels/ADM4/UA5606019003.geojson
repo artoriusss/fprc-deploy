@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.044236535289500001, "Shape_Area": 8.3659860520199998e-05, "ADM4_EN": "Hannivka", "ADM4_UA": "Ганнівка", "ADM4_PCODE": "UA5606019003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Derazhnenska", "ADM3_UA": "Деражненська", "ADM3_PCODE": "UA5606019", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.074059121000062, 50.913806940000029 ], [ 26.072096040000076, 50.913753930000041 ], [ 26.073041039000032, 50.898970980000058 ], [ 26.077150080000024, 50.899043070000062 ], [ 26.080315920000032, 50.90229 ], [ 26.079604920000065, 50.910909030000028 ], [ 26.074478160000069, 50.910864030000027 ], [ 26.074059121000062, 50.913806940000029 ] ] ] } }
-]
-}

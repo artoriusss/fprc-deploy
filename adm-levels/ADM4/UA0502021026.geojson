@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13279950651899999, "Shape_Area": 0.00014206049322099999, "ADM4_EN": "Malynky", "ADM4_UA": "Малинки", "ADM4_PCODE": "UA0502021026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pohrebyshchenska", "ADM3_UA": "Погребищенська", "ADM3_PCODE": "UA0502021", "ADM2_EN": "Vinnytskyi", "ADM2_UA": "Вінницький", "ADM2_PCODE": "UA0502", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.178151, 49.450335 ], [ 29.168949001000044, 49.450497 ], [ 29.168130001000065, 49.447333 ], [ 29.176821999000026, 49.448493 ], [ 29.18287, 49.44784 ], [ 29.175024, 49.442877 ], [ 29.18219, 49.440884 ], [ 29.188369001000069, 49.449106 ], [ 29.184629, 49.448378 ], [ 29.178151, 49.450335 ] ] ] } }
-]
-}

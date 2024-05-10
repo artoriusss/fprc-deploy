@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0271516145431, "Shape_Area": 2.9509120825600001e-05, "ADM4_EN": "Nova Oleksiivka", "ADM4_UA": "Нова Олексіївка", "ADM4_PCODE": "UA5104025008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tatarbunarska", "ADM3_UA": "Татарбунарська", "ADM3_PCODE": "UA5104025", "ADM2_EN": "Bilhorod-Dnistrovskyi", "ADM2_UA": "Білгород-Дністровський", "ADM2_PCODE": "UA5104", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.615377999000032, 45.896288 ], [ 29.614168, 45.894042 ], [ 29.615883727000039, 45.889935917000059 ], [ 29.618863544000078, 45.890426926000032 ], [ 29.615377999000032, 45.896288 ] ] ] } }
-]
-}

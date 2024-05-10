@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.082982688947199998, "Shape_Area": 0.00011155469788, "ADM4_EN": "Pidlisne", "ADM4_UA": "Підлісне", "ADM4_PCODE": "UA6102007033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kremenetska", "ADM3_UA": "Кременецька", "ADM3_PCODE": "UA6102007", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.796827, 50.059704 ], [ 25.79500100100006, 50.059408 ], [ 25.790081001000033, 50.05473 ], [ 25.791709, 50.052009 ], [ 25.798363, 50.055685 ], [ 25.806369, 50.055136 ], [ 25.81239, 50.056897 ], [ 25.814310001000024, 50.05973 ], [ 25.800732, 50.060557 ], [ 25.796827, 50.059704 ] ] ] } }
-]
-}

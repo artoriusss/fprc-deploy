@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073672746526099994, "Shape_Area": 0.000103379551511, "ADM4_EN": "Khrypky", "ADM4_UA": "Хрипки", "ADM4_PCODE": "UA5308009077", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zinkivska", "ADM3_UA": "Зіньківська", "ADM3_PCODE": "UA5308009", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.373595, 50.117684 ], [ 34.368747001000031, 50.115948 ], [ 34.367398, 50.112937 ], [ 34.371351999000069, 50.111834 ], [ 34.376068, 50.103991 ], [ 34.380427999000062, 50.102313 ], [ 34.379539, 50.096483 ], [ 34.383237, 50.097393 ], [ 34.385953, 50.103792 ], [ 34.381071, 50.105418 ], [ 34.378011, 50.107847 ], [ 34.374212, 50.112997 ], [ 34.373595, 50.117684 ] ] ] } }
-]
-}

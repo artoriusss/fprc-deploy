@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.082379563142200005, "Shape_Area": 0.00035184542637800001, "ADM4_EN": "Vakulove", "ADM4_UA": "Вакулове", "ADM4_PCODE": "UA1206003001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vakulivska", "ADM3_UA": "Вакулівська", "ADM3_PCODE": "UA1206003", "ADM2_EN": "Kryvorizkyi", "ADM2_UA": "Криворізький", "ADM2_PCODE": "UA1206", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.939346999000065, 47.904853 ], [ 33.939289, 47.906142 ], [ 33.921169001000067, 47.904159 ], [ 33.921663, 47.90145 ], [ 33.917879, 47.899037 ], [ 33.920589, 47.891924 ], [ 33.924586, 47.888741 ], [ 33.931714, 47.887302 ], [ 33.93242, 47.890262 ], [ 33.943852, 47.89146 ], [ 33.942543, 47.894057 ], [ 33.944562, 47.896965 ], [ 33.943786, 47.901638 ], [ 33.940049, 47.901557 ], [ 33.939346999000065, 47.904853 ] ] ] } }
-]
-}

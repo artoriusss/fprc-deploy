@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11607554473700001, "Shape_Area": 0.000112423067984, "ADM4_EN": "Ohiivka", "ADM4_UA": "Огіївка", "ADM4_PCODE": "UA0504003027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Haisynska", "ADM3_UA": "Гайсинська", "ADM3_PCODE": "UA0504003", "ADM2_EN": "Haisynskyi", "ADM2_UA": "Гайсинський", "ADM2_PCODE": "UA0504", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.581194, 48.723933500000044 ], [ 29.589116, 48.71965 ], [ 29.596073, 48.717573 ], [ 29.600555001000032, 48.717349 ], [ 29.605956, 48.715035 ], [ 29.605822, 48.709036 ], [ 29.611559, 48.712755 ], [ 29.60266, 48.718563 ], [ 29.590757, 48.720684 ], [ 29.585083, 48.72394 ], [ 29.581194, 48.723933500000044 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.094218573431799998, "Shape_Area": 0.00022817786256700001, "ADM4_EN": "Bohdanivka", "ADM4_UA": "Богданівка", "ADM4_PCODE": "UA2308023004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pryazovska", "ADM3_UA": "Приазовська", "ADM3_PCODE": "UA2308023", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "Мелітопольський", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.932143930000052, 46.751867299000025 ], [ 35.926236973000073, 46.753039010000066 ], [ 35.925178187000029, 46.750868119000074 ], [ 35.914491241000064, 46.744679892000079 ], [ 35.89757081700003, 46.73579834800006 ], [ 35.896169070000042, 46.733445273000029 ], [ 35.902351467000074, 46.731374318000064 ], [ 35.930241744000057, 46.746625357000028 ], [ 35.929515672000036, 46.749819542000068 ], [ 35.932143930000052, 46.751867299000025 ] ] ] } }
-]
-}

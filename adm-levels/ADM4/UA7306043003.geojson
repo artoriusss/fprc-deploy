@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.15815638323100001, "Shape_Area": 0.00017521376114600001, "ADM4_EN": "Velyka Buda", "ADM4_UA": "Велика Буда", "ADM4_PCODE": "UA7306043003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ostrytska", "ADM3_UA": "Острицька", "ADM3_PCODE": "UA7306043", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.086322, 48.161593 ], [ 26.081982, 48.153455 ], [ 26.085914001000049, 48.152715 ], [ 26.092332999000064, 48.148693 ], [ 26.093685, 48.142448 ], [ 26.098428, 48.14088 ], [ 26.100957, 48.142705 ], [ 26.099166, 48.15112 ], [ 26.092646, 48.153349 ], [ 26.093889999000055, 48.15865 ], [ 26.086966, 48.16021 ], [ 26.086322, 48.161593 ] ] ] } }
-]
-}

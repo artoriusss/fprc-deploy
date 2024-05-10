@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0520278444338, "Shape_Area": 8.3299077468500002e-05, "ADM4_EN": "Petrykivtsi", "ADM4_UA": "Петриківці", "ADM4_PCODE": "UA6804003016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Viitovetska", "ADM3_UA": "Війтовецька", "ADM3_PCODE": "UA6804003", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.48190500100003, 49.465994 ], [ 26.479835, 49.463935 ], [ 26.47041, 49.464215 ], [ 26.469348, 49.459423 ], [ 26.474269, 49.456245 ], [ 26.480884, 49.458356 ], [ 26.482988, 49.464983 ], [ 26.48190500100003, 49.465994 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.091641182367199994, "Shape_Area": 0.00027563348838800003, "ADM4_EN": "Nastasivka", "ADM4_UA": "Настасівка", "ADM4_PCODE": "UA1208003008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myrivska", "ADM3_UA": "Мирівська", "ADM3_PCODE": "UA1208003", "ADM2_EN": "Nikopolskyi", "ADM2_UA": "Нікопольський", "ADM2_PCODE": "UA1208", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.718309, 47.742581 ], [ 34.718976999000063, 47.747048 ], [ 34.717695001000038, 47.752401 ], [ 34.714279999000041, 47.754437 ], [ 34.709684, 47.750365 ], [ 34.706367999000065, 47.749234 ], [ 34.698922, 47.742292 ], [ 34.695236, 47.737079 ], [ 34.699511, 47.734401 ], [ 34.705497, 47.734804 ], [ 34.707781, 47.732518 ], [ 34.711651001000064, 47.73238 ], [ 34.714781, 47.741989 ], [ 34.718309, 47.742581 ] ] ] } }
-]
-}

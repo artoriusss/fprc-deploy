@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.038139091537700003, "Shape_Area": 5.7489587482800002e-05, "ADM4_EN": "Chyrvyne", "ADM4_UA": "Чирвине", "ADM4_PCODE": "UA5906007036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lypovodolynska", "ADM3_UA": "Липоводолинська", "ADM3_PCODE": "UA5906007", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.932207001000052, 50.549695 ], [ 33.932451, 50.553865 ], [ 33.939601001000028, 50.555781 ], [ 33.936647, 50.55857 ], [ 33.927792999000076, 50.555906 ], [ 33.926562, 50.552946 ], [ 33.930906001000039, 50.548682 ], [ 33.932207001000052, 50.549695 ] ] ] } }
-]
-}

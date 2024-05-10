@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11085367109, "Shape_Area": 0.00024138221702800001, "ADM4_EN": "Kupyn", "ADM4_UA": "Купин", "ADM4_PCODE": "UA6804013020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodotska", "ADM3_UA": "Городоцька", "ADM3_PCODE": "UA6804013", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.57763, 49.107519 ], [ 26.571510001000036, 49.104589 ], [ 26.569915, 49.101311 ], [ 26.570158, 49.096497 ], [ 26.57453, 49.093447 ], [ 26.578895001000035, 49.094593 ], [ 26.585403, 49.088951 ], [ 26.589443, 49.091076 ], [ 26.584525, 49.097245 ], [ 26.586978, 49.098509 ], [ 26.587537, 49.102737 ], [ 26.578279001000055, 49.106151 ], [ 26.57763, 49.107519 ] ] ] } }
-]
-}

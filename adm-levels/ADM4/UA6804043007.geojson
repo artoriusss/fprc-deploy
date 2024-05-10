@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.085900118762299998, "Shape_Area": 0.00016497019484899999, "ADM4_EN": "Hrechana", "ADM4_UA": "Гречана", "ADM4_PCODE": "UA6804043007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starosyniavska", "ADM3_UA": "Старосинявська", "ADM3_PCODE": "UA6804043", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.604948, 49.698533 ], [ 27.602712, 49.699755 ], [ 27.596058, 49.696944 ], [ 27.590397, 49.691423 ], [ 27.598928999000066, 49.689692 ], [ 27.601426, 49.685528 ], [ 27.608657, 49.684123 ], [ 27.606193, 49.687845 ], [ 27.609878, 49.690506 ], [ 27.606356, 49.694212 ], [ 27.609794, 49.696562 ], [ 27.604948, 49.698533 ] ] ] } }
-]
-}

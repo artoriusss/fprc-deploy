@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.090253415713099999, "Shape_Area": 0.000203006966945, "ADM4_EN": "Plesna", "ADM4_UA": "Плесна", "ADM4_PCODE": "UA6806033003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shepetivska", "ADM3_UA": "Шепетівська", "ADM3_PCODE": "UA6806033", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.007625, 50.148787 ], [ 27.005566, 50.152797 ], [ 27.000886, 50.152565 ], [ 26.995725, 50.145457 ], [ 26.99480599900005, 50.138531 ], [ 26.996056, 50.134888 ], [ 26.999594999000067, 50.135286 ], [ 26.999428001000069, 50.1393 ], [ 27.007186, 50.138426 ], [ 27.008928999000034, 50.14443 ], [ 27.014666, 50.14284 ], [ 27.015719, 50.146209 ], [ 27.007625, 50.148787 ] ] ] } }
-]
-}

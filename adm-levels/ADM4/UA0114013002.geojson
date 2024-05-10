@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.043237386843599998, "Shape_Area": 7.3873408854899998e-05, "ADM4_EN": "Voronky", "ADM4_UA": "Воронки", "ADM4_PCODE": "UA0114013002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zymynska", "ADM3_UA": "Зиминська", "ADM3_PCODE": "UA0114013", "ADM2_EN": "Krasnoperekopskyi", "ADM2_UA": "Красноперекопський", "ADM2_PCODE": "UA0114", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.535897851000072, 45.589028738000081 ], [ 33.526010564000046, 45.589544892000049 ], [ 33.524523920000036, 45.585711358000026 ], [ 33.531452541000078, 45.583761266000067 ], [ 33.534442798000043, 45.584724771000026 ], [ 33.54182400600007, 45.58376202900007 ], [ 33.542071189000069, 45.58657800900005 ], [ 33.535897851000072, 45.589028738000081 ] ] ] } }
-]
-}

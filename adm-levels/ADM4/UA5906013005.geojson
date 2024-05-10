@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.108515655828, "Shape_Area": 0.000192222181142, "ADM4_EN": "Vesela Dolyna", "ADM4_UA": "Весела Долина", "ADM4_PCODE": "UA5906013005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Synivska", "ADM3_UA": "Синівська", "ADM3_PCODE": "UA5906013", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.199099363000073, 50.595024597000076 ], [ 34.194565063000027, 50.595086250000065 ], [ 34.185555, 50.593337 ], [ 34.180977001000031, 50.590598 ], [ 34.177667, 50.579205 ], [ 34.168888999000046, 50.575012 ], [ 34.169363, 50.57325 ], [ 34.174655, 50.57299 ], [ 34.177818, 50.575635 ], [ 34.181331999000065, 50.574435 ], [ 34.18419, 50.577812 ], [ 34.187232, 50.584119 ], [ 34.189152, 50.591234 ], [ 34.195379999000068, 50.591034 ], [ 34.199099363000073, 50.595024597000076 ] ] ] } }
-]
-}

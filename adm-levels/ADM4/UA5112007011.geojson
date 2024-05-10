@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13884945848300001, "Shape_Area": 0.00058798422676600002, "ADM4_EN": "Yasenove Druhe", "ADM4_UA": "Ясенове Друге", "ADM4_PCODE": "UA5112007011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zelenohirska", "ADM3_UA": "Зеленогірська", "ADM3_PCODE": "UA5112007", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.011448, 47.903935 ], [ 30.005843, 47.905228 ], [ 29.99872, 47.905242 ], [ 29.985202, 47.903663 ], [ 29.983659, 47.899217 ], [ 29.998577, 47.896665 ], [ 30.001528999000072, 47.895469 ], [ 30.010845, 47.895046 ], [ 30.010972, 47.887831 ], [ 30.015956, 47.883086 ], [ 30.015993, 47.879101 ], [ 30.018746, 47.876205 ], [ 30.029175, 47.882178 ], [ 30.034596, 47.880066 ], [ 30.033842, 47.88951 ], [ 30.029073, 47.893808 ], [ 30.024528, 47.896348 ], [ 30.020871001000046, 47.896794 ], [ 30.011448, 47.903935 ] ] ] } }
-]
-}

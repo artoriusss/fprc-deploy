@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.095438205871400006, "Shape_Area": 0.00015922230457000001, "ADM4_EN": "Hrynivka", "ADM4_UA": "Гринівка", "ADM4_PCODE": "UA2604031002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starobohorodchanska", "ADM3_UA": "Старобогородчанська", "ADM3_PCODE": "UA2604031", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.486704, 48.862321 ], [ 24.483835, 48.866236 ], [ 24.480312, 48.862014 ], [ 24.477318, 48.860956 ], [ 24.473281, 48.862163 ], [ 24.470436, 48.86028 ], [ 24.462445001000049, 48.860733 ], [ 24.45519, 48.858281 ], [ 24.453051, 48.860093 ], [ 24.448138, 48.855361 ], [ 24.453424, 48.852696 ], [ 24.462555, 48.8561 ], [ 24.468469, 48.85605 ], [ 24.481006999000044, 48.85912 ], [ 24.486704, 48.862321 ] ] ] } }
-]
-}

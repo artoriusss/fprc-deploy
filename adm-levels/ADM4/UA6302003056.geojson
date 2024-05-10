@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.116674777694, "Shape_Area": 0.00010131607876800001, "ADM4_EN": "Miziaky", "ADM4_UA": "Мізяки", "ADM4_PCODE": "UA6302003056", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Valkivska", "ADM3_UA": "Валківська", "ADM3_PCODE": "UA6302003", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "Богодухівський", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.635989001000041, 49.919376 ], [ 35.632457, 49.919747 ], [ 35.62762, 49.915917 ], [ 35.626645001000043, 49.909885 ], [ 35.631289, 49.907986 ], [ 35.634855001000062, 49.909559 ], [ 35.639377, 49.90621 ], [ 35.640699, 49.907356 ], [ 35.635569, 49.912142 ], [ 35.638092999000037, 49.914837 ], [ 35.635989001000041, 49.919376 ] ] ] } }
-]
-}

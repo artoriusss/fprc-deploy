@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10119245838, "Shape_Area": 7.2524164422099998e-05, "ADM4_EN": "Diachkivka", "ADM4_UA": "Дячківка", "ADM4_PCODE": "UA6306011006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starovirivska", "ADM3_UA": "Старовірівська", "ADM3_PCODE": "UA6306011", "ADM2_EN": "Krasnohradskyi", "ADM2_UA": "Красноградський", "ADM2_PCODE": "UA6306", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.70466699900004, 49.466908 ], [ 35.701442, 49.465495 ], [ 35.693891, 49.464343 ], [ 35.696107, 49.460072 ], [ 35.698472001000027, 49.461981 ], [ 35.706543, 49.465188 ], [ 35.71509099900004, 49.464383 ], [ 35.716215, 49.466404 ], [ 35.70466699900004, 49.466908 ] ] ] } }
-]
-}

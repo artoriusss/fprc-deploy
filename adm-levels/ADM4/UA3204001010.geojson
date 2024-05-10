@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.041366497669499999, "Shape_Area": 9.7571008628800004e-05, "ADM4_EN": "Kyryivshchyna", "ADM4_UA": "Кириївщина", "ADM4_PCODE": "UA3204001010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Boryspilska", "ADM3_UA": "Бориспільська", "ADM3_PCODE": "UA3204001", "ADM2_EN": "Boryspilskyi", "ADM2_UA": "Бориспільський", "ADM2_PCODE": "UA3204", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.103899943000044, 50.271405486000049 ], [ 31.105308965000063, 50.274430381000059 ], [ 31.094176924000067, 50.276695447000066 ], [ 31.091407910000044, 50.271336491000056 ], [ 31.091758958000071, 50.268715446000044 ], [ 31.101609936000045, 50.266794480000044 ], [ 31.103899943000044, 50.271405486000049 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.085242312586100003, "Shape_Area": 0.000106488010623, "ADM4_EN": "Letsivka", "ADM4_UA": "Лецівка", "ADM4_PCODE": "UA2606015006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dubivska", "ADM3_UA": "Дубівська", "ADM3_PCODE": "UA2606015", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.113827999000023, 48.830905 ], [ 24.115324, 48.839447 ], [ 24.110352, 48.833278 ], [ 24.111728, 48.829736 ], [ 24.110801, 48.825001 ], [ 24.108088001000056, 48.824119 ], [ 24.101138, 48.814859 ], [ 24.113609, 48.823233 ], [ 24.116455, 48.830897 ], [ 24.113827999000023, 48.830905 ] ] ] } }
-]
-}

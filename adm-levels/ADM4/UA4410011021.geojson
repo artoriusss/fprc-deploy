@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.17702580196699999, "Shape_Area": 0.000103330976988, "ADM4_EN": "Chepyhivka", "ADM4_UA": "Чепигівка", "ADM4_PCODE": "UA4410011021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Svativska", "ADM3_UA": "Сватівська", "ADM3_PCODE": "UA4410011", "ADM2_EN": "Svativskyi", "ADM2_UA": "Сватівський", "ADM2_PCODE": "UA4410", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 38.598254, 49.375585 ], [ 38.597151, 49.376562 ], [ 38.587445, 49.374188 ], [ 38.58309, 49.37417 ], [ 38.577099, 49.376343 ], [ 38.576791999000079, 49.373297 ], [ 38.58736, 49.373244 ], [ 38.598254, 49.375585 ] ] ], [ [ [ 38.597103, 49.370898 ], [ 38.595949, 49.372561 ], [ 38.582027, 49.369376 ], [ 38.593008, 49.369852 ], [ 38.597103, 49.370898 ] ] ] ] } }
-]
-}

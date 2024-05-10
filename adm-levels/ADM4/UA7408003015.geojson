@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073477853126699993, "Shape_Area": 9.1904864167800001e-05, "ADM4_EN": "Heitsi", "ADM4_UA": "Гейці", "ADM4_PCODE": "UA7408003015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ichnianska", "ADM3_UA": "Ічнянська", "ADM3_PCODE": "UA7408003", "ADM2_EN": "Prylutskyi", "ADM2_UA": "Прилуцький", "ADM2_PCODE": "UA7408", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.348504880000064, 50.751666 ], [ 32.345487001000038, 50.751637020000032 ], [ 32.345083800000054, 50.748203970000077 ], [ 32.350722120000057, 50.742679050000049 ], [ 32.350979880000068, 50.734799010000074 ], [ 32.354170919000069, 50.735242980000066 ], [ 32.353350120000073, 50.743756080000026 ], [ 32.357208960000037, 50.74449498000007 ], [ 32.359564080000041, 50.748232950000045 ], [ 32.348504880000064, 50.751666 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.075981044070100007, "Shape_Area": 0.00012191169461900001, "ADM4_EN": "Malechkovychi", "ADM4_UA": "Малечковичі", "ADM4_PCODE": "UA4606043011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Solonkivska", "ADM3_UA": "Солонківська", "ADM3_PCODE": "UA4606043", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.958388228000047, 49.749401008000063 ], [ 23.960890228000039, 49.751755009000078 ], [ 23.951964230000044, 49.754379008000058 ], [ 23.947606231000066, 49.759101008000073 ], [ 23.939714232000028, 49.754386009000029 ], [ 23.938425082000037, 49.751248799000052 ], [ 23.946180181000045, 49.75040638300004 ], [ 23.955047229000058, 49.750646009000036 ], [ 23.958388228000047, 49.749401008000063 ] ] ] } }
-]
-}

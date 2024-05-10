@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.064357838561700006, "Shape_Area": 0.000107894313662, "ADM4_EN": "Meleshky", "ADM4_UA": "Мелешки", "ADM4_PCODE": "UA4614003034", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mostyska", "ADM3_UA": "Мостиська", "ADM3_PCODE": "UA4614003", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.085785521000048, 49.879146020000064 ], [ 23.083372521000058, 49.87927202000003 ], [ 23.082006522000029, 49.88586102000005 ], [ 23.075902524000071, 49.885835021000048 ], [ 23.079582523000056, 49.878518020000058 ], [ 23.073739525000065, 49.876453020000042 ], [ 23.071715526000048, 49.872100020000062 ], [ 23.076660523000044, 49.871822020000081 ], [ 23.083225520000042, 49.87351902000006 ], [ 23.085785521000048, 49.879146020000064 ] ] ] } }
-]
-}

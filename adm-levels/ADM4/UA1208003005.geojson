@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.069924350436499999, "Shape_Area": 0.00012917161489, "ADM4_EN": "Hlukhe", "ADM4_UA": "Глухе", "ADM4_PCODE": "UA1208003005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myrivska", "ADM3_UA": "Мирівська", "ADM3_PCODE": "UA1208003", "ADM2_EN": "Nikopolskyi", "ADM2_UA": "Нікопольський", "ADM2_PCODE": "UA1208", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.801728, 47.681966 ], [ 34.80135, 47.683478 ], [ 34.793034001000024, 47.68242 ], [ 34.79129, 47.680685 ], [ 34.791911, 47.671143 ], [ 34.800611, 47.672532 ], [ 34.804658999000026, 47.675456 ], [ 34.801728, 47.681966 ] ] ] } }
-]
-}

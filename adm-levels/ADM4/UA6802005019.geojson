@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.066199380593500001, "Shape_Area": 0.00012645335674600001, "ADM4_EN": "Zastavlia", "ADM4_UA": "Заставля", "ADM4_PCODE": "UA6802005019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dunaievetska", "ADM3_UA": "Дунаєвецька", "ADM3_PCODE": "UA6802005", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.832219538000061, 48.894999504000054 ], [ 26.839187656000036, 48.895372202000033 ], [ 26.841211878000024, 48.892973328000039 ], [ 26.844971763000046, 48.895750831000043 ], [ 26.845086392000042, 48.901791400000036 ], [ 26.840906311000026, 48.906143739000072 ], [ 26.838041, 48.90671 ], [ 26.837488, 48.901934 ], [ 26.835701, 48.900617 ], [ 26.827230001000032, 48.900954 ], [ 26.829996299000072, 48.896400406000055 ], [ 26.832219538000061, 48.894999504000054 ] ] ] } }
-]
-}

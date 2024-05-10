@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12261395714, "Shape_Area": 0.00041555265320400003, "ADM4_EN": "Pavlivka", "ADM4_UA": "Павлівка", "ADM4_PCODE": "UA5106015001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pavlivska", "ADM3_UA": "Павлівська", "ADM3_PCODE": "UA5106015", "ADM2_EN": "Bolhradskyi", "ADM2_UA": "Болградський", "ADM2_PCODE": "UA5106", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.509699999000077, 45.968611 ], [ 29.511684, 45.977213 ], [ 29.50117, 45.969184 ], [ 29.496199, 45.967433 ], [ 29.485173001000078, 45.967833 ], [ 29.481599, 45.966557 ], [ 29.469152, 45.969414 ], [ 29.468104, 45.964471 ], [ 29.471723, 45.962619 ], [ 29.48779, 45.958063 ], [ 29.494498, 45.958421 ], [ 29.497738, 45.952566 ], [ 29.501316, 45.951725 ], [ 29.506951001000061, 45.96193 ], [ 29.509699999000077, 45.968611 ] ] ] } }
-]
-}

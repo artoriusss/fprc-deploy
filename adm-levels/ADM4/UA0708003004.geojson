@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.058532186439200003, "Shape_Area": 4.0901917041399998e-05, "ADM4_EN": "Verbaiv", "ADM4_UA": "Вербаїв", "ADM4_PCODE": "UA0708003004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Boratynska", "ADM3_UA": "Боратинська", "ADM3_PCODE": "UA0708003", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.350889054000049, 50.660022001000073 ], [ 25.358515054000065, 50.656435001000034 ], [ 25.350144056000033, 50.649896002000048 ], [ 25.353010056000073, 50.649685002000069 ], [ 25.363008054000034, 50.65743000100008 ], [ 25.359232055000064, 50.656983001000071 ], [ 25.350889054000049, 50.660022001000073 ] ] ] } }
-]
-}

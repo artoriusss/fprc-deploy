@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.102157787658, "Shape_Area": 0.00060670895992200003, "ADM4_EN": "Svitlodolynske", "ADM4_UA": "Світлодолинське", "ADM4_PCODE": "UA5104019011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Saratska", "ADM3_UA": "Саратська", "ADM3_PCODE": "UA5104019", "ADM2_EN": "Bilhorod-Dnistrovskyi", "ADM2_UA": "Білгород-Дністровський", "ADM2_PCODE": "UA5104", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.584619, 46.075335 ], [ 29.60085699900003, 46.078745 ], [ 29.600818, 46.083545 ], [ 29.594776999000032, 46.087269 ], [ 29.595030001000055, 46.102334 ], [ 29.588815999000076, 46.104815 ], [ 29.577961, 46.10452 ], [ 29.572499999000058, 46.090251 ], [ 29.573494999000047, 46.089251 ], [ 29.577749, 46.07408 ], [ 29.579844, 46.072352 ], [ 29.584619, 46.075335 ] ] ] } }
-]
-}

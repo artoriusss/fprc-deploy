@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.099278828078399994, "Shape_Area": 0.000157166151418, "ADM4_EN": "Osychna", "ADM4_UA": "Осична", "ADM4_PCODE": "UA0512015018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ulanivska", "ADM3_UA": "Уланівська", "ADM3_PCODE": "UA0512015", "ADM2_EN": "Khmilnytskyi", "ADM2_UA": "Хмільницький", "ADM2_PCODE": "UA0512", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.427196, 49.711289 ], [ 28.443738999000061, 49.707122 ], [ 28.442618, 49.710977 ], [ 28.448751500000071, 49.710607500000037 ], [ 28.449102, 49.712973 ], [ 28.440535, 49.720968 ], [ 28.439076001000046, 49.718643 ], [ 28.433455999000046, 49.715005 ], [ 28.43214000100005, 49.715983 ], [ 28.426747, 49.71293 ], [ 28.427196, 49.711289 ] ] ] } }
-]
-}

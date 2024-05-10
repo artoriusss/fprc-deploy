@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.101444700589, "Shape_Area": 0.00016674454496800001, "ADM4_EN": "Osovyny", "ADM4_UA": "Осовини", "ADM4_PCODE": "UA0110011002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hlazivska", "ADM3_UA": "Глазівська", "ADM3_PCODE": "UA0110011", "ADM2_EN": "Kerchynskyi", "ADM2_UA": "Керченський", "ADM2_PCODE": "UA0110", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.577724, 45.438375 ], [ 36.573684001000061, 45.433384 ], [ 36.577922001000047, 45.431476 ], [ 36.579592, 45.434633 ], [ 36.586558, 45.433522 ], [ 36.591289, 45.43121 ], [ 36.594294001000037, 45.426154 ], [ 36.598909, 45.429898 ], [ 36.598612693000064, 45.434874156000035 ], [ 36.577724, 45.438375 ] ] ] } }
-]
-}

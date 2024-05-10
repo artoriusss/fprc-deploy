@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.064707156280600003, "Shape_Area": 0.00012671975009, "ADM4_EN": "Petro-Yevdokiivka", "ADM4_UA": "Петро-Євдокіївка", "ADM4_PCODE": "UA5114013042", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozdilnianska", "ADM3_UA": "Роздільнянська", "ADM3_PCODE": "UA5114013", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.180640999000047, 46.82898 ], [ 30.172651999000038, 46.828476 ], [ 30.173485001000074, 46.825008 ], [ 30.178007, 46.824743 ], [ 30.17858, 46.821514 ], [ 30.181233, 46.818516 ], [ 30.188483, 46.819423 ], [ 30.192540999000073, 46.816895 ], [ 30.195157001000041, 46.818749 ], [ 30.191670999000053, 46.823789 ], [ 30.186065, 46.823006 ], [ 30.183811, 46.827476 ], [ 30.180640999000047, 46.82898 ] ] ] } }
-]
-}

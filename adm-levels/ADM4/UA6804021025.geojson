@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.056956750054100003, "Shape_Area": 9.1880505710099998e-05, "ADM4_EN": "Pylypy", "ADM4_UA": "Пилипи", "ADM4_PCODE": "UA6804021025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasylivska", "ADM3_UA": "Красилівська", "ADM3_PCODE": "UA6804021", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.828914, 49.710503 ], [ 26.825946, 49.712719 ], [ 26.821855, 49.713327 ], [ 26.81883, 49.710221 ], [ 26.821649001000026, 49.707482 ], [ 26.83115900100006, 49.70445 ], [ 26.835853001000032, 49.704235 ], [ 26.833154001000025, 49.708483 ], [ 26.832, 49.712943 ], [ 26.828914, 49.710503 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.099477127927299999, "Shape_Area": 9.7802576909300005e-05, "ADM4_EN": "Stavky", "ADM4_UA": "Ставки", "ADM4_PCODE": "UA6106017025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zalishchytska", "ADM3_UA": "Заліщицька", "ADM3_PCODE": "UA6106017", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 25.810058, 48.765812 ], [ 25.807521061000045, 48.76692722100006 ], [ 25.802112001000069, 48.766086 ], [ 25.806299, 48.761716 ], [ 25.807530001000032, 48.76522 ], [ 25.810058, 48.765812 ] ] ], [ [ [ 25.782597, 48.757573 ], [ 25.780327, 48.756672 ], [ 25.787738, 48.749038 ], [ 25.784351, 48.746796 ], [ 25.787832, 48.742999 ], [ 25.79055, 48.748865 ], [ 25.784855001000039, 48.754133 ], [ 25.782597, 48.757573 ] ] ] ] } }
-]
-}

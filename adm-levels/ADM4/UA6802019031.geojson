@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.093943335362999994, "Shape_Area": 0.000164185070246, "ADM4_EN": "Liubomyrivka", "ADM4_UA": "Любомирівка", "ADM4_PCODE": "UA6802019031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoushytska", "ADM3_UA": "Новоушицька", "ADM3_PCODE": "UA6802019", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.395282, 48.7462 ], [ 27.391843999000059, 48.74757 ], [ 27.386267, 48.746412 ], [ 27.385649999000066, 48.743736 ], [ 27.381415, 48.743222 ], [ 27.377108, 48.738341 ], [ 27.383485999000072, 48.73962 ], [ 27.385685, 48.733456 ], [ 27.387904, 48.733381 ], [ 27.396729, 48.741329 ], [ 27.393281, 48.744494 ], [ 27.395282, 48.7462 ] ] ] } }
-]
-}

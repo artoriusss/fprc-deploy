@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060958760358900001, "Shape_Area": 7.6952635857699994e-05, "ADM4_EN": "Korchivka", "ADM4_UA": "Корчівка", "ADM4_PCODE": "UA1804043014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pulynska", "ADM3_UA": "Пулинська", "ADM3_PCODE": "UA1804043", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.247464081000032, 50.437917990000074 ], [ 28.247153040000057, 50.435728020000056 ], [ 28.251167041000031, 50.431257 ], [ 28.256892840000035, 50.430258 ], [ 28.254645, 50.436027990000071 ], [ 28.252569960000073, 50.437805040000057 ], [ 28.247464081000032, 50.437917990000074 ] ] ] } }
-]
-}

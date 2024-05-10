@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.06746714466000001, "Shape_Area": 9.1351539294199995e-05, "ADM4_EN": "Berezivka", "ADM4_UA": "Березівка", "ADM4_PCODE": "UA5606009002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykomezhyritska", "ADM3_UA": "Великомежиріцька", "ADM3_PCODE": "UA5606009", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.930750040000078, 50.65892505000005 ], [ 26.929686961000073, 50.656527990000029 ], [ 26.93368403900007, 50.654218049000065 ], [ 26.935643880000043, 50.648969970000053 ], [ 26.942348880000054, 50.648377050000079 ], [ 26.941483800000071, 50.653314990000069 ], [ 26.942826960000048, 50.657544 ], [ 26.937861120000036, 50.656887 ], [ 26.930750040000078, 50.65892505000005 ] ] ] } }
-]
-}

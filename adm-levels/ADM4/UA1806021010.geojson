@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.036443679687900001, "Shape_Area": 3.0441014968600001e-05, "ADM4_EN": "Zadorozhok", "ADM4_UA": "Задорожок", "ADM4_PCODE": "UA1806021010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Slovechanska", "ADM3_UA": "Словечанська", "ADM3_PCODE": "UA1806021", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.293351121000057, 51.351860970000075 ], [ 28.291990999000063, 51.348814 ], [ 28.301042880000068, 51.347409030000051 ], [ 28.301015880000023, 51.350508990000037 ], [ 28.293351121000057, 51.351860970000075 ] ] ] } }
-]
-}

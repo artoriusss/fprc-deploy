@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.120520778616, "Shape_Area": 0.00013907380089300001, "ADM4_EN": "Zelenkivka", "ADM4_UA": "Зеленківка", "ADM4_PCODE": "UA5906003007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vilshanska", "ADM3_UA": "Вільшанська", "ADM3_PCODE": "UA5906003", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 34.105775, 50.85821 ], [ 34.098543, 50.85825 ], [ 34.093721001000063, 50.857174 ], [ 34.090752, 50.850027 ], [ 34.09534, 50.848046 ], [ 34.099236, 50.853385 ], [ 34.108483, 50.852699 ], [ 34.109988001000033, 50.854377 ], [ 34.105775, 50.85821 ] ] ], [ [ [ 34.143989, 50.852375 ], [ 34.138289001000032, 50.852859 ], [ 34.131358, 50.851857 ], [ 34.117475, 50.851704 ], [ 34.117103, 50.850851 ], [ 34.142157, 50.851228 ], [ 34.143989, 50.852375 ] ] ] ] } }
-]
-}

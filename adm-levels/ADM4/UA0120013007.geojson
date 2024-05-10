@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.071491091133099996, "Shape_Area": 0.000161488193101, "ADM4_EN": "Kuibysheve", "ADM4_UA": "Куйбишеве", "ADM4_PCODE": "UA0120013007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Livadiiska", "ADM3_UA": "Лівадійська", "ADM3_PCODE": "UA0120013", "ADM2_EN": "Yaltynskyi", "ADM2_UA": "Ялтинський", "ADM2_PCODE": "UA0120", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.109587254000076, 44.498176127000079 ], [ 34.104247526000051, 44.493889664000051 ], [ 34.103349480000077, 44.490384940000069 ], [ 34.111592859000041, 44.488852 ], [ 34.11464703300004, 44.485942429000033 ], [ 34.119985006000036, 44.490159886000072 ], [ 34.126136167000027, 44.487854827000035 ], [ 34.127208182000061, 44.488832885000079 ], [ 34.123697854000056, 44.493972581000037 ], [ 34.116269986000077, 44.496669163000035 ], [ 34.109587254000076, 44.498176127000079 ] ] ] } }
-]
-}

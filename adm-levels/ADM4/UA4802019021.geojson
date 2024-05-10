@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0470627843033, "Shape_Area": 9.1315607884400005e-05, "ADM4_EN": "Yurivka", "ADM4_UA": "Юр'ївка", "ADM4_PCODE": "UA4802019021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Snihurivska", "ADM3_UA": "Снігурівська", "ADM3_PCODE": "UA4802019", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.845041497000068, 47.035689122000065 ], [ 32.837121093000064, 47.035975625000049 ], [ 32.833434959000044, 47.034732747000078 ], [ 32.83404252400004, 47.029640523000069 ], [ 32.845560229000057, 47.030846614000041 ], [ 32.852348057000029, 47.03074846800007 ], [ 32.851279180000063, 47.033353137000063 ], [ 32.845041497000068, 47.035689122000065 ] ] ] } }
-]
-}

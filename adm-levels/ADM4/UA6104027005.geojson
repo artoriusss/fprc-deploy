@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.142319141279, "Shape_Area": 0.00013657060764600001, "ADM4_EN": "Drahomanivka", "ADM4_UA": "Драгоманівка", "ADM4_PCODE": "UA6104027005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kupchynetska", "ADM3_UA": "Купчинецька", "ADM3_PCODE": "UA6104027", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.387896, 49.430894 ], [ 25.388039574000061, 49.42946541200007 ], [ 25.397805111000025, 49.426868034000051 ], [ 25.395332652000036, 49.420239604000074 ], [ 25.401756127000056, 49.419347026000025 ], [ 25.411941225000078, 49.426000452000039 ], [ 25.403031388000045, 49.42672028700008 ], [ 25.398607001000073, 49.428921 ], [ 25.387896, 49.430894 ] ] ] } }
-]
-}

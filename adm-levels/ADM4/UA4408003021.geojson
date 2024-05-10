@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.062367713048700001, "Shape_Area": 0.00014964292437, "ADM4_EN": "Rebrykove", "ADM4_UA": "Ребрикове", "ADM4_PCODE": "UA4408003021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rovenkivska", "ADM3_UA": "Ровеньківська", "ADM3_PCODE": "UA4408003", "ADM2_EN": "Rovenkivskyi", "ADM2_UA": "Ровеньківський", "ADM2_PCODE": "UA4408", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.280993055000067, 48.215743471000053 ], [ 39.27891, 48.212668 ], [ 39.274480999000048, 48.211259 ], [ 39.272603, 48.208436 ], [ 39.282176, 48.205062 ], [ 39.288136001000055, 48.207067 ], [ 39.295997, 48.207801 ], [ 39.29540399900003, 48.210622 ], [ 39.28854, 48.211899 ], [ 39.285556665000058, 48.216475838000065 ], [ 39.280993055000067, 48.215743471000053 ] ] ] } }
-]
-}

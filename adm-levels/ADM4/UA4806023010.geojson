@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.055063536955300002, "Shape_Area": 0.000139231938937, "ADM4_EN": "Trykhaty", "ADM4_UA": "Трихати", "ADM4_PCODE": "UA4806023010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Olshanska", "ADM3_UA": "Ольшанська", "ADM3_PCODE": "UA4806023", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.826353183000037, 47.148652950000042 ], [ 31.823864578000041, 47.147604048000062 ], [ 31.818720302000031, 47.148336490000077 ], [ 31.816433112000027, 47.138221907000059 ], [ 31.820227030000069, 47.130692808000049 ], [ 31.824192826000058, 47.127972845000045 ], [ 31.82390276600006, 47.137965658000041 ], [ 31.82704347400005, 47.144233323000037 ], [ 31.826353183000037, 47.148652950000042 ] ] ] } }
-]
-}

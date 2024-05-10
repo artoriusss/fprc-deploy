@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.083725013675400001, "Shape_Area": 0.00016939468539899999, "ADM4_EN": "Lomachyntsi", "ADM4_UA": "Ломачинці", "ADM4_PCODE": "UA6804005017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vinkovetska", "ADM3_UA": "Віньковецька", "ADM3_PCODE": "UA6804005", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.316759, 48.965324 ], [ 27.31041, 48.971065 ], [ 27.306816, 48.967549 ], [ 27.305706, 48.961321 ], [ 27.309636, 48.956072999000071 ], [ 27.312839, 48.953648 ], [ 27.316337, 48.954528 ], [ 27.320587, 48.957623 ], [ 27.320614999000043, 48.962976 ], [ 27.316759, 48.965324 ] ] ] } }
-]
-}

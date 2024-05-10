@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0537416273188, "Shape_Area": 9.1486248682299997e-05, "ADM4_EN": "Batalyi", "ADM4_UA": "Баталий", "ADM4_PCODE": "UA7104013002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Irkliivska", "ADM3_UA": "Іркліївська", "ADM3_PCODE": "UA7104013", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.56605210500004, 49.469915086000071 ], [ 32.569957350000038, 49.473863839000046 ], [ 32.56192771700006, 49.474786820000077 ], [ 32.560129608000068, 49.47134214600004 ], [ 32.551933765000058, 49.466083127000047 ], [ 32.554224015000045, 49.463865318000046 ], [ 32.556989417000068, 49.466529929000046 ], [ 32.562273033000054, 49.46616033600003 ], [ 32.56605210500004, 49.469915086000071 ] ] ] } }
-]
-}

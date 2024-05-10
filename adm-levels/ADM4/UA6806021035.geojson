@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.083058429094800004, "Shape_Area": 0.00024158048347200001, "ADM4_EN": "Yurovshchyna", "ADM4_UA": "Юровщина", "ADM4_PCODE": "UA6806021035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Polonska", "ADM3_UA": "Полонська", "ADM3_PCODE": "UA6806021", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.383570001000066, 50.013969 ], [ 27.386379, 50.013523 ], [ 27.387665001000073, 50.018 ], [ 27.374504, 50.021499 ], [ 27.374608, 50.026495 ], [ 27.368161, 50.02656 ], [ 27.362095, 50.025028 ], [ 27.357711, 50.022777 ], [ 27.359436001000063, 50.019307 ], [ 27.358357001000059, 50.013149 ], [ 27.36202, 50.015505 ], [ 27.37115, 50.014861001000043 ], [ 27.375215, 50.015295 ], [ 27.383570001000066, 50.013969 ] ] ] } }
-]
-}

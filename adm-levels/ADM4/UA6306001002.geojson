@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.15434931555500001, "Shape_Area": 0.00016113179580300001, "ADM4_EN": "Abazivka", "ADM4_UA": "Абазівка", "ADM4_PCODE": "UA6306001002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zachepylivska", "ADM3_UA": "Зачепилівська", "ADM3_PCODE": "UA6306001", "ADM2_EN": "Krasnohradskyi", "ADM2_UA": "Красноградський", "ADM2_PCODE": "UA6306", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.340937, 49.258246 ], [ 35.337161, 49.257739 ], [ 35.335069, 49.254659 ], [ 35.337936999000078, 49.251907 ], [ 35.318879001000028, 49.241901 ], [ 35.313545, 49.239562 ], [ 35.31686, 49.237496 ], [ 35.32377, 49.241847 ], [ 35.337972999000044, 49.249166 ], [ 35.34524900100007, 49.251416 ], [ 35.343634999000074, 49.253887 ], [ 35.338587999000026, 49.254302 ], [ 35.340937, 49.258246 ] ] ] } }
-]
-}

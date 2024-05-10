@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.17031429245900001, "Shape_Area": 0.00015997173235700001, "ADM4_EN": "Kupievakha", "ADM4_UA": "Куп'єваха", "ADM4_PCODE": "UA6302001030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bohodukhivska", "ADM3_UA": "Богодухівська", "ADM3_PCODE": "UA6302001", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "Богодухівський", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 35.263617, 50.244366 ], [ 35.261318999000025, 50.243214 ], [ 35.26283599900006, 50.236725 ], [ 35.265666, 50.244642 ], [ 35.263617, 50.244366 ] ] ], [ [ [ 35.25342, 50.217258 ], [ 35.249488, 50.214041 ], [ 35.251019, 50.211043 ], [ 35.257940999000027, 50.207781 ], [ 35.25988, 50.20985 ], [ 35.259028001000047, 50.214803 ], [ 35.25342, 50.217258 ] ] ], [ [ [ 35.247913, 50.199357 ], [ 35.251768001000073, 50.205607 ], [ 35.249715999000045, 50.2072 ], [ 35.245993, 50.201618 ], [ 35.247913, 50.199357 ] ] ] ] } }
-]
-}

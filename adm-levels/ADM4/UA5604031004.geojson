@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11106641964699999, "Shape_Area": 0.00011486881981, "ADM4_EN": "Hriadky", "ADM4_UA": "Грядки", "ADM4_PCODE": "UA5604031004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Semydubska", "ADM3_UA": "Семидубська", "ADM3_PCODE": "UA5604031", "ADM2_EN": "Dubenskyi", "ADM2_UA": "Дубенський", "ADM2_PCODE": "UA5604", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.852690800000062, 50.317992 ], [ 25.856150039000056, 50.315799060000074 ], [ 25.857817920000059, 50.312337030000037 ], [ 25.867650960000049, 50.310257940000042 ], [ 25.878287880000073, 50.308910010000034 ], [ 25.88354208100003, 50.311431990000074 ], [ 25.872522840000045, 50.312626020000039 ], [ 25.860305160000053, 50.315458050000075 ], [ 25.859012039000049, 50.317209990000038 ], [ 25.852690800000062, 50.317992 ] ] ] } }
-]
-}

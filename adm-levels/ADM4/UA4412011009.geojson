@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.054526221048399999, "Shape_Area": 4.997586306e-05, "ADM4_EN": "Havrylivka", "ADM4_UA": "Гаврилівка", "ADM4_PCODE": "UA4412011009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sievierodonetska", "ADM3_UA": "Сєвєродонецька", "ADM3_PCODE": "UA4412011", "ADM2_EN": "Sievierodonetskyi", "ADM2_UA": "Сєвєродонецький", "ADM2_PCODE": "UA4412", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 38.672351, 49.015783 ], [ 38.678424001000053, 49.021659 ], [ 38.675998, 49.022379 ], [ 38.670608999000081, 49.01675 ], [ 38.672351, 49.015783 ] ] ], [ [ [ 38.677502, 49.006968 ], [ 38.67585, 49.0116 ], [ 38.673013, 49.011545 ], [ 38.67538, 49.00353 ], [ 38.677502, 49.006968 ] ] ] ] } }
-]
-}

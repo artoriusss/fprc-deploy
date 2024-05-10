@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.022585804597900001, "Shape_Area": 2.71302434434e-05, "ADM4_EN": "Lisky", "ADM4_UA": "Ліски", "ADM4_PCODE": "UA5110035006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Fontanska", "ADM3_UA": "Фонтанська", "ADM3_PCODE": "UA5110035", "ADM2_EN": "Odeskyi", "ADM2_UA": "Одеський", "ADM2_PCODE": "UA5110", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.815066, 46.558781500000066 ], [ 30.815687001000072, 46.563345 ], [ 30.81202, 46.563817 ], [ 30.809401001000026, 46.558654 ], [ 30.814143, 46.556565 ], [ 30.815066, 46.558781500000066 ] ] ] } }
-]
-}

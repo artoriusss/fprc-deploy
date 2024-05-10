@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.100588728499, "Shape_Area": 0.000251589982648, "ADM4_EN": "Strikhivtsi", "ADM4_UA": "Стріхівці", "ADM4_PCODE": "UA6804037009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Solobkovetska", "ADM3_UA": "Солобковецька", "ADM3_PCODE": "UA6804037", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.938057, 49.047074 ], [ 26.933136, 49.050026 ], [ 26.929615, 49.039043 ], [ 26.933647090000079, 49.03637619400007 ], [ 26.938812318000032, 49.034921225000062 ], [ 26.941567538000072, 49.035550866000051 ], [ 26.94530812000005, 49.033230100000026 ], [ 26.946239, 49.036432 ], [ 26.960669981000024, 49.034142167000027 ], [ 26.957266, 49.036886 ], [ 26.95719, 49.040082 ], [ 26.952365, 49.040951 ], [ 26.945654, 49.045306 ], [ 26.938057, 49.047074 ] ] ] } }
-]
-}

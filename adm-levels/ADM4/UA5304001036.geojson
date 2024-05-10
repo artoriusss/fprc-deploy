@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.035876159795499997, "Shape_Area": 5.4822419294199998e-05, "ADM4_EN": "Skochak", "ADM4_UA": "Скочак", "ADM4_PCODE": "UA5304001036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hrebinkivska", "ADM3_UA": "Гребінківська", "ADM3_PCODE": "UA5304001", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.505163999000047, 50.14608 ], [ 32.499208, 50.143025 ], [ 32.50973, 50.139272 ], [ 32.513542001000076, 50.139524 ], [ 32.511313, 50.143989 ], [ 32.505163999000047, 50.14608 ] ] ] } }
-]
-}

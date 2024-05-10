@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.084462560096400005, "Shape_Area": 0.00021278248675799999, "ADM4_EN": "Kushchivka", "ADM4_UA": "Кущівка", "ADM4_PCODE": "UA1202031010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tsarychanska", "ADM3_UA": "Царичанська", "ADM3_PCODE": "UA1202031", "ADM2_EN": "Dniprovskyi", "ADM2_UA": "Дніпровський", "ADM2_PCODE": "UA1202", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.55173, 49.0206 ], [ 34.550133999000025, 49.01427 ], [ 34.547892, 49.011338 ], [ 34.548358, 49.008225 ], [ 34.553085, 49.009571 ], [ 34.557907, 49.008733 ], [ 34.564828, 49.005715 ], [ 34.567441001000077, 49.007451 ], [ 34.572596999000041, 49.00636 ], [ 34.577277, 49.004081 ], [ 34.579347, 49.005344 ], [ 34.570293, 49.009971 ], [ 34.571019999000043, 49.011021 ], [ 34.558822001000067, 49.017249 ], [ 34.55297, 49.021622 ], [ 34.55173, 49.0206 ] ] ] } }
-]
-}

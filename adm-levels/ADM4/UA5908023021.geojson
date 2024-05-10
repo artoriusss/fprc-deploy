@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.066799302688399995, "Shape_Area": 7.3327607797699998e-05, "ADM4_EN": "Opolonske", "ADM4_UA": "Ополонське", "ADM4_PCODE": "UA5908023021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sadivska", "ADM3_UA": "Садівська", "ADM3_PCODE": "UA5908023", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.737132, 50.835217999000065 ], [ 34.728999, 50.834511 ], [ 34.723273, 50.830193 ], [ 34.719089, 50.831209 ], [ 34.71873000100004, 50.828112 ], [ 34.715917, 50.827119 ], [ 34.713568, 50.822449 ], [ 34.71565, 50.821379 ], [ 34.721331732000067, 50.823666217000039 ], [ 34.722542999000041, 50.827401 ], [ 34.729435, 50.832856 ], [ 34.737132, 50.835217999000065 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.104012314873, "Shape_Area": 0.000271618832615, "ADM4_EN": "Loskutivka", "ADM4_UA": "Лоскутівка", "ADM4_PCODE": "UA4412005015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lysychanska", "ADM3_UA": "Лисичанська", "ADM3_PCODE": "UA4412005", "ADM2_EN": "Sievierodonetskyi", "ADM2_UA": "Сєвєродонецький", "ADM2_PCODE": "UA4412", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.424182, 48.813513 ], [ 38.417844999000067, 48.809454 ], [ 38.416472, 48.80604 ], [ 38.412896999000054, 48.8084 ], [ 38.395823999000072, 48.807702 ], [ 38.391331, 48.805356 ], [ 38.394055, 48.80161 ], [ 38.398632999000029, 48.800334 ], [ 38.414321, 48.800938 ], [ 38.41626399900008, 48.799483 ], [ 38.422644, 48.800968 ], [ 38.423661, 48.804192 ], [ 38.428899, 48.803665 ], [ 38.424182, 48.813513 ] ] ] } }
-]
-}

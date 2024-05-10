@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.052715949578700003, "Shape_Area": 7.0404245204900003e-05, "ADM4_EN": "Lozky", "ADM4_UA": "Лозки", "ADM4_PCODE": "UA5302009026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozelshchynska", "ADM3_UA": "Козельщинська", "ADM3_PCODE": "UA5302009", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.884566, 49.189392 ], [ 33.882929001000036, 49.190105 ], [ 33.873234, 49.188125 ], [ 33.871060001000046, 49.189119 ], [ 33.862483, 49.187611 ], [ 33.862143, 49.18603 ], [ 33.870306, 49.186133 ], [ 33.872352, 49.182727 ], [ 33.875911, 49.183424 ], [ 33.877636, 49.186767 ], [ 33.884107999000037, 49.187848 ], [ 33.884566, 49.189392 ] ] ] } }
-]
-}

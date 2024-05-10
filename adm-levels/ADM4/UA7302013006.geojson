@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.044013117985400002, "Shape_Area": 4.43184832808e-05, "ADM4_EN": "Zamohyla", "ADM4_UA": "Замогила", "ADM4_PCODE": "UA7302013006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Putylska", "ADM3_UA": "Путильська", "ADM3_PCODE": "UA7302013", "ADM2_EN": "Vyzhnytskyi", "ADM2_UA": "Вижницький", "ADM2_PCODE": "UA7302", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.070837317000041, 48.037253164000049 ], [ 25.067506072000072, 48.038204948000043 ], [ 25.062330744000064, 48.037669570000048 ], [ 25.06384765100006, 48.035528055000043 ], [ 25.068636316000038, 48.035884974000055 ], [ 25.070837317000041, 48.037253164000049 ] ] ] } }
-]
-}

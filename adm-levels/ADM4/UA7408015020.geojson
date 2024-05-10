@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.079579335382999994, "Shape_Area": 0.00021099797231900001, "ADM4_EN": "Oleksyntsi", "ADM4_UA": "Олексинці", "ADM4_PCODE": "UA7408015020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sribnianska", "ADM3_UA": "Срібнянська", "ADM3_PCODE": "UA7408015", "ADM2_EN": "Prylutskyi", "ADM2_UA": "Прилуцький", "ADM2_PCODE": "UA7408", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.964512040000045, 50.691537990000029 ], [ 32.957501040000068, 50.690821950000043 ], [ 32.951374921000024, 50.678556030000038 ], [ 32.960193119000053, 50.67390204000003 ], [ 32.962361040000076, 50.675379030000045 ], [ 32.965040160000058, 50.684729040000036 ], [ 32.966328960000055, 50.686041060000036 ], [ 32.972563081000033, 50.684362020000037 ], [ 32.971713841000053, 50.689704060000054 ], [ 32.967088920000037, 50.692120020000061 ], [ 32.964512040000045, 50.691537990000029 ] ] ] } }
-]
-}

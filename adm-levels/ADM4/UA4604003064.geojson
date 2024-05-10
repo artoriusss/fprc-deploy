@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.130465453846, "Shape_Area": 0.000137424760465, "ADM4_EN": "Chanyzh", "ADM4_UA": "Чаниж", "ADM4_PCODE": "UA4604003064", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Buska", "ADM3_UA": "Буська", "ADM3_PCODE": "UA4604003", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.687621111000055, 50.090172003000077 ], [ 24.684683111000027, 50.087819004000039 ], [ 24.687321111000074, 50.083715003000066 ], [ 24.685003111000071, 50.079101004000051 ], [ 24.696339110000054, 50.079342004000068 ], [ 24.696202110000058, 50.082608004000065 ], [ 24.691926111000043, 50.084979004000047 ], [ 24.698615111000038, 50.08691000400006 ], [ 24.699715109000067, 50.088832005000029 ], [ 24.687621111000055, 50.090172003000077 ] ] ] } }
-]
-}

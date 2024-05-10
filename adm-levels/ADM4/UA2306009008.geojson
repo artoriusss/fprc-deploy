@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.079435848195099995, "Shape_Area": 0.000107145453098, "ADM4_EN": "Zhovta Krucha", "ADM4_UA": "Жовта Круча", "ADM4_PCODE": "UA2306009008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Komyshuvaska", "ADM3_UA": "Комишуваська", "ADM3_PCODE": "UA2306009", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.699019959000054, 47.741970304000063 ], [ 35.696966864000046, 47.740233596000053 ], [ 35.69091643400003, 47.739205152000068 ], [ 35.677516574000038, 47.72828974600003 ], [ 35.682036934000052, 47.72543655100003 ], [ 35.689034309000078, 47.730573377000042 ], [ 35.688301023000065, 47.733466762000035 ], [ 35.691338841000061, 47.736498370000049 ], [ 35.700319033000028, 47.738392794000049 ], [ 35.699019959000054, 47.741970304000063 ] ] ] } }
-]
-}

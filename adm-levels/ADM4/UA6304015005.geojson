@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.093666182116500005, "Shape_Area": 0.000130106434562, "ADM4_EN": "Dovhalivka", "ADM4_UA": "Довгалівка", "ADM4_PCODE": "UA6304015005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Savynska", "ADM3_UA": "Савинська", "ADM3_PCODE": "UA6304015", "ADM2_EN": "Iziumskyi", "ADM2_UA": "Ізюмський", "ADM2_PCODE": "UA6304", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.063838261000058, 49.390466218000029 ], [ 37.060279, 49.387508 ], [ 37.06567, 49.385758 ], [ 37.069012, 49.382894 ], [ 37.074957999000048, 49.375032 ], [ 37.083444, 49.372125 ], [ 37.084785, 49.37362 ], [ 37.075678, 49.377088 ], [ 37.078551, 49.378482999000028 ], [ 37.072224001000052, 49.388447 ], [ 37.063838261000058, 49.390466218000029 ] ] ] } }
-]
-}

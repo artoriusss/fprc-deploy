@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.055841416263099998, "Shape_Area": 0.00011453946672899999, "ADM4_EN": "Berezanka", "ADM4_UA": "Березанка", "ADM4_PCODE": "UA7410015002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kyselivska", "ADM3_UA": "Киселівська", "ADM3_PCODE": "UA7410015", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.442014080000035, 51.549449940000045 ], [ 31.441732200000047, 51.556737060000046 ], [ 31.438431, 51.56111997000005 ], [ 31.434922080000035, 51.559971030000042 ], [ 31.436269920000029, 51.553380060000052 ], [ 31.435750799000061, 51.544287990000043 ], [ 31.445629920000044, 51.545816010000067 ], [ 31.442014080000035, 51.549449940000045 ] ] ] } }
-]
-}

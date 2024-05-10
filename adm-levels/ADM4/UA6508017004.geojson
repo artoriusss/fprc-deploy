@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.069544139445500003, "Shape_Area": 0.000170020963723, "ADM4_EN": "Heroiske", "ADM4_UA": "Геройське", "ADM4_PCODE": "UA6508017004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chulakivska", "ADM3_UA": "Чулаківська", "ADM3_PCODE": "UA6508017", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Скадовський", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.896356, 46.517504 ], [ 31.892718999000067, 46.517712 ], [ 31.885069, 46.515524 ], [ 31.883909999000025, 46.51287 ], [ 31.886305, 46.503647 ], [ 31.890827, 46.505001 ], [ 31.890296, 46.510585 ], [ 31.896501, 46.511935 ], [ 31.90241099900004, 46.508074 ], [ 31.906710001000079, 46.509692 ], [ 31.902347001000066, 46.5157 ], [ 31.896356, 46.517504 ] ] ] } }
-]
-}

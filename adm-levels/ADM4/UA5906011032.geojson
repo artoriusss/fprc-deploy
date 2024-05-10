@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060184247255200003, "Shape_Area": 0.000128137062232, "ADM4_EN": "Korolivshchyna", "ADM4_UA": "Королівщина", "ADM4_PCODE": "UA5906011032", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Romenska", "ADM3_UA": "Роменська", "ADM3_PCODE": "UA5906011", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.198818, 50.799722 ], [ 33.191719999000043, 50.802068 ], [ 33.184753, 50.800615 ], [ 33.183544, 50.79486 ], [ 33.188959, 50.792041 ], [ 33.195837999000048, 50.792017 ], [ 33.199339001000055, 50.793615 ], [ 33.198818, 50.799722 ] ] ] } }
-]
-}

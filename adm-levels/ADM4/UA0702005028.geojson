@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.088923431025100003, "Shape_Area": 9.8928854597499997e-05, "ADM4_EN": "Chesnyi Khrest", "ADM4_UA": "Чесний Хрест", "ADM4_PCODE": "UA0702005028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zymnivska", "ADM3_UA": "Зимнівська", "ADM3_PCODE": "UA0702005", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.397487155000078, 50.748843005000026 ], [ 24.393964155000049, 50.745323005000046 ], [ 24.39403115600004, 50.74250300500006 ], [ 24.401270154000031, 50.743602005000071 ], [ 24.403885154000022, 50.745410005000053 ], [ 24.413718152000058, 50.745758005000027 ], [ 24.414213154000038, 50.747845006000034 ], [ 24.402581154000075, 50.748961005000069 ], [ 24.397487155000078, 50.748843005000026 ] ] ] } }
-]
-}

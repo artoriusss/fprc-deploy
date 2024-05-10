@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.086536485945899994, "Shape_Area": 0.00014833804438899999, "ADM4_EN": "Budkiv", "ADM4_UA": "Будьків", "ADM4_PCODE": "UA4606009003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Davydivska", "ADM3_UA": "Давидівська", "ADM3_PCODE": "UA4606009", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.185610181000072, 49.689840007000043 ], [ 24.183904183000038, 49.692867006000029 ], [ 24.180806183000072, 49.69302400600003 ], [ 24.179896183000039, 49.687274006000052 ], [ 24.183983183000066, 49.673196006000069 ], [ 24.18820818100005, 49.672489006000035 ], [ 24.187991181000029, 49.677590007000049 ], [ 24.190280182000038, 49.687813006000056 ], [ 24.185610181000072, 49.689840007000043 ] ] ] } }
-]
-}

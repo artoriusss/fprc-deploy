@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.037967427998700003, "Shape_Area": 7.47148100799e-05, "ADM4_EN": "Kryvyi", "ADM4_UA": "Кривий", "ADM4_PCODE": "UA2112025015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khustska", "ADM3_UA": "Хустська", "ADM3_PCODE": "UA2112025", "ADM2_EN": "Khustskyi", "ADM2_UA": "Хустський", "ADM2_PCODE": "UA2112", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.345980379000025, 48.280824016000054 ], [ 23.343358821000038, 48.286520775000042 ], [ 23.343173800000045, 48.291085622000026 ], [ 23.336514213000044, 48.285636415000056 ], [ 23.337066556000025, 48.282342860000028 ], [ 23.339844381000034, 48.278110016000028 ], [ 23.343049379000036, 48.277723016000039 ], [ 23.345980379000025, 48.280824016000054 ] ] ] } }
-]
-}

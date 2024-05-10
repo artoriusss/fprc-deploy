@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.051278468508800003, "Shape_Area": 6.3369882944400003e-05, "ADM4_EN": "Harusha", "ADM4_UA": "Гаруша", "ADM4_PCODE": "UA0706043006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Turiiska", "ADM3_UA": "Турійська", "ADM3_PCODE": "UA0706043", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.618088125000043, 51.110636004000071 ], [ 24.613936127000045, 51.11273800400005 ], [ 24.610120127000073, 51.109174004000067 ], [ 24.612750126000037, 51.106481004000045 ], [ 24.618576124000072, 51.107514004000052 ], [ 24.622436124000046, 51.105584004000036 ], [ 24.624347125000043, 51.107779004000065 ], [ 24.618088125000043, 51.110636004000071 ] ] ] } }
-]
-}

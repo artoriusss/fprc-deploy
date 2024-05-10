@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.059845837959400003, "Shape_Area": 8.1628869147799994e-05, "ADM4_EN": "Strilky", "ADM4_UA": "Стрілки", "ADM4_PCODE": "UA4606001042", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bibrska", "ADM3_UA": "Бібрська", "ADM3_PCODE": "UA4606001", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.324225157000058, 49.642564006000043 ], [ 24.315911159000052, 49.645364005000033 ], [ 24.311819160000027, 49.645877006000035 ], [ 24.311001159000057, 49.641091005000078 ], [ 24.314820159000078, 49.641563006000069 ], [ 24.321977158000038, 49.639692006000075 ], [ 24.328429156000027, 49.635681006000027 ], [ 24.329163157000039, 49.638772005000078 ], [ 24.324225157000058, 49.642564006000043 ] ] ] } }
-]
-}

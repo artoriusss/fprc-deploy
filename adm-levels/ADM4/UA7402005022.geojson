@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.056673951848199997, "Shape_Area": 7.1902966067700002e-05, "ADM4_EN": "Lypivka", "ADM4_UA": "Липівка", "ADM4_PCODE": "UA7402005022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Snovska", "ADM3_UA": "Сновська", "ADM3_PCODE": "UA7402005", "ADM2_EN": "Koriukivskyi", "ADM2_UA": "Корюківський", "ADM2_PCODE": "UA7402", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.862725966000028, 52.109725668000067 ], [ 31.846163040000079, 52.108979040000065 ], [ 31.844919960000027, 52.104410010000038 ], [ 31.849985880000077, 52.104392010000026 ], [ 31.851542160000065, 52.10651394000007 ], [ 31.859751961000029, 52.106952960000058 ], [ 31.862725966000028, 52.109725668000067 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.071457191262499997, "Shape_Area": 6.7659002522600005e-05, "ADM4_EN": "Pyliava", "ADM4_UA": "Пилява", "ADM4_PCODE": "UA3210003022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dymerska", "ADM3_UA": "Димерська", "ADM3_PCODE": "UA3210003", "ADM2_EN": "Vyshhorodskyi", "ADM2_UA": "Вишгородський", "ADM2_PCODE": "UA3210", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.31065760000007, 51.036862929000051 ], [ 30.307110605000048, 51.034904933000064 ], [ 30.309298697000031, 51.030200953000076 ], [ 30.313337668000031, 51.030408873000056 ], [ 30.315468620000047, 51.035365884000043 ], [ 30.32305169600005, 51.031964952000067 ], [ 30.322727645000043, 51.035636927000041 ], [ 30.31065760000007, 51.036862929000051 ] ] ] } }
-]
-}

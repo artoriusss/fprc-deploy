@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060673276457399998, "Shape_Area": 5.8462222795399998e-05, "ADM4_EN": "Panchenky", "ADM4_UA": "Панченки", "ADM4_PCODE": "UA5306015021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Komyshnianska", "ADM3_UA": "Комишнянська", "ADM3_PCODE": "UA5306015", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.641236, 50.261283 ], [ 33.644983999000033, 50.262203 ], [ 33.645033, 50.267699 ], [ 33.642268001000048, 50.267693 ], [ 33.642228, 50.263025 ], [ 33.634416, 50.262399 ], [ 33.623017999000069, 50.259792 ], [ 33.624148, 50.257372 ], [ 33.63439100100004, 50.259402 ], [ 33.635374, 50.261266 ], [ 33.641236, 50.261283 ] ] ] } }
-]
-}

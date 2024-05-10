@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.017465937134799998, "Shape_Area": 1.73592326585e-05, "ADM4_EN": "Samborivka", "ADM4_UA": "Самборівка", "ADM4_PCODE": "UA6308007027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kindrashivska", "ADM3_UA": "Кіндрашівська", "ADM3_PCODE": "UA6308007", "ADM2_EN": "Kupianskyi", "ADM2_UA": "Куп'янський", "ADM2_PCODE": "UA6308", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.461757, 49.783957 ], [ 37.461739, 49.788049 ], [ 37.457501, 49.78739 ], [ 37.456509, 49.784748 ], [ 37.461757, 49.783957 ] ] ] } }
-]
-}

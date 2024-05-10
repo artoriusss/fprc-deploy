@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057399701270599998, "Shape_Area": 0.000104151488349, "ADM4_EN": "Lezhanivka", "ADM4_UA": "Лежанівка", "ADM4_PCODE": "UA6106011014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hrymailivska", "ADM3_UA": "Гримайлівська", "ADM3_PCODE": "UA6106011", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.060597404000077, 49.304736824000031 ], [ 26.059259401000077, 49.307400974000075 ], [ 26.06072000100005, 49.312549 ], [ 26.055025, 49.315022 ], [ 26.043212355000037, 49.316251302000069 ], [ 26.04102871200007, 49.312568547000069 ], [ 26.053004427000076, 49.31167591500008 ], [ 26.052191, 49.307131 ], [ 26.060597404000077, 49.304736824000031 ] ] ] } }
-]
-}

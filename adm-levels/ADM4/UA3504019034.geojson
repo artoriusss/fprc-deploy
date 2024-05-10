@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.058721272041, "Shape_Area": 9.6287954829800006e-05, "ADM4_EN": "Nahliadivka", "ADM4_UA": "Наглядівка", "ADM4_PCODE": "UA3504019034", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kompaniivska", "ADM3_UA": "Компаніївська", "ADM3_PCODE": "UA3504019", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.423464, 48.178548 ], [ 32.418225, 48.181179 ], [ 32.418154750000042, 48.176333250000027 ], [ 32.419767, 48.174146 ], [ 32.425463, 48.171798 ], [ 32.431104, 48.173929 ], [ 32.434184, 48.177532500000041 ], [ 32.423464, 48.178548 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13522907516800001, "Shape_Area": 0.00032259546552500002, "ADM4_EN": "Hnativka", "ADM4_UA": "Гнатівка", "ADM4_PCODE": "UA1210001009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hubynyska", "ADM3_UA": "Губиниська", "ADM3_PCODE": "UA1210001", "ADM2_EN": "Novomoskovskyi", "ADM2_UA": "Новомосковський", "ADM2_PCODE": "UA1210", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.487269001000072, 48.901722 ], [ 35.489097, 48.900257 ], [ 35.490602, 48.894835 ], [ 35.487559, 48.891866 ], [ 35.48539899900004, 48.893482 ], [ 35.476969, 48.893605 ], [ 35.476049, 48.892168 ], [ 35.46281, 48.886082 ], [ 35.471307001000071, 48.878853 ], [ 35.484656, 48.885248 ], [ 35.491541, 48.89063 ], [ 35.494044, 48.896285 ], [ 35.488373, 48.906358 ], [ 35.487302999000065, 48.909916 ], [ 35.483702999000059, 48.907561 ], [ 35.485487, 48.903552 ], [ 35.487269001000072, 48.901722 ] ] ] } }
-]
-}

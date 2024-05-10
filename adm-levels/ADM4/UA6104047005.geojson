@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.098377788173200004, "Shape_Area": 0.00035716367423600001, "ADM4_EN": "Derenivka", "ADM4_UA": "Деренівка", "ADM4_PCODE": "UA6104047005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Terebovlianska", "ADM3_UA": "Теребовлянська", "ADM3_PCODE": "UA6104047", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.731968, 49.21912 ], [ 25.746877999000048, 49.219428 ], [ 25.760721, 49.233134 ], [ 25.761625999000046, 49.240186 ], [ 25.749481, 49.239828 ], [ 25.748474, 49.234706 ], [ 25.744379, 49.234713 ], [ 25.7436, 49.231966 ], [ 25.736399, 49.225159 ], [ 25.725869, 49.225696 ], [ 25.726741999000069, 49.222915 ], [ 25.731968, 49.21912 ] ] ] } }
-]
-}

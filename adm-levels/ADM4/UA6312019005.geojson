@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.035015934679299997, "Shape_Area": 4.3182369755399998e-05, "ADM4_EN": "Pershotravneve", "ADM4_UA": "Першотравневе", "ADM4_PCODE": "UA6312019005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pivdennomiska", "ADM3_UA": "Південноміська", "ADM3_PCODE": "UA6312019", "ADM2_EN": "Kharkivskyi", "ADM2_UA": "Харківський", "ADM2_PCODE": "UA6312", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.095099001000051, 49.861559 ], [ 36.088287, 49.862153 ], [ 36.084745001000044, 49.858884 ], [ 36.087614, 49.855964 ], [ 36.092071, 49.858317 ], [ 36.095099001000051, 49.861559 ] ] ] } }
-]
-}

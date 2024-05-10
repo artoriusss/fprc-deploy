@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.15784479427199999, "Shape_Area": 0.00027896207455300001, "ADM4_EN": "Morozivske", "ADM4_UA": "Морозівське", "ADM4_PCODE": "UA1212003006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Verbkivska", "ADM3_UA": "Вербківська", "ADM3_PCODE": "UA1212003", "ADM2_EN": "Pavlohradskyi", "ADM2_UA": "Павлоградський", "ADM2_PCODE": "UA1212", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.933968, 48.655987 ], [ 35.932134, 48.656078 ], [ 35.918186, 48.646148 ], [ 35.91677, 48.647114 ], [ 35.911366, 48.644103 ], [ 35.898606999000037, 48.635595 ], [ 35.892569, 48.639643 ], [ 35.892149, 48.637148 ], [ 35.907103, 48.630438 ], [ 35.908340999000075, 48.633608 ], [ 35.918300001000034, 48.64069 ], [ 35.930186001000038, 48.635494 ], [ 35.923487, 48.642097 ], [ 35.929617, 48.653259 ], [ 35.936614001000066, 48.651288 ], [ 35.933968, 48.655987 ] ] ] } }
-]
-}

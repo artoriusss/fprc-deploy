@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.165689401332, "Shape_Area": 0.00028855412287700003, "ADM4_EN": "Poliana", "ADM4_UA": "Поляна", "ADM4_PCODE": "UA7304005009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Klishkovetska", "ADM3_UA": "Клішковецька", "ADM3_PCODE": "UA7304005", "ADM2_EN": "Dnistrovskyi", "ADM2_UA": "Дністровський", "ADM2_PCODE": "UA7304", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.238188, 48.499468 ], [ 26.231676, 48.499272 ], [ 26.230063, 48.495946 ], [ 26.224376, 48.493478 ], [ 26.225381, 48.488689 ], [ 26.230426, 48.48348 ], [ 26.235177, 48.483521 ], [ 26.23786, 48.480832 ], [ 26.242631001000063, 48.482513 ], [ 26.241840999000033, 48.484559 ], [ 26.247712, 48.486116 ], [ 26.248015, 48.489498 ], [ 26.243169, 48.488604 ], [ 26.240759, 48.491957 ], [ 26.246789, 48.496716 ], [ 26.238251999000056, 48.4974 ], [ 26.238188, 48.499468 ] ] ] } }
-]
-}

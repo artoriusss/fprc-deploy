@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.20702072453299999, "Shape_Area": 0.00023635163161, "ADM4_EN": "Mykhailivka", "ADM4_UA": "Михайлівка", "ADM4_PCODE": "UA6310007014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Oleksiivska", "ADM3_UA": "Олексіївська", "ADM3_PCODE": "UA6310007", "ADM2_EN": "Lozivskyi", "ADM2_UA": "Лозівський", "ADM2_PCODE": "UA6310", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.476762, 49.329938 ], [ 36.477704, 49.327837 ], [ 36.47081, 49.318068 ], [ 36.468714999000042, 49.318781 ], [ 36.461516, 49.310189 ], [ 36.464696, 49.310692 ], [ 36.472115, 49.308662 ], [ 36.473379, 49.313483 ], [ 36.476635999000052, 49.318389 ], [ 36.481915, 49.32147 ], [ 36.480139, 49.323422 ], [ 36.480975, 49.328347 ], [ 36.476762, 49.329938 ] ] ] } }
-]
-}

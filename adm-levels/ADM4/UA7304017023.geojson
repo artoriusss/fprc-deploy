@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11445671439000001, "Shape_Area": 0.00039726042601399998, "ADM4_EN": "Selyshche", "ADM4_UA": "Селище", "ADM4_PCODE": "UA7304017023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sokyrianska", "ADM3_UA": "Сокирянська", "ADM3_PCODE": "UA7304017", "ADM2_EN": "Dnistrovskyi", "ADM2_UA": "Дністровський", "ADM2_PCODE": "UA7304", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.074179, 48.5068 ], [ 27.070981, 48.50717 ], [ 27.071293001000072, 48.499818 ], [ 27.077368, 48.496078 ], [ 27.089159001000041, 48.4919 ], [ 27.095823999000061, 48.48803 ], [ 27.105038999000044, 48.492567 ], [ 27.103496, 48.500491 ], [ 27.094581, 48.503648 ], [ 27.087203, 48.507794001000036 ], [ 27.081758, 48.505859 ], [ 27.075381, 48.505575 ], [ 27.074179, 48.5068 ] ] ] } }
-]
-}

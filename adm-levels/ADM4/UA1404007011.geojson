@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0484880296128, "Shape_Area": 5.09185196751e-05, "ADM4_EN": "Novoocheretuvate", "ADM4_UA": "Новоочеретувате", "ADM4_PCODE": "UA1404007011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Komarska", "ADM3_UA": "Комарська", "ADM3_PCODE": "UA1404007", "ADM2_EN": "Volnovaskyi", "ADM2_UA": "Волноваський", "ADM2_PCODE": "UA1404", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.807645, 47.903674 ], [ 36.805411, 47.902857 ], [ 36.813266999000064, 47.894911 ], [ 36.81779, 47.897051 ], [ 36.81325600100007, 47.901307 ], [ 36.809682, 47.900725 ], [ 36.807645, 47.903674 ] ] ] } }
-]
-}

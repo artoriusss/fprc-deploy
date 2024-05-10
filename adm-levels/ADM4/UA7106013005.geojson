@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13115980396099999, "Shape_Area": 0.00032593580838699999, "ADM4_EN": "Ropotukha", "ADM4_UA": "Ропотуха", "ADM4_PCODE": "UA7106013005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ladyzhynska", "ADM3_UA": "Ладижинська", "ADM3_PCODE": "UA7106013", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.19141311900006, 48.635230429000046 ], [ 30.195938999000077, 48.630673 ], [ 30.197271, 48.623858 ], [ 30.200095999000041, 48.617988 ], [ 30.196993, 48.611388 ], [ 30.202293, 48.60715 ], [ 30.204131, 48.601951 ], [ 30.211879, 48.603237 ], [ 30.214997001000029, 48.606617 ], [ 30.214589001000036, 48.609776 ], [ 30.210846, 48.610336 ], [ 30.208455999000023, 48.619701 ], [ 30.201708, 48.630559 ], [ 30.194403247000025, 48.636562801000082 ], [ 30.19141311900006, 48.635230429000046 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073239606130300006, "Shape_Area": 0.00016874265272699999, "ADM4_EN": "Matviikha", "ADM4_UA": "Матвіїха", "ADM4_PCODE": "UA7106017020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Monastyryshchenska", "ADM3_UA": "Монастирищенська", "ADM3_PCODE": "UA7106017", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.895000001000028, 49.013242 ], [ 29.893099, 49.015191 ], [ 29.88777200100003, 49.013699 ], [ 29.890854999000055, 49.010043 ], [ 29.891744, 49.006418 ], [ 29.889395, 49.003619 ], [ 29.898276001000056, 48.992681 ], [ 29.900998, 48.993231 ], [ 29.897489, 48.999707 ], [ 29.901801, 49.003937 ], [ 29.901463001000025, 49.011499 ], [ 29.896808999000029, 49.011432 ], [ 29.895000001000028, 49.013242 ] ] ] } }
-]
-}

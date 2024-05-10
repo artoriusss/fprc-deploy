@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.115222351204, "Shape_Area": 0.00029353106638599997, "ADM4_EN": "Bezborodkove", "ADM4_UA": "Безбородькове", "ADM4_PCODE": "UA1202027005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Solonianska", "ADM3_UA": "Солонянська", "ADM3_PCODE": "UA1202027", "ADM2_EN": "Dniprovskyi", "ADM2_UA": "Дніпровський", "ADM2_PCODE": "UA1202", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.6501, 48.126838 ], [ 34.658327, 48.131466 ], [ 34.660237001000041, 48.131254 ], [ 34.666388, 48.135237 ], [ 34.679935001000047, 48.145683 ], [ 34.671687, 48.145592 ], [ 34.664455, 48.136983 ], [ 34.657018, 48.138633 ], [ 34.656261, 48.140807 ], [ 34.651535999000032, 48.141341 ], [ 34.651352, 48.138193 ], [ 34.636613, 48.134544 ], [ 34.635658999000043, 48.131632 ], [ 34.637693, 48.129421 ], [ 34.6501, 48.126838 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0512895343361, "Shape_Area": 0.000106983264336, "ADM4_EN": "Tertyshnyky", "ADM4_UA": "Тертишники", "ADM4_PCODE": "UA7404029019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nosivska", "ADM3_UA": "Носівська", "ADM3_PCODE": "UA7404029", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.683428321000065, 50.852738277000071 ], [ 31.683452040000077, 50.854316040000072 ], [ 31.689681120000046, 50.856799950000038 ], [ 31.688928001000079, 50.859876960000065 ], [ 31.685808960000031, 50.862618 ], [ 31.681124999000076, 50.862835980000057 ], [ 31.678108921000046, 50.865705 ], [ 31.674647880000066, 50.86435608000005 ], [ 31.675224960000037, 50.859561060000033 ], [ 31.682107081000026, 50.852227950000042 ], [ 31.683428321000065, 50.852738277000071 ] ] ] } }
-]
-}

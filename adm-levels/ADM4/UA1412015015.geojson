@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10980303011799999, "Shape_Area": 0.00020724489756300001, "ADM4_EN": "Stepanivka", "ADM4_UA": "Степанівка", "ADM4_PCODE": "UA1412015015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novodonetska", "ADM3_UA": "Новодонецька", "ADM3_PCODE": "UA1412015", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "Краматорський", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 37.021098001000041, 48.6164 ], [ 37.016347001000042, 48.617735 ], [ 37.006119, 48.618998 ], [ 37.002241, 48.616147 ], [ 37.005776, 48.614336 ], [ 37.016447, 48.611333 ], [ 37.023071, 48.603184 ], [ 37.026974, 48.60392 ], [ 37.025186999000027, 48.607599 ], [ 37.028267999000036, 48.61389 ], [ 37.025004, 48.616381 ], [ 37.021098001000041, 48.6164 ] ] ], [ [ [ 37.040385, 48.614088 ], [ 37.035734999000056, 48.612666 ], [ 37.038133999000024, 48.608855 ], [ 37.040385, 48.614088 ] ] ] ] } }
-]
-}

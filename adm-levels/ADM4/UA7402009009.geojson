@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.049063082023300002, "Shape_Area": 5.94086460022e-05, "ADM4_EN": "Kuchuhury", "ADM4_UA": "Кучугури", "ADM4_PCODE": "UA7402009009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kholmynska", "ADM3_UA": "Холминська", "ADM3_PCODE": "UA7402009", "ADM2_EN": "Koriukivskyi", "ADM2_UA": "Корюківський", "ADM2_PCODE": "UA7402", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.464089001000048, 51.857352650000053 ], [ 32.464632960000074, 51.85650897000005 ], [ 32.479984080000065, 51.857498970000051 ], [ 32.486127121000038, 51.857137981000051 ], [ 32.485545, 51.860174940000036 ], [ 32.478023160000077, 51.860259990000031 ], [ 32.46729335200007, 51.859515327000054 ], [ 32.464089001000048, 51.857352650000053 ] ] ] } }
-]
-}

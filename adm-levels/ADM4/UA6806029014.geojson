@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.078558347622700003, "Shape_Area": 0.00028880359421000002, "ADM4_EN": "Novychi", "ADM4_UA": "Новичі", "ADM4_PCODE": "UA6806029014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sudylkivska", "ADM3_UA": "Судилківська", "ADM3_PCODE": "UA6806029", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.305089, 50.138677 ], [ 27.283422, 50.138767 ], [ 27.282328, 50.128132 ], [ 27.286033, 50.129119 ], [ 27.302499, 50.123176 ], [ 27.305243, 50.129217 ], [ 27.309951, 50.135637 ], [ 27.305441, 50.136132 ], [ 27.305089, 50.138677 ] ] ] } }
-]
-}

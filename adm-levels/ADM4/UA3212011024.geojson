@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.047306424777599998, "Shape_Area": 7.4187919779300005e-05, "ADM4_EN": "Tatsenky", "ADM4_UA": "Таценки", "ADM4_PCODE": "UA3212011024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Obukhivska", "ADM3_UA": "Обухівська", "ADM3_PCODE": "UA3212011", "ADM2_EN": "Obukhivskyi", "ADM2_UA": "Обухівський", "ADM2_PCODE": "UA3212", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.678718601000071, 50.154316354000059 ], [ 30.67984156600005, 50.155956361000051 ], [ 30.676218604000042, 50.162284337000074 ], [ 30.676091540000073, 50.167362356000069 ], [ 30.670422577000068, 50.166969315000074 ], [ 30.67061555600003, 50.161331449000045 ], [ 30.678718601000071, 50.154316354000059 ] ] ] } }
-]
-}

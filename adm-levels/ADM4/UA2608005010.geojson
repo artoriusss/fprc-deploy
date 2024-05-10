@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.053839535101200001, "Shape_Area": 7.9093369066900003e-05, "ADM4_EN": "Kelykhiv", "ADM4_UA": "Келихів", "ADM4_PCODE": "UA2608005010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zabolotivska", "ADM3_UA": "Заболотівська", "ADM3_PCODE": "UA2608005", "ADM2_EN": "Kolomyiskyi", "ADM2_UA": "Коломийський", "ADM2_PCODE": "UA2608", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.333897342000057, 48.482460822000064 ], [ 25.334040110000046, 48.490336838000076 ], [ 25.333141856000054, 48.496077730000081 ], [ 25.32497436400007, 48.494976787000041 ], [ 25.325402667000048, 48.49138380100004 ], [ 25.328863665000029, 48.49183266700004 ], [ 25.327853511000058, 48.487338717000057 ], [ 25.330708865000076, 48.486672468000052 ], [ 25.33125614100004, 48.482746357000053 ], [ 25.333897342000057, 48.482460822000064 ] ] ] } }
-]
-}

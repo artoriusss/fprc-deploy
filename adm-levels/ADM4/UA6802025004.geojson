@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.092750549071600005, "Shape_Area": 0.00021367673735400001, "ADM4_EN": "Krynychany", "ADM4_UA": "Криничани", "ADM4_PCODE": "UA6802025004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Smotrytska", "ADM3_UA": "Смотрицька", "ADM3_PCODE": "UA6802025", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.605262, 48.97143 ], [ 26.601214, 48.972617 ], [ 26.599968999000055, 48.97074 ], [ 26.589084, 48.968226 ], [ 26.581694, 48.96474 ], [ 26.581483, 48.963509 ], [ 26.589556001000062, 48.961578 ], [ 26.592251, 48.962203 ], [ 26.603422, 48.957432 ], [ 26.606244, 48.958805 ], [ 26.603952, 48.962152 ], [ 26.609276, 48.969434 ], [ 26.605262, 48.97143 ] ] ] } }
-]
-}

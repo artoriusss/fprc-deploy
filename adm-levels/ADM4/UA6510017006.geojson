@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.047380142263199997, "Shape_Area": 9.57426702795e-05, "ADM4_EN": "Klapaia", "ADM4_UA": "Клапая", "ADM4_PCODE": "UA6510017006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chornobaivska", "ADM3_UA": "Чорнобаївська", "ADM3_PCODE": "UA6510017", "ADM2_EN": "Khersonskyi", "ADM2_UA": "Херсонський", "ADM2_PCODE": "UA6510", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.417787999000041, 46.714551 ], [ 32.419650999000055, 46.718242 ], [ 32.424823, 46.723163 ], [ 32.427322, 46.723554 ], [ 32.425492, 46.730514 ], [ 32.418069, 46.725046 ], [ 32.412562999000045, 46.716241 ], [ 32.417787999000041, 46.714551 ] ] ] } }
-]
-}

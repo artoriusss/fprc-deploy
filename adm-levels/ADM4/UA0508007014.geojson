@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12353251939, "Shape_Area": 0.00027164867103, "ADM4_EN": "Halaikivtsi", "ADM4_UA": "Галайківці", "ADM4_PCODE": "UA0508007014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Murovanokurylovetska", "ADM3_UA": "Мурованокуриловецька", "ADM3_PCODE": "UA0508007", "ADM2_EN": "Mohyliv-Podilskyi", "ADM2_UA": "Могилів-Подільський", "ADM2_PCODE": "UA0508", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.472401, 48.668879 ], [ 27.464725, 48.665827 ], [ 27.463126, 48.663658 ], [ 27.46253, 48.653082 ], [ 27.463216001000035, 48.647955 ], [ 27.464959, 48.645638 ], [ 27.471145, 48.642272 ], [ 27.474265, 48.64209 ], [ 27.477857, 48.64882 ], [ 27.473639001000038, 48.6516 ], [ 27.472423, 48.654479 ], [ 27.476528001000077, 48.662052 ], [ 27.469747, 48.665429 ], [ 27.472401, 48.668879 ] ] ] } }
-]
-}

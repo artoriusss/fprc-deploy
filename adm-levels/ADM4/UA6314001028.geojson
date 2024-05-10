@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10934790187600001, "Shape_Area": 0.00012420955205, "ADM4_EN": "Zakharivka", "ADM4_UA": "Захарівка", "ADM4_PCODE": "UA6314001028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vovchanska", "ADM3_UA": "Вовчанська", "ADM3_PCODE": "UA6314001", "ADM2_EN": "Chuhuivskyi", "ADM2_UA": "Чугуївський", "ADM2_PCODE": "UA6314", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.235434, 50.263163 ], [ 37.223794, 50.270139 ], [ 37.225066, 50.266644 ], [ 37.233433001000037, 50.261614 ], [ 37.234286, 50.259175 ], [ 37.246774, 50.248961 ], [ 37.248022, 50.250836 ], [ 37.242553, 50.257134 ], [ 37.238372999000035, 50.260587 ], [ 37.244933, 50.262659 ], [ 37.241861001000075, 50.268066 ], [ 37.23806, 50.269003 ], [ 37.24023800100008, 50.263641 ], [ 37.235434, 50.263163 ] ] ] } }
-]
-}

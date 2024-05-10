@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.056830578748499998, "Shape_Area": 6.0764479741700002e-05, "ADM4_EN": "Rodionivka", "ADM4_UA": "Родіонівка", "ADM4_PCODE": "UA5910011014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sveska", "ADM3_UA": "Свеська", "ADM3_PCODE": "UA5910011", "ADM2_EN": "Shostkynskyi", "ADM2_UA": "Шосткинський", "ADM2_PCODE": "UA5910", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.085290001000033, 52.002724 ], [ 34.084056, 51.997035 ], [ 34.085876001000031, 51.995334 ], [ 34.091915999000037, 51.995167 ], [ 34.088891999000055, 51.9999 ], [ 34.085290001000033, 52.002724 ] ] ] } }
-]
-}

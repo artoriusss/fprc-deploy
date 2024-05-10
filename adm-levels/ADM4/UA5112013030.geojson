@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0682976188303, "Shape_Area": 0.00014695535317399999, "ADM4_EN": "Petrivka", "ADM4_UA": "Петрівка", "ADM4_PCODE": "UA5112013030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Liubashivska", "ADM3_UA": "Любашівська", "ADM3_PCODE": "UA5112013", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.115862, 47.745029 ], [ 30.111541999000053, 47.748845 ], [ 30.105200999000033, 47.746052 ], [ 30.10678099900008, 47.741712 ], [ 30.111169, 47.735508 ], [ 30.116278001000069, 47.736403 ], [ 30.120294, 47.739083 ], [ 30.119959999000059, 47.741927 ], [ 30.115862, 47.745029 ] ] ] } }
-]
-}

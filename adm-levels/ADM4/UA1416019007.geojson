@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.118448832903, "Shape_Area": 9.2819290768099993e-05, "ADM4_EN": "Vasylivka", "ADM4_UA": "Василівка", "ADM4_PCODE": "UA1416019007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ocheretynska", "ADM3_UA": "Очеретинська", "ADM3_PCODE": "UA1416019", "ADM2_EN": "Pokrovskyi", "ADM2_UA": "Покровський", "ADM2_PCODE": "UA1416", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 37.857942998000055, 48.179096 ], [ 37.860806998000044, 48.178176 ], [ 37.865090999000074, 48.174371 ], [ 37.866222999000058, 48.174646 ], [ 37.860944, 48.179263 ], [ 37.857942998000055, 48.179096 ] ] ], [ [ [ 37.853624, 48.177797 ], [ 37.856837, 48.17173 ], [ 37.847954999000081, 48.170218 ], [ 37.848856999000077, 48.165898 ], [ 37.852230999000028, 48.168067 ], [ 37.858281999000042, 48.168839 ], [ 37.861642998000036, 48.171148 ], [ 37.853624, 48.177797 ] ] ] ] } }
-]
-}

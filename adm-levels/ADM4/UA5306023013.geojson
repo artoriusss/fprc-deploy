@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0957833653792, "Shape_Area": 0.00027197134973600001, "ADM4_EN": "Yerky", "ADM4_UA": "Єрки", "ADM4_PCODE": "UA5306023013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myrhorodska", "ADM3_UA": "Миргородська", "ADM3_PCODE": "UA5306023", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.532632, 49.927592 ], [ 33.535866, 49.93131 ], [ 33.533586, 49.932731 ], [ 33.527005001000077, 49.933334 ], [ 33.527082, 49.937688 ], [ 33.525193589000025, 49.939359463000073 ], [ 33.512842512000077, 49.930659910000031 ], [ 33.514607, 49.92712 ], [ 33.518734001000041, 49.922843 ], [ 33.524572001000024, 49.918848 ], [ 33.53027, 49.920257 ], [ 33.530334999000047, 49.925637 ], [ 33.532632, 49.927592 ] ] ] } }
-]
-}

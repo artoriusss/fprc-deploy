@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.116268330221, "Shape_Area": 0.00029610213693700001, "ADM4_EN": "Vatazhkove", "ADM4_UA": "Ватажкове", "ADM4_PCODE": "UA5308043004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tereshkivska", "ADM3_UA": "Терешківська", "ADM3_PCODE": "UA5308043", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.681877, 49.4997 ], [ 34.682825, 49.501432 ], [ 34.669409, 49.504625 ], [ 34.668694, 49.497274 ], [ 34.664504, 49.496951 ], [ 34.661692, 49.494429 ], [ 34.656664, 49.497517 ], [ 34.650437, 49.494294 ], [ 34.651179, 49.491183 ], [ 34.660144, 49.490454 ], [ 34.66455, 49.48915 ], [ 34.666622, 49.490374 ], [ 34.670302155000059, 49.486260456000082 ], [ 34.668922, 49.480928 ], [ 34.671626, 49.480753 ], [ 34.675034, 49.487973 ], [ 34.677103, 49.490179 ], [ 34.678384, 49.496838 ], [ 34.681877, 49.4997 ] ] ] } }
-]
-}

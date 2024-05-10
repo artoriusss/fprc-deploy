@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0452845947162, "Shape_Area": 3.7980031741100002e-05, "ADM4_EN": "Korchunok", "ADM4_UA": "Корчунок", "ADM4_PCODE": "UA4614003022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mostyska", "ADM3_UA": "Мостиська", "ADM3_PCODE": "UA4614003", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.199187495000047, 49.884090489000073 ], [ 23.200844468000071, 49.879485018000025 ], [ 23.196414470000036, 49.879224018000059 ], [ 23.193657472000041, 49.876374018000035 ], [ 23.207820465000054, 49.880710018000059 ], [ 23.199187495000047, 49.884090489000073 ] ] ] } }
-]
-}

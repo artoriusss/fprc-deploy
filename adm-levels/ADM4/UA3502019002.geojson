@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.045012569345299999, "Shape_Area": 5.8225686547000002e-05, "ADM4_EN": "Hruzianka", "ADM4_UA": "Грузянка", "ADM4_PCODE": "UA3502019002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pobuzka", "ADM3_UA": "Побузька", "ADM3_PCODE": "UA3502019", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "Голованівський", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.548115, 48.220738 ], [ 30.545144999000058, 48.221071 ], [ 30.545871, 48.210514 ], [ 30.548197195000057, 48.214139618000047 ], [ 30.551034876000074, 48.214285907000033 ], [ 30.552533, 48.220072 ], [ 30.548115, 48.220738 ] ] ] } }
-]
-}

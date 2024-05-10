@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.069172854537400005, "Shape_Area": 0.000161914851393, "ADM4_EN": "Lysyche", "ADM4_UA": "Лисиче", "ADM4_PCODE": "UA1408001044", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Amvrosiivska", "ADM3_UA": "Амвросіївська", "ADM3_PCODE": "UA1408001", "ADM2_EN": "Donetskyi", "ADM2_UA": "Донецький", "ADM2_PCODE": "UA1408", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.603489996000064, 47.733469 ], [ 38.607707997000034, 47.736336 ], [ 38.601590997000073, 47.738239 ], [ 38.593885997000029, 47.733225 ], [ 38.591136997000035, 47.732457 ], [ 38.587098997000055, 47.734332001000041 ], [ 38.579164997000078, 47.728875 ], [ 38.585494997000069, 47.72473 ], [ 38.588646997000069, 47.72409 ], [ 38.603489996000064, 47.733469 ] ] ] } }
-]
-}

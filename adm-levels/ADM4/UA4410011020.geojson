@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0661412121125, "Shape_Area": 9.2492237496399996e-05, "ADM4_EN": "Khomivka", "ADM4_UA": "Хомівка", "ADM4_PCODE": "UA4410011020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Svativska", "ADM3_UA": "Сватівська", "ADM3_PCODE": "UA4410011", "ADM2_EN": "Svativskyi", "ADM2_UA": "Сватівський", "ADM2_PCODE": "UA4410", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.152184, 49.510013 ], [ 38.146713, 49.509755 ], [ 38.142394634000027, 49.505667956000082 ], [ 38.143827, 49.501068 ], [ 38.148175, 49.499236 ], [ 38.1572, 49.49929 ], [ 38.155236, 49.504831 ], [ 38.146434999000064, 49.505957 ], [ 38.146488, 49.508092 ], [ 38.152184, 49.510013 ] ] ] } }
-]
-}

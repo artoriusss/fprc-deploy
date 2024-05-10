@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.042954997062800003, "Shape_Area": 9.57335784453e-05, "ADM4_EN": "Yasna Poliana", "ADM4_UA": "Ясна Поляна", "ADM4_PCODE": "UA7406003083", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novhorod-Siverska", "ADM3_UA": "Новгород-Сіверська", "ADM3_PCODE": "UA7406003", "ADM2_EN": "Novhorod-Siverskyi", "ADM2_UA": "Новгород-Сіверський", "ADM2_PCODE": "UA7406", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.149088001000052, 52.315839990000029 ], [ 33.15677904100005, 52.319313990000069 ], [ 33.15226608100005, 52.324875990000066 ], [ 33.139469160000033, 52.320825 ], [ 33.144868080000037, 52.314565950000031 ], [ 33.149088001000052, 52.315839990000029 ] ] ] } }
-]
-}

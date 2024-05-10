@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0918151124766, "Shape_Area": 0.000147871002976, "ADM4_EN": "Romanivka", "ADM4_UA": "Романівка", "ADM4_PCODE": "UA1214009013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zaitsivska", "ADM3_UA": "Зайцівська", "ADM3_PCODE": "UA1214009", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.593055, 48.426214 ], [ 35.593408, 48.436288 ], [ 35.58545, 48.435786 ], [ 35.585321, 48.431562 ], [ 35.587977, 48.426854 ], [ 35.595011, 48.421113 ], [ 35.590359, 48.417096 ], [ 35.590365001000066, 48.410725 ], [ 35.59459799900003, 48.414191 ], [ 35.601362, 48.416101 ], [ 35.597279001000061, 48.422298 ], [ 35.593055, 48.426214 ] ] ] } }
-]
-}

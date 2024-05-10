@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.080097323037600004, "Shape_Area": 0.00031511541209899998, "ADM4_EN": "Petrivka-Popivka", "ADM4_UA": "Петрівка-Попівка", "ADM4_PCODE": "UA7102019010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lysianska", "ADM3_UA": "Лисянська", "ADM3_PCODE": "UA7102019", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.615985, 49.322536 ], [ 30.6046, 49.328055 ], [ 30.602261001000045, 49.326701 ], [ 30.599811, 49.321901 ], [ 30.584972, 49.32024 ], [ 30.584605, 49.315468 ], [ 30.60114, 49.308966 ], [ 30.611666, 49.315933 ], [ 30.615985, 49.322536 ] ] ] } }
-]
-}

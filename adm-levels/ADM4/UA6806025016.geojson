@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.146784072337, "Shape_Area": 0.0003218330392, "ADM4_EN": "Sokhuzhyntsi", "ADM4_UA": "Сохужинці", "ADM4_PCODE": "UA6806025016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sakhnovetska", "ADM3_UA": "Сахновецька", "ADM3_PCODE": "UA6806025", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.736305, 49.953958 ], [ 26.738705, 49.961096 ], [ 26.731857, 49.963148 ], [ 26.712911, 49.966925 ], [ 26.712414999000032, 49.963262 ], [ 26.718431999000074, 49.962148 ], [ 26.719245, 49.959029 ], [ 26.715574, 49.952014 ], [ 26.718886, 49.949795 ], [ 26.728289, 49.950148 ], [ 26.73059500100004, 49.948909 ], [ 26.736666999000079, 49.948527 ], [ 26.736305, 49.953958 ] ] ] } }
-]
-}

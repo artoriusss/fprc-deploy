@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.095175960772700005, "Shape_Area": 0.00037502297181000001, "ADM4_EN": "Poliakhova", "ADM4_UA": "Поляхова", "ADM4_PCODE": "UA6804045044", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Teofipolska", "ADM3_UA": "Теофіпольська", "ADM3_PCODE": "UA6804045", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.588203, 49.902671 ], [ 26.591409, 49.906585 ], [ 26.572999001000028, 49.911252 ], [ 26.571064, 49.910274 ], [ 26.560167, 49.909186 ], [ 26.556906, 49.906387 ], [ 26.558369, 49.901609 ], [ 26.562734001000024, 49.900625 ], [ 26.571403001000078, 49.895228 ], [ 26.582093001000032, 49.894702 ], [ 26.582865, 49.900011 ], [ 26.586931, 49.898893 ], [ 26.588203, 49.902671 ] ] ] } }
-]
-}

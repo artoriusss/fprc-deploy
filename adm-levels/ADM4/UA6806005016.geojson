@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.098551256714000002, "Shape_Area": 0.00013624395834500001, "ADM4_EN": "Shaternyky", "ADM4_UA": "Шатерники", "ADM4_PCODE": "UA6806005016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hannopilska", "ADM3_UA": "Ганнопільська", "ADM3_PCODE": "UA6806005", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.929431, 50.469505 ], [ 26.924841, 50.470289 ], [ 26.916460403000031, 50.469770269000037 ], [ 26.916613, 50.467332 ], [ 26.927591, 50.466815 ], [ 26.931315, 50.463113 ], [ 26.935374, 50.463101 ], [ 26.935486, 50.46718 ], [ 26.943907, 50.466243 ], [ 26.944892, 50.4652 ], [ 26.956205, 50.465121 ], [ 26.956247, 50.468067 ], [ 26.95232, 50.468703 ], [ 26.945293, 50.467275 ], [ 26.934079, 50.469706 ], [ 26.929431, 50.469505 ] ] ] } }
-]
-}

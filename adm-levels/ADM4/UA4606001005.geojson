@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.055780360559300003, "Shape_Area": 5.8438044047200002e-05, "ADM4_EN": "Blahodativka", "ADM4_UA": "Благодатівка", "ADM4_PCODE": "UA4606001005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bibrska", "ADM3_UA": "Бібрська", "ADM3_PCODE": "UA4606001", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.284922165000069, 49.615456006000045 ], [ 24.282189164000044, 49.612452006000069 ], [ 24.284294164000073, 49.604600006000055 ], [ 24.287337163000075, 49.604408006000028 ], [ 24.284922165000069, 49.615456006000045 ] ] ] } }
-]
-}

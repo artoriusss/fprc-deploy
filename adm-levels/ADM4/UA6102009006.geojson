@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.131761878113, "Shape_Area": 0.00020067024342, "ADM4_EN": "Velyka Bilka", "ADM4_UA": "Велика Білка", "ADM4_PCODE": "UA6102009006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lanovetska", "ADM3_UA": "Лановецька", "ADM3_PCODE": "UA6102009", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.967523999000036, 49.807395 ], [ 25.95677968900003, 49.804694224000059 ], [ 25.955317778000051, 49.803452974000038 ], [ 25.958154886000045, 49.79862369600005 ], [ 25.963959247000048, 49.79941100800005 ], [ 25.970730943000035, 49.802210823000053 ], [ 25.976267001000053, 49.802024 ], [ 25.98263600100006, 49.803771 ], [ 25.982359643000052, 49.807191479000039 ], [ 25.978576001000079, 49.807915 ], [ 25.975879, 49.806162 ], [ 25.969660999000041, 49.807445 ], [ 25.967523999000036, 49.807395 ] ] ] } }
-]
-}

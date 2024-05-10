@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.064066289692200004, "Shape_Area": 0.00011222985223900001, "ADM4_EN": "Bubelnia", "ADM4_UA": "Бубельня", "ADM4_PCODE": "UA7106017006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Monastyryshchenska", "ADM3_UA": "Монастирищенська", "ADM3_PCODE": "UA7106017", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.669513073000076, 49.035142485000051 ], [ 29.660542, 49.035839 ], [ 29.658958303000077, 49.03854698300006 ], [ 29.651101605000065, 49.032097713000041 ], [ 29.655842999000072, 49.028299 ], [ 29.658928199000059, 49.027754630000061 ], [ 29.664806315000078, 49.031431693000059 ], [ 29.667984598000032, 49.032270224000058 ], [ 29.669513073000076, 49.035142485000051 ] ] ] } }
-]
-}

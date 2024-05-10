@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.075850878297499993, "Shape_Area": 0.00011571883192900001, "ADM4_EN": "Nemyrivka", "ADM4_UA": "Немирівка", "ADM4_PCODE": "UA5604029015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Radyvylivska", "ADM3_UA": "Радивилівська", "ADM3_PCODE": "UA5604029", "ADM2_EN": "Dubenskyi", "ADM2_UA": "Дубенський", "ADM2_PCODE": "UA5604", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.296896880000077, 50.100276960000031 ], [ 25.29433295900003, 50.100849990000029 ], [ 25.272709560000067, 50.102243730000055 ], [ 25.272046080000052, 50.100276060000056 ], [ 25.277009040000053, 50.094545940000046 ], [ 25.282397160000073, 50.094628020000073 ], [ 25.281753841000068, 50.097788010000045 ], [ 25.296192001000065, 50.097368971000037 ], [ 25.296972120000078, 50.098381020000033 ], [ 25.296896880000077, 50.100276960000031 ] ] ] } }
-]
-}

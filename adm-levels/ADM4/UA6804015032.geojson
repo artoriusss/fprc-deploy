@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.089852365887800004, "Shape_Area": 0.000151895348959, "ADM4_EN": "Chereshenka", "ADM4_UA": "Черешенька", "ADM4_PCODE": "UA6804015032", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Derazhnianska", "ADM3_UA": "Деражнянська", "ADM3_PCODE": "UA6804015", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.49393199900004, 49.309664 ], [ 27.484914, 49.310074 ], [ 27.480936001000032, 49.303715 ], [ 27.481463, 49.300756 ], [ 27.485567, 49.300367 ], [ 27.484322001000066, 49.296606 ], [ 27.488622, 49.296327 ], [ 27.48911799900003, 49.298885 ], [ 27.494643999000061, 49.302364 ], [ 27.496682001000067, 49.309994 ], [ 27.49393199900004, 49.309664 ] ] ] } }
-]
-}

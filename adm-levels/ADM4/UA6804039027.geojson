@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.098349088513999997, "Shape_Area": 0.000169215114155, "ADM4_EN": "Irshyky", "ADM4_UA": "Іршики", "ADM4_PCODE": "UA6804039027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starokostiantynivska", "ADM3_UA": "Старокостянтинівська", "ADM3_PCODE": "UA6804039", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.412327001000051, 49.838107 ], [ 27.40630599900004, 49.840971 ], [ 27.399538, 49.837463 ], [ 27.396644, 49.84056 ], [ 27.389769, 49.839642 ], [ 27.389629, 49.836801 ], [ 27.383736, 49.835222 ], [ 27.383521001000076, 49.832654 ], [ 27.390297, 49.832841 ], [ 27.39094699900005, 49.828949 ], [ 27.399321, 49.830041 ], [ 27.399089, 49.834482 ], [ 27.412327001000051, 49.838107 ] ] ] } }
-]
-}

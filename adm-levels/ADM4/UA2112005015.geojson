@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.056462484870899998, "Shape_Area": 6.7716581145400005e-05, "ADM4_EN": "Topolyn", "ADM4_UA": "Тополин", "ADM4_PCODE": "UA2112005015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horinchivska", "ADM3_UA": "Горінчівська", "ADM3_PCODE": "UA2112005", "ADM2_EN": "Khustskyi", "ADM2_UA": "Хустський", "ADM2_PCODE": "UA2112", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.401714361000074, 48.329795015000059 ], [ 23.402582360000054, 48.327781015000028 ], [ 23.407201359000055, 48.32610201500006 ], [ 23.404217283000037, 48.317957232000026 ], [ 23.408999358000074, 48.316119015000027 ], [ 23.409066358000075, 48.322030015000053 ], [ 23.412660358000039, 48.324782015000039 ], [ 23.408565358000033, 48.327637014000061 ], [ 23.401714361000074, 48.329795015000059 ] ] ] } }
-]
-}

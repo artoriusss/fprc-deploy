@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.16104945196100001, "Shape_Area": 0.00021104955795700001, "ADM4_EN": "Rizunenkove", "ADM4_UA": "Різуненкове", "ADM4_PCODE": "UA6302007028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kolomatska", "ADM3_UA": "Коломацька", "ADM3_PCODE": "UA6302007", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "Богодухівський", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.258871, 49.795082 ], [ 35.264984, 49.800728 ], [ 35.258696, 49.80271 ], [ 35.256940001000032, 49.796687 ], [ 35.252746, 49.793795 ], [ 35.248347, 49.793815 ], [ 35.242561999000031, 49.792112 ], [ 35.239008, 49.78606 ], [ 35.242121, 49.782159 ], [ 35.248434, 49.787713 ], [ 35.252323999000055, 49.789324 ], [ 35.257462, 49.788801 ], [ 35.263544, 49.792806 ], [ 35.26253, 49.796479 ], [ 35.258871, 49.795082 ] ] ] } }
-]
-}

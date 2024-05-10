@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.071380227157900003, "Shape_Area": 0.00016099883569400001, "ADM4_EN": "Hrynky", "ADM4_UA": "Гриньки", "ADM4_PCODE": "UA1808001010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Baranivska", "ADM3_UA": "Баранівська", "ADM3_PCODE": "UA1808001", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.530534696000075, 50.250587630000041 ], [ 27.528749451000067, 50.253065817000049 ], [ 27.516586008000047, 50.254452834000062 ], [ 27.516258566000033, 50.241116518000069 ], [ 27.518268652000074, 50.240453731000059 ], [ 27.526173981000056, 50.242090666000081 ], [ 27.526319915000045, 50.245496656000057 ], [ 27.530913615000031, 50.24541501200008 ], [ 27.530534696000075, 50.250587630000041 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.046282164833400002, "Shape_Area": 5.4647307131599999e-05, "ADM4_EN": "Vilkhova", "ADM4_UA": "Вільхова", "ADM4_PCODE": "UA1806015012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Narodytska", "ADM3_UA": "Народицька", "ADM3_PCODE": "UA1806015", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.373213260000057, 51.363977780000027 ], [ 29.364149239000028, 51.354900842000063 ], [ 29.372947232000058, 51.354547811000032 ], [ 29.371910312000068, 51.358887850000031 ], [ 29.374984238000025, 51.36058481200007 ], [ 29.373213260000057, 51.363977780000027 ] ] ] } }
-]
-}

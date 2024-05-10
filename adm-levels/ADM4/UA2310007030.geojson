@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.050130120525400002, "Shape_Area": 0.000121980050886, "ADM4_EN": "Charivne", "ADM4_UA": "Чарівне", "ADM4_PCODE": "UA2310007030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Huliaipilska", "ADM3_UA": "Гуляйпільська", "ADM3_PCODE": "UA2310007", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.041345215000035, 47.586505825000074 ], [ 36.030604464000078, 47.587303804000044 ], [ 36.032916829000044, 47.58498368000005 ], [ 36.030379652000079, 47.580586339000035 ], [ 36.032462987000031, 47.579574057000059 ], [ 36.032842328000072, 47.574109842000041 ], [ 36.039697636000028, 47.574287130000073 ], [ 36.042285258000049, 47.576539986000057 ], [ 36.041345215000035, 47.586505825000074 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.028479752466899998, "Shape_Area": 3.7349140912500002e-05, "ADM4_EN": "Fedorivka", "ADM4_UA": "Федорівка", "ADM4_PCODE": "UA5112015049", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Oknianska", "ADM3_UA": "Окнянська", "ADM3_PCODE": "UA5112015", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.631490001000031, 47.601785 ], [ 29.630399001000058, 47.605334 ], [ 29.626692999000056, 47.604267 ], [ 29.628659, 47.596197 ], [ 29.63285, 47.59657 ], [ 29.631490001000031, 47.601785 ] ] ] } }
-]
-}

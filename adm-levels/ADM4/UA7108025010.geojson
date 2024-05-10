@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.089153518720099995, "Shape_Area": 0.000175419663091, "ADM4_EN": "Yarove", "ADM4_UA": "Ярове", "ADM4_PCODE": "UA7108025010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykhailivska", "ADM3_UA": "Михайлівська", "ADM3_PCODE": "UA7108025", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.967765103000033, 49.063678939000056 ], [ 31.97763000100008, 49.060667 ], [ 31.981869, 49.06265 ], [ 31.988692, 49.063942 ], [ 31.993648, 49.062135 ], [ 32.000479001000031, 49.063871 ], [ 31.986822, 49.071479 ], [ 31.98102, 49.073024 ], [ 31.977538, 49.071538 ], [ 31.984794, 49.067951 ], [ 31.980197, 49.066576 ], [ 31.972912, 49.066107 ], [ 31.967765103000033, 49.063678939000056 ] ] ] } }
-]
-}

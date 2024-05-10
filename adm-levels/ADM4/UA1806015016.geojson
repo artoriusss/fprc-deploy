@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0271386282245, "Shape_Area": 3.3269843969099999e-05, "ADM4_EN": "Hrezlia", "ADM4_UA": "Грезля", "ADM4_PCODE": "UA1806015016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Narodytska", "ADM3_UA": "Народицька", "ADM3_PCODE": "UA1806015", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.279354040000044, 51.332793030000062 ], [ 29.272160880000058, 51.334406010000066 ], [ 29.268138960000044, 51.330799980000052 ], [ 29.277151921000041, 51.330771990000073 ], [ 29.279354040000044, 51.332793030000062 ] ] ] } }
-]
-}

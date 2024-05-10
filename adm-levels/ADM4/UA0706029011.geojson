@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.050488260312200002, "Shape_Area": 6.8619650430600006e-05, "ADM4_EN": "Shkurat", "ADM4_UA": "Шкурат", "ADM4_PCODE": "UA0706029011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Povorska", "ADM3_UA": "Поворська", "ADM3_PCODE": "UA0706029", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.056174078000026, 51.201578002000076 ], [ 25.052511080000045, 51.201316003000045 ], [ 25.050709079000057, 51.196201001000077 ], [ 25.04611507900006, 51.193214002000047 ], [ 25.048264080000024, 51.188764003000074 ], [ 25.051196079000078, 51.190438003000054 ], [ 25.057119078000028, 51.191347002000043 ], [ 25.055220079000037, 51.197126003000051 ], [ 25.056174078000026, 51.201578002000076 ] ] ] } }
-]
-}

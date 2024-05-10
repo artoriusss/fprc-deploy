@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.079799440917699999, "Shape_Area": 8.50516024087e-05, "ADM4_EN": "Zavialivka", "ADM4_UA": "Зав'ялівка", "ADM4_PCODE": "UA1206011011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Devladivska", "ADM3_UA": "Девладівська", "ADM3_PCODE": "UA1206011", "ADM2_EN": "Kryvorizkyi", "ADM2_UA": "Криворізький", "ADM2_PCODE": "UA1206", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.653582999000037, 48.230246 ], [ 33.655318, 48.22588 ], [ 33.660018999000044, 48.222165 ], [ 33.661785, 48.225834 ], [ 33.656337, 48.229642 ], [ 33.653582999000037, 48.230246 ] ] ] } }
-]
-}

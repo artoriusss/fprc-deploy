@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.148237137416, "Shape_Area": 0.000158153327236, "ADM4_EN": "Iverske", "ADM4_UA": "Іверське", "ADM4_PCODE": "UA1412015003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novodonetska", "ADM3_UA": "Новодонецька", "ADM3_PCODE": "UA1412015", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "Краматорський", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.958829, 48.637651 ], [ 36.957059018000052, 48.640818942000067 ], [ 36.950793, 48.645423 ], [ 36.948342999000033, 48.64097 ], [ 36.953182, 48.634067 ], [ 36.958772999000075, 48.634078 ], [ 36.971023, 48.629862 ], [ 36.97016, 48.625658 ], [ 36.976996, 48.622827 ], [ 36.979076001000067, 48.625704 ], [ 36.973659, 48.629688 ], [ 36.958829, 48.637651 ] ] ] } }
-]
-}

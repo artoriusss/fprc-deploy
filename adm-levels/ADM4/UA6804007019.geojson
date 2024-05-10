@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.104726675755, "Shape_Area": 0.00013960419727500001, "ADM4_EN": "Stepivka", "ADM4_UA": "Степівка", "ADM4_PCODE": "UA6804007019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vovkovynetska", "ADM3_UA": "Вовковинецька", "ADM3_PCODE": "UA6804007", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.850699, 49.247917 ], [ 27.849545, 49.245524 ], [ 27.84317, 49.244069 ], [ 27.840777999000068, 49.24667 ], [ 27.83573399900007, 49.245773 ], [ 27.841753999000048, 49.239175 ], [ 27.844183001000033, 49.242608 ], [ 27.850756999000055, 49.24417 ], [ 27.852777, 49.239056 ], [ 27.858809, 49.241087 ], [ 27.871555188000059, 49.243810103000044 ], [ 27.871968817000038, 49.247721066000054 ], [ 27.858834001000048, 49.243828 ], [ 27.850699, 49.247917 ] ] ] } }
-]
-}

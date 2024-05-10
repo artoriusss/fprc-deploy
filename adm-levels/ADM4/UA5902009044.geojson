@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.21014419020299999, "Shape_Area": 0.00028219396032300002, "ADM4_EN": "Mutyn", "ADM4_UA": "Мутин", "ADM4_PCODE": "UA5902009044", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krolevetska", "ADM3_UA": "Кролевецька", "ADM3_PCODE": "UA5902009", "ADM2_EN": "Konotopskyi", "ADM2_UA": "Конотопський", "ADM2_PCODE": "UA5902", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.473281999000051, 51.429741 ], [ 33.471243, 51.42517 ], [ 33.464319, 51.427816 ], [ 33.460975, 51.42535 ], [ 33.469254001000024, 51.422543 ], [ 33.481304001000069, 51.421215 ], [ 33.480385001000059, 51.416144 ], [ 33.486304, 51.419103 ], [ 33.498521999000047, 51.419605 ], [ 33.499774999000067, 51.421589 ], [ 33.492235, 51.425834 ], [ 33.489982001000044, 51.424215 ], [ 33.486237, 51.428884 ], [ 33.478705, 51.426705 ], [ 33.473281999000051, 51.429741 ] ] ] } }
-]
-}

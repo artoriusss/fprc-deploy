@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.061905892191300001, "Shape_Area": 0.000160373892505, "ADM4_EN": "Yosypivka", "ADM4_UA": "Йосипівка", "ADM4_PCODE": "UA1804005011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Brusylivska", "ADM3_UA": "Брусилівська", "ADM3_PCODE": "UA1804005", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.50753317300007, 50.37998474300008 ], [ 29.517227148000075, 50.38930776400008 ], [ 29.516366062000031, 50.391347801000052 ], [ 29.509808145000079, 50.395656798000061 ], [ 29.506624173000034, 50.393336771000065 ], [ 29.498386137000068, 50.391557774000034 ], [ 29.502054066000028, 50.386160773000029 ], [ 29.506591073000038, 50.38396877100007 ], [ 29.50753317300007, 50.37998474300008 ] ] ] } }
-]
-}

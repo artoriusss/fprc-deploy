@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13074182869600001, "Shape_Area": 0.00021555558186100001, "ADM4_EN": "Neseno-Irzhavets", "ADM4_UA": "Несено-Іржавець", "ADM4_PCODE": "UA5304005020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoorzhytska", "ADM3_UA": "Новооржицька", "ADM3_PCODE": "UA5304005", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.69997199900007, 49.95974 ], [ 32.695997, 49.966915 ], [ 32.693067, 49.966738 ], [ 32.695332, 49.958866 ], [ 32.686420001000045, 49.957541 ], [ 32.688655, 49.954743 ], [ 32.678799, 49.952435 ], [ 32.688884, 49.951224 ], [ 32.691983999000058, 49.952938 ], [ 32.695024, 49.949153 ], [ 32.699048, 49.952953 ], [ 32.703062, 49.951154 ], [ 32.709425999000075, 49.944803 ], [ 32.711858, 49.945994 ], [ 32.707431, 49.951492 ], [ 32.706008, 49.955817 ], [ 32.69997199900007, 49.95974 ] ] ] } }
-]
-}

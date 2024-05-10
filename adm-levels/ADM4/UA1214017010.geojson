@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.054560763181799997, "Shape_Area": 9.4044347523999998e-05, "ADM4_EN": "Marina Roshcha", "ADM4_UA": "Мар'їна Роща", "ADM4_PCODE": "UA1214017010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykolaivska", "ADM3_UA": "Миколаївська", "ADM3_PCODE": "UA1214017", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.219780999000079, 48.41516 ], [ 36.217170999000075, 48.415568 ], [ 36.210772, 48.419673 ], [ 36.203521999000031, 48.42591 ], [ 36.202113, 48.420246 ], [ 36.205957, 48.416147 ], [ 36.209688, 48.413869 ], [ 36.220446, 48.412065 ], [ 36.219780999000079, 48.41516 ] ] ] } }
-]
-}

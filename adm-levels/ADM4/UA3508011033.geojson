@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.084024786532800003, "Shape_Area": 0.000148917020708, "ADM4_EN": "Riadove", "ADM4_UA": "Рядове", "ADM4_PCODE": "UA3508011033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Petrivska", "ADM3_UA": "Петрівська", "ADM3_PCODE": "UA3508011", "ADM2_EN": "Oleksandriiskyi", "ADM2_UA": "Олександрійський", "ADM2_PCODE": "UA3508", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.525732792000042, 48.223792698000068 ], [ 33.527828204000059, 48.222182844000031 ], [ 33.53898543300005, 48.227679 ], [ 33.536005378000027, 48.23045821200003 ], [ 33.545505240000068, 48.235589902000072 ], [ 33.544438122000031, 48.238624394000055 ], [ 33.53679, 48.235178 ], [ 33.532973473000027, 48.235111267000036 ], [ 33.524550889000068, 48.22930811100008 ], [ 33.525732792000042, 48.223792698000068 ] ] ] } }
-]
-}

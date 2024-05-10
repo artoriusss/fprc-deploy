@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.067334909501999995, "Shape_Area": 6.4597008377500006e-05, "ADM4_EN": "Krechiv", "ADM4_UA": "Кречів", "ADM4_PCODE": "UA0702009005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lytovezka", "ADM3_UA": "Литовезька", "ADM3_PCODE": "UA0702009", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.08832521000005, 50.684043007000071 ], [ 24.086842209000054, 50.680073007000033 ], [ 24.093009210000048, 50.67973200800003 ], [ 24.095175210000036, 50.682383007000055 ], [ 24.08832521000005, 50.684043007000071 ] ] ] } }
-]
-}

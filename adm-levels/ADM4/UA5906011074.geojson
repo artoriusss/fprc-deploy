@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11189753276599999, "Shape_Area": 0.000113275669691, "ADM4_EN": "Bilovodske", "ADM4_UA": "Біловодське", "ADM4_PCODE": "UA5906011074", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Romenska", "ADM3_UA": "Роменська", "ADM3_PCODE": "UA5906011", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.493960059000074, 50.656999358000064 ], [ 33.492059999000048, 50.658902 ], [ 33.483799001000079, 50.656335 ], [ 33.481703, 50.652272 ], [ 33.47382, 50.648848 ], [ 33.47305, 50.650064 ], [ 33.465422, 50.645788 ], [ 33.470353, 50.644295 ], [ 33.483388, 50.651899 ], [ 33.486890001000063, 50.652951 ], [ 33.493960059000074, 50.656999358000064 ] ] ] } }
-]
-}

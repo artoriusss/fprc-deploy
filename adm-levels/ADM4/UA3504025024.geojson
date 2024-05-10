@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.078161568979400006, "Shape_Area": 0.00028548418774599997, "ADM4_EN": "Liubomyrka", "ADM4_UA": "Любомирка", "ADM4_PCODE": "UA3504025024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Oleksandrivska", "ADM3_UA": "Олександрівська", "ADM3_PCODE": "UA3504025", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.446236, 49.036773 ], [ 32.446350001000042, 49.041624 ], [ 32.438666, 49.042352 ], [ 32.436265, 49.034445 ], [ 32.434102, 49.031421 ], [ 32.433213, 49.024568 ], [ 32.437528, 49.019937 ], [ 32.445563, 49.019665 ], [ 32.449986, 49.02093 ], [ 32.451375, 49.026645 ], [ 32.449741, 49.032944 ], [ 32.447289, 49.032449 ], [ 32.446236, 49.036773 ] ] ] } }
-]
-}

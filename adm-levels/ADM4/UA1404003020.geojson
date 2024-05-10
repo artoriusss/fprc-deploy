@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.098575710257900004, "Shape_Area": 0.00037134809373800002, "ADM4_EN": "Svobodne", "ADM4_UA": "Свободне", "ADM4_PCODE": "UA1404003020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Volnovaska", "ADM3_UA": "Волноваська", "ADM3_PCODE": "UA1404003", "ADM2_EN": "Volnovaskyi", "ADM2_UA": "Волноваський", "ADM2_PCODE": "UA1404", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.58033, 47.537023 ], [ 37.578590001000066, 47.53849 ], [ 37.567507999000043, 47.536825 ], [ 37.558098998000048, 47.534751 ], [ 37.545162001000051, 47.532876 ], [ 37.542219, 47.529361 ], [ 37.544903999000041, 47.526208 ], [ 37.549774999000078, 47.52417 ], [ 37.556281, 47.524205 ], [ 37.568947999000045, 47.526753 ], [ 37.58220299900006, 47.526445 ], [ 37.581513, 47.534793 ], [ 37.58033, 47.537023 ] ] ] } }
-]
-}

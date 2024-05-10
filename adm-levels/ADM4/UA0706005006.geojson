@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057810267115900003, "Shape_Area": 7.3318536845900001e-05, "ADM4_EN": "Hlynianka", "ADM4_UA": "Глинянка", "ADM4_PCODE": "UA0706005006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vyshnivska", "ADM3_UA": "Вишнівська", "ADM3_PCODE": "UA0706005", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.203789191000055, 51.138839006000069 ], [ 24.191033195000045, 51.136316006000072 ], [ 24.19373719400005, 51.132811006000054 ], [ 24.200866191000046, 51.133908007000059 ], [ 24.206262190000075, 51.136527006000051 ], [ 24.203789191000055, 51.138839006000069 ] ] ] } }
-]
-}

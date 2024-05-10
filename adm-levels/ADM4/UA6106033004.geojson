@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.050601197194899999, "Shape_Area": 0.000104808687558, "ADM4_EN": "Kapustyntsi", "ADM4_UA": "Капустинці", "ADM4_PCODE": "UA6106033004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nahirianska", "ADM3_UA": "Нагірянська", "ADM3_PCODE": "UA6106033", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.820668135000062, 48.875093202000073 ], [ 25.818120359000034, 48.877250727000046 ], [ 25.814052, 48.874528001000044 ], [ 25.817285, 48.869503 ], [ 25.827164034000077, 48.864451082000073 ], [ 25.830299129000025, 48.869436848000078 ], [ 25.824954016000049, 48.871907240000041 ], [ 25.820668135000062, 48.875093202000073 ] ] ] } }
-]
-}

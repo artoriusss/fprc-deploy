@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.070435827542300003, "Shape_Area": 0.00025904483173700001, "ADM4_EN": "Koshary", "ADM4_UA": "Кошари", "ADM4_PCODE": "UA5114013025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozdilnianska", "ADM3_UA": "Роздільнянська", "ADM3_PCODE": "UA5114013", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.173317999000062, 46.964138 ], [ 30.173675, 46.966727 ], [ 30.171565, 46.974872 ], [ 30.157718, 46.972989 ], [ 30.15996, 46.963801 ], [ 30.156374, 46.963452 ], [ 30.157482, 46.956627 ], [ 30.165189, 46.95756 ], [ 30.169119, 46.956792 ], [ 30.174939, 46.957424 ], [ 30.173317999000062, 46.964138 ] ] ] } }
-]
-}

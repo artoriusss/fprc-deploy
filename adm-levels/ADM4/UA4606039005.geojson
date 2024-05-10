@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.047026125403600003, "Shape_Area": 0.000114989259195, "ADM4_EN": "Velyki Dolyny", "ADM4_UA": "Великі Долини", "ADM4_PCODE": "UA4606039005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rava-Ruska", "ADM3_UA": "Рава-Руська", "ADM3_PCODE": "UA4606039", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.520071354000038, 50.192999013000076 ], [ 23.518275355000071, 50.199964013000056 ], [ 23.50716336000005, 50.202339013000028 ], [ 23.504866359000061, 50.193776013000047 ], [ 23.520071354000038, 50.192999013000076 ] ] ] } }
-]
-}

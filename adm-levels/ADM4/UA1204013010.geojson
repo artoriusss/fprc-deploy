@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.072531039183700005, "Shape_Area": 0.00012901707720599999, "ADM4_EN": "Lozuvatske", "ADM4_UA": "Лозуватське", "ADM4_PCODE": "UA1204013010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zatyshnianska", "ADM3_UA": "Затишнянська", "ADM3_PCODE": "UA1204013", "ADM2_EN": "Kamianskyi", "ADM2_UA": "Кам’янський", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.361228, 48.292398 ], [ 34.33845, 48.290376 ], [ 34.335654489000035, 48.285888964000037 ], [ 34.335316, 48.280933 ], [ 34.343704, 48.280957 ], [ 34.343736, 48.286323 ], [ 34.350286001000029, 48.288152 ], [ 34.362622001000034, 48.28971 ], [ 34.361228, 48.292398 ] ] ] } }
-]
-}

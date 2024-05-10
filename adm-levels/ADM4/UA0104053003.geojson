@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.071621684027000004, "Shape_Area": 0.00014027744736100001, "ADM4_EN": "Korinne", "ADM4_UA": "Корінне", "ADM4_PCODE": "UA0104053003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novohryhorivska", "ADM3_UA": "Новогригорівська", "ADM3_PCODE": "UA0104053", "ADM2_EN": "Bilohirskyi", "ADM2_UA": "Білогірський", "ADM2_PCODE": "UA0104", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.544456812000078, 45.444119015000069 ], [ 34.535912692000068, 45.438693700000044 ], [ 34.530197233000024, 45.433828293000033 ], [ 34.532410270000071, 45.428814369000065 ], [ 34.542175726000039, 45.435231169000076 ], [ 34.550656632000027, 45.440000509000072 ], [ 34.548034676000043, 45.442872127000044 ], [ 34.544456812000078, 45.444119015000069 ] ] ] } }
-]
-}

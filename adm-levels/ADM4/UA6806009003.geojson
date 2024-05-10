@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.063476012005399998, "Shape_Area": 0.000101620781546, "ADM4_EN": "Bilyzhyntsi", "ADM4_UA": "Білижинці", "ADM4_PCODE": "UA6806009003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Iziaslavska", "ADM3_UA": "Ізяславська", "ADM3_PCODE": "UA6806009", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.628891554000063, 50.067196238000065 ], [ 26.62533428200004, 50.065929759000028 ], [ 26.61320500100004, 50.064418 ], [ 26.61043999900005, 50.059872 ], [ 26.61801100100007, 50.062056 ], [ 26.619920999000044, 50.060536 ], [ 26.631147999000063, 50.060633 ], [ 26.631016, 50.064379 ], [ 26.628891554000063, 50.067196238000065 ] ] ] } }
-]
-}

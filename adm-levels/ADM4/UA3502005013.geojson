@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11487405146, "Shape_Area": 0.00019653296582099999, "ADM4_EN": "Solhutove", "ADM4_UA": "Солгутове", "ADM4_PCODE": "UA3502005013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Haivoronska", "ADM3_UA": "Гайворонська", "ADM3_PCODE": "UA3502005", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "Голованівський", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.850325663000035, 48.33171304900003 ], [ 29.836653, 48.33122 ], [ 29.822409, 48.329284 ], [ 29.826626, 48.327479 ], [ 29.838297999000076, 48.327488 ], [ 29.846966001000055, 48.325647 ], [ 29.853606, 48.325351 ], [ 29.853937, 48.32304300100003 ], [ 29.860543, 48.322016 ], [ 29.865905, 48.322631 ], [ 29.869749001000059, 48.326596 ], [ 29.861185947000024, 48.325619706000055 ], [ 29.858052821000058, 48.326410210000063 ], [ 29.850325663000035, 48.33171304900003 ] ] ] } }
-]
-}

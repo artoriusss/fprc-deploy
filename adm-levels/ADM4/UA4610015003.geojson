@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.072781286759800001, "Shape_Area": 0.00026445983444699998, "ADM4_EN": "Berezdivtsi", "ADM4_UA": "Берездівці", "ADM4_PCODE": "UA4610015003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novorozdilska", "ADM3_UA": "Новороздільська", "ADM3_PCODE": "UA4610015", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.164320184000076, 49.464292006000051 ], [ 24.149043185000039, 49.464488006000067 ], [ 24.146038187000045, 49.462958213000036 ], [ 24.141264187000047, 49.456702007000047 ], [ 24.138065187000052, 49.45579600700006 ], [ 24.137735189000068, 49.449588007000045 ], [ 24.143282188000057, 49.448210007000057 ], [ 24.145754, 49.449302 ], [ 24.152958185000045, 49.44977700700008 ], [ 24.160021185000062, 49.457452007000029 ], [ 24.164320184000076, 49.464292006000051 ] ] ] } }
-]
-}

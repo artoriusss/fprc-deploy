@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073200560776900001, "Shape_Area": 0.00012301986266299999, "ADM4_EN": "Rokytne-Donivka", "ADM4_UA": "Рокитне-Донівка", "ADM4_PCODE": "UA5302019021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pishchanska", "ADM3_UA": "Піщанська", "ADM3_PCODE": "UA5302019", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.299733973000059, 49.204083965000052 ], [ 33.291554, 49.204391 ], [ 33.289096, 49.206095 ], [ 33.282509, 49.207588 ], [ 33.273341, 49.207513 ], [ 33.272049, 49.203838 ], [ 33.286924, 49.20199 ], [ 33.287174, 49.200384 ], [ 33.302994001000059, 49.20188 ], [ 33.299733973000059, 49.204083965000052 ] ] ] } }
-]
-}

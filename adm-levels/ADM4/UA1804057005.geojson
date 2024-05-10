@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0897020250834, "Shape_Area": 9.5325694155700002e-05, "ADM4_EN": "Volianshchyna", "ADM4_UA": "Волянщина", "ADM4_PCODE": "UA1804057005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khoroshivska", "ADM3_UA": "Хорошівська", "ADM3_PCODE": "UA1804057", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.47158496000003, 50.63278401000008 ], [ 28.469006465000064, 50.628719635000039 ], [ 28.476419444000044, 50.627924955000026 ], [ 28.472977161000074, 50.624993459000052 ], [ 28.477914120000037, 50.621919030000072 ], [ 28.487832839000077, 50.629526010000063 ], [ 28.48025487600006, 50.631716835000077 ], [ 28.47704112100007, 50.630239980000056 ], [ 28.47158496000003, 50.63278401000008 ] ] ] } }
-]
-}

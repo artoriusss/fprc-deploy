@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060059457099199999, "Shape_Area": 7.5263778764500004e-05, "ADM4_EN": "Dolyna", "ADM4_UA": "Долина", "ADM4_PCODE": "UA6106033002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nahirianska", "ADM3_UA": "Нагірянська", "ADM3_PCODE": "UA6106033", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.724696031000065, 48.944547386000067 ], [ 25.716262999000037, 48.945308 ], [ 25.718474, 48.939881 ], [ 25.711283382000033, 48.938112734000072 ], [ 25.715704, 48.937401 ], [ 25.717862999000033, 48.938895 ], [ 25.727036, 48.939716001000079 ], [ 25.73468667800006, 48.942462996000074 ], [ 25.733268, 48.944268001000069 ], [ 25.725128, 48.942797 ], [ 25.724696031000065, 48.944547386000067 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.094047823361799995, "Shape_Area": 0.00018959088615200001, "ADM4_EN": "Hvardiiske", "ADM4_UA": "Гвардійське", "ADM4_PCODE": "UA1210013002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Cherkaska", "ADM3_UA": "Черкаська", "ADM3_PCODE": "UA1210013", "ADM2_EN": "Novomoskovskyi", "ADM2_UA": "Новомосковський", "ADM2_PCODE": "UA1210", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.334769964000031, 48.742854331000046 ], [ 35.314517742000078, 48.742483417000074 ], [ 35.309992678000071, 48.736848425000062 ], [ 35.305860420000045, 48.733444387000077 ], [ 35.308394675000045, 48.728912766000064 ], [ 35.312399777000053, 48.729140443000063 ], [ 35.316922444000056, 48.732507289000068 ], [ 35.314317991000053, 48.736333996000042 ], [ 35.331590878000043, 48.736579224000081 ], [ 35.335085334000041, 48.738756782000053 ], [ 35.334769964000031, 48.742854331000046 ] ] ] } }
-]
-}

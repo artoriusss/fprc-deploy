@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.052731685671500002, "Shape_Area": 8.4380107322099994e-05, "ADM4_EN": "Krynychne", "ADM4_UA": "Криничне", "ADM4_PCODE": "UA4402005030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kadiivska", "ADM3_UA": "Кадіївська", "ADM3_PCODE": "UA4402005", "ADM2_EN": "Alchevskyi", "ADM2_UA": "Алчевський", "ADM2_PCODE": "UA4402", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.719146909000074, 48.603604704000077 ], [ 38.722747, 48.607774 ], [ 38.719105102000071, 48.608712885000045 ], [ 38.715260068000077, 48.607228450000036 ], [ 38.710761880000064, 48.600091839000072 ], [ 38.712077028000067, 48.596385575000056 ], [ 38.716605979000065, 48.597615505000078 ], [ 38.720227, 48.601997 ], [ 38.719146909000074, 48.603604704000077 ] ] ] } }
-]
-}

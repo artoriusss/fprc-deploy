@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11967771496, "Shape_Area": 0.00025791051860299998, "ADM4_EN": "Sobkivka", "ADM4_UA": "Собківка", "ADM4_PCODE": "UA7106007008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dmytrushkivska", "ADM3_UA": "Дмитрушківська", "ADM3_PCODE": "UA7106007", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.260945001000039, 48.691964 ], [ 30.259854, 48.690029 ], [ 30.252585, 48.689322 ], [ 30.24844, 48.686067 ], [ 30.248428, 48.683323 ], [ 30.25257, 48.68188 ], [ 30.259703, 48.681667 ], [ 30.264628001000062, 48.679722 ], [ 30.267547, 48.682201 ], [ 30.280306, 48.682554 ], [ 30.279033999000035, 48.687319 ], [ 30.286009, 48.690619 ], [ 30.281385, 48.691859 ], [ 30.275783001000036, 48.687512 ], [ 30.267969, 48.688099 ], [ 30.260945001000039, 48.691964 ] ] ] } }
-]
-}

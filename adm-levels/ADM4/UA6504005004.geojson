@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.065849859793399995, "Shape_Area": 0.00021134519207400001, "ADM4_EN": "Bratske", "ADM4_UA": "Братське", "ADM4_PCODE": "UA6504005004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nyzhnosirohozka", "ADM3_UA": "Нижньосірогозька", "ADM3_PCODE": "UA6504005", "ADM2_EN": "Henicheskyi", "ADM2_UA": "Генічеський", "ADM2_PCODE": "UA6504", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.155424, 46.803233 ], [ 34.151367999000058, 46.803202 ], [ 34.151064999000027, 46.799724 ], [ 34.137988, 46.800062 ], [ 34.138015999000061, 46.784874 ], [ 34.145563, 46.783687 ], [ 34.155287, 46.79953 ], [ 34.155424, 46.803233 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.078556368906500001, "Shape_Area": 7.0345416659099995e-05, "ADM4_EN": "Ahronomichne", "ADM4_UA": "Агрономічне", "ADM4_PCODE": "UA1408005003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ilovaiska", "ADM3_UA": "Іловайська", "ADM3_PCODE": "UA1408005", "ADM2_EN": "Donetskyi", "ADM2_UA": "Донецький", "ADM2_PCODE": "UA1408", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 38.171007999000039, 47.865927 ], [ 38.168575998000051, 47.865888 ], [ 38.167831998000054, 47.856602 ], [ 38.170194998000056, 47.85653 ], [ 38.171007999000039, 47.865927 ] ] ], [ [ [ 38.193942998000068, 47.861225 ], [ 38.192767999000068, 47.859119 ], [ 38.177324999000064, 47.858085 ], [ 38.177415998000072, 47.856364 ], [ 38.201378998000052, 47.857983 ], [ 38.195650999000065, 47.859284 ], [ 38.193942998000068, 47.861225 ] ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0715132661985, "Shape_Area": 9.4075295657900001e-05, "ADM4_EN": "Veselivka", "ADM4_UA": "Веселівка", "ADM4_PCODE": "UA5908029004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khotinska", "ADM3_UA": "Хотінська", "ADM3_PCODE": "UA5908029", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.93458, 51.204042 ], [ 34.938692001000049, 51.205111 ], [ 34.938702999000043, 51.208995 ], [ 34.930548, 51.203849 ], [ 34.931271999000046, 51.199861 ], [ 34.940734, 51.192684 ], [ 34.942011001000026, 51.196212 ], [ 34.937562, 51.199839 ], [ 34.93458, 51.204042 ] ] ] } }
-]
-}

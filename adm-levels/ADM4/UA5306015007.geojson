@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.061975081059900003, "Shape_Area": 8.6979662619199996e-05, "ADM4_EN": "Verkhnia Budakivka", "ADM4_UA": "Верхня Будаківка", "ADM4_PCODE": "UA5306015007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Komyshnianska", "ADM3_UA": "Комишнянська", "ADM3_PCODE": "UA5306015", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.616792, 50.275064 ], [ 33.613671001000057, 50.274927 ], [ 33.612941, 50.269801 ], [ 33.608396999000036, 50.270137 ], [ 33.608114, 50.273843 ], [ 33.604082519000031, 50.273439944000074 ], [ 33.606018719000076, 50.265206684000077 ], [ 33.61786, 50.265891 ], [ 33.616792, 50.275064 ] ] ] } }
-]
-}

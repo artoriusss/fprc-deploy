@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0523549489452, "Shape_Area": 6.6411247716499994e-05, "ADM4_EN": "Hrabivtsi", "ADM4_UA": "Грабівці", "ADM4_PCODE": "UA6106005007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Borshchivska", "ADM3_UA": "Борщівська", "ADM3_PCODE": "UA6106005", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.035122780000052, 48.903853595000044 ], [ 26.032155295000052, 48.903675098000065 ], [ 26.030771667000067, 48.900099003000037 ], [ 26.040986427000064, 48.899009561000071 ], [ 26.046038624000062, 48.894491537000079 ], [ 26.047763, 48.900649999000052 ], [ 26.043345056000078, 48.900314887000036 ], [ 26.035122780000052, 48.903853595000044 ] ] ] } }
-]
-}

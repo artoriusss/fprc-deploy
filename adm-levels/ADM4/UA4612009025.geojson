@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.044884753518499999, "Shape_Area": 8.4310123350400001e-05, "ADM4_EN": "Ordiv", "ADM4_UA": "Ордів", "ADM4_PCODE": "UA4612009025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Radekhivska", "ADM3_UA": "Радехівська", "ADM3_PCODE": "UA4612009", "ADM2_EN": "Chervonohradskyi", "ADM2_UA": "Червоноградський", "ADM2_PCODE": "UA4612", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.52263913400003, 50.367614005000064 ], [ 24.524259135000023, 50.371713004000071 ], [ 24.517693135000059, 50.374165005000066 ], [ 24.515728135000074, 50.379382004000036 ], [ 24.509498136000047, 50.380054005000034 ], [ 24.510272135000037, 50.374250004000032 ], [ 24.52263913400003, 50.367614005000064 ] ] ] } }
-]
-}

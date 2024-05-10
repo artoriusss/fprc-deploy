@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14069217554, "Shape_Area": 0.000177506714937, "ADM4_EN": "Zapadyntsi", "ADM4_UA": "Западинці", "ADM4_PCODE": "UA5306019018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lokhvytska", "ADM3_UA": "Лохвицька", "ADM3_PCODE": "UA5306019", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.205534, 50.363956 ], [ 33.201091, 50.363644 ], [ 33.199352001000079, 50.361262 ], [ 33.193833, 50.363542 ], [ 33.18938208700007, 50.363855920000049 ], [ 33.191137999000034, 50.359903 ], [ 33.200427399000034, 50.360899052000036 ], [ 33.20523200100007, 50.358252 ], [ 33.203887, 50.352942 ], [ 33.211844, 50.35146 ], [ 33.215561999000045, 50.352646 ], [ 33.218487, 50.351219 ], [ 33.222175, 50.354515 ], [ 33.2131, 50.361043 ], [ 33.205534, 50.363956 ] ] ] } }
-]
-}

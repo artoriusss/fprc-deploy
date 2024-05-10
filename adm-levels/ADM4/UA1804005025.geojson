@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.118941551933, "Shape_Area": 0.00010418000535100001, "ADM4_EN": "Pokryshiv", "ADM4_UA": "Покришів", "ADM4_PCODE": "UA1804005025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Brusylivska", "ADM3_UA": "Брусилівська", "ADM3_PCODE": "UA1804005", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.416602, 50.244628001000081 ], [ 29.417835960000048, 50.246136 ], [ 29.417272920000073, 50.251995 ], [ 29.414352960000031, 50.251193010000065 ], [ 29.415999961000068, 50.243859990000033 ], [ 29.404036080000026, 50.242337010000028 ], [ 29.39856695900005, 50.236568010000042 ], [ 29.401058160000048, 50.235381990000064 ], [ 29.40620688000007, 50.240958030000058 ], [ 29.414453040000069, 50.241823020000027 ], [ 29.416602, 50.244628001000081 ] ] ] } }
-]
-}

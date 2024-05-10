@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.082809967499099996, "Shape_Area": 0.0001199151773, "ADM4_EN": "Bishche", "ADM4_UA": "Біще", "ADM4_PCODE": "UA6104003003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezhanska", "ADM3_UA": "Бережанська", "ADM3_PCODE": "UA6104003", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.887258117000044, 49.551763781000034 ], [ 24.890847, 49.550362 ], [ 24.893665, 49.546508 ], [ 24.903882, 49.538822 ], [ 24.903287001000024, 49.547688 ], [ 24.898813254000061, 49.549991347000059 ], [ 24.898531006000042, 49.55359624700003 ], [ 24.894056512000077, 49.554278225000076 ], [ 24.887258117000044, 49.551763781000034 ] ] ] } }
-]
-}

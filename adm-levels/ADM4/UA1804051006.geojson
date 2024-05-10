@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.049255905175800002, "Shape_Area": 0.00013739180167300001, "ADM4_EN": "Kashperivka", "ADM4_UA": "Кашперівка", "ADM4_PCODE": "UA1804051006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starosiletska", "ADM3_UA": "Старосілецька", "ADM3_PCODE": "UA1804051", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.96706916100004, 50.431224960000065 ], [ 28.964682, 50.439059010000051 ], [ 28.957034879000048, 50.440075020000052 ], [ 28.952957160000039, 50.43871998000003 ], [ 28.950770160000047, 50.430814020000071 ], [ 28.956390841000029, 50.429405970000062 ], [ 28.957485961000032, 50.430687030000058 ], [ 28.965350160000071, 50.429017980000026 ], [ 28.96706916100004, 50.431224960000065 ] ] ] } }
-]
-}

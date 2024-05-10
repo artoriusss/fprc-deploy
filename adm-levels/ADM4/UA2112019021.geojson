@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11810240747, "Shape_Area": 7.79438669064e-05, "ADM4_EN": "Titkivtsi", "ADM4_UA": "Тітківці", "ADM4_PCODE": "UA2112019021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mizhhirska", "ADM3_UA": "Міжгірська", "ADM3_PCODE": "UA2112019", "ADM2_EN": "Khustskyi", "ADM2_UA": "Хустський", "ADM2_PCODE": "UA2112", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.569048313000053, 48.703951012000061 ], [ 23.569748314000037, 48.70108001300008 ], [ 23.575439312000071, 48.701037013000075 ], [ 23.573850313000037, 48.697348013000067 ], [ 23.576038311000048, 48.696044013000062 ], [ 23.57987931200006, 48.697339012000043 ], [ 23.578769312000077, 48.702770013000077 ], [ 23.569048313000053, 48.703951012000061 ] ] ] } }
-]
-}

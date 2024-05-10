@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.110651776321, "Shape_Area": 0.000295661154532, "ADM4_EN": "Serbynivtsi", "ADM4_UA": "Сербинівці", "ADM4_PCODE": "UA0506011009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Severynivska", "ADM3_UA": "Северинівська", "ADM3_PCODE": "UA0506011", "ADM2_EN": "Zhmerynskyi", "ADM2_UA": "Жмеринський", "ADM2_PCODE": "UA0506", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.933307, 49.095322 ], [ 27.92845599900005, 49.099413 ], [ 27.922066, 49.09844 ], [ 27.918128999000032, 49.092836 ], [ 27.907741, 49.095975 ], [ 27.899030001000028, 49.096326 ], [ 27.912393, 49.089331 ], [ 27.919445001000042, 49.086186 ], [ 27.921731, 49.083573 ], [ 27.931434999000032, 49.083535 ], [ 27.933835, 49.089355 ], [ 27.939685999000062, 49.089518 ], [ 27.938883999000041, 49.09267 ], [ 27.932984, 49.092919 ], [ 27.933307, 49.095322 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.061458169036099998, "Shape_Area": 9.9605707817399994e-05, "ADM4_EN": "Prutivka", "ADM4_UA": "Прутівка", "ADM4_PCODE": "UA1804047032", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Romanivska", "ADM3_UA": "Романівська", "ADM3_PCODE": "UA1804047", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.040339880000033, 50.321123010000065 ], [ 28.037525040000048, 50.321134980000068 ], [ 28.03575887900007, 50.316491970000072 ], [ 28.036599840000065, 50.312855970000044 ], [ 28.040870160000054, 50.31122004000008 ], [ 28.046307960000036, 50.311766340000077 ], [ 28.048794120000025, 50.313663990000066 ], [ 28.048341959000027, 50.317083990000071 ], [ 28.040339880000033, 50.321123010000065 ] ] ] } }
-]
-}

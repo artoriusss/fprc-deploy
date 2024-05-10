@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.031809398078199998, "Shape_Area": 5.7831912309200003e-05, "ADM4_EN": "Vasky", "ADM4_UA": "Васьки", "ADM4_PCODE": "UA5308035006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Opishnianska", "ADM3_UA": "Опішнянська", "ADM3_PCODE": "UA5308035", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.695212, 49.906895 ], [ 34.698677639000039, 49.908397925000031 ], [ 34.694993556000043, 49.913796800000057 ], [ 34.687271, 49.914507 ], [ 34.687855, 49.91053 ], [ 34.691926, 49.906934 ], [ 34.695212, 49.906895 ] ] ] } }
-]
-}

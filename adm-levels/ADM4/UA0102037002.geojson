@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.055089391935200002, "Shape_Area": 7.7669563381000005e-05, "ADM4_EN": "Zavitne", "ADM4_UA": "Завітне", "ADM4_PCODE": "UA0102037002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Poshtivska", "ADM3_UA": "Поштівська", "ADM3_PCODE": "UA0102037", "ADM2_EN": "Bakhchysaraiskyi", "ADM2_UA": "Бахчисарайський", "ADM2_PCODE": "UA0102", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.90705990500004, 44.843239477000054 ], [ 33.908222539000064, 44.838604109000073 ], [ 33.903217076000033, 44.835015975000033 ], [ 33.905606148000061, 44.833169791000046 ], [ 33.912873086000047, 44.834094784000058 ], [ 33.914409440000043, 44.83819479400006 ], [ 33.90705990500004, 44.843239477000054 ] ] ] } }
-]
-}

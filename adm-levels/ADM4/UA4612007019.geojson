@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.042776418304099999, "Shape_Area": 5.4372015461399997e-05, "ADM4_EN": "Romanivka", "ADM4_UA": "Романівка", "ADM4_PCODE": "UA4612007019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lopatynska", "ADM3_UA": "Лопатинська", "ADM3_PCODE": "UA4612007", "ADM2_EN": "Chervonohradskyi", "ADM2_UA": "Червоноградський", "ADM2_PCODE": "UA4612", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.034134077000033, 50.284474003000071 ], [ 25.031312076000063, 50.284814002000076 ], [ 25.029012078000051, 50.281693002000054 ], [ 25.020734079000079, 50.282924002000073 ], [ 25.025205457000027, 50.27746637000007 ], [ 25.032708076000063, 50.277032002000055 ], [ 25.031341078000025, 50.281344002000026 ], [ 25.034134077000033, 50.284474003000071 ] ] ] } }
-]
-}

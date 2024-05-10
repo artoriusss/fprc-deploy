@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.101326069669, "Shape_Area": 0.000188348331807, "ADM4_EN": "Petrashi", "ADM4_UA": "Петраші", "ADM4_PCODE": "UA7302017007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ust-Putylska", "ADM3_UA": "Усть-Путильська", "ADM3_PCODE": "UA7302017", "ADM2_EN": "Vyzhnytskyi", "ADM2_UA": "Вижницький", "ADM2_PCODE": "UA7302", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.07397300100007, 48.147152 ], [ 25.071686, 48.152298 ], [ 25.068921, 48.151034 ], [ 25.073047999000039, 48.147092999000051 ], [ 25.072904, 48.143497 ], [ 25.06892, 48.138706 ], [ 25.070576999000025, 48.130701 ], [ 25.074649, 48.12965 ], [ 25.080974, 48.131333 ], [ 25.082904, 48.137635 ], [ 25.082295, 48.142101 ], [ 25.077683001000025, 48.140233 ], [ 25.075688999000079, 48.146862 ], [ 25.07397300100007, 48.147152 ] ] ] } }
-]
-}

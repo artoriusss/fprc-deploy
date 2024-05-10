@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.037574562442799997, "Shape_Area": 7.4116033203200002e-05, "ADM4_EN": "Halynivka", "ADM4_UA": "Галинівка", "ADM4_PCODE": "UA1804057007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khoroshivska", "ADM3_UA": "Хорошівська", "ADM3_PCODE": "UA1804057", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.668408804000023, 50.592982379000034 ], [ 28.660576082000034, 50.595289754000078 ], [ 28.655430670000044, 50.589214652000067 ], [ 28.666850713000031, 50.586979197000062 ], [ 28.670045192000032, 50.592009552000036 ], [ 28.668408804000023, 50.592982379000034 ] ] ] } }
-]
-}

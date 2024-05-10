@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060831334886200003, "Shape_Area": 9.3933732400799998e-05, "ADM4_EN": "Hurynivka", "ADM4_UA": "Гуринівка", "ADM4_PCODE": "UA7402001014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Koriukivska", "ADM3_UA": "Корюківська", "ADM3_PCODE": "UA7402001", "ADM2_EN": "Koriukivskyi", "ADM2_UA": "Корюківський", "ADM2_PCODE": "UA7402", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.293871882000076, 51.749976752000066 ], [ 32.288669460000051, 51.748773727000071 ], [ 32.288254920000043, 51.746186070000078 ], [ 32.295915, 51.742805040000064 ], [ 32.299902, 51.739061040000081 ], [ 32.303287800000078, 51.73878897000003 ], [ 32.302042609000068, 51.747201412000038 ], [ 32.298541920000048, 51.749972010000079 ], [ 32.293871882000076, 51.749976752000066 ] ] ] } }
-]
-}

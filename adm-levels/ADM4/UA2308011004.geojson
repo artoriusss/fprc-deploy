@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.069921254914599995, "Shape_Area": 0.000108178642956, "ADM4_EN": "Kyrpychne", "ADM4_UA": "Кирпичне", "ADM4_PCODE": "UA2308011004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novenska", "ADM3_UA": "Новенська", "ADM3_PCODE": "UA2308011", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "Мелітопольський", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.209558523000055, 46.754986423000048 ], [ 35.203408628000034, 46.751114905000065 ], [ 35.198982687000068, 46.743641500000081 ], [ 35.198658812000076, 46.740521085000069 ], [ 35.203115235000041, 46.737398704000043 ], [ 35.209558523000055, 46.754986423000048 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073123153629000001, "Shape_Area": 0.0001332756161, "ADM4_EN": "Ruzhycheve", "ADM4_UA": "Ружичеве", "ADM4_PCODE": "UA3504025041", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Oleksandrivska", "ADM3_UA": "Олександрівська", "ADM3_PCODE": "UA3504025", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.557772, 48.961121 ], [ 32.548893001000067, 48.96314 ], [ 32.549390001000063, 48.959886 ], [ 32.547639, 48.955582 ], [ 32.546242218000032, 48.947358696000038 ], [ 32.551247, 48.946291 ], [ 32.55113699900005, 48.952175 ], [ 32.553412, 48.952405 ], [ 32.553912, 48.947476 ], [ 32.55696, 48.949068 ], [ 32.555915999000035, 48.953612 ], [ 32.558342, 48.958925 ], [ 32.557772, 48.961121 ] ] ] } }
-]
-}

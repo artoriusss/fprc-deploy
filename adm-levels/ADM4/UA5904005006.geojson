@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12099536664299999, "Shape_Area": 0.00014913186641300001, "ADM4_EN": "Hnylytsia", "ADM4_UA": "Гнилиця", "ADM4_PCODE": "UA5904005006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hrunska", "ADM3_UA": "Грунська", "ADM3_PCODE": "UA5904005", "ADM2_EN": "Okhtyrskyi", "ADM2_UA": "Охтирський", "ADM2_PCODE": "UA5904", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.674264, 50.30632 ], [ 34.671015999000076, 50.308341 ], [ 34.668968001000053, 50.306086 ], [ 34.669929, 50.301054 ], [ 34.673981001000072, 50.297369 ], [ 34.675337, 50.291251 ], [ 34.668440001000079, 50.29125 ], [ 34.668345999000053, 50.288329 ], [ 34.67468, 50.287841 ], [ 34.679056999000068, 50.289967 ], [ 34.680704999000056, 50.295478 ], [ 34.675655001000052, 50.299364 ], [ 34.674264, 50.30632 ] ] ] } }
-]
-}

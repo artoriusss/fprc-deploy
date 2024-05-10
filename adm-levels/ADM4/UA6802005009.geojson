@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.128997381913, "Shape_Area": 0.00029584829591399999, "ADM4_EN": "Hirchychna", "ADM4_UA": "Гірчична", "ADM4_PCODE": "UA6802005009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dunaievetska", "ADM3_UA": "Дунаєвецька", "ADM3_PCODE": "UA6802005", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.954241, 48.915884 ], [ 26.952236001000074, 48.917756 ], [ 26.93491, 48.91493 ], [ 26.928934001000073, 48.913572 ], [ 26.922995, 48.913466 ], [ 26.920516, 48.910934 ], [ 26.928382, 48.906889 ], [ 26.933955, 48.905034 ], [ 26.940670999000076, 48.904117 ], [ 26.950688999000079, 48.900541 ], [ 26.955208001000074, 48.900906 ], [ 26.946807, 48.908192 ], [ 26.941998, 48.909394 ], [ 26.944269, 48.912556 ], [ 26.951141, 48.911689 ], [ 26.954241, 48.915884 ] ] ] } }
-]
-}

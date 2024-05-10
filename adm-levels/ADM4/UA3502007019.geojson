@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.095560917916300003, "Shape_Area": 0.00024665323952000002, "ADM4_EN": "Nalyvaika", "ADM4_UA": "Наливайка", "ADM4_PCODE": "UA3502007019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Holovanivska", "ADM3_UA": "Голованівська", "ADM3_PCODE": "UA3502007", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "Голованівський", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.562297, 48.403926 ], [ 30.559842, 48.408458 ], [ 30.555990999000073, 48.408513 ], [ 30.552561, 48.399179 ], [ 30.552174, 48.393003 ], [ 30.55793, 48.38979 ], [ 30.565578999000024, 48.391375 ], [ 30.569996, 48.389703 ], [ 30.571241, 48.392251 ], [ 30.567948, 48.396595 ], [ 30.564833, 48.40325 ], [ 30.562297, 48.403926 ] ] ] } }
-]
-}

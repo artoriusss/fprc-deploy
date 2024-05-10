@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.07178657158, "Shape_Area": 9.4703485722300005e-05, "ADM4_EN": "Panske", "ADM4_UA": "Панське", "ADM4_PCODE": "UA5308013042", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kobeliatska", "ADM3_UA": "Кобеляцька", "ADM3_PCODE": "UA5308013", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.204186698000058, 49.035334047000049 ], [ 34.196239480000031, 49.031133530000034 ], [ 34.192299972000058, 49.029906564000044 ], [ 34.18548000100003, 49.031076 ], [ 34.184067001000074, 49.027435 ], [ 34.191289937000079, 49.027895287000035 ], [ 34.192068064000068, 49.026652163000051 ], [ 34.203309338000054, 49.029488251000032 ], [ 34.207341, 49.034749 ], [ 34.204186698000058, 49.035334047000049 ] ] ] } }
-]
-}

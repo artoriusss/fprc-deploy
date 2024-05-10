@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.092036915885000001, "Shape_Area": 0.00023845813570900001, "ADM4_EN": "Velyke Mishkove", "ADM4_UA": "Велике Мішкове", "ADM4_PCODE": "UA1408001008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Amvrosiivska", "ADM3_UA": "Амвросіївська", "ADM3_PCODE": "UA1408001", "ADM2_EN": "Donetskyi", "ADM2_UA": "Донецький", "ADM2_PCODE": "UA1408", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.570583997000028, 47.88462 ], [ 38.567398997000055, 47.881182 ], [ 38.563695997000025, 47.880993 ], [ 38.561006998000039, 47.878594 ], [ 38.546921997000027, 47.874126 ], [ 38.545114998000031, 47.872375 ], [ 38.54908499700008, 47.866127 ], [ 38.555878997000036, 47.866721 ], [ 38.561131996000029, 47.865658 ], [ 38.56325799800004, 47.867437 ], [ 38.563143997000054, 47.870922 ], [ 38.569739997000056, 47.871004 ], [ 38.569673998000042, 47.878624 ], [ 38.570583997000028, 47.88462 ] ] ] } }
-]
-}

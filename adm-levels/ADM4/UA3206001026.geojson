@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.049353352753100002, "Shape_Area": 5.4344035718199997e-05, "ADM4_EN": "Khlopkiv", "ADM4_UA": "Хлопків", "ADM4_PCODE": "UA3206001026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Baryshivska", "ADM3_UA": "Баришівська", "ADM3_PCODE": "UA3206001", "ADM2_EN": "Brovarskyi", "ADM2_UA": "Броварський", "ADM2_PCODE": "UA3206", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.357789431000072, 50.385668444000032 ], [ 31.349261449000039, 50.384749448000036 ], [ 31.354920488000062, 50.37952553100007 ], [ 31.35900041900004, 50.379714464000074 ], [ 31.359848403000058, 50.381993513000054 ], [ 31.357789431000072, 50.385668444000032 ] ] ] } }
-]
-}

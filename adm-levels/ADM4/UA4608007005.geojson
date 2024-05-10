@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.033922832572899998, "Shape_Area": 4.6530354717299997e-05, "ADM4_EN": "Birchytsi", "ADM4_UA": "Бірчиці", "ADM4_PCODE": "UA4608007005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novokalynivska", "ADM3_UA": "Новокалинівська", "ADM3_PCODE": "UA4608007", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.269420435000029, 49.634912017000033 ], [ 23.265177437000034, 49.635050017000026 ], [ 23.263612437000063, 49.633225017000029 ], [ 23.265629435000051, 49.629532016000041 ], [ 23.268119436000063, 49.630915017000063 ], [ 23.276303432000077, 49.631383016000029 ], [ 23.276402433000044, 49.63390701700007 ], [ 23.269420435000029, 49.634912017000033 ] ] ] } }
-]
-}

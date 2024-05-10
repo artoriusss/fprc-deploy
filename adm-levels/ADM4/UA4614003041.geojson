@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.054909301073400002, "Shape_Area": 9.7691532992499999e-05, "ADM4_EN": "Pidhat", "ADM4_UA": "Підгать", "ADM4_PCODE": "UA4614003041", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mostyska", "ADM3_UA": "Мостиська", "ADM3_PCODE": "UA4614003", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.184457474000055, 49.82852101800006 ], [ 23.183553476000043, 49.830933019000042 ], [ 23.17300072200004, 49.830898029000082 ], [ 23.161612977000061, 49.829045110000038 ], [ 23.162023484000031, 49.826713018000078 ], [ 23.167839482000034, 49.826364018000049 ], [ 23.171772480000072, 49.824574018000078 ], [ 23.17896547600003, 49.825731018000056 ], [ 23.184457474000055, 49.82852101800006 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.110440469409, "Shape_Area": 0.000109526137714, "ADM4_EN": "Bilashiv", "ADM4_UA": "Білашів", "ADM4_PCODE": "UA0706021002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kolodiazhnenska", "ADM3_UA": "Колодяжненська", "ADM3_PCODE": "UA0706021", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.723467111000048, 51.110964003000049 ], [ 24.72289911300004, 51.117318003000037 ], [ 24.72038811300007, 51.116856004000056 ], [ 24.719351112000027, 51.109482003000039 ], [ 24.728453113000057, 51.10770300300004 ], [ 24.728521112000067, 51.102970003000053 ], [ 24.733159111000077, 51.104548003000048 ], [ 24.735018111000045, 51.108456004000061 ], [ 24.744446109000023, 51.10777300400008 ], [ 24.744996110000045, 51.109600003000025 ], [ 24.723467111000048, 51.110964003000049 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.126228459411, "Shape_Area": 0.00033284508550599997, "ADM4_EN": "Orikhovets", "ADM4_UA": "Оріховець", "ADM4_PCODE": "UA3202015026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Skvyrska", "ADM3_UA": "Сквирська", "ADM3_PCODE": "UA3202015", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.619803673000035, 49.603774491000081 ], [ 29.613463696000053, 49.602819498000031 ], [ 29.617170690000023, 49.592126507000046 ], [ 29.616931679000061, 49.587958469000057 ], [ 29.619170698000062, 49.581124511000041 ], [ 29.623628650000057, 49.581787504000033 ], [ 29.629711730000054, 49.576911515000063 ], [ 29.63695272700005, 49.583377475000077 ], [ 29.629906705000053, 49.597785443000078 ], [ 29.624808699000027, 49.598087498000041 ], [ 29.619803673000035, 49.603774491000081 ] ] ] } }
-]
-}

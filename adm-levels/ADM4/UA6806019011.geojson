@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14252935435799999, "Shape_Area": 0.00019054946137199999, "ADM4_EN": "Kuniv", "ADM4_UA": "Кунів", "ADM4_PCODE": "UA6806019011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pluzhnenska", "ADM3_UA": "Плужненська", "ADM3_PCODE": "UA6806019", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.382266001000062, 50.248664 ], [ 26.379766, 50.250473 ], [ 26.370074001000035, 50.24567 ], [ 26.361197, 50.247418999000047 ], [ 26.357020999000042, 50.242775 ], [ 26.362826, 50.240814 ], [ 26.365097, 50.233513 ], [ 26.373300001000075, 50.233719 ], [ 26.370037, 50.237016 ], [ 26.368607999000062, 50.242856 ], [ 26.37097, 50.243787 ], [ 26.38179, 50.240552 ], [ 26.382266001000062, 50.248664 ] ] ] } }
-]
-}

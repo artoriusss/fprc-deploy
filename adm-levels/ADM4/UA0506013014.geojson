@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.111565467241, "Shape_Area": 0.000261461791412, "ADM4_EN": "Telelyntsi", "ADM4_UA": "Телелинці", "ADM4_PCODE": "UA0506013014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stanislavchytska", "ADM3_UA": "Станіславчицька", "ADM3_PCODE": "UA0506013", "ADM2_EN": "Zhmerynskyi", "ADM2_UA": "Жмеринський", "ADM2_PCODE": "UA0506", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.999779, 48.92747 ], [ 27.991590001000077, 48.925474 ], [ 27.994893, 48.922987 ], [ 27.987892, 48.919352 ], [ 27.990167, 48.914833 ], [ 27.985251, 48.912791 ], [ 27.986080001000062, 48.909947 ], [ 27.989485, 48.907437 ], [ 27.992131999000037, 48.909536 ], [ 27.998338999000055, 48.909607999000059 ], [ 27.998941001000048, 48.906077 ], [ 28.009411, 48.911295 ], [ 28.007153, 48.914176 ], [ 28.001318999000034, 48.918063 ], [ 28.003716, 48.921303 ], [ 27.999779, 48.92747 ] ] ] } }
-]
-}

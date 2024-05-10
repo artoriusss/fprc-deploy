@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.061740984585100002, "Shape_Area": 0.00015765108594, "ADM4_EN": "Vilnyi Step", "ADM4_UA": "Вільний Степ", "ADM4_PCODE": "UA5308007005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Drabynivska", "ADM3_UA": "Драбинівська", "ADM3_PCODE": "UA5308007", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.734198001000038, 49.345347 ], [ 34.729731, 49.343779 ], [ 34.719443999000077, 49.34537 ], [ 34.7172, 49.341826 ], [ 34.719072999000048, 49.337762 ], [ 34.731527, 49.333068 ], [ 34.737793001000057, 49.340018 ], [ 34.731664999000031, 49.342416 ], [ 34.734198001000038, 49.345347 ] ] ] } }
-]
-}

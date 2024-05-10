@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.059922314965499997, "Shape_Area": 4.0045138050900003e-05, "ADM4_EN": "Bezsalivka", "ADM4_UA": "Безсалівка", "ADM4_PCODE": "UA5908003004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilopilska", "ADM3_UA": "Білопільська", "ADM3_PCODE": "UA5908003", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.39877, 51.270424 ], [ 34.396284, 51.270848 ], [ 34.394832, 51.265754 ], [ 34.389519999000072, 51.267712 ], [ 34.388097, 51.266549 ], [ 34.394036999000036, 51.261651 ], [ 34.39787, 51.266345 ], [ 34.39877, 51.270424 ] ] ] } }
-]
-}

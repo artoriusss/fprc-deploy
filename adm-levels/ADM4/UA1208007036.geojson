@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.065179125001600002, "Shape_Area": 0.000128438997957, "ADM4_EN": "Pryiut", "ADM4_UA": "Приют", "ADM4_PCODE": "UA1208007036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pershotravnevska", "ADM3_UA": "Першотравневська", "ADM3_PCODE": "UA1208007", "ADM2_EN": "Nikopolskyi", "ADM2_UA": "Нікопольський", "ADM2_PCODE": "UA1208", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.036987, 47.915242 ], [ 34.041810999000063, 47.919112 ], [ 34.038296, 47.92086 ], [ 34.029353, 47.915099 ], [ 34.023545999000078, 47.915064 ], [ 34.019581, 47.911138 ], [ 34.018287, 47.906638 ], [ 34.024624999000025, 47.908317 ], [ 34.025002, 47.906448 ], [ 34.03118, 47.907494 ], [ 34.029983, 47.910889 ], [ 34.036987, 47.915242 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.082147867665799998, "Shape_Area": 0.000217652356614, "ADM4_EN": "Staropetrivske", "ADM4_UA": "Старопетрівське", "ADM4_PCODE": "UA1406007013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yenakiievska", "ADM3_UA": "Єнакієвська", "ADM3_PCODE": "UA1406007", "ADM2_EN": "Horlivskyi", "ADM2_UA": "Горлівський", "ADM2_PCODE": "UA1406", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.15389280100004, 48.223903519000032 ], [ 38.149981746000037, 48.231967979000046 ], [ 38.143811, 48.230871 ], [ 38.147403042000064, 48.212525657000072 ], [ 38.15030142300003, 48.208501010000077 ], [ 38.155760275000034, 48.209709128000043 ], [ 38.156720462000067, 48.20597460700003 ], [ 38.159725587000025, 48.206974412000079 ], [ 38.156730044000028, 48.213148474000036 ], [ 38.15389280100004, 48.223903519000032 ] ] ] } }
-]
-}

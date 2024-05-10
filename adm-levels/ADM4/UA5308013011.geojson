@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.033793479072399997, "Shape_Area": 3.9554521684899999e-05, "ADM4_EN": "Halahurivka", "ADM4_UA": "Галагурівка", "ADM4_PCODE": "UA5308013011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kobeliatska", "ADM3_UA": "Кобеляцька", "ADM3_PCODE": "UA5308013", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.157029806000025, 49.203028412000037 ], [ 34.149521, 49.202952 ], [ 34.149875759000054, 49.200974896000048 ], [ 34.155928, 49.198777 ], [ 34.161194, 49.200289 ], [ 34.157029806000025, 49.203028412000037 ] ] ] } }
-]
-}

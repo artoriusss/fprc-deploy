@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.032281516779100003, "Shape_Area": 5.7699685192299998e-05, "ADM4_EN": "Novotoshkivske", "ADM4_UA": "Новотошківське", "ADM4_PCODE": "UA4412001004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hirska", "ADM3_UA": "Гірська", "ADM3_PCODE": "UA4412001", "ADM2_EN": "Sievierodonetskyi", "ADM2_UA": "Сєвєродонецький", "ADM2_PCODE": "UA4412", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.624851636000074, 48.727790406000054 ], [ 38.625540538000052, 48.723020499000029 ], [ 38.636554053000054, 48.722525397000027 ], [ 38.636146882000048, 48.727529967000066 ], [ 38.626632834000077, 48.728350049000028 ], [ 38.624851636000074, 48.727790406000054 ] ] ] } }
-]
-}

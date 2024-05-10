@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.069186707846899995, "Shape_Area": 0.00010363895103800001, "ADM4_EN": "Stepove", "ADM4_UA": "Степове", "ADM4_PCODE": "UA3504027018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pervozvanivska", "ADM3_UA": "Первозванівська", "ADM3_PCODE": "UA3504027", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.215422, 48.414035 ], [ 32.212376, 48.414493 ], [ 32.207794, 48.419606 ], [ 32.203119, 48.416723 ], [ 32.205381, 48.41457 ], [ 32.204852, 48.406418 ], [ 32.208036, 48.407582 ], [ 32.21355, 48.406398 ], [ 32.215422, 48.414035 ] ] ] } }
-]
-}

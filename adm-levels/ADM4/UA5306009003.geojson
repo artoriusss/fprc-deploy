@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.045246318280800002, "Shape_Area": 7.3556631826699994e-05, "ADM4_EN": "Butovycheske", "ADM4_UA": "Бутовичеське", "ADM4_PCODE": "UA5306009003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hadiatska", "ADM3_UA": "Гадяцька", "ADM3_PCODE": "UA5306009", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.829533, 50.317904 ], [ 33.829872001000069, 50.312984 ], [ 33.838183, 50.310683 ], [ 33.83561738700007, 50.320265491000043 ], [ 33.828341952000073, 50.319639046000077 ], [ 33.829196982000042, 50.318899505000047 ], [ 33.829533, 50.317904 ] ] ] } }
-]
-}

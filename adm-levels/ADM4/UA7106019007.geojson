@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11401193929599999, "Shape_Area": 0.00053808523274000001, "ADM4_EN": "Kocherzhyntsi", "ADM4_UA": "Кочержинці", "ADM4_PCODE": "UA7106019007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Palanska", "ADM3_UA": "Паланська", "ADM3_PCODE": "UA7106019", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.139128001000074, 48.709639 ], [ 30.123027, 48.708367 ], [ 30.12157, 48.702017 ], [ 30.123811, 48.699482 ], [ 30.12392999900004, 48.693051 ], [ 30.129509001000031, 48.693052 ], [ 30.128269, 48.689124 ], [ 30.131762999000046, 48.684379 ], [ 30.13625, 48.684012 ], [ 30.139121, 48.686377 ], [ 30.143289, 48.685191 ], [ 30.150188, 48.690831 ], [ 30.146229, 48.695498 ], [ 30.148964999000043, 48.699251 ], [ 30.148041, 48.703946 ], [ 30.14327, 48.705209 ], [ 30.139128001000074, 48.709639 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.104657551889, "Shape_Area": 0.00041938734358099998, "ADM4_EN": "Lotasheve", "ADM4_UA": "Лоташеве", "ADM4_PCODE": "UA7102029021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Talnivska", "ADM3_UA": "Тальнівська", "ADM3_PCODE": "UA7102029", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.915217999000049, 48.81778 ], [ 30.918205243000045, 48.823002176000045 ], [ 30.905404999000041, 48.823468 ], [ 30.898456, 48.820744 ], [ 30.896609001000058, 48.818437 ], [ 30.886581999000043, 48.816846 ], [ 30.88657100100005, 48.813485 ], [ 30.892043, 48.811303 ], [ 30.89697, 48.806508 ], [ 30.905702, 48.803448 ], [ 30.912247, 48.807226 ], [ 30.917529, 48.811684 ], [ 30.921036001000061, 48.809974 ], [ 30.923577, 48.81201 ], [ 30.916610001000038, 48.815895 ], [ 30.915217999000049, 48.81778 ] ] ] } }
-]
-}

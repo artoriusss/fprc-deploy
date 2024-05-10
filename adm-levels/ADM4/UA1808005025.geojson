@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073318854690999996, "Shape_Area": 0.00013525785530700001, "ADM4_EN": "Sloboda-Romanivska", "ADM4_UA": "Слобода-Романівська", "ADM4_PCODE": "UA1808005025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bronykivska", "ADM3_UA": "Брониківська", "ADM3_PCODE": "UA1808005", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.742934160000061, 50.599440990000062 ], [ 27.735999119000041, 50.598060030000056 ], [ 27.731628, 50.59901799000005 ], [ 27.728268839000066, 50.597127990000047 ], [ 27.725078879000023, 50.591701980000039 ], [ 27.736027920000026, 50.591378970000051 ], [ 27.740123999000048, 50.592232980000063 ], [ 27.746453880000047, 50.591763990000061 ], [ 27.747284040000068, 50.595380010000042 ], [ 27.742718879000051, 50.596062030000041 ], [ 27.742934160000061, 50.599440990000062 ] ] ] } }
-]
-}

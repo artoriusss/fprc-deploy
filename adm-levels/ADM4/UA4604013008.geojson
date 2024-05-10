@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.043376919153499997, "Shape_Area": 7.2229882126400005e-05, "ADM4_EN": "Krasnosiltsi", "ADM4_UA": "Красносільці", "ADM4_PCODE": "UA4604013008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pomorianska", "ADM3_UA": "Поморянська", "ADM3_PCODE": "UA4604013", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.971259081000028, 49.721130003000042 ], [ 24.967416081000067, 49.722038002000033 ], [ 24.963653080000029, 49.718648003000055 ], [ 24.973696079000035, 49.715142003000039 ], [ 24.97486708100007, 49.712652003000073 ], [ 24.980097080000064, 49.720557003000067 ], [ 24.97467307900007, 49.722005003000049 ], [ 24.971259081000028, 49.721130003000042 ] ] ] } }
-]
-}

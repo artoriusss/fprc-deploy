@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.104456988944, "Shape_Area": 0.000104608178906, "ADM4_EN": "Shchomy", "ADM4_UA": "Щоми", "ADM4_PCODE": "UA5904009015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Komyshanska", "ADM3_UA": "Комишанська", "ADM3_PCODE": "UA5904009", "ADM2_EN": "Okhtyrskyi", "ADM2_UA": "Охтирський", "ADM2_PCODE": "UA5904", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.594404999000062, 50.335706 ], [ 34.592959, 50.337748 ], [ 34.589076, 50.336158 ], [ 34.588634001000059, 50.328395 ], [ 34.600073, 50.329016 ], [ 34.603528, 50.335744 ], [ 34.597908001000064, 50.332547 ], [ 34.594404999000062, 50.335706 ] ] ] } }
-]
-}

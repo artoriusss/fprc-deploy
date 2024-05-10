@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.083189309395499997, "Shape_Area": 0.00025486633535800002, "ADM4_EN": "Mlyny", "ADM4_UA": "Млини", "ADM4_PCODE": "UA5306019023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lokhvytska", "ADM3_UA": "Лохвицька", "ADM3_PCODE": "UA5306019", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.324123, 50.386292 ], [ 33.320223, 50.393032 ], [ 33.311883, 50.395826 ], [ 33.307629001000066, 50.393057 ], [ 33.307830999000032, 50.389789 ], [ 33.299276999000028, 50.386168 ], [ 33.294097001000068, 50.387157 ], [ 33.291902999000058, 50.385457 ], [ 33.295264, 50.380701 ], [ 33.301232, 50.37928 ], [ 33.311447, 50.381197 ], [ 33.311045, 50.383863 ], [ 33.324123, 50.386292 ] ] ] } }
-]
-}

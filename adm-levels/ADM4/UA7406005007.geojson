@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.108443465534, "Shape_Area": 0.000175445060196, "ADM4_EN": "Ivankiv", "ADM4_UA": "Іваньків", "ADM4_PCODE": "UA7406005007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ponornytska", "ADM3_UA": "Понорницька", "ADM3_PCODE": "UA7406005", "ADM2_EN": "Novhorod-Siverskyi", "ADM2_UA": "Новгород-Сіверський", "ADM2_PCODE": "UA7406", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.965135921000069, 51.723577080000041 ], [ 32.961549959000024, 51.722255970000049 ], [ 32.971821840000075, 51.716989980000051 ], [ 32.977104120000035, 51.712344990000076 ], [ 32.980633921000049, 51.712158060000036 ], [ 32.987778840000033, 51.718708980000031 ], [ 32.983418879000055, 51.722778960000028 ], [ 32.976545040000076, 51.723191970000073 ], [ 32.973103079000055, 51.724669050000045 ], [ 32.965135921000069, 51.723577080000041 ] ] ] } }
-]
-}

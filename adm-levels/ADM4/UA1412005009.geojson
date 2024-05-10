@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.053723904231999998, "Shape_Area": 6.1553490282400004e-05, "ADM4_EN": "Novoolenivka", "ADM4_UA": "Новооленівка", "ADM4_PCODE": "UA1412005009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Illinivska", "ADM3_UA": "Іллінівська", "ADM3_PCODE": "UA1412005", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "Краматорський", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.541507110000055, 48.395872403000055 ], [ 37.540531460000068, 48.399226086000056 ], [ 37.536274426000034, 48.398397080000052 ], [ 37.539417999000079, 48.392961 ], [ 37.538909999000055, 48.38995 ], [ 37.543805999000028, 48.388295 ], [ 37.546540999000058, 48.392112 ], [ 37.541507110000055, 48.395872403000055 ] ] ] } }
-]
-}

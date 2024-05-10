@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.094844780740899998, "Shape_Area": 0.00024136411696500001, "ADM4_EN": "Lobanove", "ADM4_UA": "Лобанове", "ADM4_PCODE": "UA0106019001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lobanivska", "ADM3_UA": "Лобанівська", "ADM3_PCODE": "UA0106019", "ADM2_EN": "Dzhankoiskyi", "ADM2_UA": "Джанкойський", "ADM2_PCODE": "UA0106", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.259045, 45.778032 ], [ 34.250257, 45.782447 ], [ 34.247125, 45.777839 ], [ 34.245005870000057, 45.777264867000042 ], [ 34.234697528000027, 45.780481210000062 ], [ 34.235231089000024, 45.776464212000064 ], [ 34.234130598000036, 45.771844147000081 ], [ 34.255115, 45.768467 ], [ 34.25490699900007, 45.772585 ], [ 34.259158999000078, 45.772539 ], [ 34.261760999000046, 45.775481 ], [ 34.259045, 45.778032 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12631978819799999, "Shape_Area": 0.000241321044451, "ADM4_EN": "Stepkivka", "ADM4_UA": "Степківка", "ADM4_PCODE": "UA7106007010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dmytrushkivska", "ADM3_UA": "Дмитрушківська", "ADM3_PCODE": "UA7106007", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 30.296154999000066, 48.671318 ], [ 30.291743, 48.670051 ], [ 30.297172999000054, 48.664665 ], [ 30.291512, 48.661481 ], [ 30.298945, 48.656693 ], [ 30.302765001000068, 48.659028 ], [ 30.310518, 48.660251 ], [ 30.304009001000054, 48.667187001000059 ], [ 30.297882, 48.671528 ], [ 30.296154999000066, 48.671318 ] ] ], [ [ [ 30.307637999000065, 48.658069 ], [ 30.303599, 48.657544 ], [ 30.303174999000078, 48.654244 ], [ 30.318896, 48.652261 ], [ 30.318682, 48.657609 ], [ 30.307637999000065, 48.658069 ] ] ] ] } }
-]
-}

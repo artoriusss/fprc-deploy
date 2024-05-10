@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.059203308808499999, "Shape_Area": 0.000102225421208, "ADM4_EN": "Chervonyi Zaporozhets", "ADM4_UA": "Червоний Запорожець", "ADM4_PCODE": "UA1206009007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hrushivska", "ADM3_UA": "Грушівська", "ADM3_PCODE": "UA1206009", "ADM2_EN": "Kryvorizkyi", "ADM2_UA": "Криворізький", "ADM2_PCODE": "UA1206", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.926653, 47.693423 ], [ 33.928193001000068, 47.698853 ], [ 33.932323, 47.708131 ], [ 33.935855, 47.713053 ], [ 33.931612, 47.71334 ], [ 33.923394, 47.69866 ], [ 33.919088, 47.69625 ], [ 33.920178, 47.693013 ], [ 33.926653, 47.693423 ] ] ] } }
-]
-}

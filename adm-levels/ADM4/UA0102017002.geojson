@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0569961845834, "Shape_Area": 8.0312455767599997e-05, "ADM4_EN": "Bilokamiane", "ADM4_UA": "Білокам'яне", "ADM4_PCODE": "UA0102017002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zaliznychnenska", "ADM3_UA": "Залізничненська", "ADM3_PCODE": "UA0102017", "ADM2_EN": "Bakhchysaraiskyi", "ADM2_UA": "Бахчисарайський", "ADM2_PCODE": "UA0102", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.84290039800004, 44.682223255000054 ], [ 33.837401389000036, 44.68521904000005 ], [ 33.835324754000055, 44.684178144000043 ], [ 33.837095479000027, 44.67800739300003 ], [ 33.839123639000036, 44.676598779000074 ], [ 33.848244752000028, 44.678650373000039 ], [ 33.848314241000026, 44.681249671000046 ], [ 33.84290039800004, 44.682223255000054 ] ] ] } }
-]
-}

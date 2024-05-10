@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.045829202382099997, "Shape_Area": 4.6351042151e-05, "ADM4_EN": "Lisne", "ADM4_UA": "Лісне", "ADM4_PCODE": "UA2304003009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vasylivska", "ADM3_UA": "Василівська", "ADM3_PCODE": "UA2304003", "ADM2_EN": "Vasylivskyi", "ADM2_UA": "Василівський", "ADM2_PCODE": "UA2304", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.344143178000024, 47.471590214000059 ], [ 35.341900902000077, 47.471683656000039 ], [ 35.335913650000066, 47.468456383000046 ], [ 35.339456966000057, 47.466601602000026 ], [ 35.345275500000071, 47.469586934000063 ], [ 35.353783836000048, 47.468650916000058 ], [ 35.352614751000033, 47.471338364000076 ], [ 35.344143178000024, 47.471590214000059 ] ] ] } }
-]
-}

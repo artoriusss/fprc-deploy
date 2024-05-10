@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.043627463040400001, "Shape_Area": 8.4732107288700007e-05, "ADM4_EN": "Mokra", "ADM4_UA": "Мокра", "ADM4_PCODE": "UA2110021008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Turie-Remetivska", "ADM3_UA": "Тур'є-Реметівська", "ADM3_PCODE": "UA2110021", "ADM2_EN": "Uzhhorodskyi", "ADM2_UA": "Ужгородський", "ADM2_PCODE": "UA2110", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.712432682000042, 48.695021028000042 ], [ 22.717927678000024, 48.696821029000034 ], [ 22.715222680000068, 48.708808028000078 ], [ 22.71174968300005, 48.709336028000052 ], [ 22.709995683000045, 48.698604028000034 ], [ 22.712432682000042, 48.695021028000042 ] ] ] } }
-]
-}

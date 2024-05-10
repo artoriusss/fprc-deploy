@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.125131739297, "Shape_Area": 0.00036963495623900002, "ADM4_EN": "Vynohradivka", "ADM4_UA": "Виноградівка", "ADM4_PCODE": "UA1210005003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mahdalynivska", "ADM3_UA": "Магдалинівська", "ADM3_PCODE": "UA1210005", "ADM2_EN": "Novomoskovskyi", "ADM2_UA": "Новомосковський", "ADM2_PCODE": "UA1210", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.969426, 49.032025 ], [ 34.966124, 49.0291 ], [ 34.953158, 49.027742 ], [ 34.950599, 49.020385 ], [ 34.973767, 49.023025 ], [ 34.974315, 49.017139 ], [ 34.982558001000029, 49.019565 ], [ 34.981523, 49.023939 ], [ 34.997964999000033, 49.025923 ], [ 34.997012, 49.031975 ], [ 34.980163999000069, 49.029827 ], [ 34.979791999000042, 49.031636 ], [ 34.969795, 49.03064 ], [ 34.969426, 49.032025 ] ] ] } }
-]
-}

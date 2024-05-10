@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12016223763099999, "Shape_Area": 0.00058342725005299998, "ADM4_EN": "Voznesenka Persha", "ADM4_UA": "Вознесенка Перша", "ADM4_PCODE": "UA5106015004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pavlivska", "ADM3_UA": "Павлівська", "ADM3_PCODE": "UA5106015", "ADM2_EN": "Bolhradskyi", "ADM2_UA": "Болградський", "ADM2_PCODE": "UA5106", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.4872, 46.142031 ], [ 29.478199, 46.139759001000073 ], [ 29.479664, 46.137707 ], [ 29.472065, 46.1366 ], [ 29.477465, 46.117574 ], [ 29.481172, 46.10291 ], [ 29.487411999000074, 46.103344 ], [ 29.48613, 46.107885 ], [ 29.498515, 46.108841 ], [ 29.498563, 46.11662 ], [ 29.492163, 46.116486 ], [ 29.490548, 46.140734 ], [ 29.4872, 46.142031 ] ] ] } }
-]
-}

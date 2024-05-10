@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.107198905654, "Shape_Area": 0.000168763826275, "ADM4_EN": "Slobidka-Rakhnivska", "ADM4_UA": "Слобідка-Рахнівська", "ADM4_PCODE": "UA6802015006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Makivska", "ADM3_UA": "Маківська", "ADM3_PCODE": "UA6802015", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.764364999000065, 48.829613 ], [ 26.762299, 48.830925 ], [ 26.758486, 48.828285 ], [ 26.754033, 48.829658 ], [ 26.74964, 48.828045 ], [ 26.748032, 48.824137 ], [ 26.74875, 48.821347 ], [ 26.737873, 48.812489 ], [ 26.734763, 48.808255 ], [ 26.737008, 48.806788 ], [ 26.739645999000061, 48.810499 ], [ 26.744687, 48.809561 ], [ 26.748273, 48.811752 ], [ 26.74646, 48.814349 ], [ 26.753218999000069, 48.821627 ], [ 26.756835, 48.820015 ], [ 26.758143, 48.824464 ], [ 26.764364999000065, 48.829613 ] ] ] } }
-]
-}

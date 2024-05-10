@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.104001686669, "Shape_Area": 0.000201427636513, "ADM4_EN": "Borskiv", "ADM4_UA": "Борсків", "ADM4_PCODE": "UA0502007002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hnivanska", "ADM3_UA": "Гніванська", "ADM3_PCODE": "UA0502007", "ADM2_EN": "Vinnytskyi", "ADM2_UA": "Вінницький", "ADM2_PCODE": "UA0502", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.381727901000033, 49.029256290000035 ], [ 28.378244, 49.027826 ], [ 28.373135925000042, 49.027781997000034 ], [ 28.369684439000025, 49.024014737000073 ], [ 28.369151732000034, 49.019439213000055 ], [ 28.373803218000035, 49.017509525000037 ], [ 28.392080683000074, 49.022467334000055 ], [ 28.391950802000053, 49.025920166000049 ], [ 28.386094595000031, 49.028460107000058 ], [ 28.381727901000033, 49.029256290000035 ] ] ] } }
-]
-}

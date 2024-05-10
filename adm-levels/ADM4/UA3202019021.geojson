@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057071782405, "Shape_Area": 6.9889853483900004e-05, "ADM4_EN": "Makovetske", "ADM4_UA": "Маковецьке", "ADM4_PCODE": "UA3202019021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tarashchanska", "ADM3_UA": "Таращанська", "ADM3_PCODE": "UA3202019", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.647494754000036, 49.446540323000079 ], [ 30.644909636000079, 49.446738203000052 ], [ 30.646259744000076, 49.440820383000073 ], [ 30.651921430000073, 49.439709930000049 ], [ 30.655726633000029, 49.442797626000072 ], [ 30.652249160000054, 49.445421013000043 ], [ 30.647494754000036, 49.446540323000079 ] ] ] } }
-]
-}

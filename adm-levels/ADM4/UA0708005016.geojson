@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.048384306823400003, "Shape_Area": 5.4964325897300002e-05, "ADM4_EN": "Nyvy-Hubynski", "ADM4_UA": "Ниви-Губинські", "ADM4_PCODE": "UA0708005016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodyshchenska", "ADM3_UA": "Городищенська", "ADM3_PCODE": "UA0708005", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.077535075000071, 50.536175003000039 ], [ 25.074047075000067, 50.535476003000042 ], [ 25.076740074000043, 50.529870002000052 ], [ 25.080616074000034, 50.531226003000029 ], [ 25.084439074000045, 50.529093002000081 ], [ 25.087307074000023, 50.530810002000067 ], [ 25.077535075000071, 50.536175003000039 ] ] ] } }
-]
-}

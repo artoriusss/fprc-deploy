@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.059225335711500002, "Shape_Area": 0.000176271450481, "ADM4_EN": "Hlibky", "ADM4_UA": "Глібки", "ADM4_PCODE": "UA6804017006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zasluchnenska", "ADM3_UA": "Заслучненська", "ADM3_PCODE": "UA6804017", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.729919, 49.602989 ], [ 26.72793499900007, 49.60756 ], [ 26.719164, 49.612825 ], [ 26.716146, 49.613743 ], [ 26.711064, 49.602847 ], [ 26.722694, 49.60049 ], [ 26.724155, 49.598485 ], [ 26.729505593000056, 49.597915705000048 ], [ 26.729919, 49.602989 ] ] ] } }
-]
-}

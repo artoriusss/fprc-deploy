@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057604725468000002, "Shape_Area": 0.000120784476569, "ADM4_EN": "Lopushno", "ADM4_UA": "Лопушно", "ADM4_PCODE": "UA4608009012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ralivska", "ADM3_UA": "Ралівська", "ADM3_PCODE": "UA4608009", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.221500449000075, 49.369612018000055 ], [ 23.221228448000033, 49.371165018000056 ], [ 23.229656445000046, 49.379586017000065 ], [ 23.232803444000069, 49.385551017000068 ], [ 23.22947844600003, 49.387323017000028 ], [ 23.220925449000049, 49.378293017000033 ], [ 23.217140449000055, 49.37563601800008 ], [ 23.215737451000052, 49.370755018000068 ], [ 23.216782451000029, 49.368590018000077 ], [ 23.221500449000075, 49.369612018000055 ] ] ] } }
-]
-}

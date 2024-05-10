@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.107617028485, "Shape_Area": 0.000394047226681, "ADM4_EN": "Konoplianka", "ADM4_UA": "Коноплянка", "ADM4_PCODE": "UA5306001012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilotserkivska", "ADM3_UA": "Білоцерківська", "ADM3_PCODE": "UA5306001", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.805341001000045, 49.669703 ], [ 33.808251, 49.665794 ], [ 33.825226, 49.666133 ], [ 33.826749, 49.670386 ], [ 33.831277, 49.670014 ], [ 33.833931, 49.666959 ], [ 33.8366, 49.667319 ], [ 33.834685, 49.673725 ], [ 33.831175999000038, 49.674059 ], [ 33.830215, 49.68016 ], [ 33.825793999000041, 49.68219 ], [ 33.823826, 49.685705 ], [ 33.818895, 49.686579 ], [ 33.81673, 49.679004 ], [ 33.805843, 49.675638 ], [ 33.805555, 49.674382 ], [ 33.805341001000045, 49.669703 ] ] ] } }
-]
-}

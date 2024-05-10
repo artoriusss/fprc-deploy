@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.077004143261499999, "Shape_Area": 0.000103578564095, "ADM4_EN": "Liskivshchyna", "ADM4_UA": "Лісківщина", "ADM4_PCODE": "UA7406007034", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Semenivska", "ADM3_UA": "Семенівська", "ADM3_PCODE": "UA7406007", "ADM2_EN": "Novhorod-Siverskyi", "ADM2_UA": "Новгород-Сіверський", "ADM2_PCODE": "UA7406", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.446505161000061, 52.192933020000055 ], [ 32.445302040000058, 52.193216970000037 ], [ 32.438905919000035, 52.182504 ], [ 32.435588160000066, 52.182764010000028 ], [ 32.428850040000043, 52.17577803000006 ], [ 32.432167799000069, 52.173828 ], [ 32.445650881000063, 52.180047990000048 ], [ 32.441364001000068, 52.182036 ], [ 32.44617, 52.184910960000082 ], [ 32.448920041000065, 52.188507990000062 ], [ 32.445314999000061, 52.189616970000031 ], [ 32.446505161000061, 52.192933020000055 ] ] ] } }
-]
-}

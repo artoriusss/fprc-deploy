@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11767865572400001, "Shape_Area": 0.000284715166849, "ADM4_EN": "Rakovets", "ADM4_UA": "Раковець", "ADM4_PCODE": "UA2604029011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Solotvynska", "ADM3_UA": "Солотвинська", "ADM3_PCODE": "UA2604029", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.362665067000023, 48.711639441000045 ], [ 24.362346001000049, 48.708394 ], [ 24.37098, 48.709187 ], [ 24.374211, 48.707829 ], [ 24.377685001000032, 48.709358 ], [ 24.385353, 48.708261 ], [ 24.390969999000049, 48.710106 ], [ 24.397558, 48.709811 ], [ 24.406155170000034, 48.712452901000063 ], [ 24.404613, 48.716915 ], [ 24.401396, 48.716185 ], [ 24.390775, 48.717026 ], [ 24.377378, 48.715819 ], [ 24.368265, 48.714176 ], [ 24.362665067000023, 48.711639441000045 ] ] ] } }
-]
-}

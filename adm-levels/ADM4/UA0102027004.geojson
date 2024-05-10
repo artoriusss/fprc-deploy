@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0472044746431, "Shape_Area": 0.00012354317401299999, "ADM4_EN": "Kholmivka", "ADM4_UA": "Холмівка", "ADM4_PCODE": "UA0102027004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasnomatska", "ADM3_UA": "Красномацька", "ADM3_PCODE": "UA0102027", "ADM2_EN": "Bakhchysaraiskyi", "ADM2_UA": "Бахчисарайський", "ADM2_PCODE": "UA0102", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.759939, 44.663956 ], [ 33.75247, 44.663831 ], [ 33.748714, 44.660342 ], [ 33.747022, 44.656074 ], [ 33.753962, 44.65309 ], [ 33.754959, 44.650472 ], [ 33.760658, 44.654941 ], [ 33.759939, 44.663956 ] ] ] } }
-]
-}

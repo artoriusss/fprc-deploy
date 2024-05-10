@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.095808522524500006, "Shape_Area": 0.000157885647089, "ADM4_EN": "Komarove", "ADM4_UA": "Комарове", "ADM4_PCODE": "UA0706031014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ratnivska", "ADM3_UA": "Ратнівська", "ADM3_PCODE": "UA0706031", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.582712135000065, 51.715491004000057 ], [ 24.58082313400007, 51.71113000400004 ], [ 24.577464135000071, 51.707596004000038 ], [ 24.577266136000048, 51.703709004000075 ], [ 24.579215135000027, 51.699656004000076 ], [ 24.587854133000064, 51.70010200400003 ], [ 24.591209133000064, 51.702626004000081 ], [ 24.591572132000067, 51.708047004000036 ], [ 24.584539135000057, 51.711231005000059 ], [ 24.582712135000065, 51.715491004000057 ] ] ] } }
-]
-}

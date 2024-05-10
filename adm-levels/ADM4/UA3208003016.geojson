@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.039710096768100001, "Shape_Area": 4.0531936111900001e-05, "ADM4_EN": "Krasnyi Rih", "ADM4_UA": "Красний Ріг", "ADM4_PCODE": "UA3208003016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Borodianska", "ADM3_UA": "Бородянська", "ADM3_PCODE": "UA3208003", "ADM2_EN": "Buchanskyi", "ADM2_UA": "Бучанський", "ADM2_PCODE": "UA3208", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.038675351000052, 50.766487079000058 ], [ 30.03036340500006, 50.766667141000028 ], [ 30.030366427000047, 50.763747094000053 ], [ 30.034430377000035, 50.762184079000065 ], [ 30.038675351000052, 50.766487079000058 ] ] ] } }
-]
-}

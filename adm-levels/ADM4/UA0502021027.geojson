@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.124392907146, "Shape_Area": 0.000243432632839, "ADM4_EN": "Monchyn", "ADM4_UA": "Мончин", "ADM4_PCODE": "UA0502021027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pohrebyshchenska", "ADM3_UA": "Погребищенська", "ADM3_PCODE": "UA0502021", "ADM2_EN": "Vinnytskyi", "ADM2_UA": "Вінницький", "ADM2_PCODE": "UA0502", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.975922, 49.435036 ], [ 28.976131, 49.42807 ], [ 28.97382200100003, 49.427858 ], [ 28.971655, 49.421478 ], [ 28.973389, 49.418701 ], [ 28.971967, 49.413612 ], [ 28.979376999000067, 49.408044 ], [ 28.979489, 49.411976 ], [ 28.98290600100006, 49.415052 ], [ 28.987554, 49.414283 ], [ 28.989247, 49.416439 ], [ 28.993538, 49.417726 ], [ 28.987363, 49.421025 ], [ 28.982591, 49.420782 ], [ 28.981551, 49.425458 ], [ 28.982530001000043, 49.431683 ], [ 28.976621, 49.431946 ], [ 28.975922, 49.435036 ] ] ] } }
-]
-}

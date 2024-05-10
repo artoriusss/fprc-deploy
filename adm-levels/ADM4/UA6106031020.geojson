@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.104272484431, "Shape_Area": 0.00026397171828399998, "ADM4_EN": "Korzhova", "ADM4_UA": "Коржова", "ADM4_PCODE": "UA6106031020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Monastyryska", "ADM3_UA": "Монастириська", "ADM3_PCODE": "UA6106031", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.045544, 49.13367 ], [ 25.041171, 49.130898 ], [ 25.036017, 49.131457 ], [ 25.032082, 49.13507700100007 ], [ 25.027373, 49.135195 ], [ 25.029112, 49.13028 ], [ 25.027620001000059, 49.127177 ], [ 25.021608, 49.125205 ], [ 25.02352200100006, 49.121638 ], [ 25.043772001000036, 49.122662 ], [ 25.047117, 49.124221 ], [ 25.050363, 49.130753 ], [ 25.045544, 49.13367 ] ] ] } }
-]
-}

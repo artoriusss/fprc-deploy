@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14091517327600001, "Shape_Area": 0.00039880013409200003, "ADM4_EN": "Kukavka", "ADM4_UA": "Кукавка", "ADM4_PCODE": "UA0508003009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vendychanska", "ADM3_UA": "Вендичанська", "ADM3_PCODE": "UA0508003", "ADM2_EN": "Mohyliv-Podilskyi", "ADM2_UA": "Могилів-Подільський", "ADM2_PCODE": "UA0508", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.702354, 48.610775 ], [ 27.697812, 48.611261 ], [ 27.696486999000058, 48.609273 ], [ 27.698068, 48.601707 ], [ 27.690593999000043, 48.601611 ], [ 27.689028, 48.596935 ], [ 27.697028, 48.597684 ], [ 27.707868, 48.594237 ], [ 27.712289, 48.593694 ], [ 27.715567001000068, 48.591697 ], [ 27.72024, 48.595374 ], [ 27.717709999000078, 48.601771 ], [ 27.724841, 48.607925 ], [ 27.717828, 48.610179 ], [ 27.714467, 48.607394 ], [ 27.710116999000036, 48.610533 ], [ 27.706943, 48.6084 ], [ 27.702354, 48.610775 ] ] ] } }
-]
-}

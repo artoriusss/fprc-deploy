@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.072679803179399996, "Shape_Area": 0.000210026944445, "ADM4_EN": "Mykolaiv", "ADM4_UA": "Миколаїв", "ADM4_PCODE": "UA7404005020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bobrovytska", "ADM3_UA": "Бобровицька", "ADM3_PCODE": "UA7404005", "ADM2_EN": "Nizhynskyi", "ADM2_UA": "Ніжинський", "ADM2_PCODE": "UA7404", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.730843881000055, 50.676828030000081 ], [ 31.730387040000039, 50.678121960000055 ], [ 31.706844840000031, 50.676587010000048 ], [ 31.707948960000067, 50.667221970000071 ], [ 31.71990420000003, 50.667774030000032 ], [ 31.721271121000029, 50.669275950000042 ], [ 31.730231160000073, 50.669722980000074 ], [ 31.730843881000055, 50.676828030000081 ] ] ] } }
-]
-}

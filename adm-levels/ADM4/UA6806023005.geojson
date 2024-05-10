@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0654407858383, "Shape_Area": 0.000113680831641, "ADM4_EN": "Lodzianivka", "ADM4_UA": "Лодзянівка", "ADM4_PCODE": "UA6806023005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Poninkivska", "ADM3_UA": "Понінківська", "ADM3_PCODE": "UA6806023", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.587949999000045, 50.246144 ], [ 27.585102, 50.248371 ], [ 27.582420999000078, 50.245741 ], [ 27.564344, 50.24625 ], [ 27.563952, 50.243482 ], [ 27.575979999000026, 50.242478 ], [ 27.580135, 50.24098 ], [ 27.58728, 50.240915 ], [ 27.589146, 50.242243 ], [ 27.587949999000045, 50.246144 ] ] ] } }
-]
-}

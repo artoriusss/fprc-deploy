@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.083405106928800002, "Shape_Area": 9.3800994505599999e-05, "ADM4_EN": "Boliarka", "ADM4_UA": "Болярка", "ADM4_PCODE": "UA1806019008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Olevska", "ADM3_UA": "Олевська", "ADM3_PCODE": "UA1806019", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.745071323000047, 51.162572061000049 ], [ 27.740550264000035, 51.161932526000044 ], [ 27.737276805000079, 51.158820695000031 ], [ 27.735760855000024, 51.152263745000027 ], [ 27.738468780000062, 51.148011696000026 ], [ 27.741393779000077, 51.147625688000062 ], [ 27.740347046000068, 51.15388389900005 ], [ 27.741192082000055, 51.15630335600008 ], [ 27.74651476400004, 51.15673477100006 ], [ 27.745071323000047, 51.162572061000049 ] ] ] } }
-]
-}

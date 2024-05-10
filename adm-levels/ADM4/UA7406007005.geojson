@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.098109021083900003, "Shape_Area": 0.00015891714374, "ADM4_EN": "Bleshnia", "ADM4_UA": "Блешня", "ADM4_PCODE": "UA7406007005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Semenivska", "ADM3_UA": "Семенівська", "ADM3_PCODE": "UA7406007", "ADM2_EN": "Novhorod-Siverskyi", "ADM2_UA": "Новгород-Сіверський", "ADM2_PCODE": "UA7406", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.348908080000058, 52.132375980000063 ], [ 32.339379960000031, 52.132671 ], [ 32.333302080000067, 52.128077040000051 ], [ 32.333569199000067, 52.125803010000027 ], [ 32.330180160000054, 52.122223980000058 ], [ 32.333715, 52.120622970000056 ], [ 32.338603080000041, 52.124213970000028 ], [ 32.355054, 52.125121980000074 ], [ 32.356194840000057, 52.132194 ], [ 32.350943160000043, 52.13132199000006 ], [ 32.348908080000058, 52.132375980000063 ] ] ] } }
-]
-}

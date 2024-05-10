@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0586600873986, "Shape_Area": 0.000121925869225, "ADM4_EN": "Berezove", "ADM4_UA": "Березове", "ADM4_PCODE": "UA5308041002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Skorokhodivska", "ADM3_UA": "Скороходівська", "ADM3_PCODE": "UA5308041", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.938261859000079, 49.88232677700006 ], [ 34.932604864000041, 49.875374744000055 ], [ 34.928191999000035, 49.872338 ], [ 34.930485500000032, 49.869211500000063 ], [ 34.935918083000047, 49.866606687000058 ], [ 34.939059032000046, 49.868234732000076 ], [ 34.938568772000053, 49.870990018000043 ], [ 34.940149, 49.875947 ], [ 34.943701259000079, 49.882293630000049 ], [ 34.938261859000079, 49.88232677700006 ] ] ] } }
-]
-}

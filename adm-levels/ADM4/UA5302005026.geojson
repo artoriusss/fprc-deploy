@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.048395021716700001, "Shape_Area": 0.000105738791775, "ADM4_EN": "Strutynivka", "ADM4_UA": "Струтинівка", "ADM4_PCODE": "UA5302005026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hradyzka", "ADM3_UA": "Градизька", "ADM3_PCODE": "UA5302005", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.86661, 49.508021 ], [ 32.858959999000035, 49.505616 ], [ 32.857622, 49.50239 ], [ 32.863232999000047, 49.500318 ], [ 32.876251001000071, 49.503743 ], [ 32.875733, 49.509707 ], [ 32.872795563000068, 49.50835771800007 ], [ 32.86661, 49.508021 ] ] ] } }
-]
-}

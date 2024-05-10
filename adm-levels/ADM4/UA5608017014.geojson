@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.075169851229600002, "Shape_Area": 6.5408736897500005e-05, "ADM4_EN": "Kopyshche", "ADM4_UA": "Копище", "ADM4_PCODE": "UA5608017014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sarnenska", "ADM3_UA": "Сарненська", "ADM3_PCODE": "UA5608017", "ADM2_EN": "Sarnenskyi", "ADM2_UA": "Сарненський", "ADM2_PCODE": "UA5608", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 26.495375041000045, 51.374555010000051 ], [ 26.485367328000052, 51.372172008000064 ], [ 26.485466040000063, 51.369405930000028 ], [ 26.49062592000007, 51.371138970000061 ], [ 26.495375041000045, 51.374555010000051 ] ] ], [ [ [ 26.484387121000054, 51.366765061000081 ], [ 26.480023920000065, 51.365803050000068 ], [ 26.485754863000068, 51.360287156000027 ], [ 26.491321800000037, 51.362567010000078 ], [ 26.483814864000067, 51.364061820000074 ], [ 26.484387121000054, 51.366765061000081 ] ] ] ] } }
-]
-}

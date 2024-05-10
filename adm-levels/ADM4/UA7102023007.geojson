@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.111240766241, "Shape_Area": 0.00030965883176100001, "ADM4_EN": "Sukha Kalyhirka", "ADM4_UA": "Суха Калигірка", "ADM4_PCODE": "UA7102023007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mokrokalyhirska", "ADM3_UA": "Мокрокалигірська", "ADM3_PCODE": "UA7102023", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.184101, 48.818395 ], [ 31.175527, 48.822646 ], [ 31.173509, 48.825796 ], [ 31.171014, 48.821656 ], [ 31.173037001000068, 48.815252 ], [ 31.165470001000074, 48.814115 ], [ 31.169807, 48.809217 ], [ 31.174585, 48.809157 ], [ 31.17731, 48.802771 ], [ 31.180850999000029, 48.798303 ], [ 31.186892347000025, 48.802260476000072 ], [ 31.184823999000059, 48.807910999000057 ], [ 31.188398999000071, 48.814475 ], [ 31.18763799900006, 48.816962 ], [ 31.184101, 48.818395 ] ] ] } }
-]
-}

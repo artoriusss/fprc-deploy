@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.087181508854500003, "Shape_Area": 0.000107125646854, "ADM4_EN": "Makartetyne", "ADM4_UA": "Макартетине", "ADM4_PCODE": "UA4414009010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novopskovska", "ADM3_UA": "Новопсковська", "ADM3_PCODE": "UA4414009", "ADM2_EN": "Starobilskyi", "ADM2_UA": "Старобільський", "ADM2_PCODE": "UA4414", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.925694, 49.580908 ], [ 38.927064, 49.585167 ], [ 38.920529, 49.58381 ], [ 38.922426, 49.57982 ], [ 38.91959, 49.57818 ], [ 38.920918, 49.574988 ], [ 38.927176, 49.576615 ], [ 38.936787, 49.577734 ], [ 38.939206, 49.577069 ], [ 38.942373, 49.579978 ], [ 38.94006, 49.582182 ], [ 38.933058, 49.581759 ], [ 38.926815, 49.578829 ], [ 38.925694, 49.580908 ] ] ] } }
-]
-}

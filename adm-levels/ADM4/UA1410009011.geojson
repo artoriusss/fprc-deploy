@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060231833388599998, "Shape_Area": 0.00014022110142699999, "ADM4_EN": "Oleksandrivka", "ADM4_UA": "Олександрівка", "ADM4_PCODE": "UA1410009011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starobeshivska", "ADM3_UA": "Старобешівська", "ADM3_PCODE": "UA1410009", "ADM2_EN": "Kalmiuskyi", "ADM2_UA": "Кальміуський", "ADM2_PCODE": "UA1410", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.053746999000055, 47.800571 ], [ 38.048669999000026, 47.801386 ], [ 38.043697999000074, 47.798346 ], [ 38.043996999000058, 47.793614 ], [ 38.047022999000035, 47.790689 ], [ 38.052127999000049, 47.789688 ], [ 38.056189999000026, 47.790496 ], [ 38.053946999000061, 47.795339 ], [ 38.060572998000055, 47.796392 ], [ 38.058994999000049, 47.800068 ], [ 38.053746999000055, 47.800571 ] ] ] } }
-]
-}

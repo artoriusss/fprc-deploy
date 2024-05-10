@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.053566084185899997, "Shape_Area": 9.4267726600700001e-05, "ADM4_EN": "Dibrivka", "ADM4_UA": "Дібрівка", "ADM4_PCODE": "UA7106017008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Monastyryshchenska", "ADM3_UA": "Монастирищенська", "ADM3_PCODE": "UA7106017", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.737880380000036, 48.963812401000041 ], [ 29.728661842000065, 48.962974164000059 ], [ 29.729347, 48.960406 ], [ 29.72117838500003, 48.957530822000081 ], [ 29.722973, 48.955498 ], [ 29.73209, 48.957596 ], [ 29.737647999000046, 48.95751 ], [ 29.742276, 48.960252 ], [ 29.737880380000036, 48.963812401000041 ] ] ] } }
-]
-}

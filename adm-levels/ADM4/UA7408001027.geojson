@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.052785693026600002, "Shape_Area": 5.5039670640099998e-05, "ADM4_EN": "Khortytsia", "ADM4_UA": "Хортиця", "ADM4_PCODE": "UA7408001027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Varvynska", "ADM3_UA": "Варвинська", "ADM3_PCODE": "UA7408001", "ADM2_EN": "Prylutskyi", "ADM2_UA": "Прилуцький", "ADM2_PCODE": "UA7408", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.884602119000078, 50.429294010000035 ], [ 32.889670920000071, 50.433543 ], [ 32.89433616000008, 50.434679070000072 ], [ 32.894597160000046, 50.437720080000076 ], [ 32.879262961000052, 50.431075020000037 ], [ 32.876138160000039, 50.42739897000007 ], [ 32.882024161000061, 50.427350010000055 ], [ 32.884602119000078, 50.429294010000035 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.056494753926099997, "Shape_Area": 8.3906798137399995e-05, "ADM4_EN": "Novosoldatske", "ADM4_UA": "Новосолдатське", "ADM4_PCODE": "UA2302007008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berestivska", "ADM3_UA": "Берестівська", "ADM3_PCODE": "UA2302007", "ADM2_EN": "Berdianskyi", "ADM2_UA": "Бердянський", "ADM2_PCODE": "UA2302", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.893951013000049, 47.036796524000067 ], [ 36.897917152000048, 47.034327129000076 ], [ 36.89809906000005, 47.029564999000058 ], [ 36.901733041000057, 47.030416996000042 ], [ 36.901944356000058, 47.037127119000047 ], [ 36.905194492000078, 47.037101857000039 ], [ 36.90527237200007, 47.040740514000049 ], [ 36.897771843000044, 47.041882532000045 ], [ 36.896079504000056, 47.040321966000079 ], [ 36.893951013000049, 47.036796524000067 ] ] ] } }
-]
-}

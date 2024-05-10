@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.086843928690199995, "Shape_Area": 0.00017161153860099999, "ADM4_EN": "Davydivka", "ADM4_UA": "Давидівка", "ADM4_PCODE": "UA5114007009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zakharivska", "ADM3_UA": "Захарівська", "ADM3_PCODE": "UA5114007", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.725973, 47.42192 ], [ 29.722891, 47.427208 ], [ 29.720839, 47.426984 ], [ 29.720578, 47.418519 ], [ 29.723925, 47.414634 ], [ 29.725977, 47.408859 ], [ 29.72734, 47.400957 ], [ 29.728914001000078, 47.396865 ], [ 29.732700001000069, 47.395284 ], [ 29.732823, 47.402317 ], [ 29.730075999000064, 47.413821 ], [ 29.727465001000041, 47.416259 ], [ 29.725973, 47.42192 ] ] ] } }
-]
-}

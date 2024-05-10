@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0494070656328, "Shape_Area": 5.5938206587899997e-05, "ADM4_EN": "Luhove", "ADM4_UA": "Лугове", "ADM4_PCODE": "UA0702007005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivanychivska", "ADM3_UA": "Іваничівська", "ADM3_PCODE": "UA0702007", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.391174156000034, 50.663107005000029 ], [ 24.391181156000073, 50.666242005000072 ], [ 24.385885156000029, 50.667631005000032 ], [ 24.383077157000059, 50.666555005000077 ], [ 24.384498156000063, 50.662234005000073 ], [ 24.390788154000063, 50.661348004000047 ], [ 24.391174156000034, 50.663107005000029 ] ] ] } }
-]
-}

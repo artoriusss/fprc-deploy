@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.123558972435, "Shape_Area": 0.00021254512601299999, "ADM4_EN": "Ratush", "ADM4_UA": "Ратуш", "ADM4_PCODE": "UA0508011028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yampilska", "ADM3_UA": "Ямпільська", "ADM3_PCODE": "UA0508011", "ADM2_EN": "Mohyliv-Podilskyi", "ADM2_UA": "Могилів-Подільський", "ADM2_PCODE": "UA0508", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.456741, 48.351559 ], [ 28.449917001000074, 48.354734 ], [ 28.444459, 48.348562 ], [ 28.45518, 48.345255 ], [ 28.456476, 48.343579 ], [ 28.453935, 48.336208 ], [ 28.453707, 48.330939 ], [ 28.457636, 48.331667 ], [ 28.45913, 48.337699 ], [ 28.465243, 48.335847 ], [ 28.465219001000037, 48.3391 ], [ 28.459032, 48.339981 ], [ 28.46236, 48.34335 ], [ 28.463635, 48.349891 ], [ 28.461855, 48.354275 ], [ 28.456741, 48.351559 ] ] ] } }
-]
-}

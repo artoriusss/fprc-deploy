@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.053550486332700001, "Shape_Area": 0.000100805648573, "ADM4_EN": "Bilovartsi", "ADM4_UA": "Біловарці", "ADM4_PCODE": "UA2108001002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bedevlianska", "ADM3_UA": "Бедевлянська", "ADM3_PCODE": "UA2108001", "ADM2_EN": "Tiachivskyi", "ADM2_UA": "Тячівський", "ADM2_PCODE": "UA2108", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.702609267000071, 48.038706011000045 ], [ 23.697883269000044, 48.038286010000036 ], [ 23.690001270000039, 48.025939011000048 ], [ 23.692124270000079, 48.02447101100006 ], [ 23.696930270000053, 48.028701011000067 ], [ 23.700851268000065, 48.030200011000034 ], [ 23.703819266000039, 48.035599011000045 ], [ 23.702609267000071, 48.038706011000045 ] ] ] } }
-]
-}

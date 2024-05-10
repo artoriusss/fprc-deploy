@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11639164477400001, "Shape_Area": 0.00031501129474000001, "ADM4_EN": "Tokarivka", "ADM4_UA": "Токарівка", "ADM4_PCODE": "UA6510007011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Darivska", "ADM3_UA": "Дар'ївська", "ADM3_PCODE": "UA6510007", "ADM2_EN": "Khersonskyi", "ADM2_UA": "Херсонський", "ADM2_PCODE": "UA6510", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.96167, 46.760099 ], [ 32.964498, 46.764616 ], [ 32.965389, 46.768714 ], [ 32.960623, 46.767904 ], [ 32.961898001000066, 46.764139 ], [ 32.958456999000077, 46.762703 ], [ 32.958021, 46.75922 ], [ 32.950977001000069, 46.75803 ], [ 32.949706, 46.750599 ], [ 32.944198, 46.750655 ], [ 32.946182, 46.747018 ], [ 32.963559, 46.747204 ], [ 32.966564, 46.748623 ], [ 32.974936, 46.747937 ], [ 32.977686, 46.749118 ], [ 32.974096, 46.756665 ], [ 32.966224, 46.75465 ], [ 32.96167, 46.760099 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.079485005225699998, "Shape_Area": 0.00016870542122300001, "ADM4_EN": "Malyi Bereznyi", "ADM4_UA": "Малий Березний", "ADM4_PCODE": "UA2110007004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dubrynytska-Malobereznianska", "ADM3_UA": "Дубриницько-Малоберезнянс", "ADM3_PCODE": "UA2110007", "ADM2_EN": "Uzhhorodskyi", "ADM2_UA": "Ужгородський", "ADM2_PCODE": "UA2110", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.446805029000075, 48.86629428100008 ], [ 22.443479526000033, 48.867109997000057 ], [ 22.440872883000054, 48.862134049000076 ], [ 22.437497191000034, 48.860396120000075 ], [ 22.440955908000035, 48.854266204000055 ], [ 22.448273768000035, 48.852079591000063 ], [ 22.451618401000076, 48.855300758000055 ], [ 22.449836229000027, 48.860900849000075 ], [ 22.453671676000056, 48.86386086400006 ], [ 22.446805029000075, 48.86629428100008 ] ] ] } }
-]
-}

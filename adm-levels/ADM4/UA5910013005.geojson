@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.110872803683, "Shape_Area": 0.00017852055369200001, "ADM4_EN": "Havrylova Sloboda", "ADM4_UA": "Гаврилова Слобода", "ADM4_PCODE": "UA5910013005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Seredyno-Budska", "ADM3_UA": "Середино-Будська", "ADM3_PCODE": "UA5910013", "ADM2_EN": "Shostkynskyi", "ADM2_UA": "Шосткинський", "ADM2_PCODE": "UA5910", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.886888, 52.266094 ], [ 33.88317900100003, 52.265226 ], [ 33.876766001000078, 52.265717 ], [ 33.87419, 52.262856 ], [ 33.868813999000054, 52.264438 ], [ 33.868213, 52.261101 ], [ 33.871856, 52.260469 ], [ 33.870892, 52.256611 ], [ 33.876227, 52.257588 ], [ 33.878548, 52.260285 ], [ 33.887267, 52.257376 ], [ 33.88871799900005, 52.260606 ], [ 33.892025, 52.254719 ], [ 33.895688001000053, 52.254498 ], [ 33.897928, 52.2565 ], [ 33.893695, 52.260231 ], [ 33.888478, 52.26318 ], [ 33.886888, 52.266094 ] ] ] } }
-]
-}

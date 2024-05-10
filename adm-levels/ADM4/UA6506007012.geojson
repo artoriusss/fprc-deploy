@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0725084762967, "Shape_Area": 0.0002429949458, "ADM4_EN": "Marynske", "ADM4_UA": "Маринське", "ADM4_PCODE": "UA6506007012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hornostaivska", "ADM3_UA": "Горностаївська", "ADM3_PCODE": "UA6506007", "ADM2_EN": "Kakhovskyi", "ADM2_UA": "Каховський", "ADM2_PCODE": "UA6506", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.878945, 47.00012 ], [ 33.869829, 47.002279 ], [ 33.864132999000049, 46.99459 ], [ 33.871705, 46.992288 ], [ 33.868381, 46.989253 ], [ 33.877875, 46.984236 ], [ 33.889255999000056, 46.990151 ], [ 33.884625001000074, 46.993254 ], [ 33.88416600100004, 46.996272 ], [ 33.878945, 47.00012 ] ] ] } }
-]
-}

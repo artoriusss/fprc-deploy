@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.059347740342499997, "Shape_Area": 0.000100797296745, "ADM4_EN": "Karachyn", "ADM4_UA": "Карачин", "ADM4_PCODE": "UA2102009004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vylotska", "ADM3_UA": "Вилоцька", "ADM3_PCODE": "UA2102009", "ADM2_EN": "Berehivskyi", "ADM2_UA": "Берегівський", "ADM2_PCODE": "UA2102", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.868038580000075, 48.143997025000033 ], [ 22.860633582000048, 48.142180024000027 ], [ 22.864426580000043, 48.136668025000063 ], [ 22.86668357800005, 48.129961025000057 ], [ 22.868829576000053, 48.127641025000059 ], [ 22.874856988000033, 48.126970045000064 ], [ 22.874384574000032, 48.13242202400005 ], [ 22.868388578000065, 48.136745025000039 ], [ 22.866253579000045, 48.141277026000068 ], [ 22.868038580000075, 48.143997025000033 ] ] ] } }
-]
-}

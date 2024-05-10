@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.066688945266900002, "Shape_Area": 0.000156563685225, "ADM4_EN": "Hushtyn", "ADM4_UA": "Гуштин", "ADM4_PCODE": "UA6106035005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Skala-Podilska", "ADM3_UA": "Скала-Подільська", "ADM3_PCODE": "UA6106035", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.128863, 48.900436 ], [ 26.123393, 48.900227 ], [ 26.118695068000079, 48.896931296000048 ], [ 26.115951602000052, 48.891267250000055 ], [ 26.12149677900004, 48.888458329000059 ], [ 26.122916610000061, 48.890896139000063 ], [ 26.130768368000076, 48.890504167000074 ], [ 26.135955360000025, 48.893708422000032 ], [ 26.138239898000052, 48.896776929000055 ], [ 26.131413417000033, 48.898303015000067 ], [ 26.128863, 48.900436 ] ] ] } }
-]
-}

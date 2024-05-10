@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13942981451299999, "Shape_Area": 0.00022119953617300001, "ADM4_EN": "Nastasiivka", "ADM4_UA": "Настасіївка", "ADM4_PCODE": "UA5102001008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Andriievo-Ivanivska", "ADM3_UA": "Андрієво-Іванівська", "ADM3_PCODE": "UA5102001", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.374645, 47.565361 ], [ 30.372969, 47.561599 ], [ 30.386349999000061, 47.555046 ], [ 30.386711, 47.553058 ], [ 30.391422001000024, 47.551579 ], [ 30.406026, 47.542782 ], [ 30.407701, 47.540507 ], [ 30.420934, 47.532131 ], [ 30.414235, 47.544774 ], [ 30.406439, 47.549897 ], [ 30.399883, 47.549277 ], [ 30.389395, 47.556021 ], [ 30.38546799900007, 47.556547 ], [ 30.37799, 47.561086 ], [ 30.374645, 47.565361 ] ] ] } }
-]
-}

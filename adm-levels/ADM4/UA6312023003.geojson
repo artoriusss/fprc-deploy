@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.049424252128699997, "Shape_Area": 6.9291392356500003e-05, "ADM4_EN": "Leliuky", "ADM4_UA": "Лелюки", "ADM4_PCODE": "UA6312023003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rohanska", "ADM3_UA": "Роганська", "ADM3_PCODE": "UA6312023", "ADM2_EN": "Kharkivskyi", "ADM2_UA": "Харківський", "ADM2_PCODE": "UA6312", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.371186, 49.91082 ], [ 36.365674, 49.910693 ], [ 36.363985, 49.907 ], [ 36.35867999900006, 49.906246 ], [ 36.360393, 49.902924 ], [ 36.376647, 49.907141 ], [ 36.371186, 49.91082 ] ] ] } }
-]
-}

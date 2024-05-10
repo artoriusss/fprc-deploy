@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.078879119047699994, "Shape_Area": 0.00021064113779300001, "ADM4_EN": "Klityshche", "ADM4_UA": "Клітище", "ADM4_PCODE": "UA1804059013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Cherniakhivska", "ADM3_UA": "Черняхівська", "ADM3_PCODE": "UA1804059", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.570839120000073, 50.441192010000066 ], [ 28.573086960000069, 50.443979040000045 ], [ 28.554000839000025, 50.445369 ], [ 28.542660840000053, 50.445657 ], [ 28.544158080000045, 50.442768 ], [ 28.552934160000063, 50.438899980000031 ], [ 28.561820040000043, 50.433164010000041 ], [ 28.56877595900005, 50.43738699000005 ], [ 28.570839120000073, 50.441192010000066 ] ] ] } }
-]
-}

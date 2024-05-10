@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.094798383821099994, "Shape_Area": 0.00011252722599, "ADM4_EN": "Lemeshiv", "ADM4_UA": "Лемешів", "ADM4_PCODE": "UA0708007018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horokhivska", "ADM3_UA": "Горохівська", "ADM3_PCODE": "UA0708007", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.648231495000061, 50.554330962000051 ], [ 24.649026118000052, 50.55486800400007 ], [ 24.678244115000041, 50.566505004000078 ], [ 24.674153115000024, 50.566868003000081 ], [ 24.668444116000046, 50.571039004000056 ], [ 24.665355118000036, 50.569524004000073 ], [ 24.665420116000064, 50.563262003000034 ], [ 24.647848119000059, 50.556093004000047 ], [ 24.647281274000022, 50.554901051000058 ], [ 24.648231495000061, 50.554330962000051 ] ] ] } }
-]
-}

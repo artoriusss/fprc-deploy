@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.052537716764, "Shape_Area": 9.1091524190899995e-05, "ADM4_EN": "Velyki Hrybovychi", "ADM4_UA": "Великі Грибовичі", "ADM4_PCODE": "UA4606025006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lvivska", "ADM3_UA": "Львівська", "ADM3_PCODE": "UA4606025", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.036614213000064, 49.915988007000067 ], [ 24.034796214000039, 49.91461700800005 ], [ 24.036244213000032, 49.909919008000031 ], [ 24.04039821300006, 49.907638008000049 ], [ 24.044489211000041, 49.907950008000057 ], [ 24.052780209000048, 49.912999008000043 ], [ 24.045495212000048, 49.913497007000046 ], [ 24.04279321100006, 49.915689008000072 ], [ 24.036882214000059, 49.916011007000066 ], [ 24.036614213000064, 49.915988007000067 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0433419225144, "Shape_Area": 0.000109411892773, "ADM4_EN": "Skarzhyntsi", "ADM4_UA": "Скаржинці", "ADM4_PCODE": "UA6804025009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lisovohrynivetska", "ADM3_UA": "Лісовогринівецька", "ADM3_PCODE": "UA6804025", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.015036365000071, 49.51265632500008 ], [ 27.007823001000077, 49.512015 ], [ 27.012137, 49.500437 ], [ 27.016227, 49.50086 ], [ 27.017727, 49.504333 ], [ 27.022051728000065, 49.507800693000036 ], [ 27.015036365000071, 49.51265632500008 ] ] ] } }
-]
-}

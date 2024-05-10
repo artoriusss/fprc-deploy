@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.103293698047, "Shape_Area": 0.00032774518518800003, "ADM4_EN": "Podvirne", "ADM4_UA": "Подвірне", "ADM4_PCODE": "UA7304009007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mamalyhivska", "ADM3_UA": "Мамалигівська", "ADM3_PCODE": "UA7304009", "ADM2_EN": "Dnistrovskyi", "ADM2_UA": "Дністровський", "ADM2_PCODE": "UA7304", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.614019, 48.308104 ], [ 26.607784, 48.307225 ], [ 26.604820001000064, 48.30429 ], [ 26.608814, 48.300233 ], [ 26.611511, 48.295287999000038 ], [ 26.614156, 48.294052 ], [ 26.615622, 48.289533 ], [ 26.623355, 48.288308 ], [ 26.631626001000029, 48.289625 ], [ 26.636580999000046, 48.286702 ], [ 26.639745, 48.290164 ], [ 26.633209, 48.29321 ], [ 26.625157, 48.300315 ], [ 26.623354, 48.300618 ], [ 26.61835, 48.306328 ], [ 26.614019, 48.308104 ] ] ] } }
-]
-}

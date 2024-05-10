@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.071381258456099994, "Shape_Area": 0.00018644006949299999, "ADM4_EN": "Antonivka", "ADM4_UA": "Антонівка", "ADM4_PCODE": "UA6508015020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Skadovska", "ADM3_UA": "Скадовська", "ADM3_PCODE": "UA6508015", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Скадовський", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.951837, 46.147641 ], [ 32.94321, 46.146384 ], [ 32.943522836000056, 46.141118714000072 ], [ 32.952185, 46.13538 ], [ 32.957799, 46.139127 ], [ 32.96025, 46.135733 ], [ 32.965605, 46.137942 ], [ 32.966730999000049, 46.140502 ], [ 32.962732999000025, 46.142248 ], [ 32.959836001000042, 46.146588 ], [ 32.955091, 46.144845 ], [ 32.951837, 46.147641 ] ] ] } }
-]
-}

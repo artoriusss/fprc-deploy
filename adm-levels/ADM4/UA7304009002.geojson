@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10917803189600001, "Shape_Area": 0.000269333593627, "ADM4_EN": "Balkivtsi", "ADM4_UA": "Балківці", "ADM4_PCODE": "UA7304009002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mamalyhivska", "ADM3_UA": "Мамалигівська", "ADM3_PCODE": "UA7304009", "ADM2_EN": "Dnistrovskyi", "ADM2_UA": "Дністровський", "ADM2_PCODE": "UA7304", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.580214, 48.360263 ], [ 26.57744, 48.3654 ], [ 26.565213, 48.356779 ], [ 26.564878, 48.354542 ], [ 26.556888, 48.351243 ], [ 26.556169, 48.349114 ], [ 26.567752001000031, 48.348147 ], [ 26.569593, 48.345064 ], [ 26.575903999000047, 48.344584 ], [ 26.580333, 48.347883 ], [ 26.5792, 48.350906 ], [ 26.580214, 48.360263 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.067954413635400002, "Shape_Area": 0.000104330830576, "ADM4_EN": "Antonivka", "ADM4_UA": "Антонівка", "ADM4_PCODE": "UA2310023002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozivska", "ADM3_UA": "Розівська", "ADM3_PCODE": "UA2310023", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.014204194000058, 47.512703350000038 ], [ 37.011048261000042, 47.509349772000064 ], [ 37.014911366000035, 47.504633462000072 ], [ 37.021843998000065, 47.497887236000054 ], [ 37.024482826000053, 47.501514953000026 ], [ 37.014204194000058, 47.512703350000038 ] ] ] } }
-]
-}

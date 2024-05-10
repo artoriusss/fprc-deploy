@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.093704047287599998, "Shape_Area": 0.00025882929434, "ADM4_EN": "Bohdanivka", "ADM4_UA": "Богданівка", "ADM4_PCODE": "UA6804009004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Volochyska", "ADM3_UA": "Волочиська", "ADM3_PCODE": "UA6804009", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.489175, 49.668658 ], [ 26.483498, 49.670274 ], [ 26.488299999000049, 49.674073 ], [ 26.483624, 49.677599 ], [ 26.478809, 49.675923 ], [ 26.480931, 49.67071 ], [ 26.476197999000078, 49.668321 ], [ 26.46727499900004, 49.669058 ], [ 26.466468001000067, 49.662746 ], [ 26.475696, 49.663488 ], [ 26.475826, 49.661614 ], [ 26.48319, 49.659439 ], [ 26.490218, 49.659513 ], [ 26.495475, 49.665826 ], [ 26.489175, 49.668658 ] ] ] } }
-]
-}

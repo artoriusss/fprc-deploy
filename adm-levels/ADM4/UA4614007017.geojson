@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0480700291625, "Shape_Area": 0.00012552496190799999, "ADM4_EN": "Mali Mokriany", "ADM4_UA": "Малі Мокряни", "ADM4_PCODE": "UA4614007017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sudovovyshnianska", "ADM3_UA": "Судововишнянська", "ADM3_PCODE": "UA4614007", "ADM2_EN": "Yavorivskyi", "ADM2_UA": "Яворівський", "ADM2_PCODE": "UA4614", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.315303418000042, 49.687081016000036 ], [ 23.32142841600006, 49.688747016000036 ], [ 23.323829416000024, 49.692252016000054 ], [ 23.324249415000054, 49.697224016000064 ], [ 23.321372417000077, 49.698898015000054 ], [ 23.308329421000053, 49.698682016000078 ], [ 23.312683420000042, 49.691943016000039 ], [ 23.315303418000042, 49.687081016000036 ] ] ] } }
-]
-}

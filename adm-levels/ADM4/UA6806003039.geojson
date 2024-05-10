@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.054761584319000002, "Shape_Area": 0.000111054313192, "ADM4_EN": "Mizhhiria", "ADM4_UA": "Міжгір'я", "ADM4_PCODE": "UA6806003039", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilohirska", "ADM3_UA": "Білогірська", "ADM3_PCODE": "UA6806003", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.251149, 50.009726 ], [ 26.240288, 50.009685 ], [ 26.235119001000044, 50.004343 ], [ 26.235566, 50.002031 ], [ 26.240661, 50.002459 ], [ 26.246038, 49.998495 ], [ 26.248419001000059, 49.999641 ], [ 26.251588999000035, 50.004452 ], [ 26.251149, 50.009726 ] ] ] } }
-]
-}

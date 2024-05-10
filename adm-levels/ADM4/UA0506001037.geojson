@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0990224704343, "Shape_Area": 0.000118737488039, "ADM4_EN": "Myrne", "ADM4_UA": "Мирне", "ADM4_PCODE": "UA0506001037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Barska", "ADM3_UA": "Барська", "ADM3_PCODE": "UA0506001", "ADM2_EN": "Zhmerynskyi", "ADM2_UA": "Жмеринський", "ADM2_PCODE": "UA0506", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.693221, 49.031767 ], [ 27.690302001000077, 49.03486 ], [ 27.687482, 49.034962 ], [ 27.685405, 49.028759 ], [ 27.687570999000059, 49.024397 ], [ 27.695384001000036, 49.026281 ], [ 27.700022, 49.030661 ], [ 27.695957001000068, 49.032799 ], [ 27.693221, 49.031767 ] ] ] } }
-]
-}

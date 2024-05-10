@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10838675367800001, "Shape_Area": 0.000213294574019, "ADM4_EN": "Buda-Makiivka", "ADM4_UA": "Буда-Макіївка", "ADM4_PCODE": "UA7108033002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rotmistrivska", "ADM3_UA": "Ротмістрівська", "ADM3_PCODE": "UA7108033", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.687800999000046, 48.97054 ], [ 31.689026195000054, 48.970647073000066 ], [ 31.695444999000074, 48.981241 ], [ 31.69589, 48.986293 ], [ 31.691833258000031, 48.985842311000056 ], [ 31.684583988000043, 48.982378082000025 ], [ 31.678053, 48.978009 ], [ 31.674448, 48.974158 ], [ 31.670409, 48.967627 ], [ 31.680136999000069, 48.972935 ], [ 31.687800999000046, 48.97054 ] ] ] } }
-]
-}

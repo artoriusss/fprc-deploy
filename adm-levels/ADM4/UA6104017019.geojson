@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.115412120536, "Shape_Area": 0.00019001790854100001, "ADM4_EN": "Kabarivtsi", "ADM4_UA": "Кабарівці", "ADM4_PCODE": "UA6104017019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zborivska", "ADM3_UA": "Зборівська", "ADM3_PCODE": "UA6104017", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.146959087000027, 49.729067605000068 ], [ 25.143110912000054, 49.729483301000073 ], [ 25.133683, 49.719463 ], [ 25.132318314000031, 49.715821566000045 ], [ 25.134463364000055, 49.711992671000075 ], [ 25.139954139000054, 49.717351866000058 ], [ 25.14609495600007, 49.717550954000046 ], [ 25.148999066000044, 49.720512783000061 ], [ 25.149148643000046, 49.724956757000029 ], [ 25.146959087000027, 49.729067605000068 ] ] ] } }
-]
-}

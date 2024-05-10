@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.22823781093100001, "Shape_Area": 0.00023697027970400001, "ADM4_EN": "Mykhailivka Persha", "ADM4_UA": "Михайлівка Перша", "ADM4_PCODE": "UA5308017006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kotelevska", "ADM3_UA": "Котелевська", "ADM3_PCODE": "UA5308017", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.894513, 50.05181 ], [ 34.883358001000033, 50.051665 ], [ 34.883270999000047, 50.04835 ], [ 34.871821, 50.04927 ], [ 34.869891500000051, 50.042480266000041 ], [ 34.880112999000062, 50.043035 ], [ 34.881054, 50.042202 ], [ 34.897523999000043, 50.043142 ], [ 34.903235, 50.045504 ], [ 34.91161100100004, 50.042072 ], [ 34.914505, 50.045818 ], [ 34.905933, 50.048535 ], [ 34.902487, 50.047249 ], [ 34.889693, 50.047793 ], [ 34.889479, 50.050169 ], [ 34.894513, 50.05181 ] ] ] } }
-]
-}

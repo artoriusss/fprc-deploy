@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0661116978937, "Shape_Area": 5.4700843042099998e-05, "ADM4_EN": "Vytsiv", "ADM4_UA": "Виців", "ADM4_PCODE": "UA4608017006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Strilkivska", "ADM3_UA": "Стрілківська", "ADM3_PCODE": "UA4608017", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.845401625000022, 49.343986025000049 ], [ 22.844708628000035, 49.342131025000072 ], [ 22.837654631000078, 49.340131026000051 ], [ 22.831757635000031, 49.336772025000073 ], [ 22.830119635000074, 49.32958702600007 ], [ 22.832772633000047, 49.330153026000062 ], [ 22.834886633000053, 49.336014025000054 ], [ 22.836945632000038, 49.336032025000065 ], [ 22.845401625000022, 49.343986025000049 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.105288419524, "Shape_Area": 0.00022481977085000001, "ADM4_EN": "Strymba", "ADM4_UA": "Стримба", "ADM4_PCODE": "UA2612007013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nadvirnianska", "ADM3_UA": "Надвірнянська", "ADM3_PCODE": "UA2612007", "ADM2_EN": "Nadvirnianskyi", "ADM2_UA": "Надвірнянський", "ADM2_PCODE": "UA2612", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.577741, 48.606622 ], [ 24.576421001000028, 48.610837 ], [ 24.571945999000036, 48.608314 ], [ 24.570944, 48.605897 ], [ 24.576298, 48.596575 ], [ 24.57881, 48.587463 ], [ 24.579053, 48.583909 ], [ 24.583242, 48.585063 ], [ 24.585074999000028, 48.588187 ], [ 24.582303, 48.597347 ], [ 24.585016, 48.600761 ], [ 24.589226, 48.602874 ], [ 24.579699, 48.606932 ], [ 24.577741, 48.606622 ] ] ] } }
-]
-}

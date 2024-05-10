@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.056405720963399998, "Shape_Area": 5.0308974554299998e-05, "ADM4_EN": "Kozache", "ADM4_UA": "Козаче", "ADM4_PCODE": "UA7104007006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Drabivska", "ADM3_UA": "Драбівська", "ADM3_PCODE": "UA7104007", "ADM2_EN": "Zolotoniskyi", "ADM2_UA": "Золотоніський", "ADM2_PCODE": "UA7104", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.270844, 49.988113 ], [ 32.266777999000055, 49.98421 ], [ 32.259092999000075, 49.983525 ], [ 32.262711001000071, 49.980293 ], [ 32.270616, 49.982725 ], [ 32.275575, 49.986016 ], [ 32.270844, 49.988113 ] ] ] } }
-]
-}

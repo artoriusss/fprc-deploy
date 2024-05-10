@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.086857327598600001, "Shape_Area": 0.00013034472495500001, "ADM4_EN": "Marianivka", "ADM4_UA": "Мар'янівка", "ADM4_PCODE": "UA5302009030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozelshchynska", "ADM3_UA": "Козельщинська", "ADM3_PCODE": "UA5302009", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.946055001000047, 49.311103 ], [ 33.948757, 49.314756 ], [ 33.957260001000066, 49.315025 ], [ 33.955513, 49.318473 ], [ 33.932178001000068, 49.317365 ], [ 33.932222, 49.32126 ], [ 33.926492999000061, 49.320026 ], [ 33.926911, 49.31437 ], [ 33.94108900100008, 49.315484 ], [ 33.941410382000072, 49.314121861000046 ], [ 33.946176741000045, 49.314346793000027 ], [ 33.946055001000047, 49.311103 ] ] ] } }
-]
-}

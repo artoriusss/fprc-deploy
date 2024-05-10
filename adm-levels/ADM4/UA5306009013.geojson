@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.059152532153299998, "Shape_Area": 6.2879420312599997e-05, "ADM4_EN": "Ostroverkhivka", "ADM4_UA": "Островерхівка", "ADM4_PCODE": "UA5306009013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hadiatska", "ADM3_UA": "Гадяцька", "ADM3_PCODE": "UA5306009", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.90452, 50.35484 ], [ 33.900033, 50.358105 ], [ 33.898294, 50.35675 ], [ 33.898021999000036, 50.351307 ], [ 33.899782, 50.347941 ], [ 33.904626999000072, 50.347247 ], [ 33.906366, 50.351809 ], [ 33.90452, 50.35484 ] ] ] } }
-]
-}

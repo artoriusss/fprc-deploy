@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.088839560411399995, "Shape_Area": 0.00029743873608399998, "ADM4_EN": "Stavchyntsi", "ADM4_UA": "Ставчинці", "ADM4_PCODE": "UA6804049021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chornoostrivska", "ADM3_UA": "Чорноострівська", "ADM3_PCODE": "UA6804049", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.722186001000068, 49.586716 ], [ 26.720046, 49.581129 ], [ 26.712184, 49.574246 ], [ 26.717456, 49.569734 ], [ 26.724752, 49.571439 ], [ 26.726868, 49.57388 ], [ 26.730035999000052, 49.572249 ], [ 26.730838001000052, 49.566769 ], [ 26.73828700100006, 49.570594 ], [ 26.733828, 49.581979 ], [ 26.735360999000079, 49.586736 ], [ 26.724784, 49.585373 ], [ 26.722186001000068, 49.586716 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12900066083699999, "Shape_Area": 0.000140635735432, "ADM4_EN": "Krasnyi Derkul", "ADM4_UA": "Красний Деркул", "ADM4_PCODE": "UA4416007008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shyrokivska", "ADM3_UA": "Широківська", "ADM3_PCODE": "UA4416007", "ADM2_EN": "Shchastynskyi", "ADM2_UA": "Щастинський", "ADM2_PCODE": "UA4416", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.821549, 48.864918 ], [ 39.820574, 48.868076 ], [ 39.824473, 48.870764 ], [ 39.821266999000045, 48.873685 ], [ 39.815649001000054, 48.869343 ], [ 39.814239, 48.865801 ], [ 39.817478999000059, 48.863375 ], [ 39.821549, 48.864918 ] ] ] } }
-]
-}

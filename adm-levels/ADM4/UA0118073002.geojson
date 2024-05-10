@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.054151560347700002, "Shape_Area": 9.5778079356600003e-05, "ADM4_EN": "Kolomenske", "ADM4_UA": "Коломенське", "ADM4_PCODE": "UA0118073002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chapaievska", "ADM3_UA": "Чапаєвська", "ADM3_PCODE": "UA0118073", "ADM2_EN": "Feodosiiskyi", "ADM2_UA": "Феодосійський", "ADM2_PCODE": "UA0118", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.918995949000077, 45.30563618900004 ], [ 34.915477443000043, 45.30573632200003 ], [ 34.915817477000076, 45.301355458000046 ], [ 34.905677618000027, 45.299949753000078 ], [ 34.913651429000026, 45.295624169000064 ], [ 34.919855494000046, 45.297138078000046 ], [ 34.924628996000024, 45.299424085000055 ], [ 34.926152915000046, 45.302774679000038 ], [ 34.920068818000061, 45.303473342000075 ], [ 34.918995949000077, 45.30563618900004 ] ] ] } }
-]
-}

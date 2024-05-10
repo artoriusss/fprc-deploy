@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.070525225865399999, "Shape_Area": 0.00026017894065099998, "ADM4_EN": "Rudkivtsi", "ADM4_UA": "Рудківці", "ADM4_PCODE": "UA4610027037", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khodorivska", "ADM3_UA": "Ходорівська", "ADM3_PCODE": "UA4610027", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.217458173000068, 49.441960005000055 ], [ 24.23460317100006, 49.44681300600007 ], [ 24.240759169000057, 49.449345006000044 ], [ 24.235672171000033, 49.455951007000067 ], [ 24.228477172000055, 49.458392006000054 ], [ 24.221468173000062, 49.45468500700008 ], [ 24.220034174000034, 49.452410006000036 ], [ 24.210773175000043, 49.447135007000043 ], [ 24.217458173000068, 49.441960005000055 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.079600674228000004, "Shape_Area": 0.00018306171419199999, "ADM4_EN": "Pryvorottia", "ADM4_UA": "Привороття", "ADM4_PCODE": "UA6802021012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Orynynska", "ADM3_UA": "Орининська", "ADM3_PCODE": "UA6802021", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.342703, 48.748337 ], [ 26.336835, 48.749206 ], [ 26.333105, 48.751499 ], [ 26.330071001000078, 48.749667 ], [ 26.331377001000078, 48.744287 ], [ 26.326311, 48.742087 ], [ 26.326164, 48.740246 ], [ 26.334143, 48.735649 ], [ 26.348207001000048, 48.741453 ], [ 26.343241, 48.743496 ], [ 26.342703, 48.748337 ] ] ] } }
-]
-}

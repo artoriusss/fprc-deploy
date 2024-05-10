@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14177380926800001, "Shape_Area": 0.00036708620381299998, "ADM4_EN": "Melnyky", "ADM4_UA": "Мельники", "ADM4_PCODE": "UA7108041012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stepanetska", "ADM3_UA": "Степанецька", "ADM3_PCODE": "UA7108041", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.241317, 49.530924 ], [ 31.248066, 49.534842 ], [ 31.248248001000036, 49.538567 ], [ 31.243586, 49.540164 ], [ 31.241181, 49.543147 ], [ 31.246917, 49.546588 ], [ 31.243767370000057, 49.550975034000032 ], [ 31.232277001000057, 49.550423 ], [ 31.225726001000055, 49.553175 ], [ 31.215509, 49.55614 ], [ 31.210319001000073, 49.552793 ], [ 31.218664999000055, 49.54895 ], [ 31.221534999000028, 49.544562 ], [ 31.235906, 49.54003 ], [ 31.236264, 49.535551 ], [ 31.241317, 49.530924 ] ] ] } }
-]
-}

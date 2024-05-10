@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.119713521558, "Shape_Area": 0.00048853723823200003, "ADM4_EN": "Samiilivka", "ADM4_UA": "Самійлівка", "ADM4_PCODE": "UA6506005017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Verkhnorohachytska", "ADM3_UA": "Верхньорогачицька", "ADM3_PCODE": "UA6506005", "ADM2_EN": "Kakhovskyi", "ADM2_UA": "Каховський", "ADM2_PCODE": "UA6506", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.460347001000059, 47.140455 ], [ 34.457566, 47.138858 ], [ 34.452841001000024, 47.140167 ], [ 34.447594, 47.135688 ], [ 34.435718, 47.133113 ], [ 34.424826, 47.127946 ], [ 34.429167, 47.121038 ], [ 34.433348, 47.1189 ], [ 34.437191999000049, 47.120423 ], [ 34.440122, 47.118008 ], [ 34.442514001000063, 47.121534 ], [ 34.449195001000078, 47.125967 ], [ 34.459498, 47.127041 ], [ 34.468711, 47.130984 ], [ 34.460347001000059, 47.140455 ] ] ] } }
-]
-}

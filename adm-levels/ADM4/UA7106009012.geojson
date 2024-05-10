@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11594879641399999, "Shape_Area": 0.00031166304910999998, "ADM4_EN": "Lemishchykha", "ADM4_UA": "Леміщиха", "ADM4_PCODE": "UA7106009012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhashkivska", "ADM3_UA": "Жашківська", "ADM3_PCODE": "UA7106009", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.069416999000055, 49.257657 ], [ 30.072789999000065, 49.262203 ], [ 30.071871, 49.263777 ], [ 30.06109, 49.261167 ], [ 30.056543, 49.257763 ], [ 30.051207001000023, 49.25543 ], [ 30.042495999000039, 49.25793999900003 ], [ 30.03931699900005, 49.254616 ], [ 30.042202001000078, 49.252248 ], [ 30.040265, 49.247181 ], [ 30.058317, 49.247271 ], [ 30.056583999000054, 49.249187 ], [ 30.062948, 49.25174 ], [ 30.069416999000055, 49.257657 ] ] ] } }
-]
-}

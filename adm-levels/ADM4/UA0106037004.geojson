@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.080364833235100006, "Shape_Area": 0.00017292120505799999, "ADM4_EN": "Borodino", "ADM4_UA": "Бородіно", "ADM4_PCODE": "UA0106037004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Prostornenska", "ADM3_UA": "Просторненська", "ADM3_PCODE": "UA0106037", "ADM2_EN": "Dzhankoiskyi", "ADM2_UA": "Джанкойський", "ADM2_PCODE": "UA0106", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.684591114000057, 45.63811699200005 ], [ 34.682745, 45.640268 ], [ 34.692235983000046, 45.651638997000077 ], [ 34.68829971100007, 45.652708446000076 ], [ 34.682597170000065, 45.649218704000077 ], [ 34.673713518000056, 45.63912859900006 ], [ 34.669707577000054, 45.62774603500003 ], [ 34.673279731000036, 45.627158318000056 ], [ 34.677295095000034, 45.635609763000048 ], [ 34.684591114000057, 45.63811699200005 ] ] ] } }
-]
-}

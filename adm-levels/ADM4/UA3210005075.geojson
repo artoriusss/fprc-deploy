@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073947459549400005, "Shape_Area": 0.000133695289816, "ADM4_EN": "Fruzynivka", "ADM4_UA": "Фрузинівка", "ADM4_PCODE": "UA3210005075", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivankivska", "ADM3_UA": "Іванківська", "ADM3_PCODE": "UA3210005", "ADM2_EN": "Vyshhorodskyi", "ADM2_UA": "Вишгородський", "ADM2_PCODE": "UA3210", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.192048807000049, 51.047505804000082 ], [ 30.190634748000036, 51.049722832000043 ], [ 30.170747782000035, 51.045335827000031 ], [ 30.167728815000032, 51.043496760000039 ], [ 30.17482387900003, 51.040898705000075 ], [ 30.182163782000032, 51.041632789000062 ], [ 30.191709785000057, 51.044554787000038 ], [ 30.192048807000049, 51.047505804000082 ] ] ] } }
-]
-}

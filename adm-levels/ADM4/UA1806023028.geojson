@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0862315502289, "Shape_Area": 0.000161088359286, "ADM4_EN": "Okhotivka", "ADM4_UA": "Охотівка", "ADM4_PCODE": "UA1806023028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ushomyrska", "ADM3_UA": "Ушомирська", "ADM3_PCODE": "UA1806023", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.211893063000048, 50.937731441000039 ], [ 28.215676242000029, 50.94051786700004 ], [ 28.200824999000076, 50.946480001000054 ], [ 28.187058961000048, 50.942592 ], [ 28.195403040000031, 50.940709020000043 ], [ 28.202027040000075, 50.937380010000027 ], [ 28.204995960000076, 50.939191980000032 ], [ 28.207707840000069, 50.936281020000081 ], [ 28.211893063000048, 50.937731441000039 ] ] ] } }
-]
-}

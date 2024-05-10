@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.061600727387099999, "Shape_Area": 0.000114950544508, "ADM4_EN": "Bakuty", "ADM4_UA": "Бакути", "ADM4_PCODE": "UA5306005002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykobudyshchanska", "ADM3_UA": "Великобудищанська", "ADM3_PCODE": "UA5306005", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.229209, 50.507514 ], [ 34.226543001000039, 50.509267 ], [ 34.223402726000074, 50.506312674000071 ], [ 34.213413843000069, 50.507033476000061 ], [ 34.212201, 50.504492 ], [ 34.222536261000073, 50.500823519000051 ], [ 34.22782313700003, 50.497834191000038 ], [ 34.232628, 50.504827 ], [ 34.229209, 50.507514 ] ] ] } }
-]
-}

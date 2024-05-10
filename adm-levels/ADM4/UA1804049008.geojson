@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.050015805203400002, "Shape_Area": 8.4277469405299996e-05, "ADM4_EN": "Buimyr", "ADM4_UA": "Буймир", "ADM4_PCODE": "UA1804049008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stanyshivska", "ADM3_UA": "Станишівська", "ADM3_PCODE": "UA1804049", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.955292841000073, 50.218733970000073 ], [ 28.957277159000057, 50.222388960000046 ], [ 28.953925920000074, 50.225184 ], [ 28.95027587900006, 50.22524898000006 ], [ 28.946991960000048, 50.219729010000037 ], [ 28.943096041000047, 50.216777010000044 ], [ 28.949733001000027, 50.214533040000049 ], [ 28.955292841000073, 50.218733970000073 ] ] ] } }
-]
-}

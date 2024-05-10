@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14481473787, "Shape_Area": 0.00031271004577900001, "ADM4_EN": "Lynove", "ADM4_UA": "Линове", "ADM4_PCODE": "UA5902011016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoslobidska", "ADM3_UA": "Новослобідська", "ADM3_PCODE": "UA5902011", "ADM2_EN": "Konotopskyi", "ADM2_UA": "Конотопський", "ADM2_PCODE": "UA5902", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.058806, 51.33973 ], [ 34.065978, 51.33349 ], [ 34.049699, 51.333454 ], [ 34.045377999000038, 51.329357 ], [ 34.050506001000031, 51.328317 ], [ 34.056358, 51.322827 ], [ 34.061280999000076, 51.321771 ], [ 34.06409, 51.316937 ], [ 34.069017999000039, 51.316636 ], [ 34.068578, 51.321845 ], [ 34.071068, 51.322452 ], [ 34.070321001000025, 51.331343 ], [ 34.069104, 51.334014 ], [ 34.058806, 51.33973 ] ] ] } }
-]
-}

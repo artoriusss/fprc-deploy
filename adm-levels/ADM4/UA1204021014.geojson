@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.097142909355299997, "Shape_Area": 0.000299331882953, "ADM4_EN": "Krasnyi Luh", "ADM4_UA": "Красний Луг", "ADM4_PCODE": "UA1204021014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Piatykhatska", "ADM3_UA": "П'ятихатська", "ADM3_PCODE": "UA1204021", "ADM2_EN": "Kamianskyi", "ADM2_UA": "Кам’янський", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.674219, 48.468139 ], [ 33.652499, 48.476696 ], [ 33.631782, 48.474708 ], [ 33.636098, 48.470655 ], [ 33.644721, 48.468252 ], [ 33.653467999000043, 48.464938 ], [ 33.666460308000069, 48.464973731000043 ], [ 33.674219, 48.468139 ] ] ] } }
-]
-}

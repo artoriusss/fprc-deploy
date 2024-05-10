@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0475225108218, "Shape_Area": 0.000105111689811, "ADM4_EN": "Nykonkovychi", "ADM4_UA": "Никонковичі", "ADM4_PCODE": "UA4606045008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shchyretska", "ADM3_UA": "Щирецька", "ADM3_PCODE": "UA4606045", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.803045264000048, 49.640186009000047 ], [ 23.818031261000044, 49.641331009000055 ], [ 23.823596258000066, 49.64395901000006 ], [ 23.81774026100004, 49.647815010000045 ], [ 23.81230626100006, 49.647793010000044 ], [ 23.803192264000074, 49.644037010000034 ], [ 23.802703263000069, 49.642920010000068 ], [ 23.803045264000048, 49.640186009000047 ] ] ] } }
-]
-}

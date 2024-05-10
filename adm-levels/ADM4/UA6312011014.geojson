@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.035348687736900003, "Shape_Area": 4.3853796903900001e-05, "ADM4_EN": "Travneve", "ADM4_UA": "Травневе", "ADM4_PCODE": "UA6312011014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Liubotynska", "ADM3_UA": "Люботинська", "ADM3_PCODE": "UA6312011", "ADM2_EN": "Kharkivskyi", "ADM2_UA": "Харківський", "ADM2_PCODE": "UA6312", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.820046999000056, 49.954969 ], [ 35.812369, 49.954886 ], [ 35.810145, 49.951684 ], [ 35.810965999000075, 49.949337 ], [ 35.819059999000046, 49.949925 ], [ 35.820046999000056, 49.954969 ] ] ] } }
-]
-}

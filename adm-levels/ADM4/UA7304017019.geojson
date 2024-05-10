@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.093957962251199997, "Shape_Area": 0.00030204509819699998, "ADM4_EN": "Oleksiivka", "ADM4_UA": "Олексіївка", "ADM4_PCODE": "UA7304017019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sokyrianska", "ADM3_UA": "Сокирянська", "ADM3_PCODE": "UA7304017", "ADM2_EN": "Dnistrovskyi", "ADM2_UA": "Дністровський", "ADM2_PCODE": "UA7304", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.265563, 48.412165 ], [ 27.263316, 48.413371 ], [ 27.24835100100006, 48.417684 ], [ 27.244359999000039, 48.415249 ], [ 27.250342, 48.40912 ], [ 27.26159, 48.399701 ], [ 27.264694001000066, 48.400693 ], [ 27.278349999000056, 48.409968 ], [ 27.273463999000057, 48.413572 ], [ 27.265563, 48.412165 ] ] ] } }
-]
-}

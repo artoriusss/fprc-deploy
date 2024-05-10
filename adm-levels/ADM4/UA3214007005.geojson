@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0097806506172799998, "Shape_Area": 3.7003262432799998e-06, "ADM4_EN": "Zaitsiv", "ADM4_UA": "Зайців", "ADM4_PCODE": "UA3214007005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hlevakhivska", "ADM3_UA": "Глевахівська", "ADM3_PCODE": "UA3214007", "ADM2_EN": "Fastivskyi", "ADM2_UA": "Фастівський", "ADM2_PCODE": "UA3214", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.358878763000064, 50.279147911000052 ], [ 30.356475755000076, 50.279554880000035 ], [ 30.356447820000028, 50.277477988000044 ], [ 30.357767779000028, 50.276853999000082 ], [ 30.358878763000064, 50.279147911000052 ] ] ] } }
-]
-}

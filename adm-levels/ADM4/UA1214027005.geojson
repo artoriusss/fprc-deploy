@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.096596808238699997, "Shape_Area": 0.000149331618196, "ADM4_EN": "Vasylivka", "ADM4_UA": "Василівка", "ADM4_PCODE": "UA1214027005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Raivska", "ADM3_UA": "Раївська", "ADM3_PCODE": "UA1214027", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.428539, 48.223291 ], [ 35.415708001000041, 48.224055 ], [ 35.415494, 48.222682 ], [ 35.403385, 48.223434 ], [ 35.402781, 48.222019 ], [ 35.392149, 48.221613 ], [ 35.394374, 48.218909 ], [ 35.39969, 48.220956 ], [ 35.416132, 48.21836 ], [ 35.427139001000057, 48.218674 ], [ 35.428539, 48.223291 ] ] ] } }
-]
-}

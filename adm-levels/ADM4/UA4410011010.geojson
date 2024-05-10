@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.25060298567599998, "Shape_Area": 0.00018585987593, "ADM4_EN": "Mankivka", "ADM4_UA": "Маньківка", "ADM4_PCODE": "UA4410011010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Svativska", "ADM3_UA": "Сватівська", "ADM3_PCODE": "UA4410011", "ADM2_EN": "Svativskyi", "ADM2_UA": "Сватівський", "ADM2_PCODE": "UA4410", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.453687, 49.570086 ], [ 38.448985999000058, 49.569976 ], [ 38.442601001000071, 49.563754 ], [ 38.444939, 49.555818 ], [ 38.447399501000064, 49.554557500000044 ], [ 38.453802001000042, 49.555778 ], [ 38.456788999000025, 49.554787 ], [ 38.464254999000048, 49.556546 ], [ 38.46193, 49.560346 ], [ 38.456005, 49.560946 ], [ 38.450371001000065, 49.560107 ], [ 38.448515, 49.555883 ], [ 38.445481, 49.559773 ], [ 38.446197, 49.564898 ], [ 38.450005, 49.568885 ], [ 38.453687, 49.570086 ] ] ] } }
-]
-}

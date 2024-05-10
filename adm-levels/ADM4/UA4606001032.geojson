@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.069470541412900003, "Shape_Area": 9.5207902953300006e-05, "ADM4_EN": "Piatnychany", "ADM4_UA": "П'ятничани", "ADM4_PCODE": "UA4606001032", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bibrska", "ADM3_UA": "Бібрська", "ADM3_PCODE": "UA4606001", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.313887159000046, 49.570874006000054 ], [ 24.305728160000058, 49.570795006000026 ], [ 24.303302160000044, 49.569102006000037 ], [ 24.305852160000029, 49.565520006000042 ], [ 24.305922160000023, 49.561578006000047 ], [ 24.319741158000056, 49.557327006000037 ], [ 24.322171157000071, 49.559272006000072 ], [ 24.309043160000044, 49.564738006000027 ], [ 24.311362160000044, 49.569084006000026 ], [ 24.313887159000046, 49.570874006000054 ] ] ] } }
-]
-}

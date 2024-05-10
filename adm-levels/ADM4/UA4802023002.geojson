@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.027836236928499999, "Shape_Area": 4.3132455576e-05, "ADM4_EN": "Liubyne", "ADM4_UA": "Любине", "ADM4_PCODE": "UA4802023002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shyrokivska", "ADM3_UA": "Широківська", "ADM3_PCODE": "UA4802023", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.671875941000053, 47.082838476000063 ], [ 32.667460394000045, 47.080212570000072 ], [ 32.671775737000075, 47.075327103000063 ], [ 32.676993254000024, 47.076655663000054 ], [ 32.671875941000053, 47.082838476000063 ] ] ] } }
-]
-}

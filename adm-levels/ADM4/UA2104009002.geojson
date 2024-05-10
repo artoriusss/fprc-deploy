@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.080852862560100006, "Shape_Area": 8.3110763090500005e-05, "ADM4_EN": "Bukovets", "ADM4_UA": "Буковець", "ADM4_PCODE": "UA2104009002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhdeniivska", "ADM3_UA": "Жденіївська", "ADM3_PCODE": "UA2104009", "ADM2_EN": "Mukachivskyi", "ADM2_UA": "Мукачівський", "ADM2_PCODE": "UA2104", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.936094566000065, 48.864397023000038 ], [ 22.932627567000054, 48.865583023000056 ], [ 22.933386566000024, 48.860653023000054 ], [ 22.931637566000063, 48.858474023000042 ], [ 22.931464566000045, 48.848600023000074 ], [ 22.936001566000073, 48.851778023000065 ], [ 22.935243565000064, 48.857924022000077 ], [ 22.94009456200007, 48.862695023000072 ], [ 22.936094566000065, 48.864397023000038 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.089516071219100005, "Shape_Area": 0.000108304639365, "ADM4_EN": "Miski Mlyny", "ADM4_UA": "Міські Млини", "ADM4_PCODE": "UA5308035025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Opishnianska", "ADM3_UA": "Опішнянська", "ADM3_PCODE": "UA5308035", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.643879, 49.954558 ], [ 34.636673, 49.950903 ], [ 34.641044001000068, 49.948318 ], [ 34.639127001000077, 49.945981 ], [ 34.635581001000048, 49.948258 ], [ 34.632699, 49.946331 ], [ 34.632613999000057, 49.941044 ], [ 34.636157, 49.940271 ], [ 34.646104001000026, 49.94265 ], [ 34.64627, 49.948341 ], [ 34.64428, 49.949977 ], [ 34.643879, 49.954558 ] ] ] } }
-]
-}

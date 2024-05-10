@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14900046323, "Shape_Area": 0.00046826681252800002, "ADM4_EN": "Ushkalka", "ADM4_UA": "Ушкалка", "ADM4_PCODE": "UA6506005020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Verkhnorohachytska", "ADM3_UA": "Верхньорогачицька", "ADM3_PCODE": "UA6506005", "ADM2_EN": "Kakhovskyi", "ADM2_UA": "Каховський", "ADM2_PCODE": "UA6506", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.158366, 47.417313 ], [ 34.159716001000049, 47.419835 ], [ 34.14923, 47.421824 ], [ 34.139846, 47.422813 ], [ 34.136069001000067, 47.421806 ], [ 34.114569, 47.413684 ], [ 34.109667, 47.405751 ], [ 34.12486, 47.409101 ], [ 34.130203, 47.406163 ], [ 34.138427, 47.406538 ], [ 34.136316, 47.411791 ], [ 34.141182, 47.412753 ], [ 34.142226999000059, 47.407259 ], [ 34.149431001000039, 47.408232 ], [ 34.148206001000062, 47.415961 ], [ 34.154404, 47.415497 ], [ 34.158366, 47.417313 ] ] ] } }
-]
-}

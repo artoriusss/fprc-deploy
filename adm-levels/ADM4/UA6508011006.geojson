@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13440020938800001, "Shape_Area": 0.000321321455076, "ADM4_EN": "Preobrazhenka", "ADM4_UA": "Преображенка", "ADM4_PCODE": "UA6508011006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myrnenska", "ADM3_UA": "Мирненська", "ADM3_PCODE": "UA6508011", "ADM2_EN": "Skadovskyi", "ADM2_UA": "Скадовський", "ADM2_PCODE": "UA6508", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.576568, 46.200092 ], [ 33.574544999000068, 46.20284 ], [ 33.570019, 46.198473 ], [ 33.588431, 46.18832 ], [ 33.579347, 46.181628 ], [ 33.583347, 46.179427 ], [ 33.58793, 46.182806 ], [ 33.591743001000054, 46.180787 ], [ 33.595902, 46.185124 ], [ 33.598284, 46.182572 ], [ 33.604222999000058, 46.179049 ], [ 33.611083, 46.186727 ], [ 33.592201, 46.19341 ], [ 33.584248, 46.195848 ], [ 33.576568, 46.200092 ] ] ] } }
-]
-}

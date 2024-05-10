@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.106224197179, "Shape_Area": 0.00019782633677, "ADM4_EN": "Pisky", "ADM4_UA": "Піски", "ADM4_PCODE": "UA7402001043", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Koriukivska", "ADM3_UA": "Корюківська", "ADM3_PCODE": "UA7402001", "ADM2_EN": "Koriukivskyi", "ADM2_UA": "Корюківський", "ADM2_PCODE": "UA7402", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.143402080000044, 51.686494020000055 ], [ 32.143147920000047, 51.682830030000048 ], [ 32.139321120000034, 51.680022030000032 ], [ 32.134200121000049, 51.679437030000031 ], [ 32.158464839000032, 51.67237896000006 ], [ 32.166752039000073, 51.677907030000028 ], [ 32.165228880000029, 51.680328030000055 ], [ 32.155557120000026, 51.682518990000062 ], [ 32.146657920000052, 51.683441040000048 ], [ 32.143402080000044, 51.686494020000055 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.041233394897000002, "Shape_Area": 3.83446042101e-05, "ADM4_EN": "Novotersianske", "ADM4_UA": "Новотерсянське", "ADM4_PCODE": "UA1214003036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vasylkivska", "ADM3_UA": "Васильківська", "ADM3_PCODE": "UA1214003", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.985281, 48.077558 ], [ 35.983115, 48.074947 ], [ 35.97186399900005, 48.072472 ], [ 35.974977999000032, 48.067837 ], [ 35.980613, 48.06974 ], [ 35.978315, 48.073668 ], [ 35.982845, 48.074055 ], [ 35.985281, 48.077558 ] ] ] } }
-]
-}

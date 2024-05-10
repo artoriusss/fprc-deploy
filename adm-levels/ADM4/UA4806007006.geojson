@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.054427132890099997, "Shape_Area": 6.3287309756600001e-05, "ADM4_EN": "Stepova Dolyna", "ADM4_UA": "Степова Долина", "ADM4_PCODE": "UA4806007006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Halytsynivska", "ADM3_UA": "Галицинівська", "ADM3_PCODE": "UA4806007", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.182109126000057, 46.781680549000043 ], [ 32.170873294000046, 46.780082400000026 ], [ 32.171923082000035, 46.776579389000062 ], [ 32.193581048000055, 46.779114127000071 ], [ 32.193251714000041, 46.780867112000067 ], [ 32.182609337000031, 46.780107323000038 ], [ 32.182109126000057, 46.781680549000043 ] ] ] } }
-]
-}

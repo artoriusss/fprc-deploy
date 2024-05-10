@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060158406116700001, "Shape_Area": 0.00010256333944, "ADM4_EN": "Tarasivka", "ADM4_UA": "Тарасівка", "ADM4_PCODE": "UA3212005031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kaharlytska", "ADM3_UA": "Кагарлицька", "ADM3_PCODE": "UA3212005", "ADM2_EN": "Obukhivskyi", "ADM2_UA": "Обухівський", "ADM2_PCODE": "UA3212", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.73351595500003, 49.913804703000039 ], [ 30.731000943000026, 49.914948781000078 ], [ 30.724940884000034, 49.910672752000039 ], [ 30.720258945000069, 49.911562694000054 ], [ 30.714235919000032, 49.909614756000053 ], [ 30.713744954000049, 49.907155725000052 ], [ 30.717871912000078, 49.906147737000026 ], [ 30.720888890000026, 49.907717773000059 ], [ 30.729882889000066, 49.905292756000051 ], [ 30.733219856000062, 49.907501712000055 ], [ 30.73351595500003, 49.913804703000039 ] ] ] } }
-]
-}

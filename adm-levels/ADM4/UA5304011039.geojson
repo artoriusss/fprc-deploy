@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14293269545000001, "Shape_Area": 0.000263833201019, "ADM4_EN": "Kryvtsi", "ADM4_UA": "Кривці", "ADM4_PCODE": "UA5304011039", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khorolska", "ADM3_UA": "Хорольська", "ADM3_PCODE": "UA5304011", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.460741, 49.640819 ], [ 33.458009, 49.639326 ], [ 33.451684, 49.638493 ], [ 33.453638999000077, 49.634157 ], [ 33.457805, 49.634298 ], [ 33.457627, 49.631463 ], [ 33.471442001000071, 49.623732 ], [ 33.478937999000038, 49.621973 ], [ 33.480553, 49.624754 ], [ 33.496724999000037, 49.624383 ], [ 33.496839, 49.628093 ], [ 33.482242, 49.628678 ], [ 33.477842, 49.630494 ], [ 33.476705, 49.628647 ], [ 33.469941, 49.629214 ], [ 33.46836, 49.632413 ], [ 33.460741, 49.640819 ] ] ] } }
-]
-}

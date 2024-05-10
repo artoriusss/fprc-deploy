@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.096243847451799994, "Shape_Area": 0.00012187383708100001, "ADM4_EN": "Mechetne", "ADM4_UA": "Мечетне", "ADM4_PCODE": "UA1214025029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pokrovska", "ADM3_UA": "Покровська", "ADM3_PCODE": "UA1214025", "ADM2_EN": "Synelnykivskyi", "ADM2_UA": "Синельниківський", "ADM2_PCODE": "UA1214", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.327074, 48.031177 ], [ 36.328085, 48.024587 ], [ 36.33092600100008, 48.022925 ], [ 36.346349, 48.024749 ], [ 36.34683, 48.023925 ], [ 36.35862, 48.026741 ], [ 36.356236, 48.029917 ], [ 36.34121900100007, 48.02663 ], [ 36.329922, 48.024873 ], [ 36.327074, 48.031177 ] ] ] } }
-]
-}

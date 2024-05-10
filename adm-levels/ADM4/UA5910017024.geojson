@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.114671886493, "Shape_Area": 0.000157729160493, "ADM4_EN": "Myronivka", "ADM4_UA": "Миронівка", "ADM4_PCODE": "UA5910017024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shostkynska", "ADM3_UA": "Шосткинська", "ADM3_PCODE": "UA5910017", "ADM2_EN": "Shostkynskyi", "ADM2_UA": "Шосткинський", "ADM2_PCODE": "UA5910", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.565509001000066, 51.914248 ], [ 33.566012999000066, 51.907932 ], [ 33.562399999000036, 51.905219 ], [ 33.554185, 51.902143 ], [ 33.545584671000029, 51.899766747000058 ], [ 33.549654639000039, 51.897651275000044 ], [ 33.551983, 51.899209 ], [ 33.554289, 51.895695 ], [ 33.565982001000066, 51.900902 ], [ 33.566514, 51.904347 ], [ 33.568940999000063, 51.906303 ], [ 33.56833, 51.911809 ], [ 33.565527, 51.914776 ], [ 33.565509001000066, 51.914248 ] ] ] } }
-]
-}

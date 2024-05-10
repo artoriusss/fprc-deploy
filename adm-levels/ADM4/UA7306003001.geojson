@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14273901718500001, "Shape_Area": 0.00041138921379, "ADM4_EN": "Vanchykivtsi", "ADM4_UA": "Ванчиківці", "ADM4_PCODE": "UA7306003001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vanchykovetska", "ADM3_UA": "Ванчиковецька", "ADM3_PCODE": "UA7306003", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.450151, 48.223686 ], [ 26.447604999000077, 48.227446 ], [ 26.443144, 48.226868 ], [ 26.443775, 48.220843 ], [ 26.437852, 48.219599 ], [ 26.432617, 48.21669 ], [ 26.427397, 48.21051 ], [ 26.432717, 48.205712 ], [ 26.444779999000048, 48.205678 ], [ 26.447232, 48.208612 ], [ 26.453149001000043, 48.212788001000035 ], [ 26.455828001000043, 48.213569 ], [ 26.462785001000043, 48.222336 ], [ 26.461748, 48.225833 ], [ 26.456045, 48.225623 ], [ 26.456258999000056, 48.222307 ], [ 26.450151, 48.223686 ] ] ] } }
-]
-}

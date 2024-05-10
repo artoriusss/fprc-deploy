@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14636847848099999, "Shape_Area": 0.000158894218436, "ADM4_EN": "Riv", "ADM4_UA": "Рів", "ADM4_PCODE": "UA0506005024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhmerynska", "ADM3_UA": "Жмеринська", "ADM3_PCODE": "UA0506005", "ADM2_EN": "Zhmerynskyi", "ADM2_UA": "Жмеринський", "ADM2_PCODE": "UA0506", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 28.060199, 49.087218 ], [ 28.054362, 49.089013 ], [ 28.05345999900004, 49.085259 ], [ 28.049732999000071, 49.083653 ], [ 28.050234, 49.079547 ], [ 28.054467999000053, 49.081713 ], [ 28.058825001000059, 49.078642 ], [ 28.069775, 49.075829 ], [ 28.070505, 49.078278001000058 ], [ 28.059604, 49.084116 ], [ 28.060199, 49.087218 ] ] ], [ [ [ 28.04742, 49.084952 ], [ 28.040473, 49.084789 ], [ 28.040425, 49.082642 ], [ 28.04742, 49.084952 ] ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.076339159959899996, "Shape_Area": 0.00022899757808800001, "ADM4_EN": "Ripna", "ADM4_UA": "Ріпна", "ADM4_PCODE": "UA6804009040", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Volochyska", "ADM3_UA": "Волочиська", "ADM3_PCODE": "UA6804009", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.30777499900006, 49.416444 ], [ 26.302033, 49.413347 ], [ 26.29313, 49.414184 ], [ 26.29261, 49.410488 ], [ 26.299654001000079, 49.4089 ], [ 26.300259, 49.407015 ], [ 26.309984, 49.403236 ], [ 26.316673, 49.402156001000037 ], [ 26.319781, 49.405485 ], [ 26.320406999000056, 49.408961 ], [ 26.315385999000057, 49.41322 ], [ 26.30777499900006, 49.416444 ] ] ] } }
-]
-}

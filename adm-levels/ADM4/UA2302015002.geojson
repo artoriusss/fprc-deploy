@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.060670602237900002, "Shape_Area": 6.3031953883199994e-05, "ADM4_EN": "Balashivka", "ADM4_UA": "Балашівка", "ADM4_PCODE": "UA2302015002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chernihivska", "ADM3_UA": "Чернігівська", "ADM3_PCODE": "UA2302015", "ADM2_EN": "Berdianskyi", "ADM2_UA": "Бердянський", "ADM2_PCODE": "UA2302", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.882083799000043, 47.160860703000026 ], [ 35.859535420000043, 47.15817846200008 ], [ 35.859498415000076, 47.15360382700004 ], [ 35.867870665000055, 47.155633145000081 ], [ 35.868322509000052, 47.157660858000042 ], [ 35.882083799000043, 47.160860703000026 ] ] ] } }
-]
-}

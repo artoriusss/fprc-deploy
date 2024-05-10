@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12989478393000001, "Shape_Area": 0.000308984702691, "ADM4_EN": "Myhai", "ADM4_UA": "Мигаї", "ADM4_PCODE": "UA5114011011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoborysivska", "ADM3_UA": "Новоборисівська", "ADM3_PCODE": "UA5114011", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.004144, 47.018986 ], [ 29.999623, 47.020673 ], [ 29.999728, 46.995893 ], [ 30.007197001000065, 46.996574 ], [ 30.008328999000071, 46.995125 ], [ 30.014309, 46.997259 ], [ 30.020692001000043, 46.994906 ], [ 30.023053, 46.996982 ], [ 30.017976, 46.999742 ], [ 30.008772, 46.999451 ], [ 30.00679, 47.005336 ], [ 30.010995001000026, 47.005076 ], [ 30.013431001000072, 47.007657 ], [ 30.014854999000079, 47.014214 ], [ 30.011913001000039, 47.019046 ], [ 30.007978, 47.020243 ], [ 30.004144, 47.018986 ] ] ] } }
-]
-}

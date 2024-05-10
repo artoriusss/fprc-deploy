@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.098325804505199996, "Shape_Area": 0.00017121120123899999, "ADM4_EN": "Zahrebellia", "ADM4_UA": "Загребелля", "ADM4_PCODE": "UA5906011021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Romenska", "ADM3_UA": "Роменська", "ADM3_PCODE": "UA5906011", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.596007, 50.79411 ], [ 33.593931999000063, 50.795051 ], [ 33.56935, 50.793926 ], [ 33.549164999000027, 50.788465 ], [ 33.5511, 50.786322 ], [ 33.556618, 50.788236 ], [ 33.566089, 50.788677 ], [ 33.5732, 50.790447 ], [ 33.583763157000078, 50.789810503000069 ], [ 33.594462, 50.791763 ], [ 33.596007, 50.79411 ] ] ] } }
-]
-}

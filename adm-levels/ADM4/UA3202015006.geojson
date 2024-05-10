@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.037380590803500001, "Shape_Area": 3.1514774245600002e-05, "ADM4_EN": "Vladyslavka", "ADM4_UA": "Владиславка", "ADM4_PCODE": "UA3202015006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Skvyrska", "ADM3_UA": "Сквирська", "ADM3_PCODE": "UA3202015", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.817102548000037, 49.821708471000079 ], [ 29.810083106000036, 49.82136227400008 ], [ 29.814868305000061, 49.818008368000051 ], [ 29.821820134000063, 49.817937282000059 ], [ 29.821497097000076, 49.821503277000033 ], [ 29.817102548000037, 49.821708471000079 ] ] ] } }
-]
-}

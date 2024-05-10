@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.079261957205700007, "Shape_Area": 0.00012168079330799999, "ADM4_EN": "Zelena Poliana", "ADM4_UA": "Зелена Поляна", "ADM4_PCODE": "UA1804043011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pulynska", "ADM3_UA": "Пулинська", "ADM3_PCODE": "UA1804043", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.15533, 50.603538960000037 ], [ 28.15298604000003, 50.602794030000041 ], [ 28.154459879000058, 50.596695 ], [ 28.150166160000026, 50.595894990000033 ], [ 28.150063921000026, 50.591736990000072 ], [ 28.158086880000042, 50.59303299000004 ], [ 28.15941384000007, 50.591313 ], [ 28.166311080000071, 50.593722030000038 ], [ 28.162918081000043, 50.596317 ], [ 28.164639959000056, 50.599928970000065 ], [ 28.157308920000048, 50.601891960000046 ], [ 28.15533, 50.603538960000037 ] ] ] } }
-]
-}

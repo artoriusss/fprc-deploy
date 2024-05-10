@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.074423046999799999, "Shape_Area": 9.2936016225400004e-05, "ADM4_EN": "Khmilna", "ADM4_UA": "Хмільна", "ADM4_PCODE": "UA3208013013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dmytrivska", "ADM3_UA": "Дмитрівська", "ADM3_PCODE": "UA3208013", "ADM2_EN": "Buchanskyi", "ADM2_UA": "Бучанський", "ADM2_PCODE": "UA3208", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.024252837000063, 50.493932439000048 ], [ 30.027138830000069, 50.490349504000051 ], [ 30.031784821000031, 50.48866453100004 ], [ 30.035053872000049, 50.48965449700006 ], [ 30.046444829000052, 50.485782502000063 ], [ 30.047117854000078, 50.488651547000075 ], [ 30.044185819000063, 50.490372515000047 ], [ 30.032616878000056, 50.493588509000062 ], [ 30.024252837000063, 50.493932439000048 ] ] ] } }
-]
-}

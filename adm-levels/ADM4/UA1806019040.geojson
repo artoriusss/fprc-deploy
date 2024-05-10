@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.040928122156699998, "Shape_Area": 6.2855143296799997e-05, "ADM4_EN": "Rudnia-Zamyslovytska", "ADM4_UA": "Рудня-Замисловицька", "ADM4_PCODE": "UA1806019040", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Olevska", "ADM3_UA": "Олевська", "ADM3_PCODE": "UA1806019", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.950335921000033, 51.31111302000005 ], [ 27.948304079000025, 51.311022030000061 ], [ 27.948134881000044, 51.304128030000072 ], [ 27.95538096000007, 51.302745 ], [ 27.957630960000074, 51.309182971000041 ], [ 27.950335921000033, 51.31111302000005 ] ] ] } }
-]
-}

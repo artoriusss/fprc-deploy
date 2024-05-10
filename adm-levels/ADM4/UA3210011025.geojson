@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0462985492167, "Shape_Area": 8.4765735388299998e-05, "ADM4_EN": "Stara Markivka", "ADM4_UA": "Стара Марківка", "ADM4_PCODE": "UA3210011025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Poliska", "ADM3_UA": "Поліська", "ADM3_PCODE": "UA3210011", "ADM2_EN": "Vyshhorodskyi", "ADM2_UA": "Вишгородський", "ADM2_PCODE": "UA3210", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.466616543000043, 51.122301256000071 ], [ 29.458795610000038, 51.123260273000028 ], [ 29.451764544000071, 51.117269238000063 ], [ 29.458912585000064, 51.114225219000048 ], [ 29.467986497000027, 51.120823294000047 ], [ 29.466616543000043, 51.122301256000071 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.046944907782099997, "Shape_Area": 0.000106411634674, "ADM4_EN": "Liubomyrivka", "ADM4_UA": "Любомирівка", "ADM4_PCODE": "UA4806037018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shevchenkivska", "ADM3_UA": "Шевченківська", "ADM3_PCODE": "UA4806037", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.383416388000057, 46.891158018000056 ], [ 32.374287036000055, 46.890442075000067 ], [ 32.372022628000025, 46.886945320000052 ], [ 32.367830232000074, 46.886846084000069 ], [ 32.369191, 46.882112578000033 ], [ 32.384912008000072, 46.884235432000025 ], [ 32.383416388000057, 46.891158018000056 ] ] ] } }
-]
-}

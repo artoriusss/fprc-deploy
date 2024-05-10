@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.100452920293, "Shape_Area": 0.00032240379338899997, "ADM4_EN": "Tauriv", "ADM4_UA": "Таурів", "ADM4_PCODE": "UA6104025005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozlivska", "ADM3_UA": "Козлівська", "ADM3_PCODE": "UA6104025", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.281208999000057, 49.550277 ], [ 25.273971, 49.549885 ], [ 25.267336, 49.540116 ], [ 25.26047, 49.541375 ], [ 25.259238999000047, 49.538686 ], [ 25.267631, 49.537281 ], [ 25.269382, 49.534181 ], [ 25.275025, 49.532814 ], [ 25.279294999000058, 49.529415 ], [ 25.285597, 49.533101 ], [ 25.28687, 49.538897 ], [ 25.289231001000076, 49.541651 ], [ 25.284013, 49.543185999000059 ], [ 25.283299, 49.549867 ], [ 25.281208999000057, 49.550277 ] ] ] } }
-]
-}

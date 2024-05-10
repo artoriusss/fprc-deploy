@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14904798116500001, "Shape_Area": 0.00024560642062300002, "ADM4_EN": "Krychka", "ADM4_UA": "Кричка", "ADM4_PCODE": "UA2604029006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Solotvynska", "ADM3_UA": "Солотвинська", "ADM3_PCODE": "UA2604029", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.325911, 48.691426 ], [ 24.32529, 48.68475 ], [ 24.326964, 48.682548 ], [ 24.325574, 48.67498 ], [ 24.32165, 48.672787 ], [ 24.31802299900005, 48.667047 ], [ 24.316553, 48.662282 ], [ 24.317704, 48.655808 ], [ 24.321517001000075, 48.659017 ], [ 24.322777999000039, 48.664591 ], [ 24.326953, 48.666907 ], [ 24.328811001000076, 48.67208 ], [ 24.336287, 48.674168 ], [ 24.332339, 48.679697 ], [ 24.332289, 48.684999 ], [ 24.325911, 48.691426 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.15439337250499999, "Shape_Area": 0.00024242063503, "ADM4_EN": "Rozsoshyntsi", "ADM4_UA": "Розсошинці", "ADM4_PCODE": "UA7108051013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chyhyrynska", "ADM3_UA": "Чигиринська", "ADM3_PCODE": "UA7108051", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.563895, 49.144584 ], [ 32.567249, 49.144331 ], [ 32.575055, 49.140292 ], [ 32.576326, 49.138168 ], [ 32.582097, 49.137376 ], [ 32.58588099900004, 49.134784 ], [ 32.593111, 49.133973 ], [ 32.609538999000051, 49.126941 ], [ 32.615244001000065, 49.122026 ], [ 32.622121, 49.11992 ], [ 32.62437, 49.121251 ], [ 32.597668999000064, 49.137647 ], [ 32.596023999000067, 49.136448 ], [ 32.586959999000044, 49.140637 ], [ 32.58465, 49.138879 ], [ 32.566173001000038, 49.147078 ], [ 32.563895, 49.144584 ] ] ] } }
-]
-}

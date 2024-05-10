@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.070158102112400006, "Shape_Area": 9.3931885782700002e-05, "ADM4_EN": "Velykodubove", "ADM4_UA": "Великодубове", "ADM4_PCODE": "UA2306025002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Petro-Mykhailivska", "ADM3_UA": "Петро-Михайлівська", "ADM3_PCODE": "UA2306025", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.26101221600004, 48.094343645000038 ], [ 35.259990642000048, 48.091625557000043 ], [ 35.264853674000051, 48.090558768000051 ], [ 35.264899679000052, 48.087229768000043 ], [ 35.272901469000033, 48.087812491000079 ], [ 35.27423820100006, 48.090364679000061 ], [ 35.263861081000073, 48.096043204000068 ], [ 35.26101221600004, 48.094343645000038 ] ] ] } }
-]
-}

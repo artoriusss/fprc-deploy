@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.083614794451300004, "Shape_Area": 0.000146162474969, "ADM4_EN": "Shchurivka", "ADM4_UA": "Щурівка", "ADM4_PCODE": "UA7408003052", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ichnianska", "ADM3_UA": "Ічнянська", "ADM3_PCODE": "UA7408003", "ADM2_EN": "Prylutskyi", "ADM2_UA": "Прилуцький", "ADM2_PCODE": "UA7408", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.580894960000023, 50.74417494000005 ], [ 32.579651880000029, 50.746888980000051 ], [ 32.576148, 50.748899040000026 ], [ 32.573662920000061, 50.744097 ], [ 32.565192121000052, 50.744837070000074 ], [ 32.560063920000061, 50.740120980000029 ], [ 32.571586800000034, 50.736957930000074 ], [ 32.578885081000067, 50.736957030000042 ], [ 32.576537880000046, 50.74075098000003 ], [ 32.580894960000023, 50.74417494000005 ] ] ] } }
-]
-}

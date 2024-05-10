@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.33237461157199999, "Shape_Area": 0.00022232164791, "ADM4_EN": "Novi Broskivtsi", "ADM4_UA": "Нові Бросківці", "ADM4_PCODE": "UA7306049012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Storozhynetska", "ADM3_UA": "Сторожинецька", "ADM3_PCODE": "UA7306049", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 25.708936001000041, 48.214864 ], [ 25.708387, 48.218596 ], [ 25.702704, 48.220196 ], [ 25.708360999000035, 48.212481 ], [ 25.707885, 48.209773 ], [ 25.711718, 48.208927 ], [ 25.711019001000068, 48.213199 ], [ 25.708936001000041, 48.214864 ] ] ], [ [ [ 25.696939999000051, 48.211523 ], [ 25.690417, 48.213561 ], [ 25.691804, 48.206084 ], [ 25.693968, 48.205807 ], [ 25.692678999000066, 48.211096 ], [ 25.696939999000051, 48.211523 ] ] ] ] } }
-]
-}

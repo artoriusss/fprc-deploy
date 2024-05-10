@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.096074338526500005, "Shape_Area": 0.00022955809121599999, "ADM4_EN": "Pryvovchanske", "ADM4_UA": "Привовчанське", "ADM4_PCODE": "UA1212011009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Troitska", "ADM3_UA": "Троїцька", "ADM3_PCODE": "UA1212011", "ADM2_EN": "Pavlohradskyi", "ADM2_UA": "Павлоградський", "ADM2_PCODE": "UA1212", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.883039, 48.463531 ], [ 35.881308999000055, 48.4671 ], [ 35.875287, 48.470409 ], [ 35.874344, 48.467397 ], [ 35.870864, 48.463691 ], [ 35.866858, 48.463908 ], [ 35.863713, 48.460517 ], [ 35.857838, 48.46052 ], [ 35.849289, 48.45931 ], [ 35.84847916700005, 48.455221512000037 ], [ 35.862745309000047, 48.45693772900006 ], [ 35.865225001000056, 48.456162 ], [ 35.869937001000039, 48.457755 ], [ 35.871593, 48.456183 ], [ 35.876647, 48.457228 ], [ 35.883125, 48.461856 ], [ 35.883039, 48.463531 ] ] ] } }
-]
-}

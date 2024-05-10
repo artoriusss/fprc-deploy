@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057439432920900001, "Shape_Area": 7.8134857293899994e-05, "ADM4_EN": "Bilka", "ADM4_UA": "Білка", "ADM4_PCODE": "UA2608003002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodenkivska", "ADM3_UA": "Городенківська", "ADM3_PCODE": "UA2608003", "ADM2_EN": "Kolomyiskyi", "ADM2_UA": "Коломийський", "ADM2_PCODE": "UA2608", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.551295595000056, 48.774436770000079 ], [ 25.542100524000034, 48.777461472000027 ], [ 25.537839799000039, 48.779881954000075 ], [ 25.534462726000072, 48.778154513000061 ], [ 25.543383852000034, 48.770434984000076 ], [ 25.551295595000056, 48.774436770000079 ] ] ] } }
-]
-}

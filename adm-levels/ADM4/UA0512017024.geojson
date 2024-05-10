@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.081297741835000006, "Shape_Area": 8.8801654810500004e-05, "ADM4_EN": "Lozova", "ADM4_UA": "Лозова", "ADM4_PCODE": "UA0512017024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khmilnytska", "ADM3_UA": "Хмільницька", "ADM3_PCODE": "UA0512017", "ADM2_EN": "Khmilnytskyi", "ADM2_UA": "Хмільницький", "ADM2_PCODE": "UA0512", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.834401539000055, 49.521207162000053 ], [ 27.83215, 49.518390001000057 ], [ 27.833707, 49.513255 ], [ 27.83975, 49.510796 ], [ 27.841336, 49.51419 ], [ 27.844148999000026, 49.514483 ], [ 27.845183001000066, 49.517854 ], [ 27.83871, 49.517471 ], [ 27.839626786000053, 49.520753283000033 ], [ 27.834401539000055, 49.521207162000053 ] ] ] } }
-]
-}

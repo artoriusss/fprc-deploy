@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.083333648366099994, "Shape_Area": 0.00024138028815099999, "ADM4_EN": "Brodets", "ADM4_UA": "Бродець", "ADM4_PCODE": "UA5608005002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vysotska", "ADM3_UA": "Висоцька", "ADM3_PCODE": "UA5608005", "ADM2_EN": "Sarnenskyi", "ADM2_UA": "Сарненський", "ADM2_PCODE": "UA5608", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.664087960000074, 51.770844 ], [ 26.662734, 51.77534103000005 ], [ 26.654060880000031, 51.769844010000043 ], [ 26.651823840000077, 51.770929950000038 ], [ 26.645729040000049, 51.765520050000077 ], [ 26.644080959000064, 51.760246050000035 ], [ 26.648084881000045, 51.758208990000071 ], [ 26.650095839000073, 51.74932608000006 ], [ 26.661003660000063, 51.763212495000062 ], [ 26.661453120000033, 51.767261010000027 ], [ 26.664087960000074, 51.770844 ] ] ] } }
-]
-}

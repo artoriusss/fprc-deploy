@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.049488161808400002, "Shape_Area": 0.000100406139886, "ADM4_EN": "Mala Krucha", "ADM4_UA": "Мала Круча", "ADM4_PCODE": "UA5304009026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pyriatynska", "ADM3_UA": "Пирятинська", "ADM3_PCODE": "UA5304009", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.565989, 50.215877 ], [ 32.5641, 50.216786 ], [ 32.559585, 50.214857 ], [ 32.552223, 50.214034 ], [ 32.555546, 50.208449 ], [ 32.560701999000059, 50.207743 ], [ 32.563628999000059, 50.209141 ], [ 32.569226, 50.209332 ], [ 32.565989, 50.215877 ] ] ] } }
-]
-}

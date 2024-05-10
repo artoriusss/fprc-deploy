@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.084647994988700001, "Shape_Area": 0.00011484567682600001, "ADM4_EN": "Mokrets", "ADM4_UA": "Мокрець", "ADM4_PCODE": "UA6806009027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Iziaslavska", "ADM3_UA": "Ізяславська", "ADM3_PCODE": "UA6806009", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.695053, 50.178079 ], [ 26.690087001000052, 50.177187 ], [ 26.690264999000078, 50.173339 ], [ 26.70038, 50.173616 ], [ 26.70649, 50.172307 ], [ 26.716373, 50.171439 ], [ 26.717623001000049, 50.167906 ], [ 26.723293001000059, 50.167886 ], [ 26.72326, 50.170744 ], [ 26.71884, 50.172812 ], [ 26.699778, 50.176055 ], [ 26.695053, 50.178079 ] ] ] } }
-]
-}

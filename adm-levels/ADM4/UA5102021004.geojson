@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.138205206976, "Shape_Area": 0.00052003238244600002, "ADM4_EN": "Zavodivka", "ADM4_UA": "Заводівка", "ADM4_PCODE": "UA5102021004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Raukhivska", "ADM3_UA": "Раухівська", "ADM3_PCODE": "UA5102021", "ADM2_EN": "Berezivskyi", "ADM2_UA": "Березівський", "ADM2_PCODE": "UA5102", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.826798, 47.234561 ], [ 30.820368, 47.234109 ], [ 30.81373, 47.232193 ], [ 30.804583001000026, 47.23238 ], [ 30.805749999000057, 47.224482 ], [ 30.799148999000067, 47.222096 ], [ 30.794539999000051, 47.222934 ], [ 30.794112, 47.216661 ], [ 30.798721, 47.214321 ], [ 30.81138, 47.212674 ], [ 30.813981, 47.214631 ], [ 30.819697001000065, 47.213739 ], [ 30.821447001000024, 47.220723 ], [ 30.827908, 47.22023 ], [ 30.829498, 47.221366 ], [ 30.828843999000071, 47.227954 ], [ 30.826798, 47.234561 ] ] ] } }
-]
-}

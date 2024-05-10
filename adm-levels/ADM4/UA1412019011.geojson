@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.123700233531, "Shape_Area": 0.000113326431949, "ADM4_EN": "Sydorove", "ADM4_UA": "Сидорове", "ADM4_PCODE": "UA1412019011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sviatohirska", "ADM3_UA": "Святогірська", "ADM3_PCODE": "UA1412019", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "Краматорський", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.616537, 48.994128 ], [ 37.612011, 48.990726 ], [ 37.608470999000076, 48.98606 ], [ 37.600515999000038, 48.987487 ], [ 37.596981999000036, 48.990126 ], [ 37.593742, 48.984727 ], [ 37.599874998000075, 48.983787 ], [ 37.599479999000039, 48.980026 ], [ 37.603418999000041, 48.978917 ], [ 37.605198, 48.984253 ], [ 37.609137999000041, 48.985337 ], [ 37.615049, 48.990722 ], [ 37.616537, 48.994128 ] ] ] } }
-]
-}

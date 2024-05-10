@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0260335934044, "Shape_Area": 1.775799974e-05, "ADM4_EN": "Elevatorne", "ADM4_UA": "Елеваторне", "ADM4_PCODE": "UA4806001034", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezanska", "ADM3_UA": "Березанська", "ADM3_PCODE": "UA4806001", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.526754337000057, 46.76931753000008 ], [ 31.523865941000054, 46.769803929000034 ], [ 31.52447494300003, 46.765196268000068 ], [ 31.526724071000046, 46.765344799000047 ], [ 31.526754337000057, 46.76931753000008 ] ] ] } }
-]
-}

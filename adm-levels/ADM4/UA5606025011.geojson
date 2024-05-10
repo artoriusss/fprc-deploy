@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.051926101525399997, "Shape_Area": 0.00016173590764000001, "ADM4_EN": "Orestiv", "ADM4_UA": "Орестів", "ADM4_PCODE": "UA5606025011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zdolbunivska", "ADM3_UA": "Здолбунівська", "ADM3_PCODE": "UA5606025", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.180512920000069, 50.544012060000057 ], [ 26.175313080000024, 50.542738020000058 ], [ 26.173311840000054, 50.53710798000003 ], [ 26.176568040000063, 50.530743 ], [ 26.18542584100004, 50.531383080000069 ], [ 26.189292959000056, 50.532865020000031 ], [ 26.186465159000079, 50.54062698000007 ], [ 26.180512920000069, 50.544012060000057 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.076920106694500001, "Shape_Area": 0.000221488501907, "ADM4_EN": "Sosnivka", "ADM4_UA": "Соснівка", "ADM4_PCODE": "UA1804035022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novohuivynska", "ADM3_UA": "Новогуйвинська", "ADM3_PCODE": "UA1804035", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.458600840000031, 50.054416020000076 ], [ 28.458318960000042, 50.056700040000067 ], [ 28.439903880000031, 50.056279020000034 ], [ 28.44215100100007, 50.050895040000057 ], [ 28.448628840000026, 50.045453010000074 ], [ 28.455756120000046, 50.045405040000048 ], [ 28.462089960000071, 50.046599970000045 ], [ 28.463609160000033, 50.052232980000042 ], [ 28.468613879000031, 50.05358496000008 ], [ 28.467362880000053, 50.056088040000077 ], [ 28.458600840000031, 50.054416020000076 ] ] ] } }
-]
-}

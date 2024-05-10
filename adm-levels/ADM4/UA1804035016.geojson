@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.037336178877100001, "Shape_Area": 4.1251926232700003e-05, "ADM4_EN": "Pavlenkivka", "ADM4_UA": "Павленківка", "ADM4_PCODE": "UA1804035016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novohuivynska", "ADM3_UA": "Новогуйвинська", "ADM3_PCODE": "UA1804035", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.658747160000075, 50.095692990000032 ], [ 28.660299003000034, 50.098245423000037 ], [ 28.646083080000039, 50.097482010000078 ], [ 28.646193960000062, 50.095135980000066 ], [ 28.652478840000072, 50.095647 ], [ 28.655889840000043, 50.093573040000081 ], [ 28.658747160000075, 50.095692990000032 ] ] ] } }
-]
-}

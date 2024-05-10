@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.067170955354100004, "Shape_Area": 9.3306970292199998e-05, "ADM4_EN": "Karaievychi", "ADM4_UA": "Караєвичі", "ADM4_PCODE": "UA5606015004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodotska", "ADM3_UA": "Городоцька", "ADM3_PCODE": "UA5606015", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 26.162876161000042, 50.702333040000042 ], [ 26.163217080000038, 50.70526803000007 ], [ 26.151053040000079, 50.701944960000048 ], [ 26.154685800000038, 50.698387980000064 ], [ 26.162876161000042, 50.702333040000042 ] ] ], [ [ [ 26.150438880000024, 50.698376010000061 ], [ 26.147477160000051, 50.700947040000074 ], [ 26.142456959000071, 50.697037980000061 ], [ 26.149434120000024, 50.693234940000082 ], [ 26.152499160000048, 50.693280030000039 ], [ 26.150438880000024, 50.698376010000061 ] ] ] ] } }
-]
-}

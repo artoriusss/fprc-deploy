@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10588370088, "Shape_Area": 0.00031995505284300002, "ADM4_EN": "Yablunivka", "ADM4_UA": "Яблунівка", "ADM4_PCODE": "UA5306029023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Senchanska", "ADM3_UA": "Сенчанська", "ADM3_PCODE": "UA5306029", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.265071, 50.287388 ], [ 33.261834, 50.288521 ], [ 33.261319, 50.291915 ], [ 33.257264, 50.29458 ], [ 33.255587, 50.289431 ], [ 33.247540001000061, 50.287102 ], [ 33.245632, 50.288043 ], [ 33.238569, 50.282471 ], [ 33.241619, 50.278625 ], [ 33.246848, 50.279326 ], [ 33.251453999000034, 50.275128 ], [ 33.258363, 50.274902 ], [ 33.262732, 50.28062 ], [ 33.266596001000039, 50.282867 ], [ 33.265071, 50.287388 ] ] ] } }
-]
-}

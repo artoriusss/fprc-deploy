@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.062125907566199998, "Shape_Area": 0.00015958346953400001, "ADM4_EN": "Lysycha", "ADM4_UA": "Лисича", "ADM4_PCODE": "UA5308045014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chutivska", "ADM3_UA": "Чутівська", "ADM3_PCODE": "UA5308045", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.102020999000047, 49.64861 ], [ 35.095178999000041, 49.647434 ], [ 35.087122, 49.64699 ], [ 35.078359, 49.644213 ], [ 35.089085001000058, 49.637315 ], [ 35.096437001000027, 49.641876 ], [ 35.100325, 49.641059 ], [ 35.102243, 49.644633 ], [ 35.102020999000047, 49.64861 ] ] ] } }
-]
-}

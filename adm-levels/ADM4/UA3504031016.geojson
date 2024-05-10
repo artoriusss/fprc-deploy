@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.052428526253599998, "Shape_Area": 0.000114925877957, "ADM4_EN": "Novovodiane", "ADM4_UA": "Нововодяне", "ADM4_PCODE": "UA3504031016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Subottsivska", "ADM3_UA": "Суботцівська", "ADM3_PCODE": "UA3504031", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.380300999000042, 48.633643 ], [ 32.375810001000048, 48.635983 ], [ 32.376186, 48.639527 ], [ 32.37323599900003, 48.641524 ], [ 32.362055, 48.639014 ], [ 32.365388, 48.632085 ], [ 32.36805, 48.630994 ], [ 32.380300999000042, 48.633643 ] ] ] } }
-]
-}

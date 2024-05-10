@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.075231758653299993, "Shape_Area": 0.00019553960174800001, "ADM4_EN": "Slovianoserbka", "ADM4_UA": "Слов'яносербка", "ADM4_PCODE": "UA5114003011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykoploskivska", "ADM3_UA": "Великоплосківська", "ADM3_PCODE": "UA5114003", "ADM2_EN": "Rozdilnianskyi", "ADM2_UA": "Роздільнянський", "ADM2_PCODE": "UA5114", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.71291, 46.950567 ], [ 29.708632, 46.953902 ], [ 29.711359, 46.95791 ], [ 29.70363, 46.961328 ], [ 29.697147, 46.965741 ], [ 29.692474001000051, 46.964277 ], [ 29.690418, 46.961219 ], [ 29.693693, 46.95723 ], [ 29.707238, 46.949219 ], [ 29.71291, 46.950567 ] ] ] } }
-]
-}

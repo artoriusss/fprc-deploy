@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.032404424578699999, "Shape_Area": 4.56809559878e-05, "ADM4_EN": "Zvyniache", "ADM4_UA": "Звиняче", "ADM4_PCODE": "UA1802005012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vchoraishenska", "ADM3_UA": "Вчорайшенська", "ADM3_PCODE": "UA1802005", "ADM2_EN": "Berdychivskyi", "ADM2_UA": "Бердичівський", "ADM2_PCODE": "UA1802", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.984915566000041, 49.840316104000067 ], [ 28.985526059000051, 49.841975735000062 ], [ 28.978339550000044, 49.843569562000027 ], [ 28.976780380000037, 49.837088215000051 ], [ 28.981338593000032, 49.836588548000066 ], [ 28.984834097000032, 49.837797997000052 ], [ 28.984915566000041, 49.840316104000067 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.072519414540300003, "Shape_Area": 0.00013869378446800001, "ADM4_EN": "Mochulyshche", "ADM4_UA": "Мочулище", "ADM4_PCODE": "UA5608007024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dubrovytska", "ADM3_UA": "Дубровицька", "ADM3_PCODE": "UA5608007", "ADM2_EN": "Sarnenskyi", "ADM2_UA": "Сарненський", "ADM2_PCODE": "UA5608", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.484867001000055, 51.592324950000034 ], [ 26.478811800000074, 51.592657050000071 ], [ 26.478801, 51.590736990000039 ], [ 26.464529880000043, 51.589965060000054 ], [ 26.466693120000059, 51.586692030000052 ], [ 26.474954040000057, 51.586812 ], [ 26.490686040000071, 51.585129 ], [ 26.495598960000052, 51.586967970000046 ], [ 26.487227879000045, 51.591869010000039 ], [ 26.484867001000055, 51.592324950000034 ] ] ] } }
-]
-}

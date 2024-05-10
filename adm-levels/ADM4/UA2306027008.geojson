@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.073535274145300006, "Shape_Area": 6.3096703722700007e-05, "ADM4_EN": "Rostushche", "ADM4_UA": "Ростуще", "ADM4_PCODE": "UA2306027008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stepnenska", "ADM3_UA": "Степненська", "ADM3_PCODE": "UA2306027", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.296593122000047, 47.805694020000033 ], [ 35.274448803000041, 47.810367 ], [ 35.273548985000048, 47.809092510000028 ], [ 35.286874023000053, 47.806512525000073 ], [ 35.292196084000068, 47.804565960000048 ], [ 35.293516924000073, 47.797524990000056 ], [ 35.296296124000037, 47.800208970000028 ], [ 35.297912884000027, 47.804482980000046 ], [ 35.296593122000047, 47.805694020000033 ] ] ] } }
-]
-}

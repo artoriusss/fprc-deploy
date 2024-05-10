@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.037932799458299998, "Shape_Area": 6.2867259052700006e-05, "ADM4_EN": "Prolisky", "ADM4_UA": "Проліски", "ADM4_PCODE": "UA3204013007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Prystolychna", "ADM3_UA": "Пристолична", "ADM3_PCODE": "UA3204013", "ADM2_EN": "Boryspilskyi", "ADM2_UA": "Бориспільський", "ADM2_PCODE": "UA3204", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.775856402000045, 50.389636069000062 ], [ 30.781151070000078, 50.388474096000039 ], [ 30.781867128000044, 50.391563096000027 ], [ 30.786598118000029, 50.392616131000068 ], [ 30.784587912000063, 50.396753915000033 ], [ 30.776288066000063, 50.394773783000062 ], [ 30.775856402000045, 50.389636069000062 ] ] ] } }
-]
-}

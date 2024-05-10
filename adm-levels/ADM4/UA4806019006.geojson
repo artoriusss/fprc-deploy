@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.058020611888799999, "Shape_Area": 4.6465811073400001e-05, "ADM4_EN": "Novopodillia", "ADM4_UA": "Новоподілля", "ADM4_PCODE": "UA4806019006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Nechaianska", "ADM3_UA": "Нечаянська", "ADM3_PCODE": "UA4806019", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 31.490547101000061, 46.96838765900003 ], [ 31.490543609000042, 46.971600662000071 ], [ 31.485760042000038, 46.979391604000057 ], [ 31.483475537000061, 46.978706855000041 ], [ 31.487681154000029, 46.971384381000064 ], [ 31.490547101000061, 46.96838765900003 ] ] ], [ [ [ 31.481132031000072, 46.969363894000026 ], [ 31.477315057000055, 46.976750803000073 ], [ 31.474393407000036, 46.975551636000034 ], [ 31.479065232000039, 46.968681942000046 ], [ 31.481132031000072, 46.969363894000026 ] ] ] ] } }
-]
-}

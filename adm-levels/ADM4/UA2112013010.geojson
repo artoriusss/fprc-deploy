@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.051337184659699997, "Shape_Area": 5.7516939237700001e-05, "ADM4_EN": "Klymovytsia", "ADM4_UA": "Климовиця", "ADM4_PCODE": "UA2112013010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Irshavska", "ADM3_UA": "Іршавська", "ADM3_PCODE": "UA2112013", "ADM2_EN": "Khustskyi", "ADM2_UA": "Хустський", "ADM2_PCODE": "UA2112", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 22.931364555000073, 48.430375023000067 ], [ 22.933331553000073, 48.434188023000047 ], [ 22.928288556000041, 48.434969023000065 ], [ 22.926812557000062, 48.430277023000031 ], [ 22.931364555000073, 48.430375023000067 ] ] ], [ [ [ 22.940466550000053, 48.431258023000055 ], [ 22.939531553000052, 48.433309023000049 ], [ 22.932236554000042, 48.42753302300008 ], [ 22.934061554000039, 48.424476023000068 ], [ 22.940466550000053, 48.431258023000055 ] ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.070423724864800002, "Shape_Area": 0.000104883971957, "ADM4_EN": "Viktorivka", "ADM4_UA": "Вікторівка", "ADM4_PCODE": "UA7106023008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khrystynivska", "ADM3_UA": "Христинівська", "ADM3_PCODE": "UA7106023", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.904663501000073, 48.890917001000048 ], [ 29.902379615000029, 48.89106987200006 ], [ 29.902133616000071, 48.885706884000058 ], [ 29.89851425300003, 48.882332587000064 ], [ 29.898251173000062, 48.879674968000074 ], [ 29.893592307000063, 48.878828633000069 ], [ 29.892817083000068, 48.875832346000038 ], [ 29.90719507700004, 48.876195449000079 ], [ 29.904663501000073, 48.890917001000048 ] ] ] } }
-]
-}

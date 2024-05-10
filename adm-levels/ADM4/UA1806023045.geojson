@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0269743921834, "Shape_Area": 2.7161492145000001e-05, "ADM4_EN": "Brody", "ADM4_UA": "Броди", "ADM4_PCODE": "UA1806023045", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ushomyrska", "ADM3_UA": "Ушомирська", "ADM3_PCODE": "UA1806023", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.162589632000049, 50.895543455000052 ], [ 28.159883039000078, 50.89876448800004 ], [ 28.156982026000037, 50.899143920000029 ], [ 28.150430820000054, 50.896609320000039 ], [ 28.162589632000049, 50.895543455000052 ] ] ] } }
-]
-}

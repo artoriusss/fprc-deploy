@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.140429724349, "Shape_Area": 0.00040557595428999997, "ADM4_EN": "Rozsishky", "ADM4_UA": "Розсішки", "ADM4_PCODE": "UA7106023022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khrystynivska", "ADM3_UA": "Христинівська", "ADM3_PCODE": "UA7106023", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.041178, 48.788022 ], [ 30.029913, 48.785931 ], [ 30.03155, 48.782904 ], [ 30.021797, 48.782262 ], [ 30.016871, 48.78496 ], [ 30.012708, 48.784042 ], [ 30.015284, 48.778619 ], [ 30.03333599900003, 48.774295 ], [ 30.038628, 48.772063 ], [ 30.042513, 48.768103 ], [ 30.037475, 48.760756 ], [ 30.046406999000055, 48.759012 ], [ 30.046972999000047, 48.769694 ], [ 30.045522, 48.775397 ], [ 30.049367001000064, 48.777594 ], [ 30.045312, 48.780105 ], [ 30.041178, 48.788022 ] ] ] } }
-]
-}

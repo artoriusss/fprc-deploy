@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057501185289099997, "Shape_Area": 0.00014631748624800001, "ADM4_EN": "Nova Chortoryia", "ADM4_UA": "Нова Чортория", "ADM4_PCODE": "UA1804029033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Liubarska", "ADM3_UA": "Любарська", "ADM3_PCODE": "UA1804029", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.678463122000039, 50.040481541000077 ], [ 27.679996664000043, 50.035674717000063 ], [ 27.682736999000042, 50.033336 ], [ 27.682949001000054, 50.029585 ], [ 27.68585500100005, 50.026807999000027 ], [ 27.691647, 50.030123 ], [ 27.69092, 50.032479 ], [ 27.693858, 50.037035 ], [ 27.693889999000078, 50.0403 ], [ 27.68474, 50.041382 ], [ 27.678463122000039, 50.040481541000077 ] ] ] } }
-]
-}

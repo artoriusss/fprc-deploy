@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.064956968035700002, "Shape_Area": 0.00010284499761, "ADM4_EN": "Tuchne", "ADM4_UA": "Тучне", "ADM4_PCODE": "UA5904013035", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Trostianetska", "ADM3_UA": "Тростянецька", "ADM3_PCODE": "UA5904013", "ADM2_EN": "Okhtyrskyi", "ADM2_UA": "Охтирський", "ADM2_PCODE": "UA5904", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.837839, 50.511518 ], [ 34.832446, 50.512878 ], [ 34.829378999000028, 50.510601 ], [ 34.819273, 50.510623 ], [ 34.820977, 50.506404 ], [ 34.827466, 50.505807 ], [ 34.836595, 50.506729 ], [ 34.837839, 50.511518 ] ] ] } }
-]
-}

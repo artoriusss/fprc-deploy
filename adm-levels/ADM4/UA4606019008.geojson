@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.077857904042800005, "Shape_Area": 0.000111809712128, "ADM4_EN": "Dalnych", "ADM4_UA": "Дальнич", "ADM4_PCODE": "UA4606019008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kamianka-Buzka", "ADM3_UA": "Кам'янка-Бузька", "ADM3_PCODE": "UA4606019", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.275106169000026, 50.064507006000042 ], [ 24.269385170000078, 50.067519006000055 ], [ 24.266910171000063, 50.070005006000031 ], [ 24.249114174000056, 50.07172300600007 ], [ 24.248341175000064, 50.06955100600004 ], [ 24.261540173000071, 50.067545006000046 ], [ 24.262573171000042, 50.064006006000056 ], [ 24.271316170000034, 50.062413006000043 ], [ 24.275106169000026, 50.064507006000042 ] ] ] } }
-]
-}

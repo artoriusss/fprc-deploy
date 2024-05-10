@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.066108571822699996, "Shape_Area": 0.000125966361068, "ADM4_EN": "Chekhova", "ADM4_UA": "Чехова", "ADM4_PCODE": "UA1802013034", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ruzhynska", "ADM3_UA": "Ружинська", "ADM3_PCODE": "UA1802013", "ADM2_EN": "Berdychivskyi", "ADM2_UA": "Бердичівський", "ADM2_PCODE": "UA1802", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.405615040000043, 49.669652970000072 ], [ 29.399573160000045, 49.673156040000038 ], [ 29.396265840000069, 49.673720970000034 ], [ 29.390575650000073, 49.672518105000051 ], [ 29.387583278000079, 49.668078250000065 ], [ 29.391441285000042, 49.667186259000061 ], [ 29.398777920000043, 49.667859 ], [ 29.411732160000042, 49.662671040000077 ], [ 29.413755, 49.666914990000066 ], [ 29.405615040000043, 49.669652970000072 ] ] ] } }
-]
-}

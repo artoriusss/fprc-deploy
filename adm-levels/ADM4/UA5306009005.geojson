@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.074864306050700005, "Shape_Area": 7.5489444331900004e-05, "ADM4_EN": "Dontsivshchyna", "ADM4_UA": "Донцівщина", "ADM4_PCODE": "UA5306009005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hadiatska", "ADM3_UA": "Гадяцька", "ADM3_PCODE": "UA5306009", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.867105141000025, 50.332255988000043 ], [ 33.862994988000025, 50.333711164000078 ], [ 33.861683, 50.331109 ], [ 33.872226201000046, 50.329094830000031 ], [ 33.872368, 50.323989 ], [ 33.875697, 50.323728 ], [ 33.880369999000038, 50.325976 ], [ 33.881873999000049, 50.328915 ], [ 33.867105141000025, 50.332255988000043 ] ] ] } }
-]
-}

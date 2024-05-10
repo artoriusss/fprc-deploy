@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.078563253412800002, "Shape_Area": 0.00027902829281500002, "ADM4_EN": "Malashivtsi", "ADM4_UA": "Малашівці", "ADM4_PCODE": "UA6804047015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khmelnytska", "ADM3_UA": "Хмельницька", "ADM3_PCODE": "UA6804047", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.855421, 49.435319 ], [ 26.844972, 49.43571 ], [ 26.839093001000037, 49.427078 ], [ 26.849216, 49.424319 ], [ 26.856421999000077, 49.424968 ], [ 26.859210852000047, 49.427290593000066 ], [ 26.868930631000069, 49.425638693000053 ], [ 26.870516, 49.428588 ], [ 26.86936, 49.432447 ], [ 26.866594, 49.435806 ], [ 26.855421, 49.435319 ] ] ] } }
-]
-}

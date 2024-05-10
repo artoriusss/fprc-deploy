@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.096576484686399997, "Shape_Area": 0.00022687956001700001, "ADM4_EN": "Vesele", "ADM4_UA": "Веселе", "ADM4_PCODE": "UA1208007003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pershotravnevska", "ADM3_UA": "Першотравневська", "ADM3_PCODE": "UA1208007", "ADM2_EN": "Nikopolskyi", "ADM2_UA": "Нікопольський", "ADM2_PCODE": "UA1208", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.35922, 47.888167 ], [ 34.358931, 47.89027 ], [ 34.350268, 47.889875 ], [ 34.348159, 47.881648 ], [ 34.348409, 47.875981 ], [ 34.353118, 47.875698 ], [ 34.352272999000036, 47.871838 ], [ 34.348147, 47.866109 ], [ 34.351272, 47.865184 ], [ 34.356774999000038, 47.872695 ], [ 34.36135, 47.874432 ], [ 34.358257, 47.881405 ], [ 34.360136, 47.883753 ], [ 34.35922, 47.888167 ] ] ] } }
-]
-}

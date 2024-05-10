@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057127646046, "Shape_Area": 9.8217383221700004e-05, "ADM4_EN": "Arsenovychi", "ADM4_UA": "Арсеновичі", "ADM4_PCODE": "UA0706003002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velytska", "ADM3_UA": "Велицька", "ADM3_PCODE": "UA0706003", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.357220056000074, 51.120728001000032 ], [ 25.361010056000055, 51.123723002000077 ], [ 25.360023056000045, 51.12669100200003 ], [ 25.356132057000025, 51.124945002000061 ], [ 25.338347058000068, 51.12303200100007 ], [ 25.339688058000036, 51.119116002000055 ], [ 25.344745058000058, 51.118824002000053 ], [ 25.357220056000074, 51.120728001000032 ] ] ] } }
-]
-}

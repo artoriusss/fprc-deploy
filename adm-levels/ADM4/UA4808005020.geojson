@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.054454673146700001, "Shape_Area": 6.2458058473699994e-05, "ADM4_EN": "Makiieve", "ADM4_UA": "Макієве", "ADM4_PCODE": "UA4808005020", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vradiivska", "ADM3_UA": "Врадіївська", "ADM3_PCODE": "UA4808005", "ADM2_EN": "Pervomaiskyi", "ADM2_UA": "Первомайський", "ADM2_PCODE": "UA4808", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 30.692702978000057, 47.625575235000042 ], [ 30.688585959000079, 47.623778799000036 ], [ 30.689460087000043, 47.620559774000071 ], [ 30.694146226000043, 47.619016750000071 ], [ 30.695140495000032, 47.623301493000042 ], [ 30.692702978000057, 47.625575235000042 ] ] ], [ [ [ 30.693171033000056, 47.614941809000072 ], [ 30.688433033000024, 47.613837312000044 ], [ 30.69447636600006, 47.60702875800007 ], [ 30.693171033000056, 47.614941809000072 ] ] ] ] } }
-]
-}

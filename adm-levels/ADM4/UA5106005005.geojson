@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13500909666499999, "Shape_Area": 0.000376712800045, "ADM4_EN": "Vesela Dolyna", "ADM4_UA": "Весела Долина", "ADM4_PCODE": "UA5106005005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Borodinska", "ADM3_UA": "Бородінська", "ADM3_PCODE": "UA5106005", "ADM2_EN": "Bolhradskyi", "ADM2_UA": "Болградський", "ADM2_PCODE": "UA5106", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.326142, 46.242027 ], [ 29.319558001000075, 46.245581 ], [ 29.316471, 46.249873 ], [ 29.311143, 46.252785 ], [ 29.30896, 46.249096 ], [ 29.315535, 46.242989 ], [ 29.307611, 46.238954 ], [ 29.308893, 46.234724 ], [ 29.316724001000068, 46.226047 ], [ 29.317537, 46.222678 ], [ 29.321305, 46.219543 ], [ 29.331071, 46.224938 ], [ 29.333662, 46.228244 ], [ 29.319420999000045, 46.237446 ], [ 29.321963, 46.239394 ], [ 29.325061, 46.236425 ], [ 29.328025500000024, 46.236052 ], [ 29.326142, 46.242027 ] ] ] } }
-]
-}

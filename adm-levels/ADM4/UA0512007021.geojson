@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.15033217408800001, "Shape_Area": 0.000184710768711, "ADM4_EN": "Liulyntsi", "ADM4_UA": "Люлинці", "ADM4_PCODE": "UA0512007021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kalynivska", "ADM3_UA": "Калинівська", "ADM3_PCODE": "UA0512007", "ADM2_EN": "Khmilnytskyi", "ADM2_UA": "Хмільницький", "ADM2_PCODE": "UA0512", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.481543, 49.635097 ], [ 28.47203, 49.636477 ], [ 28.465902, 49.634841 ], [ 28.460686, 49.630721 ], [ 28.455581, 49.630096 ], [ 28.451903, 49.623682 ], [ 28.45651699900003, 49.621195 ], [ 28.463571, 49.619369 ], [ 28.465223, 49.623852 ], [ 28.459172999000032, 49.626463 ], [ 28.46835100100003, 49.630962 ], [ 28.467508, 49.633637 ], [ 28.476885, 49.633192 ], [ 28.487762001000078, 49.630934 ], [ 28.489152, 49.633539 ], [ 28.481543, 49.635097 ] ] ] } }
-]
-}

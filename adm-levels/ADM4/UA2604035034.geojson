@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.094877147826100003, "Shape_Area": 6.5150493394599995e-05, "ADM4_EN": "Smerkliv", "ADM4_UA": "Смерклів", "ADM4_PCODE": "UA2604035034", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tlumatska", "ADM3_UA": "Тлумацька", "ADM3_PCODE": "UA2604035", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.147261440000023, 48.943814881000037 ], [ 25.145129420000046, 48.941877856000076 ], [ 25.142070236000052, 48.943042046000073 ], [ 25.138235398000063, 48.938352460000033 ], [ 25.12524496900005, 48.933704583000065 ], [ 25.121743407000054, 48.929816917000039 ], [ 25.133589211000071, 48.933649608000053 ], [ 25.135256818000073, 48.935901235000074 ], [ 25.146221186000048, 48.94082510700008 ], [ 25.147261440000023, 48.943814881000037 ] ] ] } }
-]
-}

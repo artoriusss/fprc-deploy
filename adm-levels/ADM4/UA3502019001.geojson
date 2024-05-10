@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0815020613142, "Shape_Area": 0.00023977274999800001, "ADM4_EN": "Pobuzke", "ADM4_UA": "Побузьке", "ADM4_PCODE": "UA3502019001", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pobuzka", "ADM3_UA": "Побузька", "ADM3_PCODE": "UA3502019", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "Голованівський", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.607499242000074, 48.170390325000028 ], [ 30.597207463000075, 48.170929889000035 ], [ 30.596347553000044, 48.168769299000076 ], [ 30.590241079000066, 48.169212735000031 ], [ 30.591539861000058, 48.161240912000039 ], [ 30.586085834000073, 48.159174286000052 ], [ 30.58568308200006, 48.157142248000071 ], [ 30.608823543000028, 48.156865774000039 ], [ 30.607238993000067, 48.164021914000045 ], [ 30.607499242000074, 48.170390325000028 ] ] ] } }
-]
-}

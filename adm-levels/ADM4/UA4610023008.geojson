@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.045225975348399998, "Shape_Area": 5.5474302228300001e-05, "ADM4_EN": "Haiduchyna", "ADM4_UA": "Гайдучина", "ADM4_PCODE": "UA4610023008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stryiska", "ADM3_UA": "Стрийська", "ADM3_PCODE": "UA4610023", "ADM2_EN": "Stryiskyi", "ADM2_UA": "Стрийський", "ADM2_PCODE": "UA4610", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.971741704000067, 49.256076405000044 ], [ 23.987578217000078, 49.262573008000061 ], [ 23.98476021700003, 49.264820008000072 ], [ 23.981705218000059, 49.26286200800007 ], [ 23.971702220000054, 49.260046008000074 ], [ 23.968553221000036, 49.257333008000046 ], [ 23.971741704000067, 49.256076405000044 ] ] ] } }
-]
-}

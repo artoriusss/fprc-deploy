@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10737757814600001, "Shape_Area": 0.00060685219796800002, "ADM4_EN": "Kryvchunka", "ADM4_UA": "Кривчунка", "ADM4_PCODE": "UA7106009011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhashkivska", "ADM3_UA": "Жашківська", "ADM3_PCODE": "UA7106009", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.954068, 49.250566 ], [ 29.938645001000054, 49.225262 ], [ 29.944671001000074, 49.224962 ], [ 29.95204, 49.227008 ], [ 29.963268001000074, 49.228086 ], [ 29.974836, 49.233415 ], [ 29.977956001000052, 49.242564 ], [ 29.970502001000057, 49.243932 ], [ 29.970302, 49.250115 ], [ 29.954068, 49.250566 ] ] ] } }
-]
-}

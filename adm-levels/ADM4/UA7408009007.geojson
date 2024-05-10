@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.064290894981099994, "Shape_Area": 0.00018050193375900001, "ADM4_EN": "Pershe Travnia", "ADM4_UA": "Перше Травня", "ADM4_PCODE": "UA7408009007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Malodivytska", "ADM3_UA": "Малодівицька", "ADM3_PCODE": "UA7408009", "ADM2_EN": "Prylutskyi", "ADM2_UA": "Прилуцький", "ADM2_PCODE": "UA7408", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.134167, 50.642001 ], [ 32.129297999000073, 50.642219070000067 ], [ 32.12964216000006, 50.646538080000028 ], [ 32.126230080000028, 50.647974930000032 ], [ 32.117946121000045, 50.648297040000045 ], [ 32.115717001000064, 50.633926020000047 ], [ 32.127415919000043, 50.633412930000077 ], [ 32.128588080000043, 50.640169950000029 ], [ 32.132637001000035, 50.640120990000071 ], [ 32.134167, 50.642001 ] ] ] } }
-]
-}

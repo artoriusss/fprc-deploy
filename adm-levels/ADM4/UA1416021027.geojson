@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.045861720056399997, "Shape_Area": 3.37010151061e-05, "ADM4_EN": "Solone", "ADM4_UA": "Солоне", "ADM4_PCODE": "UA1416021027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pokrovska", "ADM3_UA": "Покровська", "ADM3_PCODE": "UA1416021", "ADM2_EN": "Pokrovskyi", "ADM2_UA": "Покровський", "ADM2_PCODE": "UA1416", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.058625, 48.215098 ], [ 37.049702, 48.213446 ], [ 37.041826001000061, 48.214188 ], [ 37.041631, 48.212523 ], [ 37.049854999000047, 48.211671 ], [ 37.059483, 48.21282 ], [ 37.058625, 48.215098 ] ] ] } }
-]
-}

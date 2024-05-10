@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.049426486266399998, "Shape_Area": 4.3519008106399999e-05, "ADM4_EN": "Babske", "ADM4_UA": "Бабське", "ADM4_PCODE": "UA2606021012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Perehinska", "ADM3_UA": "Перегінська", "ADM3_PCODE": "UA2606021", "ADM2_EN": "Kaluskyi", "ADM2_UA": "Калуський", "ADM2_PCODE": "UA2606", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.146372, 48.720525 ], [ 24.1562, 48.719703 ], [ 24.161719, 48.716901 ], [ 24.163043, 48.719205 ], [ 24.15968699900003, 48.721872 ], [ 24.15473, 48.723793 ], [ 24.151145001000032, 48.720995 ], [ 24.147182, 48.72434 ], [ 24.146372, 48.720525 ] ] ] } }
-]
-}

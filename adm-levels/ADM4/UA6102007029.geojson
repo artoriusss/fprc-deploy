@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.085567854401300006, "Shape_Area": 0.000184662192091, "ADM4_EN": "Lishnia", "ADM4_UA": "Лішня", "ADM4_PCODE": "UA6102007029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kremenetska", "ADM3_UA": "Кременецька", "ADM3_PCODE": "UA6102007", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.817534, 50.179464 ], [ 25.812670202000049, 50.177458122000075 ], [ 25.810784377000061, 50.170388493000075 ], [ 25.814696559000026, 50.168334044000062 ], [ 25.820924511000044, 50.159309613000062 ], [ 25.825410845000079, 50.162090204000037 ], [ 25.823362687000042, 50.170578917000057 ], [ 25.821281433000024, 50.172692079000058 ], [ 25.821699740000042, 50.179284376000055 ], [ 25.817534, 50.179464 ] ] ] } }
-]
-}

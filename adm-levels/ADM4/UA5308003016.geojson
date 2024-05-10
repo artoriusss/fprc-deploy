@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11273765274, "Shape_Area": 0.00018294748524300001, "ADM4_EN": "Lykhachivka", "ADM4_UA": "Лихачівка", "ADM4_PCODE": "UA5308003016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykorublivska", "ADM3_UA": "Великорублівська", "ADM3_PCODE": "UA5308003", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.66721945200004, 49.935956456000042 ], [ 34.668972, 49.931944 ], [ 34.677665, 49.934466 ], [ 34.682268001000068, 49.929914 ], [ 34.69171, 49.925365 ], [ 34.694343, 49.927744 ], [ 34.690385999000057, 49.933335 ], [ 34.684375999000054, 49.933973 ], [ 34.684711001000039, 49.937923 ], [ 34.680973999000059, 49.940513 ], [ 34.67681200100003, 49.941537 ], [ 34.66721945200004, 49.935956456000042 ] ] ] } }
-]
-}

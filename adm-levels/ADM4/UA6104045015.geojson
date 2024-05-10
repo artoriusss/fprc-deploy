@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0478381990971, "Shape_Area": 8.3696282983699997e-05, "ADM4_EN": "Obodivka", "ADM4_UA": "Ободівка", "ADM4_PCODE": "UA6104045015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Skorykivska", "ADM3_UA": "Скориківська", "ADM3_PCODE": "UA6104045", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.013501, 49.628439 ], [ 26.020613150000031, 49.627248050000048 ], [ 26.026124354000046, 49.627592699000047 ], [ 26.025594769000065, 49.633928272000048 ], [ 26.023324557000024, 49.635573157000067 ], [ 26.015083, 49.631861 ], [ 26.013022001000024, 49.629399 ], [ 26.013501, 49.628439 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.027719697315299999, "Shape_Area": 3.8622833061099999e-05, "ADM4_EN": "Lypnyky", "ADM4_UA": "Липники", "ADM4_PCODE": "UA4606019015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kamianka-Buzka", "ADM3_UA": "Кам'янка-Бузька", "ADM3_PCODE": "UA4606019", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.237124176000066, 50.115441006000026 ], [ 24.239082177000057, 50.11618900600007 ], [ 24.234104178000052, 50.124193007000031 ], [ 24.229586178000034, 50.123066006000045 ], [ 24.235572177000051, 50.11520200700005 ], [ 24.237124176000066, 50.115441006000026 ] ] ] } }
-]
-}

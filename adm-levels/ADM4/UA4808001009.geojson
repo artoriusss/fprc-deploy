@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.052427462089499999, "Shape_Area": 0.000114833063638, "ADM4_EN": "Novoselivka", "ADM4_UA": "Новоселівка", "ADM4_PCODE": "UA4808001009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Arbuzynska", "ADM3_UA": "Арбузинська", "ADM3_PCODE": "UA4808001", "ADM2_EN": "Pervomaiskyi", "ADM2_UA": "Первомайський", "ADM2_PCODE": "UA4808", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.328402167000036, 47.812886411000079 ], [ 31.331177294000042, 47.81310527800008 ], [ 31.337115341000072, 47.819378758000028 ], [ 31.337337888000036, 47.824635221000051 ], [ 31.332398812000065, 47.828739976000065 ], [ 31.330643919000067, 47.822854396000025 ], [ 31.327228583000078, 47.819175587000075 ], [ 31.328402167000036, 47.812886411000079 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.059698153737300003, "Shape_Area": 0.000127628614189, "ADM4_EN": "Berehove", "ADM4_UA": "Берегове", "ADM4_PCODE": "UA0102033002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pishchanivska", "ADM3_UA": "Піщанівська", "ADM3_PCODE": "UA0102033", "ADM2_EN": "Bakhchysaraiskyi", "ADM2_UA": "Бахчисарайський", "ADM2_PCODE": "UA0102", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.616771, 44.906187 ], [ 33.613233395000066, 44.905678763000026 ], [ 33.612149055000032, 44.89970016500007 ], [ 33.618225573000075, 44.898410149000028 ], [ 33.617309073000058, 44.894205064000062 ], [ 33.621919484000045, 44.893863236000072 ], [ 33.623421378000046, 44.89877851600005 ], [ 33.629450147000057, 44.898662887000057 ], [ 33.627524883000035, 44.903313611000044 ], [ 33.623079505000078, 44.905505187000074 ], [ 33.616771, 44.906187 ] ] ] } }
-]
-}

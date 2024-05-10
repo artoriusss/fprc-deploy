@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.064534306761299995, "Shape_Area": 4.8566218292100002e-05, "ADM4_EN": "Kruhlyk", "ADM4_UA": "Круглик", "ADM4_PCODE": "UA6806015008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykhailiutska", "ADM3_UA": "Михайлюцька", "ADM3_PCODE": "UA6806015", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.252902001000052, 50.356104 ], [ 27.251796, 50.356428 ], [ 27.243923, 50.348671 ], [ 27.238555, 50.347682 ], [ 27.241395, 50.34455 ], [ 27.246118, 50.347587 ], [ 27.250952, 50.352588 ], [ 27.252902001000052, 50.356104 ] ] ] } }
-]
-}

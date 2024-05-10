@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.079800702734000001, "Shape_Area": 0.00013305823548699999, "ADM4_EN": "Dorofiivka", "ADM4_UA": "Дорофіївка", "ADM4_PCODE": "UA6104035004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pidvolochyska", "ADM3_UA": "Підволочиська", "ADM3_PCODE": "UA6104035", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.207857902000057, 49.547933367000041 ], [ 26.21227166500006, 49.553113904000043 ], [ 26.210984434000068, 49.556965352000077 ], [ 26.212215189000062, 49.559856975000059 ], [ 26.207618060000073, 49.564215951000051 ], [ 26.202737568000032, 49.563112714000056 ], [ 26.202860872000031, 49.558556818000056 ], [ 26.205316035000067, 49.554626443000075 ], [ 26.202361339000049, 49.550814289000073 ], [ 26.206159924000076, 49.547245340000075 ], [ 26.207857902000057, 49.547933367000041 ] ] ] } }
-]
-}

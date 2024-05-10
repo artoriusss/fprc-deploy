@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0366243863283, "Shape_Area": 5.2509918968600003e-05, "ADM4_EN": "Koniushky-Tulyholivski", "ADM4_UA": "Конюшки-Тулиголівські", "ADM4_PCODE": "UA4608011013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rudkivska", "ADM3_UA": "Рудківська", "ADM3_PCODE": "UA4608011", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.60965931800007, 49.619449012000075 ], [ 23.61003531800003, 49.615289012000062 ], [ 23.617365315000029, 49.610077012000033 ], [ 23.620188314000075, 49.613026012000034 ], [ 23.613771315000065, 49.619286012000032 ], [ 23.60965931800007, 49.619449012000075 ] ] ] } }
-]
-}

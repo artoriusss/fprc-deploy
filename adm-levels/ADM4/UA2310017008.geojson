@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.071875869383800001, "Shape_Area": 0.000133122590875, "ADM4_EN": "Shcherbaky", "ADM4_UA": "Щербаки", "ADM4_PCODE": "UA2310017008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Orikhivska", "ADM3_UA": "Оріхівська", "ADM3_PCODE": "UA2310017", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.586123633000057, 47.551368571000069 ], [ 35.585935836000033, 47.556444317000057 ], [ 35.578519653000058, 47.553994559000046 ], [ 35.574034356000027, 47.549694994000049 ], [ 35.571401133000052, 47.544324925000069 ], [ 35.590185564000024, 47.546744304000072 ], [ 35.588503273000072, 47.550754294000058 ], [ 35.586123633000057, 47.551368571000069 ] ] ] } }
-]
-}

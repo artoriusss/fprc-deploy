@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.048077908470799999, "Shape_Area": 0.000104211245861, "ADM4_EN": "Dilnyche", "ADM4_UA": "Дільниче", "ADM4_PCODE": "UA4806021016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoodeska", "ADM3_UA": "Новоодеська", "ADM3_PCODE": "UA4806021", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.880517337000072, 47.418330213000047 ], [ 31.878992808000078, 47.424738002000026 ], [ 31.86366574300007, 47.423230591000049 ], [ 31.863799620000066, 47.417009131000043 ], [ 31.880517337000072, 47.418330213000047 ] ] ] } }
-]
-}

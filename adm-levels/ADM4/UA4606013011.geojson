@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.050317479021999997, "Shape_Area": 6.3863544273699998e-05, "ADM4_EN": "Hory", "ADM4_UA": "Гори", "ADM4_PCODE": "UA4606013011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhovkivska", "ADM3_UA": "Жовківська", "ADM3_PCODE": "UA4606013", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.175403187000029, 50.02590600700006 ], [ 24.173820188000036, 50.02615400600007 ], [ 24.16853818800007, 50.018748007000056 ], [ 24.185225185000036, 50.013972007000064 ], [ 24.186420600000076, 50.015818350000075 ], [ 24.173814188000051, 50.020305006000058 ], [ 24.175403187000029, 50.02590600700006 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.081940156169399994, "Shape_Area": 0.00017019451361, "ADM4_EN": "Hannivka", "ADM4_UA": "Ганнівка", "ADM4_PCODE": "UA5106005009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Borodinska", "ADM3_UA": "Бородінська", "ADM3_PCODE": "UA5106005", "ADM2_EN": "Bolhradskyi", "ADM2_UA": "Болградський", "ADM2_PCODE": "UA5106", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.345360999000036, 46.422988 ], [ 29.340278, 46.415103 ], [ 29.332197, 46.404832 ], [ 29.327053, 46.406306 ], [ 29.325604, 46.402531 ], [ 29.329171001000077, 46.401515 ], [ 29.338381, 46.401732 ], [ 29.342026, 46.40791 ], [ 29.348197, 46.415939 ], [ 29.350164, 46.421672 ], [ 29.345360999000036, 46.422988 ] ] ] } }
-]
-}

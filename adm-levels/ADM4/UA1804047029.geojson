@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.045632927048200003, "Shape_Area": 2.87678563372e-05, "ADM4_EN": "Novokhatky", "ADM4_UA": "Новохатки", "ADM4_PCODE": "UA1804047029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Romanivska", "ADM3_UA": "Романівська", "ADM3_PCODE": "UA1804047", "ADM2_EN": "Zhytomyrskyi", "ADM2_UA": "Житомирський", "ADM2_PCODE": "UA1804", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.053617040000063, 50.297274990000062 ], [ 28.05366815900004, 50.294676960000061 ], [ 28.056251160000045, 50.293248030000029 ], [ 28.060907039000028, 50.293737990000068 ], [ 28.055896921000055, 50.29716897000003 ], [ 28.053617040000063, 50.297274990000062 ] ] ] } }
-]
-}

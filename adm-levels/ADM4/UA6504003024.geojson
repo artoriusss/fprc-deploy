@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10513087280900001, "Shape_Area": 0.000360807399061, "ADM4_EN": "Shotivka", "ADM4_UA": "Шотівка", "ADM4_PCODE": "UA6504003024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivanivska", "ADM3_UA": "Іванівська", "ADM3_PCODE": "UA6504003", "ADM2_EN": "Henicheskyi", "ADM2_UA": "Генічеський", "ADM2_PCODE": "UA6504", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.501420001000042, 46.716738 ], [ 34.484337, 46.716874 ], [ 34.478654001000052, 46.71624 ], [ 34.47891, 46.713915 ], [ 34.472014, 46.710275 ], [ 34.474528999000029, 46.705901 ], [ 34.478029, 46.706243 ], [ 34.484033, 46.699551 ], [ 34.48978, 46.69808 ], [ 34.491794999000035, 46.701123 ], [ 34.495135, 46.702027 ], [ 34.494387, 46.705656 ], [ 34.502319, 46.70835 ], [ 34.498464, 46.713574 ], [ 34.501420001000042, 46.716738 ] ] ] } }
-]
-}

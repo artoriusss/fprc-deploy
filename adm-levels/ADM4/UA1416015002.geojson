@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.077406694700699996, "Shape_Area": 0.00013523161589499999, "ADM4_EN": "Krasnyi Lyman", "ADM4_UA": "Красний Лиман", "ADM4_PCODE": "UA1416015002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Myrnohradska", "ADM3_UA": "Мирноградська", "ADM3_PCODE": "UA1416015", "ADM2_EN": "Pokrovskyi", "ADM2_UA": "Покровський", "ADM2_PCODE": "UA1416", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.218028410000045, 48.34040612900003 ], [ 37.235649, 48.339376 ], [ 37.236896999000066, 48.337111 ], [ 37.245684, 48.338872 ], [ 37.250514, 48.342725 ], [ 37.250142780000033, 48.346844298000065 ], [ 37.245692581000071, 48.34639637500004 ], [ 37.242980998000064, 48.344222 ], [ 37.23374, 48.344385 ], [ 37.231877001000043, 48.341891 ], [ 37.219957214000033, 48.342228818000081 ], [ 37.218028410000045, 48.34040612900003 ] ] ] } }
-]
-}

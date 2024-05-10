@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.077613663701300004, "Shape_Area": 0.000130516799554, "ADM4_EN": "Chmyrivka", "ADM4_UA": "Чмирівка", "ADM4_PCODE": "UA3202025010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Fursivska", "ADM3_UA": "Фурсівська", "ADM3_PCODE": "UA3202025", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.011812947000067, 49.782489423000072 ], [ 30.010165980000068, 49.783347455000069 ], [ 30.003492951000055, 49.781325439000057 ], [ 30.006131908000043, 49.774191448000067 ], [ 30.007952968000041, 49.772080509000034 ], [ 30.01377391300008, 49.769418513000062 ], [ 30.015025976000061, 49.777605478000055 ], [ 30.019161876000055, 49.777859374000059 ], [ 30.019740943000045, 49.780415503000029 ], [ 30.011812947000067, 49.782489423000072 ] ] ] } }
-]
-}

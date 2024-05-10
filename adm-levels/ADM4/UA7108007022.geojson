@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10627528781700001, "Shape_Area": 0.00026266806816300001, "ADM4_EN": "Chernyshi", "ADM4_UA": "Черниші", "ADM4_PCODE": "UA7108007022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bobrytska", "ADM3_UA": "Бобрицька", "ADM3_PCODE": "UA7108007", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.302045, 49.866293 ], [ 31.296572, 49.865556 ], [ 31.293229, 49.862005 ], [ 31.302015, 49.858164 ], [ 31.30284, 49.853505 ], [ 31.308999, 49.851094 ], [ 31.315044001000047, 49.850679 ], [ 31.323724001000073, 49.85313 ], [ 31.327165, 49.855138 ], [ 31.325279, 49.857831 ], [ 31.316422, 49.858762 ], [ 31.313513001000047, 49.861486 ], [ 31.307576, 49.861251 ], [ 31.305632, 49.865094 ], [ 31.302045, 49.866293 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10410608301099999, "Shape_Area": 0.00024106405451200001, "ADM4_EN": "Sabarivka", "ADM4_UA": "Сабарівка", "ADM4_PCODE": "UA0502019032", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Orativska", "ADM3_UA": "Оратівська", "ADM3_PCODE": "UA0502019", "ADM2_EN": "Vinnytskyi", "ADM2_UA": "Вінницький", "ADM2_PCODE": "UA0502", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.66027, 49.143073 ], [ 29.652480999000034, 49.145702 ], [ 29.645011, 49.13927 ], [ 29.649083, 49.134202 ], [ 29.655213, 49.134795 ], [ 29.658842001000039, 49.132929 ], [ 29.661412, 49.135523 ], [ 29.667557, 49.133633 ], [ 29.670571, 49.134193 ], [ 29.676399, 49.140101 ], [ 29.672409, 49.142709 ], [ 29.665763, 49.138745 ], [ 29.664567001000023, 49.141622 ], [ 29.66027, 49.143073 ] ] ] } }
-]
-}

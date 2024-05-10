@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0512229865437, "Shape_Area": 8.4743037333400001e-05, "ADM4_EN": "Staryi Mosyr", "ADM4_UA": "Старий Мосир", "ADM4_PCODE": "UA0706007023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Holobska", "ADM3_UA": "Голобська", "ADM3_PCODE": "UA0706007", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.054582079000056, 51.042363003000048 ], [ 25.058130079000023, 51.044143002000055 ], [ 25.05251707900004, 51.051133002000029 ], [ 25.047232079000025, 51.049565002000065 ], [ 25.048739080000075, 51.046890003000044 ], [ 25.043366079000066, 51.044606003000069 ], [ 25.050475080000069, 51.040478002000043 ], [ 25.054582079000056, 51.042363003000048 ] ] ] } }
-]
-}

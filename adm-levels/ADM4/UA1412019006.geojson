@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10190978720299999, "Shape_Area": 7.3131941667999993e-05, "ADM4_EN": "Krasnopillia", "ADM4_UA": "Краснопілля", "ADM4_PCODE": "UA1412019006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sviatohirska", "ADM3_UA": "Святогірська", "ADM3_PCODE": "UA1412019", "ADM2_EN": "Kramatorskyi", "ADM2_UA": "Краматорський", "ADM2_PCODE": "UA1412", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.412316, 48.990502 ], [ 37.41015, 48.989722 ], [ 37.400157, 48.989854 ], [ 37.400217999000063, 48.988431 ], [ 37.415888, 48.987469 ], [ 37.416696, 48.991052 ], [ 37.412316, 48.990502 ] ] ] } }
-]
-}

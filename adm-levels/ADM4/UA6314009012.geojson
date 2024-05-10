@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.117161837657, "Shape_Area": 0.000187055355017, "ADM4_EN": "Piatnytske", "ADM4_UA": "П'ятницьке", "ADM4_PCODE": "UA6314009012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pechenizka", "ADM3_UA": "Печенізька", "ADM3_PCODE": "UA6314009", "ADM2_EN": "Chuhuivskyi", "ADM2_UA": "Чугуївський", "ADM2_PCODE": "UA6314", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.791595467000036, 49.931498107000039 ], [ 36.792239, 49.92467 ], [ 36.798056, 49.921517 ], [ 36.813945, 49.920179 ], [ 36.814813, 49.922202 ], [ 36.811294, 49.924773 ], [ 36.815936001000068, 49.927618 ], [ 36.810205001000043, 49.931985 ], [ 36.807509, 49.931163 ], [ 36.804685, 49.934117 ], [ 36.802921, 49.938295 ], [ 36.799812, 49.93381 ], [ 36.806746, 49.928613 ], [ 36.804784, 49.92614 ], [ 36.79998, 49.926428 ], [ 36.796242, 49.924201 ], [ 36.791595467000036, 49.931498107000039 ] ] ] } }
-]
-}

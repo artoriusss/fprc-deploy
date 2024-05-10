@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.051998946302100002, "Shape_Area": 0.000106668446445, "ADM4_EN": "Koshylivtsi", "ADM4_UA": "Кошилівці", "ADM4_PCODE": "UA6106037010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tovstenska", "ADM3_UA": "Товстенська", "ADM3_PCODE": "UA6106037", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.586282660000052, 48.870649932000049 ], [ 25.583321068000032, 48.874429546000044 ], [ 25.578583526000045, 48.875268920000053 ], [ 25.577247143000022, 48.879192428000067 ], [ 25.572374, 48.877908 ], [ 25.570969, 48.872656 ], [ 25.574150112000041, 48.869114388000071 ], [ 25.583692899000027, 48.867637469000044 ], [ 25.586282660000052, 48.870649932000049 ] ] ] } }
-]
-}

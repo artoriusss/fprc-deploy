@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0369108353798, "Shape_Area": 3.7073354428799998e-05, "ADM4_EN": "Bohunivka", "ADM4_UA": "Богунівка", "ADM4_PCODE": "UA0708001003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berestechkivska", "ADM3_UA": "Берестечківська", "ADM3_PCODE": "UA0708001", "ADM2_EN": "Lutskyi", "ADM2_UA": "Луцький", "ADM2_PCODE": "UA0708", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.116890071000057, 50.411933003000058 ], [ 25.113330071000064, 50.413588003000029 ], [ 25.116488071000049, 50.404694003000031 ], [ 25.119178072000068, 50.406995003000077 ], [ 25.116890071000057, 50.411933003000058 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.059954456706100001, "Shape_Area": 8.6486296240499997e-05, "ADM4_EN": "Mali Peredrymykhy", "ADM4_UA": "Малі Передримихи", "ADM4_PCODE": "UA4606013030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhovkivska", "ADM3_UA": "Жовківська", "ADM3_PCODE": "UA4606013", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.09169720400007, 50.057969008000043 ], [ 24.094274203000055, 50.055124007000074 ], [ 24.09095420400007, 50.050749007000036 ], [ 24.092242203000069, 50.046997007000073 ], [ 24.098586201000046, 50.04710000700004 ], [ 24.099493202000076, 50.051119007000068 ], [ 24.097958202000029, 50.054937007000035 ], [ 24.09849820200003, 50.058370007000065 ], [ 24.09169720400007, 50.057969008000043 ] ] ] } }
-]
-}

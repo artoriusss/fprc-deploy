@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.035505151981499998, "Shape_Area": 3.6793121946200003e-05, "ADM4_EN": "Maidan-Chapelskyi", "ADM4_UA": "Майдан-Чапельський", "ADM4_PCODE": "UA0502015004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Luka-Meleshkivska", "ADM3_UA": "Лука-Мелешківська", "ADM3_PCODE": "UA0502015", "ADM2_EN": "Vinnytskyi", "ADM2_UA": "Вінницький", "ADM2_PCODE": "UA0502", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.534919334000051, 49.186329599000032 ], [ 28.538889, 49.184532 ], [ 28.542779999000061, 49.18443299900008 ], [ 28.54267, 49.188838 ], [ 28.540831999000034, 49.191051 ], [ 28.53456200100004, 49.188338 ], [ 28.534919334000051, 49.186329599000032 ] ] ] } }
-]
-}

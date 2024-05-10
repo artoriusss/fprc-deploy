@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.084017543611600007, "Shape_Area": 0.000152521366492, "ADM4_EN": "Nove", "ADM4_UA": "Нове", "ADM4_PCODE": "UA5104003008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dyviziiska", "ADM3_UA": "Дивізійська", "ADM3_PCODE": "UA5104003", "ADM2_EN": "Bilhorod-Dnistrovskyi", "ADM2_UA": "Білгород-Дністровський", "ADM2_PCODE": "UA5104", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.870848, 45.909605 ], [ 29.869465, 45.913055 ], [ 29.859841, 45.91141 ], [ 29.860489001000076, 45.90921 ], [ 29.8669, 45.907614 ], [ 29.879379, 45.892916 ], [ 29.883072, 45.894889 ], [ 29.875848, 45.906619 ], [ 29.870848, 45.909605 ] ] ] } }
-]
-}

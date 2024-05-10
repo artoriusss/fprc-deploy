@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.075878470737099996, "Shape_Area": 0.00014119971087100001, "ADM4_EN": "Klenivka", "ADM4_UA": "Кленівка", "ADM4_PCODE": "UA0116007004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Donska", "ADM3_UA": "Донська", "ADM3_PCODE": "UA0116007", "ADM2_EN": "Simferopolskyi", "ADM2_UA": "Сімферопольський", "ADM2_PCODE": "UA0116", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.194040140000027, 45.131615973000066 ], [ 34.19378770600008, 45.136532687000056 ], [ 34.188462752000078, 45.136643969000033 ], [ 34.186697337000055, 45.13106736800006 ], [ 34.189723413000024, 45.130742413000064 ], [ 34.192278141000031, 45.126547822000077 ], [ 34.191815172000076, 45.119519513000057 ], [ 34.197377196000048, 45.119384919000026 ], [ 34.199584909000066, 45.122336054000073 ], [ 34.200140004000048, 45.131101413000067 ], [ 34.194040140000027, 45.131615973000066 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0602499554661, "Shape_Area": 0.000190638029352, "ADM4_EN": "Vovchanske", "ADM4_UA": "Вовчанське", "ADM4_PCODE": "UA2308031006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Yakymivska", "ADM3_UA": "Якимівська", "ADM3_PCODE": "UA2308031", "ADM2_EN": "Melitopolskyi", "ADM2_UA": "Мелітопольський", "ADM2_PCODE": "UA2308", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.106467818000056, 46.577842193000038 ], [ 35.106309532000068, 46.583140514000036 ], [ 35.093170237000038, 46.582033697000043 ], [ 35.097077026000079, 46.566708826000081 ], [ 35.106334471000025, 46.567468185000052 ], [ 35.108970241000065, 46.570766697000067 ], [ 35.108106590000034, 46.576610710000068 ], [ 35.106467818000056, 46.577842193000038 ] ] ] } }
-]
-}

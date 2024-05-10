@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.061435254653299999, "Shape_Area": 3.05087395588e-05, "ADM4_EN": "Sadivski Dubyny", "ADM4_UA": "Садівські Дубини", "ADM4_PCODE": "UA0702003019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zaturtsivska", "ADM3_UA": "Затурцівська", "ADM3_PCODE": "UA0702003", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.835677098000076, 50.721792003000076 ], [ 24.833101099000032, 50.720357003000061 ], [ 24.830288099000029, 50.714903003000074 ], [ 24.831641098000034, 50.71457100300006 ], [ 24.835677098000076, 50.721792003000076 ] ] ] } }
-]
-}

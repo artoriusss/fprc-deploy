@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.153418716973, "Shape_Area": 0.00031656284550700002, "ADM4_EN": "Khalaidove", "ADM4_UA": "Халаїдове", "ADM4_PCODE": "UA7106017033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Monastyryshchenska", "ADM3_UA": "Монастирищенська", "ADM3_PCODE": "UA7106017", "ADM2_EN": "Umanskyi", "ADM2_UA": "Уманський", "ADM2_PCODE": "UA7106", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.744798, 48.939222 ], [ 29.742326, 48.940393 ], [ 29.738205, 48.938214 ], [ 29.735099, 48.939336 ], [ 29.727172001000042, 48.938856 ], [ 29.727215999000066, 48.93464 ], [ 29.732882, 48.934331 ], [ 29.739736, 48.935722 ], [ 29.745354, 48.934782 ], [ 29.744245, 48.929598 ], [ 29.758076, 48.928514 ], [ 29.761446, 48.929663 ], [ 29.763736001000041, 48.932544 ], [ 29.758619, 48.940467 ], [ 29.753754, 48.939976 ], [ 29.748154, 48.941176 ], [ 29.744798, 48.939222 ] ] ] } }
-]
-}

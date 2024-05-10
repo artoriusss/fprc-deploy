@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.071489765716599998, "Shape_Area": 8.1439458034400004e-05, "ADM4_EN": "Havrylivka", "ADM4_UA": "Гаврилівка", "ADM4_PCODE": "UA6306011004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Starovirivska", "ADM3_UA": "Старовірівська", "ADM3_PCODE": "UA6306011", "ADM2_EN": "Krasnohradskyi", "ADM2_UA": "Красноградський", "ADM2_PCODE": "UA6306", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.649472999000068, 49.680084 ], [ 35.65037, 49.672658 ], [ 35.656773, 49.671027 ], [ 35.66048, 49.67433 ], [ 35.655844, 49.678409 ], [ 35.654268, 49.6776 ], [ 35.649472999000068, 49.680084 ] ] ] } }
-]
-}

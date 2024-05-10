@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.046443384026399998, "Shape_Area": 0.000117619010618, "ADM4_EN": "Kasianivka", "ADM4_UA": "Касянівка", "ADM4_PCODE": "UA1414001005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kalchytska", "ADM3_UA": "Кальчицька", "ADM3_PCODE": "UA1414001", "ADM2_EN": "Mariupolskyi", "ADM2_UA": "Маріупольський", "ADM2_PCODE": "UA1414", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.537835557000051, 47.298543713000072 ], [ 37.535497606000035, 47.301666373000046 ], [ 37.52691, 47.301737 ], [ 37.526200999000025, 47.291386 ], [ 37.537549999000078, 47.291775 ], [ 37.537835557000051, 47.298543713000072 ] ] ] } }
-]
-}

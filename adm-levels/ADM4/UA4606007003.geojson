@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.050462097727599999, "Shape_Area": 0.00011577363923300001, "ADM4_EN": "Bar", "ADM4_UA": "Бар", "ADM4_PCODE": "UA4606007003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Horodotska", "ADM3_UA": "Городоцька", "ADM3_PCODE": "UA4606007", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.486242360000062, 49.779382014000078 ], [ 23.480398921000074, 49.78043621900008 ], [ 23.477609360000031, 49.779224014000079 ], [ 23.471509364000042, 49.779880013000081 ], [ 23.469039364000025, 49.776893014000052 ], [ 23.47023736400007, 49.773958014000073 ], [ 23.477523362000056, 49.772129014000029 ], [ 23.483872685000051, 49.772283586000071 ], [ 23.486574358000041, 49.774245013000041 ], [ 23.486242360000062, 49.779382014000078 ] ] ] } }
-]
-}

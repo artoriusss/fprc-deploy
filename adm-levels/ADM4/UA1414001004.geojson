@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.081369830088199993, "Shape_Area": 0.000191575552385, "ADM4_EN": "Zoria", "ADM4_UA": "Зоря", "ADM4_PCODE": "UA1414001004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kalchytska", "ADM3_UA": "Кальчицька", "ADM3_PCODE": "UA1414001", "ADM2_EN": "Mariupolskyi", "ADM2_UA": "Маріупольський", "ADM2_PCODE": "UA1414", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.615176, 47.299351 ], [ 37.602826, 47.301542 ], [ 37.599571001000072, 47.300123 ], [ 37.59950199900004, 47.296468 ], [ 37.607602999000051, 47.295101 ], [ 37.603844999000046, 47.291838 ], [ 37.60092699900008, 47.287294 ], [ 37.60442099900007, 47.285631 ], [ 37.609252999000034, 47.28976 ], [ 37.617128998000055, 47.293489 ], [ 37.621482999000079, 47.293585 ], [ 37.621798, 47.300395 ], [ 37.615176, 47.299351 ] ] ] } }
-]
-}

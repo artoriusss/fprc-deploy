@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.095031243845299998, "Shape_Area": 0.000162345824611, "ADM4_EN": "Yerkiv", "ADM4_UA": "Єрків", "ADM4_PCODE": "UA7410019015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozeletska", "ADM3_UA": "Козелецька", "ADM3_PCODE": "UA7410019", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.058964, 50.867793 ], [ 31.053515041000026, 50.863155930000062 ], [ 31.053346920000024, 50.860826010000039 ], [ 31.059097200000053, 50.860635030000026 ], [ 31.061081880000074, 50.858520030000079 ], [ 31.061991959000068, 50.852995020000037 ], [ 31.070702160000053, 50.857776990000048 ], [ 31.072717800000078, 50.86048401000005 ], [ 31.068830880000064, 50.862085920000027 ], [ 31.06989180000005, 50.864594040000043 ], [ 31.058964, 50.867793 ] ] ] } }
-]
-}

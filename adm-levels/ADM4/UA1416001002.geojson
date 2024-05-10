@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.049848086791699997, "Shape_Area": 9.17274710827e-05, "ADM4_EN": "Opytne", "ADM4_UA": "Опитне", "ADM4_PCODE": "UA1416001002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Avdiivska", "ADM3_UA": "Авдіївська", "ADM3_PCODE": "UA1416001", "ADM2_EN": "Pokrovskyi", "ADM2_UA": "Покровський", "ADM2_PCODE": "UA1416", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.721517999000071, 48.09998 ], [ 37.713339, 48.099444 ], [ 37.711399999000037, 48.095874001000027 ], [ 37.72190099900007, 48.094196 ], [ 37.731168, 48.091657 ], [ 37.730191, 48.098364 ], [ 37.721879999000066, 48.097932 ], [ 37.721517999000071, 48.09998 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.031023414069, "Shape_Area": 4.1286441833400003e-05, "ADM4_EN": "Yablunivka", "ADM4_UA": "Яблунівка", "ADM4_PCODE": "UA4604011032", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pidkaminska", "ADM3_UA": "Підкамінська", "ADM3_PCODE": "UA4604011", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.282992058000048, 49.944438002000027 ], [ 25.276841058000059, 49.946394002000034 ], [ 25.273481059000062, 49.945323002000066 ], [ 25.272663059000024, 49.939958002000026 ], [ 25.276807058000031, 49.939685002000033 ], [ 25.280939057000069, 49.941069002000063 ], [ 25.282992058000048, 49.944438002000027 ] ] ] } }
-]
-}

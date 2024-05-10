@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.070761952950200005, "Shape_Area": 9.9720015673999995e-05, "ADM4_EN": "Hrizne", "ADM4_UA": "Грізне", "ADM4_PCODE": "UA2306003007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vilnianska", "ADM3_UA": "Вільнянська", "ADM3_PCODE": "UA2306003", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.352292202000058, 48.031410534000031 ], [ 35.347240861000046, 48.029702901000064 ], [ 35.345612756000037, 48.030698718000053 ], [ 35.337724577000074, 48.029541226000049 ], [ 35.339019809000035, 48.026320961000067 ], [ 35.333843432000037, 48.02401201400005 ], [ 35.353949184000044, 48.025705043000073 ], [ 35.357580219000056, 48.025496235000048 ], [ 35.357374832000062, 48.029818520000049 ], [ 35.352292202000058, 48.031410534000031 ] ] ] } }
-]
-}

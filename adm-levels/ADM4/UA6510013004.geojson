@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.141471096638, "Shape_Area": 0.00067550599059799997, "ADM4_EN": "Shyroka Balka", "ADM4_UA": "Широка Балка", "ADM4_PCODE": "UA6510013004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stanislavska", "ADM3_UA": "Станіславська", "ADM3_PCODE": "UA6510013", "ADM2_EN": "Khersonskyi", "ADM2_UA": "Херсонський", "ADM2_PCODE": "UA6510", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.197228, 46.59597 ], [ 32.191098, 46.605116 ], [ 32.179677001000073, 46.601545 ], [ 32.182292, 46.596393 ], [ 32.182062, 46.59399 ], [ 32.185426, 46.589963 ], [ 32.1828, 46.58656 ], [ 32.177491061000069, 46.585324599000046 ], [ 32.177674148000051, 46.583424799000056 ], [ 32.184814001000063, 46.576185 ], [ 32.209606287000042, 46.577248436000048 ], [ 32.211006, 46.579102 ], [ 32.210126, 46.585253 ], [ 32.2072, 46.595 ], [ 32.212051, 46.596214 ], [ 32.210149, 46.599913 ], [ 32.197228, 46.59597 ] ] ] } }
-]
-}

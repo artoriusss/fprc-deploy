@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.193423552676, "Shape_Area": 0.00036531094454899998, "ADM4_EN": "Hvyntove", "ADM4_UA": "Гвинтове", "ADM4_PCODE": "UA5902003012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Burynska", "ADM3_UA": "Буринська", "ADM3_PCODE": "UA5902003", "ADM2_EN": "Konotopskyi", "ADM2_UA": "Конотопський", "ADM2_PCODE": "UA5902", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.684076001000051, 51.284393 ], [ 33.679088, 51.284973 ], [ 33.679066, 51.279004 ], [ 33.677007, 51.279063 ], [ 33.674622, 51.269455 ], [ 33.677186, 51.264463 ], [ 33.680436, 51.267694 ], [ 33.689919, 51.270787 ], [ 33.693119, 51.274684 ], [ 33.691086, 51.278519 ], [ 33.706904, 51.277197 ], [ 33.710544, 51.278141 ], [ 33.708181001000071, 51.281762 ], [ 33.699589999000068, 51.284334 ], [ 33.691438001000051, 51.2823 ], [ 33.686157, 51.282147 ], [ 33.684076001000051, 51.284393 ] ] ] } }
-]
-}

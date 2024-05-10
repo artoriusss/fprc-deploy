@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.138120024003, "Shape_Area": 0.00030304737738100001, "ADM4_EN": "Vilkhovets", "ADM4_UA": "Вільховець", "ADM4_PCODE": "UA6106029005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Melnytse-Podilska", "ADM3_UA": "Мельнице-Подільська", "ADM3_PCODE": "UA6106029", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.148884999000074, 48.575913 ], [ 26.145607, 48.579331 ], [ 26.144653, 48.574086 ], [ 26.145685999000023, 48.558465 ], [ 26.148481, 48.54763 ], [ 26.157159, 48.544496 ], [ 26.156872001000067, 48.550304 ], [ 26.15339, 48.553481 ], [ 26.156479, 48.555114 ], [ 26.158468, 48.55942 ], [ 26.154393001000074, 48.560092 ], [ 26.153286999000045, 48.563837 ], [ 26.157729001000064, 48.566339 ], [ 26.154456, 48.572588 ], [ 26.151962, 48.571948 ], [ 26.152245, 48.577766 ], [ 26.148884999000074, 48.575913 ] ] ] } }
-]
-}

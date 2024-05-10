@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.081160513898100001, "Shape_Area": 0.000181490643236, "ADM4_EN": "Osypenko", "ADM4_UA": "Осипенко", "ADM4_PCODE": "UA1202015025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novopokrovska", "ADM3_UA": "Новопокровська", "ADM3_PCODE": "UA1202015", "ADM2_EN": "Dniprovskyi", "ADM2_UA": "Дніпровський", "ADM2_PCODE": "UA1202", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.389932, 48.042874 ], [ 34.388047, 48.048537 ], [ 34.373748, 48.047282 ], [ 34.368572001000075, 48.045018 ], [ 34.370618, 48.039912 ], [ 34.373925001000032, 48.03914 ], [ 34.381172, 48.040122 ], [ 34.386995, 48.038962 ], [ 34.396132001000069, 48.040217 ], [ 34.395771, 48.042364 ], [ 34.389932, 48.042874 ] ] ] } }
-]
-}

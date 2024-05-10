@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.104892451069, "Shape_Area": 0.00026079000403499998, "ADM4_EN": "Lykholitky", "ADM4_UA": "Лихолітки", "ADM4_PCODE": "UA7410019024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozeletska", "ADM3_UA": "Козелецька", "ADM3_PCODE": "UA7410019", "ADM2_EN": "Chernihivskyi", "ADM2_UA": "Чернігівський", "ADM2_PCODE": "UA7410", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.141506961000061, 50.954403960000036 ], [ 31.131564840000067, 50.954162040000028 ], [ 31.134265200000073, 50.947101 ], [ 31.137392881000039, 50.94267399000006 ], [ 31.14343008000003, 50.941119960000037 ], [ 31.144716, 50.943183030000057 ], [ 31.156839, 50.943180960000063 ], [ 31.161485880000043, 50.945016960000032 ], [ 31.158726839000053, 50.947843050000074 ], [ 31.154319, 50.948994060000075 ], [ 31.151161080000065, 50.951846970000076 ], [ 31.141506961000061, 50.954403960000036 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.063475112683000004, "Shape_Area": 0.000117223341615, "ADM4_EN": "Zvizdivka", "ADM4_UA": "Звіздівка", "ADM4_PCODE": "UA5606013005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Holovynska", "ADM3_UA": "Головинська", "ADM3_PCODE": "UA5606013", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.192446920000066, 50.893050960000039 ], [ 26.191667160000065, 50.897304990000066 ], [ 26.181105120000041, 50.893022070000029 ], [ 26.176367880000043, 50.891931 ], [ 26.175011040000072, 50.888125080000066 ], [ 26.178590879000069, 50.885040060000051 ], [ 26.192446920000066, 50.893050960000039 ] ] ] } }
-]
-}

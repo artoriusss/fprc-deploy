@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.051697368079699997, "Shape_Area": 8.1463685533500005e-05, "ADM4_EN": "Rudnia-Karpylivska", "ADM4_UA": "Рудня-Карпилівська", "ADM4_PCODE": "UA5608009006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Klesivska", "ADM3_UA": "Клесівська", "ADM3_PCODE": "UA5608009", "ADM2_EN": "Sarnenskyi", "ADM2_UA": "Сарненський", "ADM2_PCODE": "UA5608", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.779662, 51.398874 ], [ 26.776020960000039, 51.398608050000064 ], [ 26.773197839000034, 51.39650196000008 ], [ 26.774073001000033, 51.392689020000034 ], [ 26.779245121000031, 51.392663010000035 ], [ 26.778148920000035, 51.387653970000031 ], [ 26.786872079000034, 51.388810020000051 ], [ 26.783945999000025, 51.392184030000067 ], [ 26.784819, 51.395088960000066 ], [ 26.779662, 51.398874 ] ] ] } }
-]
-}

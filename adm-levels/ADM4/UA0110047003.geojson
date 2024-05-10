@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.030645046226099999, "Shape_Area": 3.9023975243700001e-05, "ADM4_EN": "Lvove", "ADM4_UA": "Львове", "ADM4_PCODE": "UA0110047003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Semysotska", "ADM3_UA": "Семисотська", "ADM3_PCODE": "UA0110047", "ADM2_EN": "Kerchynskyi", "ADM2_UA": "Керченський", "ADM2_PCODE": "UA0110", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.477346623000074, 45.261885070000062 ], [ 35.477839793000044, 45.265358516000049 ], [ 35.467597900000044, 45.265306911000039 ], [ 35.467584200000033, 45.261129272000062 ], [ 35.477346623000074, 45.261885070000062 ] ] ] } }
-]
-}

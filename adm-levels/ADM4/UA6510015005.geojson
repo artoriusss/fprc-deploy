@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.028576111663799999, "Shape_Area": 3.8275355389300001e-05, "ADM4_EN": "Naddniprianske", "ADM4_UA": "Наддніпрянське", "ADM4_PCODE": "UA6510015005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khersonska", "ADM3_UA": "Херсонська", "ADM3_PCODE": "UA6510015", "ADM2_EN": "Khersonskyi", "ADM2_UA": "Херсонський", "ADM2_PCODE": "UA6510", "ADM1_EN": "Khersonska", "ADM1_UA": "Херсонська", "ADM1_PCODE": "UA65", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.705448193000052, 46.739583984000035 ], [ 32.70255846200007, 46.740182552000078 ], [ 32.704190115000074, 46.734251980000067 ], [ 32.705836292000072, 46.732435322000072 ], [ 32.712232523000068, 46.738807683000061 ], [ 32.705448193000052, 46.739583984000035 ] ] ] } }
-]
-}

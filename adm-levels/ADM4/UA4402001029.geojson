@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0052388296554400004, "Shape_Area": 1.111099281e-06, "ADM4_EN": "Borzhykivka", "ADM4_UA": "Боржиківка", "ADM4_PCODE": "UA4402001029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Alchevska", "ADM3_UA": "Алчевська", "ADM3_PCODE": "UA4402001", "ADM2_EN": "Alchevskyi", "ADM2_UA": "Алчевський", "ADM2_PCODE": "UA4402", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.46902699900005, 48.393364 ], [ 38.468437, 48.393623 ], [ 38.466815001000043, 48.392545 ], [ 38.467388, 48.39223 ], [ 38.46902699900005, 48.393364 ] ] ] } }
-]
-}

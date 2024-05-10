@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14851046813499999, "Shape_Area": 0.00018871595471, "ADM4_EN": "Pahurtsi", "ADM4_UA": "Пагурці", "ADM4_PCODE": "UA0512015019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ulanivska", "ADM3_UA": "Уланівська", "ADM3_PCODE": "UA0512015", "ADM2_EN": "Khmilnytskyi", "ADM2_UA": "Хмільницький", "ADM2_PCODE": "UA0512", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.192517999000074, 49.706794 ], [ 28.187199, 49.707381 ], [ 28.180263, 49.70362 ], [ 28.175847, 49.705252 ], [ 28.17572, 49.699497 ], [ 28.177955, 49.698845 ], [ 28.177478999000073, 49.692125 ], [ 28.180788, 49.691798 ], [ 28.184605, 49.697101 ], [ 28.186492001000033, 49.695672 ], [ 28.189856, 49.697716 ], [ 28.186882, 49.702415 ], [ 28.191251001000069, 49.704435 ], [ 28.192517999000074, 49.706794 ] ] ] } }
-]
-}

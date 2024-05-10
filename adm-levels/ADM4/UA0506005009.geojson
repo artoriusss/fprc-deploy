@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13619692778, "Shape_Area": 0.00023534221925499999, "ADM4_EN": "Kurylivtsi", "ADM4_UA": "Курилівці", "ADM4_PCODE": "UA0506005009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zhmerynska", "ADM3_UA": "Жмеринська", "ADM3_PCODE": "UA0506005", "ADM2_EN": "Zhmerynskyi", "ADM2_UA": "Жмеринський", "ADM2_PCODE": "UA0506", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.993475, 49.178155 ], [ 27.99084, 49.17291 ], [ 27.984003, 49.174175 ], [ 27.975239999000053, 49.17013 ], [ 27.980258, 49.165771 ], [ 27.9851, 49.166003 ], [ 27.989545999000029, 49.161998 ], [ 27.98983, 49.158176 ], [ 27.996288, 49.159057 ], [ 27.990786, 49.164379 ], [ 27.994319, 49.169371 ], [ 27.999585, 49.172555 ], [ 27.99608, 49.178108 ], [ 27.993475, 49.178155 ] ] ] } }
-]
-}

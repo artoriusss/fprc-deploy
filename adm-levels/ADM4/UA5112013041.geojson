@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.040617770740699999, "Shape_Area": 6.27913326726e-05, "ADM4_EN": "Shkarbynka", "ADM4_UA": "Шкарбинка", "ADM4_PCODE": "UA5112013041", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Liubashivska", "ADM3_UA": "Любашівська", "ADM3_PCODE": "UA5112013", "ADM2_EN": "Podilskyi", "ADM2_UA": "Подільський", "ADM2_PCODE": "UA5112", "ADM1_EN": "Odeska", "ADM1_UA": "Одеська", "ADM1_PCODE": "UA51", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.332505, 47.73909 ], [ 30.328284, 47.736637 ], [ 30.326626001000079, 47.729348 ], [ 30.331622, 47.730132 ], [ 30.336635999000066, 47.729386 ], [ 30.336300999000059, 47.734384 ], [ 30.332606, 47.736414 ], [ 30.332505, 47.73909 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.098314908015399993, "Shape_Area": 7.21762245359e-05, "ADM4_EN": "Rokytne", "ADM4_UA": "Рокитне", "ADM4_PCODE": "UA4604003053", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Buska", "ADM3_UA": "Буська", "ADM3_PCODE": "UA4604003", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.631993117000036, 49.999783004000051 ], [ 24.610609120000049, 49.999752004000072 ], [ 24.607632120000062, 49.997015004000048 ], [ 24.632027118000053, 49.997999004000064 ], [ 24.631993117000036, 49.999783004000051 ] ] ] } }
-]
-}

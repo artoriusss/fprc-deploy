@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.101447605972, "Shape_Area": 0.000116071346357, "ADM4_EN": "Sokil", "ADM4_UA": "Сокіл", "ADM4_PCODE": "UA2604009023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Halytska", "ADM3_UA": "Галицька", "ADM3_PCODE": "UA2604009", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.618115925000041, 49.099520702000063 ], [ 24.615883728000028, 49.100959313000033 ], [ 24.611886386000037, 49.095480060000057 ], [ 24.614064155000051, 49.094644756000037 ], [ 24.620235753000031, 49.09633804300006 ], [ 24.637247800000068, 49.092661831000044 ], [ 24.640562441000043, 49.095192291000046 ], [ 24.632613633000062, 49.100283064000052 ], [ 24.628593579000039, 49.097273907000044 ], [ 24.622946283000033, 49.099213453000061 ], [ 24.618115925000041, 49.099520702000063 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.082874459628399996, "Shape_Area": 0.00014878954128900001, "ADM4_EN": "Kharchenky", "ADM4_UA": "Харченки", "ADM4_PCODE": "UA5302009054", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozelshchynska", "ADM3_UA": "Козельщинська", "ADM3_PCODE": "UA5302009", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.746778, 49.295452 ], [ 33.743467, 49.291009 ], [ 33.741363, 49.281002 ], [ 33.744708, 49.281383 ], [ 33.744827, 49.284699 ], [ 33.748510001000056, 49.286405 ], [ 33.749715, 49.282201 ], [ 33.752686, 49.281859 ], [ 33.755319, 49.293601 ], [ 33.746778, 49.295452 ] ] ] } }
-]
-}

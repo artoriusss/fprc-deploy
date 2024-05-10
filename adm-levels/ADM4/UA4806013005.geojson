@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.035411996205600003, "Shape_Area": 4.6381015193600002e-05, "ADM4_EN": "Katalyne", "ADM4_UA": "Каталине", "ADM4_PCODE": "UA4806013005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kutsurubska", "ADM3_UA": "Куцурубська", "ADM3_PCODE": "UA4806013", "ADM2_EN": "Mykolaivskyi", "ADM2_UA": "Миколаївський", "ADM2_PCODE": "UA4806", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.869437558000072, 46.76222978800007 ], [ 31.86934735400007, 46.767864962000033 ], [ 31.860205878000045, 46.767717152000046 ], [ 31.866731364000032, 46.760470309000027 ], [ 31.869437558000072, 46.76222978800007 ] ] ] } }
-]
-}

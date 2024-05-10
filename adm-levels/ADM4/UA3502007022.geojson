@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.042996496499499999, "Shape_Area": 9.4914320178600002e-05, "ADM4_EN": "Oleksandrivka", "ADM4_UA": "Олександрівка", "ADM4_PCODE": "UA3502007022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Holovanivska", "ADM3_UA": "Голованівська", "ADM3_PCODE": "UA3502007", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "Голованівський", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.524715, 48.347654 ], [ 30.5219, 48.346877 ], [ 30.520344999000031, 48.340086 ], [ 30.522932, 48.336201 ], [ 30.527377001000048, 48.333402 ], [ 30.529718, 48.335623 ], [ 30.528721, 48.345746 ], [ 30.524715, 48.347654 ] ] ] } }
-]
-}

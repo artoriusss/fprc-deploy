@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.047831594659599998, "Shape_Area": 7.0200106079200002e-05, "ADM4_EN": "Dublianka", "ADM4_UA": "Дублянка", "ADM4_PCODE": "UA6302009054", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasnokutska", "ADM3_UA": "Краснокутська", "ADM3_PCODE": "UA6302009", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "Богодухівський", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.347212, 49.957164 ], [ 35.344251999000051, 49.956219 ], [ 35.340494, 49.952444 ], [ 35.331198, 49.949689 ], [ 35.333011, 49.946825 ], [ 35.336562, 49.947769 ], [ 35.343421001000024, 49.947558 ], [ 35.347128, 49.951198 ], [ 35.347212, 49.957164 ] ] ] } }
-]
-}

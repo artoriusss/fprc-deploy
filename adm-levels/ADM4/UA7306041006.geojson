@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.109532235959, "Shape_Area": 0.00042071764834299998, "ADM4_EN": "Koteleve", "ADM4_UA": "Котелеве", "ADM4_PCODE": "UA7306041006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoselytska", "ADM3_UA": "Новоселицька", "ADM3_PCODE": "UA7306041", "ADM2_EN": "Chernivetskyi", "ADM2_UA": "Чернівецький", "ADM2_PCODE": "UA7306", "ADM1_EN": "Chernivetska", "ADM1_UA": "Чернівецька", "ADM1_PCODE": "UA73", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.355058001000032, 48.292688 ], [ 26.352781, 48.293916 ], [ 26.340961, 48.289507 ], [ 26.34065399900004, 48.285678 ], [ 26.353005001000042, 48.271943001000068 ], [ 26.362222, 48.27404 ], [ 26.365387, 48.276918 ], [ 26.369277, 48.27503 ], [ 26.372173, 48.277964 ], [ 26.368197, 48.283101 ], [ 26.370302, 48.28518 ], [ 26.366627, 48.289577 ], [ 26.363498, 48.288471 ], [ 26.358023, 48.289844 ], [ 26.355058001000032, 48.292688 ] ] ] } }
-]
-}

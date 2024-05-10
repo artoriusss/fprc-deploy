@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.025376760582600001, "Shape_Area": 2.6775634024e-05, "ADM4_EN": "Malofedorivka", "ADM4_UA": "Малофедорівка", "ADM4_PCODE": "UA4802013018", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kazankivska", "ADM3_UA": "Казанківська", "ADM3_PCODE": "UA4802013", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.97513639400006, 48.00872356800005 ], [ 32.975563196000053, 48.006034770000042 ], [ 32.979961114000048, 48.003441912000028 ], [ 32.982406959000059, 48.005512521000071 ], [ 32.97513639400006, 48.00872356800005 ] ] ] } }
-]
-}

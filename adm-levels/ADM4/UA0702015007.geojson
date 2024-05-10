@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.018186270267, "Shape_Area": 1.01954595776e-05, "ADM4_EN": "Hevyn", "ADM4_UA": "Гевин", "ADM4_PCODE": "UA0702015007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ovadnivska", "ADM3_UA": "Оваднівська", "ADM3_PCODE": "UA0702015", "ADM2_EN": "Volodymyrskyi", "ADM2_UA": "Володимирський", "ADM2_PCODE": "UA0702", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.558752888000072, 50.85009623500008 ], [ 24.556403169000077, 50.850215208000066 ], [ 24.556819575000077, 50.854438751000032 ], [ 24.555046877000052, 50.854557724000074 ], [ 24.554557408000051, 50.849621361000061 ], [ 24.558752888000072, 50.85009623500008 ] ] ] } }
-]
-}

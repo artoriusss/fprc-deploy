@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.101541757215, "Shape_Area": 0.00013875969504799999, "ADM4_EN": "Posada-Novomiska", "ADM4_UA": "Посада-Новоміська", "ADM4_PCODE": "UA4608005028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dobromylska", "ADM3_UA": "Добромильська", "ADM3_PCODE": "UA4608005", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.865913625000076, 49.612419025000065 ], [ 22.864721624000026, 49.601665025000045 ], [ 22.871454620000065, 49.596818025000061 ], [ 22.87585561800006, 49.59197402500007 ], [ 22.883331614000042, 49.59110002500006 ], [ 22.875931618000038, 49.596597025000051 ], [ 22.869626620000076, 49.606083025000032 ], [ 22.868739621000032, 49.61184002400006 ], [ 22.865913625000076, 49.612419025000065 ] ] ] } }
-]
-}

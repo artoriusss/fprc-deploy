@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.065885659772199998, "Shape_Area": 9.6445697379099999e-05, "ADM4_EN": "Novopokrovka", "ADM4_UA": "Новопокровка", "ADM4_PCODE": "UA3504009010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dmytrivska", "ADM3_UA": "Дмитрівська", "ADM3_PCODE": "UA3504009", "ADM2_EN": "Kropyvnytskyi", "ADM2_UA": "Кропивницький", "ADM2_PCODE": "UA3504", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.810193999000035, 48.854796 ], [ 32.809676, 48.856057 ], [ 32.799127999000063, 48.856052 ], [ 32.799298, 48.854377 ], [ 32.804378, 48.850945 ], [ 32.815664001000073, 48.847211 ], [ 32.818898, 48.850733 ], [ 32.810193999000035, 48.854796 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.070450570189799999, "Shape_Area": 7.6641909591400003e-05, "ADM4_EN": "Budky-Kamianski", "ADM4_UA": "Будки-Кам'янські", "ADM4_PCODE": "UA5608001002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Berezivska", "ADM3_UA": "Березівська", "ADM3_PCODE": "UA5608001", "ADM2_EN": "Sarnenskyi", "ADM2_UA": "Сарненський", "ADM2_PCODE": "UA5608", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.706134960000043, 51.600246030000051 ], [ 27.700449840000033, 51.599584980000031 ], [ 27.695531880000033, 51.600357 ], [ 27.693205921000072, 51.595653060000075 ], [ 27.695834999000056, 51.59225304000006 ], [ 27.699572160000059, 51.593973930000061 ], [ 27.703343160000031, 51.593883030000029 ], [ 27.706134960000043, 51.600246030000051 ] ] ] } }
-]
-}

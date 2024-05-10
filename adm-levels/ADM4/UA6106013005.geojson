@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.065388328931799994, "Shape_Area": 0.00013017068398600001, "ADM4_EN": "Vilkhivchyk", "ADM4_UA": "Вільхівчик", "ADM4_PCODE": "UA6106013005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Husiatynska", "ADM3_UA": "Гусятинська", "ADM3_PCODE": "UA6106013", "ADM2_EN": "Chortkivskyi", "ADM2_UA": "Чортківський", "ADM2_PCODE": "UA6106", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.192248989000063, 49.103635850000046 ], [ 26.188431223000066, 49.098873738000066 ], [ 26.19214, 49.095153 ], [ 26.191631001000076, 49.092293 ], [ 26.194449999000028, 49.089379 ], [ 26.199442991000069, 49.091013174000068 ], [ 26.201568, 49.101319 ], [ 26.192248989000063, 49.103635850000046 ] ] ] } }
-]
-}

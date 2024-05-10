@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.16271589844100001, "Shape_Area": 0.000203235473692, "ADM4_EN": "Hubyn", "ADM4_UA": "Губин", "ADM4_PCODE": "UA6804041003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Staroostropilska", "ADM3_UA": "Староостропільська", "ADM3_PCODE": "UA6804041", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 27.443255, 49.785474 ], [ 27.443079, 49.781229 ], [ 27.439474, 49.777848 ], [ 27.42705, 49.778843 ], [ 27.430116999000063, 49.774966 ], [ 27.435928, 49.776991 ], [ 27.444877001000066, 49.774797 ], [ 27.44814800100005, 49.779759 ], [ 27.443255, 49.785474 ] ] ], [ [ [ 27.452859, 49.783889 ], [ 27.450023, 49.782674 ], [ 27.449079999000048, 49.775917 ], [ 27.452670001000058, 49.771314 ], [ 27.456886, 49.772776 ], [ 27.460282, 49.780099 ], [ 27.455303999000023, 49.78139 ], [ 27.452859, 49.783889 ] ] ] ] } }
-]
-}

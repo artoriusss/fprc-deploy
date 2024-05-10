@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0568045355315, "Shape_Area": 4.08864997777e-05, "ADM4_EN": "Yaiechne", "ADM4_UA": "Яєчне", "ADM4_PCODE": "UA6308001036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykoburlutska", "ADM3_UA": "Великобурлуцька", "ADM3_PCODE": "UA6308001", "ADM2_EN": "Kupianskyi", "ADM2_UA": "Куп'янський", "ADM2_PCODE": "UA6308", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.279893, 50.042695 ], [ 37.278649, 50.044257 ], [ 37.275031, 50.037564 ], [ 37.273356001000025, 50.03763 ], [ 37.265024, 50.034521 ], [ 37.268218, 50.033535 ], [ 37.276322, 50.037318 ], [ 37.279893, 50.042695 ] ] ] } }
-]
-}

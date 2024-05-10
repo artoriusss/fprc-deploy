@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.048772366674100003, "Shape_Area": 4.4572137906599998e-05, "ADM4_EN": "Mali Selmentsi", "ADM4_UA": "Малі Селменці", "ADM4_PCODE": "UA2110019006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Siurtivska", "ADM3_UA": "Сюртівська", "ADM3_PCODE": "UA2110019", "ADM2_EN": "Uzhhorodskyi", "ADM2_UA": "Ужгородський", "ADM2_PCODE": "UA2110", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.16581607300003, 48.516883047000078 ], [ 22.162847076000048, 48.516552047000062 ], [ 22.158403080000028, 48.513422047000063 ], [ 22.160765077000065, 48.511863047000077 ], [ 22.16581607300003, 48.516883047000078 ] ] ] } }
-]
-}

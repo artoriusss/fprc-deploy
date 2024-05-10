@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0259449826205, "Shape_Area": 3.4475841307000002e-05, "ADM4_EN": "Serhiivske", "ADM4_UA": "Сергіївське", "ADM4_PCODE": "UA4804001028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bratska", "ADM3_UA": "Братська", "ADM3_PCODE": "UA4804001", "ADM2_EN": "Voznesenskyi", "ADM2_UA": "Вознесенський", "ADM2_PCODE": "UA4804", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.539143653000053, 47.906843747000039 ], [ 31.540619697000068, 47.907844132000037 ], [ 31.538367594000078, 47.915549398000053 ], [ 31.535105342000065, 47.915121127000077 ], [ 31.535836877000065, 47.906444673000067 ], [ 31.539143653000053, 47.906843747000039 ] ] ] } }
-]
-}

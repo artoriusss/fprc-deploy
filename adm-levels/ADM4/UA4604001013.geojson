@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.068747273021499994, "Shape_Area": 5.7104279078300001e-05, "ADM4_EN": "Hai-Sukhodilski", "ADM4_UA": "Гаї-Суходільські", "ADM4_PCODE": "UA4604001013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Brodivska", "ADM3_UA": "Бродівська", "ADM3_PCODE": "UA4604001", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.137335069000073, 50.018315002000065 ], [ 25.140316068000061, 50.013895002000027 ], [ 25.13532606800004, 50.012775002000069 ], [ 25.139129068000045, 50.00964100200008 ], [ 25.144163068000069, 50.010375002000046 ], [ 25.145208068000045, 50.012941002000048 ], [ 25.137335069000073, 50.018315002000065 ] ] ] } }
-]
-}

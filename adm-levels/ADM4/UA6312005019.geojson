@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0193105790571, "Shape_Area": 1.9188187272100001e-05, "ADM4_EN": "Peremoha", "ADM4_UA": "Перемога", "ADM4_PCODE": "UA6312005019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vilkhivska", "ADM3_UA": "Вільхівська", "ADM3_PCODE": "UA6312005", "ADM2_EN": "Kharkivskyi", "ADM2_UA": "Харківський", "ADM2_PCODE": "UA6312", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.368140670000059, 49.981382995000047 ], [ 36.372535296000024, 49.982216209000057 ], [ 36.369663471000024, 49.986229468000033 ], [ 36.366407546000062, 49.987108702000057 ], [ 36.368140670000059, 49.981382995000047 ] ] ] } }
-]
-}

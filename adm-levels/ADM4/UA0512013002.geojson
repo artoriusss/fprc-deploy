@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0860526010605, "Shape_Area": 0.00028871285718600002, "ADM4_EN": "Blazhiivka", "ADM4_UA": "Блажіївка", "ADM4_PCODE": "UA0512013002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Samhorodotska", "ADM3_UA": "Самгородоцька", "ADM3_PCODE": "UA0512013", "ADM2_EN": "Khmilnytskyi", "ADM2_UA": "Хмільницький", "ADM2_PCODE": "UA0512", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.95670601300003, 49.621254480000061 ], [ 28.954007528000034, 49.615519908000067 ], [ 28.937246856000058, 49.610414420000041 ], [ 28.944732953000027, 49.605291794000038 ], [ 28.948524299000042, 49.604740496000034 ], [ 28.952519546000076, 49.601120500000036 ], [ 28.960659872000065, 49.604941775000043 ], [ 28.966894345000071, 49.609183017000078 ], [ 28.961984910000069, 49.618445354000073 ], [ 28.957941, 49.621482 ], [ 28.95670601300003, 49.621254480000061 ] ] ] } }
-]
-}

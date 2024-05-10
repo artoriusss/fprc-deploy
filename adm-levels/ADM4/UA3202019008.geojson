@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.098090280052800002, "Shape_Area": 0.00030350060751600002, "ADM4_EN": "Volodymyrivka", "ADM4_UA": "Володимирівка", "ADM4_PCODE": "UA3202019008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Tarashchanska", "ADM3_UA": "Таращанська", "ADM3_PCODE": "UA3202019", "ADM2_EN": "Bilotserkivskyi", "ADM2_UA": "Білоцерківський", "ADM2_PCODE": "UA3202", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.418012701000066, 49.539550180000049 ], [ 30.415988827000035, 49.542613431000063 ], [ 30.402071856000077, 49.538340836000032 ], [ 30.39234196600006, 49.533398398000031 ], [ 30.400082139000062, 49.529811161000055 ], [ 30.400973920000069, 49.526418987000056 ], [ 30.408471601000031, 49.528806363000058 ], [ 30.424042160000056, 49.530426128000045 ], [ 30.426392301000078, 49.532558108000046 ], [ 30.418012701000066, 49.539550180000049 ] ] ] } }
-]
-}

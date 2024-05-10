@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.075778800586000006, "Shape_Area": 0.00015090496555500001, "ADM4_EN": "Oreanda", "ADM4_UA": "Ореанда", "ADM4_PCODE": "UA0120013004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Livadiiska", "ADM3_UA": "Лівадійська", "ADM3_PCODE": "UA0120013", "ADM2_EN": "Yaltynskyi", "ADM2_UA": "Ялтинський", "ADM2_PCODE": "UA0120", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.149224349000065, 44.465841952000062 ], [ 34.138596715000062, 44.46349177500008 ], [ 34.135389301000032, 44.457056005000027 ], [ 34.128793866000024, 44.45340549000008 ], [ 34.128765368000074, 44.45089039700008 ], [ 34.134479436000049, 44.448883408000029 ], [ 34.137848261000045, 44.45266285200006 ], [ 34.141391696000028, 44.453838465000047 ], [ 34.149024344000054, 44.463461951000056 ], [ 34.149224349000065, 44.465841952000062 ] ] ] } }
-]
-}

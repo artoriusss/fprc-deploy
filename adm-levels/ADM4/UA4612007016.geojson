@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.086315424790299994, "Shape_Area": 0.000109494043966, "ADM4_EN": "Novostavtsi", "ADM4_UA": "Новоставці", "ADM4_PCODE": "UA4612007016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lopatynska", "ADM3_UA": "Лопатинська", "ADM3_PCODE": "UA4612007", "ADM2_EN": "Chervonohradskyi", "ADM2_UA": "Червоноградський", "ADM2_PCODE": "UA4612", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.93317608600006, 50.261067003000051 ], [ 24.923193088000062, 50.262595003000058 ], [ 24.920049088000042, 50.257207003000076 ], [ 24.909267088000036, 50.259040003000052 ], [ 24.907449089000067, 50.255614003000062 ], [ 24.908551088000024, 50.251980003000028 ], [ 24.917268086000036, 50.254701003000037 ], [ 24.923191087000077, 50.254527003000078 ], [ 24.923960087000069, 50.259084003000055 ], [ 24.935770086000048, 50.25871400300008 ], [ 24.93317608600006, 50.261067003000051 ] ] ] } }
-]
-}

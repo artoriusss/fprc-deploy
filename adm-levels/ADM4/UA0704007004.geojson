@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.052659829561899997, "Shape_Area": 9.8563768545300003e-05, "ADM4_EN": "Zamostia", "ADM4_UA": "Замостя", "ADM4_PCODE": "UA0704007004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Prylisnenska", "ADM3_UA": "Прилісненська", "ADM3_PCODE": "UA0704007", "ADM2_EN": "Kamin-Kashyrskyi", "ADM2_UA": "Камінь-Каширський", "ADM2_PCODE": "UA0704", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.513510047000068, 51.46321400100004 ], [ 25.511079048000056, 51.461958002000074 ], [ 25.511357047000047, 51.457572002000063 ], [ 25.513790048000033, 51.456859001000055 ], [ 25.523343047000026, 51.457437001000073 ], [ 25.533462047000057, 51.459419002000061 ], [ 25.53293504800007, 51.461608002000048 ], [ 25.526293047000024, 51.461031001000038 ], [ 25.520871046000025, 51.46316100100006 ], [ 25.513510047000068, 51.46321400100004 ] ] ] } }
-]
-}

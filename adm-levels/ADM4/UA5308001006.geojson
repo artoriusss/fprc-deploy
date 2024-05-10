@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.11303393238700001, "Shape_Area": 0.000303121614009, "ADM4_EN": "Vyshneve", "ADM4_UA": "Вишневе", "ADM4_PCODE": "UA5308001006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilytska", "ADM3_UA": "Білицька", "ADM3_PCODE": "UA5308001", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.142151, 49.245889 ], [ 34.147132, 49.246998 ], [ 34.174148, 49.248542 ], [ 34.176663, 49.249383 ], [ 34.176357, 49.257597 ], [ 34.161033, 49.259214 ], [ 34.160156, 49.25556 ], [ 34.153876999000033, 49.255081 ], [ 34.149978, 49.251999 ], [ 34.13865300100008, 49.249882 ], [ 34.137964, 49.248286 ], [ 34.142151, 49.245889 ] ] ] } }
-]
-}

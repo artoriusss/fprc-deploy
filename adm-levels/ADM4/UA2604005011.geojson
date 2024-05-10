@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.045771756209499997, "Shape_Area": 9.6532367939199999e-05, "ADM4_EN": "Posvirzh", "ADM4_UA": "Посвірж", "ADM4_PCODE": "UA2604005011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bukachivska", "ADM3_UA": "Букачівська", "ADM3_PCODE": "UA2604005", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.476470336000034, 49.257890960000054 ], [ 24.474923940000053, 49.262545399000032 ], [ 24.475853607000033, 49.265343598000072 ], [ 24.468033748000039, 49.268449685000064 ], [ 24.461215606000053, 49.264971685000035 ], [ 24.465518499000041, 49.261274577000052 ], [ 24.470174414000041, 49.259909822000054 ], [ 24.47134761600006, 49.257613433000074 ], [ 24.476470336000034, 49.257890960000054 ] ] ] } }
-]
-}

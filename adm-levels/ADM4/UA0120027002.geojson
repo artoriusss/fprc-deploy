@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.052171328697499998, "Shape_Area": 0.000109593062193, "ADM4_EN": "Berehove", "ADM4_UA": "Берегове", "ADM4_PCODE": "UA0120027002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Simeizka", "ADM3_UA": "Сімеїзька", "ADM3_PCODE": "UA0120027", "ADM2_EN": "Yaltynskyi", "ADM2_UA": "Ялтинський", "ADM2_PCODE": "UA0120", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.901748591000057, 44.407006885000044 ], [ 33.896458228000029, 44.408727846000033 ], [ 33.882701178000048, 44.40980621600005 ], [ 33.88287609200006, 44.404027529000075 ], [ 33.885375305000025, 44.40313567000004 ], [ 33.900196362000031, 44.402390967000031 ], [ 33.901748591000057, 44.407006885000044 ] ] ] } }
-]
-}

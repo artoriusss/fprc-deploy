@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.068928570793099997, "Shape_Area": 7.5452044658300002e-05, "ADM4_EN": "Koliadyn", "ADM4_UA": "Колядин", "ADM4_PCODE": "UA7408019013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Talalaivska", "ADM3_UA": "Талалаївська", "ADM3_PCODE": "UA7408019", "ADM2_EN": "Prylutskyi", "ADM2_UA": "Прилуцький", "ADM2_PCODE": "UA7408", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.950000716000034, 50.73282990000007 ], [ 32.954301001000033, 50.731708950000041 ], [ 32.95577988000008, 50.728176 ], [ 32.959944, 50.732874990000028 ], [ 32.958177840000076, 50.736974940000039 ], [ 32.955001920000029, 50.734458 ], [ 32.950000716000034, 50.73282990000007 ] ] ] } }
-]
-}

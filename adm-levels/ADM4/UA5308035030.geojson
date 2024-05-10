@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.124020804937, "Shape_Area": 0.00023301360872200001, "ADM4_EN": "Chovno-Fedorivka", "ADM4_UA": "Човно-Федорівка", "ADM4_PCODE": "UA5308035030", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Opishnianska", "ADM3_UA": "Опішнянська", "ADM3_PCODE": "UA5308035", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.428057, 50.013271 ], [ 34.429726, 50.005099 ], [ 34.426267, 49.999774 ], [ 34.427144, 49.993996 ], [ 34.434768999000028, 49.991721 ], [ 34.44926, 49.991485 ], [ 34.449588, 49.992703 ], [ 34.438445, 49.992876 ], [ 34.438829, 49.995353 ], [ 34.442497, 49.998755 ], [ 34.440831999000068, 50.001755 ], [ 34.4492, 50.00323 ], [ 34.443404999000052, 50.006769 ], [ 34.431167001000063, 50.008666 ], [ 34.431530999000074, 50.010802 ], [ 34.428057, 50.013271 ] ] ] } }
-]
-}

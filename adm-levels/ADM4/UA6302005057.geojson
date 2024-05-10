@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12116297996, "Shape_Area": 0.00022363363902900001, "ADM4_EN": "Fesky", "ADM4_UA": "Феськи", "ADM4_PCODE": "UA6302005057", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zolochivska", "ADM3_UA": "Золочівська", "ADM3_PCODE": "UA6302005", "ADM2_EN": "Bohodukhivskyi", "ADM2_UA": "Богодухівський", "ADM2_PCODE": "UA6302", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.964011, 50.146064 ], [ 35.950029, 50.145008 ], [ 35.950198001000047, 50.151623 ], [ 35.946948, 50.150996 ], [ 35.946605, 50.14638 ], [ 35.941971999000032, 50.145698 ], [ 35.940184, 50.141358 ], [ 35.944829, 50.139699 ], [ 35.948781001000043, 50.141358 ], [ 35.94926, 50.134967 ], [ 35.957596, 50.134804 ], [ 35.961199001000068, 50.136856 ], [ 35.966196001000071, 50.136639 ], [ 35.96745, 50.145396 ], [ 35.964011, 50.146064 ] ] ] } }
-]
-}

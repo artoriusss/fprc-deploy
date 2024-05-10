@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.057361421796100001, "Shape_Area": 7.6104877042200002e-05, "ADM4_EN": "Iskorost", "ADM4_UA": "Іскорость", "ADM4_PCODE": "UA1806009017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Korostenska", "ADM3_UA": "Коростенська", "ADM3_PCODE": "UA1806009", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.653140159000031, 50.92230402000007 ], [ 28.648950840000055, 50.917716990000031 ], [ 28.650480839000068, 50.914081980000049 ], [ 28.654484039000067, 50.909589 ], [ 28.66031208000004, 50.912148960000081 ], [ 28.661973119000038, 50.917310010000051 ], [ 28.656677160000072, 50.918131980000055 ], [ 28.653140159000031, 50.92230402000007 ] ] ] } }
-]
-}

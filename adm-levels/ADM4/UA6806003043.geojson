@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.071846392452299998, "Shape_Area": 0.00015985185579099999, "ADM4_EN": "Okip", "ADM4_UA": "Окіп", "ADM4_PCODE": "UA6806003043", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilohirska", "ADM3_UA": "Білогірська", "ADM3_PCODE": "UA6806003", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.526659, 49.963011 ], [ 26.516069, 49.965879 ], [ 26.514818, 49.960458 ], [ 26.519569, 49.960518 ], [ 26.517457, 49.953635 ], [ 26.520413001000065, 49.953878 ], [ 26.522194, 49.95741 ], [ 26.530453999000031, 49.954623 ], [ 26.537993, 49.95518 ], [ 26.535193, 49.95879 ], [ 26.5354, 49.961274 ], [ 26.526659, 49.963011 ] ] ] } }
-]
-}

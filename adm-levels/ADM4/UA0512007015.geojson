@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.096083575584599998, "Shape_Area": 0.00017178242583900001, "ADM4_EN": "Zahrebelnia", "ADM4_UA": "Загребельня", "ADM4_PCODE": "UA0512007015", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kalynivska", "ADM3_UA": "Калинівська", "ADM3_PCODE": "UA0512007", "ADM2_EN": "Khmilnytskyi", "ADM2_UA": "Хмільницький", "ADM2_PCODE": "UA0512", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.54983, 49.544553 ], [ 28.547845001000042, 49.544192 ], [ 28.544162, 49.535908 ], [ 28.541229001000033, 49.535085 ], [ 28.541100001000075, 49.529545 ], [ 28.553303, 49.530756 ], [ 28.554509001000042, 49.532858 ], [ 28.560001, 49.531198 ], [ 28.563989, 49.531683 ], [ 28.564487, 49.533998 ], [ 28.553038999000023, 49.534531 ], [ 28.55555, 49.542219 ], [ 28.54983, 49.544553 ] ] ] } }
-]
-}

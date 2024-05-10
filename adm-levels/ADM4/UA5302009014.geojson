@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0867449594835, "Shape_Area": 0.00016543436102299999, "ADM4_EN": "Hlyboka Dolyna", "ADM4_UA": "Глибока Долина", "ADM4_PCODE": "UA5302009014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozelshchynska", "ADM3_UA": "Козельщинська", "ADM3_PCODE": "UA5302009", "ADM2_EN": "Kremenchutskyi", "ADM2_UA": "Кременчуцький", "ADM2_PCODE": "UA5302", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.758955957000069, 49.419839443000058 ], [ 33.760760762000075, 49.424003903000028 ], [ 33.748439, 49.427163 ], [ 33.748473, 49.419749 ], [ 33.755729240000051, 49.417225639000037 ], [ 33.774207, 49.41488 ], [ 33.773336001000075, 49.417528 ], [ 33.765403175000074, 49.41957070400008 ], [ 33.766597802000035, 49.42263944900003 ], [ 33.762906936000036, 49.423510591000081 ], [ 33.761853287000065, 49.419637003000048 ], [ 33.758955957000069, 49.419839443000058 ] ] ] } }
-]
-}

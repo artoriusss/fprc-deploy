@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.085878837040900005, "Shape_Area": 0.00020510820946200001, "ADM4_EN": "Ostashivtsi", "ADM4_UA": "Осташівці", "ADM4_PCODE": "UA6104033009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ozernianska", "ADM3_UA": "Озернянська", "ADM3_PCODE": "UA6104033", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.330658, 49.663644 ], [ 25.329946, 49.667288 ], [ 25.322532999000032, 49.66250799900007 ], [ 25.317500001000042, 49.664256 ], [ 25.311441, 49.658926 ], [ 25.319218001000024, 49.652042 ], [ 25.32472000100006, 49.652484001000062 ], [ 25.330762, 49.657013 ], [ 25.338097001000051, 49.657896 ], [ 25.336703, 49.66062 ], [ 25.331593001000044, 49.660336 ], [ 25.330658, 49.663644 ] ] ] } }
-]
-}

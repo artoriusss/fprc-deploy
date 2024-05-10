@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0301848566746, "Shape_Area": 4.29945162158e-05, "ADM4_EN": "Briushkiv", "ADM4_UA": "Брюшків", "ADM4_PCODE": "UA5606035002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kostopilska", "ADM3_UA": "Костопільська", "ADM3_PCODE": "UA5606035", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.42883192000005, 51.042231 ], [ 26.427702961000023, 51.044670990000043 ], [ 26.422422121000068, 51.045807060000072 ], [ 26.420392800000059, 51.043364010000062 ], [ 26.421843959000057, 51.040545030000033 ], [ 26.427562199000079, 51.038266050000061 ], [ 26.42883192000005, 51.042231 ] ] ] } }
-]
-}

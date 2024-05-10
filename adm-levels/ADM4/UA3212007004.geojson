@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.079779016639699996, "Shape_Area": 5.5787945264500002e-05, "ADM4_EN": "Kapustiana", "ADM4_UA": "Капустяна", "ADM4_PCODE": "UA3212007004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kozynska", "ADM3_UA": "Козинська", "ADM3_PCODE": "UA3212007", "ADM2_EN": "Obukhivskyi", "ADM2_UA": "Обухівський", "ADM2_PCODE": "UA3212", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.536433790000046, 50.163970228000039 ], [ 30.536514701000044, 50.160670309000068 ], [ 30.53911478200007, 50.15774228500004 ], [ 30.545102765000024, 50.155992294000043 ], [ 30.546531687000027, 50.159131315000081 ], [ 30.536247741000068, 50.163288253000076 ], [ 30.536433790000046, 50.163970228000039 ] ] ] } }
-]
-}

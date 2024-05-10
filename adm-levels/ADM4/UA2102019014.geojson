@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.061222516460299997, "Shape_Area": 0.00014754887834700001, "ADM4_EN": "Kholmovets", "ADM4_UA": "Холмовець", "ADM4_PCODE": "UA2102019014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pyiterfolvivska", "ADM3_UA": "Пийтерфолвівська", "ADM3_PCODE": "UA2102019", "ADM2_EN": "Berehivskyi", "ADM2_UA": "Берегівський", "ADM2_PCODE": "UA2102", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.109005465000052, 48.05661802000003 ], [ 23.103999467000051, 48.062368019000075 ], [ 23.104573466000033, 48.064573019000079 ], [ 23.091473473000065, 48.060476020000067 ], [ 23.085130475000028, 48.056046020000053 ], [ 23.088659473000064, 48.052446020000048 ], [ 23.093084471000054, 48.05213001900006 ], [ 23.100143469000045, 48.05647102000006 ], [ 23.105915467000045, 48.055240020000042 ], [ 23.109005465000052, 48.05661802000003 ] ] ] } }
-]
-}

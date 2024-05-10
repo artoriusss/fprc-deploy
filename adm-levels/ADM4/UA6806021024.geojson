@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14101527631899999, "Shape_Area": 0.00035891338571299999, "ADM4_EN": "Onatskivtsi", "ADM4_UA": "Онацьківці", "ADM4_PCODE": "UA6806021024", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Polonska", "ADM3_UA": "Полонська", "ADM3_PCODE": "UA6806021", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.460714, 49.964274 ], [ 27.458622, 49.965657 ], [ 27.452964001000055, 49.959743 ], [ 27.447443001000067, 49.959898 ], [ 27.446605, 49.957295 ], [ 27.457569, 49.955722 ], [ 27.466827, 49.956624 ], [ 27.470984001000033, 49.95464 ], [ 27.474223, 49.945731 ], [ 27.469833999000059, 49.944155 ], [ 27.47097, 49.939657 ], [ 27.483263, 49.94386 ], [ 27.489119001000063, 49.952139 ], [ 27.482732249000037, 49.95482 ], [ 27.482640999000068, 49.957059 ], [ 27.466879, 49.962682 ], [ 27.460714, 49.964274 ] ] ] } }
-]
-}

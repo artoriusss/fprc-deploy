@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.141420934725, "Shape_Area": 0.00023862890058799999, "ADM4_EN": "Ostroverkhivka", "ADM4_UA": "Островерхівка", "ADM4_PCODE": "UA6314003042", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Zmiivska", "ADM3_UA": "Зміївська", "ADM3_PCODE": "UA6314003", "ADM2_EN": "Chuhuivskyi", "ADM2_UA": "Чугуївський", "ADM2_PCODE": "UA6314", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.175296999000068, 49.810091 ], [ 36.163248, 49.804232 ], [ 36.166506999000035, 49.800277 ], [ 36.162458, 49.792955 ], [ 36.153537999000037, 49.789913 ], [ 36.159818, 49.788429 ], [ 36.164609, 49.791707 ], [ 36.167732, 49.792425 ], [ 36.170541, 49.790301 ], [ 36.179442, 49.79086 ], [ 36.180073001000039, 49.796667 ], [ 36.177071, 49.79623 ], [ 36.171018, 49.799557 ], [ 36.174233, 49.803779 ], [ 36.172795, 49.806408 ], [ 36.175296999000068, 49.810091 ] ] ] } }
-]
-}

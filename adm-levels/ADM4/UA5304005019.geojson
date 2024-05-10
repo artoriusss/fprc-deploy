@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.036931819274900003, "Shape_Area": 3.9805405313699998e-05, "ADM4_EN": "Maksymivshchyna", "ADM4_UA": "Максимівщина", "ADM4_PCODE": "UA5304005019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novoorzhytska", "ADM3_UA": "Новооржицька", "ADM3_PCODE": "UA5304005", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.667738999000051, 50.045156 ], [ 32.663297857000032, 50.053453038000043 ], [ 32.661796949000063, 50.053285796000068 ], [ 32.664404, 50.050279 ], [ 32.658083, 50.048722 ], [ 32.661006001000032, 50.044193 ], [ 32.666399999000078, 50.044822 ], [ 32.667738999000051, 50.045156 ] ] ] } }
-]
-}

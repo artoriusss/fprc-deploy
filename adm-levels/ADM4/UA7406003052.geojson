@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.048310645657499998, "Shape_Area": 8.7028350293199999e-05, "ADM4_EN": "Novenke", "ADM4_UA": "Новеньке", "ADM4_PCODE": "UA7406003052", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Novhorod-Siverska", "ADM3_UA": "Новгород-Сіверська", "ADM3_PCODE": "UA7406003", "ADM2_EN": "Novhorod-Siverskyi", "ADM2_UA": "Новгород-Сіверський", "ADM2_PCODE": "UA7406", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.161929920000034, 52.187386050000043 ], [ 33.158841840000036, 52.189524990000052 ], [ 33.155408880000039, 52.189515 ], [ 33.155580960000066, 52.184663010000065 ], [ 33.154351920000067, 52.180800030000057 ], [ 33.15915504000003, 52.180853040000045 ], [ 33.163027920000047, 52.182606060000069 ], [ 33.169546081000078, 52.182658980000042 ], [ 33.16941, 52.187412060000042 ], [ 33.161929920000034, 52.187386050000043 ] ] ] } }
-]
-}

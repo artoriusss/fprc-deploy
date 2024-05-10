@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.059245007709, "Shape_Area": 0.000130433415653, "ADM4_EN": "Bakumivka", "ADM4_UA": "Бакумівка", "ADM4_PCODE": "UA3206001002", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Baryshivska", "ADM3_UA": "Баришівська", "ADM3_PCODE": "UA3206001", "ADM2_EN": "Brovarskyi", "ADM2_UA": "Броварський", "ADM2_PCODE": "UA3206", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.434642328000052, 50.385541547000059 ], [ 31.430359338000073, 50.384410579000075 ], [ 31.424776326000028, 50.381002511000077 ], [ 31.429225415000076, 50.377197580000029 ], [ 31.432496365000077, 50.37274857500006 ], [ 31.442000363000034, 50.375234503000058 ], [ 31.44189245900003, 50.381138469000064 ], [ 31.43814529000008, 50.38105855200007 ], [ 31.434642328000052, 50.385541547000059 ] ] ] } }
-]
-}

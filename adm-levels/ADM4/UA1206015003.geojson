@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.094012625850999995, "Shape_Area": 8.4863081578199996e-05, "ADM4_EN": "Veselyi Stav", "ADM4_UA": "Веселий Став", "ADM4_PCODE": "UA1206015003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Karpivska", "ADM3_UA": "Карпівська", "ADM3_PCODE": "UA1206015", "ADM2_EN": "Kryvorizkyi", "ADM2_UA": "Криворізький", "ADM2_PCODE": "UA1206", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.133025, 47.600758 ], [ 33.133097, 47.596344 ], [ 33.135657999000045, 47.591348 ], [ 33.130256999000039, 47.591731 ], [ 33.137552, 47.585022 ], [ 33.143219001000034, 47.585474 ], [ 33.141180999000028, 47.588594 ], [ 33.14355499900006, 47.594738 ], [ 33.137188999000045, 47.593126 ], [ 33.133025, 47.600758 ] ] ] } }
-]
-}

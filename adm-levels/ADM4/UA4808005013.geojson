@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0503417845241, "Shape_Area": 0.00013561741527599999, "ADM4_EN": "Ivanivka", "ADM4_UA": "Іванівка", "ADM4_PCODE": "UA4808005013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vradiivska", "ADM3_UA": "Врадіївська", "ADM3_PCODE": "UA4808005", "ADM2_EN": "Pervomaiskyi", "ADM2_UA": "Первомайський", "ADM2_PCODE": "UA4808", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.700657816000046, 47.741697474000034 ], [ 30.698868786000048, 47.748344190000068 ], [ 30.68848091600006, 47.747697441000071 ], [ 30.683456651000029, 47.746415684000056 ], [ 30.686978292000049, 47.738928369000064 ], [ 30.690652981000028, 47.739440303000038 ], [ 30.694433989000061, 47.736908055000072 ], [ 30.700657816000046, 47.741697474000034 ] ] ] } }
-]
-}

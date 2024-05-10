@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.12076565602100001, "Shape_Area": 0.00033802220451700001, "ADM4_EN": "Dovhalivka", "ADM4_UA": "Довгалівка", "ADM4_PCODE": "UA5306003010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykobahachanska", "ADM3_UA": "Великобагачанська", "ADM3_PCODE": "UA5306003", "ADM2_EN": "Myrhorodskyi", "ADM2_UA": "Миргородський", "ADM2_PCODE": "UA5306", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.743616, 49.739006 ], [ 33.744819, 49.74228 ], [ 33.738713, 49.742754 ], [ 33.732673001000023, 49.738647 ], [ 33.714689, 49.738868 ], [ 33.711076001000038, 49.735403 ], [ 33.712936, 49.73153 ], [ 33.710881, 49.727931 ], [ 33.735299, 49.725144 ], [ 33.735124, 49.729397 ], [ 33.731476, 49.729872 ], [ 33.733238999000037, 49.735356 ], [ 33.73750767100006, 49.735570561000031 ], [ 33.743616, 49.739006 ] ] ] } }
-]
-}

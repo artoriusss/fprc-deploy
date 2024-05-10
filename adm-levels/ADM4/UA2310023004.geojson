@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.050800052841199997, "Shape_Area": 7.5808493932299999e-05, "ADM4_EN": "Bilovezh", "ADM4_UA": "Біловеж", "ADM4_PCODE": "UA2310023004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Rozivska", "ADM3_UA": "Розівська", "ADM3_PCODE": "UA2310023", "ADM2_EN": "Polohivskyi", "ADM2_UA": "Пологівський", "ADM2_PCODE": "UA2310", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.176687059000074, 47.38367097500003 ], [ 37.167803109000033, 47.382639949000065 ], [ 37.167428319000066, 47.378598989000068 ], [ 37.185848136000061, 47.379656621000038 ], [ 37.184862354000074, 47.38336557000008 ], [ 37.176687059000074, 47.38367097500003 ] ] ] } }
-]
-}

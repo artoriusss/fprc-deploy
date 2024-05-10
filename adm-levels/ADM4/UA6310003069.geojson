@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0810264414396, "Shape_Area": 8.9487800659400005e-05, "ADM4_EN": "Ostrivshchyna", "ADM4_UA": "Острівщина", "ADM4_PCODE": "UA6310003069", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Blyzniukivska", "ADM3_UA": "Близнюківська", "ADM3_PCODE": "UA6310003", "ADM2_EN": "Lozivskyi", "ADM2_UA": "Лозівський", "ADM2_PCODE": "UA6310", "ADM1_EN": "Kharkivska", "ADM1_UA": "Харківська", "ADM1_PCODE": "UA63", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.643161, 48.87617 ], [ 36.639225, 48.873125 ], [ 36.633161, 48.875452 ], [ 36.630009001000076, 48.873687 ], [ 36.634138, 48.870683 ], [ 36.62953200100003, 48.86716 ], [ 36.632972, 48.863429 ], [ 36.637944, 48.860822 ], [ 36.6405, 48.865586 ], [ 36.637366999000051, 48.870384 ], [ 36.642393001000073, 48.872046 ], [ 36.643161, 48.87617 ] ] ] } }
-]
-}

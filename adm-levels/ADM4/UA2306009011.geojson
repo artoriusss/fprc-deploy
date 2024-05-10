@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.051330343019699999, "Shape_Area": 8.56209603318e-05, "ADM4_EN": "Kushchove", "ADM4_UA": "Кущове", "ADM4_PCODE": "UA2306009011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Komyshuvaska", "ADM3_UA": "Комишуваська", "ADM3_PCODE": "UA2306009", "ADM2_EN": "Zaporizkyi", "ADM2_UA": "Запорізький", "ADM2_PCODE": "UA2306", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.598629910000056, 47.769291257000077 ], [ 35.601648494000074, 47.771207652000044 ], [ 35.597331183000051, 47.773832929000037 ], [ 35.596912688000032, 47.776912450000054 ], [ 35.590405213000054, 47.770721976000061 ], [ 35.584056206000071, 47.766557603000081 ], [ 35.587782292000043, 47.763681997000049 ], [ 35.594228287000078, 47.768519858000047 ], [ 35.598629910000056, 47.769291257000077 ] ] ] } }
-]
-}

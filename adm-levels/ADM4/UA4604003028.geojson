@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.052771303992299998, "Shape_Area": 9.9550766262400002e-05, "ADM4_EN": "Yosypivka", "ADM4_UA": "Йосипівка", "ADM4_PCODE": "UA4604003028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Buska", "ADM3_UA": "Буська", "ADM3_PCODE": "UA4604003", "ADM2_EN": "Zolochivskyi", "ADM2_UA": "Золочівський", "ADM2_PCODE": "UA4604", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.851361092000047, 49.974937003000036 ], [ 24.85193709400005, 49.971735003000049 ], [ 24.854962092000051, 49.96926200300004 ], [ 24.853676092000057, 49.965703003000044 ], [ 24.862280092000049, 49.966212003000066 ], [ 24.867750092000051, 49.965199003000066 ], [ 24.867366091000065, 49.970670003000066 ], [ 24.861055092000072, 49.973644003000061 ], [ 24.855780093000078, 49.972052003000044 ], [ 24.851361092000047, 49.974937003000036 ] ] ] } }
-]
-}

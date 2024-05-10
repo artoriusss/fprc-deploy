@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.064047841605299999, "Shape_Area": 0.000151180531583, "ADM4_EN": "Ozerky", "ADM4_UA": "Озерки", "ADM4_PCODE": "UA0106045006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Stalnenska", "ADM3_UA": "Стальненська", "ADM3_PCODE": "UA0106045", "ADM2_EN": "Dzhankoiskyi", "ADM2_UA": "Джанкойський", "ADM2_PCODE": "UA0106", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.546636999000043, 45.700087 ], [ 34.549969001000079, 45.702709 ], [ 34.551088, 45.705995 ], [ 34.537353, 45.705778 ], [ 34.537407001000076, 45.701369 ], [ 34.534641, 45.698064 ], [ 34.540976, 45.696058 ], [ 34.543638, 45.692841 ], [ 34.55065200100006, 45.692713 ], [ 34.55049499900008, 45.700537 ], [ 34.546636999000043, 45.700087 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.123804780808, "Shape_Area": 0.000208410629346, "ADM4_EN": "Kalynivka", "ADM4_UA": "Калинівка", "ADM4_PCODE": "UA1204001017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bozhedarivska", "ADM3_UA": "Божедарівська", "ADM3_PCODE": "UA1204001", "ADM2_EN": "Kamianskyi", "ADM2_UA": "Кам’янський", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.241479, 48.274225 ], [ 34.23821029800007, 48.281706993000057 ], [ 34.234168001000057, 48.278363 ], [ 34.237622999000052, 48.274956 ], [ 34.23637, 48.271744 ], [ 34.238543, 48.266557 ], [ 34.231041, 48.259764 ], [ 34.236570999000037, 48.256894 ], [ 34.238446, 48.259975 ], [ 34.241961, 48.258134 ], [ 34.247244, 48.25806 ], [ 34.24848, 48.264706 ], [ 34.265917, 48.266693 ], [ 34.265440001000059, 48.267963 ], [ 34.245874001000061, 48.265698 ], [ 34.241479, 48.274225 ] ] ] } }
-]
-}

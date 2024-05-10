@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0381302594886, "Shape_Area": 6.8331491627999995e-05, "ADM4_EN": "Ivano-Kepyne", "ADM4_UA": "Івано-Кепине", "ADM4_PCODE": "UA4802019009", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Snihurivska", "ADM3_UA": "Снігурівська", "ADM3_PCODE": "UA4802019", "ADM2_EN": "Bashtanskyi", "ADM2_UA": "Баштанський", "ADM2_PCODE": "UA4802", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.85408738600006, 47.044878407000056 ], [ 32.847568344000024, 47.045326867000028 ], [ 32.843878783000036, 47.040181200000063 ], [ 32.857782728000075, 47.037857436000081 ], [ 32.856655526000054, 47.04278729300006 ], [ 32.85408738600006, 47.044878407000056 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.062082923996699999, "Shape_Area": 8.4257580415000001e-05, "ADM4_EN": "Bonevychi", "ADM4_UA": "Боневичі", "ADM4_PCODE": "UA4608005005", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Dobromylska", "ADM3_UA": "Добромильська", "ADM3_PCODE": "UA4608005", "ADM2_EN": "Sambirskyi", "ADM2_UA": "Самбірський", "ADM2_PCODE": "UA4608", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.830568643000049, 49.598160026000073 ], [ 22.829138644000068, 49.598753026000054 ], [ 22.822032514000057, 49.586102982000057 ], [ 22.825585645000046, 49.585220026000059 ], [ 22.828217643000073, 49.588475026000026 ], [ 22.831556642000066, 49.588272026000027 ], [ 22.834547640000039, 49.595591026000079 ], [ 22.830568643000049, 49.598160026000073 ] ] ] } }
-]
-}

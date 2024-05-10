@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.048560367909300003, "Shape_Area": 0.000101704929493, "ADM4_EN": "Liubymivka", "ADM4_UA": "Любимівка", "ADM4_PCODE": "UA1202027022", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Solonianska", "ADM3_UA": "Солонянська", "ADM3_PCODE": "UA1202027", "ADM2_EN": "Dniprovskyi", "ADM2_UA": "Дніпровський", "ADM2_PCODE": "UA1202", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.988131, 48.121454 ], [ 34.983993, 48.123402 ], [ 34.979055, 48.11817 ], [ 34.98755, 48.112605 ], [ 34.992838001000052, 48.113792 ], [ 34.991383001000031, 48.120628 ], [ 34.988131, 48.121454 ] ] ] } }
-]
-}

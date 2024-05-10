@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.031183580054300001, "Shape_Area": 6.0078069913899997e-05, "ADM4_EN": "Bochanivka", "ADM4_UA": "Бочанівка", "ADM4_PCODE": "UA5308037007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Poltavska", "ADM3_UA": "Полтавська", "ADM3_PCODE": "UA5308037", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.680798, 49.620183 ], [ 34.675216798000065, 49.620488063000039 ], [ 34.67183056500005, 49.61235466200003 ], [ 34.67711, 49.611273 ], [ 34.680777113000033, 49.616255222000063 ], [ 34.680798, 49.620183 ] ] ] } }
-]
-}

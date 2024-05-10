@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.077359124839099999, "Shape_Area": 0.000138491783347, "ADM4_EN": "Dublynky", "ADM4_UA": "Дублинки", "ADM4_PCODE": "UA1808017003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Pishchivska", "ADM3_UA": "Піщівська", "ADM3_PCODE": "UA1808017", "ADM2_EN": "Zviahelskyi", "ADM2_UA": "Звягельський", "ADM2_PCODE": "UA1808", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.307910412000069, 50.592505293000045 ], [ 27.303492591000065, 50.589514497000039 ], [ 27.303509160000033, 50.585258970000041 ], [ 27.305323883000028, 50.576932894000038 ], [ 27.310012956000037, 50.581152209000038 ], [ 27.313738780000051, 50.580191518000049 ], [ 27.319624379000061, 50.581634765000047 ], [ 27.314179334000073, 50.585369540000045 ], [ 27.314030562000028, 50.589387379000073 ], [ 27.311984799000072, 50.591918991000057 ], [ 27.307910412000069, 50.592505293000045 ] ] ] } }
-]
-}

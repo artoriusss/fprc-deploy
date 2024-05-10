@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.043216680669800001, "Shape_Area": 4.1875044988599998e-05, "ADM4_EN": "Vynomynivka", "ADM4_UA": "Виноминівка", "ADM4_PCODE": "UA5308045004", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chutivska", "ADM3_UA": "Чутівська", "ADM3_PCODE": "UA5308045", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.041554, 49.674525 ], [ 35.040474999000025, 49.675545 ], [ 35.031638, 49.671776 ], [ 35.031925671000067, 49.668094204000056 ], [ 35.034176, 49.666864 ], [ 35.038503999000056, 49.668572 ], [ 35.034919374000026, 49.67172121200008 ], [ 35.041554, 49.674525 ] ] ] } }
-]
-}

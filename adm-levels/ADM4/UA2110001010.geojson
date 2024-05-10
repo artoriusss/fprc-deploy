@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.076071396535699998, "Shape_Area": 0.00013370446199499999, "ADM4_EN": "Kholmets", "ADM4_UA": "Холмець", "ADM4_PCODE": "UA2110001010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Baranynska", "ADM3_UA": "Баранинська", "ADM3_PCODE": "UA2110001", "ADM2_EN": "Uzhhorodskyi", "ADM2_UA": "Ужгородський", "ADM2_PCODE": "UA2110", "ADM1_EN": "Zakarpatska", "ADM1_UA": "Закарпатська", "ADM1_PCODE": "UA21", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.377844900000071, 48.528794039000047 ], [ 22.376644900000031, 48.523654039000064 ], [ 22.383863895000047, 48.521651038000073 ], [ 22.391010890000075, 48.521952039000041 ], [ 22.393868888000043, 48.52090503800008 ], [ 22.394453888000044, 48.525505038000063 ], [ 22.388632892000032, 48.528827038000031 ], [ 22.38355989400003, 48.530046039000069 ], [ 22.377844900000071, 48.528794039000047 ] ] ] } }
-]
-}

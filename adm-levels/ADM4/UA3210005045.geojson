@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.099077052033400004, "Shape_Area": 0.00018345457047200001, "ADM4_EN": "Pyrohovychi", "ADM4_UA": "Пироговичі", "ADM4_PCODE": "UA3210005045", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivankivska", "ADM3_UA": "Іванківська", "ADM3_PCODE": "UA3210005", "ADM2_EN": "Vyshhorodskyi", "ADM2_UA": "Вишгородський", "ADM2_PCODE": "UA3210", "ADM1_EN": "Kyivska", "ADM1_UA": "Київська", "ADM1_PCODE": "UA32", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.993201164000027, 50.99027476200007 ], [ 29.989749062000044, 50.992379722000067 ], [ 29.983179137000036, 50.988154798000039 ], [ 29.975241093000079, 50.989435790000073 ], [ 29.965052128000025, 50.987374775000035 ], [ 29.961740161000023, 50.982282768000061 ], [ 29.967233157000067, 50.979703766000057 ], [ 29.974229235000053, 50.980599748000031 ], [ 29.993201164000027, 50.99027476200007 ] ] ] } }
-]
-}

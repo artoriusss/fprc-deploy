@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13103616498199999, "Shape_Area": 0.000135158335976, "ADM4_EN": "Novi Vyrky", "ADM4_UA": "Нові Вирки", "ADM4_PCODE": "UA5908003031", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Bilopilska", "ADM3_UA": "Білопільська", "ADM3_PCODE": "UA5908003", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.175817, 51.222773 ], [ 34.171518, 51.225001 ], [ 34.161199999000075, 51.222473 ], [ 34.151629999000079, 51.218507 ], [ 34.149360001000048, 51.215616 ], [ 34.163363, 51.220902 ], [ 34.166643, 51.217018 ], [ 34.171686, 51.218611 ], [ 34.177587999000025, 51.21613 ], [ 34.178405, 51.218632 ], [ 34.175817, 51.222773 ] ] ] } }
-]
-}

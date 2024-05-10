@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.15771815755800001, "Shape_Area": 0.00015813931294, "ADM4_EN": "Zelena", "ADM4_UA": "Зелена", "ADM4_PCODE": "UA6804003007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Viitovetska", "ADM3_UA": "Війтовецька", "ADM3_PCODE": "UA6804003", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.493128, 49.52365 ], [ 26.491216, 49.522139 ], [ 26.476903, 49.523119 ], [ 26.478246001000059, 49.520794 ], [ 26.486793999000042, 49.521694 ], [ 26.48897, 49.518313 ], [ 26.495913001000076, 49.512771 ], [ 26.500801999000032, 49.512831 ], [ 26.501181, 49.520559 ], [ 26.493128, 49.52365 ] ] ] } }
-]
-}

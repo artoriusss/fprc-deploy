@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.141697182339, "Shape_Area": 0.000281622002795, "ADM4_EN": "Svirneve", "ADM4_UA": "Свірневе", "ADM4_PCODE": "UA3502007026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Holovanivska", "ADM3_UA": "Голованівська", "ADM3_PCODE": "UA3502007", "ADM2_EN": "Holovanivskyi", "ADM2_UA": "Голованівський", "ADM2_PCODE": "UA3502", "ADM1_EN": "Kirovohradska", "ADM1_UA": "Кіровоградська", "ADM1_PCODE": "UA35", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.490737, 48.295821 ], [ 30.490453, 48.292324 ], [ 30.486226001000034, 48.285816 ], [ 30.48082, 48.283575 ], [ 30.475678, 48.279864 ], [ 30.479521001000023, 48.276946 ], [ 30.485971999000071, 48.277999 ], [ 30.491532, 48.282671 ], [ 30.49916599900007, 48.276834 ], [ 30.50182, 48.278836 ], [ 30.505893, 48.28496 ], [ 30.510881, 48.288759 ], [ 30.508888, 48.291104 ], [ 30.499354, 48.285118 ], [ 30.494349, 48.288863 ], [ 30.493428, 48.296487 ], [ 30.490737, 48.295821 ] ] ] } }
-]
-}

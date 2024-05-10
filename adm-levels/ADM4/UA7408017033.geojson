@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.10029236376099999, "Shape_Area": 0.000122818416388, "ADM4_EN": "Nova Tarnavshchyna", "ADM4_UA": "Нова Тарнавщина", "ADM4_PCODE": "UA7408017033", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Sukhopolovianska", "ADM3_UA": "Сухополов'янська", "ADM3_PCODE": "UA7408017", "ADM2_EN": "Prylutskyi", "ADM2_UA": "Прилуцький", "ADM2_PCODE": "UA7408", "ADM1_EN": "Chernihivska", "ADM1_UA": "Чернігівська", "ADM1_PCODE": "UA74", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.136256030000027, 50.518577849000053 ], [ 32.130150105000041, 50.52322582000005 ], [ 32.135151056000041, 50.513463766000029 ], [ 32.132555082000067, 50.511212789000069 ], [ 32.128646071000048, 50.510520815000064 ], [ 32.133806099000026, 50.505988801000058 ], [ 32.135426100000075, 50.509382828000071 ], [ 32.139787029000047, 50.510318803000075 ], [ 32.141773059000059, 50.517040773000076 ], [ 32.136256030000027, 50.518577849000053 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.053565180280300002, "Shape_Area": 5.2109401948200003e-05, "ADM4_EN": "Ladyzhynske", "ADM4_UA": "Ладижинське", "ADM4_PCODE": "UA0504025026", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Trostianetska", "ADM3_UA": "Тростянецька", "ADM3_PCODE": "UA0504025", "ADM2_EN": "Haisynskyi", "ADM2_UA": "Гайсинський", "ADM2_PCODE": "UA0504", "ADM1_EN": "Vinnytska", "ADM1_UA": "Вінницька", "ADM1_PCODE": "UA05", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.225610489000076, 48.636220235000053 ], [ 29.228405612000074, 48.631431905000056 ], [ 29.23829829400006, 48.629697437000061 ], [ 29.236709792000056, 48.632756277000055 ], [ 29.225610489000076, 48.636220235000053 ] ] ] } }
-]
-}

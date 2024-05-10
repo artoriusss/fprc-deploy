@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.067180467089899998, "Shape_Area": 9.6463190671800005e-05, "ADM4_EN": "Druzhba", "ADM4_UA": "Дружба", "ADM4_PCODE": "UA1806019003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Olevska", "ADM3_UA": "Олевська", "ADM3_PCODE": "UA1806019", "ADM2_EN": "Korostenskyi", "ADM2_UA": "Коростенський", "ADM2_PCODE": "UA1806", "ADM1_EN": "Zhytomyrska", "ADM1_UA": "Житомирська", "ADM1_PCODE": "UA18", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.971210939000059, 51.193435041000043 ], [ 27.969567382000037, 51.194507445000056 ], [ 27.964619730000038, 51.190586866000046 ], [ 27.968021771000053, 51.187608478000072 ], [ 27.967882771000063, 51.183683838000036 ], [ 27.972122284000079, 51.183660584000052 ], [ 27.974431646000028, 51.181868817000066 ], [ 27.980431980000048, 51.187231523000037 ], [ 27.972079815000029, 51.189739964000069 ], [ 27.971210939000059, 51.193435041000043 ] ] ] } }
-]
-}

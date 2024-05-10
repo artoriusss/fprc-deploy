@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.046998088772900001, "Shape_Area": 7.0963685661400004e-05, "ADM4_EN": "Klymivka", "ADM4_UA": "Климівка", "ADM4_PCODE": "UA4808009025", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kryvoozerska", "ADM3_UA": "Кривоозерська", "ADM3_PCODE": "UA4808009", "ADM2_EN": "Pervomaiskyi", "ADM2_UA": "Первомайський", "ADM2_PCODE": "UA4808", "ADM1_EN": "Mykolaivska", "ADM1_UA": "Миколаївська", "ADM1_PCODE": "UA48", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.637698474000047, 48.001578012000039 ], [ 30.635835822000047, 48.006415010000069 ], [ 30.635689266000043, 48.011350428000071 ], [ 30.631572361000053, 48.011543578000044 ], [ 30.63108421000004, 48.006716873000073 ], [ 30.633272957000031, 48.003809124000043 ], [ 30.633725024000057, 47.997416881000049 ], [ 30.637992659000076, 47.996146071000055 ], [ 30.637698474000047, 48.001578012000039 ] ] ] } }
-]
-}

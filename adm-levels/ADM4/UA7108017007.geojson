@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.18022120333, "Shape_Area": 0.00024883698733200001, "ADM4_EN": "Samoridnia", "ADM4_UA": "Саморідня", "ADM4_PCODE": "UA7108017007", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Korsun-Shevchenkivska", "ADM3_UA": "Корсунь-Шевченківська", "ADM3_PCODE": "UA7108017", "ADM2_EN": "Cherkaskyi", "ADM2_UA": "Черкаський", "ADM2_PCODE": "UA7108", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.18847, 49.475378 ], [ 31.182910001000039, 49.472743 ], [ 31.191058, 49.468207 ], [ 31.184393, 49.466123 ], [ 31.18045, 49.46379 ], [ 31.183424, 49.457786 ], [ 31.18986299900007, 49.456477 ], [ 31.190062999000077, 49.462952 ], [ 31.193248, 49.464163 ], [ 31.201758, 49.461681 ], [ 31.211141999000063, 49.461065 ], [ 31.211811, 49.462769 ], [ 31.20433, 49.464536 ], [ 31.198004, 49.470323 ], [ 31.193498, 49.472013 ], [ 31.18847, 49.475378 ] ] ] } }
-]
-}

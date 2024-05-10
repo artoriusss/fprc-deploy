@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.095720470621699999, "Shape_Area": 0.00013476528315700001, "ADM4_EN": "Nobel", "ADM4_UA": "Нобель", "ADM4_PCODE": "UA5602011014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Loknytska", "ADM3_UA": "Локницька", "ADM3_PCODE": "UA5602011", "ADM2_EN": "Varaskyi", "ADM2_UA": "Вараський", "ADM2_PCODE": "UA5602", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.767245160000073, 51.874399980000078 ], [ 25.766575920000037, 51.876187920000064 ], [ 25.755865920000076, 51.872068980000051 ], [ 25.764985081000077, 51.866396010000074 ], [ 25.76587212000004, 51.859037970000031 ], [ 25.770281040000043, 51.857243010000047 ], [ 25.772010120000061, 51.859713960000079 ], [ 25.769678040000031, 51.864995070000077 ], [ 25.771443119000025, 51.86794905000005 ], [ 25.767245160000073, 51.874399980000078 ] ] ] } }
-]
-}

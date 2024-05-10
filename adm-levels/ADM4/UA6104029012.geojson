@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.052811774617500001, "Shape_Area": 8.3120764909900004e-05, "ADM4_EN": "Kryvky", "ADM4_UA": "Кривки", "ADM4_PCODE": "UA6104029012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mykulynetska", "ADM3_UA": "Микулинецька", "ADM3_PCODE": "UA6104029", "ADM2_EN": "Ternopilskyi", "ADM2_UA": "Тернопільський", "ADM2_PCODE": "UA6104", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.617102051000074, 49.37899234200006 ], [ 25.607225532000029, 49.377035594000063 ], [ 25.604101128000025, 49.373483881000027 ], [ 25.608601, 49.37029 ], [ 25.611835339000038, 49.373879511000041 ], [ 25.615597751000053, 49.373337709000054 ], [ 25.619834376000028, 49.376002302000074 ], [ 25.617102051000074, 49.37899234200006 ] ] ] } }
-]
-}

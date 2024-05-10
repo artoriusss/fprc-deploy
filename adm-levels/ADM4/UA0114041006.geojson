@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.052171321771300003, "Shape_Area": 6.2963040659299996e-05, "ADM4_EN": "Chekhove", "ADM4_UA": "Чехове", "ADM4_PCODE": "UA0114041006", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Serebrianska", "ADM3_UA": "Серебрянська", "ADM3_PCODE": "UA0114041", "ADM2_EN": "Krasnoperekopskyi", "ADM2_UA": "Красноперекопський", "ADM2_PCODE": "UA0114", "ADM1_EN": "Autonomous Republic of Crimea", "ADM1_UA": "Автономна Республіка Крим", "ADM1_PCODE": "UA01", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.409649, 45.554524 ], [ 33.407461, 45.552378 ], [ 33.412307001000045, 45.547043 ], [ 33.417722, 45.547027 ], [ 33.417089, 45.553219 ], [ 33.409569, 45.552699 ], [ 33.409649, 45.554524 ] ] ] } }
-]
-}

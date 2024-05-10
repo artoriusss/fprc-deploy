@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.044281953758600001, "Shape_Area": 5.9941233551e-05, "ADM4_EN": "Yasne", "ADM4_UA": "Ясне", "ADM4_PCODE": "UA0706009014", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Holovnenska", "ADM3_UA": "Головненська", "ADM3_PCODE": "UA0706009", "ADM2_EN": "Kovelskyi", "ADM2_UA": "Ковельський", "ADM2_PCODE": "UA0706", "ADM1_EN": "Volynska", "ADM1_UA": "Волинська", "ADM1_PCODE": "UA07", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.173636199000043, 51.336633007000046 ], [ 24.170361200000059, 51.335010007000051 ], [ 24.165288202000056, 51.335758007000038 ], [ 24.161330202000045, 51.328643007000039 ], [ 24.165567201000044, 51.327779007000061 ], [ 24.170793200000048, 51.330690007000044 ], [ 24.173636199000043, 51.336633007000046 ] ] ] } }
-]
-}

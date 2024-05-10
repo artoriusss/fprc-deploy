@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.079708442966300003, "Shape_Area": 0.00023835452965, "ADM4_EN": "Horbasiv", "ADM4_UA": "Горбасів", "ADM4_PCODE": "UA6804023010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Letychivska", "ADM3_UA": "Летичівська", "ADM3_PCODE": "UA6804023", "ADM2_EN": "Khmelnytskyi", "ADM2_UA": "Хмельницький", "ADM2_PCODE": "UA6804", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.571476, 49.414298 ], [ 27.56440599900003, 49.416075 ], [ 27.553983999000025, 49.417433 ], [ 27.551242, 49.414201 ], [ 27.548786, 49.414601 ], [ 27.544110583000077, 49.408317082000053 ], [ 27.553005323000036, 49.407410939000044 ], [ 27.564987331000054, 49.407155702000068 ], [ 27.569430819000047, 49.406187833000047 ], [ 27.573735, 49.406751 ], [ 27.578176, 49.411272 ], [ 27.571476, 49.414298 ] ] ] } }
-]
-}

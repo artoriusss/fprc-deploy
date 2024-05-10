@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.16004032177499999, "Shape_Area": 0.00086660804974300002, "ADM4_EN": "Topylna", "ADM4_UA": "Топильна", "ADM4_PCODE": "UA7102033021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Shpolianska", "ADM3_UA": "Шполянська", "ADM3_PCODE": "UA7102033", "ADM2_EN": "Zvenyhorodskyi", "ADM2_UA": "Звенигородський", "ADM2_PCODE": "UA7102", "ADM1_EN": "Cherkaska", "ADM1_UA": "Черкаська", "ADM1_PCODE": "UA71", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.29640099900007, 49.107777 ], [ 31.297071, 49.109906 ], [ 31.281529, 49.107155 ], [ 31.281209, 49.102187 ], [ 31.269456, 49.101174 ], [ 31.255711, 49.098162 ], [ 31.25964, 49.095309 ], [ 31.254762, 49.093574 ], [ 31.256873001000031, 49.08602 ], [ 31.293929, 49.08898 ], [ 31.29703, 49.08531 ], [ 31.310318, 49.090875 ], [ 31.303317001000039, 49.097871 ], [ 31.310414, 49.09933 ], [ 31.308766, 49.102136 ], [ 31.299114999000039, 49.109258 ], [ 31.29640099900007, 49.107777 ] ] ] } }
-]
-}

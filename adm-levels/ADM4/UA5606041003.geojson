@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.068985258334900004, "Shape_Area": 5.0869454059600002e-05, "ADM4_EN": "Borshchivka Druha", "ADM4_UA": "Борщівка Друга", "ADM4_PCODE": "UA5606041003", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Mizotska", "ADM3_UA": "Мізоцька", "ADM3_PCODE": "UA5606041", "ADM2_EN": "Rivnenskyi", "ADM2_UA": "Рівненський", "ADM2_PCODE": "UA5606", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.218375920000028, 50.343944940000029 ], [ 26.22233484000003, 50.335888050000051 ], [ 26.226393840000071, 50.334985980000056 ], [ 26.224454879000064, 50.339997 ], [ 26.218375920000028, 50.343944940000029 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.121387778939, "Shape_Area": 0.000179342261895, "ADM4_EN": "Hai", "ADM4_UA": "Гаї", "ADM4_PCODE": "UA5906015008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Khmelivska", "ADM3_UA": "Хмелівська", "ADM3_PCODE": "UA5906015", "ADM2_EN": "Romenskyi", "ADM2_UA": "Роменський", "ADM2_PCODE": "UA5906", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.527548, 50.838441 ], [ 33.524437001000024, 50.84036 ], [ 33.521503, 50.833091 ], [ 33.513755999000068, 50.832689 ], [ 33.5108, 50.829093 ], [ 33.507235001000026, 50.828652 ], [ 33.502812, 50.831355 ], [ 33.501433999000028, 50.829299 ], [ 33.509404, 50.822604 ], [ 33.517138001000035, 50.827547 ], [ 33.522822, 50.827203 ], [ 33.525374999000064, 50.830681 ], [ 33.527548, 50.838441 ] ] ] } }
-]
-}

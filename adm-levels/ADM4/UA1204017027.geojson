@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.088019713920599998, "Shape_Area": 0.00024395999465200001, "ADM4_EN": "Odarivka", "ADM4_UA": "Одарівка", "ADM4_PCODE": "UA1204017027", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krynychanska", "ADM3_UA": "Криничанська", "ADM3_PCODE": "UA1204017", "ADM2_EN": "Kamianskyi", "ADM2_UA": "Кам’янський", "ADM2_PCODE": "UA1204", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.409387, 48.323235 ], [ 34.411952, 48.324299 ], [ 34.415945, 48.32982 ], [ 34.410549, 48.333233 ], [ 34.406578001000071, 48.333279 ], [ 34.404231999000046, 48.329707 ], [ 34.400597, 48.329088 ], [ 34.399006, 48.326752 ], [ 34.385964001000048, 48.325532 ], [ 34.387324001000025, 48.319538 ], [ 34.393840001000058, 48.320562 ], [ 34.395307999000067, 48.316934 ], [ 34.398888, 48.315179 ], [ 34.406204, 48.321964 ], [ 34.409387, 48.323235 ] ] ] } }
-]
-}

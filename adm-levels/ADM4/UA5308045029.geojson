@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.062813594995699995, "Shape_Area": 7.80675522087e-05, "ADM4_EN": "Yunaky", "ADM4_UA": "Юнаки", "ADM4_PCODE": "UA5308045029", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chutivska", "ADM3_UA": "Чутівська", "ADM3_PCODE": "UA5308045", "ADM2_EN": "Poltavskyi", "ADM2_UA": "Полтавський", "ADM2_PCODE": "UA5308", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.064459, 49.628509 ], [ 35.066463, 49.622951 ], [ 35.075005001000079, 49.623517 ], [ 35.084108, 49.619915 ], [ 35.087927999000044, 49.621434 ], [ 35.080726001000073, 49.625261 ], [ 35.078772, 49.624279 ], [ 35.070609001000037, 49.626102 ], [ 35.066605001000028, 49.629168 ], [ 35.064459, 49.628509 ] ] ] } }
-]
-}

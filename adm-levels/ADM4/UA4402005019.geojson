@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.043272924945900001, "Shape_Area": 2.1463648441600001e-05, "ADM4_EN": "Veselohorivka", "ADM4_UA": "Веселогорівка", "ADM4_PCODE": "UA4402005019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kadiivska", "ADM3_UA": "Кадіївська", "ADM3_PCODE": "UA4402005", "ADM2_EN": "Alchevskyi", "ADM2_UA": "Алчевський", "ADM2_PCODE": "UA4402", "ADM1_EN": "Luhanska", "ADM1_UA": "Луганська", "ADM1_PCODE": "UA44", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.46165, 48.473303 ], [ 38.457888804000049, 48.475349933000075 ], [ 38.456693, 48.471138 ], [ 38.46165, 48.473303 ] ] ] } }
-]
-}

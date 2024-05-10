@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.110815471847, "Shape_Area": 0.00015744152232, "ADM4_EN": "Kymyr", "ADM4_UA": "Кимир", "ADM4_PCODE": "UA4606033021", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Peremyshlianska", "ADM3_UA": "Перемишлянська", "ADM3_PCODE": "UA4606033", "ADM2_EN": "Lvivskyi", "ADM2_UA": "Львівський", "ADM2_PCODE": "UA4606", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.503022131000023, 49.65264400500007 ], [ 24.497775133000061, 49.654299005000041 ], [ 24.489075134000075, 49.652185004000046 ], [ 24.490623133000042, 49.645954005000078 ], [ 24.494823131000032, 49.646677005000072 ], [ 24.498285132000035, 49.644327004000047 ], [ 24.504394131000026, 49.650835005000033 ], [ 24.503022131000023, 49.65264400500007 ] ] ] } }
-]
-}

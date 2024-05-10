@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.072106320758100001, "Shape_Area": 7.7982308852000005e-05, "ADM4_EN": "Radyzheve", "ADM4_UA": "Радижеве", "ADM4_PCODE": "UA5602005019", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Volodymyretska", "ADM3_UA": "Володимирецька", "ADM3_PCODE": "UA5602005", "ADM2_EN": "Varaskyi", "ADM2_UA": "Вараський", "ADM2_PCODE": "UA5602", "ADM1_EN": "Rivnenska", "ADM1_UA": "Рівненська", "ADM1_PCODE": "UA56", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 26.161108920000061, 51.544394010000076 ], [ 26.159167080000032, 51.552055980000034 ], [ 26.15512896000007, 51.551386020000052 ], [ 26.156271959000037, 51.545651040000052 ], [ 26.161108920000061, 51.544394010000076 ] ] ], [ [ [ 26.145597961000078, 51.544266030000074 ], [ 26.141905080000072, 51.543666990000077 ], [ 26.140218119000053, 51.541145010000037 ], [ 26.146123921000026, 51.539630940000052 ], [ 26.152632, 51.541333020000081 ], [ 26.145597961000078, 51.544266030000074 ] ] ] ] } }
-]
-}

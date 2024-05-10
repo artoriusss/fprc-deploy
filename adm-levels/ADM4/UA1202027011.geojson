@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14264775128599999, "Shape_Area": 0.00014054024677800001, "ADM4_EN": "Haidamatske", "ADM4_UA": "Гайдамацьке", "ADM4_PCODE": "UA1202027011", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Solonianska", "ADM3_UA": "Солонянська", "ADM3_PCODE": "UA1202027", "ADM2_EN": "Dniprovskyi", "ADM2_UA": "Дніпровський", "ADM2_PCODE": "UA1202", "ADM1_EN": "Dnipropetrovska", "ADM1_UA": "Дніпропетровська", "ADM1_PCODE": "UA12", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.612890999000058, 48.236683 ], [ 34.609113, 48.237079 ], [ 34.603039, 48.234098 ], [ 34.593393, 48.233001 ], [ 34.589167, 48.231726 ], [ 34.579127, 48.227173 ], [ 34.579378, 48.224216 ], [ 34.585819001000061, 48.229354 ], [ 34.592663, 48.231071 ], [ 34.596493, 48.229604 ], [ 34.606284001000063, 48.230825 ], [ 34.605773001000045, 48.232432 ], [ 34.610851001000071, 48.236434 ], [ 34.612890999000058, 48.236683 ] ] ] } }
-]
-}

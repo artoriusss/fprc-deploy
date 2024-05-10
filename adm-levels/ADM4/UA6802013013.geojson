@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.050536824023500002, "Shape_Area": 0.000112983215243, "ADM4_EN": "Subich", "ADM4_UA": "Субіч", "ADM4_PCODE": "UA6802013013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Kytaihorodska", "ADM3_UA": "Китайгородська", "ADM3_PCODE": "UA6802013", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.835933001000058, 48.603976 ], [ 26.832398, 48.602479 ], [ 26.832705, 48.598249 ], [ 26.830405, 48.592849 ], [ 26.836226, 48.589852 ], [ 26.842898001000037, 48.596612 ], [ 26.839293, 48.601454 ], [ 26.835933001000058, 48.603976 ] ] ] } }
-]
-}

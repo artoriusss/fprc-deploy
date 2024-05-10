@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.14283406786200001, "Shape_Area": 0.000227752519965, "ADM4_EN": "Zahrebellia", "ADM4_UA": "Загребелля", "ADM4_PCODE": "UA5304013013", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Chornukhynska", "ADM3_UA": "Чорнухинська", "ADM3_PCODE": "UA5304013", "ADM2_EN": "Lubenskyi", "ADM2_UA": "Лубенський", "ADM2_PCODE": "UA5304", "ADM1_EN": "Poltavska", "ADM1_UA": "Полтавська", "ADM1_PCODE": "UA53", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.062876, 50.195815 ], [ 33.052821, 50.189046 ], [ 33.049270999000044, 50.189307 ], [ 33.046011001000068, 50.187196 ], [ 33.055442999000036, 50.185964 ], [ 33.058242, 50.186612 ], [ 33.063048, 50.191987 ], [ 33.065717, 50.19093 ], [ 33.067518, 50.187191 ], [ 33.07185000100003, 50.185322 ], [ 33.073243999000056, 50.191759 ], [ 33.079136, 50.193324 ], [ 33.08366, 50.189357 ], [ 33.085291, 50.190592 ], [ 33.072953, 50.200795 ], [ 33.06933764200005, 50.197492067000042 ], [ 33.062876, 50.195815 ] ] ] } }
-]
-}

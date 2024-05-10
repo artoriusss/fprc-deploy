@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.086001576310099997, "Shape_Area": 0.00015698020332, "ADM4_EN": "Plyska", "ADM4_UA": "Плиска", "ADM4_PCODE": "UA6102009036", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Lanovetska", "ADM3_UA": "Лановецька", "ADM3_PCODE": "UA6102009", "ADM2_EN": "Kremenetskyi", "ADM2_UA": "Кременецький", "ADM2_PCODE": "UA6102", "ADM1_EN": "Ternopilska", "ADM1_UA": "Тернопільська", "ADM1_PCODE": "UA61", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.079928001000042, 49.752531 ], [ 26.083523, 49.750181 ], [ 26.082392001000073, 49.746771 ], [ 26.087312999000062, 49.741111 ], [ 26.091153, 49.74231 ], [ 26.095463, 49.737442 ], [ 26.096794999000053, 49.731311 ], [ 26.099607, 49.731328 ], [ 26.095415999000068, 49.743983 ], [ 26.098499, 49.746244 ], [ 26.093091001000062, 49.750955 ], [ 26.086592, 49.752346 ], [ 26.079928001000042, 49.752531 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.063296755277000002, "Shape_Area": 0.000115934160115, "ADM4_EN": "Rivky", "ADM4_UA": "Рівки", "ADM4_PCODE": "UA6806005012", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Hannopilska", "ADM3_UA": "Ганнопільська", "ADM3_PCODE": "UA6806005", "ADM2_EN": "Shepetivskyi", "ADM2_UA": "Шепетівський", "ADM2_PCODE": "UA6806", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.874887999000066, 50.473149 ], [ 26.872914, 50.469882 ], [ 26.880328137000049, 50.469042849000061 ], [ 26.881846468000049, 50.471637119000036 ], [ 26.890807406000079, 50.47115580500008 ], [ 26.894759644000032, 50.471717039000055 ], [ 26.892855, 50.475840001000051 ], [ 26.887511, 50.475878 ], [ 26.886047, 50.47791 ], [ 26.881158, 50.478338 ], [ 26.87993, 50.475665 ], [ 26.875126001000069, 50.475964 ], [ 26.874887999000066, 50.473149 ] ] ] } }
-]
-}

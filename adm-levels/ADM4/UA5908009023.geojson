@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.154375404223, "Shape_Area": 0.000191510968313, "ADM4_EN": "Novooleksandrivka", "ADM4_UA": "Новоолександрівка", "ADM4_PCODE": "UA5908009023", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Krasnopilska", "ADM3_UA": "Краснопільська", "ADM3_PCODE": "UA5908009", "ADM2_EN": "Sumskyi", "ADM2_UA": "Сумський", "ADM2_PCODE": "UA5908", "ADM1_EN": "Sumska", "ADM1_UA": "Сумська", "ADM1_PCODE": "UA59", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.268977, 50.683791 ], [ 35.264075, 50.681614 ], [ 35.254673, 50.684151 ], [ 35.253231, 50.682306 ], [ 35.261282, 50.680208 ], [ 35.261071, 50.676461 ], [ 35.257481, 50.677352 ], [ 35.256104, 50.67521 ], [ 35.260466, 50.670807 ], [ 35.264751, 50.663826 ], [ 35.266145999000059, 50.658963 ], [ 35.270452, 50.659712 ], [ 35.268915001000039, 50.66312 ], [ 35.270566, 50.666945 ], [ 35.266815, 50.669907 ], [ 35.264189, 50.675011 ], [ 35.264601, 50.678511 ], [ 35.268977, 50.683791 ] ] ] } }
-]
-}

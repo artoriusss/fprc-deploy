@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0230595120695, "Shape_Area": 2.4865697408499999e-05, "ADM4_EN": "Shyshaky", "ADM4_UA": "Шишаки", "ADM4_PCODE": "UA4612003017", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Velykomostivska", "ADM3_UA": "Великомостівська", "ADM3_PCODE": "UA4612003", "ADM2_EN": "Chervonohradskyi", "ADM2_UA": "Червоноградський", "ADM2_PCODE": "UA4612", "ADM1_EN": "Lvivska", "ADM1_UA": "Львівська", "ADM1_PCODE": "UA46", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.023214220000057, 50.220581008000067 ], [ 24.019999221000035, 50.222324007000054 ], [ 24.014339221000057, 50.221773008000071 ], [ 24.014510222000069, 50.218815008000036 ], [ 24.019431220000058, 50.218684008000082 ], [ 24.023214220000057, 50.220581008000067 ] ] ] } }
-]
-}

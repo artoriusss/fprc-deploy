@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.0905061556017, "Shape_Area": 0.000327012274813, "ADM4_EN": "Mykytyntsi", "ADM4_UA": "Микитинці", "ADM4_PCODE": "UA2604019010", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Ivano-Frankivska", "ADM3_UA": "Івано-Франківська", "ADM3_PCODE": "UA2604019", "ADM2_EN": "Ivano-Frankivskyi", "ADM2_UA": "Івано-Франківський", "ADM2_PCODE": "UA2604", "ADM1_EN": "Ivano-Frankivska", "ADM1_UA": "Івано-Франківська", "ADM1_PCODE": "UA26", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.763519724000048, 48.911766459000035 ], [ 24.75746, 48.912554 ], [ 24.753616, 48.910732 ], [ 24.752239, 48.906292 ], [ 24.743264, 48.906881 ], [ 24.74134299900004, 48.904451 ], [ 24.741092122000055, 48.899168699000029 ], [ 24.748875536000071, 48.898012050000034 ], [ 24.75709, 48.89448 ], [ 24.760011, 48.898729 ], [ 24.765104, 48.902549 ], [ 24.76838500100007, 48.901073 ], [ 24.771830999000031, 48.909012 ], [ 24.771583, 48.910869 ], [ 24.763519724000048, 48.911766459000035 ] ] ] } }
-]
-}

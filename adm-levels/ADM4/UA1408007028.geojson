@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.032899502206300002, "Shape_Area": 3.42475660471e-05, "ADM4_EN": "Lebiazhe", "ADM4_UA": "Леб'яже", "ADM4_PCODE": "UA1408007028", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Makiivska", "ADM3_UA": "Макіївська", "ADM3_PCODE": "UA1408007", "ADM2_EN": "Donetskyi", "ADM2_UA": "Донецький", "ADM2_PCODE": "UA1408", "ADM1_EN": "Donetska", "ADM1_UA": "Донецька", "ADM1_PCODE": "UA14", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.951148086000046, 48.18777159800004 ], [ 37.939408301000071, 48.18778087700008 ], [ 37.940957386000036, 48.185106809000047 ], [ 37.949728364000066, 48.184768320000046 ], [ 37.951148086000046, 48.18777159800004 ] ] ] } }
-]
-}

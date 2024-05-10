@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.13009462337899999, "Shape_Area": 0.00022765804196699999, "ADM4_EN": "Zalissia Druhe", "ADM4_UA": "Залісся Друге", "ADM4_PCODE": "UA6802003008", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Humenetska", "ADM3_UA": "Гуменецька", "ADM3_PCODE": "UA6802003", "ADM2_EN": "Kamianets-Podilskyi", "ADM2_UA": "Кам'янець-Подільський", "ADM2_PCODE": "UA6802", "ADM1_EN": "Khmelnytska", "ADM1_UA": "Хмельницька", "ADM1_PCODE": "UA68", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.493575999000029, 48.787866 ], [ 26.492262, 48.787217 ], [ 26.479448, 48.788606 ], [ 26.476602, 48.786451 ], [ 26.489523, 48.783278 ], [ 26.485669, 48.781048 ], [ 26.490003999000066, 48.778673 ], [ 26.500185, 48.778363 ], [ 26.514436001000036, 48.774831 ], [ 26.51658416500004, 48.778872257000046 ], [ 26.507114, 48.780086 ], [ 26.501102001000049, 48.782982 ], [ 26.502621, 48.78563 ], [ 26.493415, 48.786579 ], [ 26.493575999000029, 48.787866 ] ] ] } }
-]
-}

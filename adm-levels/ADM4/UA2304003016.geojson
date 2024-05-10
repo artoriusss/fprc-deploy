@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Shape_Leng": 0.049984619058099998, "Shape_Area": 5.1588391671199998e-05, "ADM4_EN": "Ternuvate", "ADM4_UA": "Тернувате", "ADM4_PCODE": "UA2304003016", "ADM4_REF": null, "ADM4ALT1EN": null, "ADM4ALT2EN": null, "ADM4ALT1UA": null, "ADM4ALT2UA": null, "ADM4ALT1RU": null, "ADM4ALT2RU": null, "ADM3_EN": "Vasylivska", "ADM3_UA": "Василівська", "ADM3_PCODE": "UA2304003", "ADM2_EN": "Vasylivskyi", "ADM2_UA": "Василівський", "ADM2_PCODE": "UA2304", "ADM1_EN": "Zaporizka", "ADM1_UA": "Запорізька", "ADM1_PCODE": "UA23", "ADM0_EN": "Ukraine", "ADM0_UA": "Україна", "ADM0_PCODE": "UA", "date": "2023-01-30", "validOn": "2023-02-01", "validTo": null, "adm4_pcode": null, "Інше": 0.0, "Адміністративні": 0.0, "Житло": 0.0, "Медицина": 0.0, "Освіта": 0.0, "Транспорт": 0.0, "Total": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.572275166000054, 47.429158965000056 ], [ 35.569552805000058, 47.427991976000044 ], [ 35.558770637000066, 47.426957608000066 ], [ 35.560880931000042, 47.42390215100005 ], [ 35.576901030000045, 47.425922946000071 ], [ 35.572275166000054, 47.429158965000056 ] ] ] } }
-]
-}
