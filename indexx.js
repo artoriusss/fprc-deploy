@@ -232,10 +232,9 @@ function displayObjectsTable(pts) {
     tableBody.innerHTML = '';
     pts.forEach(item => {
         const row = tableBody.insertRow();
-
         
         const addressCell = row.insertCell();
-        addressCell.textContent = item.address; 
+        addressCell.textContent = `${item.street}, ${item.building}` 
 
         const objectTypeCell = row.insertCell();
         objectTypeCell.textContent = item.object_type;
@@ -636,7 +635,6 @@ const drilldown = async function (e) {
         const seriesName = e.point.properties[`ADM${drilldownLevel}_UA`];
         breadcrumbNames = [seriesName];
         data = await aggregateByPcode(topoData);
-        log(data)
 
         chart.addSeriesAsDrilldown(e.point, {
             name: seriesName,
