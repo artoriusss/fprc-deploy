@@ -12,6 +12,21 @@ const topology = await response.json();
 const dataa = Highcharts.geojson(topology);
 const dataInit = dataa.map(item => ({ ...item }));
 
+const formatLegendLabel = function(value) {
+    const absValue = Math.abs(value);
+    let label;
+    if (absValue >= 1e9) {
+        label = (value / 1e9).toFixed() + 'млрд ';
+    } else if (absValue >= 1e6) {
+        label = (value / 1e6).toFixed() + 'млн ';
+    } else if (absValue >= 1e3) {
+        label = (value / 1e3).toFixed() + 'тис ';
+    } else {
+        label = value.toString();
+    }
+    return label;
+};
+
 const initializeDropdownOptions = async function(selectElementId, pts, propertyValueKey, propertyLabelKey, update) {
     const selectElement = document.getElementById(selectElementId);
     const valueLabelMapper = pts.reduce((acc, item) => {
@@ -143,6 +158,32 @@ function resetAllFilters() {
 await initializeAllDropdowns(pointsFull, false);
 
 // METRICS LOGIC 
+const formatNumberToText = (num) => {
+    const absNum = Math.abs(num);
+    let formattedNumber;
+    let suffix;
+
+    if (absNum >= 1e9) {
+        formattedNumber = (num / 1e9).toFixed(1);
+        suffix = 'млрд';
+    } else if (absNum >= 1e6) {
+        formattedNumber = (num / 1e6).toFixed(1);
+        suffix = 'млн';
+    } else if (absNum >= 1e3) {
+        formattedNumber = (num / 1e3).toFixed(1);
+        suffix = 'тис';
+    } else {
+        formattedNumber = num.toString();
+        suffix = '';
+    }
+
+    // Remove trailing '.0' if it exists
+    if (formattedNumber.endsWith('.0')) {
+        formattedNumber = formattedNumber.slice(0, -2);
+    }
+
+    return `${formattedNumber} ${suffix}`;
+};
 const updateMetrics = async function (pts){
     let plannedBudgetTotal = 0;
     let totalSpent = 0;
@@ -154,8 +195,8 @@ const updateMetrics = async function (pts){
         });
     });
 
-    document.getElementById('planned-budget').textContent = plannedBudgetTotal.toLocaleString('uk-UA', {style: 'currency', currency: 'UAH'});
-    document.getElementById('total-spent').textContent = totalSpent.toLocaleString('uk-UA', {style: 'currency', currency: 'UAH'});
+    document.getElementById('planned-budget').textContent = formatNumberToText(plannedBudgetTotal);;
+    document.getElementById('total-spent').textContent = formatNumberToText(totalSpent);
 }
 
 // TABLES LOGIC 
@@ -187,7 +228,6 @@ const updateMetrics = async function (pts){
 //     }
 // };
 const updateTable = async function (pts){
-    // Calculate aggregate data using the payments within each point
     const aggregateData = pts.reduce((acc, point) => {
         if (!acc[point.programme_name]) {
             acc[point.programme_name] = {
@@ -196,17 +236,14 @@ const updateTable = async function (pts){
             };
         }
         acc[point.programme_name].numberOfObjects += 1;
-        // Sum the amounts in the payments array
         const totalAmount = point.payments.reduce((sum, payment) => sum + payment.amount, 0);
         acc[point.programme_name].totalAmount += totalAmount;
         return acc;
     }, {});
   
-    // Now update the table in the DOM
     const tableBody = document.getElementById('programs-table').getElementsByTagName('tbody')[0];
-    tableBody.innerHTML = ""; // Clear existing table body
+    tableBody.innerHTML = ""; 
   
-    // Loop through the aggregated data and add rows to the table
     for (const [programme, data] of Object.entries(aggregateData)) {
         const row = tableBody.insertRow();
         const programCell = row.insertCell();
@@ -215,7 +252,7 @@ const updateTable = async function (pts){
   
         programCell.textContent = programme;
         numberCell.textContent = data.numberOfObjects;
-        amountCell.textContent = data.totalAmount.toLocaleString(); // Format the amount as a string
+        amountCell.textContent = formatNumberToText(data.totalAmount); 
     }
 };
 
@@ -240,10 +277,10 @@ function displayObjectsTable(pts) {
         objectTypeCell.textContent = item.object_type;
 
         const decisionCell = row.insertCell();
-        decisionCell.textContent = item.amount_decision.toLocaleString(); 
+        decisionCell.textContent = formatNumberToText(item.amount_decision); 
 
         const amountCell = row.insertCell();
-        amountCell.textContent = item.amount.toLocaleString(); 
+        amountCell.textContent = formatNumberToText(item.amount); 
     });
 };
 
@@ -279,16 +316,11 @@ function displayObjectsTable(pts) {
 const formatBarData = function (points, aggregateBy) {
     const barColour = aggregateBy === 'payer_name' ? "#00457e" : '#ffbd01';
     const barLabel = aggregateBy === 'payer_name' ? 'Замовник' : 'Отримувач';
-
-    // Initialize an empty object to hold our aggregate data
     const aggregatedData = {};
 
-    // Iterate through all points and their payments
     points.forEach(point => {
         point.payments.forEach(payment => {
-            // Determine the key to aggregate by (payer_name or reciept_name)
             const key = aggregateBy === 'payer_name' ? payment.payer_name : payment.receipt_name;
-            // Aggregate the amounts
             if (aggregatedData[key]) {
                 aggregatedData[key] += payment.amount;
             } else {
@@ -297,7 +329,6 @@ const formatBarData = function (points, aggregateBy) {
         });
     });
 
-    // Convert the aggregated data into an array and sort it
     const sortedData = Object.keys(aggregatedData)
         .map(key => ({ name: key, amount: aggregatedData[key] }))
         .sort((a, b) => b.amount - a.amount)
@@ -359,9 +390,49 @@ const updateBarChart = async function (pts) {
 //     };
 // };
 
+// const formatTsData = function (points) {
+//     let monthData = points.reduce((acc, point) => {
+//         // Iterate over each payment inside the point
+//         point.payments.forEach(payment => {
+//             let date = new Date(payment.trans_date * 1000);
+//             let yearMonthKey = `${date.getUTCFullYear()}-${String(date.getUTCMonth() + 1).padStart(2, '0')}`;
+//             let amount = payment.amount; 
+
+//             if (!acc[yearMonthKey]) {
+//                 acc[yearMonthKey] = {
+//                     total: 0,
+//                     timestamp: Date.UTC(date.getUTCFullYear(), date.getUTCMonth())
+//                 };
+//             }
+            
+//             acc[yearMonthKey].total += amount;
+//         });
+        
+//         return acc;
+//     }, {});
+
+//     let timestamps = Object.values(monthData).map(entry => entry.timestamp);
+//     let pointStart = Math.min(...timestamps);
+
+//     let aggregatedData = Object.keys(monthData)
+//         .sort((a, b) => monthData[a].timestamp - monthData[b].timestamp)
+//         .filter(yearMonth => monthData[yearMonth].total !== 0)
+//         .map(yearMonth => ({
+//             x: monthData[yearMonth].timestamp,
+//             y: monthData[yearMonth].total
+//         }));
+
+//     return {
+//         series: [{
+//             name: 'Усього за місяць', 
+//             pointStart: pointStart,
+//             pointInterval: 30 * 24 * 3600 * 1000, 
+//             data: aggregatedData
+//         }]
+//     };
+// };
 const formatTsData = function (points) {
     let monthData = points.reduce((acc, point) => {
-        // Iterate over each payment inside the point
         point.payments.forEach(payment => {
             let date = new Date(payment.trans_date * 1000);
             let yearMonthKey = `${date.getUTCFullYear()}-${String(date.getUTCMonth() + 1).padStart(2, '0')}`;
@@ -380,12 +451,27 @@ const formatTsData = function (points) {
         return acc;
     }, {});
 
+    // Ensure all months in the range are represented, even with total 0
+    let minDate = new Date(Math.min(...Object.values(monthData).map(entry => entry.timestamp)));
+    let maxDate = new Date(Math.max(...Object.values(monthData).map(entry => entry.timestamp)));
+    
+    for (let year = minDate.getUTCFullYear(); year <= maxDate.getUTCFullYear(); year++) {
+        for (let month = 0; month < 12; month++) {
+            let yearMonthKey = `${year}-${String(month + 1).padStart(2, '0')}`;
+            if (!monthData[yearMonthKey]) {
+                monthData[yearMonthKey] = {
+                    total: 0,
+                    timestamp: Date.UTC(year, month)
+                };
+            }
+        }
+    }
+
     let timestamps = Object.values(monthData).map(entry => entry.timestamp);
     let pointStart = Math.min(...timestamps);
 
     let aggregatedData = Object.keys(monthData)
         .sort((a, b) => monthData[a].timestamp - monthData[b].timestamp)
-        .filter(yearMonth => monthData[yearMonth].total !== 0)
         .map(yearMonth => ({
             x: monthData[yearMonth].timestamp,
             y: monthData[yearMonth].total
@@ -569,6 +655,11 @@ const drilldown = async function (e) {
         updateCharts(pcode[`${level}`]);
 
         if (level === 4) {
+            chart.update({
+                legend: {
+                    enabled: false
+                }
+            }, false);
             const seriesName = e.point.properties[`ADM${drilldownLevel}_UA`];
             breadcrumbNames.push(seriesName);
             chart.update({
@@ -581,6 +672,8 @@ const drilldown = async function (e) {
 
             let pointsConverted = await getFilteredMappoints();
 
+            log(pointsConverted[0])
+
             while (chart.series.length > 0) {
                 chart.series[0].remove(false);
             }
@@ -592,6 +685,9 @@ const drilldown = async function (e) {
                     type: 'OpenStreetMap',
                     theme: 'Standard'
                 },
+                legend: {
+                    enabled: false
+                },
                 color: 'rgba(128,128,128,0.3)'
             }, false); 
 
@@ -599,7 +695,10 @@ const drilldown = async function (e) {
             chart.addSeries({
                 type: 'mappoint',
                 name: seriesName,
-                enableMouseTracking: false,
+                enableMouseTracking: true,
+                legend: {
+                    enabled: false
+                },
                 states: {
                     inactive: {
                         enabled: false
@@ -609,8 +708,123 @@ const drilldown = async function (e) {
                     enabled: true,
                     format: '{point.options.name}'
                 },
-                data: pointsConverted
+                tooltip: {
+                    enabled: false
+                },
+                data: pointsConverted,
+                point: {
+                    events: {
+                        click: function () {
+                            this.series.chart.update({
+                                tooltip: {
+                                    enabled: true,
+                                    useHTML: true,
+                                    formatter: function () {
+                                        const point = this.point;
+                                        const dateOptions = { year: 'numeric', month: 'long', day: 'numeric' };
+                                        const dateFormatter = (timestamp) => new Date(timestamp * 1000).toLocaleDateString(undefined, dateOptions);
+
+                                        let tooltipContent = `
+                                            <style>
+                                                table { border-collapse: collapse; width: 100%; }
+                                                th, td { border: 1px solid #ddd; padding: 8px; }
+                                                th { background-color: #f2f2f2; text-align: left; }
+                                                .tooltip-title { font-weight: bold; font-size: 1.2em; margin-bottom: 10px; }
+                                                .tooltip-section { margin-top: 10px; }
+                                                .tooltip-section b { display: block; margin-bottom: 5px; }
+                                            </style>
+                                            <div class="tooltip-content">
+                                                <div class="tooltip-title">${point.name}</div>
+                                                <div class="tooltip-section">
+                                                    <b>Details:</b>
+                                                    <table>
+                                                        <tr><th>Amount Decision</th><td>${point.amount_decision || ''}</td></tr>
+                                                        <tr><th>Amount Payments</th><td>${point.amount_payments || ''}</td></tr>
+                                                        <tr><th>Object Type</th><td>${point.object_type || ''}</td></tr>
+                                                        <tr><th>Programme Name</th><td>${point.programme_name || ''}</td></tr>
+                                                    </table>
+                                                </div>
+                                                <div class="tooltip-section">
+                                                    <b>Payments:</b>
+                                                    <table>
+                                                        <tr><th>Payer Name</th><th>Receipt Name</th><th>Transaction Date</th><th>Amount</th></tr>
+                                        `;
+
+                                        (point.payments || []).forEach(payment => {
+                                            tooltipContent += `
+                                                <tr>
+                                                    <td>${payment.payer_name || ''}</td>
+                                                    <td>${payment.receipt_name || ''}</td>
+                                                    <td>${dateFormatter(payment.trans_date) || ''}</td>
+                                                    <td>${payment.amount || ''}</td>
+                                                </tr>
+                                            `;
+                                        });
+
+                                        tooltipContent += '</table></div></div>';
+                                        return tooltipContent;
+                                    }
+                                },
+                                // plotOptions: {
+                                //     series: {
+                                //         states: {
+                                //             hover: {
+                                //                 enabled: false
+                                //             }
+                                //         }
+                                //     }
+                                // }
+                            });
+                        },
+                        mouseOut: function () {
+                            this.series.chart.update({
+                                tooltip: {
+                                    enabled: false
+                                }
+                            })
+                        }
+                    }
+                }
             }, false);
+
+            // chart.update({
+            //     tooltip: {
+            //         useHTML: true,
+            //         formatter: function() {
+            //             const point = this.point;
+            //             const dateOptions = { year: 'numeric', month: 'long', day: 'numeric' };
+            //             const dateFormatter = (timestamp) => new Date(timestamp * 1000).toLocaleDateString(undefined, dateOptions);
+
+            //             let tooltipContent = `
+            //                 <table>
+            //                     <tr><th>Amount Decision</th><td>${point.amount_decision || ''}</td></tr>
+            //                     <tr><th>Amount Total</th><td>${point.amount_total || ''}</td></tr>
+            //                     <tr><th>Amount Payments</th><td>${point.amount_payments || ''}</td></tr>
+            //                     <tr><th>Object Type</th><td>${point.object_type || ''}</td></tr>
+            //                     <tr><th>Programme Name</th><td>${point.programme_name || ''}</td></tr>
+            //                 </table>
+            //                 <br/>
+            //                 <b>Payments:</b>
+            //                 <table>
+            //                     <tr><th>Payer Name</th><th>Receipt Name</th><th>Transaction Date</th><th>Amount</th></tr>
+            //             `;
+
+            //             (point.payments || []).forEach(payment => {
+            //                 tooltipContent += `
+            //                     <tr>
+            //                         <td>${payment.payer_name || ''}</td>
+            //                         <td>${payment.receipt_name || ''}</td>
+            //                         <td>${dateFormatter(payment.trans_date) || ''}</td>
+            //                         <td>${payment.amount || ''}</td>
+            //                     </tr>
+            //                 `;
+            //             });
+
+            //             tooltipContent += '</table>';
+            //             return tooltipContent;
+            //         }
+            //     }
+            // }, false);
 
             chart.mapView.update({
                 projection: {
@@ -840,6 +1054,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                             }
                         });
                         this.series[0].setData(data, true);
+                        chart.update({legend: {enabled: true}}, false);
                     }
                 }
             }
@@ -862,7 +1077,23 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                 [0.65, '#6690b2'],
                 [0.7, '#336b98'],
                 [1, '#003158']
-            ]
+            ],
+            labels: {
+                formatter: function () {
+                    const absValue = Math.abs(this.value);
+                    let label;
+                    if (absValue >= 1e9) {
+                        label = (this.value / 1e9).toFixed() + 'млрд ';
+                    } else if (absValue >= 1e6) {
+                        label = (this.value / 1e6).toFixed() + 'млн ';
+                    } else if (absValue >= 1e3) {
+                        label = (this.value / 1e3).toFixed() + 'тис ';
+                    } else {
+                        label = this.value.toString();
+                    }
+                    return label;
+                }
+            }
         },
         mapView: {
             projection: {
@@ -878,6 +1109,12 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
             }
         },
 
+        // tooltip: {
+        //     formatter: function() {
+        //         return this.point.properties.ADM1_UA + '<br>' + 'Видатки: ' + this.point.value + ' грн';
+        //     }
+        // },
+
         plotOptions: {
             map: {
                 states: {
@@ -886,6 +1123,10 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                     }
                 }
             }
+        },
+
+        legend: {
+            enabled: true
         },
 
         series: [{
@@ -941,6 +1182,11 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
     colorAxis: {
         minColor: '#FFFFFF', 
         maxColor: '#00467E', 
+        labels: {
+            formatter: function() {
+                return formatLegendLabel(this.value);
+            }
+        }
     },
     series: [{
         type: 'treemap',
@@ -954,8 +1200,10 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
     },
     tooltip: {
         useHTML: true,
-        pointFormat:
-            '{point.name}: <b>{point.value}</b> гривень'
+        pointFormat: `{point.name}: <b>{point.value}</b> гривень`,
+        formatter: function() {
+            return `${this.point.name}: <b>${formatLegendLabel(this.point.value)} грн</b>`;
+        }
     }
     });
 
@@ -972,6 +1220,20 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
             tickInterval: 2592000000,
             dateTimeLabelFormats: {
                 month: '%b %Y'
+            }
+        },
+        yAxis: {
+            labels: {
+                formatter: function() {
+                    return formatLegendLabel(this.value);
+                }
+            }
+        },
+        tooltip: {
+            valueSuffix: ' грн',
+            xDateFormat: '%b %Y',
+            formatter: function() {
+                return `Усього за місяць: <b>${formatLegendLabel(this.y)} грн</b>`;
             }
         },
         colors: ['#ffbd01'],
@@ -1016,6 +1278,9 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
           },
           labels: {
             overflow: "justify",
+            formatter: function() {
+                return formatLegendLabel(this.value);
+            }
           }
         },
         tooltip: {
@@ -1055,7 +1320,10 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
           },
           labels: {
             overflow: "justify",
-          }
+            formatter: function() {
+                return formatLegendLabel(this.value);
+            }
+          },
         },
         tooltip: {
           valueSuffix: " грн"
@@ -1086,7 +1354,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
             chart.addSeries({
                 type: 'mappoint',
                 name: 'Mappoints',
-                enableMouseTracking: false,
+                enableMouseTracking: true,
                 states: {
                     inactive: {
                         enabled: false
@@ -1095,6 +1363,11 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                 dataLabels: {
                     enabled: true,
                     format: '{point.options.name}'
+                },
+                tooltip: {
+                    useHTML: true,
+                    //headerFormat: '<b>{point.options.name}</b><br>',
+                    pointFormat: 'Видатки: {point.options.amount} грн',
                 },
                 data: points
             }, false);
