@@ -9,13 +9,131 @@ body {
 
 #metrics-container {
     display: flex; 
-    justify-content: space-between;
-    padding: 10px 20px;
-    background-color: #fff;
-    border-bottom: 1px solid #ddd;
-    height: 80px;
-    width: 97%; /* To account for the fixed sidebar */
+    gap: 16px;
+    padding-top: 10px;
+    height: 120px;
+    width: 100%; /* To account for the fixed sidebar */
     border-radius: 20px; /* Add border-radius */
+}
+
+#planned-budget-container {
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    background-color: #ffbd01;
+    padding: 12px, 16px, 12px, 16px;
+    border-radius: 16px;
+}
+
+#planned-budget-container h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #00457e;
+    font-size: 17px;
+    font-weight: 600;
+    margin-left: 50px;
+    width: 10px;
+}
+
+#budget-spent-container {
+    padding: 5px;
+}
+
+#state-budget-spent h3,
+#local-budget-spent h3,
+#partners-budget-spent h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #00457e;
+    font-size: 17px;
+    font-weight: 600;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#partners-budget-spent h3 {
+    margin-bottom: 30px;
+}
+
+#state-budget-spent p,
+#local-budget-spent p,
+#partners-budget-spent p {
+    font-family: 'Montserrat', sans-serif;
+    color: #00457e;
+    font-size: 26px;
+    font-weight: 600;
+    margin-left: 50px;
+    margin-top: 0px;
+}
+
+#planned-budget-container p {
+    font-family: 'Montserrat', sans-serif;
+    color: #00457e;
+    font-size: 26px;
+    font-weight: 600;
+    margin-left: 50px;
+    margin-top: 0px;
+}
+
+#budget-spent-container {
+    width: 70%;
+    display: flex;
+    gap: 16px;
+    padding: 12px, 16px, 12px, 16px;
+    border-radius: 16px;
+}
+
+#total-spent-container-header {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 16px;
+    font-family: 'Montserrat', sans-serif;
+    color: #00457e;
+    font-size: 17px;
+    font-weight: 600;
+    margin-top: 0px;
+    margin-left: 50px;
+    width: 33%;
+}
+
+#total-spent-container-header h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #00457e;
+    font-size: 17px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+#total-spent-container-header p {
+    font-family: 'Montserrat', sans-serif;
+    color: #00457e;
+    font-size: 26px;
+    font-weight: 600;
+    margin-top: 0px;
+}
+
+#state-budget-spent,
+#local-budget-spent,
+#partners-budget-spent {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 16px;
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    color: #00457e;
+    font-size: 17px;
+    font-weight: 600;
+    margin-top: 0px;
+    width: 33%;
+}
+
+#total-spent-container {
+    width: 80%;
+    display: flex;
+    background-color: #dcdee9;
+    border-radius: 16px;
 }
 
 #main-content {
@@ -32,7 +150,7 @@ body {
     background-color: white;
     border-right: 1px solid #ddd; 
     position: fixed;
-    top: 120px;
+    top: 150px;
     right: 0;
     overflow-y: auto;
     max-height: calc(100vh - 50px); /* Adjust the height based on the metrics container height */
@@ -70,6 +188,15 @@ body {
 #bar-payer,
 #bar-reciept {
     height: 500px;
+}
+
+#programs-table,
+#objects-table {
+    width: 100%;
+}
+
+#objects-table {
+    margin-top: 20px;
 }
 
 #tables-container {

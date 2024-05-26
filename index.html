@@ -11,6 +11,10 @@
     <!-- Reference to Select2 JS -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 </head>
 <body>
     <div id="metrics-container">
@@ -19,8 +23,25 @@
             <p id="planned-budget"><!--metric inserted in JS --></p>
         </div>
         <div id="total-spent-container">
-            <h3>Всього використано коштів</h3>
-            <p id="total-spent"><!--metric inserted in JS --></p>
+            <div id="total-spent-container-header">
+                <h3>Всього використано коштів</h3>
+                <p id="total-spent"><!--metric inserted in JS --></p>
+            </div>
+            <div id="budget-spent-container">
+                <div id="local-budget-spent">
+                    <h3>З місцевого бюджету</h3>
+                    <p>0 грн</p>
+                </div>
+                <div id="state-budget-spent">
+                    <h3>З державного бюджету</h3>
+                    <p id="state-spent">0</p>
+                </div>
+                <div id="partners-budget-spent">
+                    <h3>Кошти партнерів</h3>
+                    <p>0 грн</p>
+                </div>
+            </div>
+
         </div>
     </div>
 
@@ -92,7 +113,8 @@
                     <thead>
                         <tr>
                             <th>Програма</th>
-                            <th>К-ть обʼєктів</th>
+                            <th style="text-align:center;">Кількість обʼєктів</th>
+                            <th>Заплановано, грн</th>
                             <th>Профінансовано, грн</th>
                         </tr>
                     </thead>
@@ -106,8 +128,9 @@
                         <tr>
                             <th>Адреса</th>
                             <th>Тип обʼєкту</th>
-                            <th>Виділено коштів, грн</th>
+                            <th>Виділено, грн</th>
                             <th>Фактичні витрати, грн</th>
+                            <th>Відсоток використання, %</th>
                         </tr>
                     </thead>
                     <tbody>
