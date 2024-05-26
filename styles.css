@@ -51,8 +51,10 @@ body {
     margin-top: 10px;
 }
 
-#partners-budget-spent h3 {
-    margin-bottom: 30px;
+@media (min-width: 1400px) {
+    #partners-budget-spent h3 {
+        margin-bottom: 30px;
+    }
 }
 
 #state-budget-spent p,
