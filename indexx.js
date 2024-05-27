@@ -753,9 +753,9 @@ const drilldown = async function (e) {
                                             <div class="tooltip-content">
                                                 <div class="tooltip-section">
                                                     <table border=1>
-                                                        <tr><th>Район:</th><td>${point.adm2_pcode || ''}</td></tr>
-                                                        <tr><th>Тергромада:</th><td>${point.adm3_pcode || ''}</td></tr>
-                                                        <tr><th>Населений Пункт:</th><td>${point.adm3_pcode || ''}</td></tr>
+                                                        <tr><th>Район:</th><td>${point.district_ua || ''}</td></tr>
+                                                        <tr><th>Тергромада:</th><td>${point.terhromada_ua || ''}</td></tr>
+                                                        <tr><th>Населений Пункт:</th><td>${point.settlement_ua || ''}</td></tr>
                                                         <tr><th>Адреса:</th><td>${point.street + ", " + point.building || ''}</td></tr>
                                                         <tr><th>Заплановано:</th><td>${point.amount_decision + ' грн' || ''}</td></tr>
                                                         <tr><th>Профінансовано:</th><td>${point.amount_payments + ' грн' || ''}</td></tr>
