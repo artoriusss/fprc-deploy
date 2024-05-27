@@ -31,6 +31,28 @@ const formatLegendLabel = function(value, space=false) {
     return label;
 };
 
+
+const formatLegendLabell = function(value) { // Removed the space parameter
+    const absValue = Math.abs(value);
+    let suffix;
+    let label;
+  
+    if (absValue >= 1e9) {
+      suffix = ' млрд';
+      label = (value / 1e9).toFixed() + suffix;
+    } else if (absValue >= 1e6) {
+      suffix = ' млн';
+      label = (value / 1e6).toFixed() + suffix;
+    } else if (absValue >= 1e3) {
+      suffix = ' тис';
+      label = (value / 1e3).toFixed() + suffix;
+    } else {
+      label = value.toString();
+    }
+  
+    return label;
+  };
+
 const mapTooltipFormatter = function(options) {
     const region = drilldownLevel === 0 ? 'область': drilldownLevel === 1 ? 'район': drilldownLevel === 2? 'громада': '';
     return `<b>${options.properties[`ADM${drilldownLevel+1}_UA`]}</b> ${region}<br>Видатки: ${options.value.toLocaleString()} грн`.replaceAll(',', ' ');;
@@ -721,80 +743,69 @@ const drilldown = async function (e) {
                                     useHTML: true,
                                     formatter: function () {
                                         const point = this.point;
-                                        const dateOptions = { year: 'numeric', month: 'long', day: 'numeric' };
-                                        const dateFormatter = (timestamp) => new Date(timestamp * 1000).toLocaleDateString(undefined, dateOptions);
-                
-                                        // Aggregation by payer_edrpou
+                          
                                         const aggregatedPayments = (point.payments || []).reduce((acc, payment) => {
-                                            if (!acc[payment.payer_edrpou]) {
-                                                acc[payment.payer_edrpou] = {
-                                                    payer_edrpou: payment.payer_edrpou,
-                                                    payer_name: payment.payer_name,
-                                                    receipt_edrpou: payment.receipt_edrpou,
-                                                    receipt_name: payment.receipt_name,
-                                                    programme_type: point.programme_name, // Assuming programme_name is available at point level
-                                                    object_type: point.object_type, // Assuming object_type is available at point level
-                                                    total_amount: 0
-                                                };
-                                            }
-                                            acc[payment.payer_edrpou].total_amount += payment.amount;
-                                            return acc;
+                                          if (!acc[payment.payer_edrpou]) {
+                                            acc[payment.payer_edrpou] = {
+                                              payer_edrpou: payment.payer_edrpou,
+                                              payer_name: payment.payer_name,
+                                              receipt_edrpou: payment.receipt_edrpou,
+                                              receipt_name: payment.receipt_name,
+                                              programme_type: point.programme_name, // Assuming programme_name is available at point level
+                                              object_type: point.object_type, // Assuming object_type is available at point level
+                                              total_amount: 0
+                                            };
+                                          }
+                                          acc[payment.payer_edrpou].total_amount += payment.amount;
+                                          return acc;
                                         }, {});
-                
+                          
                                         let tooltipContent = `
-                                            <style>
-                                                table { border-collapse: collapse; width: 100%; }
-                                                th, td { border: 1px solid #ddd; padding: 8px; }
-                                                th { background-color: #f2f2f2; text-align: left; }
-                                                .tooltip-title { font-weight: bold; font-size: 1.2em; margin-bottom: 10px; }
-                                                .tooltip-section { margin-top: 10px; }
-                                                .tooltip-section b { display: block; margin-bottom: 5px; }
-                                            </style>
-                                            <div class="tooltip-content">
-                                                <div class="tooltip-section">
-                                                    <table border=1>
-                                                        <tr><th>Район:</th><td>${point.district_ua || ''}</td></tr>
-                                                        <tr><th>Тергромада:</th><td>${point.terhromada_ua || ''}</td></tr>
-                                                        <tr><th>Населений Пункт:</th><td>${point.settlement_ua || ''}</td></tr>
-                                                        <tr><th>Адреса:</th><td>${point.street + ", " + point.building || ''}</td></tr>
-                                                        <tr><th>Заплановано:</th><td>${point.amount_decision + ' грн' || ''}</td></tr>
-                                                        <tr><th>Профінансовано:</th><td>${point.amount_payments + ' грн' || ''}</td></tr>
-                                                    </table>
-                                                </div>
-                                                <div class="tooltip-section">
-                                                    <table border=1>
-                                                        <tr>
-                                                            <th>Платник (ЄДРПОУ)</th>
-                                                            <th style="text-align:center;">Платник</th>
-                                                            <th style="text-align:center;">Отримувач (ЄДРПОУ)</th>
-                                                            <th style="text-align:center;">Отримувач</th>
-                                                            <th style="text-align:center;">Програма </th>
-                                                            <th style="text-align:center;">Тип</th>
-                                                            <th style="text-align:center;">Грн</th>
-                                                        </tr>
-                                        `;
-                
-                                        for (const payer_edrpou in aggregatedPayments) {
-                                            const payment = aggregatedPayments[payer_edrpou];
-                                            tooltipContent += `
+                                          <div class="tooltip-content">
+                                            <div class="tooltip-section">
+                                              <table class="tooltip-table">
+                                                <tr><th>Район:</th><td>${point.district_ua || ''}</td></tr>
+                                                <tr><th>Тергромада:</th><td>${point.terhromada_ua || ''}</td></tr>
+                                                <tr><th>Населений Пункт:</th><td>${point.settlement_ua || ''}</td></tr>
+                                                <tr><th>Адреса:</th><td>${point.street ? point.street + ", " + point.building : ''}</td></tr>
+                                                <tr><th>Заплановано:</th><td>${point.amount_decision ? point.amount_decision + ' грн' : ''}</td></tr>
+                                                <tr><th>Профінансовано:</th><td>${point.amount_payments ? point.amount_payments + ' грн' : ''}</td></tr>
+                                              </table>
+                                            </div>
+                                            <div class="tooltip-section">
+                                              <table class="tooltip-table">
                                                 <tr>
-                                                    <td style="text-align:center;">${payment.payer_edrpou || ''}</td>
-                                                    <td style="text-align:center;">${payment.payer_name || ''}</td>
-                                                    <td style="text-align:center;">${payment.receipt_edrpou || ''}</td>
-                                                    <td style="text-align:center;">${payment.receipt_name || ''}</td>
-                                                    <td style="text-align:center;">${payment.programme_type || ''}</td>
-                                                    <td style="text-align:center;">${payment.object_type || ''}</td>
-                                                    <td style="text-align:center;">${payment.total_amount || ''}</td>
+                                                  <th>Платник (ЄДРПОУ)</th>
+                                                  <th>Платник</th>
+                                                  <th>Отримувач (ЄДРПОУ)</th>
+                                                  <th>Отримувач</th>
+                                                  <th>Програма</th>
+                                                  <th>Тип</th>
+                                                  <th>Грн</th>
                                                 </tr>
-                                            `;
+                                        `;
+                          
+                                        for (const payer_edrpou in aggregatedPayments) {
+                                          const payment = aggregatedPayments[payer_edrpou];
+                                          tooltipContent += `
+                                            <tr>
+                                              <td>${payment.payer_edrpou || ''}</td>
+                                              <td>${payment.payer_name || ''}</td>
+                                              <td>${payment.receipt_edrpou || ''}</td>
+                                              <td>${payment.receipt_name || ''}</td>
+                                              <td>${payment.programme_type || ''}</td>
+                                              <td>${payment.object_type || ''}</td>
+                                              <td>${payment.total_amount || ''}</td>
+                                            </tr>
+                                          `;
                                         }
-                
+                          
                                         tooltipContent += '</table></div></div>';
                                         return tooltipContent;
+                                      }
                                     }
+                                  });
                                 },
-                            });
-                        },
                         mouseOut: function () {
                             this.series.chart.update({
                                 tooltip: {
@@ -805,45 +816,6 @@ const drilldown = async function (e) {
                     }
                 }
             }, false);
-
-            // chart.update({
-            //     tooltip: {
-            //         useHTML: true,
-            //         formatter: function() {
-            //             const point = this.point;
-            //             const dateOptions = { year: 'numeric', month: 'long', day: 'numeric' };
-            //             const dateFormatter = (timestamp) => new Date(timestamp * 1000).toLocaleDateString(undefined, dateOptions);
-
-            //             let tooltipContent = `
-            //                 <table>
-            //                     <tr><th>Amount Decision</th><td>${point.amount_decision || ''}</td></tr>
-            //                     <tr><th>Amount Total</th><td>${point.amount_total || ''}</td></tr>
-            //                     <tr><th>Amount Payments</th><td>${point.amount_payments || ''}</td></tr>
-            //                     <tr><th>Object Type</th><td>${point.object_type || ''}</td></tr>
-            //                     <tr><th>Programme Name</th><td>${point.programme_name || ''}</td></tr>
-            //                 </table>
-            //                 <br/>
-            //                 <b>Payments:</b>
-            //                 <table>
-            //                     <tr><th>Payer Name</th><th>Receipt Name</th><th>Transaction Date</th><th>Amount</th></tr>
-            //             `;
-
-            //             (point.payments || []).forEach(payment => {
-            //                 tooltipContent += `
-            //                     <tr>
-            //                         <td>${payment.payer_name || ''}</td>
-            //                         <td>${payment.receipt_name || ''}</td>
-            //                         <td>${dateFormatter(payment.trans_date) || ''}</td>
-            //                         <td>${payment.amount || ''}</td>
-            //                     </tr>
-            //                 `;
-            //             });
-
-            //             tooltipContent += '</table>';
-            //             return tooltipContent;
-            //         }
-            //     }
-            // }, false);
 
             chart.mapView.update({
                 projection: {
@@ -1331,7 +1303,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
           },
           labels: {
             style: {
-                width: '150px', // Adjust the width as needed
+                width: '150px', 
                 whiteSpace: 'nowrap',
                 overflow: 'hidden',
                 textOverflow: 'ellipsis'
