@@ -687,19 +687,19 @@ const drilldown = async function (e) {
             chart.update({
                 mapView: {
                     projection: {
-                        name: 'WebMercator' 
+                        name: 'WebMercator'
                     }
                 }
             }, false);
-
+        
             let pointsConverted = await getFilteredMappoints();
-
-            log(pointsConverted[0])
-
+        
+            console.log('First converted point:', pointsConverted[0]);
+        
             while (chart.series.length > 0) {
                 chart.series[0].remove(false);
             }
-
+        
             chart.addSeries({
                 type: 'tiledwebmap',
                 name: 'TWM Tiles',
@@ -711,9 +711,8 @@ const drilldown = async function (e) {
                     enabled: false
                 },
                 color: 'rgba(128,128,128,0.3)'
-            }, false); 
-
-
+            }, false);
+        
             chart.addSeries({
                 type: 'mappoint',
                 name: seriesName,
@@ -728,7 +727,6 @@ const drilldown = async function (e) {
                 },
                 dataLabels: {
                     enabled: false,
-                    //format: ''
                 },
                 tooltip: {
                     enabled: false
@@ -743,86 +741,134 @@ const drilldown = async function (e) {
                                     useHTML: true,
                                     formatter: function () {
                                         const point = this.point;
-                          
+        
                                         const aggregatedPayments = (point.payments || []).reduce((acc, payment) => {
-                                          if (!acc[payment.payer_edrpou]) {
-                                            acc[payment.payer_edrpou] = {
-                                              payer_edrpou: payment.payer_edrpou,
-                                              payer_name: payment.payer_name,
-                                              receipt_edrpou: payment.receipt_edrpou,
-                                              receipt_name: payment.receipt_name,
-                                              programme_type: point.programme_name, // Assuming programme_name is available at point level
-                                              object_type: point.object_type, // Assuming object_type is available at point level
-                                              total_amount: 0
-                                            };
-                                          }
-                                          acc[payment.payer_edrpou].total_amount += payment.amount;
-                                          return acc;
+                                            const key = `${payment.payer_edrpou}_${payment.receipt_edrpou}`;
+                                            if (!acc[key]) {
+                                                acc[key] = {
+                                                    payer_edrpou: payment.payer_edrpou,
+                                                    payer_name: payment.payer_name,
+                                                    receipt_edrpou: payment.receipt_edrpou,
+                                                    receipt_name: payment.receipt_name,
+                                                    programme_type: point.programme_name,
+                                                    object_type: point.object_type,
+                                                    total_amount: 0
+                                                };
+                                            }
+                                            acc[key].total_amount += payment.amount;
+                                            return acc;
                                         }, {});
-                          
-                                        let tooltipContent = `
-                                          <div class="tooltip-content">
-                                            <div class="tooltip-section">
-                                              <table class="tooltip-table">
-                                                <tr><th>Район:</th><td>${point.district_ua || ''}</td></tr>
-                                                <tr><th>Тергромада:</th><td>${point.terhromada_ua || ''}</td></tr>
-                                                <tr><th>Населений Пункт:</th><td>${point.settlement_ua || ''}</td></tr>
-                                                <tr><th>Адреса:</th><td>${point.street ? point.street + ", " + point.building : ''}</td></tr>
-                                                <tr><th>Заплановано:</th><td>${point.amount_decision ? point.amount_decision + ' грн' : ''}</td></tr>
-                                                <tr><th>Профінансовано:</th><td>${point.amount_payments ? point.amount_payments + ' грн' : ''}</td></tr>
-                                              </table>
-                                            </div>
-                                            <div class="tooltip-section">
-                                              <table class="tooltip-table">
-                                                <tr>
-                                                  <th>Платник (ЄДРПОУ)</th>
-                                                  <th>Платник</th>
-                                                  <th>Отримувач (ЄДРПОУ)</th>
-                                                  <th>Отримувач</th>
-                                                  <th>Програма</th>
-                                                  <th>Тип</th>
-                                                  <th>Грн</th>
-                                                </tr>
-                                        `;
-                          
-                                        for (const payer_edrpou in aggregatedPayments) {
-                                          const payment = aggregatedPayments[payer_edrpou];
-                                          tooltipContent += `
-                                            <tr>
-                                              <td>${payment.payer_edrpou || ''}</td>
-                                              <td>${payment.payer_name || ''}</td>
-                                              <td>${payment.receipt_edrpou || ''}</td>
-                                              <td>${payment.receipt_name || ''}</td>
-                                              <td>${payment.programme_type || ''}</td>
-                                              <td>${payment.object_type || ''}</td>
-                                              <td>${payment.total_amount || ''}</td>
-                                            </tr>
-                                          `;
+        
+                                        // Count occurrences of each payer_edrpou
+                                        const payerCounts = {};
+                                        for (const key in aggregatedPayments) {
+                                            const edrpou = aggregatedPayments[key].payer_edrpou;
+                                            if (!payerCounts[edrpou]) {
+                                                payerCounts[edrpou] = 0;
+                                            }
+                                            payerCounts[edrpou]++;
                                         }
-                          
-                                        tooltipContent += '</table></div></div>';
+        
+                                        let tooltipContent = `
+                                            <div class="tooltip-content">
+                                                <div class="tooltip-section">
+                                                    <table>
+                                                        <tr>
+                                                            <th>Район:</th>
+                                                            <td>${point.district_ua || ''}</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th>Тергромада:</th>
+                                                            <td>${point.terhromada_ua || ''}</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th>Населений Пункт:</th>
+                                                            <td>${point.settlement_ua || ''}</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th>Адреса:</th>
+                                                            <td>${point.street ? point.street + ", " + point.building : ''}</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th>Заплановано:</th>
+                                                            <td>${point.amount_decision ? point.amount_decision + ' грн' : ''}</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th>Профінансовано:</th>
+                                                            <td>${point.amount_payments ? point.amount_payments + ' грн' : ''}</td>
+                                                        </tr>
+                                                    </table>
+                                                </div>
+                                                <div class="tooltip-section">
+                                                    <table style="border-collapse: collapse; width: 100%;">
+                                                        <tr>
+                                                            <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Платник (ЄДРПОУ)</th>
+                                                            <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Платник</th>
+                                                            <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Отримувач (ЄДРПОУ)</th>
+                                                            <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Отримувач</th>
+                                                            <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Програма</th>
+                                                            <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Тип</th>
+                                                            <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Грн</th>
+                                                        </tr>
+                                        `;
+        
+                                        let currentPayer = null;
+                                        for (const key in aggregatedPayments) {
+                                            const payment = aggregatedPayments[key];
+                                            if (payment.payer_edrpou !== currentPayer) {
+                                                currentPayer = payment.payer_edrpou;
+                                                tooltipContent += `
+                                                    <tr>
+                                                        <td rowspan="${payerCounts[payment.payer_edrpou]}" style="border: 1px solid #000; padding: 8px;">${payment.payer_edrpou || ''}</td>
+                                                        <td rowspan="${payerCounts[payment.payer_edrpou]}" style="border: 1px solid #000; padding: 8px;">${payment.payer_name || ''}</td>
+                                                        <td style="border: 1px solid #000; padding: 8px;">${payment.receipt_edrpou || ''}</td>
+                                                        <td style="border: 1px solid #000; padding: 8px;">${payment.receipt_name || ''}</td>
+                                                        <td style="border: 1px solid #000; padding: 8px;">${payment.programme_type || ''}</td>
+                                                        <td style="border: 1px solid #000; padding: 8px;">${payment.object_type || ''}</td>
+                                                        <td style="border: 1px solid #000; padding: 8px;">${payment.total_amount || ''}</td>
+                                                    </tr>
+                                                `;
+                                            } else {
+                                                tooltipContent += `
+                                                    <tr>
+                                                        <td style="border: 1px solid #000; padding: 8px;">${payment.receipt_edrpou || ''}</td>
+                                                        <td style="border: 1px solid #000; padding: 8px;">${payment.receipt_name || ''}</td>
+                                                        <td style="border: 1px solid #000; padding: 8px;">${payment.programme_type || ''}</td>
+                                                        <td style="border: 1px solid #000; padding: 8px;">${payment.object_type || ''}</td>
+                                                        <td style="border: 1px solid #000; padding: 8px;">${payment.total_amount || ''}</td>
+                                                    </tr>
+                                                `;
+                                            }
+                                        }
+        
+                                        tooltipContent += `
+                                                    </table>
+                                                </div>
+                                            </div>
+                                        `;
+        
                                         return tooltipContent;
-                                      }
                                     }
-                                  });
-                                },
+                                }
+                            });
+                        },
                         mouseOut: function () {
                             this.series.chart.update({
                                 tooltip: {
                                     enabled: false
                                 }
-                            })
+                            });
                         }
                     }
                 }
             }, false);
-
+        
             chart.mapView.update({
                 projection: {
                     name: 'WebMercator'
                 },
             }, false);
-            chart.redraw(); 
+            chart.redraw();
             chart.hideLoading();
             return;
         }
