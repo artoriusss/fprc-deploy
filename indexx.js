@@ -793,11 +793,11 @@ const drilldown = async function (e) {
                                                     </tr>
                                                     <tr>
                                                         <th>Заплановано:</th>
-                                                        <td>${point.amount_decision ? point.amount_decision + ' грн' : ''}</td>
+                                                        <td>${point.amount_decision ? point.amount_decision.toLocaleString().replaceAll(',', ' ') + ' грн' : ''}</td>
                                                     </tr>
                                                     <tr>
                                                         <th>Профінансовано:</th>
-                                                        <td>${point.amount_payments ? point.amount_payments + ' грн' : ''}</td>
+                                                        <td>${point.amount_payments ? point.amount_payments.toLocaleString().replaceAll(',', ' ') + ' грн' : ''}</td>
                                                     </tr>
                                                 </table>
                                             </div>
@@ -852,12 +852,10 @@ const drilldown = async function (e) {
                                     return tooltipContent;
                                 }
                             });
-        
-                            // Manually trigger tooltip refresh
+
                             point.series.chart.tooltip.refresh(point);
                         },
                         mouseOut: function () {
-                            // Disable the tooltip directly
                             chart.tooltip.update({
                                 enabled: false
                             });
