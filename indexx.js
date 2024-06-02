@@ -825,8 +825,8 @@ const drilldown = async function (e) {
                                                         <td style="border: 1px solid #000; padding: 8px;">${payment.receipt_name || ''}</td>
                                                         <td style="border: 1px solid #000; padding: 8px;">${payment.programme_type || ''}</td>
                                                         <td style="border: 1px solid #000; padding: 8px;">${payment.object_type || ''}</td>
-                                                        <td style="border: 1px solid #000; padding: 8px;">${payment.total_amount || ''}</td>
-                                                    </tr>
+                                                        <td style="border: 1px solid #000; padding: 8px; white-space: nowrap;">${payment.total_amount.toLocaleString().replaceAll(',', ' ') || ''}</td>
+                                                    </tr> 
                                                 `;
                                             } else {
                                                 tooltipContent += `
@@ -835,7 +835,7 @@ const drilldown = async function (e) {
                                                         <td style="border: 1px solid #000; padding: 8px;">${payment.receipt_name || ''}</td>
                                                         <td style="border: 1px solid #000; padding: 8px;">${payment.programme_type || ''}</td>
                                                         <td style="border: 1px solid #000; padding: 8px;">${payment.object_type || ''}</td>
-                                                        <td style="border: 1px solid #000; padding: 8px;">${payment.total_amount || ''}</td>
+                                                        <td style="border: 1px solid #000; padding: 8px; white-space: nowrap;">${payment.total_amount.toLocaleString().replaceAll(',', ' ') || ''}</td>
                                                     </tr>
                                                 `;
                                             }
