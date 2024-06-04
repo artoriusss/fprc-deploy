@@ -19,26 +19,26 @@
 <body>
     <div id="metrics-container">
         <div id="planned-budget-container">
-            <h3>Заплановано використати</h3>
+            <h3>Plan</h3>
             <p id="planned-budget"><!--metric inserted in JS --></p>
         </div>
         <div id="total-spent-container">
             <div id="total-spent-container-header">
-                <h3>Всього використано коштів</h3>
+                <h3>Actual</h3>
                 <p id="total-spent"><!--metric inserted in JS --></p>
             </div>
             <div id="budget-spent-container">
                 <div id="local-budget-spent">
-                    <h3>З місцевого бюджету</h3>
-                    <p>0 грн</p>
+                    <h3>Local Budget</h3>
+                    <p>0</p>
                 </div>
                 <div id="state-budget-spent">
-                    <h3>З державного бюджету</h3>
+                    <h3>State Budget</h3>
                     <p id="state-spent">0</p>
                 </div>
                 <div id="partners-budget-spent">
-                    <h3>Кошти партнерів</h3>
-                    <p>0 грн</p>
+                    <h3>Partners' Costs</h3>
+                    <p>0</p>
                 </div>
             </div>
 
@@ -51,40 +51,40 @@
                 <!-- Map will be inserted here -->
             </div>
             <div class="sidebar">
-                <h2>Фільтри</h2>
+                <h2>Filters</h2>
                 <div class="row">
-                    <label for="obj-category">Категорія обʼєкту:</label>
+                    <label for="obj-category">Category:</label>
                     <select name="obj-category" id="obj-category" class="form-select">
                         <!-- Options will be inserted here with JavaScript -->
                     </select>
-                    <button data-reset-target="obj-category">Скинути</button>
+                    <button data-reset-target="obj-category">Reset</button>
                 </div>
 
                 <div class="row">
-                    <label for="program-type">Бюджетна програма:</label>
+                    <label for="program-type">Budget Programme:</label>
                     <select name="program-type" id="program-type" class="form-select">
                          <!-- Options will be inserted here with JavaScript -->
                     </select>
-                    <button data-reset-target="program-type">Скинути</button>
+                    <button data-reset-target="program-type">Reset</button>
                 </div>
 
                 <div class="row">
-                    <label for="payer-edrpou">ЄДРПОУ Платника:</label>
+                    <label for="payer-edrpou">Payer ID:</label>
                     <select name="payer-edrpou" id="payer-edrpou" class="form-select">
                          <!-- Options will be inserted here with JavaScript -->
                     </select>
-                    <button data-reset-target="payer-edrpou">Скинути</button>
+                    <button data-reset-target="payer-edrpou">Reset</button>
                 </div>
 
                 <div class="row">
-                    <label for="receipt-edrpou">ЄДРПОУ Отримувача:</label>
+                    <label for="receipt-edrpou">Receipt ID:</label>
                     <select name="receipt-edrpou" id="receipt-edrpou" class="form-select">
                          <!-- Options will be inserted here with JavaScript -->
                     </select>
-                    <button data-reset-target="receipt-edrpou">Скинути</button>
+                    <button data-reset-target="receipt-edrpou">Reset</button>
                 </div>
                 <div class="row">
-                    <button id="reset-all-filters">Скинути всі фільтри</button>
+                    <button id="reset-all-filters">Reset all Filters</button>
                 </div>
             </div>
         </div>
@@ -112,10 +112,10 @@
                 <table id="programs-table" border="1">
                     <thead>
                         <tr>
-                            <th>Програма</th>
-                            <th style="text-align:center;">Кількість обʼєктів</th>
-                            <th>Заплановано, грн</th>
-                            <th>Профінансовано, грн</th>
+                            <th>Programme</th>
+                            <th style="text-align:center;">Number of Objects</th>
+                            <th>Plan</th>
+                            <th>UAH</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -126,11 +126,11 @@
                 <table id="objects-table" border="1" style="display: none;">
                     <thead>
                         <tr>
-                            <th>Адреса</th>
-                            <th>Тип обʼєкту</th>
-                            <th>Виділено, грн</th>
-                            <th>Фактичні витрати, грн</th>
-                            <th>Відсоток використання, %</th>
+                            <th>Address</th>
+                            <th>Object Type</th>
+                            <th>Plan, UAH</th>
+                            <th>Actual, UAH</th>
+                            <th>Percentage, %</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -157,6 +157,6 @@
     <script src="https://code.highcharts.com/modules/accessibility.js"></script>
 
 
-    <script type="module" src="indexx.js"></script>
+    <script type="module" src="index.js"></script>
 </body>
 </html>
