@@ -1408,8 +1408,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                     }
                 },
                 dataLabels: {
-                    enabled: true,
-                    format: '{point.options.name}'
+                    enabled: false
                 },
                 tooltip: {
                     useHTML: true,
@@ -1466,8 +1465,8 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                         }
                     },
                     dataLabels: {
-                        enabled: true,
-                        format: '{point.options.name}'
+                        enabled: false,
+                        //format: '{point.options.name}'
                     },
                     data: points
                 }, false);
@@ -1509,8 +1508,8 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                         }
                     },
                     dataLabels: {
-                        enabled: true,
-                        format: '{point.options.name}'
+                        enabled: false,
+                        //format: '{point.options.name}'
                     },
                     data: points
                 }, false);
