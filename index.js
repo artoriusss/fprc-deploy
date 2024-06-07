@@ -651,7 +651,9 @@ const getFilteredMappoints = async function () {
         lon: obj.longitude,
         marker: {
             radius: calculateRadius(obj.amount),
-            fillColor: 'rgba(25, 77, 119, 0.8)',
+            fillColor: 'rgba(25, 77, 119, 0.1)',
+            lineWidth: 0.75, // Border width
+            lineColor: 'rgba(25, 77, 119, 1)', // Border color
             symbol: 'circle'
         }
     }));
