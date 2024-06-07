@@ -465,7 +465,7 @@ function displayObjectsTable(pts) {
         const row = tableBody.insertRow();
         
         const addressCell = row.insertCell();
-        addressCell.textContent = `${item.street}, ${item.building}` 
+        addressCell.textContent = item.address;
 
         const objectTypeCell = row.insertCell();
         objectTypeCell.textContent = item.object_type;
