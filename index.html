@@ -30,7 +30,7 @@
             <div id="budget-spent-container">
                 <div id="local-budget-spent">
                     <h3>З місцевого бюджету</h3>
-                    <p>0 грн</p>
+                    <p id="local-spent">0 грн</p>
                 </div>
                 <div id="state-budget-spent">
                     <h3>З державного бюджету</h3>
@@ -38,7 +38,7 @@
                 </div>
                 <div id="partners-budget-spent">
                     <h3>Кошти партнерів</h3>
-                    <p>0 грн</p>
+                    <p id="partners-spent">0 грн</p>
                 </div>
             </div>
 
@@ -83,6 +83,23 @@
                     </select>
                     <button data-reset-target="receipt-edrpou">Скинути</button>
                 </div>
+
+                <div class="row">
+                    <label for="budget-type">Бюджет:</label>
+                    <select name="budget-type" id="budget-type" class="form-select">
+                         <!-- Options will be inserted here with JavaScript -->
+                    </select>
+                    <button data-reset-target="budget-type">Скинути</button>
+                </div>
+
+                <div class="row">
+                    <label for="year">Рік:</label>
+                    <select name="year" id="year" class="form-select">
+                         <!-- Options will be inserted here with JavaScript -->
+                    </select>
+                    <button data-reset-target="year">Скинути</button>
+                </div>
+
                 <div class="row">
                     <button id="reset-all-filters">Скинути всі фільтри</button>
                 </div>
@@ -109,12 +126,13 @@
 
         <div id="tables-sidebar-container">
             <div id="tables-container">
+                <h3>Програми, з яких фінансуються видатки:</h2>
                 <table id="programs-table" border="1">
                     <thead>
                         <tr>
-                            <th>Програма</th>
-                            <th style="text-align:center;">Кількість обʼєктів</th>
-                            <th>Профінансовано, грн</th>
+                            <th style="background-color: #f3f4fa;">Програма</th>
+                            <th style="text-align:center; background-color: #f3f4fa;">Кількість обʼєктів</th>
+                            <th style="background-color: #f3f4fa;">Профінансовано, грн</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -125,9 +143,9 @@
                 <table id="objects-table" border="1" style="display: none;">
                     <thead>
                         <tr>
-                            <th>Адреса</th>
-                            <th>Тип обʼєкту</th>
-                            <th>Фактичні витрати, грн</th>
+                            <th style="background-color: #f3f4fa;">Адреса</th>
+                            <th style="background-color: #f3f4fa;">Тип обʼєкту</th>
+                            <th style="background-color: #f3f4fa;">Фактичні витрати, грн</th>
                         </tr>
                     </thead>
                     <tbody>

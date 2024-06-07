@@ -78,27 +78,23 @@ function addMappointSeries(chart, seriesName, pointsConverted) {
                                         <table>
                                             <tr>
                                                 <th>Район:</th>
-                                                <td>${point.district_ua || ''}</td>
+                                                <td style="font-weight:500">${point.district_ua || ''}</td>
                                             </tr>
                                             <tr>
                                                 <th>Тергромада:</th>
-                                                <td>${point.terhromada_ua || ''}</td>
+                                                <td style="font-weight:500">${point.terhromada_ua || ''}</td>
                                             </tr>
                                             <tr>
                                                 <th>Населений Пункт:</th>
-                                                <td>${point.settlement_ua || ''}</td>
+                                                <td style="font-weight:500">${point.settlement_ua || ''}</td>
                                             </tr>
                                             <tr>
                                                 <th>Адреса:</th>
-                                                <td>${point.street ? point.street + ", " + point.building : ''}</td>
-                                            </tr>
-                                            <tr>
-                                                <th>Заплановано:</th>
-                                                <td>${point.amount_decision ? point.amount_decision.toLocaleString().replaceAll(',', ' ') + ' грн' : ''}</td>
+                                                <td style="font-weight:500">${point.address}</td>
                                             </tr>
                                             <tr>
                                                 <th>Профінансовано:</th>
-                                                <td>${point.amount_payments ? point.amount_payments.toLocaleString().replaceAll(',', ' ') + ' грн' : ''}</td>
+                                                <td style="font-weight:500">${point.amount_payments ? point.amount_payments.toLocaleString().replaceAll(',', ' ') + ' грн' : ''}</td>
                                             </tr>
                                         </table>
                                     </div>
@@ -122,23 +118,23 @@ function addMappointSeries(chart, seriesName, pointsConverted) {
                                     currentPayer = payment.payer_edrpou;
                                     tooltipContent += `
                                         <tr>
-                                            <td rowspan="${payerCounts[payment.payer_edrpou]}" style="border: 1px solid #000; padding: 8px;">${payment.payer_edrpou || ''}</td>
-                                            <td rowspan="${payerCounts[payment.payer_edrpou]}" style="border: 1px solid #000; padding: 8px;">${payment.payer_name || ''}</td>
-                                            <td style="border: 1px solid #000; padding: 8px;">${payment.receipt_edrpou || ''}</td>
-                                            <td style="border: 1px solid #000; padding: 8px;">${payment.receipt_name || ''}</td>
-                                            <td style="border: 1px solid #000; padding: 8px;">${payment.programme_type || ''}</td>
-                                            <td style="border: 1px solid #000; padding: 8px;">${payment.object_type || ''}</td>
-                                            <td style="border: 1px solid #000; padding: 8px; white-space: nowrap;">${payment.total_amount.toLocaleString().replaceAll(',', ' ') || ''}</td>
+                                            <td rowspan="${payerCounts[payment.payer_edrpou]}" style="border: 1px solid #000; padding: 8px;font-weight:500">${payment.payer_edrpou || ''}</td>
+                                            <td rowspan="${payerCounts[payment.payer_edrpou]}" style="border: 1px solid #000; padding: 8px;font-weight:500">${payment.payer_name || ''}</td>
+                                            <td style="border: 1px solid #000; padding: 8px;font-weight:500">${payment.receipt_edrpou || ''}</td>
+                                            <td style="border: 1px solid #000; padding: 8px;font-weight:500">${payment.receipt_name || ''}</td>
+                                            <td style="border: 1px solid #000; padding: 8px;font-weight:500">${payment.programme_type || ''}</td>
+                                            <td style="border: 1px solid #000; padding: 8px;font-weight:500">${payment.object_type || ''}</td>
+                                            <td style="border: 1px solid #000; padding: 8px;font-weight:500 white-space: nowrap;">${payment.total_amount.toLocaleString().replaceAll(',', ' ') || ''}</td>
                                         </tr> 
                                     `;
                                 } else {
                                     tooltipContent += `
                                         <tr>
-                                            <td style="border: 1px solid #000; padding: 8px;">${payment.receipt_edrpou || ''}</td>
-                                            <td style="border: 1px solid #000; padding: 8px;">${payment.receipt_name || ''}</td>
-                                            <td style="border: 1px solid #000; padding: 8px;">${payment.programme_type || ''}</td>
-                                            <td style="border: 1px solid #000; padding: 8px;">${payment.object_type || ''}</td>
-                                            <td style="border: 1px solid #000; padding: 8px; white-space: nowrap;">${payment.total_amount.toLocaleString().replaceAll(',', ' ') || ''}</td>
+                                            <td style="border: 1px solid #000; padding: 8px;font-weight:500">${payment.receipt_edrpou || ''}</td>
+                                            <td style="border: 1px solid #000; padding: 8px;font-weight:500">${payment.receipt_name || ''}</td>
+                                            <td style="border: 1px solid #000; padding: 8px;font-weight:500">${payment.programme_type || ''}</td>
+                                            <td style="border: 1px solid #000; padding: 8px;font-weight:500">${payment.object_type || ''}</td>
+                                            <td style="border: 1px solid #000; padding: 8px;font-weight:500; white-space: nowrap;">${payment.total_amount.toLocaleString().replaceAll(',', ' ') || ''}</td>
                                         </tr>
                                     `;
                                 }
@@ -302,13 +298,14 @@ const initializeNestedDropdownOptions = async function(selectElementId, pts, pro
     }
     selectElement.dataset.selectedValue = selectElement.value;
 };
-
   
 const initializeAllDropdowns = async function (pts, update = false) {
     initializeDropdownOptions('program-type', pts, 'kpk', 'programme_name', update);
     initializeDropdownOptions('obj-category', pts, 'object_type', 'object_type', update);
     initializeNestedDropdownOptions('payer-edrpou', pts, 'payer_edrpou', update);
     initializeNestedDropdownOptions('receipt-edrpou', pts, 'receipt_edrpou', update);
+    initializeDropdownOptions('budget-type', pts, 'budget_type', 'budget_type', update);
+    initializeDropdownOptions('year', pts, 'year', 'year', update)
 };
 
 function getFilterKey(selectElementId) {
@@ -321,6 +318,10 @@ function getFilterKey(selectElementId) {
             return ['payer_edrpou', 'payer_edrpou'];
         case 'receipt-edrpou':
             return ['receipt_edrpou', 'receipt_edrpou'];
+        case 'budget-type':
+            return ['budget_type', 'budget_type'];
+        case 'year':
+            return ['year', 'year']
         default:
             return null;
     }
@@ -337,7 +338,8 @@ function resetAllFilters() {
         'obj-category',
         'program-type',
         'payer-edrpou',
-        'receipt-edrpou'
+        'receipt-edrpou',
+        'budget-type'
     ];
     selectElementIds.forEach(selectElementId => resetFilter(selectElementId));
 }
@@ -372,18 +374,41 @@ const formatNumberToText = (num) => {
     return `${formattedNumber} ${suffix}`;
 };
 const updateMetrics = async function (pts){
-    let plannedBudgetTotal = 0;
+    let stateSpent = 0;
+    let localSpent = 0;
+    let partnersSpent = 0;
     let totalSpent = 0;
 
     pts.forEach(point => {
-        plannedBudgetTotal += point.amount_decision ? point.amount_decision : 0;
+        const budgetType = point['budget_type'];
+
+        if (budgetType === 'державний') {
+            point.payments.forEach(payment => {
+                stateSpent += payment.amount ? payment.amount : 0;
+            });
+        }
+
+        else if (budgetType === 'місцевий') {
+            point.payments.forEach(payment => {
+                localSpent += payment.amount ? payment.amount : 0;
+            });
+        }
+
+        else if (budgetType === 'партнери') {
+            point.payments.forEach(payment => {
+                partnersSpent += payment.amount ? payment.amount : 0;
+            });
+        }
+
         point.payments.forEach(payment => {
             totalSpent += payment.amount ? payment.amount : 0;
         });
     });
 
     document.getElementById('total-spent').textContent = formatNumberToText(totalSpent);
-    document.getElementById('state-spent').textContent = formatNumberToText(totalSpent);
+    document.getElementById('state-spent').textContent = formatNumberToText(stateSpent);
+    document.getElementById('local-spent').textContent = formatNumberToText(localSpent);
+    document.getElementById('partners-spent').textContent = formatNumberToText(partnersSpent)
 }
 
 // TABLES LOGIC 
@@ -403,10 +428,13 @@ const updateTable = async function (pts) {
         return acc;
     }, {});
 
+    // Convert aggregateData to an array and sort by totalAmount
+    const sortedData = Object.entries(aggregateData).sort(([, a], [, b]) => b.totalAmount - a.totalAmount);
+
     const tableBody = document.getElementById('programs-table').getElementsByTagName('tbody')[0];
     tableBody.innerHTML = ""; 
 
-    for (const [programme, data] of Object.entries(aggregateData)) {
+    for (const [programme, data] of sortedData) {
         const row = tableBody.insertRow();
         const programCell = row.insertCell();
         const numberCell = row.insertCell();
@@ -552,30 +580,11 @@ const updateLineChart = async function (pts) {
 };
 
 // TREEMAP LOGIC
-const filterPointsByPcode = async function (pcode) {
-    const points = await fetch('points.json').then(response => response.json());
-    const objectCategory = document.getElementById('obj-category').value;
-    const programType = document.getElementById('program-type').value;
-    const payerEdrpou = document.getElementById('payer-edrpou').value;
-    const receiptEdrpou = document.getElementById('receipt-edrpou').value;
-    
-    const fPoints = points.filter(point => point[`adm${drilldownLevel}_pcode`] === pcode);
-    const filteredPoints = fPoints.filter(point => {
-        const matchesObjectCategory = objectCategory === 'all' || point.object_type === objectCategory;
-        const matchesProgramType = programType === 'all' || point.kpk == programType;
-        const matchesPayerEdrpou = payerEdrpou === 'all' || point.payer_edrpou == payerEdrpou; 
-        const matchesReceiptEdrpou = receiptEdrpou === 'all' || point.receipt_edrpou == receiptEdrpou;
-        return matchesObjectCategory &&  matchesProgramType && matchesPayerEdrpou && matchesReceiptEdrpou;
-    });
-    console.log(`Filtering by ${objectCategory}, ${payerEdrpou}, ${receiptEdrpou} ${programType}`)
-    return filteredPoints;
-};
 
 const calculateColorValue = (value) => {
     const scaleFactor = 0.1;
     return value * scaleFactor;
 };
-
 
 const getValuesByObjCategory = function(points) {
     const aggregatedByCategory = points.reduce((acc, point) => {
@@ -649,25 +658,6 @@ const getFilteredMappoints = async function () {
     return points;
 };
 
-const filterByCategories = async function () {
-    const points = await fetch('points.json').then(response => response.json());
-
-    const objectCategory = document.getElementById('obj-category').value;
-    const programType = document.getElementById('program-type').value;
-    const payerEdrpou = document.getElementById('payer-edrpou').value;
-    const receiptEdrpou = document.getElementById('receipt-edrpou').value;
-
-    const filteredPoints = points.filter(point => {
-        const matchesObjectCategory = objectCategory === 'all' || point.object_type === objectCategory;
-        const matchesProgramType = programType === 'all' || point.kpk == programType;
-        const matchesPayerEdrpou = payerEdrpou === 'all' || point.payer_edrpou == payerEdrpou; 
-        const matchesReceiptEdrpou = receiptEdrpou === 'all' || point.receipt_edrpou == receiptEdrpou;
-        return matchesObjectCategory &&  matchesProgramType && matchesPayerEdrpou && matchesReceiptEdrpou;
-    });
-    console.log(`Filtering by ${objectCategory}, ${payerEdrpou}, ${receiptEdrpou} ${programType}`)
-    return filteredPoints;
-};
-
 const getDrilldownLevel = function (length) {
     return length > 9 ? 4 : length > 6 ? 3 : length > 4 ? 2 : 1;
 };
@@ -692,7 +682,6 @@ const drilldown = async function (e) {
         const chart = this;
         const level = getDrilldownLevel(e.point.drilldown.length);
         drilldownLevel = level;
-        log(drilldownLevel)
         pcode[`${level}`] =  e.point.properties[`ADM${drilldownLevel}_PCODE`];
         updateCharts(pcode[`${level}`]);
 
@@ -760,46 +749,17 @@ const drilldown = async function (e) {
     }
 };
 
-const syncFilter = function () {
-    const points = pointsFull;
-    const objectCategory = document.getElementById('obj-category').value;
-    const programType = document.getElementById('program-type').value;
-    const payerEdrpou = document.getElementById('payer-edrpou').value;
-    const receiptEdrpou = document.getElementById('receipt-edrpou').value;
-
-    const filteredPoints = points.filter(point => {
-        const matchesObjectCategory = objectCategory === 'all' || point.object_type === objectCategory;
-        const matchesProgramType = programType === 'all' || point.kpk == programType;
-        const matchesPayerEdrpou = payerEdrpou === 'all' || point.payer_edrpou == payerEdrpou; 
-        const matchesReceiptEdrpou = receiptEdrpou === 'all' || point.receipt_edrpou == receiptEdrpou;
-        return matchesObjectCategory &&  matchesProgramType && matchesPayerEdrpou && matchesReceiptEdrpou;
-    });
-    console.log(`Filtering by ${objectCategory}, ${payerEdrpou}, ${receiptEdrpou} ${programType}`)
-    return filteredPoints;
-}
-
-const syncAggregate = function (data) {
-    const points = syncFilter();
-    data.forEach((d) => {
-        d.value = 0;
-        d.drilldown = d.properties[`ADM${drilldownLevel+1}_PCODE`];
-        points.forEach(p => {
-            if (d.properties[`ADM${drilldownLevel+1}_PCODE`] === p[`adm${drilldownLevel+1}_pcode`]) {
-                d.value += p.amount;
-            }
-        });
-        d.value = d.value === 0 ? 0 : d.value;
-    });
-    return data;
-}
 
 const testFilterByCategories = async function (pcode=null) {
+    //log('Filtering by categories!')
     let points = await fetch('points_k.json').then(response => response.json());
 
     const objectCategory = document.getElementById('obj-category').value;
     const programType = document.getElementById('program-type').value;
     const payerEdrpou = document.getElementById('payer-edrpou').value;
     const receiptEdrpou = document.getElementById('receipt-edrpou').value;
+    const budgetType = document.getElementById('budget-type').value;
+    const year = document.getElementById('year').value;
 
     if (pcode) {
         //log('Filtering by pcode: ', pcode);
@@ -809,6 +769,8 @@ const testFilterByCategories = async function (pcode=null) {
     const filteredPoints = points.reduce((acc, point) => {
         const matchesObjectCategory = objectCategory === 'all' || point.object_type === objectCategory;
         const matchesProgramType = programType === 'all' || point.kpk == programType;
+        const matchesBudgetType = budgetType === 'all' || point.budget_type == budgetType;
+        //const matchesYear = year === 'all' || point.year == year;
 
         let filteredPayments = [];
         let amount = 0;
@@ -816,14 +778,17 @@ const testFilterByCategories = async function (pcode=null) {
         filteredPayments = point.payments.filter(payment => {
             const matchesPayerEdrpou = payerEdrpou === 'all' || payment.payer_edrpou == payerEdrpou;
             const matchesReceiptEdrpou = receiptEdrpou === 'all' || payment.receipt_edrpou == receiptEdrpou;
-            if (matchesPayerEdrpou && matchesReceiptEdrpou) {
+            const matchesYear = year === 'all' || new Date(payment.trans_date * 1000).getFullYear() == year;
+            //log(new Date(payment.trans_date * 1000).getFullYear())
+
+            if (matchesPayerEdrpou && matchesReceiptEdrpou && matchesYear) {
                 amount += payment.amount;
                 return true;
             }
             return false;
         });
 
-        if (matchesObjectCategory && matchesProgramType && amount > 0) {
+        if (matchesObjectCategory && matchesProgramType && matchesBudgetType && amount > 0) {
             const filteredPoint = {...point, payments: filteredPayments, amount: amount};
             acc.push(filteredPoint);
         }
@@ -831,8 +796,7 @@ const testFilterByCategories = async function (pcode=null) {
         return acc;
     }, []);
 
-    console.log(`Filtering by ${objectCategory}, ${payerEdrpou}, ${receiptEdrpou}, ${programType}`);
-    //log(filteredPoints)
+    console.log(`Filtering by ${objectCategory}, ${payerEdrpou}, ${receiptEdrpou}, ${programType}, ${budgetType}, ${year}`);
     return filteredPoints;
 };
 
@@ -845,8 +809,6 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
     data = Highcharts.geojson(topology);
     levelData[drilldownLevel] = data.map(item => ({ ...item }));
     data = await aggregateByPcode(data);
-
-
 
     Highcharts.mapChart('map-container', {
         custom: {
@@ -918,6 +880,9 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                         chart.update({legend: {enabled: true}}, false);
                     }
                 }
+            },
+            style: {
+                fontFamily: 'Montserrat, sans-serif'  // Apply custom font here
             }
         },
 
@@ -973,7 +938,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
 
         tooltip: {
             pointFormatter: function() {
-                return mapTooltipFormatter(this.options);
+                return [0, 1, 2, 3].includes(drilldownLevel) ? mapTooltipFormatter(this.options) : '';
             }
         },
 
@@ -1040,6 +1005,9 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                 //console.log('tmredraw')
             }
         },
+        style: {
+            fontFamily: 'Montserrat, sans-serif'  // Apply custom font here
+        }
     },
     colorAxis: {
         minColor: '#FFFFFF', 
@@ -1058,7 +1026,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
     }],
     title: {
         text: 'Тип видатків',
-        align: 'left'
+        align: 'center'
     },
     tooltip: {
         useHTML: true,
@@ -1075,8 +1043,12 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
         chart: {
             renderTo: 'container',
             type: 'column',
-            zoomType: 'xy'
+            zoomType: 'xy',
+            style: {
+                fontFamily: 'Montserrat, sans-serif'  // Apply custom font here
+            }
         },
+
         xAxis: {
             type: 'datetime',
             tickInterval: 2592000000,
@@ -1120,7 +1092,10 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
     Highcharts.chart('bar-payer', {
         chart: {
           type: "bar",
-          zoomType: "y"
+          zoomType: "y",
+          style: {
+            fontFamily: 'Montserrat, sans-serif'  // Apply custom font here
+        }
         },
         title: {
           text: "Найбільші замовники, грн"
@@ -1162,7 +1137,10 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
     Highcharts.chart('bar-reciept', {
         chart: {
           type: "bar",
-          zoomType: "y"
+          zoomType: "y",
+          style: {
+            fontFamily: 'Montserrat, sans-serif'  // Apply custom font here
+        }
         },
         title: {
           text: "Найбільші отримувачі, грн"
@@ -1227,10 +1205,14 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
         $('#program-type').select2();
         $('#receipt-edrpou').select2();
         $('#payer-edrpou').select2();
+        $('#budget-type').select2();
+        $('#year').select2();
         $('#payer-edrpou').on('change', onDropdownChange);
         $('#receipt-edrpou').on('change', onDropdownChange);
         $('#obj-category').on('change', onDropdownChange);
         $('#program-type').on('change', onDropdownChange);
+        $('#budget-type').on('change', onDropdownChange);
+        $('#year').on('change', onDropdownChange);
 
         $('button[data-reset-target]').on('click', async function() {
             const targetId = $(this).data('reset-target');
