@@ -5,6 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Highcharts Map Drilldown</title>
     <link href="https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/iconoir-icons/iconoir@main/css/iconoir.css"/>
+
+
     <!-- Reference to Select2 CSS -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="styles.css">
@@ -23,21 +27,24 @@
             <p id="planned-budget"></p>
         </div> -->
         <div id="total-spent-container">
+            <div class="icon-frame">
+                <i class="iconoir-coins"></i>
+            </div>
             <div id="total-spent-container-header">
-                <h3>Всього використано коштів</h3>
+                <h3>Actual</h3>
                 <p id="total-spent">20<!--metric inserted in JS --></p>
             </div>
             <div id="budget-spent-container">
                 <div id="local-budget-spent">
-                    <h3>З місцевого бюджету</h3>
+                    <h3>Local budget</h3>
                     <p id="local-spent">0 грн</p>
                 </div>
                 <div id="state-budget-spent">
-                    <h3>З державного бюджету</h3>
+                    <h3>State budget</h3>
                     <p id="state-spent">0 грн</p>
                 </div>
                 <div id="partners-budget-spent">
-                    <h3>Кошти партнерів</h3>
+                    <h3>International partners</h3>
                     <p id="partners-spent">0 грн</p>
                 </div>
             </div>
@@ -51,18 +58,18 @@
                 <!-- Map will be inserted here -->
             </div>
             <div class="sidebar">
-                <h2>Фільтри</h2>
+                <h2>Filters</h2>
 
                 <div class="row">
-                    <label for="budget-type">Бюджет:</label>
+                    <label for="budget-type">Budget:</label>
                     <select name="budget-type" id="budget-type" class="form-select">
                          <!-- Options will be inserted here with JavaScript -->
                     </select>
-                    <button data-reset-target="budget-type">Скинути</button>
+                    <button data-reset-target="budget-type">Reset</button>
                 </div>
 
                 <div class="row">
-                    <label for="obj-category">Категорія обʼєкту:</label>
+                    <label for="obj-category">Category:</label>
                     <select name="obj-category" id="obj-category" class="form-select">
                         <!-- Options will be inserted here with JavaScript -->
                     </select>
@@ -70,39 +77,39 @@
                 </div>
 
                 <div class="row">
-                    <label for="program-type">Бюджетна програма:</label>
+                    <label for="program-type">Budget programme:</label>
                     <select name="program-type" id="program-type" class="form-select">
                          <!-- Options will be inserted here with JavaScript -->
                     </select>
-                    <button data-reset-target="program-type">Скинути</button>
+                    <button data-reset-target="program-type">Reset</button>
                 </div>
 
                 <div class="row">
-                    <label for="payer-edrpou">ЄДРПОУ Платника:</label>
+                    <label for="payer-edrpou">Payer ID:</label>
                     <select name="payer-edrpou" id="payer-edrpou" class="form-select">
                          <!-- Options will be inserted here with JavaScript -->
                     </select>
-                    <button data-reset-target="payer-edrpou">Скинути</button>
+                    <button data-reset-target="payer-edrpou">Reset</button>
                 </div>
 
                 <div class="row">
-                    <label for="receipt-edrpou">ЄДРПОУ Отримувача:</label>
+                    <label for="receipt-edrpou">Receipt ID:</label>
                     <select name="receipt-edrpou" id="receipt-edrpou" class="form-select">
                          <!-- Options will be inserted here with JavaScript -->
                     </select>
-                    <button data-reset-target="receipt-edrpou">Скинути</button>
+                    <button data-reset-target="receipt-edrpou">Reset</button>
                 </div>
 
                 <div class="row">
-                    <label for="year">Рік:</label>
+                    <label for="year">Year:</label>
                     <select name="year" id="year" class="form-select">
                          <!-- Options will be inserted here with JavaScript -->
                     </select>
-                    <button data-reset-target="year">Скинути</button>
+                    <button data-reset-target="year">Reset</button>
                 </div>
 
                 <div class="row">
-                    <button id="reset-all-filters">Скинути всі фільтри</button>
+                    <button id="reset-all-filters">Reset all filters</button>
                 </div>
             </div>
         </div>
@@ -127,13 +134,13 @@
 
         <div id="tables-sidebar-container">
             <div id="tables-container">
-                <h3>Програми, з яких фінансуються видатки:</h2>
+                <h3>Programs from which funding is provided:</h2>
                 <table id="programs-table" border="1">
                     <thead>
                         <tr>
-                            <th style="background-color: #f3f4fa;">Програма</th>
-                            <th style="text-align:center; background-color: #f3f4fa;">Кількість обʼєктів</th>
-                            <th style="background-color: #f3f4fa;">Профінансовано, грн</th>
+                            <th style="background-color: #f3f4fa;">Programme</th>
+                            <th style="text-align:center; background-color: #f3f4fa;">Number of objects</th>
+                            <th style="background-color: #f3f4fa;">UAH</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -144,9 +151,9 @@
                 <table id="objects-table" border="1" style="display: none;">
                     <thead>
                         <tr>
-                            <th style="background-color: #f3f4fa;">Адреса</th>
-                            <th style="background-color: #f3f4fa;">Тип обʼєкту</th>
-                            <th style="background-color: #f3f4fa;">Фактичні витрати, грн</th>
+                            <th style="background-color: #f3f4fa;">Address</th>
+                            <th style="background-color: #f3f4fa;">Object Type</th>
+                            <th style="background-color: #f3f4fa;">Actual, UAH</th>
                         </tr>
                     </thead>
                     <tbody>

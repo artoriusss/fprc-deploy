@@ -77,37 +77,37 @@ function addMappointSeries(chart, seriesName, pointsConverted) {
                                     <div class="tooltip-section">
                                         <table>
                                             <tr>
-                                                <th>Район:</th>
+                                                <th>District:</th>
                                                 <td style="font-weight:500">${point.district_ua || ''}</td>
                                             </tr>
                                             <tr>
-                                                <th>Тергромада:</th>
+                                                <th>Hromada:</th>
                                                 <td style="font-weight:500">${point.terhromada_ua || ''}</td>
                                             </tr>
                                             <tr>
-                                                <th>Населений Пункт:</th>
+                                                <th>Settlement:</th>
                                                 <td style="font-weight:500">${point.settlement_ua || ''}</td>
                                             </tr>
                                             <tr>
-                                                <th>Адреса:</th>
+                                                <th>Address:</th>
                                                 <td style="font-weight:500">${point.address}</td>
                                             </tr>
                                             <tr>
-                                                <th>Профінансовано:</th>
-                                                <td style="font-weight:500">${point.amount_payments ? point.amount_payments.toLocaleString().replaceAll(',', ' ') + ' грн' : ''}</td>
+                                                <th>Actual:</th>
+                                                <td style="font-weight:500">${point.amount_payments ? point.amount_payments.toLocaleString().replaceAll(',', ' ') + ' UAH' : ''}</td>
                                             </tr>
                                         </table>
                                     </div>
                                     <div class="tooltip-section">
                                         <table style="border-collapse: collapse; width: 100%;">
                                             <tr>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Платник (ЄДРПОУ)</th>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Платник</th>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Отримувач (ЄДРПОУ)</th>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Отримувач</th>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Програма</th>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Тип</th>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Грн</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Payer ID</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Payer Name</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Receipt ID</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Recipient</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Programme</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Type</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">UAH</th>
                                             </tr>
                             `;
 
@@ -175,13 +175,13 @@ const formatLegendLabel = function(value, space=false) {
     let suffix;
     let label;
     if (absValue >= 1e9) {
-        suffix = space ? ' млрд' : 'млрд';
+        suffix = space ? ' bln' : 'bln';
         label = (value / 1e9).toFixed() + suffix;
     } else if (absValue >= 1e6) {
-        suffix = space ? ' млн' : 'млн';
+        suffix = space ? ' mln' : 'mln';
         label = (value / 1e6).toFixed() + suffix;
     } else if (absValue >= 1e3) {
-        suffix = space ? ' тис' : 'тис';
+        suffix = space ? ' k' : 'k';
         label = (value / 1e3).toFixed() + suffix;
     } else {
         label = value.toString();
@@ -195,13 +195,13 @@ const formatLegendLabell = function(value) { // Removed the space parameter
     let label;
   
     if (absValue >= 1e9) {
-      suffix = ' млрд';
+      suffix = ' bln';
       label = (value / 1e9).toFixed() + suffix;
     } else if (absValue >= 1e6) {
-      suffix = ' млн';
+      suffix = ' mln';
       label = (value / 1e6).toFixed() + suffix;
     } else if (absValue >= 1e3) {
-      suffix = ' тис';
+      suffix = ' k';
       label = (value / 1e3).toFixed() + suffix;
     } else {
       label = value.toString();
@@ -211,8 +211,8 @@ const formatLegendLabell = function(value) { // Removed the space parameter
   };
 
 const mapTooltipFormatter = function(options) {
-    const region = drilldownLevel === 0 ? 'область': drilldownLevel === 1 ? 'район': drilldownLevel === 2? 'громада': '';
-    return `<b>${options.properties[`ADM${drilldownLevel+1}_UA`]}</b> ${region}<br>Видатки: ${options.value.toLocaleString()} грн`.replaceAll(',', ' ');;
+    const region = drilldownLevel === 0 ? 'region': drilldownLevel === 1 ? 'district': drilldownLevel === 2? 'hromada': '';
+    return `<b>${options.properties[`ADM${drilldownLevel+1}_EN`]}</b> ${region}<br>Видатки: ${options.value.toLocaleString()} грн`.replaceAll(',', ' ');;
 };
 
 const initializeDropdownOptions = async function(selectElementId, pts, propertyValueKey, propertyLabelKey, update) {
@@ -234,7 +234,7 @@ const initializeDropdownOptions = async function(selectElementId, pts, propertyV
 
     const allOptionsEl = document.createElement('option');
     allOptionsEl.value = 'all';
-    allOptionsEl.textContent = 'Всі';
+    allOptionsEl.textContent = 'All';
     selectElement.appendChild(allOptionsEl);
 
     Object.entries(valueLabelMapper).forEach(([value, label]) => {
@@ -277,7 +277,7 @@ const initializeNestedDropdownOptions = async function(selectElementId, pts, pro
 
     const allOptionsEl = document.createElement('option');
     allOptionsEl.value = 'all';
-    allOptionsEl.textContent = 'Всі';
+    allOptionsEl.textContent = 'All';
     selectElement.appendChild(allOptionsEl);
 
     Object.entries(valueLabelMapper).forEach(([value, label]) => {
@@ -354,13 +354,13 @@ const formatNumberToText = (num) => {
 
     if (absNum >= 1e9) {
         formattedNumber = (num / 1e9).toFixed(1);
-        suffix = 'млрд';
+        suffix = 'bln';
     } else if (absNum >= 1e6) {
         formattedNumber = (num / 1e6).toFixed(1);
-        suffix = 'млн';
+        suffix = 'mln';
     } else if (absNum >= 1e3) {
         formattedNumber = (num / 1e3).toFixed(1);
-        suffix = 'тис';
+        suffix = 'k';
     } else {
         formattedNumber = num.toString();
         suffix = '';
@@ -382,19 +382,19 @@ const updateMetrics = async function (pts){
     pts.forEach(point => {
         const budgetType = point['budget_type'];
 
-        if (budgetType === 'державний') {
+        if (budgetType === 'state') {
             point.payments.forEach(payment => {
                 stateSpent += payment.amount ? payment.amount : 0;
             });
         }
 
-        else if (budgetType === 'місцевий') {
+        else if (budgetType === 'local') {
             point.payments.forEach(payment => {
                 localSpent += payment.amount ? payment.amount : 0;
             });
         }
 
-        else if (budgetType === 'партнери') {
+        else if (budgetType === 'international funds') {
             point.payments.forEach(payment => {
                 partnersSpent += payment.amount ? payment.amount : 0;
             });
@@ -693,13 +693,17 @@ const drilldown = async function (e) {
                     enabled: false
                 }
             }, false);
-            const seriesName = e.point.properties[`ADM${drilldownLevel}_UA`];
+            const seriesName = e.point.properties[`ADM${drilldownLevel}_EN`];
             breadcrumbNames.push(seriesName);
             chart.update({
                 mapView: {
                     projection: {
                         name: 'WebMercator'
                     }
+                },
+                mapNavigation: {
+                    enabled: true,
+                    enableMouseWheelZoom: true,
                 }
             }, false);
         
@@ -736,7 +740,7 @@ const drilldown = async function (e) {
 
         chart.hideLoading(); 
 
-        const seriesName = e.point.properties[`ADM${drilldownLevel}_UA`];
+        const seriesName = e.point.properties[`ADM${drilldownLevel}_EN`];
         breadcrumbNames = [seriesName];
         data = await aggregateByPcode(topoData);
 
@@ -745,7 +749,7 @@ const drilldown = async function (e) {
             data: data,
             dataLabels: {
                 enabled: true,
-                format: `{point.properties.ADM${drilldownLevel+1}_UA}`
+                format: `{point.properties.ADM${drilldownLevel+1}_EN}`
             }
         });
     }
@@ -836,7 +840,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                             data: data,
                             dataLabels: {
                                 enabled: true,
-                                format: `{point.properties.ADM${drilldownLevel+1}_UA}`
+                                format: `{point.properties.ADM${drilldownLevel+1}_EN}`
                             }
                         });
                         this.series[0].setData(data, true);
@@ -851,7 +855,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                             data: data,
                             dataLabels: {
                                 enabled: true,
-                                format: `{point.properties.ADM${drilldownLevel+1}_UA}`
+                                format: `{point.properties.ADM${drilldownLevel+1}_EN}`
                             }
                         });
                         this.series[0].setData(data, true);
@@ -875,10 +879,11 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                             data: data,
                             dataLabels: {
                                 enabled: true,
-                                format: `{point.properties.ADM${drilldownLevel}_UA}`
+                                format: `{point.properties.ADM${drilldownLevel}_EN}`
                             }
                         });
                         this.series[0].setData(data, true);
+                        chart.update({mapNavigation: {enableMouseWheelZoom: false}}, false);
                         chart.update({legend: {enabled: true}}, false);
                     }
                 }
@@ -889,7 +894,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
         },
 
         title: {
-            text: 'Видатки на відбудову України'
+            text: ''
         },
 
         colorAxis: {
@@ -911,11 +916,11 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                     const absValue = Math.abs(this.value);
                     let label;
                     if (absValue >= 1e9) {
-                        label = (this.value / 1e9).toFixed() + 'млрд ';
+                        label = (this.value / 1e9).toFixed() + 'bln ';
                     } else if (absValue >= 1e6) {
-                        label = (this.value / 1e6).toFixed() + 'млн ';
+                        label = (this.value / 1e6).toFixed() + 'mln ';
                     } else if (absValue >= 1e3) {
-                        label = (this.value / 1e3).toFixed() + 'тис ';
+                        label = (this.value / 1e3).toFixed() + 'k ';
                     } else {
                         label = this.value.toString();
                     }
@@ -933,6 +938,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
 
         mapNavigation: {
             enabled: true,
+            enableMouseWheelZoom: false,
             buttonOptions: {
                 verticalAlign: 'bottom'
             }
@@ -963,7 +969,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
             name: 'Ukraine',
             dataLabels: {
                 enabled: true,
-                format: '{point.properties.ADM2_UA}'
+                format: '{point.properties.ADM2_EN}'
             },
             custom: {
                 mapView: {
@@ -1027,14 +1033,14 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
         data: valuesByCategory
     }],
     title: {
-        text: 'Тип видатків',
+        text: 'Type',
         align: 'center'
     },
     tooltip: {
         useHTML: true,
-        pointFormat: `{point.name}: <b>{point.value}</b> гривень`,
+        pointFormat: `{point.name}: <b>{point.value}</b> UAH`,
         formatter: function() {
-            return `${this.point.name}: <b>${formatLegendLabel(this.point.value, true)} грн</b>`;
+            return `${this.point.name}: <b>${formatLegendLabel(this.point.value, true)} UAH</b>`;
         }
     }
     });
@@ -1072,15 +1078,15 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
             }
         },
         tooltip: {
-            valueSuffix: ' грн',
+            valueSuffix: ' UAH',
             xDateFormat: '%b %Y',
             formatter: function() {
-                return `<b>${formatLegendLabel(this.y, true)} грн</b>`;
+                return `<b>${formatLegendLabel(this.y, true)} UAH</b>`;
             }
         },
         colors: ['#ffbd01'],
         title: {
-            text: 'Видатки за період'
+            text: 'Period'
         },
         legend: {
             enabled: false
@@ -1100,7 +1106,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
         }
         },
         title: {
-          text: "Найбільші замовники, грн"
+          text: "Top payers, UAH"
         },
         xAxis: {
           categories: payerCategories,
@@ -1129,7 +1135,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
           }
         },
         tooltip: {
-          valueSuffix: " грн"
+          valueSuffix: " UAH"
         },
         legend: {
           enabled: false
@@ -1145,7 +1151,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
         }
         },
         title: {
-          text: "Найбільші отримувачі, грн"
+          text: "Top recipients, UAH"
         },
         xAxis: {
           categories: receiptCategories,
@@ -1174,7 +1180,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
           },
         },
         tooltip: {
-          valueSuffix: " грн"
+          valueSuffix: " UAH"
         },
         legend: {
           enabled: false
