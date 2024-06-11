@@ -6,9 +6,6 @@ var drilldownLevel = 0;
 var levelData = {};
 var pcode = {};
 
-var en = '_en';
-var country_code = '_EN';
-
 const pointsFull = await fetch(`points.json`).then(response => response.json());
 const response = await fetch('adm-levels/adm1.json');
 const topology = await response.json();
@@ -75,31 +72,29 @@ function addMappointSeries(chart, seriesName, pointsConverted) {
                                 payerCounts[edrpou]++;
                             }
 
-                            log(point)
-
                             let tooltipContent = `
                                 <div class="tooltip-content">
                                     <div class="tooltip-section">
                                         <table>
                                             <tr>
-                                                <th>District:</th>
-                                                <td style="font-weight:500">${point.district_en || ''}</td>
+                                                <th>Район:</th>
+                                                <td style="font-weight:500">${point.district_ua || ''}</td>
                                             </tr>
                                             <tr>
-                                                <th>Hromada:</th>
-                                                <td style="font-weight:500">${point.terhromada_en || ''}</td>
+                                                <th>Громада:</th>
+                                                <td style="font-weight:500">${point.terhromada_ua || ''}</td>
                                             </tr>
                                             <tr>
-                                                <th>Settlement:</th>
-                                                <td style="font-weight:500">${point.settlement_en || ''}</td>
+                                                <th>Населений пункт:</th>
+                                                <td style="font-weight:500">${point.settlement_ua || ''}</td>
                                             </tr>
                                             <tr>
-                                                <th>Address:</th>
+                                                <th>Адреса:</th>
                                                 <td style="font-weight:500">${point.address}</td>
                                             </tr>
                                             <tr>
-                                                <th>Actual:</th>
-                                                <td style="font-weight:500">${point.amount_payments ? point.amount_payments.toLocaleString().replaceAll(',', ' ') + ' UAH' : ''}</td>
+                                                <th>Профінансовано:</th>
+                                                <td style="font-weight:500">${point.amount_payments ? point.amount_payments.toLocaleString().replaceAll(',', ' ') + ' грн' : ''}</td>
                                             </tr>
                                         </table>
                                     </div>
@@ -112,7 +107,7 @@ function addMappointSeries(chart, seriesName, pointsConverted) {
                                                 <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Recipient</th>
                                                 <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Programme</th>
                                                 <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Type</th>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">UAH</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">грн</th>
                                             </tr>
                             `;
 
@@ -195,8 +190,8 @@ const formatLegendLabel = function(value, space=false) {
 };
 
 const mapTooltipFormatter = function(options) {
-    const region = drilldownLevel === 0 ? 'region': drilldownLevel === 1 ? 'district': drilldownLevel === 2? 'hromada': '';
-    return `<b>${options.properties[`ADM${drilldownLevel+1}_EN`]}</b> ${region}<br>Costs: ${options.value.toLocaleString()} UAH`.replaceAll(',', ' ');;
+    const region = drilldownLevel === 0 ? 'область': drilldownLevel === 1 ? 'район': drilldownLevel === 2? 'громада': '';
+    return `<b>${options.properties[`ADM${drilldownLevel+1}_UA`]}</b> ${region}<br>Видатки: ${options.value.toLocaleString()} грн`.replaceAll(',', ' ');;
 };
 
 const initializeDropdownOptions = async function(selectElementId, pts, propertyValueKey, propertyLabelKey, update) {
@@ -218,7 +213,7 @@ const initializeDropdownOptions = async function(selectElementId, pts, propertyV
 
     const allOptionsEl = document.createElement('option');
     allOptionsEl.value = 'all';
-    allOptionsEl.textContent = 'All';
+    allOptionsEl.textContent = 'Всі';
     selectElement.appendChild(allOptionsEl);
 
     Object.entries(valueLabelMapper).forEach(([value, label]) => {
@@ -261,7 +256,7 @@ const initializeNestedDropdownOptions = async function(selectElementId, pts, pro
 
     const allOptionsEl = document.createElement('option');
     allOptionsEl.value = 'all';
-    allOptionsEl.textContent = 'All';
+    allOptionsEl.textContent = 'Всі';
     selectElement.appendChild(allOptionsEl);
 
     Object.entries(valueLabelMapper).forEach(([value, label]) => {
@@ -331,13 +326,13 @@ const formatNumberToText = (num) => {
 
     if (absNum >= 1e9) {
         formattedNumber = (num / 1e9).toFixed(1);
-        suffix = 'bln';
+        suffix = 'млрд';
     } else if (absNum >= 1e6) {
         formattedNumber = (num / 1e6).toFixed(1);
-        suffix = 'mln';
+        suffix = 'млн';
     } else if (absNum >= 1e3) {
         formattedNumber = (num / 1e3).toFixed(1);
-        suffix = 'k';
+        suffix = 'тис';
     } else {
         formattedNumber = num.toString();
         suffix = '';
@@ -675,7 +670,7 @@ const drilldown = async function (e) {
                     enabled: false
                 }
             }, false);
-            const seriesName = e.point.properties[`ADM${drilldownLevel}_EN`];
+            const seriesName = e.point.properties[`ADM${drilldownLevel}_UA`];
             breadcrumbNames.push(seriesName);
             chart.update({
                 mapView: {
@@ -705,165 +700,6 @@ const drilldown = async function (e) {
                 },
                 color: 'rgba(128,128,128,0.3)'
             }, false);
-        
-            // chart.addSeries({
-            //     type: 'mappoint',
-            //     name: seriesName,
-            //     enableMouseTracking: true,
-            //     legend: {
-            //         enabled: false
-            //     },
-            //     states: {
-            //         inactive: {
-            //             enabled: false
-            //         }
-            //     },
-            //     dataLabels: {
-            //         enabled: false,
-            //     },
-            //     tooltip: {
-            //         enabled: false
-            //     },
-            //     data: pointsConverted,
-            //     point: {
-            //         events: {
-            //             click: function () {
-            //                 const point = this;
-        
-            //                 // Enable the tooltip and set HTML options directly
-            //                 chart.tooltip.update({
-            //                     enabled: true,
-            //                     useHTML: true,
-            //                     formatter: function () {
-            //                         const point = this.point;
-        
-            //                         const aggregatedPayments = (point.payments || []).reduce((acc, payment) => {
-            //                             const key = `${payment.payer_edrpou}_${payment.receipt_edrpou}`;
-            //                             if (!acc[key]) {
-            //                                 acc[key] = {
-            //                                     payer_edrpou: payment.payer_edrpou,
-            //                                     payer_name: payment.payer_name,
-            //                                     receipt_edrpou: payment.receipt_edrpou,
-            //                                     receipt_name: payment.receipt_name,
-            //                                     programme_type: point.programme_name,
-            //                                     object_type: point.object_type,
-            //                                     total_amount: 0
-            //                                 };
-            //                             }
-            //                             acc[key].total_amount += payment.amount;
-            //                             return acc;
-            //                         }, {});
-        
-            //                         // Count occurrences of each payer_edrpou
-            //                         const payerCounts = {};
-            //                         for (const key in aggregatedPayments) {
-            //                             const edrpou = aggregatedPayments[key].payer_edrpou;
-            //                             if (!payerCounts[edrpou]) {
-            //                                 payerCounts[edrpou] = 0;
-            //                             }
-            //                             payerCounts[edrpou]++;
-            //                         }
-        
-            //                         let tooltipContent = `
-            //                             <div class="tooltip-content">
-            //                                 <div class="tooltip-section">
-            //                                     <table>
-            //                                         <tr>
-            //                                             <th>District:</th>
-            //                                             <td>${point.district_en || ''}</td>
-            //                                         </tr>
-            //                                         <tr>
-            //                                             <th>Hromada:</th>
-            //                                             <td>${point.terhromada_en || ''}</td>
-            //                                         </tr>
-            //                                         <tr>
-            //                                             <th>Settlement:</th>
-            //                                             <td>${point.settlement_en || ''}</td>
-            //                                         </tr>
-            //                                         <tr>
-            //                                             <th>Address:</th>
-            //                                             <td>${point.street ? point.street + ", " + point.building : ''}</td>
-            //                                         </tr>
-            //                                         <tr>
-            //                                             <th>Plan:</th>
-            //                                             <td>${point.amount_decision ? point.amount_decision.toLocaleString().replaceAll(',', ' ') + ' UAH' : ''}</td>
-            //                                         </tr>
-            //                                         <tr>
-            //                                             <th>Actual:</th>
-            //                                             <td>${point.amount_payments ? point.amount_payments.toLocaleString().replaceAll(',', ' ') + ' UAH' : ''}</td>
-            //                                         </tr>
-            //                                     </table>
-            //                                 </div>
-            //                                 <div class="tooltip-section">
-            //                                     <table style="border-collapse: collapse; width: 100%;">
-            //                                         <tr>
-            //                                             <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Payer ID</th>
-            //                                             <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Payer name</th>
-            //                                             <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Recipient ID</th>
-            //                                             <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Recipient name</th>
-            //                                             <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Programme</th>
-            //                                             <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Type</th>
-            //                                             <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">UAH</th>
-            //                                         </tr>
-            //                         `;
-        
-            //                         let currentPayer = null;
-            //                         for (const key in aggregatedPayments) {
-            //                             const payment = aggregatedPayments[key];
-            //                             if (payment.payer_edrpou !== currentPayer) {
-            //                                 currentPayer = payment.payer_edrpou;
-            //                                 tooltipContent += `
-            //                                     <tr>
-            //                                         <td rowspan="${payerCounts[payment.payer_edrpou]}" style="border: 1px solid #000; padding: 8px;">${payment.payer_edrpou || ''}</td>
-            //                                         <td rowspan="${payerCounts[payment.payer_edrpou]}" style="border: 1px solid #000; padding: 8px;">${payment.payer_name || ''}</td>
-            //                                         <td style="border: 1px solid #000; padding: 8px;">${payment.receipt_edrpou || ''}</td>
-            //                                         <td style="border: 1px solid #000; padding: 8px;">${payment.receipt_name || ''}</td>
-            //                                         <td style="border: 1px solid #000; padding: 8px;">${payment.programme_type || ''}</td>
-            //                                         <td style="border: 1px solid #000; padding: 8px;">${payment.object_type || ''}</td>
-            //                                         <td style="border: 1px solid #000; padding: 8px; white-space: nowrap;">${payment.total_amount.toLocaleString().replaceAll(',', ' ') || ''}</td>
-            //                                     </tr> 
-            //                                 `;
-            //                             } else {
-            //                                 tooltipContent += `
-            //                                     <tr>
-            //                                         <td style="border: 1px solid #000; padding: 8px;">${payment.receipt_edrpou || ''}</td>
-            //                                         <td style="border: 1px solid #000; padding: 8px;">${payment.receipt_name || ''}</td>
-            //                                         <td style="border: 1px solid #000; padding: 8px;">${payment.programme_type || ''}</td>
-            //                                         <td style="border: 1px solid #000; padding: 8px;">${payment.object_type || ''}</td>
-            //                                         <td style="border: 1px solid #000; padding: 8px; white-space: nowrap;">${payment.total_amount.toLocaleString().replaceAll(',', ' ') || ''}</td>
-            //                                     </tr>
-            //                                 `;
-            //                             }
-            //                         }
-        
-            //                         tooltipContent += `
-            //                                     </table>
-            //                                 </div>
-            //                             </div>
-            //                         `;
-        
-            //                         return tooltipContent;
-            //                     }
-            //                 });
-
-            //                 point.series.chart.tooltip.refresh(point);
-            //             },
-            //             mouseOut: function () {
-            //                 chart.tooltip.update({
-            //                     enabled: false
-            //                 });
-            //             }
-            //         }
-            //     }
-            // }, false);
-        
-            // chart.mapView.update({
-            //     projection: {
-            //         name: 'WebMercator'
-            //     },
-            // }, false);
-            // chart.redraw();
-            // chart.hideLoading();
             addMappointSeries(chart, seriesName, pointsConverted);
             return;
         }
@@ -878,7 +714,7 @@ const drilldown = async function (e) {
 
         chart.hideLoading(); 
 
-        const seriesName = e.point.properties[`ADM${drilldownLevel}_EN`];
+        const seriesName = e.point.properties[`ADM${drilldownLevel}_UA`];
         breadcrumbNames = [seriesName];
         data = await aggregateByPcode(topoData);
 
@@ -887,7 +723,7 @@ const drilldown = async function (e) {
             data: data,
             dataLabels: {
                 enabled: true,
-                format: `{point.properties.ADM${drilldownLevel+1}_EN}`
+                format: `{point.properties.ADM${drilldownLevel+1}_UA}`
             }
         });
     }
@@ -1002,7 +838,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                             data: data,
                             dataLabels: {
                                 enabled: true,
-                                format: `{point.properties.ADM${drilldownLevel+1}_EN}`
+                                format: `{point.properties.ADM${drilldownLevel+1}_UA}`
                             }
                         });
                         this.series[0].setData(data, true);
@@ -1017,7 +853,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                             data: data,
                             dataLabels: {
                                 enabled: true,
-                                format: `{point.properties.ADM${drilldownLevel+1}_EN}`
+                                format: `{point.properties.ADM${drilldownLevel+1}_UA}`
                             }
                         });
                         this.series[0].setData(data, true);
@@ -1041,7 +877,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                             data: data,
                             dataLabels: {
                                 enabled: true,
-                                format: `{point.properties.ADM${drilldownLevel}_EN}`
+                                format: `{point.properties.ADM${drilldownLevel}_UA}`
                             }
                         });
                         this.series[0].setData(data, true);
@@ -1128,7 +964,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
             name: 'Ukraine',
             dataLabels: {
                 enabled: true,
-                format: '{point.properties.ADM1_EN}'
+                format: '{point.properties.ADM1_UA}'
             },
             custom: {
                 mapView: {
@@ -1192,14 +1028,14 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
         data: valuesByCategory
     }],
     title: {
-        text: 'Type',
+        text: 'Тип обʼєкта',
         align: 'center'
     },
     tooltip: {
         useHTML: true,
-        pointFormat: `{point.name}: <b>{point.value}</b> UAH`,
+        pointFormat: `{point.name}: <b>{point.value}</b> грн`,
         formatter: function() {
-            return `${this.point.name}: <b>${formatLegendLabel(this.point.value, false)} UAH</b>`;
+            return `${this.point.name}: <b>${formatLegendLabel(this.point.value, false)} грн</b>`;
         }
     }
     });
@@ -1236,15 +1072,15 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
             }
         },
         tooltip: {
-            valueSuffix: ' UAH',
+            valueSuffix: ' грн',
             xDateFormat: '%b %Y',
             formatter: function() {
-                return `<b>${formatLegendLabel(this.y, false)} UAH</b>`;
+                return `<b>${formatLegendLabel(this.y, false)} грн</b>`;
             }
         },
         colors: ['#ffbd01'],
         title: {
-            text: 'Period'
+            text: 'Період'
         },
         legend: {
             enabled: false
@@ -1264,7 +1100,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
         }
         },
         title: {
-          text: "Top payers, UAH"
+          text: "Найбільші замовники, грн"
         },
         xAxis: {
           categories: payerCategories,
@@ -1293,7 +1129,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
           }
         },
         tooltip: {
-          valueSuffix: " UAH"
+          valueSuffix: " грн"
         },
         legend: {
           enabled: false
@@ -1309,7 +1145,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
         }
         },
         title: {
-          text: "Top recipients, UAH"
+          text: "Найбільші отримувачі, грн"
         },
         xAxis: {
           categories: receiptCategories,
@@ -1338,7 +1174,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
           },
         },
         tooltip: {
-          valueSuffix: " UAH"
+          valueSuffix: " грн"
         },
         legend: {
           enabled: false
