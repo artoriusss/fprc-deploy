@@ -9,7 +9,7 @@ var pcode = {};
 var en = '_en';
 var country_code = '_EN';
 
-const pointsFull = await fetch(`points${en}.json`).then(response => response.json());
+const pointsFull = await fetch(`points.json`).then(response => response.json());
 const response = await fetch('adm-levels/adm1.json');
 const topology = await response.json();
 const dataa = Highcharts.geojson(topology);
@@ -75,42 +75,44 @@ function addMappointSeries(chart, seriesName, pointsConverted) {
                                 payerCounts[edrpou]++;
                             }
 
+                            log(point)
+
                             let tooltipContent = `
                                 <div class="tooltip-content">
                                     <div class="tooltip-section">
                                         <table>
                                             <tr>
-                                                <th>Район:</th>
-                                                <td style="font-weight:500">${point.district_ua || ''}</td>
+                                                <th>District:</th>
+                                                <td style="font-weight:500">${point.district_en || ''}</td>
                                             </tr>
                                             <tr>
-                                                <th>Тергромада:</th>
-                                                <td style="font-weight:500">${point.terhromada_ua || ''}</td>
+                                                <th>Hromada:</th>
+                                                <td style="font-weight:500">${point.terhromada_en || ''}</td>
                                             </tr>
                                             <tr>
-                                                <th>Населений Пункт:</th>
-                                                <td style="font-weight:500">${point.settlement_ua || ''}</td>
+                                                <th>Settlement:</th>
+                                                <td style="font-weight:500">${point.settlement_en || ''}</td>
                                             </tr>
                                             <tr>
-                                                <th>Адреса:</th>
+                                                <th>Address:</th>
                                                 <td style="font-weight:500">${point.address}</td>
                                             </tr>
                                             <tr>
-                                                <th>Профінансовано:</th>
-                                                <td style="font-weight:500">${point.amount_payments ? point.amount_payments.toLocaleString().replaceAll(',', ' ') + ' грн' : ''}</td>
+                                                <th>Actual:</th>
+                                                <td style="font-weight:500">${point.amount_payments ? point.amount_payments.toLocaleString().replaceAll(',', ' ') + ' UAH' : ''}</td>
                                             </tr>
                                         </table>
                                     </div>
                                     <div class="tooltip-section">
                                         <table style="border-collapse: collapse; width: 100%;">
                                             <tr>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Платник (ЄДРПОУ)</th>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Платник</th>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Отримувач (ЄДРПОУ)</th>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Отримувач</th>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Програма</th>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Тип</th>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Грн</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Payer (ID)</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Payer</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Receipt (ID)</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Recipient</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Programme</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Type</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">UAH</th>
                                             </tr>
                             `;
 
@@ -595,7 +597,7 @@ const updateCharts = async function (pcode) {
 
 // MAP LOGIC
 const getFilteredMappoints = async function () {
-    let points = await fetch(`points${en}.json`).then(response => response.json());
+    let points = await fetch(`points.json`).then(response => response.json());
     points = await testFilterByCategories();
 
     const maxAmount = Math.max(...points.map(p => p.amount)); 
@@ -622,7 +624,7 @@ const getFilteredMappoints = async function () {
 };
 
 const filterByCategories = async function () {
-    const points = await fetch(`points${en}.json`).then(response => response.json());
+    const points = await fetch(`points.json`).then(response => response.json());
 
     const objectCategory = document.getElementById('obj-category').value;
     const programType = document.getElementById('program-type').value;
@@ -925,7 +927,7 @@ const syncAggregate = function (data) {
 }
 
 const testFilterByCategories = async function (pcode=null) {
-    let points = await fetch(`points${en}.json`).then(response => response.json());
+    let points = await fetch(`points.json`).then(response => response.json());
 
     const objectCategory = document.getElementById('obj-category').value;
     const programType = document.getElementById('program-type').value;
@@ -1046,6 +1048,9 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                         chart.update({legend: {enabled: true}}, false);
                     }
                 }
+            },
+            style: {
+                fontFamily: 'Montserrat, sans-serif'  // Apply custom font here
             }
         },
 
@@ -1167,6 +1172,9 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                 //console.log('tmredraw')
             }
         },
+        style: {
+            fontFamily: 'Montserrat, sans-serif'  // Apply custom font here
+        }
     },
     colorAxis: {
         minColor: '#FFFFFF', 
@@ -1202,7 +1210,10 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
         chart: {
             renderTo: 'container',
             type: 'column',
-            zoomType: 'xy'
+            zoomType: 'xy',
+            style: {
+                fontFamily: 'Montserrat, sans-serif'  // Apply custom font here
+            }
         },
         xAxis: {
             type: 'datetime',
@@ -1247,7 +1258,10 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
     Highcharts.chart('bar-payer', {
         chart: {
           type: "bar",
-          zoomType: "y"
+          zoomType: "y",
+          style: {
+            fontFamily: 'Montserrat, sans-serif'  // Apply custom font here
+        }
         },
         title: {
           text: "Top payers, UAH"
@@ -1289,7 +1303,10 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
     Highcharts.chart('bar-reciept', {
         chart: {
           type: "bar",
-          zoomType: "y"
+          zoomType: "y",
+          style: {
+            fontFamily: 'Montserrat, sans-serif'  // Apply custom font here
+        }
         },
         title: {
           text: "Top recipients, UAH"
