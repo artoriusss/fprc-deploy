@@ -17,7 +17,7 @@ function addMappointSeries(chart, seriesName, pointsConverted) {
         type: 'mappoint',
         name: seriesName,
         enableMouseTracking: true,
-        turboThreshold: 2000,
+        turboThreshold: 5000,
         legend: {
             enabled: false
         },
