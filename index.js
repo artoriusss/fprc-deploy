@@ -17,7 +17,7 @@ function addMappointSeries(chart, seriesName, pointsConverted) {
         type: 'mappoint',
         name: seriesName,
         enableMouseTracking: true,
-        turboThreshold: 2000,
+        turboThreshold: 5000,
         legend: {
             enabled: false
         },
@@ -53,7 +53,7 @@ function addMappointSeries(chart, seriesName, pointsConverted) {
                                         payer_name: payment.payer_name,
                                         receipt_edrpou: payment.receipt_edrpou,
                                         receipt_name: payment.receipt_name,
-                                        programme_type: point.programme_name,
+                                        programme_type: payment.programme_name,
                                         object_type: point.object_type,
                                         total_amount: 0
                                     };
@@ -300,8 +300,8 @@ const initializeNestedDropdownOptions = async function(selectElementId, pts, pro
 };
   
 const initializeAllDropdowns = async function (pts, update = false) {
-    initializeDropdownOptions('program-type', pts, 'kpk', 'programme_name', update);
     initializeDropdownOptions('obj-category', pts, 'object_type', 'object_type', update);
+    initializeNestedDropdownOptions('program-type', pts, 'programme_name', update);
     initializeNestedDropdownOptions('payer-edrpou', pts, 'payer_edrpou', update);
     initializeNestedDropdownOptions('receipt-edrpou', pts, 'receipt_edrpou', update);
     initializeDropdownOptions('budget-type', pts, 'budget_type', 'budget_type', update);
@@ -414,17 +414,18 @@ const updateMetrics = async function (pts){
 // TABLES LOGIC 
 const updateTable = async function (pts) {
     const aggregateData = pts.reduce((acc, point) => {
-        if (!acc[point.programme_name]) {
-            acc[point.programme_name] = {
-                numberOfObjects: 0,
-                totalAmount: 0,
-                totalDecisionAmount: 0 // Initialize total decision amount
-            };
-        }
-        acc[point.programme_name].numberOfObjects += 1;
-        const totalAmount = point.payments.reduce((sum, payment) => sum + payment.amount, 0);
-        acc[point.programme_name].totalAmount += totalAmount;
-        //acc[point.programme_name].totalDecisionAmount += point.amount_decision; // Aggregate decision amount
+        point.payments.forEach(payment => {
+            if (!acc[payment.programme_name]) {
+                acc[payment.programme_name] = {
+                    numberOfObjects: 0,
+                    totalAmount: 0,
+                    totalDecisionAmount: 0 // Initialize total decision amount
+                };
+            }
+            acc[payment.programme_name].numberOfObjects += 1;
+            acc[payment.programme_name].totalAmount += payment.amount;
+            // acc[payment.programme_name].totalDecisionAmount += point.amount_decision; // Aggregate decision amount if needed
+        });
         return acc;
     }, {});
 
@@ -751,7 +752,6 @@ const drilldown = async function (e) {
     }
 };
 
-
 const testFilterByCategories = async function (pcode=null) {
     //log('Filtering by categories!')
     let points = await fetch('points_k.json').then(response => response.json());
@@ -770,7 +770,7 @@ const testFilterByCategories = async function (pcode=null) {
 
     const filteredPoints = points.reduce((acc, point) => {
         const matchesObjectCategory = objectCategory === 'all' || point.object_type === objectCategory;
-        const matchesProgramType = programType === 'all' || point.kpk == programType;
+        //const matchesProgramType = programType === 'all' || point.kpk == programType;
         const matchesBudgetType = budgetType === 'all' || point.budget_type == budgetType;
         //const matchesYear = year === 'all' || point.year == year;
 
@@ -778,19 +778,20 @@ const testFilterByCategories = async function (pcode=null) {
         let amount = 0;
 
         filteredPayments = point.payments.filter(payment => {
+            const matchesProgramType = programType === 'all' || payment.programme_name == programType;
             const matchesPayerEdrpou = payerEdrpou === 'all' || payment.payer_edrpou == payerEdrpou;
             const matchesReceiptEdrpou = receiptEdrpou === 'all' || payment.receipt_edrpou == receiptEdrpou;
             const matchesYear = year === 'all' || new Date(payment.trans_date * 1000).getFullYear() == year;
             //log(new Date(payment.trans_date * 1000).getFullYear())
 
-            if (matchesPayerEdrpou && matchesReceiptEdrpou && matchesYear) {
+            if (matchesPayerEdrpou && matchesReceiptEdrpou && matchesYear && matchesProgramType) {
                 amount += payment.amount;
                 return true;
             }
             return false;
         });
 
-        if (matchesObjectCategory && matchesProgramType && matchesBudgetType && amount > 0) {
+        if (matchesObjectCategory && matchesBudgetType && amount > 0) {
             const filteredPoint = {...point, payments: filteredPayments, amount: amount};
             acc.push(filteredPoint);
         }
