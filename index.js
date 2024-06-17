@@ -394,7 +394,7 @@ const updateMetrics = async function (pts){
             });
         }
 
-        else if (budgetType === 'партнери') {
+        else if (budgetType === 'міжнародні партнери') {
             point.payments.forEach(payment => {
                 partnersSpent += payment.amount ? payment.amount : 0;
             });
