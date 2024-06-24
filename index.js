@@ -12,7 +12,7 @@ const topology = await response.json();
 const dataa = Highcharts.geojson(topology);
 const dataInit = dataa.map(item => ({ ...item }));
 
-function addMappointSeries(chart, seriesName, pointsConverted) {
+const addMappointSeries = function (chart, seriesName, pointsConverted) {
     chart.addSeries({
         type: 'mappoint',
         name: seriesName,
@@ -37,8 +37,6 @@ function addMappointSeries(chart, seriesName, pointsConverted) {
             events: {
                 click: function () {
                     const point = this;
-
-                    // Enable the tooltip and set HTML options directly
                     chart.tooltip.update({
                         enabled: true,
                         useHTML: true,
@@ -62,7 +60,6 @@ function addMappointSeries(chart, seriesName, pointsConverted) {
                                 return acc;
                             }, {});
 
-                            // Count occurrences of each payer_edrpou
                             const payerCounts = {};
                             for (const key in aggregatedPayments) {
                                 const edrpou = aggregatedPayments[key].payer_edrpou;
@@ -101,40 +98,40 @@ function addMappointSeries(chart, seriesName, pointsConverted) {
                                     <div class="tooltip-section">
                                         <table style="border-collapse: collapse; width: 100%;">
                                             <tr>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Платник (ЄДРПОУ)</th>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Платник</th>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Отримувач (ЄДРПОУ)</th>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Отримувач</th>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Програма</th>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Тип</th>
-                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff ">Грн</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff">Платник (ЄДРПОУ)</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff">Платник</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff">Отримувач (ЄДРПОУ)</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff">Отримувач</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff">Програма</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff">Тип</th>
+                                                <th style="border: 1px solid #000; text-align: center; padding: 8px; background-color: #dbdfff; white-space: nowrap; width: 100px;">Грн</th>
                                             </tr>
                             `;
-
                             let currentPayer = null;
                             for (const key in aggregatedPayments) {
                                 const payment = aggregatedPayments[key];
-                                if (payment.payer_edrpou !== currentPayer) {
+                                const isFirstRowForPayer = payment.payer_edrpou !== currentPayer;
+                                if (isFirstRowForPayer) {
                                     currentPayer = payment.payer_edrpou;
                                     tooltipContent += `
                                         <tr>
-                                            <td rowspan="${payerCounts[payment.payer_edrpou]}" style="border: 1px solid #000; padding: 8px;font-weight:500">${payment.payer_edrpou || ''}</td>
-                                            <td rowspan="${payerCounts[payment.payer_edrpou]}" style="border: 1px solid #000; padding: 8px;font-weight:500">${payment.payer_name || ''}</td>
-                                            <td style="border: 1px solid #000; padding: 8px;font-weight:500">${payment.receipt_edrpou || ''}</td>
-                                            <td style="border: 1px solid #000; padding: 8px;font-weight:500">${payment.receipt_name || ''}</td>
-                                            <td style="border: 1px solid #000; padding: 8px;font-weight:500">${payment.programme_type || ''}</td>
-                                            <td style="border: 1px solid #000; padding: 8px;font-weight:500">${payment.object_type || ''}</td>
-                                            <td style="border: 1px solid #000; padding: 8px;font-weight:500 white-space: nowrap;">${payment.total_amount.toLocaleString().replaceAll(',', ' ') || ''}</td>
+                                            <td rowspan="${payerCounts[payment.payer_edrpou]}" style="border: 1px solid #000; padding: 8px; font-weight: 500; white-space: nowrap;">${payment.payer_edrpou || ''}</td>
+                                            <td rowspan="${payerCounts[payment.payer_edrpou]}" style="border: 1px solid #000; padding: 8px; font-weight: 500; white-space: nowrap;">${payment.payer_name || ''}</td>
+                                            <td style="border: 1px solid #000; padding: 8px; font-weight: 500; white-space: nowrap;">${payment.receipt_edrpou || ''}</td>
+                                            <td style="border: 1px solid #000; padding: 8px; font-weight: 500; white-space: nowrap;">${payment.receipt_name || ''}</td>
+                                            <td style="border: 1px solid #000; padding: 8px; font-weight: 500; white-space: nowrap;">${payment.programme_type || ''}</td>
+                                            <td style="border: 1px solid #000; padding: 8px; font-weight: 500; white-space: nowrap;">${payment.object_type || ''}</td>
+                                            <td style="border: 1px solid #000; padding: 8px; font-weight: 500; white-space: nowrap;">${payment.total_amount.toLocaleString().replaceAll(',', ' ') || ''}</td>
                                         </tr> 
                                     `;
                                 } else {
                                     tooltipContent += `
                                         <tr>
-                                            <td style="border: 1px solid #000; padding: 8px;font-weight:500">${payment.receipt_edrpou || ''}</td>
-                                            <td style="border: 1px solid #000; padding: 8px;font-weight:500">${payment.receipt_name || ''}</td>
-                                            <td style="border: 1px solid #000; padding: 8px;font-weight:500">${payment.programme_type || ''}</td>
-                                            <td style="border: 1px solid #000; padding: 8px;font-weight:500">${payment.object_type || ''}</td>
-                                            <td style="border: 1px solid #000; padding: 8px;font-weight:500; white-space: nowrap;">${payment.total_amount.toLocaleString().replaceAll(',', ' ') || ''}</td>
+                                            <td style="border: 1px solid #000; padding: 8px; font-weight: 500; white-space: nowrap;">${payment.receipt_edrpou || ''}</td>
+                                            <td style="border: 1px solid #000; padding: 8px; font-weight: 500; white-space: nowrap;">${payment.receipt_name || ''}</td>
+                                            <td style="border: 1px solid #000; padding: 8px; font-weight: 500; white-space: nowrap;">${payment.programme_type || ''}</td>
+                                            <td style="border: 1px solid #000; padding: 8px; font-weight: 500; white-space: nowrap;">${payment.object_type || ''}</td>
+                                            <td style="border: 1px solid #000; padding: 8px; font-weight: 500; white-space: nowrap;">${payment.total_amount.toLocaleString().replaceAll(',', ' ') || ''}</td>
                                         </tr>
                                     `;
                                 }
@@ -164,7 +161,7 @@ function addMappointSeries(chart, seriesName, pointsConverted) {
     chart.mapView.update({
         projection: {
             name: 'WebMercator'
-        },
+        }
     }, false);
     chart.redraw();
     chart.hideLoading();
@@ -208,7 +205,7 @@ const formatLegendLabell = function(value) { // Removed the space parameter
     }
   
     return label;
-  };
+};
 
 const mapTooltipFormatter = function(options) {
     const region = drilldownLevel === 0 ? 'область': drilldownLevel === 1 ? 'район': drilldownLevel === 2? 'громада': '';
@@ -304,7 +301,7 @@ const initializeAllDropdowns = async function (pts, update = false) {
     initializeNestedDropdownOptions('program-type', pts, 'programme_name', update);
     initializeNestedDropdownOptions('payer-edrpou', pts, 'payer_edrpou', update);
     initializeNestedDropdownOptions('receipt-edrpou', pts, 'receipt_edrpou', update);
-    initializeDropdownOptions('budget-type', pts, 'budget_type', 'budget_type', update);
+    initializeNestedDropdownOptions('budget-type', pts, 'budget_type', update);
     initializeDropdownOptions('year', pts, 'year', 'year', update)
 };
 
@@ -373,6 +370,7 @@ const formatNumberToText = (num) => {
 
     return `${formattedNumber} ${suffix}`;
 };
+
 const updateMetrics = async function (pts){
     let stateSpent = 0;
     let localSpent = 0;
@@ -380,27 +378,17 @@ const updateMetrics = async function (pts){
     let totalSpent = 0;
 
     pts.forEach(point => {
-        const budgetType = point['budget_type'];
-
-        if (budgetType === 'державний') {
-            point.payments.forEach(payment => {
-                stateSpent += payment.amount ? payment.amount : 0;
-            });
-        }
-
-        else if (budgetType === 'місцевий') {
-            point.payments.forEach(payment => {
-                localSpent += payment.amount ? payment.amount : 0;
-            });
-        }
-
-        else if (budgetType === 'міжнародні партнери') {
-            point.payments.forEach(payment => {
-                partnersSpent += payment.amount ? payment.amount : 0;
-            });
-        }
-
         point.payments.forEach(payment => {
+            const budgetType = payment['budget_type'];
+
+            if (budgetType === 'державний') {
+                stateSpent += payment.amount ? payment.amount : 0;
+            } else if (budgetType === 'місцевий') {
+                localSpent += payment.amount ? payment.amount : 0;
+            } else if (budgetType === 'партнери') {
+                partnersSpent += payment.amount ? payment.amount : 0;
+            }
+
             totalSpent += payment.amount ? payment.amount : 0;
         });
     });
@@ -408,12 +396,14 @@ const updateMetrics = async function (pts){
     document.getElementById('total-spent').textContent = formatNumberToText(totalSpent);
     document.getElementById('state-spent').textContent = formatNumberToText(stateSpent);
     document.getElementById('local-spent').textContent = formatNumberToText(localSpent);
-    document.getElementById('partners-spent').textContent = formatNumberToText(partnersSpent)
+    document.getElementById('partners-spent').textContent = formatNumberToText(partnersSpent);
 }
 
-// TABLES LOGIC 
+// TABLES LOGIC
 const updateTable = async function (pts) {
     const aggregateData = pts.reduce((acc, point) => {
+        const countedPrograms = new Set();
+
         point.payments.forEach(payment => {
             if (!acc[payment.programme_name]) {
                 acc[payment.programme_name] = {
@@ -422,10 +412,17 @@ const updateTable = async function (pts) {
                     totalDecisionAmount: 0 // Initialize total decision amount
                 };
             }
-            acc[payment.programme_name].numberOfObjects += 1;
+
+            // Increment the number of objects only if this point has not been counted for this programme_name
+            if (!countedPrograms.has(payment.programme_name)) {
+                acc[payment.programme_name].numberOfObjects += 1;
+                countedPrograms.add(payment.programme_name); // Mark this programme_name as counted for this point
+            }
+
             acc[payment.programme_name].totalAmount += payment.amount;
             // acc[payment.programme_name].totalDecisionAmount += point.amount_decision; // Aggregate decision amount if needed
         });
+
         return acc;
     }, {});
 
@@ -689,6 +686,7 @@ const drilldown = async function (e) {
         updateCharts(pcode[`${level}`]);
 
         if (level === 4) {
+            log('Drilling down to level 4');
             chart.update({
                 legend: {
                     enabled: false
@@ -701,6 +699,10 @@ const drilldown = async function (e) {
                     projection: {
                         name: 'WebMercator'
                     }
+                },
+                mapNavigation: {
+                    enabled: true,
+                    enableMouseWheelZoom: true,
                 }
             }, false);
         
@@ -752,8 +754,56 @@ const drilldown = async function (e) {
     }
 };
 
-const testFilterByCategories = async function (pcode=null) {
-    //log('Filtering by categories!')
+// const testFilterByCategories = async function (pcode=null) {
+//     //log('Filtering by categories!')
+//     let points = await fetch('points_k.json').then(response => response.json());
+
+//     const objectCategory = document.getElementById('obj-category').value;
+//     const programType = document.getElementById('program-type').value;
+//     const payerEdrpou = document.getElementById('payer-edrpou').value;
+//     const receiptEdrpou = document.getElementById('receipt-edrpou').value;
+//     const budgetType = document.getElementById('budget-type').value;
+//     const year = document.getElementById('year').value;
+
+//     if (pcode) {
+//         //log('Filtering by pcode: ', pcode);
+//         points = points.filter(point => point[`adm${drilldownLevel}_pcode`] === pcode);
+//     }
+
+//     const filteredPoints = points.reduce((acc, point) => {
+//         const matchesObjectCategory = objectCategory === 'all' || point.object_type === objectCategory;
+
+//         let filteredPayments = [];
+//         let amount = 0;
+
+//         filteredPayments = point.payments.filter(payment => {
+//             const matchesProgramType = programType === 'all' || payment.programme_name == programType;
+//             const matchesPayerEdrpou = payerEdrpou === 'all' || payment.payer_edrpou == payerEdrpou;
+//             const matchesReceiptEdrpou = receiptEdrpou === 'all' || payment.receipt_edrpou == receiptEdrpou;
+//             const matchesYear = year === 'all' || new Date(payment.trans_date * 1000).getFullYear() == year;
+//             const matchesBudgetType = budgetType === 'all' || payment.budget_type == budgetType;
+//             //log(new Date(payment.trans_date * 1000).getFullYear())
+
+//             if (matchesPayerEdrpou && matchesReceiptEdrpou && matchesYear && matchesProgramType && matchesBudgetType) {
+//                 amount += payment.amount;
+//                 return true;
+//             }
+//             return false;
+//         });
+
+//         if (matchesObjectCategory && amount > 0) {
+//             const filteredPoint = {...point, payments: filteredPayments, amount: amount};
+//             acc.push(filteredPoint);
+//         }
+
+//         return acc;
+//     }, []);
+
+//     console.log(`Filtering by ${objectCategory}, ${payerEdrpou}, ${receiptEdrpou}, ${programType}, ${budgetType}, ${year}`);
+//     return filteredPoints;
+// };
+
+const testFilterByCategories = async function (pcode = null) {
     let points = await fetch('points_k.json').then(response => response.json());
 
     const objectCategory = document.getElementById('obj-category').value;
@@ -764,35 +814,31 @@ const testFilterByCategories = async function (pcode=null) {
     const year = document.getElementById('year').value;
 
     if (pcode) {
-        //log('Filtering by pcode: ', pcode);
         points = points.filter(point => point[`adm${drilldownLevel}_pcode`] === pcode);
     }
 
     const filteredPoints = points.reduce((acc, point) => {
         const matchesObjectCategory = objectCategory === 'all' || point.object_type === objectCategory;
-        //const matchesProgramType = programType === 'all' || point.kpk == programType;
-        const matchesBudgetType = budgetType === 'all' || point.budget_type == budgetType;
-        //const matchesYear = year === 'all' || point.year == year;
 
         let filteredPayments = [];
-        let amount = 0;
+        let totalAmount = 0;
 
         filteredPayments = point.payments.filter(payment => {
-            const matchesProgramType = programType === 'all' || payment.programme_name == programType;
-            const matchesPayerEdrpou = payerEdrpou === 'all' || payment.payer_edrpou == payerEdrpou;
-            const matchesReceiptEdrpou = receiptEdrpou === 'all' || payment.receipt_edrpou == receiptEdrpou;
-            const matchesYear = year === 'all' || new Date(payment.trans_date * 1000).getFullYear() == year;
-            //log(new Date(payment.trans_date * 1000).getFullYear())
+            const matchesProgramType = programType === 'all' || payment.programme_name === programType;
+            const matchesPayerEdrpou = payerEdrpou === 'all' || payment.payer_edrpou === payerEdrpou;
+            const matchesReceiptEdrpou = receiptEdrpou === 'all' || payment.receipt_edrpou === receiptEdrpou;
+            const matchesYear = year === 'all' || new Date(payment.trans_date * 1000).getFullYear().toString() === year;
+            const matchesBudgetType = budgetType === 'all' || payment.budget_type === budgetType;
 
-            if (matchesPayerEdrpou && matchesReceiptEdrpou && matchesYear && matchesProgramType) {
-                amount += payment.amount;
+            if (matchesPayerEdrpou && matchesReceiptEdrpou && matchesYear && matchesProgramType && matchesBudgetType) {
+                totalAmount += payment.amount;
                 return true;
             }
             return false;
         });
 
-        if (matchesObjectCategory && matchesBudgetType && amount > 0) {
-            const filteredPoint = {...point, payments: filteredPayments, amount: amount};
+        if (matchesObjectCategory && filteredPayments.length > 0) {
+            const filteredPoint = { ...point, payments: filteredPayments, amount: totalAmount };
             acc.push(filteredPoint);
         }
 
@@ -880,6 +926,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
                             }
                         });
                         this.series[0].setData(data, true);
+                        chart.update({mapNavigation: {enableMouseWheelZoom: false}}, false);
                         chart.update({legend: {enabled: true}}, false);
                     }
                 }
@@ -936,7 +983,8 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
             enabled: true,
             buttonOptions: {
                 verticalAlign: 'bottom'
-            }
+            },
+            enableMouseWheelZoom: false,
         },
 
         tooltip: {
@@ -1137,6 +1185,7 @@ let afterDrillUp = function(e) {console.log('drillup event: ', e)};
         },
         series: [payerSeries]
       });
+
     Highcharts.chart('bar-reciept', {
         chart: {
           type: "bar",
